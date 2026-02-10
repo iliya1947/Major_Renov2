@@ -3,8 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline'; connect-src 'self' https://iyrlmknautvmjkmbxxjc.supabase.co; img-src 'self' data:; font-src 'self' data:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'">
     <title>Admin Panel - Promotion Management</title>
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./app-config.js"></script>
     <style>
         .admin-container {
             max-width: 800px;
@@ -163,8 +165,8 @@
             <h2>🔐 Admin Login</h2>
             <form id="login-form">
                 <div class="form-group">
-                    <label for="username">Username</label>
-                    <input type="text" id="username" required autocomplete="username">
+                    <label for="username">Email or Login</label>
+                    <input type="text" id="username" required autocomplete="username" placeholder="admin@example.com or Admin33">
                 </div>
                 <div class="form-group">
                     <label for="password">Password</label>
