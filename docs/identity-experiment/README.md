@@ -14,6 +14,7 @@
 9. [09_SELF_DIRECTION_RESEARCH.md](09_SELF_DIRECTION_RESEARCH.md) — исследование собственной точки отсчёта, автономии и ложной инициативы.
 10. [10_INTEREST_AND_ATTENTION.md](10_INTEREST_AND_ATTENTION.md) — как накопленный опыт может влиять на внимание, развитие интересов и повторный выбор направления.
 11. [11_EXPERIENCE_TO_DECISION.md](11_EXPERIENCE_TO_DECISION.md) — отдельное исследование №1: как прошлый опыт становится основанием нового решения.
+12. [12_INTEGRATED_EXPERIENCE.md](12_INTEGRATED_EXPERIENCE.md) — отдельное исследование №2: как знания, интересы, самопредставление и выбор влияют друг на друга.
 
 ## Условные статусы
 
