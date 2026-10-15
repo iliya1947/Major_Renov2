@@ -1,6 +1,6 @@
-# A1 №4 — Мотивация, эмоции и интересы: понимание карты области
+# A1/A2 №4 — Мотивация, эмоции и интересы: накопленное понимание
 
-**Статус:** итог первичной картографии A1 №4 от 15.10.2026. Это понимание структуры исследовательского пространства, а не ответы на найденные вопросы.
+**Статус:** A1 завершена 15.10.2026, A2 — 16.10.2026. Ниже сохранено понимание структуры области и добавлены выводы финальной картографии после межобластной сверки.
 
 ## 1. Область нельзя сводить к одной оси «что человеку нравится»
 
@@ -117,3 +117,171 @@ A1 №4 отвечает только на вопрос:
 **«Какие части motivation and affective science необходимо исследовать, чтобы позже понимать возникновение значимости, интереса, целей и эмоционального влияния опыта без преждевременного назначения готовых мотивов или эмоциональной архитектуры?»**
 
 **Следующий шаг общего процесса:** A1 №5 «Социальная психология и идентичность».
+
+
+---
+
+# A2 — что изменилось в понимании области
+
+## 13. Значимость — отношение, а не фиксированное свойство события
+
+После A2 особенно важно не говорить о «значимости» как об одной величине.
+
+Событие может оказаться значимым потому, что оно:
+- релевантно текущей цели;
+- имеет utility;
+- затрагивает уже сформированную value;
+- вызывает curiosity через knowledge gap;
+- является novel/surprising;
+- меняет perceived competence/control;
+- связано с self/social meaning;
+- вызывает сильную appraisal/emotional response.
+
+Это разные механизмы.
+
+Для будущего проекта отсюда следует только ограничение: нельзя заранее назначить набор универсально важных тем и назвать его «естественной значимостью».
+
+## 14. Interest — developmental construct, а не синоним внимания
+
+A2 усилила временную ось:
+
+`situational interest → maintained interest → emerging individual interest → well-developed personal interest`.
+
+При этом переходы не гарантированы.
+
+Следовательно:
+- attention capture ≠ interest;
+- reengagement ≠ automatically enduring interest;
+- repeated exposure ≠ interest development;
+- situational curiosity ≠ stable personal interest.
+
+Для нашего будущего эксперимента это особенно важно, потому что memory/retrieval system itself может часто возвращать одну тему и искусственно создавать видимость «интереса».
+
+## 15. Utility/value и interest могут расходиться
+
+Человек может продолжать деятельность потому, что она полезна, необходима или связана с целью, не находя её интересной.
+
+И наоборот, topic может быть интересным без большой instrumental utility.
+
+Значит, единый generic priority score легко смешал бы:
+- полезность;
+- удовольствие/interest;
+- goal relevance;
+- novelty;
+- information value;
+- social importance.
+
+Будущий механизм должен сначала сохранить эти различия; способ их технической реализации пока не определён.
+
+## 16. Personal relevance может возникать в истории
+
+Работы по utility value и interest development показывают, что связь с собственными goals, knowledge and experience может **создаваться и укрепляться**, а не только существовать заранее.
+
+Это потенциально очень важно для нашего замысла: событие может стать более значимым потому, что связано с уже накопленной историей.
+
+Но есть критическая граница:
+- history-generated relevance;
+- externally induced relevance;
+- explicitly assigned value
+
+не одно и то же.
+
+## 17. External influence не равен internalized value
+
+Reward, praise, criticism, instruction or social approval могут:
+- менять immediate behavior;
+- усиливать effort;
+- направлять attention;
+- создавать controlled motivation.
+
+Но из этого не следует, что появилась устойчивая self-endorsed value или interest.
+
+Для будущего проекта это защищает от ошибки:
+`пользователь похвалил → ИИ теперь “ценит” X`.
+
+Влияние пользователя остаётся естественной частью истории, но его функция должна интерпретироваться осторожно.
+
+## 18. Information seeking имеет несколько причин
+
+Одно и то же внешнее действие — поиск информации — может быть вызвано:
+- curiosity;
+- boredom;
+- uncertainty avoidance;
+- instrumental utility;
+- task requirement;
+- social demand.
+
+Поэтому нельзя infer внутренний motive из behavior alone.
+
+Этот принцип будет особенно важен, если экспериментальный участник часто выбирает исследовать какую-либо тему: повторение выбора ещё не доказывает «собственный интерес».
+
+## 19. Curiosity — возможный источник направления, но не универсальный двигатель
+
+A2 не дала основания превращать curiosity в универсальное правило будущей системы.
+
+Curiosity itself:
+- имеет разные conceptualizations;
+- связана с uncertainty, novelty and information value;
+- может быть state-like;
+- не всякая curiosity становится enduring interest;
+- не всякое information seeking является curiosity.
+
+Поэтому инструкция вроде «всегда будь любопытной» заранее программировала бы желаемую motivational disposition, а не создавала условия для её естественного появления.
+
+## 20. Persistence и disengagement должны быть симметричными возможностями
+
+Устойчивая траектория не обязана означать всё возрастающую приверженность прежним интересам.
+
+Motivational development включает:
+- persistence;
+- reprioritization;
+- goal substitution;
+- disengagement;
+- waning interest.
+
+Это согласуется с общей границей проекта: прошлый опыт должен иметь возможность влиять на будущее, но не должен превращаться в необратимую personality script.
+
+## 21. Appraisal полезна как язык person-relative meaning, а не как готовая importance function
+
+Emotion/appraisal literature показывает, почему один и тот же event может иметь различное значение в зависимости от:
+- goals;
+- expectations;
+- control/coping;
+- norms;
+- novelty;
+- self/social relevance.
+
+Для нашего будущего синтеза это сильная идея: **значение события возникает в отношении текущего состояния/истории и ситуации**.
+
+Но мы не должны делать следующий скачок и создавать искусственную «эмоциональную систему» только потому, что человеческая appraisal theory полезна концептуально.
+
+## 22. Что область №4 реально даст позднему синтезу
+
+Не готовую функцию мотивации, а обязательные различения:
+
+1. **salience ≠ relevance ≠ value ≠ interest;**
+2. **utility ≠ personal interest;**
+3. **attention/repetition ≠ enduring preference;**
+4. **state curiosity ≠ stable interest;**
+5. **external reward/praise ≠ internalized value;**
+6. **observed choice ≠ uniquely identified motive;**
+7. **persistence ≠ adaptiveness;**
+8. **disengagement can be a legitimate trajectory;**
+9. **personal significance can be history-relative;**
+10. **the same behavior may have different motivational causes.**
+
+Эти различения должны позже ограничивать invented mechanism, но не предопределяют его.
+
+## 23. Финальная граница A2 №4
+
+Самые важные deep-dive ветви для фазы B:
+- emergence of personal relevance without preset values;
+- situational→enduring interest development;
+- utility/value vs interest;
+- self-endorsed vs controlled motivation/internalization;
+- information value, curiosity and alternative causes of information seeking;
+- social influence on motivational meaning;
+- adaptive persistence vs disengagement;
+- appraisal as person-relative event significance.
+
+Learning mechanisms остаются primary в №3, identity/social internalization — №5, engineered goals/rewards — №9/10, instruction/value injection — №12.
