@@ -263,3 +263,29 @@
 198. How does reduced sleep alter acquisition and later stabilization?
 199. Which offline-plasticity findings are robust in humans?
 200. How do circadian phase and sleep pressure complicate interpretation?
+
+## 21. Physiological state, stress and hormonal modulation
+
+201. How do acute and prolonged stress states differently affect plasticity?
+202. What roles glucocorticoids and catecholamines play in memory-related plasticity?
+203. How does timing of physiological stress relative to encoding or retrieval matter?
+204. How do hippocampal, amygdala and prefrontal effects differ?
+205. Under what conditions can stress enhance rather than impair learning?
+206. How do prolonged stress states alter dendritic and structural plasticity?
+207. How do sex and steroid hormones moderate plasticity?
+208. How do inflammatory and metabolic signals alter plasticity?
+209. How should adaptive state changes be distinguished from persistent maladaptive change?
+210. How much human evidence is causal rather than correlational?
+
+## 22. Exercise, metabolism and body–brain modulation
+
+211. Which neuroplastic effects of physical activity are supported in humans?
+212. How do exercise type, intensity and duration alter neural outcomes?
+213. What roles BDNF and other trophic factors plausibly play?
+214. How do vascular and metabolic changes complicate structural or functional imaging claims?
+215. Which effects concern cognition versus general brain health?
+216. How does age moderate exercise-induced plasticity?
+217. How do peripheral signals and inter-organ communication influence brain plasticity?
+218. How durable are experience-related neural changes after an intervention ends?
+219. Which apparent effects may be mediated by sleep, mood or cardiovascular change?
+220. What evidence separates direct neural mechanisms from broad association?
