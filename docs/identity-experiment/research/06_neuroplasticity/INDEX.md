@@ -250,3 +250,16 @@
 188. How does aging affect myelin renewal and learning-related change?
 189. What can human diffusion MRI actually infer about myelin plasticity?
 190. How much evidence remains animal-based?
+
+## 20. Offline processes and memory-related plasticity
+
+191. Which offline brain states support later stabilization or reorganization of experience-dependent changes?
+192. How do slow oscillations, spindles and hippocampal ripples coordinate reactivation?
+193. How does offline replay differ from waking rehearsal?
+194. What is the relation between systems consolidation and synaptic downselection?
+195. How do different sleep stages relate to different memory and plasticity outcomes?
+196. How do offline processes alter emotional versus neutral memories?
+197. Which neuromodulatory states gate offline plasticity?
+198. How does reduced sleep alter acquisition and later stabilization?
+199. Which offline-plasticity findings are robust in humans?
+200. How do circadian phase and sleep pressure complicate interpretation?
