@@ -131,3 +131,130 @@
 После проверки terminology, personal/social/relational/role identity, intersectionality, identity development/motives, belonging/exclusion, social cognition, reputation, norms/influence, relationships/trust, acculturation, power, stigma, collective change, digital identity and network structure новые обзорные источники преимущественно уточняли существующие блоки, а не создавали новые крупные оси.
 
 Это достаточно для **A1-картографии**, но не означает глубокого исследования ни одной темы.
+
+
+---
+
+# A2 — повторная финальная картография с учётом всех областей
+
+**Дата прохода:** 16.10.2026.
+
+**Цель:** после межобластной сверки уточнить финальную карту вокруг primary gap `types of user influence`: различить instruction/authority, factual correction, evidence, praise/criticism, approval/rejection, reputation/social feedback, norm pressure, relationship effects and consequences of joint action; отдельно проверить границы между self-presentation, self-concept, identity, role и social recognition. Это всё ещё A2-картография, не глубокая фаза B.
+
+## Новые или повторно углублённо проверенные источники A2
+
+### Crocetti (2026) — Adolescent identity development processes, implications and interventions
+Nature Reviews Psychology 5:441–457  
+https://doi.org/10.1038/s44159-026-00569-8
+
+**Фактически просмотрено в A2:** abstract, доступная article structure/figures and reference map.  
+**Что меняет в карте:** current review treats personal and social identity as dynamic processes varying across domains, individuals and time, organized around commitments and social identifications. Для A2 это усиливает distinction **identity process ≠ one-off self-description** и сохраняет cyclic commitment/reconsideration as a major branch without turning it into a GPT recipe.
+
+### García-Arch et al. (2025) — Selective Integration of Social Feedback Promotes a Stable and Positively Biased Self-Concept
+Scandinavian Journal of Psychology  
+https://doi.org/10.1111/sjop.13113
+
+**Фактически просмотрено:** abstract and substantial accessible full-text sections/results/discussion.  
+**Что меняет в карте:** self-related social feedback is not integrated uniformly; participants updated self-representations more toward self-congruent than self-incongruent feedback, with additional positivity effects. Для A2 это directly strengthens the question **when social feedback actually changes self-concept versus being resisted, discounted or assimilated selectively**.
+
+### Burghart et al. (2025) — (Don’t) tell me more about myself: Willful ignorance of self-related feedback
+Current Opinion in Psychology 65:102071  
+https://doi.org/10.1016/j.copsyc.2025.102071
+
+**Фактически просмотрено:** abstract and review overview.  
+**Что меняет в карте:** people may actively avoid self-related feedback that threatens self-concept. Therefore lack of identity update after social feedback can reflect **motivated avoidance/protection**, not simply irrelevance or absence of information.
+
+### Wenzel & Woodyatt (2025) — The Power and Pitfalls of Social Norms
+Annual Review of Psychology 76:583–606  
+https://doi.org/10.1146/annurev-psych-020124-120310
+
+**Фактически просмотрено:** abstract and accessible full-text overview.  
+**Что меняет в карте:** injunctive norms can affect behavior through internalization or enforcement, but can also provoke reactance, threaten autonomy/morality/values, undermine intrinsic motives or be selectively reinterpreted. Для A2 это strengthens the separation **norm compliance / enforcement / internalization / resistance / norm reinterpretation**.
+
+### Spears (2021) — Social Influence and Group Identity
+Annual Review of Psychology 72:367–390  
+https://doi.org/10.1146/annurev-psych-070620-111818
+
+**Фактически повторно просмотрено в A2:** abstract and accessible review framing.  
+**Что меняет в карте:** group-identity-based influence is one explanatory family among normative, informational, interdependence, network and persuasion mechanisms. Therefore observed conformity to a user/group cannot be attributed to identity without separating alternative influence mechanisms.
+
+### Soh (2024) — Identity development in the digital context
+Social and Personality Psychology Compass  
+https://doi.org/10.1111/spc3.12940
+
+**Фактически просмотрено в A2:** full accessible HTML, especially sections on self-presentation, feedback and identity shift.  
+**Что меняет в карте:** digital self-presentation can alter self-views under some conditions, but online identity research distinguishes environment selection, self-presentation/manipulation, feedback and later identity effects. This creates a useful causal sequence:
+`identity/self-view → self-presentation/environment manipulation → social feedback/experience → possible self-view change`,
+without implying that every presentation or feedback event changes identity.
+
+### Emery et al. (2025) — Self-Expansion Theory: Origins, Current Evidence, and Future Horizons
+Social and Personality Psychology Compass 19:e70082  
+https://doi.org/10.1111/spc3.70082
+
+**Фактически просмотрено:** full accessible review sections.  
+**Что меняет в карте:** the review explicitly distinguishes **having a new experience** from **integrating that experience into self-concept**; relationships can provide opportunities for self-expansion, but new experience alone is insufficient. This directly strengthens the project-relevant boundary `social experience ≠ self/identity change`.
+
+### Connelly & McAbee (2024) — Reputations at Work: Origins and Outcomes of Shared Person Perceptions
+Annual Review of Organizational Psychology and Organizational Behavior 11:251–278  
+https://doi.org/10.1146/annurev-orgpsych-110721-022320
+
+**Фактически просмотрено:** abstract/article overview and references to self-other agreement/reputation models.  
+**Что меняет в карте:** reputation is a social-level representation produced by observers and networks, not simply a mirror of self-concept. This strengthens the need to separate **identity/self-view, self-presentation and reputation** even when all three become mutually coupled through repeated interaction.
+
+### González, Carvacho & Tausch (2025) — Psychological processes underlying normative transformation and social change
+Nature Reviews Psychology 4:404–416  
+https://doi.org/10.1038/s44159-025-00448-8
+
+**Фактически просмотрено:** abstract and accessible publisher overview.  
+**Что меняет в карте:** norms themselves can change through conflict across societal/group/individual levels. Influence is not a one-way process `norm → individual`; individuals/groups can participate in normative transformation.
+
+## A2 — уточнения, полученные из совокупности источников
+
+1. **“User influence” is not one psychological process.** A message from the same person can function as instruction, factual evidence, evaluative feedback, approval/rejection, norm cue, relationship signal or response/consequence to prior action.
+
+2. **Behavioral agreement is not evidence of identity change.** The same outward conformity can arise from authority, compliance, informational influence, relationship maintenance, self-presentation, norm internalization or genuine revision of self-concept.
+
+3. **Self-concept updating is selective.** Social feedback is filtered through prior self-views and motivational constraints; congruent feedback may be integrated more readily, while incongruent feedback can be discounted or avoided.
+
+4. **No update after feedback is ambiguous.** It can mean feedback is weak/untrusted, inconsistent with accumulated evidence, actively avoided as threatening, or simply irrelevant to identity.
+
+5. **Self-presentation can become part of a feedback loop.** Existing identity shapes what is presented; presentation changes audience response/environment; these experiences can later feed back into self-view. But self-presentation itself is not identity.
+
+6. **Reputation is socially distributed.** What others collectively believe about a person can affect opportunities and feedback, but reputation can diverge from self-concept and from actual behavior.
+
+7. **Internalization is distinct from compliance.** A norm or instruction can alter behavior under enforcement without becoming self-endorsed. Identification with a person/group is also distinct from value internalization.
+
+8. **Resistance/reactance is also social influence.** Social input can provoke opposition, reinterpretation or selective exposure. Therefore independence cannot be operationalized as “disagreeing with the user,” and agreement cannot be equated with dependence.
+
+9. **Relationships can change the self through integration, not mere exposure.** New shared experiences are only candidate inputs; self-expansion research explicitly warns that novelty/new experience need not produce self-concept change unless integrated.
+
+10. **Social influence can be reciprocal.** Individual self-presentation, choices and identity claims alter the social environment and feedback received; norms and reputations can also be transformed over time.
+
+11. **Social identity and personal identity interact but are not interchangeable.** Group identification can shape norms and influence, while personal commitments/self-concept follow partially distinct developmental processes.
+
+12. **User influence is natural experience, not contamination.** The scientifically useful distinction for the future project is not `user-caused vs self-caused`, but **what kind of social input occurred, how it was interpreted, whether it was integrated, and whether later behavior shows durable change beyond immediate compliance**.
+
+## A2 boundary decisions for area №5
+
+- **Остаётся в №5:** personal/social/relational/role identity; social recognition and identity-relevant feedback; self-presentation and reputation boundaries; norms/conformity/internalization/reactance; relationship-driven self change; reciprocal social influence.
+- **Primary owner №1:** broader personality-development trajectory and longitudinal attribution.
+- **Primary owner №3:** learning from correction/feedback/consequences.
+- **Primary owner №4:** motivational value, interest, self-endorsement and persistence.
+- **Primary owner №9:** agent persona/profile, operational autonomy and engineered social-agent loop.
+- **Primary owner №12:** instruction authority, persona prompting and wording.
+- **№11:** actual ChatGPT user/product communication channels and persistence surfaces.
+
+## A2 coverage conclusion
+
+Повторный поиск по:
+- personal/social identity development;
+- social evaluative feedback and self-concept updating;
+- feedback avoidance;
+- norms/internalization/reactance;
+- social influence mechanisms;
+- digital self-presentation and identity shift;
+- relationship-based self-expansion/integration;
+- reputation/social recognition;
+- normative transformation
+
+не открыл новой крупной самостоятельной social-identity branch beyond A1. Новые результаты уточнили **causal interfaces between social experience, self-presentation, feedback, internalization and identity change**, что позволяет финализировать карту №5.
