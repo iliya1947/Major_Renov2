@@ -108,23 +108,24 @@
 4. **Перед переходом в другой чат** актуализировать этот файл: завершённая тема, полученный результат, что остаётся открытым, точный следующий содержательный шаг и нужные ссылки. Если тема не завершена, честно пометить незавершённость. Не рассчитывать, что перенос произойдёт автоматически.
 5. Не делать из числа чатов меру числа «экспериментов», не создавать отдельные пилоты и не тратить контекст на бессмысленные дубли отчётов.
 
-**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1–№4.**
+**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1–№5.**
 
 1. **A1 №1 «Психология развития личности»** — первичная картография; 69 вопросов.
 2. **A1 №2 «Когнитивная психология и память»** — первичная картография; 124 вопроса.
 3. **A1 №3 «Психология обучения и поведения»** — первичная картография; 172 вопроса.
-4. **A1 №4 «Мотивация, эмоции и интересы»** — первичная картография; 262 вопроса в 28 блоках.
+4. **A1 №4 «Мотивация, эмоции и интересы»** — первичная картография; 262 вопроса.
+5. **A1 №5 «Социальная психология и идентичность»** — первичная картография; 292 вопроса в 27 блоках.
 
-По №4 созданы и проверены:
-- `research/04_motivation_emotions_interests/INDEX.md`;
-- `research/04_motivation_emotions_interests/RESEARCH.md`;
-- `research/04_motivation_emotions_interests/UNDERSTANDING.md`.
+По №5 созданы и проверены:
+- `research/05_social_identity/INDEX.md`;
+- `research/05_social_identity/RESEARCH.md`;
+- `research/05_social_identity/UNDERSTANDING.md`.
 
-Карта №4 охватывает needs/drives; expectancy/value/self-efficacy; intrinsic/extrinsic и autonomous/controlled motivation; goals/planning/persistence/disengagement; approach–avoidance/regulatory focus; effort/activation; interest/curiosity/boredom; competing emotion theories; appraisal/components; emotion regulation/dynamics; social/dyadic emotion; development; culture; clinical/maladaptive branches и methodology.
+Карта №5 охватывает personal/social/relational/role identity; multiple/intersectional identities; identity development and motives; self-esteem; belonging/social connection and exclusion; social comparison; person perception/stereotypes; reputation/self-presentation; norms/social influence; intergroup relations; trust/cooperation; close relationships; cultural identity/acculturation; power/status; stigma/identity threat; collective action/normative change; digital identity/social media; social networks and methodology.
 
-**Ни один из 262 вопросов №4 не считается глубоко исследованным или решённым.** В рамках A1 не строился причинный механизм и не проектировались инструкции.
+**Ни один из 292 вопросов №5 не считается глубоко исследованным или решённым.** В рамках A1 не строился причинный механизм и не проектировались инструкции.
 
-**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №5 «Социальная психология и идентичность»**. Сохранять дисциплину A1: картографировать структуру области, направления/школы, споры, методологические проблемы, слепые зоны и вопросы; не переходить к глубокому разбору механизмов.
+**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №6 «Нейробиология и нейропластичность»**. Сохранять дисциплину A1: картографировать структуру области, направления/школы, споры, методологические проблемы, слепые зоны и вопросы; не переходить к глубокому разбору механизмов.
 
 **Жёсткий процесс A1/A2:**
 - A1 каждой области — минимум один отдельный полноценный ответ с реальным исследованием источников;
