@@ -113,3 +113,112 @@
 84. Когда agent should ask for permission versus execute autonomously?
 85. Как tool composition enables capabilities absent from any single tool?
 86. How does tool creation differ from ordinary tool use?
+
+## 9. Memory as an agent subsystem
+
+87. Какие memory taxonomies используются в LLM-agent systems?
+88. Чем short-term/in-trial memory отличается от long-term/cross-trial memory?
+89. Как episodic, semantic, procedural and reflective memory переводятся в engineering constructs?
+90. Что именно является memory item: raw event, summary, fact, trajectory, skill, rule, embedding or graph?
+91. Как memory write policy отличается от retrieval policy?
+92. Как agent decides what not to store?
+93. Как update differs from append-only storage?
+94. Как deletion/forgetting affects future behavior?
+95. Как contradictory memories reconciled?
+96. Как stale memories recognized?
+97. Как memory provenance preserved?
+98. Как confidence/uncertainty attached to memory?
+99. Как memory granularity affects retrieval and abstraction?
+100. Как memory budget changes performance?
+101. Как memory compression trades fidelity for usability?
+102. Как memory systems distinguish observation from interpretation?
+
+## 10. Retrieval and memory use
+
+103. Какие retrieval methods используются: recency, relevance, importance, similarity, graph traversal, learned policies?
+104. Как retrieval ranking affects downstream action?
+105. Как irrelevant but similar memories cause interference?
+106. Как retrieval should handle rare but critical past events?
+107. Как query formulation shapes memory access?
+108. Когда multiple memories should be jointly retrieved?
+109. Как temporal relations preserved during retrieval?
+110. Как retrieval failure differs from memory absence?
+111. Как agent knows retrieved memory is outdated?
+112. Как memory retrieval interacts with current context and plans?
+113. Как retrieval latency/token cost trade against completeness?
+114. Как experience-following behavior can become excessive imitation of retrieved trajectories?
+
+## 11. Memory consolidation, abstraction and experience
+
+115. Как raw trajectories become reusable abstractions?
+116. Чем summarization отличается от semantic abstraction?
+117. Как reflection-generated lessons differ from facts?
+118. Как repeated episodes combined without erasing exceptions?
+119. Как agent should represent both general rule and counterexample?
+120. Что qualifies as cross-trajectory abstraction?
+121. Как prediction error or failure signals can guide consolidation?
+122. Как future utility of a memory estimated without hindsight leakage?
+123. Как consolidation timing affects what is learned?
+124. Как abstraction can introduce hallucinated lessons?
+125. Как high-level experience remains linked to source episodes?
+126. Как reusable procedural knowledge differs from textual advice?
+
+## 12. Reflection, critique and self-correction
+
+127. Что counts as reflection in agent literature?
+128. Чем self-critique отличается от external critique?
+129. Какие feedback sources support reliable correction?
+130. Когда prompted self-correction works and when does it fail?
+131. Как reflection before action differs from reflection after action?
+132. Как retrospective reflection differs from prospective risk analysis?
+133. Как agent distinguishes a genuine lesson from post-hoc rationalization?
+134. Как repeated reflection can amplify an initial false belief?
+135. Как critiques stored and reused across trials?
+136. Как external verifier changes reliability relative to self-evaluation?
+137. Как cost of reflection balanced against benefit?
+138. When should an agent stop reflecting and act?
+
+## 13. Feedback learning and learning from interaction
+
+139. Какие forms feedback agents receive: scalar reward, textual critique, execution result, human correction, environmental state?
+140. Чем adapting future prompts/memory differs from updating model weights?
+141. Как cross-trial feedback alters policy without fine-tuning?
+142. Как interaction histories become training data?
+143. Как reinforcement learning of agents differs from prompt-level feedback adaptation?
+144. Как sparse/delayed rewards complicate credit assignment?
+145. Как agent links outcome to specific earlier decisions?
+146. How does counterfactual feedback differ from observed consequences?
+147. Как noisy or adversarial feedback handled?
+148. Как self-generated feedback differs epistemically from environment feedback?
+149. Какие mechanisms support continual improvement across tasks?
+150. Как avoid overfitting to recent failures or rewards?
+
+## 14. World models and environment models
+
+151. Что counts as a world model in agent research?
+152. Чем explicit symbolic environment model отличается от implicit LLM knowledge?
+153. Как action preconditions and effects represented?
+154. Как agent predicts consequences before acting?
+155. Как learned dynamics model updated after surprises?
+156. Как uncertainty represented in world model?
+157. Как causal model differs from correlation-rich language knowledge?
+158. Как partial observability affects world-model construction?
+159. Как environment model supports planning and verification?
+160. Когда external simulator is preferable to internal prediction?
+161. Как world-model errors propagate into plans?
+162. Как embodied and digital environments differ in world-model requirements?
+
+## 15. Long-horizon state and trajectory management
+
+163. Почему agent performance degrades over long action sequences?
+164. Как error propagation accumulates across steps?
+165. Как checkpoints and subgoal verification reduce drift?
+166. How does working-memory compression affect trajectory consistency?
+167. Как agent recovers after many steps of incorrect state?
+168. Как persistent logs differ from working state?
+169. Как partial completion represented?
+170. Как agent handles interruptions and resumes work?
+171. Как external changes during a long task invalidate previous plans?
+172. Как long-horizon tasks evaluated when intermediate states matter?
+173. Как agent detects looping or repeated unproductive behavior?
+174. How should resources, time and token budgets be tracked as state?
