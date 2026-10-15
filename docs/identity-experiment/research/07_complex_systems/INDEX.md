@@ -250,3 +250,85 @@
 191. How do changing environments turn fixed landscapes into seascapes?
 192. How can agents reshape the landscape through niche construction or environmental modification?
 193. When does optimization language obscure open-ended or multi-objective adaptation?
+
+## 19. Evolvability, open-endedness and the adjacent possible
+
+194. What is evolvability and how is it different from current adaptability?
+195. How can robustness increase rather than reduce future evolvability?
+196. What roles variation-generating mechanisms play in adaptive potential?
+197. How does modularity affect accessible variation?
+198. What is the adjacent possible and how does it differ from a fixed state space?
+199. Can the effective state space itself change during adaptation?
+200. What does open-ended evolution require beyond indefinite novelty?
+201. How do constraints generate rather than only restrict possibilities?
+202. When is increasing complexity actually selected or useful?
+203. How can historical innovations alter the future space of possible innovations?
+
+## 20. Autopoiesis, autonomy, adaptivity and viability
+
+204. What exactly does autopoiesis claim about self-production and organizational closure?
+205. How does operational closure differ from material or informational isolation?
+206. What distinguishes autonomy from mere self-regulation?
+207. What is viability and how is a viability region defined?
+208. How does adaptivity differ from simple persistence?
+209. How can a system act relative to conditions of its own continued organization?
+210. What is structural coupling with an environment?
+211. How does organization-preserving change differ from identity-preserving change?
+212. What empirical predictions does autopoiesis generate?
+213. Why has autopoiesis been difficult to operationalize in mainstream biology?
+214. How do artificial-life models operationalize autonomy and viability?
+215. What evidence would be required before extending these terms to an artificial cognitive system?
+
+## 21. Information theory and information dynamics
+
+216. What kinds of information are relevant: Shannon, algorithmic, semantic, causal, functional?
+217. What does Shannon entropy measure and what does it not measure?
+218. How does mutual information capture dependence without establishing causation?
+219. What are transfer entropy and information flow?
+220. How can distributed information be decomposed into unique, redundant and synergistic components?
+221. What is statistical complexity?
+222. How can information measures quantify organization across scales?
+223. How does predictive information differ from stored information?
+224. When does information-theoretic language add explanatory power versus relabel dynamics?
+225. How can effective networks be inferred from information dynamics?
+226. What are the limits of estimating high-dimensional information quantities from finite data?
+
+## 22. Criticality and self-organized criticality
+
+227. What is a critical point in statistical physics?
+228. What is self-organized criticality and what conditions generate it?
+229. How does SOC differ from ordinary self-organization?
+230. What are scale-free avalanches and power laws?
+231. Why is observing a power law insufficient evidence for SOC?
+232. What does «edge of chaos» mean in different literatures?
+233. Is criticality necessary, beneficial or incidental for adaptive computation?
+234. How do finite-size systems complicate inference of criticality?
+235. How can externally tuned criticality be distinguished from self-organized criticality?
+236. Where have universal claims about SOC exceeded the evidence?
+
+## 23. Synchronization, collective behavior and coordination
+
+237. How does synchronization emerge among coupled oscillators?
+238. How does synchronization differ from consensus?
+239. What are partial synchronization and chimera states?
+240. How do local alignment rules produce flocking or swarming?
+241. What is stigmergy and how does indirect coordination through environment work?
+242. How do quorum-like thresholds alter collective decisions?
+243. How do leaderless systems differ from systems with transient leaders?
+244. How do heterogeneity and noise affect collective coordination?
+245. When does coordination suppress useful diversity?
+246. How do spatial organization and internal-state synchronization interact?
+247. How can collective behavior be robust without centralized control?
+
+## 24. Distributed and decentralized control
+
+248. What distinguishes centralized, decentralized and distributed control?
+249. How do information constraints shape achievable control performance?
+250. What are the trade-offs between global optimality and local autonomy?
+251. How do subsystems coordinate with delayed or incomplete communication?
+252. What is consensus control and where is it too restrictive?
+253. How does event-triggered control differ from continuous coordination?
+254. How can local controllers adapt without destabilizing the whole system?
+255. What forms of decomposition are appropriate for large-scale systems?
+256. How does fault tolerance differ in centralized and distributed architectures?
+257. When can decentralized control itself generate emergent global behavior?
