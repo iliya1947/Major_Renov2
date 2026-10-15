@@ -1,6 +1,6 @@
 # 07 — Кибернетика, сложные системы и самоорганизация: A1 — карта необходимых вопросов
 
-**Статус: A1 В ПРОЦЕССЕ.** Здесь выясняется, какие общесистемные вопросы нужны для понимания адаптации и индивидуальной траектории без заранее заданного результата. Это не архитектура будущего ИИ.
+**Статус: A1 ПЕРВИЧНАЯ КАРТА ГОТОВА.** Финальная доводка будет на глобальном проходе A2 после картографии остальных областей. Здесь выясняется, какие общесистемные вопросы нужны для понимания адаптации и индивидуальной траектории без заранее заданного результата. Это не архитектура будущего ИИ.
 
 ## Что реально сделано
 
@@ -175,7 +175,32 @@
 - parameter fitting vs explanatory mechanism.
 - How to distinguish a post-hoc narrative of emergence from predictive theory?
 
-### C20. Границы области №7
+### C20. Чем адаптация отличается от optimization и как определить viability?
+- global optimum vs local adaptation;
+- satisficing;
+- viability constraints / keeping state within survivable or acceptable region;
+- multiple objectives/trade-offs;
+- adaptation without a single scalar reward;
+- constraints vs goals.
+- Кто задаёт criterion of viability/function?
+- Может ли system dynamically redefine acceptable region without losing identity?
+- Как отличить “выжило” от “адаптировалось хорошо”?
+
+**Почему отдельный блок:** dynamical adaptive-behavior literature формулирует agent–environment coupling через viability constraints; это не тождественно reward maximization.
+
+### C21. Что такое open-endedness и как возникает долговременная novelty?
+- ongoing innovation;
+- expanding/restructuring state or rule space;
+- novelty vs mere random variation;
+- bounded resources vs apparently unbounded novelty;
+- self-modification of rules/representations;
+- maintaining diversity without converging to fixed endpoint;
+- how to measure novelty/complexity without circularity?
+- Is open-endedness necessary for individuality, or only one possible property?
+
+**Граница:** OEE literature mostly concerns evolution/artificial life, not conversational agents. Include as a question, not assumption.
+
+### C22. Границы области №7
 - №1–6: specific human/biological mechanisms.
 - №8: actual GPT dynamics/context/inference.
 - №9: agent architectures.
@@ -205,18 +230,18 @@
 17. Hooker C. 2011. *Philosophy of Complex Systems*, path-dependence/historicity chapter/overview.
 18. Helmich MA et al. 2024. *Slow down and be critical before using early warning signals in psychopathology*. Nature Reviews Psychology. https://doi.org/10.1038/s44159-024-00369-y
 
-## Следующий локальный проход A1
+## Проверка пропусков после второго прохода A1
 
-Проверить possible gaps:
-- adaptation vs optimization vs satisficing;
-- control without fixed goal / viability theory;
-- degeneracy/redundancy;
-- hysteresis/path dependence formal literature;
-- self-organized criticality vs ordinary critical transitions;
-- edge-of-chaos claims — robust field or hype?
-- active inference/FEP — distinct systems family or better left to cognitive/neuroscience/agents?
-- morphological computation/embodiment — relevant here or outside scope;
-- collective intelligence/swarm systems;
-- open-endedness / novelty generation.
+- **Adaptation / optimization / satisficing / viability:** настоящий пробел. Добавлен C20, потому что viable behavior can be framed without global maximization and this matters for systems without one fixed objective.
+- **Degeneracy vs redundancy:** real systems concept; enrich C11–C13. Different structures can produce same function and later enable different responses; no separate top block needed.
+- **Hysteresis/path dependence:** remains C8/C9; formal distinction between attractor basin, lock-in and hysteretic transition will be checked in B.
+- **Self-organized criticality / edge of chaos:** important but disputed/non-universal traditions. Keep as subquestions C10/C15; do not assume optimal adaptation occurs “at the edge of chaos”.
+- **Active inference / Free Energy Principle:** substantial modern theory family with both broad claims and explicit critiques. Include under C3/C4/C17 for future comparison, not as privileged unifying law.
+- **Morphological computation/embodiment:** genuine robotics/biology field, but largely dependent on physical body–environment coupling. Boundary note only; technical relevance later №9/№11.
+- **Collective intelligence/swarm systems:** demonstrates local→global coordination, already C18; deep group intelligence is not central to one conversational AI.
+- **Open-endedness / novelty:** настоящий отдельный пробел; added C21. Artificial Life literature itself lacks universally accepted definition and warns finite systems can satisfy weak definitions trivially.
 
-После этого решить, достаточно ли C1–C20 для A1.
+**Вывод:** after adding viability (C20) and open-endedness (C21), working map C1–C22 is sufficient for first global A1. Final relevance and formal rigor will be audited at A2.
+
+## Следующий шаг
+Перейти к **A1 области №8 — «GPT/LLM: архитектура и поведение»**.
