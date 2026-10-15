@@ -72,3 +72,40 @@ Need only test map completeness:
 - lesion/recovery plasticity;
 - metabolic/energetic constraints;
 - large-scale network change vs transient brain state.
+
+
+## 15.10.2026 — второй проход A1: проверка возможных пропусков
+
+### Adult neurogenesis
+Nature Reviews Neuroscience review on adult hippocampal neurogenesis links adult-born neurons to candidate memory functions such as pattern separation, but explicitly notes that precise functions remain unsettled.
+
+**Для карты:** include as one cellular/circuit form N1/N15; do not make “new neurons = learning mechanism” assumption.
+
+### Glia and myelin
+2026 astrocyte review describes context-dependent astrocyte molecular/structural/circuit plasticity traditionally attributed only to neurons. Osso & Hughes (2024) shows mature myelin is dynamically remodeled by activity, experience and injury.
+
+**Для карты:** brain plasticity is not neuron/synapse-only; N1/N10/N15.
+
+### Neuroepigenetics
+Epigenetic reviews connect activity-dependent chromatin/gene-expression regulation to persistent plasticity and memory while leaving open what level actually stores information.
+
+**Для карты:** N15 molecular persistence layer; not a separate memory theory.
+
+### Hormones / puberty / sex
+Laube et al. (2020), Been et al. (2022) and recent reviews show hormonal state can regulate plasticity differently across developmental stage, sex and circuit.
+
+**Для карты:** N13/N16 must treat biological state as a gate on capacity for change.
+
+### Maladaptive plasticity and compensation
+Chronic-pain literature documents long-lasting structural/functional reorganization that may be maladaptive; lesion/recovery literature shows remapping can also be compensatory.
+
+**Для карты:** plasticity is value-neutral: persistence/change does not imply improvement. Use pathology/recovery as contrast to causal theories.
+
+### Metabolic constraints
+Karbowski (2019) quantifies energy costs of synaptic learning/memory; 2026 brain-vs-machine discussion frames durable “writes” as potential throughput constraints.
+
+**Для карты:** add resource/energy constraints to N4/N15, but do not elevate a still-limited evidence base into a universal learning mechanism.
+
+## Итог A1 области №6
+
+N1–N18 cover the major levels, timescales, stability mechanisms, allocation, systems interaction, development, state gating and causal-method problems. No additional top-level block was required. Final biological relevance and cross-area boundaries remain for A2.
