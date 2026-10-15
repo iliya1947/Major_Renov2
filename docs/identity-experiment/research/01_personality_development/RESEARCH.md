@@ -95,3 +95,73 @@ Mischel формулирует классическую проблему: уст
 - интегративные handbooks / meta-frameworks, не принадлежащие доминирующей trait-development линии.
 
 Если эти ветви окажутся второстепенными или дублирующими, они не должны искусственно раздувать INDEX.
+
+
+## 15.10.2026 — второй проход: проверка возможных пропусков
+
+### Idiographic / person-specific methods — ПРОБЕЛ ПОДТВЕРЖДЁН
+Источники:
+- Kuper et al. 2021, full web text/abstract: https://doi.org/10.1111/bjop.12486
+- Cervone 2005, *Personality Architecture: Within-Person Structures and Processes*: https://doi.org/10.1146/annurev.psych.56.091103.070133
+- Beck & Jackson 2021, *Network approaches to representing and understanding personality dynamics*: https://doi.org/10.1016/B978-0-12-819200-9.00003-X
+- Neubauer & Schmiedek 2020, intensive longitudinal methods: https://doi.org/10.1159/000507993
+- Annual Review 2026, *Intensive Longitudinal Methods: Toward a Psychological Science of Daily Life*: https://doi.org/10.1146/annurev-psych-040325-025418
+
+Карта поля явно различает **nomothetic** (межличностные закономерности) и **idiographic/person-specific** (динамика конкретного человека) подходы. Современные intensive-longitudinal методы рассматриваются как способ изучать краткосрочные внутриличностные процессы, их гетерогенность и связь с долгосрочным развитием.
+
+**Вывод только для фазы A:** методологический блок A12 должен содержать отдельную ветвь «как исследовать конкретную индивидуальную траекторию, а не среднюю закономерность группы». Это не просто техническая статистическая деталь.
+
+### Attachment / relational approaches — РЕЛЕВАНТНАЯ СОСЕДНЯЯ ВЕТВЬ
+Источник: Fraley 2019, *Attachment in Adulthood: Recent Developments, Emerging Debates, and Future Directions*: https://doi.org/10.1146/annurev-psych-010418-102813
+
+Attachment research имеет собственные вопросы о continuity/change, close relationships и изменении внутренних working models. Cambridge Handbook of Personality Psychology (2020) выделяет attachment отдельной главой рядом с lifespan personality development.
+
+**Решение для карты:** не делать attachment отдельным главным блоком области №1; включить в A9/отношения и пометить как ветвь, которую нужно будет сверить с областью №5 «социальная психология и идентичность». В фазе B брать только то, что объясняет формирование устойчивой индивидуальной организации через отношения.
+
+### Self-concept / self-system — ПРОБЕЛ ПОДТВЕРЖДЁН, НО ОБЪЕДИНЯЕТСЯ С IDENTITY
+Источник: Crone et al. 2022, *A Neurocognitive Model of Self-Concept Development in Adolescence*: https://doi.org/10.1146/annurev-devpsych-120920-023842
+
+Self-concept имеет отдельную developmental literature: self-evaluation, social comparison, perspective taking, влияние раннего опыта и среды.
+
+**Решение для карты:** не создавать новый независимый блок; расширить A8 «identity/narrative» до «self-concept, identity, narrative self» и в фазе B сначала развести эти понятия.
+
+### Normative vs pathological development — ПОЛЕЗНО КАК ГРАНИЧНАЯ ПРОВЕРКА
+Источник: Hallquist & Tackett 2026, *Adolescent Personality Pathology and the Development of Identity, Relationships, and Civic Engagement*: https://doi.org/10.1146/annurev-devpsych-111124-031623
+
+Обзор предлагает рассматривать maladaptive trajectories через те же широкие developmental процессы: identity, relationships, social roles, person–environment transactions.
+
+**Решение для карты:** personality pathology не превращать в отдельную основную тему; использовать позже как **контрастный случай**, проверяющий, одинаковы ли общие механизмы устойчивого развития для адаптивных и maladaptive траекторий.
+
+### Humanistic / self-determination — СОВРЕМЕННАЯ ЛИНИЯ ЖИВА, НО ЛУЧШЕ ВНУТРИ МОТИВАЦИИ/АГЕНТНОСТИ
+Источники:
+- Sheldon & Prentice 2019, *Self-determination theory as a foundation for personality researchers*: https://doi.org/10.1111/jopy.12360
+- Koole et al. 2019, *Becoming who you are*: https://doi.org/10.1111/jopy.12380
+- Ryan, Soenens & Vansteenkiste 2019: https://doi.org/10.1111/jopy.12440
+
+SDT прямо позиционируется как framework for personality/motivation; современная работа связывает humanistic roots с self-regulation, internalization, goals и social support.
+
+**Решение для карты:** не создавать абстрактный блок «гуманистическая психология». Включить SDT/PSI как теоретические семейства в A7/A13 и позже проверить их именно по вопросам происхождения целей, автономной регуляции и интеграции опыта.
+
+### Psychodynamic — НЕ ВЫЯВЛЕНО КАК НЕОБХОДИМОЕ ЯДРО ТЕКУЩЕЙ КАРТЫ
+Поиск на этом проходе дал главным образом клинические/psychotherapy-источники, тогда как современные широкие meta-overviews personality science не выделяют psychodynamic developmental theory как обязательный самостоятельный блок для нашей задачи.
+
+**Решение:** не включать ради исторической полноты. Вернуться только если другая область или независимый meta-review покажет уникальный механизм, отсутствующий в текущей карте.
+
+### Независимая структурная проверка: Cambridge Handbook (2020)
+Источник: *The Cambridge Handbook of Personality Psychology*, структура и глава *Development of Personality across the Life Span*: https://www.cambridge.org/core/books/abs/cambridge-handbook-of-personality-psychology/development-of-personality-across-the-life-span/92FE90D0B4C5410A81A9519220A1E5D0
+
+Handbook отдельно организует поле по foundational approaches, description/measurement, lifespan development/change, biological perspectives, cognitive/motivational perspectives, social/cultural processes и applications. В summary главы по lifespan development отмечен спор о роли biological maturation, social-role transitions и self-initiated change.
+
+**Значение:** текущая карта A1–A14 покрывает основные семейства этой независимой структуры; явный методологический пробел (idiographic dynamics) уже добавлен отдельным источниковым проходом.
+
+## Состояние после двух проходов
+
+Крупных новых блоков, требующих раздувания карты сверх A1–A14, второй проход не обнаружил. Вместо этого он уточнил границы:
+- idiographic methods усиливают A12;
+- attachment входит в A9/№5;
+- self-concept входит в A8;
+- pathology — будущая contrast check;
+- SDT/PSI входят в A7/A13;
+- psychodynamic не включать без дополнительного основания.
+
+**Оставшийся шаг перед локальным завершением фазы A №1:** провести один coverage audit по текущим A1–A14: для каждого блока проверить наличие хотя бы двух независимых обзорных оснований либо явно пометить блок как гипотезу карты; затем сократить дубли и определить, какие вопросы переносятся в соседние 11 областей.
