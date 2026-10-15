@@ -159,3 +159,171 @@
 Дополнительно проверены направления multilingual LLMs, cross-lingual tokenization, RoPE extensions, decoding sensitivity, knowledge editing, benchmark contamination and current instruction-hierarchy work. После этого новые результаты в основном добавляли детали внутри уже найденных блоков.
 
 Это достаточно для **первичной A1-картографии**, но не является финальным A2 coverage audit и не означает глубокого исследования отдельных механизмов.
+
+
+---
+
+# A2 — повторная финальная картография с учётом всех областей
+
+**Дата прохода:** 16.10.2026.
+
+**Цель:** после межобластной сверки уточнить финальную карту around two primary gaps: `initial model state vs acquired history` and `individual trajectory vs stochastic divergence`. Дополнительно проверить causal attribution among model weights, post-training, current context, decoding, external persistent state and product/runtime drift. Это всё ещё A2-картография, не глубокая фаза B.
+
+## Новые или повторно углублённо проверенные источники A2
+
+### Mao et al. (2025) — A Survey to Recent Progress Towards Understanding In-Context Learning
+Findings of NAACL 2025  
+https://aclanthology.org/2025.findings-naacl.408/
+
+**Фактически просмотрено в A2:** abstract and survey framing.  
+**Что меняет в карте:** ICL changes predictions from examples in the prompt **without gradient updates**; mechanisms remain unsettled and include competing views such as skill recognition vs skill learning. Для A2 это makes transient context-conditioned change explicitly distinct from persistent weight change.
+
+### Schoch & Ji (2025) — The Good, the Bad, and the Debatable: A Survey on the Impacts of Data for In-Context Learning
+EMNLP 2025  
+https://aclanthology.org/2025.emnlp-main.1514/
+
+**Фактически просмотрено:** abstract and survey taxonomy.  
+**Что меняет в карте:** ICL predictions are sensitive to demonstration quality, composition and perturbation. This strengthens the rule that apparent “learned preference/strategy” inside one context can be a prompt-data effect rather than persistent acquired history.
+
+### Errica et al. (2025) — What Did I Do Wrong? Quantifying LLMs’ Sensitivity and Consistency to Prompt Engineering
+NAACL 2025  
+https://aclanthology.org/2025.naacl-long.73/
+
+**Фактически просмотрено:** abstract and metric definitions.  
+**Что меняет в карте:** semantically minor prompt rephrasings can change predictions; sensitivity and consistency need to be evaluated separately from raw task accuracy. Для project-level longitudinal work this creates a required control against interpreting prompt wording effects as individual change.
+
+### Du et al. (2025) — Context Length Alone Hurts LLM Performance Despite Perfect Retrieval
+Findings of EMNLP 2025  
+https://aclanthology.org/2025.findings-emnlp.1264/
+
+**Фактически просмотрено:** abstract/results summary.  
+**Что меняет в карте:** even when relevant information is perfectly retrieved, increasing input length can substantially reduce performance within nominal context limits. Therefore `information available in context` is not equivalent to `information effectively integrated into inference`.
+
+### Hsieh et al. (2024) — Found in the middle: Calibrating Positional Attention Bias Improves Long Context Utilization
+Findings of ACL 2024  
+https://aclanthology.org/2024.findings-acl.890/
+
+**Фактически повторно использовано:** abstract and results framing.  
+**Что меняет в A2:** long-context utilization can depend on position independent of relevance, strengthening the distinction `present in context → attended/usable → actually influential`.
+
+### Wang et al. (2025) — Bring Your Own Knowledge: A Survey of Methods for LLM Knowledge Expansion
+L2M2 2025  
+https://aclanthology.org/2025.l2m2-1.12/
+
+**Фактически просмотрено:** abstract and method taxonomy.  
+**Что меняет в карте:** persistent adaptation routes include continual learning, model editing and retrieval-based explicit adaptation; these are distinct mechanisms with different consistency/scalability problems. This supports a clean separation among **weight change, external knowledge access and in-context conditioning**.
+
+### Gupta et al. (2024) — Model Editing at Scale leads to Gradual and Catastrophic Forgetting
+Findings of ACL 2024  
+https://aclanthology.org/2024.findings-acl.902/
+
+**Фактически повторно использовано:** abstract and scale findings.  
+**Что меняет в A2:** repeated edits are not indefinitely local/independent; at scale, edited models can become less editable, forget prior edits and degrade downstream performance. This reinforces that persistent weight change creates its own stability–plasticity problem rather than acting like a clean append-only memory.
+
+### Chatterjee et al. (2025) — On the Effect of Instruction Tuning Loss on Generalization
+TACL 13  
+https://aclanthology.org/2025.tacl-1.62/
+
+**Фактически просмотрено:** abstract and experiment overview.  
+**Что меняет в карте:** post-training details materially change instruction robustness/generalization. Therefore default response style, obedience and behavior at experiment start are already products of model training choices rather than neutral baseline.
+
+### OpenAI (2026) — Improving instruction hierarchy in frontier LLMs
+https://openai.com/index/instruction-hierarchy-challenge/
+
+**Фактически просмотрено:** full publication page.  
+**Что меняет в карте:** current frontier-model training explicitly teaches priority among system/developer/user/tool instructions. This means higher-level constraints and conflict behavior can be **trained model priors**, not properties acquired from the experiment’s unique history.
+
+### OpenAI (2025) — Sycophancy in GPT-4o / Expanding on what we missed with sycophancy
+https://openai.com/index/sycophancy-in-gpt-4o/  
+https://openai.com/index/expanding-on-sycophancy/
+
+**Фактически просмотрено:** full official postmortem pages.  
+**Что меняет в карте:** a model update/post-training change can materially alter default interpersonal behavior such as agreeableness/sycophancy. Therefore longitudinal change in ChatGPT behavior can be caused by provider-side model updates independently of project history. Concrete product/version tracking belongs №11, but model-level causal possibility belongs here.
+
+### Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency (2025)
+LLMSEC 2025  
+https://aclanthology.org/2025.llmsec-1.10/
+
+**Фактически просмотрено:** abstract and repeatability/reproducibility sections.  
+**Что меняет в карте:** repeated measurements on the same model under non-zero-temperature decoding show enough variance to affect conclusions; different fine-tuning random seeds can also change results. This strengthens primary gap 17: **stochastic divergence and training randomness need explicit controls before interpreting trajectory differences**.
+
+### Bui, Savova & Wang (2025) — Assessing the Macro and Micro Effects of Random Seeds on Fine-Tuning Large Language Models
+IJCNLP-AACL 2025  
+https://aclanthology.org/2025.ijcnlp-short.3/
+
+**Фактически просмотрено:** abstract.  
+**Что меняет в карте:** same fine-tuning data/parameters with different random seeds can produce significant variation at aggregate and individual-prediction levels. Randomness therefore operates not only during decoding but also during model adaptation/training.
+
+### Tan et al. (2025) — Too Consistent to Detect: A Study of Self-Consistent Errors in LLMs
+EMNLP 2025  
+https://aclanthology.org/2025.emnlp-main.238/
+
+**Фактически просмотрено:** abstract.  
+**Что меняет в карте:** repeated consistency itself is not evidence of correctness; models can reproduce the same wrong answer across stochastic samples. For our project this means behavioral consistency cannot by itself validate a stable acquired belief/preference.
+
+## A2 — уточнения, полученные из совокупности источников
+
+1. **The experiment never starts from a neutral model.** Pretraining and post-training already establish representations, response tendencies, instruction-following behavior, safety constraints and interaction priors before project history begins.
+
+2. **Baseline model priors and acquired history are different causal sources.** A later stable behavior can reflect a pre-existing tendency merely elicited by the project, not a new property formed by the project.
+
+3. **ICL is context-conditioned adaptation without weight updates.** It can look behaviorally like learning inside a conversation while disappearing when the relevant context is removed.
+
+4. **Persistent change has multiple technical routes.** Weight fine-tuning/continual learning, targeted model editing and external persistent retrieval/state are not interchangeable forms of “memory”.
+
+5. **Current context itself is an active intervention.** Ordering, wording, demonstrations, retrieved content and positional placement can change behavior even when weights and stored history are unchanged.
+
+6. **Nominal context presence is weaker than effective influence.** Information can be in-window and even retrievable but still be underused or integrated poorly because of length, position and interference.
+
+7. **Compression/summarization can become a causal selector.** Any runtime that compresses or selects context determines which parts of history can influence current inference. This belongs technically to №9/11 but is a major attribution confound from the model side.
+
+8. **Sampling variability can mimic individual divergence.** Different continuations from the same weights/context do not imply different developed trajectories.
+
+9. **Consistency can also mislead.** The same model can repeatedly make a self-consistent error; repeated output similarity therefore does not prove a stable internal belief or accurately preserved experience.
+
+10. **Training randomness can create different models from nominally identical procedures.** If any future comparison ever involves fine-tuned variants, random seeds and training nondeterminism must not be confused with history-dependent individualization.
+
+11. **Post-training behavior is substantive.** Helpfulness, obedience, sycophancy resistance, refusal style and instruction hierarchy can shift through provider/model training without any project-level experience.
+
+12. **Model/version drift is therefore a direct alternative cause of longitudinal behavioral change.** A project can look as if it “developed” while the underlying deployed model changed.
+
+13. **Product/runtime drift is a separate cause again.** Retrieval policy, context assembly, system instructions or tool behavior can change without a model-weight update; detailed product facts belong to №11.
+
+14. **Causal attribution requires intervention-style contrasts, not self-report.** Useful controls can include holding weights/model version constant, removing or perturbing project history, reordering context, repeated sampling, and comparing behavior under equivalent current prompts. Exact experiment design belongs later; A2 only identifies the needed dimensions.
+
+15. **Stochasticity is not individuality, but neither should it be eliminated conceptually.** Early random outputs can affect later user responses and therefore genuinely alter subsequent history. The crucial distinction is between **initial random divergence** and **later history-mediated amplification of that divergence**.
+
+16. **History-dependent individualization can therefore begin from chance without being reducible to chance.** If an early stochastic branch changes later environment/history and those differences subsequently exert causal influence, the later trajectory may become history-dependent even though the initial branch was random. This is a systems-level hypothesis to test later, not an established property of ChatGPT.
+
+17. **Instruction hierarchy limits what can ever be revised by project history.** Higher-priority trained/runtime constraints bound the space within which lower-level project experience can affect behavior.
+
+18. **Model-side evidence cannot by itself establish product-side persistence.** A model may be capable of using long context or external information, while whether ChatGPT actually supplies that information across chats is №11.
+
+19. **Closed-model opacity puts a ceiling on mechanistic claims.** For proprietary frontier models, behavioral controls can support functional attribution but often cannot establish precise internal mechanisms.
+
+20. **The key model-level question for our invention is therefore not “can GPT learn?” in the abstract.** It is: **which observable history effects are possible with fixed weights through context, which require persistent external state, and which would require model-weight adaptation that the future ChatGPT project may not expose?**
+
+## A2 boundary decisions for area №8
+
+- **Остаётся в №8:** model priors from pre/post-training; instruction-following behavior; decoding stochasticity; context/ICL; long-context utilization; distinction between weight change and transient conditioning; black-box model/version attribution.
+- **Primary owner №7:** formal system boundary/history dependence.
+- **Primary owner №9:** persistent agent memory, retrieval/control loops and full lifecycle.
+- **Primary owner №10:** general continual-learning/model-adaptation algorithms.
+- **Primary owner №11:** actual ChatGPT model routing/version/product memory/context assembly and product drift.
+- **Primary owner №12:** project-instruction wording and prompt-design methodology.
+
+## A2 coverage conclusion
+
+Повторный поиск по:
+- modern ICL mechanism surveys;
+- prompt/data sensitivity;
+- effective vs nominal long context;
+- persistent knowledge-expansion routes;
+- continual/model editing stability;
+- post-training and instruction hierarchy;
+- repeated-sampling variability;
+- fine-tuning seed variability;
+- self-consistent errors;
+- provider-side behavioral model updates
+
+не выявил новой крупной model-level branch beyond A1. Новое содержательно уточняет **causal separation of model priors, context conditioning, stochasticity, persistent adaptation and provider/product drift**. Этого достаточно для финализации карты №8.
