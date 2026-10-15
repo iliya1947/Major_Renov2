@@ -222,3 +222,123 @@
 172. Как long-horizon tasks evaluated when intermediate states matter?
 173. Как agent detects looping or repeated unproductive behavior?
 174. How should resources, time and token budgets be tracked as state?
+
+## 16. Profiles, personas, roles and persistent agent identity
+
+175. Что означает profile module in LLM-agent literature?
+176. Чем role prompt отличается от persistent identity state?
+177. Как handcrafted persona affects planning/action independently of memory?
+178. Как dynamically generated profiles differ from designer-authored profiles?
+179. Как role consistency is measured across long interactions?
+180. Как profile information can bias retrieval, planning and interpretation?
+181. Чем task role (“coder”, “reviewer”) отличается от personality persona?
+182. Как multiple roles switched or combined?
+183. Как agent identity differs from user model?
+184. Как social role in multi-agent system differs from internal self-model?
+185. Какие risks arise when profile attributes are treated as fixed ground truth?
+186. Какие вопросы profile/persona research belong to area №5 rather than agent architecture?
+
+## 17. Metacognition and control of cognition
+
+187. Что counts as metacognition in computational agents?
+188. Как monitoring differs from control?
+189. Как agent estimates whether its current plan/reasoning is adequate?
+190. Как confidence influences strategy switching?
+191. Как metareasoning decides whether more computation is worth the cost?
+192. Как agent chooses among planning, acting, retrieval and asking for help?
+193. Как error detection differs from error correction?
+194. Как metacognitive state stored across steps?
+195. Какие architectures explicitly model metacognitive processes?
+196. Как self-report of uncertainty differs from actual controller behavior?
+197. Как metacognitive failures cause perseveration or premature stopping?
+198. What evidence distinguishes real control adaptation from extra prompting?
+
+## 18. Cognitive architectures as a separate tradition
+
+199. What defines a cognitive architecture rather than an application architecture?
+200. What goals distinguish cognitive modeling from engineering-oriented agent frameworks?
+201. Какие core capabilities recur across ACT-R, Soar, CLARION, LIDA, Sigma and related systems?
+202. How do architectures differ in representation: symbolic, emergent/subsymbolic and hybrid?
+203. Как perception, attention, memory, learning, reasoning, action selection and metareasoning integrated?
+204. What is a cognitive cycle and which architectures use cycle-like organization?
+205. How do cognitive architectures represent goals?
+206. How do they distinguish declarative and procedural knowledge?
+207. How do learning mechanisms differ across architectures?
+208. How do motivational or metacognitive modules enter some architectures?
+209. Which architectures aim to model human cognition versus build general intelligent systems?
+210. How should evidence from human-modeling architectures transfer to LLM agents?
+
+## 19. ACT-R, Soar, CLARION, LIDA, Sigma and architectural comparison
+
+211. What are ACT-R’s major modules and buffers?
+212. How does ACT-R procedural learning differ from Soar chunking?
+213. How does Soar integrate problem spaces, impasses, learning and episodic/semantic memory?
+214. What explicit–implicit distinction is central to CLARION?
+215. How does LIDA’s cognitive cycle organize perception, workspace, action selection and learning?
+216. What is Sigma’s attempt at architectural unification?
+217. Where do these architectures agree on a “standard model” of cognition?
+218. Where do they disagree fundamentally?
+219. How much of their evidence comes from human task modeling versus autonomous applications?
+220. Which architectural ideas remain relevant when the cognitive core is an LLM?
+221. Which ideas rely on assumptions incompatible with autoregressive language models?
+222. How can borrowing cognitive terminology create false equivalence?
+
+## 20. Declarative, procedural and skill representations
+
+223. How do agents distinguish knowing that from knowing how?
+224. What counts as a procedural memory in LLM-agent engineering?
+225. Can textual instructions function as procedures without being compiled into policy?
+226. How do reusable tool workflows differ from semantic memories?
+227. What is skill library learning?
+228. How are skills indexed, selected and parameterized?
+229. How do agents compose previously learned skills?
+230. How are obsolete skills revised?
+231. How does proceduralization reduce repeated deliberation?
+232. When does cached behavior become brittle under changed conditions?
+233. How is skill success tracked across contexts?
+234. How does a skill representation preserve preconditions and failure modes?
+
+## 21. Action selection and arbitration
+
+235. How is one action chosen among multiple plausible actions?
+236. What is utility-based action selection in cognitive architectures?
+237. How do priorities, constraints and expected outcomes interact?
+238. How does reactive action compete with deliberative planning?
+239. How does habit-like cached action differ from explicit planning in artificial agents?
+240. What mechanisms arbitrate among tools, plans and memory retrieval?
+241. How should uncertainty affect action selection?
+242. How are irreversible actions treated differently?
+243. When should an agent defer, abstain or ask a human?
+244. How does action selection change under time/resource pressure?
+245. How can repeated success lead to inappropriate automation?
+246. How is exploration versus exploitation represented at agent level?
+
+## 22. Human–agent collaboration and oversight
+
+247. What forms of human involvement exist: approval, correction, delegation, supervision, intervention?
+248. How do human-in-the-loop and human-on-the-loop differ?
+249. How should an agent decide when to ask for clarification?
+250. How does user feedback differ from objective environment feedback?
+251. How can user preferences be learned without treating every instruction as permanent preference?
+252. How does oversight affect autonomy measurement?
+253. When does human confirmation improve safety but destroy useful autonomy?
+254. How do agents communicate uncertainty and progress to humans?
+255. How can humans become over-reliant on agent recommendations?
+256. How do agents handle conflicting instructions from multiple humans?
+257. What is shared control or mixed-initiative interaction?
+258. How can authority boundaries be represented and enforced?
+
+## 23. Degrees and kinds of autonomy
+
+259. What dimensions of autonomy should be distinguished: goal selection, planning, tool choice, execution, learning, memory management?
+260. Is autonomy a scalar level or multidimensional profile?
+261. How does delegated autonomy differ from self-generated goals?
+262. How does initiative differ from autonomy?
+263. What does bounded autonomy mean?
+264. How do permissions and capabilities constrain effective autonomy?
+265. How does ability to stop or refuse relate to autonomy?
+266. How does self-maintenance differ from task autonomy?
+267. How do long-lived agents differ from episodic task agents?
+268. How should autonomous behavior be evaluated without anthropomorphic interpretation?
+269. What forms of autonomy require persistent state?
+270. Which autonomy questions belong to governance rather than cognitive architecture?
