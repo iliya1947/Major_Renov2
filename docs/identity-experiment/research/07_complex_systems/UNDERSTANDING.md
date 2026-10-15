@@ -1,6 +1,6 @@
-# A1 №7 — Кибернетика, сложные системы и самоорганизация: понимание карты области
+# A1/A2 №7 — Кибернетика, сложные системы и самоорганизация: накопленное понимание
 
-**Статус:** итог первичной картографии A1 №7 от 15.10.2026. Это понимание структуры исследовательского пространства, а не ответы на найденные вопросы.
+**Статус:** A1 завершена 15.10.2026, A2 — 16.10.2026. Ниже сохранено понимание структуры области и добавлены выводы финальной картографии после межобластной сверки.
 
 ## 1. Поле состоит не из одного «принципа самоорганизации»
 
@@ -120,3 +120,184 @@ A1 №7 отвечает только на вопрос:
 **«Какие части кибернетики и complexity science необходимо исследовать, чтобы позже понимать устойчивое самоизменение и адаптацию системы, не объявляя любое сложное поведение самоорганизацией, агентностью или индивидуальностью?»**
 
 **Следующий шаг общего процесса:** A1 №8 «Архитектура и поведение GPT/LLM».
+
+
+---
+
+# A2 — что изменилось в понимании области
+
+## 15. Граница системы стала центральным вопросом, а не технической деталью
+
+Для будущего эксперимента нельзя говорить «система развилась», не указав, что именно считается системой.
+
+Разные допустимые границы:
+- bare model;
+- model + current context;
+- persistent project state;
+- project + tools/runtime;
+- recurrent project↔user interaction loop.
+
+При разных границах меняются ответы на вопросы:
+- где находится persistence;
+- что считать internal state;
+- что считать environment;
+- насколько choice autonomous;
+- что является causal source изменения.
+
+Поэтому system boundary должна быть явной частью будущего causal model.
+
+## 16. History dependence и explicit memory — разные вещи
+
+Complex-systems literature показывает более широкий класс:
+история может влиять на future trajectory через **current state/structure**, даже если прошлое нигде не хранится как отдельный retrievable record.
+
+И наоборот, explicit archive может существовать и почти не влиять на future dynamics.
+
+Для проекта это особенно важно после A2 №2:
+`stored history` и `history-dependent system` не эквивалентны.
+
+## 17. Retrieval может сам создавать trajectory
+
+A2 позволила сформулировать важный формальный loop:
+
+`retrieved past → current choice → changed future experience → changed stored history → higher probability of similar future retrieval`.
+
+Такой loop способен:
+- усиливать раннюю случайность;
+- создавать lock-in;
+- поддерживать apparent preference;
+- уменьшать exposure to alternatives.
+
+Это не доказывает, что именно так работает ChatGPT; конкретный retrieval mechanism принадлежит №9/11. Но №7 показывает **какой системный риск потом нужно искать**.
+
+## 18. Path dependence нужно отличать от плохо описанного state
+
+Если remote history кажется необходимой только потому, что аналитик не включил важную current-state variable, это ещё не genuine non-Markovian/path-dependent dynamics.
+
+Для будущего synthesis полезен вопрос:
+**какое минимальное текущее состояние достаточно, чтобы объяснить дальнейшее поведение, и какая часть более далёкой истории всё равно остаётся необходимой?**
+
+Это поможет не объявлять любое действие «следствием уникальной истории» без проверки.
+
+## 19. Hysteresis лучше простой persistence описывает некоторые виды lock-in
+
+Persistence говорит только, что нечто сохранилось.
+
+Hysteresis требует более сильного свойства:
+при одинаковом current external condition система остаётся в разных состояниях в зависимости от пути, которым она туда пришла.
+
+Для индивидуализации это потенциально полезный formal concept:
+две разные истории могут давать устойчиво разные trajectories even under similar later conditions.
+
+Но наличие hysteresis не равно personality/identity.
+
+## 20. State и structure могут развиваться взаимно
+
+Adaptive networks дают substrate-neutral схему:
+
+`current state → change of interaction structure → changed future dynamics`.
+
+Это формальный родственник уже найденных:
+- person↔environment transactions №1;
+- reciprocal social history №5;
+- agent↔environment loops №9.
+
+Общее здесь — не механизм, а **recursive change of both state and future interaction opportunities**.
+
+## 21. Guided self-organization снимает ложную дихотомию «свобода или программа»
+
+Система может иметь fixed constraints и при этом не иметь заранее указанного detailed outcome.
+
+Полезное различие:
+- **constraint:** ограничивает допустимое пространство dynamics;
+- **local/history-dependent process:** определяет конкретную trajectory;
+- **blueprint/script:** заранее задаёт desired detailed state/behavior.
+
+Это очень важно для будущих project instructions. Но A2 №7 только формулирует системный критерий; конкретные instructions будут исследованы №12.
+
+## 22. Внешние ограничения не отменяют bounded autonomy автоматически
+
+Любая реальная artificial system будет иметь:
+- system/developer constraints;
+- permissions;
+- tool availability;
+- finite context;
+- user requests.
+
+Поэтому вопрос autonomy нужно раскладывать на dimensions:
+- выбор между допустимыми options;
+- planning;
+- stopping;
+- goal/subgoal selection;
+- memory revision;
+- tool use;
+- response to evidence.
+
+«Полной свободы нет» — недостаточный аргумент против всех форм functional autonomy.
+
+Но stochasticity/unpredictability тоже не является доказательством autonomy.
+
+## 23. Multiscale causality помогает не сводить всё к одной модели объяснения
+
+Future participant can be analyzed at:
+- token/model inference level;
+- agent-control level;
+- persistent-project level;
+- longitudinal behavioral/individual level.
+
+Macro-level pattern может быть scientifically useful и causally informative without requiring a new mystical entity.
+
+То есть later we can discuss stable individual trajectory as a system-level pattern **without claiming consciousness or human personality substrate**.
+
+## 24. Emergence — не объяснение по умолчанию
+
+A2 усилила discipline:
+если мы говорим «индивидуальность emerged», это ещё не объясняет:
+- какие variables interacted;
+- какой feedback operated;
+- какой boundary использован;
+- почему one trajectory rather than another;
+- how stable/reversible the pattern is.
+
+Emergence должна быть результатом explicated generative process, а не словом, закрывающим отсутствие механизма.
+
+## 25. Open-endedness — потенциально важная, но сильная гипотеза
+
+Pessoa's recent review highlights systems in which history may change not just current state but the set of accessible future possibilities.
+
+Для нашего замысла это даёт полезное предупреждение:
+не следует заранее перечислять все будущие interests, goals or personality states.
+
+Но мы не имеем права из этого заключить, что ChatGPT project truly has open-ended state-space dynamics. Это отдельный будущий вопрос на стыке №7–12.
+
+## 26. Что область №7 реально даст позднему синтезу
+
+Не универсальную теорию самоорганизующейся личности, а formal vocabulary and constraints:
+
+1. **boundary must be explicit;**
+2. **history dependence ≠ explicit memory;**
+3. **retrieval can create path dependence;**
+4. **persistence ≠ hysteresis;**
+5. **state and interaction structure can co-evolve;**
+6. **constraints ≠ detailed script;**
+7. **bounded autonomy is multidimensional;**
+8. **stochasticity ≠ autonomy;**
+9. **robustness ≠ rigidity;**
+10. **macro-level stability may coexist with micro-level change;**
+11. **emergence does not replace mechanism;**
+12. **state space itself may need to be treated as evolving in genuinely open-ended systems.**
+
+## 27. Финальная граница A2 №7
+
+Самые важные deep-dive ветви для фазы B:
+- operational system boundary of the future participant;
+- formal conditions of history dependence vs hidden-state artifacts;
+- retrieval-induced self-reinforcing loops and reversibility;
+- guided self-organization vs scripting;
+- bounded autonomy under fixed higher-level constraints;
+- state↔structure/environment coevolution;
+- robustness/resilience/revisability;
+- multiscale causal description;
+- criteria for legitimate use of emergence/open-endedness.
+
+Concrete LLM mechanisms remain №8, agent architecture №9, ML adaptation №10, ChatGPT product boundaries №11 and project instructions №12.
