@@ -108,21 +108,22 @@
 4. **Перед переходом в другой чат** актуализировать этот файл: завершённая тема, полученный результат, что остаётся открытым, точный следующий содержательный шаг и нужные ссылки. Если тема не завершена, честно пометить незавершённость. Не рассчитывать, что перенос произойдёт автоматически.
 5. Не делать из числа чатов меру числа «экспериментов», не создавать отдельные пилоты и не тратить контекст на бессмысленные дубли отчётов.
 
-**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1 и №2.**
+**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1, №2 и №3.**
 
-1. **A1 №1 «Психология развития личности»** — завершена как первичная картография; 69 вопросов.
-2. **A1 №2 «Когнитивная психология и память»** — завершена как первичная картография; 124 вопроса в 20 блоках.
+1. **A1 №1 «Психология развития личности»** — первичная картография; 69 вопросов.
+2. **A1 №2 «Когнитивная психология и память»** — первичная картография; 124 вопроса.
+3. **A1 №3 «Психология обучения и поведения»** — первичная картография; 172 вопроса в 23 блоках.
 
-По №2 созданы и проверены:
-- `research/02_cognitive_memory/INDEX.md`;
-- `research/02_cognitive_memory/RESEARCH.md`;
-- `research/02_cognitive_memory/UNDERSTANDING.md`.
+По №3 созданы и проверены:
+- `research/03_learning_behavior/INDEX.md`;
+- `research/03_learning_behavior/RESEARCH.md`;
+- `research/03_learning_behavior/UNDERSTANDING.md`.
 
-A1 №2 охватывает memory systems/forms, working memory, episodic/semantic/autobiographical memory, memory operations, event/naturalistic memory, schemas/generalization, retrieval, forgetting, reconstruction/false memory, metamemory, future/prospective memory, emotion, development/aging, culture/social memory, cognitive offloading и methodology/ecological validity.
+Карта №3 охватывает nonassociative, Pavlovian и instrumental learning; reward/punishment/avoidance; reinforcement learning; habits/goal-directed control; extinction/reversal/relapse; generalization/transfer; causal/latent-structure learning; social/observational и instruction/rule-guided learning; implicit/statistical и perceptual/motor/skill learning; concept/category learning; feedback/errors/practice; self-regulated/meta-learning; development; context/culture/ecology; clinical/maladaptive learning и methodological/computational problems.
 
-**Ни один из 124 вопросов №2 не считается глубоко исследованным или решённым.** В рамках A1 не строился причинный механизм и не проектировались инструкции.
+**Ни один из 172 вопросов №3 не считается глубоко исследованным или решённым.** В рамках A1 не строился причинный механизм и не проектировались инструкции.
 
-**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №3 «Психология обучения и поведения»**. Сохранять ту же дисциплину: картографировать структуру области, основные направления/школы, споры, методологические проблемы, слепые зоны и вопросы; не переходить к глубокому разбору механизмов.
+**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №4 «Мотивация, эмоции и интересы»**. Сохранять дисциплину A1: картографировать структуру области, направления/школы, споры, методологические проблемы, слепые зоны и вопросы; не переходить к глубокому разбору механизмов.
 
 **Жёсткий процесс A1/A2:**
 - A1 каждой области — минимум один отдельный полноценный ответ с реальным исследованием источников;
