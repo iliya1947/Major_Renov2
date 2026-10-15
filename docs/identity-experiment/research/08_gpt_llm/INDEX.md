@@ -237,3 +237,107 @@
 178. When is retrieval-augmented selection better than placing everything in context?
 179. How do context compression and summarization trade detail for usability?
 180. What benchmarks genuinely test long-context integration rather than simple needle retrieval?
+
+## 19. In-context learning
+
+181. What operationally counts as in-context learning (ICL)?
+182. How does ICL differ from gradient-based fine-tuning?
+183. How does zero-shot instruction following differ from few-shot ICL?
+184. How does demonstration selection affect task induction?
+185. How does demonstration order affect behavior?
+186. What roles labels, input structure and semantic content play in ICL?
+187. How can models use examples even when labels or mappings are unusual?
+188. Which accounts interpret ICL as implicit Bayesian inference, meta-learning or optimization?
+189. How model- and task-dependent are proposed mechanisms of ICL?
+190. When does context act as transient adaptation rather than merely extra evidence?
+
+## 20. Prompt sensitivity and contextual steerability
+
+191. How sensitive are outputs to wording, formatting and delimiters?
+192. How do semantically equivalent prompts produce behaviorally different outputs?
+193. How does answer-option order alter benchmark performance?
+194. How does system/user/demo placement alter predictions?
+195. How does prompt verbosity help or hinder performance?
+196. What is prompt over-specification and when does it create conflicts?
+197. How stable are behavioral preferences across paraphrased instructions?
+198. How do few-shot examples interact with explicit instructions?
+199. How should prompt robustness be measured?
+200. When is prompt sensitivity an architectural consequence versus a post-training artifact?
+
+## 21. Reasoning, chain-of-thought and test-time compute
+
+201. What should count as reasoning capability rather than benchmark pattern matching?
+202. How do zero-shot, few-shot and trained chain-of-thought differ?
+203. What is self-consistency and what does it change?
+204. How do verifier-, voting- and search-based inference strategies differ?
+205. What is test-time scaling and which distinct algorithms fall under the term?
+206. How does additional inference compute trade latency/cost against performance?
+207. How do long reasoning traces differ from latent/internal computation?
+208. How faithful are generated rationales to computations that causally produced the answer?
+209. When does more reasoning produce overthinking or error propagation?
+210. How should reasoning performance be evaluated separately from answer memorization?
+
+## 22. Factuality and hallucination
+
+211. What competing definitions of hallucination are used in LLM research?
+212. How does factual incorrectness differ from unsupported generation?
+213. How does intrinsic contradiction with supplied context differ from extrinsic factual error?
+214. How do pretraining data, model knowledge, prompting and decoding each contribute to factual failures?
+215. How does post-training alter willingness to answer when knowledge is weak?
+216. How do retrieval failures differ from generation failures in RAG systems?
+217. How does instruction conflict or role-play affect factuality?
+218. How are factuality and faithfulness evaluated in open-ended generation?
+219. When can the same model be better at verification than generation?
+220. Why must “hallucination rate” be interpreted relative to task and definition?
+
+## 23. Uncertainty, confidence and calibration
+
+221. What forms of uncertainty are relevant for autoregressive LLMs?
+222. How does token entropy relate to sequence-level uncertainty?
+223. How do semantic-uncertainty methods differ from raw token probabilities?
+224. What is calibration and how is it evaluated in generative tasks?
+225. How does verbalized confidence differ from internal probability?
+226. Can a model know that it does not know, and how is this operationalized?
+227. How do sampling and temperature affect uncertainty estimates?
+228. How does retrieval alter uncertainty?
+229. How do calibration properties shift after instruction/preference tuning?
+230. What failure modes arise when fluent style is mistaken for confidence or certainty?
+
+## 24. Behavioral pathologies, sycophancy and adversarial steerability
+
+231. What operational definitions of sycophancy exist?
+232. How does agreement with user belief differ from ordinary conversational accommodation?
+233. How do preference training and prompt context contribute to sycophantic behavior?
+234. How stable is sycophancy across domains and model families?
+235. What is prompt injection and how does it differ from jailbreak?
+236. How do direct and indirect prompt injections differ?
+237. Why are external tool/retrieval outputs a distinct trust boundary?
+238. How do models trade helpfulness against resistance to malicious instructions?
+239. How should overrefusal be separated from robust instruction hierarchy?
+240. What other behavioral failure modes deserve separate treatment: verbosity bias, authority bias, anchoring, self-consistency failures or user-deference?
+
+## 25. Fine-tuning, parameter-efficient adaptation and continual learning
+
+241. How does full fine-tuning differ from LoRA/adapters/prefix-style approaches?
+242. What knowledge/capabilities are changed by parameter-efficient fine-tuning?
+243. What is catastrophic forgetting in LLM adaptation?
+244. How do vertical and horizontal continual-learning settings differ?
+245. What methods balance plasticity and retention?
+246. How do replay, regularization and modular expansion approaches differ?
+247. How is continual adaptation evaluated over long sequences of tasks/domains?
+248. What is the difference between fine-tuning a behavior and updating factual knowledge?
+249. How do repeated fine-tunes interact with alignment behavior?
+250. What makes continual learning of deployed LLMs fundamentally different from in-context adaptation?
+
+## 26. Knowledge editing and targeted model change
+
+251. What qualifies as model/knowledge editing rather than fine-tuning?
+252. What are reliability, locality/specificity and generalization criteria for edits?
+253. How do parameter-based, memory-based and hypernetwork editing methods differ?
+254. How well do edits propagate across paraphrases and related facts?
+255. How do multilingual edits propagate across languages?
+256. What happens when many edits accumulate?
+257. How does model editing induce gradual or catastrophic forgetting?
+258. How can contradictory edits be handled?
+259. How should edit persistence be distinguished from temporary context override?
+260. What does model editing reveal—and fail to reveal—about where knowledge is represented?
