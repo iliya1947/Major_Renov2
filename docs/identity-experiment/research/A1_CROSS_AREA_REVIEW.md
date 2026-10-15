@@ -1,13 +1,13 @@
 # Межобластная сверка после A1
 
-**Статус:** этап 1 завершён 15.10.2026. Этап 2 не начат.
+**Статус:** этап 1 завершён 15.10.2026. Этап 2 в работе: внутренние зависимости кластеров №1–7 и №8–12 проверены; межкластерные мосты ещё не проверены.
 
 **Назначение:** сверить 12 первичных карт A1 до начала A2. Сверка проводится поэтапно, без попытки закрыть весь межобластной анализ одним ответом.
 
 ## Этапы
 
 1. **Границы областей, дубли и неверно разделённые темы — завершён.**
-2. Зависимости и пересечения между областями — не начат.
+2. **Зависимости и пересечения между областями — в работе.** Внутрикластерный проход завершён; межкластерный проход остаётся.
 3. Пропущенные вопросы, видимые только межобластно — не начат.
 4. Противоречия, терминологические ложные совпадения и несовместимые постановки — не начат.
 5. Пакет конкретных поправок для A2 каждой области — не начат.
@@ -251,3 +251,178 @@
 5. Для каждой области определён рабочий объект исследования, который должен использоваться при A2.
 
 **Этап 2 — зависимости и пересечения — в этом проходе не начинался.**
+
+
+---
+
+# Этап 2 — зависимости и пересечения между областями
+
+**Статус:** в работе. Первый проход завершён; межкластерные мосты ещё не проверены.
+
+## Что считается зависимостью
+
+Для этой сверки тематическое соседство само по себе не считается зависимостью.
+
+Зависимость фиксируется, когда вопрос области A нельзя корректно поставить, интерпретировать или исследовать без различения/результата из области B.
+
+Направление `A ← B` означает: **A нуждается в B как в опорной области**. Это не означает, что B «важнее».
+
+## Проход 2A — зависимости внутри человеческого/системного блока №1–7
+
+### №1 Психология развития личности
+
+**Сильные зависимости:**
+- `1 ← 5`: identity development, relational/social context, roles and social investment нельзя корректно трактовать без №5.
+- `1 ← 4`: goals, values, motivation and intentional personality change требуют №4.
+- `1 ← 3`: person–environment transactions и behavioral change требуют различать learning mechanisms из №3.
+
+**Умеренные зависимости:**
+- `1 ← 2`: narrative/autobiographical continuity требует memory constructs.
+- `1 ← 6`: biological constraints/change важны для mechanistic interpretation, но не являются определением personality development.
+
+### №2 Когнитивная память
+
+**Сильные зависимости:**
+- `2 ↔ 3`: learning determines acquisition/change, memory determines retention/retrieval; generalization, implicit processes and extinction/forgetting sit on the boundary.
+- `2 ← 4`: goals, emotion and motivation alter encoding/retrieval and salience.
+- `2 ← 6`: consolidation, reconsolidation and systems change need biological grounding when mechanism is claimed.
+
+**Умеренные зависимости:**
+- `2 ↔ 5`: autobiographical/social/collective memory intersects self and identity, but neither field subsumes the other.
+
+### №3 Психология обучения и поведения
+
+**Сильные зависимости:**
+- `3 ← 4`: reward value, motivation to perform, curiosity and persistence cannot be reduced to acquisition mechanics.
+- `3 ↔ 2`: acquisition/change and memory retention/generalization constrain each other.
+- `3 ← 5`: observational/social learning requires social representations, norms and relationships.
+- `3 ← 6`: neural plasticity is needed only when making biological-mechanism claims, not to define behavioral learning.
+
+**Пересечение, но не dependency of identity:**
+- `3 ↔ 7`: control/feedback language is useful formally, but cybernetic vocabulary must not replace psychological learning evidence.
+
+### №4 Мотивация, эмоции и интересы
+
+**Сильные зависимости:**
+- `4 ↔ 5`: values, identity-related motives, social norms, belonging and social comparison are jointly constrained by both areas.
+- `4 ← 3`: reward/feedback history and learned contingencies matter for development of preferences and persistence.
+- `4 ← 1`: stable individual differences versus state-like motivation requires personality-development distinctions.
+
+**Умеренная зависимость:**
+- `4 ← 6` only for claims about biological implementation of affect/motivation.
+
+### №5 Социальная психология и идентичность
+
+**Сильные зависимости:**
+- `5 ↔ 1`: long-term identity development must be distinguished from broader personality development.
+- `5 ↔ 4`: identity motives, values, belonging and self-worth are motivational as well as social.
+- `5 ← 3`: norm internalization, social learning and repeated feedback require learning theory.
+
+**Умеренная зависимость:**
+- `5 ← 2`: autobiographical/collective memory contributes to identity continuity, but memory theory is not identity theory.
+
+### №6 Нейропластичность
+
+**Направление зависимости здесь часто обратное ожиданию.**
+
+Чтобы интерпретировать neural change, №6 **зависит от behavioral constructs**:
+- `6 ← 3`: нельзя назвать neural change «learning-related», не определив learning behaviorally.
+- `6 ← 2`: нельзя интерпретировать consolidation/reconsolidation without memory constructs.
+- `6 ← 4`: salience/reward/arousal require motivational/emotional constructs.
+- `6 ← 1`: developmental timing and lifespan change need developmental distinctions.
+
+При этом №2/3/4/1 могут ссылаться на №6 для biological mechanism, но не обязаны сводить свои constructs к neural changes.
+
+### №7 Кибернетика, сложные системы и самоорганизация
+
+№7 в этом кластере — **formal/meta-level layer**, а не эмпирическая замена психологии/нейробиологии.
+
+Главные пересечения:
+- `1 ↔ 7`: trajectories, path dependence, attractor-like descriptions.
+- `3 ↔ 7`: feedback, control, adaptation.
+- `6 ↔ 7`: homeostasis, stability, multiscale dynamics.
+- `4 ↔ 7`: autonomy/control language.
+
+**Правило:** направление «№7 объясняет №1–6» нельзя принимать автоматически. №7 даёт formal vocabulary/hypotheses; domain evidence остаётся в соответствующей области.
+
+## Проход 2A — зависимости внутри технического блока №8–12
+
+### №8 GPT/LLM
+
+**Сильные зависимости:**
+- `8 ← 10` для general ML concepts behind fine-tuning, continual learning, forgetting, transfer and adaptation.
+- `8 ↔ 12` для instruction following/prompt sensitivity: №8 изучает model phenomenon/capability, №12 — design/evaluation of instructions.
+
+**№8 как опорная область:**
+- `9 ← 8`: agent capabilities must be separated from core-model capabilities.
+- `11 ← 8`: product behavior partly depends on selected model, though product facts are not reducible to model internals.
+- `12 ← 8`: prompt design needs actual model behavior and limitations.
+
+### №9 ИИ-агенты и когнитивные архитектуры
+
+**Сильные зависимости:**
+- `9 ← 8`: core model capabilities and context behavior.
+- `9 ← 10`: actual learning/policy adaptation algorithms.
+- `9 ← 12`: prompting/decomposition/tool instructions where they are part of orchestration.
+
+**Пересечение:**
+- `9 ↔ 11`: concrete ChatGPT capabilities can instantiate agent-like functions, but product features must not be used as the definition of agent architecture.
+
+### №10 Машинное обучение и адаптивные системы
+
+№10 — general engineering layer for learning/adaptation.
+
+**Как опорная область:**
+- `8 ← 10`: LLM-specific adaptation is an instantiation of general ML methods.
+- `9 ← 10`: agent learning/self-improvement claims need explicit learning mechanism.
+  
+**Не зависимость:**
+- №10 does not need ChatGPT product facts from №11 to define continual/online/meta-learning.
+
+### №11 Возможности ChatGPT
+
+№11 is **product-ground-truth layer**.
+
+**Dependencies:**
+- `11 ← 8`: distinguish model-provided vs product/runtime capability.
+- `11 ← 12`: only when interpreting what project instructions can achieve; product existence/scope itself must come from product documentation.
+- `11 ↔ 9`: tools, actions, memory and browser features can support agentic workflows, but product capability ≠ agent architecture.
+
+### №12 Prompt Engineering и проектные инструкции
+
+**Strong dependencies:**
+- `12 ← 8`: instruction following, context limits, model/version behavior.
+- `12 ← 11`: exact semantics and scope of ChatGPT project instructions/files/history.
+- `12 ← 9`: tool-use/decomposition/orchestration only where prompts act inside an agent loop.
+
+**Boundary condition:** №12 cannot promise capabilities that №8/11/9 do not provide.
+
+## Главная структура зависимостей после первого прохода
+
+Внутри двух кластеров уже видны разные роли областей:
+
+- **Human empirical constructs:** №1–5.
+- **Biological implementation:** №6.
+- **Formal cross-domain vocabulary:** №7.
+- **Core model behavior:** №8.
+- **Composite agent architecture:** №9.
+- **General machine adaptation algorithms:** №10.
+- **Actual ChatGPT product capabilities:** №11.
+- **Instruction design/maintenance:** №12.
+
+Это не иерархия важности. Это разные типы знания, которые нельзя подменять друг другом.
+
+## Что ещё НЕ сделано на этапе 2
+
+Не завершён главный межкластерный вопрос: **какие связи между №1–7 и №8–12 являются настоящими зависимостями для нашей задачи, а какие лишь аналогиями.**
+
+Нужно отдельно проверить как минимум:
+- human memory №2 ↔ agent/product memory №9/11;
+- psychological learning №3 ↔ ML adaptation №10;
+- motivation/interest №4 ↔ agent goals/reward/objectives №9/10;
+- identity №1/5 ↔ persona/persistent agent identity №9/12;
+- neuroplasticity №6 ↔ ML stability–plasticity №10;
+- systems concepts №7 ↔ agents/adaptive ML №9/10;
+- human acquired experience №1–5 ↔ instructions/files/context №8/9/11/12.
+
+**Поэтому этап 2 в этом ответе НЕ завершён. Этап 3 не начинать.**
