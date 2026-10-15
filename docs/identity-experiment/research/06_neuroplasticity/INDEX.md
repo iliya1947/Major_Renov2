@@ -1,8 +1,8 @@
-# A1 №6 — Нейробиология и нейропластичность
+# A1/A2 №6 — Нейробиология и нейропластичность
 
-**Статус:** A1 завершена как первичная картография 15.10.2026.
+**Статус:** A1 завершена 15.10.2026; **A2 завершена 16.10.2026 как повторная финальная картография после межобластной сверки.**
 
-**Цель:** определить, какие уровни и направления нейробиологии опыта и пластичности необходимо будет исследовать глубоко позже. Здесь не решаются найденные вопросы и не строится механизм будущего эксперимента.
+**Цель:** итоговая после A2 карта того, какие уровни и механизмы biological plasticity нужно исследовать глубоко в фазе B. Здесь не превращаются нейробиологические механизмы в готовую архитектуру адаптации ИИ.
 
 ## 1. Что считать нейропластичностью
 
@@ -394,8 +394,79 @@
 
 После последних поисков новые обзорные источники в основном добавляли детализацию внутри этих осей, а не новые крупные направления.
 
+## 29. A2 — финальные межобластные уточнения и новые вопросы
+
+После межобластной сверки и fresh-source coverage pass новой крупной biological-plasticity ветви не обнаружено. Основные уточнения относятся к **stability↔change, metaplasticity/history dependence, dynamic representations, cross-level causality и disciplined abstraction before artificial transfer**.
+
+### Новые вопросы A2
+
+261. Какие biological changes являются собственно neuroplasticity, какие — transient activation/state change, а какие — developmental/repair processes с другой causal status?
+262. Как один и тот же behavioral change может возникать из разных neural mechanisms и почему это ограничивает reverse inference from behavior to biology?
+263. Когда neural change можно считать causally necessary/sufficient для behavioral change, а когда он остаётся correlate, compensation or downstream consequence?
+264. Что именно должно сохраняться при durable neural representation: конкретные synapses/cells, ensemble geometry, population-level similarity, retrievability or behavioral function?
+265. Как functional stability может сохраняться при representational drift и turnover constituent neurons/synapses?
+266. Когда consolidation увеличивает selectivity/robustness representation при одновременном изменении её cellular composition?
+267. Какие functional variables реально поддерживаются homeostatic mechanisms: firing rates, E/I balance, information flow, tuning or other network properties?
+268. Как Hebbian/experience-specific change взаимодействует с homeostatic stabilization и где между ними возникают conflicts/trade-offs?
+269. Чем metaplasticity — изменение способности к будущей plasticity — отличается от ordinary plastic change, сохраняющего содержимое конкретного опыта?
+270. Как prior activity/history меняет thresholds, direction, magnitude and timing последующей plasticity?
+271. Какие state variables — neuromodulation, sleep, stress, hormones, developmental stage, prior experience — gate whether the same input produces plastic change?
+272. Насколько индивидуальные различия plastic response воспроизводимы across contexts/tasks и что определяет эти различия?
+273. Когда повышенная plasticity улучшает adaptation, а когда destabilizes function or supports maladaptive persistence?
+274. Какие timescales plasticity нужно различать, чтобы milliseconds-scale synaptic rules не смешивать с seconds/minutes learning rules, hours/days homeostasis/metaplasticity и long-term structural/network change?
+275. Как local synaptic/cellular change propagates — или не propagates — into circuit/network-level functional change?
+276. Когда network-level change может возникать без identifiable local mechanism and how should such evidence be interpreted?
+277. Как human MRI/EEG/PET measures валидировать как indices plasticity rather than generic physiological change?
+278. Какие vascular, metabolic, extracellular-fluid and measurement effects могут имитировать rapid “structural plasticity” in human neuroimaging?
+279. Какие criteria нужны для cross-species translation, чтобы precise causal animal mechanism не считался автоматически mechanism of human behavior?
+280. Как combining animal cellular evidence and human longitudinal/individual-difference evidence может support a bridge without claiming one-to-one equivalence?
+281. Какие aspects biological stability/change legitimately abstract into №7 — persistence, regulation, multiscale dynamics, history dependence — without carrying biological substrate assumptions?
+282. Что именно общего и различного между biological stability–plasticity trade-off и ML stability–plasticity problem in №10?
+283. Какие additional premises are required before biologically inspired ML mechanism can be treated as explanatory analogue rather than engineering inspiration?
+284. Почему mappings `synapse ↔ model weight`, `engram ↔ memory file`, `metaplasticity ↔ learning-rate update` require independent functional/mechanistic justification rather than lexical similarity?
+
+## 30. A2 — ownership corrections после межобластной сверки
+
+Для фазы B:
+
+- №6 отвечает только за **biological mechanism and evidence level**;
+- memory representation/retrieval constructs → primary №2;
+- psychological learning/change → №3;
+- motivation/reward/value → №4;
+- substrate-neutral stability, feedback, path dependence and multiscale organization → №7;
+- ML stability–plasticity and continual/adaptive algorithms → №10;
+- GPT/agent/ChatGPT/prompt implementation → №8/9/11/12.
+
+Обязательный маршрут cross-domain transfer:
+**№6 biological finding → explicit abstraction in №7 → independent check in №10/9/8.**
+
+Ключевые запреты:
+- **neuroplasticity ≠ ML plasticity**;
+- **synapse ≠ model weight by default**;
+- **engram ≠ file/memory record**;
+- **neural persistence ≠ behavioral persistence**;
+- **behavioral change ≠ proof of a particular neural change**.
+
+## 31. Финальный coverage audit A2
+
+Повторно проверены:
+- homeostatic plasticity and functional stabilization;
+- metaplasticity and history-dependent future plasticity;
+- dynamic engrams;
+- representational drift with stable function;
+- multiscale/cross-level causal interpretation;
+- human individuality in plastic response;
+- human measurement validity;
+- cross-species translation;
+- rapid structural MRI confounds;
+- boundaries with complex systems and ML stability–plasticity.
+
+После последних источников новые находки укладывались в вопросы №261–284 или существующие A1-блоки. **Новой крупной самостоятельной ветви не появилось.**
+
 ## Статус
 
-**A1 №6 закрыта именно как картография области.** В этом проходе вопросы не исследовались глубоко: работа была направлена на устройство поля и границы будущего исследования.
+**A2 №6 завершена как финальная картография области.** Карта теперь содержит 260 вопросов A1 + 24 уточняющих вопроса A2 (№261–284), ownership corrections и final coverage audit.
 
-**Следующий шаг общего процесса:** A1 №7 «Кибернетика, сложные системы и самоорганизация».
+A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры, границ и полноты карты; глубокое сравнение biological stability/plasticity mechanisms относится к фазе B.
+
+**Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №7 «Кибернетика, сложные системы и самоорганизация»**.
