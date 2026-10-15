@@ -159,3 +159,94 @@
 118. What distinguishes engram reactivation from generic task-related activity?
 119. How recall-induced changes alter engram composition?
 120. How species/task dependence limits generalization of engram findings?
+
+## 13. Systems consolidation, updating and representational change
+
+121. How do synaptic and systems consolidation differ?
+122. What neural changes accompany transition from recent to remote memory?
+123. How stable is the canonical hippocampus-to-cortex systems-consolidation picture?
+124. How does cortical participation begin during initial encoding rather than only later?
+125. Как reconsolidation and updating differ from ordinary retrieval?
+126. What determines whether retrieval destabilizes a memory?
+127. How do new experiences integrate with or compete against existing representations?
+128. Как schema-related reorganization differs from simple weakening of episodic detail?
+129. What is representational drift and at which neural levels is it observed?
+130. How can stable behavior coexist with changing neural representations?
+
+## 14. Critical and sensitive periods
+
+131. Как distinguish critical and sensitive periods?
+132. Какие biological processes open and close periods of heightened plasticity?
+133. What roles E/I balance and PV interneuron maturation play?
+134. How do perineuronal nets and extracellular matrix relate to closure?
+135. Какие sensitive periods exist beyond primary sensory systems?
+136. How hierarchical critical periods may unfold across human cortical systems?
+137. How early experience has different effects depending on developmental timing?
+138. Can adult circuits partially reopen developmental-like plasticity?
+139. How intervention-induced reopening differs from normal adult learning?
+140. What are the costs of increased plasticity during sensitive periods?
+
+## 15. Lifelong and adult plasticity
+
+141. Which forms of plasticity remain robust in healthy adulthood?
+142. Which forms decline, shift or require stronger conditions with age?
+143. How does adult learning alter gray matter, white matter, activity and connectivity?
+144. What neural changes are task-specific versus domain-general?
+145. How does accumulated prior knowledge constrain or facilitate adult plasticity?
+146. How do different brain systems age at different rates?
+147. What distinguishes preserved plastic capacity from preserved behavioral performance?
+148. How much individual variation exists in adult plastic response?
+149. How reversible are training-related neural changes after training stops?
+150. Which adult human plasticity claims depend heavily on indirect neuroimaging measures?
+
+## 16. Adult neurogenesis
+
+151. What evidence supports adult hippocampal neurogenesis in humans?
+152. What evidence argues that it is rare or absent?
+153. Which methodological differences explain conflicting findings?
+154. How do immunohistochemistry and sequencing approaches differ?
+155. What functional roles are proposed for adult-born neurons?
+156. How strong is causal evidence linking adult neurogenesis to human learning?
+157. How does age affect neurogenesis across species?
+158. How do disease and medication complicate inference?
+159. Which claims are robust in rodents but uncertain in humans?
+160. How important is adult neurogenesis to overall neuroplasticity relative to synaptic/circuit mechanisms?
+
+## 17. Astrocytes and glial plasticity
+
+161. How do astrocytes sense and integrate neural activity?
+162. What forms of astrocytic calcium and structural plasticity accompany learning?
+163. How do astrocytes regulate synaptic efficacy?
+164. What role does astrocyte–neuron metabolic coupling play?
+165. Can astrocytes form learning-related ensembles or “astroengrams”?
+166. How causal is current evidence for astrocyte participation in memory?
+167. How do astrocyte effects vary by circuit and behavioral task?
+168. How do glial mechanisms interact with neuronal engrams?
+169. Which findings are established versus emerging or controversial?
+170. How can glial activity be measured without conflating support functions with information storage?
+
+## 18. Microglia and synaptic remodeling
+
+171. How do microglia participate in synaptic pruning and circuit refinement?
+172. How do complement pathways influence experience-dependent synapse remodeling?
+173. What roles do microglia play in normal learning and forgetting?
+174. How do activated/inflammatory states alter plasticity?
+175. How does developmental microglial pruning differ from adult remodeling?
+176. How do microglial effects vary across brain regions?
+177. What evidence separates causal microglial action from response to neuronal change?
+178. How does aging alter microglial contributions to plasticity?
+179. Which findings from disease models generalize to healthy brains?
+180. How do microglia interact with astrocytes and oligodendrocytes during remodeling?
+
+## 19. Oligodendrocytes and myelin plasticity
+
+181. What forms of activity-dependent myelination occur after development?
+182. How does new oligodendrocyte formation differ from remodeling mature myelin?
+183. How can myelin change conduction timing and circuit synchrony?
+184. Which learning domains require adaptive myelination?
+185. How quickly can myelin-related changes occur?
+186. How persistent are experience-related myelin changes?
+187. How does myelin plasticity interact with synaptic plasticity?
+188. How does aging affect myelin renewal and learning-related change?
+189. What can human diffusion MRI actually infer about myelin plasticity?
+190. How much evidence remains animal-based?
