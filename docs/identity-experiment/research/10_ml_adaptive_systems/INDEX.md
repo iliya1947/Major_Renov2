@@ -134,3 +134,121 @@
 102. How do Bayesian/uncertainty-based views relate to parameter protection?
 103. When does regularization preserve obsolete behavior?
 104. How does regularization scale to long task sequences?
+
+## 10. Parameter isolation, modularity and dynamic architectures
+
+105. How do parameter-isolation methods avoid interference?
+106. What is the difference between allocating new parameters and routing among existing modules?
+107. How do progressive/dynamically expanding networks decide when capacity is insufficient?
+108. How is capacity growth bounded over long lifetimes?
+109. How are modules reused across related tasks?
+110. What happens when task boundaries are unknown?
+111. How do masks, adapters and subnetworks alter interference?
+112. How can dormant capacity be reclaimed?
+113. How does architectural modularity affect transfer versus isolation?
+114. When does expansion postpone rather than solve forgetting?
+115. How do dynamic architectures compare with replay under fixed resource budgets?
+116. How can structural adaptation itself be evaluated?
+
+## 11. Transfer learning and knowledge transfer
+
+117. What forms of transfer are distinguished: inductive, transductive, unsupervised and cross-domain?
+118. How do source and target task/domain relations matter?
+119. What is positive transfer?
+120. What is negative transfer and how can it be detected?
+121. How does representation reuse differ from full parameter transfer?
+122. When should lower versus higher layers be transferred?
+123. How does source diversity affect transferability?
+124. How do task similarity measures predict transfer?
+125. How do transfer and continual learning interact?
+126. How do transfer-learning assumptions change for foundation models?
+127. How can old knowledge be reused without constraining target adaptation too strongly?
+128. How should transfer be measured beyond target performance alone?
+
+## 12. Domain adaptation
+
+129. What distinguishes supervised, semi-supervised and unsupervised domain adaptation?
+130. How do source and target distributions enter the formal problem?
+131. How do feature alignment, adversarial alignment and discrepancy minimization differ?
+132. When can aligning marginal distributions harm conditional structure?
+133. What is source-free domain adaptation?
+134. How does multi-source domain adaptation differ from single-source adaptation?
+135. How is label-space mismatch handled?
+136. What is partial/open-set/universal domain adaptation?
+137. How does domain adaptation differ from ordinary fine-tuning?
+138. How do pseudo-label errors compound during adaptation?
+139. What happens when the target domain continues to drift?
+140. How is negative transfer diagnosed in domain adaptation?
+
+## 13. Domain generalization and OOD generalization
+
+141. What distinguishes domain generalization from domain adaptation?
+142. How are unseen target domains defined without target data?
+143. What roles invariance, data augmentation and robust optimization play?
+144. How can overfitting to source-domain diversity occur?
+145. How does causal/invariant prediction relate to domain generalization?
+146. How are spurious correlations identified and reduced?
+147. What is the relation between OOD detection and OOD generalization?
+148. How can performance on unknown distributions be predicted before deployment?
+149. What does “domain” mean when shifts are continuous rather than discrete?
+150. How should OOD robustness be evaluated across multiple shift types?
+151. What is the difference between average robustness and worst-case robustness?
+152. How do foundation models change assumptions behind domain generalization?
+
+## 14. Test-time adaptation
+
+153. What distinguishes test-time adaptation from domain adaptation and online learning?
+154. Which components can adapt at test time: weights, normalization, inference, samples, prompts?
+155. What signals are available when labels are absent?
+156. How do entropy minimization and self-training approaches differ?
+157. When does test-time adaptation cause model collapse?
+158. How are nonstationary streams handled in online TTA?
+159. How does episodic TTA differ from continual TTA?
+160. How is adaptation reset or carried between test batches?
+161. How can adaptation preserve source performance?
+162. What happens under mixed or rapidly switching domains?
+163. How are corrupted/adversarial test samples prevented from steering adaptation?
+164. How can TTA effectiveness be evaluated when ground truth is delayed or missing?
+
+## 15. Meta-learning and learning to learn
+
+165. What is the formal object learned in meta-learning?
+166. How do optimization-based, metric-based, memory-based and model-based meta-learning differ?
+167. What is a task distribution and why is it central?
+168. How does meta-training differ from ordinary multi-task training?
+169. How is fast adaptation evaluated on unseen tasks?
+170. What happens when meta-test tasks fall outside the training task distribution?
+171. How do inner-loop and outer-loop optimization differ?
+172. What is learned initialization versus learned optimizer?
+173. How do memory-based meta-learners adapt without gradient updates?
+174. How does meta-learning relate to transfer learning?
+175. How does meta-learning relate to continual learning?
+176. How can meta-learning itself overfit to benchmark/task design?
+
+## 16. Few-shot and rapid adaptation
+
+177. How does few-shot learning differ from meta-learning?
+178. How do zero-shot, one-shot and few-shot settings differ?
+179. What roles pretrained representations play in few-shot adaptation?
+180. How do prototype/metric methods differ from gradient-based adaptation?
+181. How does class imbalance affect few-shot learning?
+182. How does support-set selection alter adaptation?
+183. How is uncertainty handled under very small samples?
+184. How do few-shot methods avoid memorizing meta-training classes?
+185. How does rapid adaptation trade off with stability?
+186. What forms of adaptation are genuinely fast versus merely lookup-like?
+
+## 17. Multi-task learning
+
+187. How does multi-task learning differ from transfer and continual learning?
+188. How are shared and task-specific parameters organized?
+189. What is hard versus soft parameter sharing?
+190. How do task relationships affect positive and negative transfer?
+191. How are task losses weighted?
+192. What is gradient conflict between tasks?
+193. How do adaptive task-balancing methods work conceptually?
+194. How does task sampling affect shared representations?
+195. When is one shared model worse than separate models?
+196. How can task-specific modules coexist with shared features?
+197. How does multi-task learning change when tasks arrive sequentially?
+198. How are hidden task relationships discovered rather than specified?
