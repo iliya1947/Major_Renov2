@@ -1,6 +1,6 @@
 # A1 №12 — Prompt engineering и проектные инструкции
 
-**Статус:** A1 в процессе первичной картографии 15.10.2026.
+**Статус:** A1 завершена как первичная картография 15.10.2026.
 
 **Цель:** определить, какие направления prompt/instruction design необходимо будет исследовать глубоко позже. Здесь не составляется финальный prompt будущего эксперимента и не утверждаются project instructions.
 
@@ -477,3 +477,34 @@
 348. How sensitive are persistent instructions to model-version changes?
 349. How should users inspect and understand the current instruction set?
 350. What version information should be retained for longitudinal work?
+
+
+## 36. Крупные споры для A2/B
+
+1. Универсальные prompting rules против model-specific guidance.
+2. Подробные инструкции против коротких и минимальных.
+3. Natural-language formatting против schema/runtime constraints.
+4. Fixed guidance против dynamic prompt construction.
+5. Written instructions против demonstrations.
+6. Explicit intermediate steps против outcome-level task specification.
+7. Iterative revision против externally grounded verification.
+8. Role prompting против neutral task prompting.
+9. Persistent project guidance против context accumulated through interaction.
+10. Automatic optimization против manual design and review.
+11. Eval optimization против overfitting to evaluation cases.
+12. Cross-model portability против model-specific tuning.
+13. One multilingual prompt против localized instructions.
+14. Prompt-level control против behavior learned during post-training.
+15. Prompt design против runtime/orchestration responsibility.
+
+## 37. A1 breadth check
+
+Карта охватывает определения, instruction types and authority, persistent guidance, ambiguity and structure, output contracts, zero/few-shot methods, examples, role prompting, intermediate-rationale methods, decomposition, multiple-candidate approaches, iterative revision, evaluation, retrieval and long context, multi-turn prompting, dynamic templates, conflict handling, wording sensitivity, cross-version and multilingual behavior, structured outputs, external-action guidance, automatic optimization, versioning, cost and project-level persistent instructions.
+
+Дополнительные источники преимущественно уточняют уже найденные ветви. Это первичная A1-картография, не финальный A2 coverage audit.
+
+## Статус
+
+A1 №12 завершена как первичная картография. В этом проходе вопросы глубоко не исследовались.
+
+Следующий шаг общего процесса: отдельная межобластная сверка после A1 всех 12 областей.
