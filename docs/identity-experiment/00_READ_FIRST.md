@@ -108,7 +108,7 @@
 4. **Перед переходом в другой чат** актуализировать этот файл: завершённая тема, полученный результат, что остаётся открытым, точный следующий содержательный шаг и нужные ссылки. Если тема не завершена, честно пометить незавершённость. Не рассчитывать, что перенос произойдёт автоматически.
 5. Не делать из числа чатов меру числа «экспериментов», не создавать отдельные пилоты и не тратить контекст на бессмысленные дубли отчётов.
 
-**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1–№9.**
+**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1–№10.**
 
 1. **A1 №1 «Психология развития личности»** — 69 вопросов этой области.
 2. **A1 №2 «Когнитивная психология и память»** — 124 вопроса этой области.
@@ -118,20 +118,21 @@
 6. **A1 №6 «Нейробиология и нейропластичность»** — 260 вопросов этой области.
 7. **A1 №7 «Кибернетика, сложные системы и самоорганизация»** — 308 вопросов этой области.
 8. **A1 №8 «Архитектура и поведение GPT/LLM»** — 320 вопросов этой области.
-9. **A1 №9 «AI-агенты и когнитивные архитектуры»** — 402 вопроса этой области в 37 блоках.
+9. **A1 №9 «AI-агенты и когнитивные архитектуры»** — 402 вопроса этой области.
+10. **A1 №10 «Машинное обучение и адаптивные системы»** — 398 вопросов этой области в 36 блоках.
 
 **Важно для отчётов:** числа вопросов — отдельные локальные счётчики областей, не накопительный счётчик.
 
-По №9 созданы и проверены:
-- `research/09_agents_cognitive_architectures/INDEX.md`;
-- `research/09_agents_cognitive_architectures/RESEARCH.md`;
-- `research/09_agents_cognitive_architectures/UNDERSTANDING.md`.
+По №10 созданы и проверены:
+- `research/10_ml_adaptive_systems/INDEX.md`;
+- `research/10_ml_adaptive_systems/RESEARCH.md`;
+- `research/10_ml_adaptive_systems/UNDERSTANDING.md`.
 
-Карта №9 охватывает definitions/boundaries of agents; perceive–decide–act loops; goal/task representation; planning and reasoning–acting; tool use; memory storage/retrieval/consolidation; reflection/self-correction; feedback learning; world models; long-horizon state; profiles/personas; metacognition; classical cognitive architectures; declarative/procedural knowledge and skills; action selection; human oversight/autonomy; multi-agent communication; social/generative and embodied agents; safety/security; failure modes; evaluation; efficiency/reproducibility; interactive environments; self-improvement claims and cross-domain analogy discipline.
+Карта №10 охватывает online/stream learning; concept drift; continual/lifelong learning; stability–plasticity, catastrophic forgetting and loss of plasticity; replay/regularization/modularity/dynamic architectures; transfer/domain adaptation/generalization; test-time adaptation; meta/few-shot/multi-task/curriculum/active learning; self-supervised representation learning; RL/meta-RL; adaptive control; personalization; federated/distributed adaptation; uncertainty-triggered adaptation; robust/invariant/causal learning; resource limits; safety/fairness; evaluation and deployment monitoring.
 
-**В этом проходе ни один из 402 вопросов области №9 не исследовался глубоко.** Работа была направлена на первичную картографию области.
+**В этом проходе ни один из 398 вопросов области №10 не исследовался глубоко.** Работа была направлена на первичную картографию области.
 
-**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №10 «Машинное обучение и адаптивные системы»**. Сохранять дисциплину A1: картографировать структуру области, подходы, споры, методологические проблемы, слепые зоны и вопросы; не переходить к глубокому разбору механизмов.
+**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №11 «Возможности ChatGPT»**. Сохранять дисциплину A1: картографировать реальные product capabilities, ограничения, persistence/context/memory/project features, tools/connectors, file behavior, instruction hierarchy and relevant operational boundaries; не проектировать пока итоговые инструкции.
 
 **Жёсткий процесс A1/A2:**
 - A1 каждой области — минимум один отдельный полноценный ответ с реальным исследованием источников;
