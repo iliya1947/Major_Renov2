@@ -381,3 +381,17 @@
 278. How does a large capability set affect selection quality?
 279. How should action-selection guidance be evaluated?
 280. Which questions belong to agent architecture rather than prompt design?
+
+
+## 29. Conflicting external content
+
+281. How should ordinary task data be distinguished from authoritative guidance?
+282. How should externally supplied text containing command-like wording be categorized?
+283. How reliably are priority relationships preserved under conflicting content?
+284. How much do formatting boundaries help separate instructions from data?
+285. How should retrieved external content be incorporated without changing its authority?
+286. How do direct and indirect conflicts differ operationally?
+287. How should permissions limit consequences of misinterpreted external content?
+288. When should consequential actions require an additional confirmation step?
+289. How should resistance to conflicting external content be evaluated?
+290. Which protections belong to model/runtime design rather than prompt wording?
