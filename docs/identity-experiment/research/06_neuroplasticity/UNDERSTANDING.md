@@ -31,3 +31,22 @@
 ## Следующий шаг
 
 Проверить эти possible gaps only for map coverage. Затем либо revise N1–N18, либо признать область №6 достаточной для A1 and move to №7 — cybernetics/complex systems/self-organization.
+
+
+## После второго прохода A1
+
+1. **Нейрон — не единственный носитель plasticity.** Astrocytes, myelin, structural remodeling and molecular/epigenetic state all participate in experience-dependent adaptation. Любая будущая абстракция должна избегать слишком буквальной «synaptic weights» метафоры.
+
+2. **Plasticity is value-neutral.** Chronic pain and addiction provide examples where persistent neural adaptation can be maladaptive; repair after injury can be compensatory. Поэтому «система изменилась» ≠ «система научилась правильно».
+
+3. **Capacity for plasticity is state-dependent.** Hormones, age, prior history, stress and circuit state can alter not only what changes, but whether the same experience can induce change at all.
+
+4. **Durable change has resource costs.** Biological systems have metabolic/material limits, which conceptually strengthens the stability–plasticity/resource question. But it is too early to infer an AI analogue.
+
+5. **Biological persistence has multiple substrates.** Synaptic strength, transcription/epigenetics, structure and systems reorganization operate on different timescales; no single level should be treated as the whole mechanism of memory/experience.
+
+## Статус A1
+
+Рабочая карта N1–N18 признана **достаточной для первого глобального прохода A1**. Финальная relevance filter and boundaries will be done at A2 after all fields.
+
+**Следующее направление:** A1 области №7 — кибернетика, сложные системы и самоорганизация.
