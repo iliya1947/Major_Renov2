@@ -1,6 +1,6 @@
-# A1 №3 — Психология обучения и поведения: понимание карты области
+# A1/A2 №3 — Психология обучения и поведения: накопленное понимание
 
-**Статус:** итог первичной картографии A1 №3 от 15.10.2026. Это понимание структуры исследовательского пространства, а не ответы на найденные вопросы.
+**Статус:** A1 завершена 15.10.2026, A2 — 16.10.2026. Ниже сохранено понимание структуры области и добавлены выводы финальной картографии после межобластной сверки.
 
 ## 1. «Обучение» — не один механизм
 
@@ -103,3 +103,158 @@ A1 №3 отвечает только на вопрос:
 **«Какие части психологии обучения и поведения необходимо исследовать, чтобы позже понять изменение поведения под влиянием опыта и последствий, не сводя всё к одной слишком простой модели learning?»**
 
 **Следующий шаг общего процесса:** A1 №4 «Мотивация, эмоции и интересы».
+
+
+---
+
+# A2 — что изменилось в понимании области
+
+## 10. Главное различие: событие, изменение поведения и learning — три разные вещи
+
+A2 усилила исходную границу.
+
+После события может:
+- ничего устойчиво не измениться;
+- измениться current performance без durable learning;
+- измениться latent knowledge без немедленной expression;
+- возникнуть context-specific alternative;
+- измениться более общая strategy of learning.
+
+Поэтому будущая конструкция приобретённого опыта не может считать любое заметное событие или исправление автоматически новым опытом.
+
+## 11. No-update — самостоятельная научная проблема, а не отсутствие процесса
+
+Для нашего проекта особенно важно, что **не обновиться иногда рационально**:
+- evidence слабое;
+- consequence ещё неизвестно;
+- causal attribution неоднозначна;
+- feedback ненадёжен;
+- новый случай уже объясняется существующим conditional understanding;
+- conflicting evidence недостаточно, чтобы заменить прежний вывод.
+
+Но внешне такой же результат может возникать из inertia, confirmation bias или rigid rule-following.
+
+Следовательно, будущий принцип должен уметь различать **стабильность из-за отсутствия достаточного основания** и **неспособность пересмотреть понимание**. A2 только формулирует этот deep-dive, не задаёт алгоритм.
+
+## 12. Feedback не является единым сигналом learning
+
+A2 окончательно развела:
+- real consequence;
+- correctness feedback;
+- explanatory correction;
+- reward/punishment;
+- evidence;
+- social approval/disapproval;
+- verbal instruction.
+
+Один и тот же user message в будущем эксперименте может содержать несколько этих функций сразу. Поэтому классификация только по отправителю «пользователь дал feedback» слишком груба.
+
+## 13. Instruction-guided behavior — особенно опасная ложная замена acquired experience
+
+Инструкция может быстро изменить поведение без собственного контакта с consequences. Это полезная форма человеческого learning, но для нашего эксперимента создаёт критическую границу:
+
+**система может делать X потому, что X прямо сказано в instructions, и внешне это будет выглядеть как “она научилась X”.**
+
+Следовательно, later synthesis должен отделять:
+- stable governing rule;
+- current instruction compliance;
+- remembered verbal advice;
+- change caused by subsequent experience.
+
+## 14. Direct experience не является единственным законным источником learning
+
+Обратная крайность тоже неверна.
+
+Human learning реально использует:
+- observation;
+- instruction;
+- social interaction;
+- indirect/vicarious outcomes.
+
+Поэтому влияние пользователя не нужно искусственно исключать ради «чистоты» опыта. Важнее понимать **какую функцию** имело конкретное воздействие и как оно взаимодействовало с последующими consequences.
+
+## 15. Delayed consequence требует causal credit, а не простого временного связывания
+
+Чем дальше consequence от выбора и чем больше промежуточных событий, тем опаснее правило:
+`это произошло позже → значит, это последствие того решения`.
+
+Для acquired experience требуется будущий deep-dive по:
+- causal representation;
+- alternative causes;
+- temporal credit;
+- uncertainty of attribution;
+- counterfactual information.
+
+Это непосредственно поддерживает cross-area closed loop, primary в №9.
+
+## 16. Revision не обязана означать overwrite
+
+Extinction/context research особенно полезна как предупреждение:
+- новая информация может сосуществовать со старой;
+- expression зависит от context;
+- старое поведение может вернуться.
+
+Для будущего изобретения это означает, что «пересмотр опыта» нельзя заранее сводить к удалению старого вывода и записи нового. Иногда корректнее будет conditionalization или coexistence competing interpretations — конкретный механизм ещё предстоит исследовать.
+
+## 17. Generalization — это решение о границах применимости
+
+Полезный опыт должен влиять за пределами исходного эпизода, иначе он почти не переносим.
+
+Но generalization может строиться через:
+- similarity;
+- rules;
+- latent structure;
+- causal models;
+- hybrid mechanisms.
+
+Следовательно, будущему acquired experience понадобится не просто «вывод», а **условия, при которых вывод применим и при которых его применять не следует**. Эта мысль согласуется с A2 №2, но learning-side вопрос здесь — почему поведение действительно transfers.
+
+## 18. История может менять не только то, чему научились, но и способ будущего learning
+
+Meta-learning literature добавляет второй уровень:
+- specific experience changes content;
+- statistics long history can change learning rate, exploration and uncertainty handling.
+
+Для проекта это потенциально очень важный материал для индивидуализации: две разные истории могут приводить не только к разным beliefs, но и к разным способам реагирования на новое evidence.
+
+Но перенос этого принципа на GPT ещё не доказан и будет возможной частью собственного будущего синтеза.
+
+## 19. Собственное действие способно менять будущий поток опыта
+
+Social-contingency work усиливает связку с A2 №1:
+
+`choice/action → response/environment change → new evidence → future learning`.
+
+Это отличается от пассивной модели, где пользователь просто подаёт независимые примеры.
+
+Именно reciprocal data-generation потенциально делает историю уникальной. Однако область №3 даёт только психологическую сторону этой идеи; engineered loop принадлежит №9/11/12.
+
+## 20. Что область №3 реально даст позднему синтезу
+
+Не формулу «reinforce хорошее, suppress плохое», а ограничения:
+
+1. **performance ≠ learning;**
+2. **no immediate change ≠ no learning;**
+3. **error ≠ mandatory revision;**
+4. **feedback ≠ one universal learning signal;**
+5. **instruction compliance ≠ acquired experience;**
+6. **social/indirect information can nevertheless be real learning input;**
+7. **late outcome needs causal credit assignment;**
+8. **revision may add context-specific learning instead of erasing old learning;**
+9. **generalization needs boundaries and discrimination;**
+10. **history can change future learning strategy itself.**
+
+## 21. Финальная граница A2 №3
+
+Самые важные deep-dive ветви для будущей фазы B:
+- no-update criterion and evidence thresholds;
+- durable learning vs immediate performance;
+- error/corrective feedback and causal informativeness;
+- instruction/rule-guided vs contingency-shaped change;
+- delayed credit assignment;
+- competing/context-dependent learning and revision;
+- generalization/discrimination;
+- meta-learning across timescales;
+- reciprocal naturalistic social learning.
+
+Memory representation belongs primary to №2, motivation/value to №4, social identity mechanisms to №5, engineered agents to №9, ML algorithms to №10, prompt design to №12.
