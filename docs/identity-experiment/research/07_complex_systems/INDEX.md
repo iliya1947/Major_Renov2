@@ -1,6 +1,6 @@
-# A1 №7 — Кибернетика, сложные системы и самоорганизация
+# A1/A2 №7 — Кибернетика, сложные системы и самоорганизация
 
-**Статус:** A1 завершена как первичная картография 15.10.2026.
+**Статус:** A1 завершена 15.10.2026; **A2 завершена 16.10.2026 как повторная финальная картография после межобластной сверки.**
 
 **Цель:** определить, какие части кибернетики, complexity science и self-organization необходимо будет исследовать глубоко позже. Здесь не решаются найденные вопросы и не строится механизм будущего эксперимента.
 
@@ -456,8 +456,84 @@
 
 После этих проверок новые обзорные источники в основном добавляли уточнения внутри уже найденных направлений, а не новые крупные оси.
 
+## 32. A2 — финальные межобластные уточнения и новые вопросы
+
+После межобластной сверки и fresh-source coverage pass новой самостоятельной complex-systems ветви не обнаружено. Основные поправки относятся к **system boundary, path dependence/retrieval lock-in, guided self-organization, bounded autonomy, multiscale causality, state↔structure coevolution и open-ended state spaces**.
+
+### Новые вопросы A2
+
+309. Какие разные system boundaries можно обоснованно провести вокруг будущего участника: bare model, model+current context, project state, project+tools/runtime или recurrent project↔user interaction loop?
+310. Как выводы об autonomy, memory, adaptation и causal attribution меняются при смене такой границы?
+311. По каким критериям компонент считается **constitutive part of the system**, а не external environment/input?
+312. Когда пользователь лучше моделируется как внешняя среда, а когда — как одна сторона замкнутого coupled feedback loop?
+313. Когда persistent files/history/memory являются частью state системы, а когда только внешним ресурсом, к которому система иногда получает access?
+314. Как учитывать openness системы — постоянный обмен information/actions через boundary — не стирая аналитическую границу полностью?
+315. Какой минимальный набор current variables должен считаться state, чтобы дальнейшая trajectory была корректно описана?
+316. Может ли system boundary itself меняться во времени при появлении новых tools, relations or persistent channels, и как это влияет на longitudinal comparison?
+317. Как отличить реальное history dependence от эффекта неверно/слишком узко выбранной system boundary?
+318. Какой минимальный замкнутый loop нужен, чтобы собственный choice мог изменить future environment/input и тем самым породить history-dependent trajectory?
+319. Когда apparent path dependence исчезает после добавления пропущенной current-state variable и поэтому является incomplete state description?
+320. Какие критерии показывают, что current state не является sufficient statistic for future dynamics и системе действительно нужна более длинная history?
+321. Как отличить простую persistence от hysteresis, где одинаковые текущие внешние условия приводят к разным состояниям в зависимости от предыдущей trajectory?
+322. При каких условиях цикл `retrieval → choice → similar future events → more similar stored/retrieved material` создаёт self-reinforcing path dependence?
+323. Как отличить такой retrieval-induced lock-in от genuinely stable preference/goal/identity-like pattern?
+324. Как измерять reversibility и escape from path dependence: какие perturbations возвращают систему к альтернативной trajectory, а какие уже нет?
+325. Как coevolution `state → interaction structure → future state` меняет обычную модель системы с fixed environment/connectivity?
+326. Когда действия системы создают или закрывают собственные future opportunities — то есть меняют не только state, но и доступное пространство последующих transitions?
+327. Что отличает **guided self-organization** от externally scripted behavior в системе с фиксированными higher-level constraints?
+328. Когда external rules только ограничивают admissible dynamics, а когда фактически задают desired outcome/global blueprint?
+329. Какие dimensions bounded autonomy нужно различать under constraints: choice among options, goal selection, planning, memory updating, tool use, stopping and revision?
+330. Почему unpredictability, stochasticity или complexity поведения не являются достаточным evidence autonomy?
+331. Чем viability/maintenance of constraints отличается от optimizing an externally specified objective и от choosing self-endorsed goals?
+332. Как различать robustness, resilience, rigidity and revisability в history-dependent adaptive system?
+333. Когда macro-level description действительно добавляет causal/explanatory value beyond micro-level description и как избежать rhetorical claims of emergence?
+334. Как выбирать scale анализа для разных claims: model inference, agent policy, project persistence, user-project loop и longitudinal individual trajectory?
+335. Когда fixed/predefined state space достаточно, а когда history may change the available future possibilities themselves; как исследовать open-endedness без заранее утверждать её наличие у GPT?
+
+## 33. A2 — ownership corrections после межобластной сверки
+
+Для фазы B:
+
+- №7 остаётся **primary owner** cross-area gap 1: `system boundary of participant`;
+- №7 остаётся **primary owner** gap 14: `retrieval-induced path dependence`;
+- №7 поддерживает gaps 8, 9, 11, 15 и 20 через formal feedback/path-dependence/autonomy distinctions;
+- human/personality trajectories → primary №1;
+- psychological learning → №3;
+- biological stability/plasticity → №6;
+- concrete LLM state → №8;
+- agent architecture/action/memory loops → №9;
+- ML adaptation algorithms → №10;
+- actual ChatGPT product boundary/persistence → №11;
+- instruction constraints/design → №12.
+
+Обязательная дисциплина:
+- **feedback ≠ learning**;
+- **persistence ≠ identity**;
+- **self-organization ≠ agency**;
+- **unpredictability ≠ autonomy**;
+- **history dependence ≠ explicit memory store**;
+- **emergence ≠ missing causal explanation**.
+
+## 34. Финальный coverage audit A2
+
+Повторно проверены:
+- system boundaries and observer dependence;
+- self-organization and guided self-organization;
+- adaptive/co-evolving networks;
+- history dependence and hysteresis;
+- retrieval-like self-reinforcing loops;
+- fixed vs evolving state spaces;
+- multiscale causal description/causal emergence;
+- robustness/resilience;
+- bounded/delegated autonomy;
+- cross-domain abstraction after A2 №6.
+
+После последних источников новые находки укладывались в вопросы №309–335 или существующие A1-блоки. **Новой крупной самостоятельной ветви не появилось.**
+
 ## Статус
 
-**A1 №7 закрыта именно как картография области.** В этом проходе отдельные вопросы не исследовались глубоко: источники использовались для построения структуры поля, его споров и методологических границ.
+**A2 №7 завершена как финальная картография области.** Карта теперь содержит 308 вопросов A1 + 27 уточняющих вопросов A2 (№309–335), ownership corrections и final coverage audit.
 
-**Следующий шаг общего процесса:** A1 №8 «Архитектура и поведение GPT/LLM».
+A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры, границ и полноты карты; глубокий формальный разбор системных принципов относится к фазе B.
+
+**Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №8 «Архитектура и поведение GPT/LLM»**.
