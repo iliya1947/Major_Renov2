@@ -252,3 +252,123 @@
 196. How can task-specific modules coexist with shared features?
 197. How does multi-task learning change when tasks arrive sequentially?
 198. How are hidden task relationships discovered rather than specified?
+
+## 18. Curriculum learning and task sequencing
+
+199. What counts as a curriculum in machine learning?
+200. How do manually designed and automatic curricula differ?
+201. How is example difficulty defined?
+202. How is task difficulty defined?
+203. When does easy-to-hard ordering help versus hurt?
+204. How does curriculum interact with transfer and catastrophic forgetting?
+205. What is self-paced learning and how does it differ from curriculum learning?
+206. How can curricula adapt to current learner competence?
+207. How are tasks selected when no fixed difficulty scale exists?
+208. How do curricula affect representation learning?
+209. Can a curriculum over-specialize the learner to an artificial progression?
+210. How should curriculum benefit be evaluated independently of extra compute/data?
+
+## 19. Active learning and information acquisition
+
+211. What is active learning and what choices can the learner control?
+212. How do pool-based, stream-based and query-synthesis settings differ?
+213. How are uncertainty sampling, diversity and expected-error-reduction strategies distinguished?
+214. How does active learning differ from exploration in RL?
+215. How does active learning differ from Bayesian optimization?
+216. How should labeling cost enter query decisions?
+217. How does concept drift change optimal query timing?
+218. How does delayed labeling affect active learning?
+219. How are rare but important regions discovered?
+220. What biases are introduced by non-randomly queried training data?
+221. How can active learning fail when uncertainty estimates are poor?
+222. How should query efficiency be evaluated jointly with final performance?
+
+## 20. Representation learning and self-supervision
+
+223. Why does representation quality affect later adaptability?
+224. How do pretext-task, contrastive, teacher–student, clustering and masked-prediction approaches differ?
+225. How do invariances chosen during self-supervision help or hurt downstream adaptation?
+226. What is representation collapse and how is it avoided?
+227. How stable are learned representations across domain shifts?
+228. How does self-supervised pretraining reduce label requirements?
+229. How does representation learning interact with continual learning?
+230. Can self-supervised objectives themselves forget old structure in continual settings?
+231. How does representation disentanglement relate to transferability?
+232. What is the role of augmentation policy in learned invariances?
+233. How should representation quality be measured beyond downstream linear probes?
+234. When does a representation useful for one adaptation setting constrain another?
+
+## 21. Reinforcement learning as adaptive policy learning
+
+235. What distinguishes model-free, model-based and hybrid RL?
+236. How do value-based, policy-based and actor–critic methods differ?
+237. How does on-policy learning differ from off-policy learning?
+238. What roles state representation and partial observability play?
+239. How do reward specification and reward shaping affect learned adaptation?
+240. What is exploration–exploitation at the policy-learning level?
+241. How do sparse and delayed rewards affect credit assignment?
+242. How does nonstationary reward or transition dynamics alter RL?
+243. What is continual reinforcement learning?
+244. How does experience replay affect both stability and adaptation in RL?
+245. What is offline RL and how does it differ from online interaction?
+246. How does imitation/demonstration data interact with RL?
+247. How do model-based planning and learned policy adaptation interact?
+248. How should policy performance be evaluated under changing environments?
+
+## 22. Meta-RL and adaptation across tasks
+
+249. What distinguishes meta-RL from ordinary multi-task RL?
+250. How is a task distribution represented in meta-RL?
+251. How does adaptation occur through recurrent state, context inference or gradient updates?
+252. How much within-task data is allowed before adaptation is considered successful?
+253. How does meta-RL handle task ambiguity?
+254. How does meta-RL behave outside its meta-training distribution?
+255. What is the relation between latent task inference and memory?
+256. How do meta-RL methods trade fast adaptation against broad generalization?
+257. How does meta-RL interact with continual learning across task sequences?
+258. What evaluation protocols reveal meta-overfitting?
+
+## 23. Adaptive control and learning-based control
+
+259. How does adaptive control differ from machine-learning adaptation?
+260. How does adaptive control differ from robust control?
+261. What kinds of plant/model uncertainty are assumed?
+262. What are parameter-estimation versus direct adaptive-control approaches?
+263. How do stability guarantees differ from empirical ML performance criteria?
+264. How does reinforcement learning overlap with optimal/adaptive control?
+265. When does online system identification precede controller adaptation?
+266. How do safety constraints alter exploration?
+267. How does model uncertainty enter controller updates?
+268. How do fast parameter adaptation and slow structural adaptation differ?
+269. Which adaptive-control results depend on explicit model structure?
+270. How transferable are adaptive-control principles to high-dimensional learned systems?
+
+## 24. Personalization and user-specific adaptation
+
+271. What distinguishes personalization from domain adaptation?
+272. How much user-specific data is needed for meaningful personalization?
+273. How are global and local/user-specific parameters separated?
+274. How does cold-start personalization work?
+275. How should personalization handle changing user behavior?
+276. How are temporary preferences distinguished from persistent ones?
+277. How can personalization avoid overfitting to recent interactions?
+278. How are privacy constraints balanced against personalization?
+279. How can personalization preserve global capabilities?
+280. How are multiple contexts/personas for one user represented?
+281. What happens when user feedback is noisy, inconsistent or strategic?
+282. How should personalization benefit be evaluated across users, not just averages?
+
+## 25. Federated and distributed adaptation
+
+283. What distinguishes federated learning from ordinary distributed training?
+284. How do cross-device and cross-silo settings differ?
+285. What is statistical heterogeneity/non-IID data in federated learning?
+286. How does client drift differ from temporal concept drift?
+287. How do aggregation methods handle heterogeneous clients?
+288. How does personalized federated learning differ from one global model?
+289. How do communication constraints affect adaptation frequency?
+290. How do privacy mechanisms change learning quality?
+291. How are new clients incorporated over time?
+292. How do federated systems handle changing local distributions?
+293. How does federated transfer/domain generalization combine cross-client and cross-domain adaptation?
+294. When does decentralization improve resilience versus amplify inconsistency?
