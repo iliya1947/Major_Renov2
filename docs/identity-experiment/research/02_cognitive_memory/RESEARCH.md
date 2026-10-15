@@ -87,3 +87,38 @@ Bailey & Smith (2024), Fawcett et al. (2024), Rummel & Kvavilashvili (2023), Sow
 4. Procedural/implicit memory — насколько необходимо именно нашей общей задаче?
 5. Developmental memory — самостоятельный блок или пересечение с №1?
 6. Retrieval suppression/control — достаточно ли M8?
+
+
+## 15.10.2026 — второй проход A1: проверка пропусков
+
+### Source / reality monitoring
+Johnson (2025 Annual Review) возвращает source/reality monitoring в центр общей архитектуры памяти: субъективное чувство «это воспоминание / знание / внутренне сгенерированное содержание» само требует оценки источника. Это не новый верхнеуровневый блок: достаточно M6 + M13.
+
+### Episodic future thinking
+Обзоры Schacter et al. (2017) и Rummel & Kvavilashvili (2023) показывают, что episodic future thinking и prospective memory — связанные, но не тождественные исследования: первое — конструкция возможного будущего события, второе — выполнение ранее сформированного намерения.
+
+**Решение для карты:** объединить в M11 как future-oriented memory, сохранив различение.
+
+### Social / transactive memory
+Hirst & Echterhoff (2012) показывает, что remembering в разговорах может не только помогать collaborative memory, но и систематически reshaping what people remember.
+
+**Решение для карты:** социальную механику оставить в №5; в №2 сохранить только cognitive факт distributed/transactive memory и conversational reshaping как границу M14/M16.
+
+### Implicit / procedural memory
+Reber (2013) подчёркивает, что implicit learning трудно трактовать как одну альтернативную систему: влияние опыта может проявляться через performance без conscious recollection.
+
+**Решение для карты:** явно включить procedural/implicit в M1; подробные skill/habit/associative mechanisms исследовать в №3.
+
+### Retrieval suppression / memory control
+Современный мета-анализ Clark et al. (2026) охватывает 120 think/no-think studies и подтверждает отдельный устойчивый исследовательский феномен suppression-induced forgetting при существенной heterogeneity.
+
+**Решение для карты:** отдельный верхнеуровневый блок не нужен; это важная подветвь M8.
+
+### Developmental memory
+Ghetti & Fandakova (2020) связывают развитие episodic recollection с metamemory, encoding/retrieval strategies и меняющейся precision/flexibility representations.
+
+**Решение для карты:** developmental evidence использовать на A2 как stress-test модели памяти, но не создавать отдельный M17; границы — №1 и №6.
+
+## Итог первого глобального прохода A1 области №2
+
+M1–M16 покрывают основные исследовательские разломы, обнаруженные в двух обзорных проходах. Финальная проверка completeness/границ сознательно отложена до A2 после картографии остальных областей.
