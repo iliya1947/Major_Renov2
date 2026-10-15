@@ -125,3 +125,134 @@
 Дополнительно проверены обзоры по physiological stress, exercise, adult learning/aging, microglia, astrocyte-mediated plasticity, neurotrophins, neuromodulatory transmission, cross-species network translation and individual biological variability. После этого новые источники преимущественно уточняли уже найденные блоки, а не создавали новые крупные оси.
 
 Это достаточно для **A1-картографии**, но не означает глубокого исследования отдельных механизмов.
+
+
+---
+
+# A2 — повторная финальная картография с учётом всех областей
+
+**Дата прохода:** 16.10.2026.
+
+**Цель:** после межобластной сверки уточнить, что neuroplasticity действительно добавляет общей задаче, не превращая biological mechanism в blueprint для GPT/ML. Основной фокус A2: stability↔change, metaplasticity/history-dependence, dynamic representations, cross-level causality, human measurement limits и дисциплина переноса №6 → №7 → №10.
+
+## Новые или повторно углублённо проверенные источники A2
+
+### Wen & Turrigiano (2024) — Keeping Your Brain in Balance: Homeostatic Regulation of Network Function
+Annual Review of Neuroscience 47:41–61  
+https://doi.org/10.1146/annurev-neuro-092523-110001
+
+**Фактически просмотрено в A2:** abstract и доступный полный review overview.  
+**Что меняет в карте:** experience-driven reconfiguration requires concurrent mechanisms that stabilize firing rates, information flow and sensory tuning. Different homeostatic mechanisms can stabilize the same functional property. Для A2 это усиливает вопрос **what must remain stable while substrate changes**, but does not imply a generic engineering rule.
+
+### Bhattacharya et al. (2025) — Induction of plasticity and metaplasticity using noninvasive brain stimulation
+Trends in Neurosciences 48:792–807  
+https://doi.org/10.1016/j.tins.2025.07.009
+
+**Фактически просмотрено:** PubMed abstract and review metadata.  
+**Что меняет в карте:** metaplasticity is explicitly defined as prior neural activity changing subsequent plastic responses; brain state, stimulation parameters and individual differences alter outcomes. Для A2 это makes **history-dependent capacity to change** separate from ordinary plastic change.
+
+### Tomé et al. (2024) — Dynamic and selective engrams emerge with memory consolidation
+Nature Neuroscience 27:561–572  
+https://doi.org/10.1038/s41593-023-01551-w
+
+**Фактически просмотрено:** abstract and substantial open full-text sections.  
+**Что меняет в карте:** mouse dentate-gyrus engrams can change cellular composition during consolidation while becoming more selective; inhibitory plasticity contributes to this transition. Это concrete evidence that **persistence of function/memory need not require fixed membership of the underlying representation**.
+
+### Zaki & Cai (2025) — Memory engram stability and flexibility
+Neuropsychopharmacology 50:285–293  
+https://doi.org/10.1038/s41386-024-01979-z
+
+**Фактически просмотрено в A2:** open review abstract/introduction and main thematic sections.  
+**Что меняет в карте:** memory representations participate in updating, reconsolidation, forgetting, schema learning, linking and representational drift. A stable-engram metaphor is therefore too rigid even within biology.
+
+### Eppler, Kaschube & Rumpel (2025) — Statistical learning and representational drift: A dynamic substrate for memories
+Current Opinion in Neurobiology 94:103107  
+https://doi.org/10.1016/j.conb.2025.103107
+
+**Фактически просмотрено:** abstract and open article overview.  
+**Что меняет в карте:** single-neuron tuning can drift while population-level representational similarity and stable behavior are preserved. Authors propose dynamic maintenance rather than static neural codes. Для A2 это sharpens the distinction **substrate stability vs functional stability**.
+
+### Hille et al. (2024) — From animal models to human individuality: Integrative approaches to the study of brain plasticity
+Neuron 112:3522–3541  
+https://doi.org/10.1016/j.neuron.2024.10.006
+
+**Фактически углублённо повторно просмотрено:** abstract and cross-level/cross-species framing.  
+**Что меняет в карте:** major translational problem is linking molecular/fine-structural animal measurements to macroscopic human measures and individual differences. The review explicitly argues for common cross-species metrics and conceptual/computational models rather than direct one-to-one translation.
+
+### Herzberg et al. (2025) — Measuring neuroplasticity in human development
+Neuropsychopharmacology 50:124–136  
+https://doi.org/10.1038/s41386-024-01947-7
+
+**Фактически углублённо просмотрено:** full accessible review sections and criteria for putative human plasticity measures.  
+**Что меняет в карте:** human EEG/fMRI markers require validation against biological mechanisms, developmental variation and prediction of neural/behavioral response. A changed imaging metric is not automatically a validated measure of plasticity.
+
+### Villa et al. (2026) — Experience-dependent rapid structural changes in the human brain: A systematic review
+Neuroscience & Biobehavioral Reviews 187:106736  
+https://doi.org/10.1016/j.neubiorev.2026.106736
+
+**Фактически просмотрено:** abstract/systematic-review summary.  
+**Что меняет в карте:** MRI-detected structural changes can appear on very short timescales, but vascular, extracellular-fluid and metabolic contributions complicate the interpretation as durable structural remodeling. Это strengthens the general rule **observed biological signal ≠ identified plastic mechanism**.
+
+### Rugg (2025) — The Cognitive Neuroscience of Memory Representations
+Cold Spring Harbor Perspectives / open PMC review  
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12569790/
+
+**Фактически просмотрено:** sections on engram change, representational drift and accessibility.  
+**Что меняет в карте:** persistence can be realized at ensemble/population level despite turnover of individual components; silent/inaccessible representations further complicate claims about what neural persistence means behaviorally. Boundary with №2 remains explicit.
+
+## A2 — уточнения, полученные из совокупности источников
+
+1. **Plasticity is substrate-specific biology, not a generic synonym for change.** Synaptic, intrinsic, structural, transcriptional, glial and network plasticity have different mechanisms and evidence.
+
+2. **Change and stabilization are co-processes.** Experience-dependent differentiation can destabilize activity; homeostatic mechanisms stabilize selected functional variables. Therefore biological adaptation is not “maximize change”.
+
+3. **History can change future changeability.** Metaplasticity means prior activity/state shifts thresholds, direction or magnitude of later plastic responses. This is conceptually distinct from storing the content of an earlier experience.
+
+4. **Stable function does not require static components.** Dynamic engrams and representational drift show that cell/synapse membership may change while selectivity, representation at population level or behavior remains stable.
+
+5. **Conversely, biological persistence does not imply behavioral persistence.** A neural alteration can exist without observable expression, and behavioral change can result from mechanisms at several levels. Causal mapping must be demonstrated.
+
+6. **The same behavioral phenotype can have multiple neural implementations.** Compensation, homeostasis and network degeneracy make one-to-one reverse inference unsafe.
+
+7. **More plasticity is not automatically better.** Excessive or poorly gated plasticity can destabilize function or contribute to maladaptive persistence. Stability and revisability must be studied together.
+
+8. **Timescale matters mechanistically.** Millisecond synaptic rules, seconds-scale BTSP, hours/days metaplastic/homeostatic change and longer circuit/structural processes cannot be treated as one update rate.
+
+9. **Plasticity is gated by state and context.** Prior neural activity, neuromodulatory state, developmental stage and individual history influence whether the same input yields the same biological change.
+
+10. **Human evidence is often indirect.** MRI/EEG/PET measures observe levels far removed from cellular mechanisms; rapid signal changes may have several physiological substrates.
+
+11. **Cross-species evidence requires an explicit bridge.** Animal causal precision and human ecological/individual relevance are complementary, not interchangeable.
+
+12. **Neural individuality is not personality individuality.** Individual variation in plastic responses may reflect genetics, developmental history, state and environment without constituting identity/personality.
+
+13. **Biological stability–plasticity is not ML stability–plasticity.** The shared abstract problem is retention vs change under continued input; mechanism, substrate, objective and evidence differ.
+
+14. **A valid artificial analogy must be mediated through an abstraction.** Correct route:
+`№6 biological phenomenon → №7 domain-general formal property → №10/9 artificial mechanism`.
+Direct `synapse → weight`, `engram → file` or `metaplasticity → learning-rate rule` is not evidence-based transfer.
+
+15. **Biology mainly contributes constraints/questions to our invention.** It suggests asking what remains stable, what is allowed to change, how prior history alters later change, how multiple timescales interact and how maladaptive lock-in is avoided. It does not tell us how ChatGPT project instructions or files should implement those functions.
+
+## A2 boundary decisions for area №6
+
+- **Остаётся в №6:** biological substrates and causal levels of experience-dependent change; homeostasis; metaplasticity; neural representation stability/drift; state/developmental gating; biological measurement and cross-species translation.
+- **Primary owner №2:** cognitive memory constructs and retrieval/generalization.
+- **Primary owner №3:** behavioral/psychological learning.
+- **Primary owner №4:** motivational significance and reward/value constructs.
+- **Primary owner №7:** substrate-neutral concepts of stability, path dependence, multiscale adaptation and system identity.
+- **Primary owner №10:** ML stability–plasticity, continual learning and artificial adaptation algorithms.
+- **№8/9/11/12:** no direct implementation claim may be inferred from №6.
+
+## A2 coverage conclusion
+
+Повторный поиск по:
+- homeostatic stabilization;
+- metaplasticity/history-dependent plastic responsiveness;
+- dynamic engrams;
+- representational drift with functional stability;
+- cross-scale/cross-species translation;
+- individual differences in plasticity;
+- human measurement validity and rapid structural-change confounds
+
+не выявил новой крупной biological-plasticity branch beyond A1. Новые результаты уточнили **relations among change, stability, history, representation and evidence**. Этого достаточно для финализации карты №6 без превращения neuroscience в blueprint для artificial adaptation.
