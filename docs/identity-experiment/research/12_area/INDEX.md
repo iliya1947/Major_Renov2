@@ -174,3 +174,17 @@
 128. When should plan creation and execution be separated?
 129. How should plans be revised after new information?
 130. Which decomposition gains are task-specific rather than general?
+
+
+## 14. Multiple-candidate prompting
+
+131. When is it useful to generate several candidate solution paths?
+132. How do several candidate paths differ from a single pass?
+133. How many candidates are useful before cost dominates?
+134. How should candidate outputs be compared?
+135. How should stopping criteria be defined?
+136. How does candidate-generation cost scale with task complexity?
+137. When do extra candidates add little value?
+138. How do external checks change selection reliability?
+139. What happens when generation and selection use closely related models?
+140. How should multi-candidate prompting be separated from full agent planning?
