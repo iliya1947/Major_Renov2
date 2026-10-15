@@ -313,3 +313,145 @@
 226. Как status threat affects identity behavior?
 227. Как mobility possibilities change identification with hierarchy?
 228. Как power interacts with gender, race, class and other identities?
+
+## 21. Stigma, discrimination и identity threat
+
+### Вопросы
+229. Как stigma differs from stereotype, prejudice and discrimination?
+230. Что делает social identity stigmatized in a given context?
+231. Как situational cues trigger identity threat?
+232. Как personal beliefs and collective representations moderate threat?
+233. Какие coping responses to identity threat различаются?
+234. Как stereotype threat differs from broader identity threat?
+235. Как chronic discrimination changes identity and expectations?
+236. Как concealable vs visible stigmatized identities differ?
+237. Как attributional ambiguity affects interpretation of feedback?
+238. Как structural inequality differs from interpersonal bias in identity experience?
+239. Как stigma intersects with multiple identities?
+240. Какие resilience findings risk blaming individuals for structural conditions?
+
+## 22. Collective identity, collective action и normative change
+
+### Вопросы
+241. Чем collective identity отличается от ordinary social identification?
+242. Как shared grievance becomes group-relevant rather than personal?
+243. Как efficacy, injustice and identity interact in collective action?
+244. Как participation itself changes identity?
+245. Как protest/crowd experience strengthens or transforms shared identity?
+246. Как group norms shift during collective action?
+247. Как minority norms become broader societal norms?
+248. Чем normative change differs from individual conformity?
+249. Как conflict between societal and subgroup norms drives social change?
+250. Как polarization affects identity boundaries?
+251. Какие mechanisms stabilize new norms after change?
+252. Как collective memory and identity interact without being the same construct?
+
+## 23. Online and digital identity
+
+### Вопросы
+253. Как profiles and persistent records change self-presentation?
+254. Как online identity differs from offline identity in continuity and audience structure?
+255. Как multiple audiences create context collapse?
+256. Как anonymity and pseudonymity affect identity salience?
+257. Как likes, ratings and follower counts affect social comparison and reputation?
+258. Как algorithmic curation changes perceived norms and group boundaries?
+259. Как online communities create belonging and group identity?
+260. Как digital traces constrain later identity revision?
+261. Как online disinhibition relates to role and identity cues?
+262. Как platform affordances influence self-disclosure?
+263. Как parasocial and mediated relationships fit into social connection research?
+264. Как identity experimentation online differs from strategic impression management?
+
+## 24. Social networks and relational structure
+
+### Вопросы
+265. Как network position differs from subjective social connection?
+266. Как tie strength and multiplexity matter for identity and influence?
+267. Как homophily differs from social influence?
+268. Как selection into networks creates apparent identity effects?
+269. Как network clustering changes norm perception?
+270. Как bridge ties expose people to alternative identities/norms?
+271. Как social isolation differs structurally from loneliness?
+272. Как identities shape network formation and vice versa?
+273. Как repeated interactions across network positions change reputation?
+274. How should network-level and individual-level explanations be combined?
+
+## 25. Methodological problems
+
+### Вопросы
+275. Как distinguish personal, relational and social identity empirically?
+276. Какие measures of identification capture different components rather than one latent construct?
+277. Как self-report identity differs from observed behavior and social recognition?
+278. Как measure identity salience without making it salient by measurement?
+279. Как longitudinal designs distinguish identity change from context change?
+280. Как within-person methods capture switching among identities?
+281. Как experiments on minimal groups generalize to consequential real-world identities?
+282. Как cross-cultural measurement invariance affects identity comparison?
+283. Как qualitative methods contribute where fixed categories are inadequate?
+284. Как intersectional analysis avoids sparse-cell and additive-category problems?
+285. Как social-network methods separate selection from influence?
+286. Как distinguish perceived norms from actual norms?
+287. Как measure reputation separately from self-presentation?
+288. Как ecological validity differs between lab exclusion/conformity tasks and chronic social experience?
+289. Как power and structural inequality enter designs instead of being treated as individual differences?
+290. Как online-platform data create measurement and sampling biases?
+291. Как causal inference handles reciprocal person↔group and person↔relationship effects?
+292. Как distinguish identity content change from mere label change?
+
+## 26. Крупные споры, сохранённые для A2/B
+
+1. Personal identity vs social identity as separable layers vs mutually constitutive processes.
+2. Stable self-concept vs context-dependent working self.
+3. Identity as internal self-definition vs identity as socially recognized position.
+4. Social Identity Theory vs symbolic-interaction/role approaches.
+5. Group identity influence vs generic normative/informational influence.
+6. Self-verification vs self-enhancement.
+7. Belonging as basic motive vs multidimensional social connection.
+8. Individual identity categories vs intersectional/power-embedded identities.
+9. Social categories as cognitive shortcuts vs socially constructed/political boundaries.
+10. Reputation as accurate social information vs emergent bias and stereotype.
+11. Norm internalization vs conformity/enforcement.
+12. Relationship-based self change vs preservation of individual boundaries.
+13. Trust based on persons vs categories vs institutions/networks.
+14. Identity continuity vs adaptive revision.
+15. Identity fusion vs ordinary identification.
+16. Online identity as extension of offline self vs platform-specific construction.
+17. Population-level identity models vs idiographic, relational and network-level processes.
+18. Laboratory social effects vs naturalistic repeated social interaction.
+
+## 27. Coverage-check A1
+
+Карта сверена по независимым ветвям:
+- terminology of self/identity;
+- personal identity/self-concept;
+- social identity/self-categorization;
+- relational self;
+- role identity/symbolic interaction;
+- multiple/intersectional identities;
+- identity development;
+- identity/self motives;
+- self-esteem/relational value;
+- belonging/social connection;
+- ostracism/exclusion;
+- social comparison;
+- person perception/stereotypes/implicit cognition;
+- reputation/impression management;
+- norms/conformity/social influence;
+- intergroup relations;
+- trust/cooperation;
+- close relationships/interdependence;
+- cultural identity/acculturation;
+- power/status/hierarchy;
+- stigma/discrimination/identity threat;
+- collective action/normative change;
+- online identity/social media;
+- social-network structure;
+- measurement, longitudinal, intersectional and network methodology.
+
+После этих проверок новые обзорные источники добавляли преимущественно детализацию внутри уже найденных блоков, а не новые крупные оси.
+
+## Статус
+
+**A1 №5 закрыта именно как картография области.** Ни один из 292 вопросов не считается глубоко исследованным или решённым.
+
+**Следующий шаг общего процесса:** A1 №6 «Нейробиология и нейропластичность».
