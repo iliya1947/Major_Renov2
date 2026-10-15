@@ -1,6 +1,6 @@
 # Межобластная сверка после A1
 
-**Статус:** этапы 1–3 завершены 15.10.2026. Следующий — этап 4; он ещё не начат.
+**Статус:** этапы 1–4 завершены 15.10.2026. Следующий — этап 5; он ещё не начат.
 
 **Назначение:** сверить 12 первичных карт A1 до начала A2. Сверка проводится поэтапно, без попытки закрыть весь межобластной анализ одним ответом.
 
@@ -9,7 +9,7 @@
 1. **Границы областей, дубли и неверно разделённые темы — завершён.**
 2. **Зависимости и пересечения между областями — завершён.** Проверены внутренние зависимости и все 35 межкластерных пар.
 3. **Пропущенные вопросы, видимые только межобластно — завершён.** Найдено 20 интегральных cross-area gaps.
-4. Противоречия, терминологические ложные совпадения и несовместимые постановки — не начат.
+4. **Противоречия, терминологические ложные совпадения и несовместимые постановки — завершён.**
 5. Пакет конкретных поправок для A2 каждой области — не начат.
 
 ---
@@ -832,3 +832,456 @@ Feedback, delay, system boundary, state, path dependence, stability, robustness,
 Найдено **20 межобластных вопросов/узлов**, отсутствующих в A1-картах в необходимой интегральной постановке. Пока они сохранены здесь как cross-area gaps; **распределять точные добавления/переформулировки по A2 каждой области будет этап 5**, после проверки противоречий на этапе 4.
 
 **Этап 4 — противоречия, разные термины для одного явления и ложные совпадения — в этом проходе НЕ начинался.**
+
+
+---
+
+# Этап 4 — противоречия, терминологические ложные совпадения и несовместимые постановки
+
+**Статус:** завершён 15.10.2026.
+
+## Метод
+
+Проверены все 12 A1-карт по трём отдельным типам риска:
+
+1. **одно слово → разные constructs/mechanisms**;
+2. **разные слова → близкая функция/операция**, которую легко ошибочно посчитать разными явлениями;
+3. **несовместимые предпосылки**, которые нельзя молча объединять в будущий синтез.
+
+Цель здесь — не решить научные споры, а сделать их явными перед A2.
+
+---
+
+## A. Одно слово — разные явления
+
+### 1. Memory
+
+В разных областях `memory` означает как минимум:
+
+- №2 — human cognitive memory: encoding/retrieval/reconstruction, episodic/semantic/autobiographical systems/processes;
+- №6 — biological substrates/engrams/consolidation;
+- №7 — history dependence/path dependence/system memory без обязательного memory store;
+- №8 — context use или memory-based model-editing, причём сама карта спрашивает, где analogy with memory fails;
+- №9 — engineered agent stores + write/retrieval policies;
+- №10 — memory-based learners, replay/coresets/finite-memory algorithms;
+- №11 — ChatGPT product Memory, history, files/sources and persistence surfaces;
+- №12 — project memory/history как часть effective instruction context.
+
+**Правило для A2:** слово `memory` никогда не использовать без qualifier уровня. Особенно запрещено: `file/project memory = episodic memory` без отдельного functional mapping.
+
+### 2. Learning
+
+- №3 — psychological learning as experience-dependent change in behavior/expectation/representation;
+- №6 — neural mechanisms associated with learning;
+- №7 — expansion/change of regulatory capability;
+- №8 — ICL, instruction tuning, continual learning; сама карта сохраняет спор `ICL as learning vs inference/task conditioning`;
+- №9 — memory/prompt/policy/weight changes inside agent system;
+- №10 — formal/algorithmic machine learning;
+- №12 — few-shot/in-context effects inside prompting.
+
+**Противоречие:** часть традиций требует относительно устойчивого change, тогда как `in-context learning` может исчезнуть вместе с context. Поэтому слово `learning` не должно автоматически означать acquired persistent experience.
+
+### 3. Experience
+
+- №2 — subjective/episodic experience and event representation;
+- №3 — direct experience as source of learning;
+- №4/5 — lived/subjective/social experience;
+- №6 — experience-dependent neural change;
+- №9 — raw interaction trajectory или generalized reusable knowledge;
+- №10 — replayable training/interaction samples;
+- №11 — product-level persistence surfaces, из которых можно удалить «experience»;
+- №12 — accumulated experience as evolving content.
+
+**Правило:** в проекте надо отдельно различать `event/history`, `stored record`, `interpretation` и `acquired understanding`. Слово `experience` без этого слишком неоднозначно.
+
+### 4. Adaptation
+
+- №3 — sensory/motor/behavioral adaptation;
+- №6 — biological adaptation vs plasticity;
+- №7 — system-level adaptation distinct from regulation and optimization;
+- №8 — transient context adaptation and persistent LLM adaptation;
+- №9 — prompt/memory/policy/weight adaptation;
+- №10 — umbrella term for multiple ML update regimes.
+
+**Несовместимость:** `adaptation` может означать и transient state change, и persistent learning, и control response, и parameter update. В A2 нельзя сравнивать результаты под одним label без specifying what changes, on what timescale and where state persists.
+
+### 5. Plasticity
+
+- №6 — neurobiological plasticity;
+- №10 — capacity/trade-off for changing an ML system while retaining prior performance.
+
+Общее слово не создаёт mechanistic bridge. Допустимый мост проходит только через более абстрактную формулировку №7: persistence/change/stability trade-offs.
+
+### 6. Identity
+
+- №1/5 — human personal/social/narrative identity and self-continuity;
+- №7 — system identity/organization-preserving vs identity-preserving change;
+- №9 — agent identity as distinct from persona and persistent state;
+- №10 — task identity;
+- №12 — identity-neutral instructions / risk of assigned character.
+
+**Правило:** `identity` всегда квалифицировать. Task identity, system identity, agent profile and human identity — не одна переменная.
+
+### 7. State
+
+- №1 — personality state;
+- №3 — latent/hidden learning state;
+- №4/5 — affective/self/social state;
+- №6 — neural/physiological state;
+- №7 — dynamical system state/state space;
+- №8 — model hidden state or state persisting via runtime;
+- №9 — agent/environment/working state;
+- №10 — optimizer/task/latent state;
+- №11 — account/browser/product state.
+
+Это особенно опасно для фраз типа «состояние изменилось»: они бессодержательны без уровня и persistence horizon.
+
+### 8. Control
+
+- №2 — executive/metamemory control;
+- №3/4 — self-regulation/self-control/action control;
+- №7 — cybernetic/control-theoretic regulation;
+- №9 — agent monitoring/control/action arbitration;
+- №10 — adaptive/robust/optimal control;
+- №11 — product/UI controls.
+
+**Ложное совпадение:** UI control и control theory; self-control и feedback controller.
+
+### 9. Autonomy / agency / initiative
+
+Эти термины близки, но не взаимозаменяемы:
+
+- №1/5 — human agency within development/social roles;
+- №4 — autonomy as psychological need/self-endorsement;
+- №7 — autonomy as operational/system property distinct from mere self-regulation;
+- №9 — multidimensional agent autonomy (goal selection, planning, tools, execution, learning, memory);
+- №12 — instruction design that does not pre-program initiative.
+
+**Ключевой конфликт:** `autonomy` может означать subjective/psychological construct, system organization, delegated operational freedom or simply absence of explicit instruction. A2 must not collapse them.
+
+### 10. Goal / value / preference / reward / objective / intention
+
+№4 explicitly separates motive, goal, value, preference, intention and reward-related constructs. Technical areas use neighboring terms differently:
+
+- №8 — preference optimization / reward models;
+- №9 — operative goal, constraint, preference, success criterion, instruction;
+- №10 — scalar reward, objective, preference learning;
+- №12 — implicit goals/values/preferences injected by persona or wording.
+
+**Несовместимость:** externally specified objective/reward is not evidence of personal value, motive, interest or goal endorsement.
+
+### 11. Feedback
+
+- №3 — outcome/corrective/explanatory/social feedback in learning;
+- №4/5 — competence/reputational/social feedback;
+- №7 — cybernetic feedback;
+- №8 — human/AI feedback in post-training;
+- №9 — environment result, critique, reward, user correction and other agent feedback;
+- №10 — sequential learning signal and feedback-loop bias;
+- №12 — external feedback for self-correction.
+
+**Правило:** every feedback claim must specify **source, information content, authority and effect**. Feedback ≠ consequence ≠ reward ≠ correction.
+
+### 12. Context
+
+- №1–5 — situational/social/task context;
+- №7 — environment/system boundary/state conditions;
+- №8 — finite model context window and effective context utilization;
+- №9 — current agent context/state;
+- №10 — task/domain/context inference;
+- №11 — project context/product-managed context;
+- №12 — prompt context, history, examples and retrieved data.
+
+**Ложное совпадение:** psychological context and LLM context window share a word, not a mechanism.
+
+### 13. Persistence / stability / continuity
+
+- №1 — personality continuity/change;
+- №2 — memory stability;
+- №4 — persistence of effort/goal pursuit;
+- №5 — relationship/reputation/identity continuity;
+- №6 — persistence of neural change;
+- №7 — dynamical stability/resilience/persistence;
+- №8 — persistence of edits/behavior across context;
+- №9 — long-horizon state/identity/persona persistence;
+- №10 — stability–plasticity/retention;
+- №11 — persistence of files/history/memory across surfaces;
+- №12 — instruction stability.
+
+**Несовместимость:** persistence of storage does not imply persistence of influence; persistence of behavior does not imply same internal cause.
+
+### 14. Reflection / self-critique / self-correction / metacognition
+
+- №3 — reflection as part of self-regulated learning;
+- №9 — agent reflection, critique, metacognition and repeated inference;
+- №12 — iterative prompting/self-correction.
+
+№9 already asks when reflection is merely another inference call rather than metacognition.
+
+**Правило:** self-generated second-pass text is not automatically evidence of metacognitive monitoring or durable revision.
+
+### 15. Instruction
+
+- №3 — instruction/rule-governed human learning;
+- №8 — instruction tuning/following/hierarchy at model level;
+- №9 — agent instruction as one input among goals/constraints;
+- №11 — ChatGPT project/custom instructions as product feature;
+- №12 — prompt/instruction design.
+
+One word spans human learning, trained model capability, runtime authority and editable product configuration.
+
+### 16. Generalization / transfer / abstraction
+
+- №2 — memory/schema generalization;
+- №3 — behavioral/category/structural generalization and transfer;
+- №8 — model generalization;
+- №9 — abstraction across trajectories;
+- №10 — domain/OOD/meta-learning generalization;
+- №12 — prompt/generalization across tasks/models.
+
+**Rule:** similar functional question, different object and evidence standard.
+
+### 17. Personalization / individualization
+
+- №10 — user-specific ML adaptation/personalization;
+- №11 — product personalization;
+- №1/5 — human individual differences/identity;
+- project goal — history-dependent functional individualization.
+
+**False equivalence:** a personalized system can be user-tailored without having acquired its own individual trajectory.
+
+---
+
+## B. Разные слова — близкие функции, которые надо сопоставлять в A2
+
+These are **not synonyms**, but they occupy overlapping functional slots and therefore must be compared rather than studied independently as if unrelated.
+
+### 1. Access to past information
+
+`recall / retrieval / source lookup / cross-chat reference / context injection / memory retrieval`
+
+Common functional question: **what past information becomes available now?**
+
+But mechanisms differ: internal recall, external retrieval, product-managed reference and direct prompt insertion.
+
+### 2. Loss or reduced future influence
+
+`forgetting / extinction / deletion / obsolescence / truncation / decay / suppression / replacement`
+
+Common functional question: **why does old information/behavior stop influencing current behavior?**
+
+They differ radically in whether underlying representation still exists.
+
+### 3. Turning episodes into reusable structure
+
+`generalization / semanticization / abstraction / consolidation / summarization / lesson extraction / cross-trajectory abstraction`
+
+Common functional question: **how does specific history become reusable beyond the original event?**
+
+But:
+- consolidation may preserve rather than abstract;
+- summarization may compress without learning;
+- semanticization may lose episodic detail;
+- generalization can be behaviorally inferred without explicit summary.
+
+### 4. Change mechanisms
+
+`development / learning / adaptation / updating / revision / editing / personalization / plasticity / self-improvement`
+
+Common slot: **something changes over time**.
+
+Before comparison A2 must specify:
+1. what object changes;
+2. what causes change;
+3. whether it persists;
+4. whether it generalizes;
+5. whether old behavior remains accessible;
+6. whether change is externally imposed or history-dependent.
+
+### 5. Selection signals
+
+`salience / relevance / importance / value / utility / interest / novelty / priority`
+
+All can affect what gets attention, stored, retrieved or chosen, but they are not one construct. This is central to stage-3 gap №6: event significance without preset values.
+
+### 6. Persistent self-description
+
+`persona / profile / role / identity / self-model / narrative / history-dependent state`
+
+All can produce behavioral consistency. Only some are descriptive; some are prescriptive. A2 must ask whether consistency comes from a **rule that says who to be** or from **history that changes future grounds for choice**.
+
+### 7. Decision direction
+
+`goal / intention / objective / reward / success criterion / preference / value / constraint / instruction`
+
+These can all bias action selection. A2 must keep their causal roles distinct.
+
+### 8. Information that changes behavior
+
+`feedback / consequence / correction / critique / reward / evidence / social reaction`
+
+These overlap as inputs after action but differ in authority and semantics. This maps directly to stage-3 gap №10.
+
+### 9. Continuity substrates
+
+`history / memory / context / project source / file / profile / weights / state`
+
+All can carry something from past to future, but differ in:
+- inspectability;
+- persistence;
+- mutability;
+- retrieval policy;
+- authority;
+- causal pathway to response.
+
+---
+
+## C. Реальные несовместимые постановки, которые нельзя молча синтезировать
+
+### 1. Memory as storage vs memory as reconstruction
+
+№2 explicitly preserves a major dispute: memory can be reconstructive, not a passive readout. Engineering/product areas often represent memory as stored items retrieved later.
+
+**A2 requirement:** do not import a storage metaphor from agent/product systems into human memory, or a reconstructive-memory claim into file behavior, without evidence.
+
+### 2. Learning as persistent change vs learning as transient conditioning on context
+
+№3 asks how learning differs from temporary performance change. №8 preserves `ICL as learning vs inference/task conditioning`; №10 distinguishes transient adaptation from persistent learning.
+
+**A2 requirement:** persistence criterion must be explicit whenever the project uses the phrase «learned from experience».
+
+### 3. Personality/identity development vs behavioral consistency produced by instructions
+
+№1/5 treat personality/identity as developmental constructs. №9/12 show that persona/profile prompts can create consistent behavior immediately.
+
+**Conflict:** behavioral consistency is compatible with both development and scripting.
+
+**A2 requirement:** consistency alone cannot be evidence of acquired individuality.
+
+### 4. Motivation/interest vs externally assigned objective/reward
+
+№4 explicitly warns that observed choice is not automatically motivation. №9/10 can give agents goals/rewards from outside.
+
+**A2 requirement:** repeated pursuit of an instructed or rewarded target cannot by itself establish own interest/value.
+
+### 5. Self-organization vs guided/external organization
+
+№7 distinguishes self-organization from guided self-organization and externally imposed organization. Our future experiment necessarily includes project instructions, platform constraints and user interaction.
+
+**A2 requirement:** investigate what degree/type of history-dependent organization can emerge **under fixed external constraints**; do not use `self-organizing` as an all-or-nothing label.
+
+### 6. Autonomy vs external constraints
+
+№7/9 distinguish operational/bounded autonomy; №8/11/12 impose instruction hierarchy, permissions and product limits.
+
+**A2 requirement:** absence of unlimited freedom does not settle the autonomy question; define which decision dimensions are actually delegated.
+
+### 7. Stability vs ability to change
+
+№1/6/7/10 all contain stability–change trade-offs but at different levels.
+
+**A2 requirement:** «more stable» is not automatically better continuity, and «more plastic» is not automatically better development. Need separate desired persistence and revisability.
+
+### 8. Retrieval as neutral access vs retrieval as intervention
+
+№2 asks whether retrieval itself modifies memory; №9 retrieval ranking changes downstream action; stage-3 gap №14 identifies self-reinforcing retrieval loops.
+
+**A2 requirement:** access policy is part of trajectory formation, not merely a passive implementation detail.
+
+### 9. User influence as natural social experience vs user instruction as authority
+
+№5 treats influence/relationship as part of social history; №8/12 distinguish authoritative instructions; №9 distinguishes user feedback from environment feedback.
+
+**Conflict:** the same user message can simultaneously contain social reaction, evidence and instruction.
+
+**A2 requirement:** classify function, not just sender.
+
+### 10. Preference optimization vs individual preference
+
+№8 preference optimization represents training objectives over feedback data. №4 studies person-level preferences/interests; №9/10 discuss user preferences/personalization.
+
+**A2 requirement:** model behavior shaped by preference optimization cannot be called the participant’s own preference.
+
+### 11. Persistence of record vs persistence of effect
+
+№11 may preserve files/history while retrieval is selective; №8 context may omit or underuse available information; №9 retrieval policy selects memories.
+
+**A2 requirement:** «сохранено» ≠ «доступно» ≠ «извлечено» ≠ «повлияло».
+
+### 12. Reflection as revision vs reflection as extra generation
+
+№9/12 preserve evidence that self-correction can fail and reflection may be another inference call.
+
+**A2 requirement:** a written «lesson» must not automatically be treated as durable correction or metacognitive insight.
+
+### 13. Biological explanation vs engineering analogy
+
+№6 provides causal biological mechanisms; №7 can abstract formal properties; №10 provides artificial adaptation algorithms.
+
+**A2 requirement:** cross-domain transfer must pass through explicit abstraction, not through shared terminology such as `plasticity`, `memory` or `reward`.
+
+### 14. Product behavior vs model behavior
+
+№8 explicitly separates model from runtime/product; №11 catalogs current ChatGPT surfaces and opaque product-managed behavior.
+
+**A2 requirement:** changes observed in ChatGPT cannot automatically be attributed to model internals, and model capabilities cannot be assumed exposed by the product.
+
+### 15. Individualization vs personalization
+
+Project goal concerns a trajectory shaped by its own unique history. №10/11 personalization can merely tailor outputs to a user.
+
+**A2 requirement:** personalization may be an input/environmental condition, not the target construct.
+
+---
+
+## D. Terminology guardrails for A2
+
+To stop the same ambiguity from reappearing, A2 should use qualified terms wherever possible:
+
+- `human cognitive memory`
+- `neural memory mechanism`
+- `agent memory store/policy`
+- `ChatGPT product memory/history/source`
+- `model context`
+- `psychological learning`
+- `in-context adaptation/ICL`
+- `ML parameter/policy adaptation`
+- `agent-system adaptation`
+- `neuroplasticity`
+- `ML stability–plasticity`
+- `human personal/social identity`
+- `agent persona/profile/persistent state`
+- `task identity`
+- `psychological autonomy`
+- `system autonomy`
+- `agent operational autonomy`
+- `human preference/value/interest`
+- `training preference objective`
+- `user preference signal`
+- `project instruction`
+- `instruction-following capability`
+- `social feedback`
+- `environment consequence`
+- `learning signal/reward`
+- `product/UI control`
+
+If a shorter unqualified word is used, the surrounding text must make the level unambiguous.
+
+## Saturation-check этапа 4
+
+Проверены:
+- терминологические употребления across all 12 A1 maps;
+- главные cross-area overlaps from stages 1–3;
+- same-label/different-construct cases;
+- different-label/overlapping-function cases;
+- incompatible assumptions that would change the later causal synthesis.
+
+В финальном проходе новые кандидаты в основном сводились к уже зафиксированным families: change, persistence, selection, continuity, control, feedback, memory/access and identity/agency. Нового класса терминологической проблемы не появилось.
+
+## Итог этапа 4
+
+**Этап 4 завершён.**
+
+Главное: будущий A2 должен сравнивать области не по словам, а по **уровню анализа, объекту изменения, timescale, persistence mechanism, source of control/feedback и evidence standard**.
+
+**Этап 5 — собрать конкретный пакет поправок для A2 каждой из 12 областей — в этом проходе НЕ начинался.**
