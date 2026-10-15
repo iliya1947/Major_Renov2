@@ -342,3 +342,132 @@
 268. How should autonomous behavior be evaluated without anthropomorphic interpretation?
 269. What forms of autonomy require persistent state?
 270. Which autonomy questions belong to governance rather than cognitive architecture?
+
+## 24. Multi-agent systems and role structure
+
+271. When does adding multiple agents improve performance over a single agent with more inference?
+272. How do cooperation, competition and mixed-motive interaction differ?
+273. How are roles allocated among agents?
+274. How do fixed roles differ from dynamically reassigned roles?
+275. What coordination topologies are used: centralized, peer-to-peer, hierarchical, graph-based?
+276. How does communication bandwidth affect coordination?
+277. How do agents decide what information to share?
+278. How are conflicting beliefs reconciled?
+279. How do duplicated errors become amplified through consensus?
+280. How does diversity of models/prompts improve or harm group performance?
+281. How are responsibility and provenance tracked in collaborative outputs?
+282. How do multi-agent systems prevent endless debate or coordination overhead?
+
+## 25. Communication and shared context
+
+283. What is communicated: observations, beliefs, plans, critiques, actions, summaries or confidence?
+284. How does message ordering affect collective behavior?
+285. How does shared history differ from private memory?
+286. How do lossy summaries distort coordination?
+287. What does common ground mean operationally for artificial agents?
+288. How do agents detect misunderstanding?
+289. How do protocols constrain free-form language interaction?
+290. When is structured communication preferable to natural language?
+291. How do agents communicate uncertainty or provenance?
+292. How do adversarial/misleading agents affect group state?
+293. How does communication cost scale with team size?
+294. How can agents coordinate without exposing all internal state?
+
+## 26. Social simulation and generative agents
+
+295. What distinguishes task-oriented agents from agents used to simulate people or societies?
+296. How are memories, roles, relationships and schedules used in generative social agents?
+297. How do simulation agents differ from empirical models of real human behavior?
+298. How does persona prompting bias simulated social outcomes?
+299. How should emergent-looking group behavior be validated?
+300. What is the difference between internal consistency and human realism?
+301. How do simulated relationships update through interaction?
+302. How does memory retrieval shape apparent personality consistency?
+303. What risks arise when synthetic societies are treated as evidence about real societies?
+304. How do observer expectations influence interpretation of “emergent social behavior”?
+
+## 27. Embodied and computer-using agents
+
+305. How do embodied agents differ from text-only/digital agents?
+306. How are perception, spatial state and action grounded in physical or graphical environments?
+307. What roles VLMs/VLAs/world models play in embodied agents?
+308. How does action latency matter in dynamic environments?
+309. How do physical irreversibility and safety change planning requirements?
+310. How does GUI interaction differ from API tool use?
+311. How are coordinate/action grounding errors detected?
+312. What is embodiment in virtual environments versus robotics?
+313. How do sensor noise and partial observability affect memory and planning?
+314. Which principles transfer from embodied to conversational agents and which do not?
+
+## 28. Safety, security and authority boundaries
+
+315. How does agent safety differ from ordinary chatbot safety?
+316. What new risks arise when outputs can trigger external actions?
+317. How do direct and indirect prompt injection affect agents?
+318. How can external content hijack an agent’s instruction hierarchy?
+319. How are tool permissions and least-privilege principles implemented?
+320. How should agents handle secrets, credentials and private data?
+321. What are risks of memory poisoning or persistent malicious instructions?
+322. How does multi-step action create indirect harms not obvious in a single step?
+323. How can prospective safety checks occur before irreversible tool execution?
+324. How do confirmation gates differ from blanket refusal?
+325. How are compromised tools or observations detected?
+326. How should agent actions be auditable after execution?
+
+## 29. Reliability and failure modes
+
+327. What are major agent failure classes: planning, perception, memory, tool use, execution, verification, termination?
+328. How do small errors cascade in long-horizon tasks?
+329. How often does retrying help versus repeat the same failure?
+330. What is error recovery versus merely restarting?
+331. How do agents respond to contradictory tool outputs?
+332. How are stale assumptions detected?
+333. How does hallucinated state differ from hallucinated fact?
+334. How does partial task completion create false success signals?
+335. How can agents verify side effects in external systems?
+336. How do benchmark environments hide failures present in real systems?
+337. What causes brittle dependence on exact UI/API formats?
+338. How should reliability be measured across repeated stochastic runs?
+
+## 30. Evaluation and benchmarks
+
+339. What dimensions should agent evaluation cover beyond task success?
+340. How are planning, tool use, memory and self-correction evaluated separately?
+341. How are long-horizon and interactive tasks benchmarked?
+342. What makes an environment realistic enough for agent evaluation?
+343. How do static benchmarks differ from dynamic or continuously updated ones?
+344. How should cost, latency and number of tool calls enter evaluation?
+345. How is robustness to environment perturbation measured?
+346. How are safety and policy compliance evaluated during multi-step execution?
+347. How do user simulators affect validity?
+348. How can benchmark leakage/contamination affect agents?
+349. How should stochasticity and multiple attempts be aggregated?
+350. How do milestone/intermediate-state metrics improve diagnosis?
+351. How is memory evaluated for effectiveness, efficiency and capacity?
+352. How can evaluation distinguish a strong model from a strong orchestration scaffold?
+
+## 31. Resource efficiency and practical constraints
+
+353. How do token, latency, API-call and tool-execution costs scale with agent complexity?
+354. When does multi-agent collaboration cost more than it adds?
+355. How does reflection frequency affect performance/cost?
+356. How do memory retrieval budgets affect long-horizon quality?
+357. How do caching and reuse alter behavior?
+358. How should agents ration expensive tools?
+359. How do rate limits and external service failures affect planning?
+360. How does context growth create latency and cost pressure?
+361. When does a deterministic component outperform another LLM call?
+362. How should efficiency be evaluated together with reliability rather than separately?
+
+## 32. Reproducibility and system opacity
+
+363. How reproducible are agent results across model versions?
+364. How do changes in tools/APIs alter benchmark trajectories?
+365. How should prompts, tools, memory state and orchestration code be versioned?
+366. How do hidden retries or middleware affect reported performance?
+367. How much of an agent paper’s result depends on proprietary models?
+368. How do environment nondeterminism and model stochasticity interact?
+369. How should trajectories be logged for reproducibility?
+370. What information is needed to reproduce memory-augmented agent behavior?
+371. How do framework defaults create hidden experimental variables?
+372. How should negative results and failure trajectories be reported?
