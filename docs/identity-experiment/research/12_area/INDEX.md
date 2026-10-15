@@ -202,3 +202,17 @@
 148. How do heterogeneous prompt/model ensembles compare with repeated sampling?
 149. How should aggregate confidence be estimated?
 150. Which gains remain on newer and stronger models?
+
+
+## 16. Iterative output revision
+
+151. When does a second pass improve an earlier answer?
+152. How does review before finalization differ from later revision?
+153. How does targeted revision differ from full regeneration?
+154. Which tasks support reliable checking using only task-internal evidence?
+155. How does external evidence change revision success?
+156. How can repeated revision preserve an initial error?
+157. How should suggested changes be evaluated independently from final output?
+158. When should iterative revision stop?
+159. How does revision interact with fixed output constraints?
+160. How does prompt-level revision differ from long-term agent learning in area №9?
