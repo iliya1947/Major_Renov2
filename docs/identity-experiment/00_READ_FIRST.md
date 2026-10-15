@@ -108,25 +108,28 @@
 4. **Перед переходом в другой чат** актуализировать этот файл: завершённая тема, полученный результат, что остаётся открытым, точный следующий содержательный шаг и нужные ссылки. Если тема не завершена, честно пометить незавершённость. Не рассчитывать, что перенос произойдёт автоматически.
 5. Не делать из числа чатов меру числа «экспериментов», не создавать отдельные пилоты и не тратить контекст на бессмысленные дубли отчётов.
 
-**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1–№6.**
+**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1–№7.**
 
-1. **A1 №1 «Психология развития личности»** — первичная картография; 69 вопросов.
-2. **A1 №2 «Когнитивная психология и память»** — первичная картография; 124 вопроса.
-3. **A1 №3 «Психология обучения и поведения»** — первичная картография; 172 вопроса.
-4. **A1 №4 «Мотивация, эмоции и интересы»** — первичная картография; 262 вопроса.
-5. **A1 №5 «Социальная психология и идентичность»** — первичная картография; 292 вопроса.
-6. **A1 №6 «Нейробиология и нейропластичность»** — первичная картография; 260 вопросов в 28 блоках.
+1. **A1 №1 «Психология развития личности»** — первичная картография; 69 вопросов этой области.
+2. **A1 №2 «Когнитивная психология и память»** — первичная картография; 124 вопроса этой области.
+3. **A1 №3 «Психология обучения и поведения»** — первичная картография; 172 вопроса этой области.
+4. **A1 №4 «Мотивация, эмоции и интересы»** — первичная картография; 262 вопроса этой области.
+5. **A1 №5 «Социальная психология и идентичность»** — первичная картография; 292 вопроса этой области.
+6. **A1 №6 «Нейробиология и нейропластичность»** — первичная картография; 260 вопросов этой области.
+7. **A1 №7 «Кибернетика, сложные системы и самоорганизация»** — первичная картография; 308 вопросов этой области в 31 блоке.
 
-По №6 созданы и проверены:
-- `research/06_neuroplasticity/INDEX.md`;
-- `research/06_neuroplasticity/RESEARCH.md`;
-- `research/06_neuroplasticity/UNDERSTANDING.md`.
+**Важно для отчётов:** число вопросов у каждой области — отдельный локальный счётчик, а не накопительный итог по всем A1. Формулировать это явно, чтобы не создавать двусмысленность.
 
-Карта №6 охватывает multiscale definitions of plasticity; LTP/LTD; STDP/BTSP; intrinsic/dendritic and structural plasticity; homeostasis/metaplasticity; neuromodulation; activity-dependent transcription/epigenetics; engrams and systems consolidation; critical periods and adult plasticity; adult neurogenesis; astrocytes/microglia/myelin; offline processes; physiological state; exercise/metabolic modulation; circuit/network reconfiguration; individual differences; maladaptive plasticity; human measurement and cross-species translation.
+По №7 созданы и проверены:
+- `research/07_complex_systems/INDEX.md`;
+- `research/07_complex_systems/RESEARCH.md`;
+- `research/07_complex_systems/UNDERSTANDING.md`.
 
-**В этом проходе ни один из 260 вопросов №6 не исследовался глубоко.** Работа была направлена на картографию области и её границ.
+Карта №7 охватывает cybernetic feedback/control; homeostasis/rheostasis/allostasis; requisite variety/good-regulator; first/second-order cybernetics; nonlinear dynamics; attractors and tipping; emergence/coarse-graining; self-organization; nonequilibrium systems; complex adaptation; adaptive networks; multiscale organization; path dependence; robustness/resilience; modularity/degeneracy; adaptive landscapes/evolvability; autopoiesis/autonomy/viability; information dynamics; criticality; synchronization/collective behavior; distributed control; morphogenesis; FEP/active inference and critiques; modeling/validation; cross-domain transfer.
 
-**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №7 «Кибернетика, сложные системы и самоорганизация»**. Сохранять дисциплину A1: картографировать структуру области, направления/школы, споры, методологические проблемы, слепые зоны и вопросы; не переходить к глубокому разбору механизмов.
+**В этом проходе ни один из 308 вопросов области №7 не исследовался глубоко.** Работа была направлена на картографию области и её границ.
+
+**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №8 «Архитектура и поведение GPT/LLM»**. Сохранять дисциплину A1: картографировать структуру области, направления/школы, споры, методологические проблемы, слепые зоны и вопросы; не переходить к глубокому разбору механизмов.
 
 **Жёсткий процесс A1/A2:**
 - A1 каждой области — минимум один отдельный полноценный ответ с реальным исследованием источников;
