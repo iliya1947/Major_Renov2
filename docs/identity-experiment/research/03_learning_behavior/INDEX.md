@@ -57,3 +57,60 @@
 37. Как reward/punishment asymmetries меняются между задачами?
 38. Как context и reference points влияют на learning from positive vs negative outcomes?
 39. Где граница этой ветви с областью №4 «Мотивация, эмоции и интересы»?
+
+## 6. Reinforcement learning как психологическая и computational рамка
+
+40. Какие формы RL применяются к человеческому и животному learning?
+41. Что различают model-free, model-based и intermediate/hybrid accounts?
+42. Как value learning отличается от policy learning и model learning?
+43. Какие типы prediction error используются в психологических моделях?
+44. Как state representation влияет на то, чему вообще можно научиться?
+45. Как partial observability и sparse experience меняют applicability простых RL models?
+46. Как episodic memory, schemas и planning пересекаются с reinforcement learning?
+47. Какие параметры computational models действительно интерпретируемы психологически?
+48. Где model fit создаёт иллюзию механистического объяснения без достаточной идентифицируемости?
+
+## 7. Goal-directed action и habits
+
+49. Как operationally различают goal-directed и habitual control?
+50. Насколько outcome devaluation и contingency degradation надёжно измеряют habit?
+51. Как stimulus–response habits соотносятся с model-free RL?
+52. Всегда ли repetition ведёт к habit?
+53. Как goal-directed и habitual control сосуществуют или конкурируют?
+54. Какие данные поддерживают dual-system, hybrid и single-system accounts?
+55. Как context и stress влияют на arbitration между формами action control?
+56. Чем habit как психологический construct отличается от просто часто повторяемого поведения?
+57. Как automaticity соотносится с habit, skill и implicit learning?
+
+## 8. Extinction, reversal, updating и relapse
+
+58. Что именно происходит при extinction: unlearning, new learning, inhibition, context-specific updating?
+59. Чем extinction отличается от forgetting?
+60. Какие relapse phenomena нужно различать: spontaneous recovery, renewal, reinstatement, rapid reacquisition, resurgence?
+61. Чем reversal learning отличается от extinction?
+62. Как counterconditioning соотносится с extinction?
+63. Насколько extinction generalizes за пределы обученного stimulus/context?
+64. Почему behavioral suppression после extinction не доказывает стирание исходного learning?
+65. Какие лабораторные эффекты extinction воспроизводятся в naturalistic conditions?
+
+## 9. Generalization, discrimination и transfer
+
+66. Какие виды generalization различаются: stimulus, response, category, structural, functional, value?
+67. Как generalization gradients изучаются в conditioning?
+68. Как discrimination learning ограничивает generalization?
+69. Чем transfer отличается от generalization?
+70. Какие rule-based, similarity-based и latent-structure accounts нужно сравнить?
+71. Как overgeneralization и undergeneralization определяются в разных традициях?
+72. Когда specificity — полезный результат learning, а когда проблема?
+73. Как near transfer и far transfer измеряются и почему far transfer особенно спорен?
+
+## 10. Causal, relational и latent-structure learning
+
+74. Чем associative learning отличается от causal learning?
+75. Какие модели causal structure learning используются в human psychology?
+76. Как latent causes/states используются для объяснения context-sensitive learning?
+77. Как learners различают correlation и intervention/causal efficacy?
+78. Какие формы relational learning не сводятся к простой similarity?
+79. Как cognitive maps и structural representations входят в learning literature?
+80. Как hidden-state inference объясняет apparent changes in learning?
+81. Где граница causal learning с reasoning и decision making?
