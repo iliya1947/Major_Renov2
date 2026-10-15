@@ -60,3 +60,40 @@ Need only test whether they require new top-level questions:
 - embodiment/morphological computation;
 - collective intelligence;
 - open-ended novelty.
+
+
+## 15.10.2026 — второй проход A1: проверка возможных пропусков
+
+### Viability vs optimization
+Beer (1997) frames adaptive behavior as coupled agent–environment dynamics constrained by maintaining viability, rather than assuming a global optimum. Simon/satisficing literature likewise separates acceptable local search from ideal optimization.
+
+**Для карты:** add C20. This may later be important when asking whether an adaptive system needs an externally specified scalar objective, but no mapping to GPT yet.
+
+### Degeneracy vs redundancy
+Edelman & Gally (2001), Whitacre (2010) and related work distinguish structurally different components yielding overlapping functions (degeneracy) from identical backups (redundancy), linking degeneracy to robustness and evolvability.
+
+**Для карты:** enrich C11–C13; not a new top-level domain.
+
+### Criticality / edge of chaos
+Criticality appears in many complex-system models, but 2018 review/model work explicitly states no general framework explains why living systems should operate near criticality across contexts. Modern “edge of chaos” engineering work exists, but does not justify universalizing the claim.
+
+**Для карты:** keep C10/C15, mark as hypothesis family rather than expected property.
+
+### Free Energy Principle / active inference
+FEP/active inference offers a formal self-organization/adaptive account; 2021 critique argues its universality and explanatory reach are overstated, while 2024 reviews describe slow/partial empirical translation.
+
+**Для карты:** compare under C3/C4/C17; do not adopt as unifying theory.
+
+### Morphological computation
+Embodied/soft-robotics literature treats body/environment dynamics as reducing control burden; no full general theory exists.
+
+**Для карты:** relevant boundary example for C14/C18; because ChatGPT lacks this kind of body, deep relevance waits for agent/product areas.
+
+### Open-endedness
+Artificial Life literature explicitly identifies definitional problems: novelty, unboundedness, ongoing complexity and “life-like” criteria are not equivalent; finite systems can appear open-ended under weak metrics.
+
+**Для карты:** add C21, as our experiment seeks a trajectory not fixed in advance. Whether open-endedness is required remains an empirical/design question.
+
+## Итог A1 области №7
+
+Two genuinely missing upper-level blocks were found: **viability without assumed global optimization (C20)** and **open-endedness/novelty (C21)**. Other candidate gaps refine existing blocks. The working map C1–C22 is sufficient for first global A1.
