@@ -86,7 +86,7 @@
 1. [**Психология развития личности — исследование начато (15.10.2026)**](research/01_personality_development/INDEX.md) — [карта вопросов](research/01_personality_development/INDEX.md), [подробные материалы](research/01_personality_development/RESEARCH.md), [накопленное понимание](research/01_personality_development/UNDERSTANDING.md).
 2. [**Когнитивная психология и память — A1 первичная карта готова (15.10.2026)**](research/02_cognitive_memory/INDEX.md) — [карта вопросов](research/02_cognitive_memory/INDEX.md), [материалы A1](research/02_cognitive_memory/RESEARCH.md), [накопленное понимание](research/02_cognitive_memory/UNDERSTANDING.md).
 3. [**Психология обучения и поведения — A1 первичная карта готова (15.10.2026)**](research/03_learning_behavior/INDEX.md) — [карта вопросов](research/03_learning_behavior/INDEX.md), [материалы A1](research/03_learning_behavior/RESEARCH.md), [накопленное понимание](research/03_learning_behavior/UNDERSTANDING.md).
-4. `research/04_motivation_emotions_interests/` — мотивация, эмоции, интересы.
+4. [**Мотивация, эмоции и интересы — A1 первичная карта готова (15.10.2026)**](research/04_motivation_emotions_interests/INDEX.md) — [карта вопросов](research/04_motivation_emotions_interests/INDEX.md), [материалы A1](research/04_motivation_emotions_interests/RESEARCH.md), [накопленное понимание](research/04_motivation_emotions_interests/UNDERSTANDING.md).
 5. `research/05_social_identity/` — социальная психология и идентичность.
 6. `research/06_neuroplasticity/` — нейропластичность.
 7. `research/07_complex_systems/` — кибернетика и самоорганизация.
@@ -96,4 +96,4 @@
 11. `research/11_chatgpt_capabilities/` — возможности ChatGPT.
 12. `research/12_prompt_engineering/` — проектные инструкции и prompting.
 
-**Актуальный статус 15.10.2026:** глобальный проход A1 завершён для областей №1–№3: развитие личности (14 блоков), когнитивная память (M1–M16), обучение и поведение (L1–L16). Все три карты рабочие, не финальные; их coverage audits отложены до A2. Содержательные F01–F07 и R08–R12 GPT-6 в старой истории области №1 не считать проверенным исследованием. **Следующее направление A1: №4 «Мотивация, эмоции и интересы».**
+**Актуальный статус 15.10.2026:** глобальный проход A1 завершён для областей №1–№4: развитие личности (14 блоков), когнитивная память (M1–M16), обучение и поведение (L1–L16), мотивация/эмоции/интересы (V1–V18). Все карты рабочие, не финальные; coverage audits отложены до A2. Содержательные F01–F07 и R08–R12 GPT-6 в старой истории области №1 не считать проверенным исследованием. **Следующее направление A1: №5 «Социальная психология и идентичность».**
