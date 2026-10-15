@@ -1,6 +1,6 @@
 # 03 — Психология обучения и поведения: A1 — карта необходимых вопросов
 
-**Статус: A1 В ПРОЦЕССЕ.** Сейчас выясняются необходимые вопросы и семейства теорий; ответы и выбор механизма обучения откладываются до фазы B.
+**Статус: A1 ПЕРВИЧНАЯ КАРТА ГОТОВА.** Финальная доводка будет на глобальном проходе A2 после картографии остальных областей. Сейчас выясняются необходимые вопросы и семейства теорий; ответы и выбор механизма обучения откладываются до фазы B.
 
 ## Что реально сделано
 
@@ -32,7 +32,8 @@
 - Learner приобретает связи между событиями или представление о скрытых причинных отношениях?
 - Когда associative models достаточно объясняют behavior?
 - Когда нужны causal/Bayesian/model-based representations?
-- Могут ли оба механизма работать параллельно?
+- Как beliefs обновляются при подтверждающих и опровергающих данных, и чем updating proper отличается от поиска/принятия evidence?
+- Могут ли associative и inferential mechanisms работать параллельно?
 
 **Почему обязателен:** human causal-learning literature прямо противопоставляет causal/inferential accounts чисто associative accounts.
 
@@ -75,6 +76,7 @@
 - Когда ошибка помогает learning, а когда закрепляет неверный ответ?
 - Как confidence in error влияет на correction?
 - Какая feedback нужна: result, explanation, causal diagnosis?
+- Как люди используют counterfactual/foregone outcomes — то, что могло случиться при другом выборе?
 - Как error tolerance влияет на exploration?
 - Чем «ошибка» отличается от prediction error в associative/RL models?
 
@@ -83,6 +85,7 @@
 - Implicit learning: learning without conscious awareness.
 - Latent learning / structure learning.
 - Как distinguish passive exposure, mere familiarity и acquired predictive structure?
+- Насколько learning требует explicit contingency awareness, и как качество измерения awareness меняет вывод?
 - Насколько robust сами constructs и paradigms?
 
 **Важно:** современная statistical-learning literature прямо обсуждает construct-validity/theory crisis.
@@ -100,6 +103,7 @@
 - Как volatility, uncertainty и environmental stability меняют learning strategy?
 - Что такое meta-learning в психологическом смысле?
 - Как прошлые environments изменяют future reward-learning strategies?
+- Как exploration/exploitation и information seeking зависят от uncertainty и прошлого опыта?
 - Где заканчивается psychology и начинается ML/meta-RL области №10?
 
 ### L13. Как цели, внимание и metacognition регулируют обучение?
@@ -156,16 +160,18 @@
 19. Lea SEG et al. 2020. *Behavioral flexibility: A review, a model, and some exploratory tests*. Learning & Behavior. https://doi.org/10.3758/s13420-020-00421-w
 20. Polack CW, Miller RR. 2022. *Testing improves performance as well as assesses learning*. Journal of Experimental Psychology: Animal Learning and Cognition. https://doi.org/10.1037/xan0000323
 
-## Следующий проход A1 области №3
+## Проверка пропусков после второго прохода A1
 
-Проверить возможные пробелы:
-- explicit instruction / rule learning vs experiential learning;
-- counterfactual learning and learning from unchosen outcomes;
-- exploration/exploitation;
-- belief updating / confirmation bias / asymmetric updating;
-- contingency awareness and conscious vs unconscious learning;
-- developmental/individual differences;
-- behavior change/self-regulation literature — отдельный блок или №4;
-- maladaptive learning / learned helplessness etc. — нужны ли как contrast cases.
+- **Explicit instruction / rule learning:** реальная ветвь, но не новый верхний блок; добавить к L2/L11/L13 как отличие instructed от experiential learning.
+- **Counterfactual learning:** подтверждена отдельная литература об обучении на foregone/unchosen outcomes и counterfactual thought; достаточно расширить L9/L5, отдельный L17 не нужен.
+- **Exploration/exploitation:** самостоятельный исследовательский trade-off, но для этой карты логично входит в L12 как адаптация learning/information-search strategy; формальная RL-часть → №10.
+- **Belief updating:** важная самостоятельная линия, причём современные frameworks различают updating proper и предшествующие процессы evidence search/acceptance/integration. Расширяет L3; не сводить к associative prediction error.
+- **Contingency awareness:** реальный теоретико-методологический спор; результаты сильно зависят от domain и качества awareness measures. Входит в L10/L15, а не отдельный блок.
+- **Self-regulated behavior change:** большая intervention literature существует, но это прежде всего goal-directed/self-regulatory layer; достаточно L13 и будущей области №4. Не использовать intervention efficacy как доказательство natural learning mechanism.
+- **Maladaptive learning:** полезно позже как contrast/stress-test (fear, addiction, helplessness), но не отдельный верхний вопрос A1.
+- **Developmental/individual differences:** уже покрываются L12/L14/L15; возрастные механизмы сверятся с №1/№6.
 
-После этого решить, достаточно ли L1–L16 для первого глобального прохода A1.
+**Вывод:** L1–L16 достаточно покрывают пространство области №3 для первого глобального прохода A1. Новые поисковые термины уточнили существующие блоки, но не выявили пропущенного крупного семейства.
+
+## Следующий шаг
+Перейти к **A1 области №4 — «Мотивация, эмоции и интересы»**. Финальную чистку L1–L16 сделать на A2 после общей межобластной сверки.
