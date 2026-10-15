@@ -23,6 +23,7 @@
 5. [05-CASE-CODING.md](05-CASE-CODING.md) — строгие критерии подтверждения типов ошибок.
 6. [06-FIRST-MECHANISM.md](06-FIRST-MECHANISM.md) — первая версия предлагаемого завершительного checkpoint.
 7. [07-CONTRACT-PILOT-V2.md](07-CONTRACT-PILOT-V2.md) — уточнение после возражений Sol; **актуальный экспериментальный протокол**.
+8. [08-DEPLOYABLE-ANALOG.md](08-DEPLOYABLE-ANALOG.md) — ограниченный вариант для текущего ChatGPT; **не независимый gate и не доказанное улучшение**.
 
 ## Совместный результат
 
