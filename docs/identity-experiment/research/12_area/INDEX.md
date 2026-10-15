@@ -188,3 +188,17 @@
 138. How do external checks change selection reliability?
 139. What happens when generation and selection use closely related models?
 140. How should multi-candidate prompting be separated from full agent planning?
+
+
+## 15. Repeated-sample and ensemble prompting
+
+141. When can generating multiple answers improve reliability?
+142. How does output diversity affect aggregate quality?
+143. How many repeated generations are useful before cost dominates?
+144. How do decoding settings affect answer diversity?
+145. How should conflicting answers be combined?
+146. How can voting fail when errors are correlated?
+147. When do repeated-generation methods become inefficient?
+148. How do heterogeneous prompt/model ensembles compare with repeated sampling?
+149. How should aggregate confidence be estimated?
+150. Which gains remain on newer and stronger models?
