@@ -332,3 +332,132 @@
 255. What forms of decomposition are appropriate for large-scale systems?
 256. How does fault tolerance differ in centralized and distributed architectures?
 257. When can decentralized control itself generate emergent global behavior?
+
+## 25. Morphogenesis and guided self-organization
+
+258. How does biological morphogenesis combine programmed and self-organized processes?
+259. What is symmetry breaking in developmental systems?
+260. How do mechanical, biochemical and geometric constraints jointly shape form?
+261. When does an external cue guide rather than specify a pattern?
+262. What is the role of local interaction rules in robust convergence to large-scale form?
+263. How do systems correct perturbations during morphogenesis?
+264. What is the difference between templated patterning and emergent patterning?
+265. How do coarse-grained order parameters help describe developing form?
+266. What does morphogenesis teach about convergence to organized states without encoding every final detail?
+
+## 26. Free-energy principle and active inference as a contested integration
+
+267. What is the formal scope of the free-energy principle?
+268. What assumptions are required for a Markov-blanket description?
+269. In what sense does active inference describe regulation, perception and action?
+270. When is FEP a modeling framework versus a substantive causal theory?
+271. What criticisms challenge its claimed generality?
+272. How restrictive are the assumptions required to derive its dynamics?
+273. How does active inference differ from control theory and reinforcement learning?
+274. What does self-evidencing mean operationally?
+275. Which results are mathematical consequences of the formalism rather than empirical discoveries?
+276. What evidence would discriminate FEP-based accounts from alternative dynamical/control accounts?
+
+## 27. Modeling approaches for complex systems
+
+277. When are differential-equation models appropriate?
+278. When are agent-based models more appropriate?
+279. What can network models capture that aggregate state equations miss?
+280. What can cellular automata and rule-based models reveal?
+281. How do stochastic and deterministic models differ in explanatory use?
+282. What is system identification in nonlinear/adaptive systems?
+283. How are agent rules inferred rather than hand-designed?
+284. How should simulation models be calibrated?
+285. How can sensitivity analysis reveal dependence on assumptions?
+286. How do model ensembles help with structural uncertainty?
+
+## 28. Validation, causality and methodological limits
+
+287. How is a model validated when multiple micro-models reproduce the same macro-pattern?
+288. What is equifinality?
+289. How does underdetermination affect claims about emergent mechanisms?
+290. How can one distinguish a generative explanation from curve fitting?
+291. What role do interventions play in identifying causal organization?
+292. How does finite data limit reconstruction of attractors, networks and information flows?
+293. When do summary statistics hide distinct dynamics?
+294. How can out-of-sample perturbation tests assess model validity?
+295. How should robustness of conclusions to coarse-graining be tested?
+296. How can simulation artifacts be distinguished from true model phenomena?
+297. How does parameter non-identifiability affect mechanistic interpretation?
+298. What evidence is required before transferring a complexity principle from one domain to another?
+
+## 29. Cross-domain transfer and analogy discipline
+
+299. Which complexity concepts are genuinely domain-general because they are mathematically defined?
+300. Which concepts are only metaphors when transferred across physics, biology, psychology and AI?
+301. How should evidence from physical self-organization differ from evidence about adaptive agents?
+302. When does the same mathematical pattern imply different mechanisms?
+303. How can one avoid treating emergence as evidence of agency?
+304. How can one avoid treating self-organization as evidence of self-directed goals?
+305. How can one avoid treating feedback as equivalent to learning?
+306. How can one avoid treating persistence as equivalent to identity?
+307. Which principles require an open thermodynamic system and therefore do not literally transfer to software?
+308. What translation criteria are needed before using cybernetic/complex-systems ideas in the later AI synthesis?
+
+## 30. Крупные споры, сохранённые для A2/B
+
+1. Control around fixed targets vs moving/predictive regulation.
+2. First-order control vs second-order/self-referential cybernetics.
+3. Simple feedback explanations vs internal-model/good-regulator accounts.
+4. Reduction to microdynamics vs autonomous usefulness of macro-level descriptions.
+5. Emergence as epistemic convenience vs stronger causal significance.
+6. Externally guided organization vs genuine self-organization.
+7. Self-organization vs adaptation.
+8. Adaptation vs optimization.
+9. Stability/homeostasis vs flexibility/evolvability.
+10. Robustness vs efficiency/performance.
+11. Modular/decentralized organization vs integrated/global control.
+12. Fixed state spaces vs evolving/adjacent-possible state spaces.
+13. Attractor stability vs metastable and history-dependent dynamics.
+14. Gradual adaptation vs tipping/bifurcation transitions.
+15. Static networks vs adaptive/co-evolving topology.
+16. Local rules as sufficient explanation vs multiscale cross-level constraints.
+17. Information-theoretic descriptions vs mechanistic explanation.
+18. Criticality as universal adaptive principle vs domain-specific phenomenon.
+19. Autopoiesis/autonomy as operational biology vs broad philosophical metaphor.
+20. Free-energy/active-inference unification vs restricted modeling framework.
+21. Agent-based generative explanation vs underdetermined simulation.
+22. Domain-general mathematics vs misleading analogy across biology, psychology and AI.
+
+## 31. Coverage-check A1
+
+Карта сверена по независимым ветвям:
+- classical feedback/control cybernetics;
+- homeostasis, rheostasis and allostasis;
+- requisite variety and good-regulator ideas;
+- first/second-order cybernetics and reflexivity;
+- nonlinear dynamical systems;
+- attractors, multistability and metastability;
+- bifurcations, tipping points and hysteresis;
+- emergence, coarse-graining and causal-emergence questions;
+- self-organization and pattern formation;
+- nonequilibrium/dissipative organization;
+- complex adaptive systems;
+- adaptive/co-evolving networks;
+- multiscale organization;
+- path dependence and history;
+- robustness/resilience;
+- redundancy/degeneracy/modularity;
+- adaptive landscapes, evolvability and open-endedness;
+- autopoiesis, autonomy and viability;
+- information dynamics;
+- criticality/SOC;
+- synchronization, swarming and stigmergy;
+- distributed/decentralized control;
+- morphogenesis/guided self-organization;
+- free-energy principle/active inference and its critiques;
+- differential-equation, network and agent-based modeling;
+- validation, causal inference and cross-domain transfer.
+
+После этих проверок новые обзорные источники в основном добавляли уточнения внутри уже найденных направлений, а не новые крупные оси.
+
+## Статус
+
+**A1 №7 закрыта именно как картография области.** В этом проходе отдельные вопросы не исследовались глубоко: источники использовались для построения структуры поля, его споров и методологических границ.
+
+**Следующий шаг общего процесса:** A1 №8 «Архитектура и поведение GPT/LLM».
