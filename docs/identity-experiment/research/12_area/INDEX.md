@@ -244,3 +244,17 @@
 178. How does citation guidance affect factuality?
 179. How do retrieval failures interact with instruction failures?
 180. When should retrieval be repeated or the query reformulated?
+
+
+## 19. Long-context prompt design
+
+181. Where should instructions appear relative to long documents?
+182. How does instruction position affect compliance?
+183. When does repeating an instruction at strategic positions help or hurt?
+184. How does relevant-information position affect task success?
+185. How should long documents be segmented?
+186. How do distractors interact with instruction following?
+187. When does summarization improve versus damage context?
+188. How should multiple documents be ordered?
+189. How do long prompts trade completeness against attention dilution?
+190. How should effective context use be measured rather than nominal window size?
