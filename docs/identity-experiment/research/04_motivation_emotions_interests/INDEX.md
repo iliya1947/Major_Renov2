@@ -307,3 +307,145 @@
 196. Как motivational conflict produces mixed emotions?
 197. Как success/failure emotions feed back into competence beliefs, values and goals?
 198. Какие theories explicitly integrate motivation and emotion rather than treating one as input to the other?
+
+## 21. Развитие motivation, emotion и interest
+
+### Вопросы
+199. Какие motivational systems появляются или меняются от infancy к adolescence?
+200. Как competence beliefs, values и goals меняются с возрастом?
+201. Как intrinsic/extrinsic motivation меняется across developmental stages?
+202. Когда situational interest начинает становиться stable personal interest?
+203. Как curiosity меняется across childhood and adolescence?
+204. Как emotion understanding и appraisal развиваются?
+205. Как emotion regulation shifts from interpersonal support to more self-regulation?
+206. Как adolescence меняет reward sensitivity, social motivation и goal priorities?
+207. Какие changes характерны для adulthood и late adulthood?
+208. Как aging влияет на goal selection, disengagement и emotional priorities?
+209. Как developmental changes отделять от cohort/cultural effects?
+210. Какие constructs требуют heterotypic continuity rather than identical measures across age?
+
+## 22. Индивидуальные различия и устойчивость
+
+### Вопросы
+211. Какие motivational dispositions устойчивы across situations?
+212. Насколько stable personal interests действительно стабильны across years?
+213. Какие individual differences in emotional reactivity/regulation reproducible?
+214. Как trait affectivity соотносится с current goals and contexts?
+215. Какие differences in curiosity, boredom proneness, approach/avoidance и effort sensitivity существуют?
+216. Как motivational/emotional traits overlap with personality traits?
+217. Где заканчивается state variation и начинается enduring disposition?
+218. Насколько self-report profiles predict actual choice and persistence?
+219. Как individual history creates person-specific motivational meaning?
+
+## 23. Culture, norms и social context
+
+### Вопросы
+220. Какие motivational constructs cross-culturally invariant, а какие depend on culturally shaped meanings?
+221. Как culture changes valued goals and acceptable motives?
+222. Насколько autonomy needs универсальны по смыслу, а не только по label?
+223. Как social norms change expression and regulation of emotion?
+224. Как desired emotions vary across cultures?
+225. Как family, peers, institutions и socioeconomic conditions shape interests and goals?
+226. Как culture influences curiosity/question asking and information seeking?
+227. Как social evaluation changes motivation independently of material reward?
+228. Как power/status contexts alter approach, avoidance and emotion expression?
+229. Как избежать stable individualism–collectivism dichotomy при картографии cultural effects?
+
+## 24. Maladaptive и clinical motivation/emotion
+
+### Вопросы
+230. Чем apathy отличается от low motivation, fatigue и anhedonia?
+231. Как anhedonia relates to reward anticipation, reward consumption and effort?
+232. Как maladaptive goal persistence and inability to disengage проявляются clinically?
+233. Какие roles emotion dysregulation играет across disorders?
+234. Как excessive avoidance differs from adaptive prevention?
+235. Как addiction/compulsion distort value, incentive or goal pursuit?
+236. Какие emotion-regulation findings treatment-specific vs general?
+237. Как chronic boredom, anxiety or depressive affect alter goal systems?
+238. Какие motivational deficits cause symptoms, а какие являются consequences?
+239. Как не переносить clinical extremes на normal motivation без проверки?
+
+## 25. Методология motivation science
+
+### Вопросы
+240. Как distinguish stated motive от revealed choice?
+241. Какие tasks реально measure value, effort, persistence, intrinsic motivation и goal commitment?
+242. Как demand characteristics and incentives distort motivational measurement?
+243. Как self-report motivation differs from behavior across contexts?
+244. Насколько motivational constructs reliable at within-person level?
+245. Как longitudinal designs нужны для interest/value/goal development?
+246. Как experiments distinguish cause from selection into contexts?
+247. Как intensive longitudinal methods reveal changing goal priorities?
+248. Как model-based/computational measures supplement but not replace psychological constructs?
+249. Как measurement overlap creates artificial correlations among motivation constructs?
+250. Какие cross-cultural invariance tests нужны для needs, values и goals?
+251. Как ecological validity differs between school/work lab tasks and everyday motivation?
+
+## 26. Методология emotion science
+
+### Вопросы
+252. Как compare self-report, behavior, facial/vocal expression, physiology и neural measures?
+253. Есть ли privileged measure of emotion?
+254. Как emotion labels shape responses in experiments?
+255. Как induced laboratory emotion differs from naturally occurring emotion?
+256. Как experience sampling changes conclusions versus retrospective questionnaires?
+257. Как sampling frequency affects estimates of variability/inertia/reactivity?
+258. Как distinguish emotional intensity from reporting style?
+259. Как cultural/display rules distort inference from expression?
+260. Как multicomponent measures should handle desynchrony across components?
+261. Как person-specific emotion patterns изучать without assuming universal prototypes?
+262. Как mixed emotions challenge single-label designs?
+
+## 27. Крупные споры, сохранённые для A2/B
+
+1. Needs/drives vs cognitive-value/goal accounts of motivation.
+2. Intrinsic vs extrinsic as categorical split vs continuum/internalization.
+3. Universal psychological needs vs culturally shaped motivational systems.
+4. Expectancy-value vs self-efficacy vs goal-based explanations.
+5. Stable motives/interests vs context-sensitive motivational states.
+6. Persistence as virtue vs adaptive disengagement.
+7. Reward/value accounts vs curiosity/information seeking not reducible to external reward.
+8. Motivation as direction vs motivation as activation/effort.
+9. Interest vs curiosity vs intrinsic motivation as overlapping or distinct constructs.
+10. Basic/discrete emotion vs constructionist accounts.
+11. Appraisal as cause vs description/interpretation of emotion.
+12. Categorical emotions vs dimensional/core-affect models.
+13. Emotion generation vs emotion regulation as separable vs intertwined.
+14. Adaptive/maladaptive emotion regulation strategy labels vs context dependence.
+15. Individual emotion vs dyadic/socially distributed emotion.
+16. Emotion as internal state vs emotion as social signal/function.
+17. Universal emotion structure vs cultural construction/variation.
+18. Population-average emotion/motivation laws vs idiographic dynamics.
+19. Self-report motives/emotions vs behavior/physiology.
+20. Laboratory elicitation vs ecological validity.
+
+## 28. Coverage-check A1
+
+Карта сверена по независимым ветвям:
+- general motivation theories;
+- expectancy/value/self-efficacy;
+- self-determination/basic needs;
+- goals/planning/persistence/disengagement;
+- approach–avoidance/regulatory focus;
+- effort/activation;
+- interest development;
+- curiosity/information seeking;
+- boredom;
+- emotion theory families;
+- appraisal/component process;
+- basic vs constructed emotion debate;
+- emotion regulation;
+- emotion dynamics;
+- social/dyadic emotion;
+- developmental motivation/emotion;
+- culture;
+- clinical/maladaptive motivation/emotion;
+- experience-sampling and measurement methodology.
+
+После последних поисков новые обзоры добавляли преимущественно детали внутри этих блоков, а не новые крупные оси.
+
+## Статус
+
+**A1 №4 закрыта именно как картография области.** Ни один из 262 вопросов не считается глубоко исследованным или решённым.
+
+**Следующий шаг общего процесса:** A1 №5 «Социальная психология и идентичность».
