@@ -146,3 +146,94 @@
 108. What can linear probes establish versus merely decode?
 109. How do causal interventions differ from correlational probing?
 110. How much representational organization is architecture-specific versus training-specific?
+
+## 12. Post-training as a separate source of behavior
+
+111. Which post-training stages are commonly used after pretraining?
+112. How do supervised instruction tuning, preference optimization and safety training differ?
+113. Which capabilities are elicited versus newly learned during post-training?
+114. How much behavioral change can post-training produce without changing broad pretraining knowledge?
+115. How does post-training alter response style, refusal behavior and task framing?
+116. What trade-offs can appear between helpfulness, harmlessness, honesty and capability?
+117. How does post-training affect calibration and confidence expression?
+118. How model-family-specific are post-training effects?
+119. How do hidden proprietary post-training pipelines limit scientific inference?
+120. How should behavior be attributed when pretraining and post-training contributions are entangled?
+
+## 13. Instruction tuning
+
+121. What is instruction tuning operationally?
+122. How do instruction/output dataset construction choices affect generalization?
+123. How important are task diversity and instruction diversity?
+124. How does instruction complexity affect transfer?
+125. What roles human-written, synthetic and distilled instruction data play?
+126. How does instruction tuning bridge next-token prediction and instruction-following behavior?
+127. How does instruction tuning alter zero-shot versus few-shot performance?
+128. What pitfalls arise from template/style overfitting?
+129. How does multilingual instruction tuning transfer across languages?
+130. How should instruction-following be evaluated independently of task capability?
+
+## 14. Preference optimization: RLHF, RLAIF, DPO and alternatives
+
+131. What are the distinct stages of classic RLHF?
+132. What does a reward model learn from pairwise preferences?
+133. How does PPO-based RLHF differ from direct preference optimization?
+134. What assumptions allow DPO-like objectives to replace an explicit reward-model/RL loop?
+135. How does RLAIF differ from human-feedback pipelines?
+136. How sensitive are preference-trained behaviors to annotator population and labeling instructions?
+137. What is reward hacking or overoptimization in LLM post-training?
+138. How do KL constraints or reference models limit drift?
+139. How stable are preference objectives across domains and prompt distributions?
+140. Which behavioral tendencies can be unintended by-products of preference optimization?
+
+## 15. Instruction hierarchy and conflict resolution
+
+141. How are system, developer, user and tool/data instructions represented to a chat model?
+142. How does instruction priority differ from mere recency or position?
+143. How are conflicting instructions detected and resolved?
+144. What is instruction-hierarchy training?
+145. How does hierarchy training affect prompt-injection robustness?
+146. How does hierarchy training affect steerability to high-priority specifications?
+147. What happens when instructions are ambiguous rather than directly contradictory?
+148. How do quoted text, retrieved content and tool outputs differ from trusted instructions?
+149. How can hierarchy behavior fail under indirect or obfuscated conflicts?
+150. Which aspects are model-level behavior versus runtime message formatting?
+
+## 16. Decoding and stochastic generation
+
+151. How does greedy decoding differ from beam search and stochastic sampling?
+152. What does temperature change in the next-token distribution?
+153. How do top-k, top-p, min-p and other truncation strategies differ?
+154. How do decoding choices trade coherence, diversity and risk?
+155. Why can the same model/context generate different outputs across runs?
+156. How do small early token differences cascade into different long outputs?
+157. How does deterministic decoding affect apparent personality or consistency?
+158. How do repetition/frequency penalties alter trajectories?
+159. How does decoding interact with reasoning tasks versus open-ended generation?
+160. Which behavioral properties belong to the probability distribution versus the chosen decoder?
+
+## 17. Context windows and transient state
+
+161. What exactly counts toward a model’s context window?
+162. How do instructions, conversation history, retrieved text and tool outputs compete for context?
+163. What is the difference between context capacity and effective context utilization?
+164. How does truncation or summarization alter apparent continuity?
+165. How does earlier text continue to influence later token prediction?
+166. Is context use analogous to memory, and where does that analogy fail?
+167. How does context length affect compute and latency?
+168. How do attention/KV-cache mechanisms support multi-token inference without changing weights?
+169. What state persists between turns in a bare API model versus a product/runtime?
+170. How can one distinguish model context from external persistent memory?
+
+## 18. Long-context behavior and positional limitations
+
+171. What is the difference between training context length, supported context length and usable context length?
+172. What is length extrapolation?
+173. Why can relevant information in the middle of long contexts be underused?
+174. How do primacy, recency and positional biases vary by task/model?
+175. How do RoPE extensions and continued long-context training differ?
+176. How does retrieval accuracy change with context length and distractor density?
+177. How does long context affect reasoning that requires combining distant facts?
+178. When is retrieval-augmented selection better than placing everything in context?
+179. How do context compression and summarization trade detail for usability?
+180. What benchmarks genuinely test long-context integration rather than simple needle retrieval?
