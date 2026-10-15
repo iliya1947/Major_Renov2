@@ -463,3 +463,17 @@
 298. What parts of the effective instruction environment may remain unavailable to the experimenter?
 299. How should incomplete observability be reported?
 300. How should documentation support reproducibility and debugging?
+
+
+## 35. Persistent project instructions
+
+341. Which guidance belongs in project-wide instructions rather than individual turns?
+342. Which cross-chat rules should remain stable over time?
+343. How should task-specific details be kept out of persistent guidance?
+344. How should persistent guidance be revised when its assumptions change?
+345. How do project-wide instructions interact with later user requests?
+346. How do persistent instructions interact with project sources and remembered context?
+347. When does instruction length or repetition become counterproductive?
+348. How sensitive are persistent instructions to model-version changes?
+349. How should users inspect and understand the current instruction set?
+350. What version information should be retained for longitudinal work?
