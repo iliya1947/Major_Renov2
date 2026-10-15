@@ -449,3 +449,17 @@
 338. How should cost-quality trade-offs be evaluated?
 339. When should descriptions and examples be shortened?
 340. When is elaborate prompting not worth its complexity?
+
+
+## 30. Documentation and observability
+
+291. Which parts of an instruction setup are directly inspectable?
+292. Which effective constraints are only inferred from observed behavior?
+293. How should exact text be distinguished from inferred behavioral regularities?
+294. What information should be represented explicitly outside the prompt?
+295. What records are needed to reconstruct the setup used for a response?
+296. How should effective constraints be documented?
+297. How do product-level rules differ from application-authored rules for reproducibility?
+298. What parts of the effective instruction environment may remain unavailable to the experimenter?
+299. How should incomplete observability be reported?
+300. How should documentation support reproducibility and debugging?
