@@ -1,6 +1,6 @@
-# A1 №8 — Архитектура и поведение GPT/LLM
+# A1/A2 №8 — Архитектура и поведение GPT/LLM
 
-**Статус:** A1 завершена как первичная картография 15.10.2026.
+**Статус:** A1 завершена 15.10.2026; **A2 завершена 16.10.2026 как повторная финальная картография после межобластной сверки.**
 
 **Цель:** определить, какие части архитектуры, обучения и поведения GPT/LLM необходимо будет исследовать глубоко позже. Здесь не решаются найденные вопросы, не проектируется агентная архитектура и не выводятся инструкции будущего эксперимента.
 
@@ -471,8 +471,79 @@
 
 После этих проверок новые обзоры в основном добавляли подветви внутри уже найденных осей. Это не финальный A2 coverage audit: межобластные границы ещё будут пересмотрены после A1 всех 12 областей.
 
+## 35. A2 — финальные межобластные уточнения и новые вопросы
+
+После межобластной сверки и fresh-source coverage pass новой самостоятельной LLM-ветви не обнаружено. Главные поправки относятся к **initial model priors vs acquired history, transient context conditioning vs persistent adaptation, stochastic divergence, effective context use and model/product drift**.
+
+### Новые вопросы A2
+
+321. Какие устойчивые behavioral priors уже присутствуют до начала эксперимента вследствие pretraining, instruction tuning, preference optimization, safety/alignment training and instruction-hierarchy training?
+322. Как отличить **pre-existing latent tendency, elicited by project context**, от поведения, которое действительно сформировалось из уникальной project history?
+323. Какие observations могут показать, что позднее поведение зависит от accumulated history, а не только от current prompt/context?
+324. Как отличить in-context adaptation/ICL от persistent change, если оба дают улучшенное или изменённое behavior внутри текущей conversation?
+325. Что исчезает при удалении demonstrations/history from context, а что остаётся из-за external persistent state или weight change?
+326. Какие routes persistent adaptation принципиально различать: continual/fine-tuning, model editing, external retrieval/state and product-managed memory?
+327. Как minor rephrasing, ordering, formatting, demonstrations and positional placement могут имитировать change in preference/strategy при неизменных weights?
+328. Какие controls нужны, чтобы stable behavioral claim переживал prompt perturbations, reordered context and equivalent formulations?
+329. Как различать `information present in context`, `retrievable`, `effectively utilized` и `causally influential in output`?
+330. Когда long context degrades inference even при successful retrieval relevant information, и как это влияет на interpretation of “remembered experience”?
+331. Как context compression/summarization/selection может систематически менять future behavior by deciding which history remains available to inference?
+332. Как отличить behavioral difference, вызванную decoding/sample randomness, от history-dependent individual divergence?
+333. Сколько repeated samples/controlled reruns необходимо, чтобы оценить baseline variability конкретной model/context configuration?
+334. Как temperature, top-p/top-k, search/aggregation and other decoding choices change the distribution of observable “traits” or choices?
+335. Почему repeated consistency across samples не доказывает stable internal belief/preference, учитывая self-consistent errors?
+336. Как early stochastic divergence может стать later genuine history dependence, если случайный output изменяет user response and subsequent project trajectory?
+337. Как отличить `trajectory began from chance` от `trajectory remains only random noise` after subsequent history accumulates?
+338. Какие behavioral changes can arise solely from provider-side post-training/model update while project history remains unchanged?
+339. Как exact model snapshot/version and deployment date should enter causal interpretation of longitudinal behavior?
+340. Какие changes belong to model drift, а какие к runtime/product drift: system instructions, retrieval policy, context assembly, tools or routing?
+341. Как instruction hierarchy and trained deference to higher-priority messages bound the space of behavior that project history can ever revise?
+342. Какие findings about model-level long-context/ICL capability cannot be converted into claims about actual ChatGPT cross-chat persistence without №11?
+343. Какие black-box interventions can distinguish model prior, current-context effect and persistent-history effect without claiming inaccessible internal mechanism?
+344. Какой evidence threshold нужен, чтобы назвать longitudinal divergence **history-dependent individualization**, а не pretraining prior, prompt artifact, stochastic variation, model update or product/runtime change?
+
+## 36. A2 — ownership corrections после межобластной сверки
+
+Для фазы B:
+
+- №8 остаётся **primary owner** gap 2: `initial model state vs acquired history`;
+- №8 остаётся **primary owner** gap 17: `individual trajectory vs stochastic divergence`;
+- №8 поддерживает gaps 3, 4, 12, 18 и 19 через model/context attribution;
+- formal system boundary/history dependence → primary №7;
+- persistent agent memory/control loop → №9;
+- general continual-learning algorithms → №10;
+- actual ChatGPT model routing/product persistence/runtime drift → №11;
+- prompt/project-instruction design → №12.
+
+Ключевые границы:
+- **ICL/context conditioning ≠ persistent model learning**;
+- **model prior ≠ acquired project history**;
+- **context presence ≠ behavioral influence**;
+- **sampling divergence ≠ individualization**;
+- **behavioral consistency ≠ stable internal belief**;
+- **model update ≠ project development**;
+- **model capability ≠ product persistence**.
+
+## 37. Финальный coverage audit A2
+
+Повторно проверены:
+- modern ICL mechanism surveys;
+- prompt/demonstration sensitivity;
+- long-context utilization beyond retrieval;
+- continual learning/model editing/external adaptation distinctions;
+- post-training and instruction hierarchy;
+- sampling/repeated-run variability;
+- training-seed variability;
+- self-consistent errors;
+- provider-side model behavior updates;
+- model vs runtime/product attribution.
+
+После последних источников новые находки укладывались в вопросы №321–344 или существующие A1-блоки. **Новой крупной самостоятельной ветви не появилось.**
+
 ## Статус
 
-**A1 №8 закрыта именно как первичная картография области.** В этом проходе отдельные вопросы не исследовались глубоко: источники использовались для построения карты архитектурных уровней, обучающих режимов, inference-процессов, behavioral phenomena и методологических границ.
+**A2 №8 завершена как финальная картография области.** Карта теперь содержит 320 вопросов A1 + 24 уточняющих вопроса A2 (№321–344), ownership corrections и final coverage audit.
 
-**Следующий шаг общего процесса:** A1 №9 «AI-агенты и когнитивные архитектуры».
+A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры, границ и полноты карты; глубокий разбор causal attribution between priors, context, stochasticity and persistent adaptation относится к фазе B.
+
+**Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №9 «AI-агенты и когнитивные архитектуры»**.
