@@ -96,4 +96,4 @@
 11. `research/11_chatgpt_capabilities/` — возможности ChatGPT.
 12. `research/12_area/` — проектные инструкции и prompting.
 
-**Статус 16.10.2026:** **A1 и межобластная сверка после A1 завершены; A2 №1–5 завершены.** В A2 №5 выполнен fresh-source coverage audit, добавлены вопросы №293–313 и уточнён primary gap `types of user influence`: разведены instruction/authority, correction/evidence, evaluative feedback, norm influence, compliance/internalization, self-presentation, reputation and identity integration. **Следующий шаг — A2 №6 «Нейробиология и нейропластичность» отдельным полноценным исследовательским проходом.**
+**Статус 16.10.2026:** **A1 и межобластная сверка после A1 завершены; A2 №1–6 завершены.** В A2 №6 выполнен fresh-source coverage audit, добавлены вопросы №261–284; уточнены stability↔plasticity, metaplasticity/history-dependent responsiveness, representational drift, multiscale causality, measurement/cross-species limits и запрет прямого переноса biological plasticity в ML/agent mechanisms. **Следующий шаг — A2 №7 «Кибернетика, сложные системы и самоорганизация» отдельным полноценным исследовательским проходом.**
