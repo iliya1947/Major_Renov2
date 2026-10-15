@@ -215,3 +215,101 @@
 152. Как authenticity is defined and measured in self-presentation?
 153. Когда reputation constrains later identity options?
 154. Как power/status affects ability to manage impressions?
+
+## 15. Social norms, conformity и influence
+
+### Вопросы
+155. Чем descriptive norms отличаются от injunctive norms?
+156. Как perceived norm отличается от actual group norm?
+157. Как norms internalize vs remain externally enforced?
+158. Чем compliance, identification и internalization различаются?
+159. Как group identification moderates normative influence?
+160. Как anonymity, visibility and copresence change influence?
+161. Как reactance возникает when norms threaten autonomy or values?
+162. Как people selectively reconstruct norms?
+163. Как minority influence differs from majority influence?
+164. Как norms change over time rather than only constrain behavior?
+165. Как aggregated opinions differ from direct social influence?
+166. Как online metrics (likes, ratings, polls) function as social evidence?
+167. Как norm conflict between groups affects behavior?
+168. Как rule-following differs from conformity to social norms?
+
+## 16. Groups, ingroups/outgroups и intergroup relations
+
+### Вопросы
+169. Как ingroup bias relates to identification strength?
+170. Как intergroup comparison affects identity?
+171. Какие mechanisms distinguish prejudice, stereotyping and discrimination?
+172. Как perceived threat changes group boundaries?
+173. Как status differences shape group identification?
+174. Как permeability/stability/legitimacy of group boundaries affect responses?
+175. Какие forms intergroup contact reduce vs increase conflict?
+176. How common ingroup identity and dual identity models differ?
+177. Как superordinate identities coexist with subgroup identities?
+178. Чем collective narcissism differs from secure group identification?
+179. Как identity fusion differs from ordinary group identification?
+180. Как group identification can support cooperation, trust or hostility depending on context?
+181. Как crowd/mass gathering experiences alter social identity?
+182. Как collective action changes identity over time?
+
+## 17. Trust, cooperation, reciprocity и social exchange
+
+### Вопросы
+183. Чем particularized, categorical and generalized trust differ?
+184. Как trust differs from familiarity, liking and perceived competence?
+185. Что делает person or group trustworthy in social cognition?
+186. Как reputation systems influence cooperation?
+187. How norms, networks and repeated interaction sustain cooperation?
+188. Как reciprocity differs from altruism?
+189. Как trust updates after violation?
+190. Чем trust repair differs from simple forgetting?
+191. Как group identity changes trust toward ingroup/outgroup members?
+192. Как power asymmetry changes trust and vulnerability?
+193. Как generalized trust forms or changes through social experience?
+194. Как digital/platform contexts redistribute trust from individuals to systems?
+
+## 18. Close relationships, interdependence и self-expansion
+
+### Вопросы
+195. Какие theories dominate close-relationship science: attachment, interdependence, communal/exchange, self-expansion and others?
+196. What makes repeated interaction a relationship rather than a sequence of encounters?
+197. Как mutual dependence changes cognition and choice?
+198. Как partner responsiveness and support affect self?
+199. Как close relationships shape goals and self-concept?
+200. Как inclusion of other in self differs from dependence?
+201. Как commitment and alternatives relate to relationship persistence?
+202. How relationship transitions change identity?
+203. Как conflict and repair reshape expectations about partner?
+204. Как relationship-specific norms emerge?
+205. Как reciprocity and asymmetry coexist in close relationships?
+206. Какие relationship findings generalize beyond romantic relationships?
+
+## 19. Culture, cultural identity и acculturation
+
+### Вопросы
+207. Как cultural identity differs from national, ethnic, religious and immigrant identity?
+208. Как acculturation changes beliefs, practices and identities?
+209. Какие models describe bicultural/multicultural identity integration?
+210. Как heritage and receiving-culture identities coexist?
+211. Как micro-, meso- and macro-context shape identity negotiation?
+212. Как discrimination and acceptance alter cultural identity?
+213. How cultural frame switching differs from identity change?
+214. Как language use relates to cultural identity?
+215. Как migration transitions affect belonging and self-continuity?
+216. Какие acculturation models are overly static or acultural?
+217. Как identity outcomes differ across migration generations?
+218. Какие measures assume Western individualistic concepts of identity?
+
+## 20. Power, status и hierarchy
+
+### Вопросы
+219. Чем power, status, dominance and prestige differ?
+220. Как social rank changes self-perception and behavior?
+221. Как power changes attention to others and self-expression?
+222. Как status is conferred, claimed and maintained?
+223. How identity and role expectations differ across hierarchy levels?
+224. Как low-power positions constrain self-presentation and choice?
+225. Как legitimacy of hierarchy changes responses to inequality?
+226. Как status threat affects identity behavior?
+227. Как mobility possibilities change identification with hierarchy?
+228. Как power interacts with gender, race, class and other identities?
