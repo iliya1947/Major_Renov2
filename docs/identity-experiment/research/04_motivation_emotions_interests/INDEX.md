@@ -98,3 +98,104 @@
 53. Как loss/avoidance value соотносится с positive attraction?
 54. Насколько values stable vs context-sensitive?
 55. Как cultural context меняет meaning и hierarchy ценностей?
+
+## 7. Goals, goal hierarchies и goal pursuit
+
+### Вопросы
+56. Чем goal отличается от value, motive, intention и desired outcome?
+57. Какие goal properties изучаются: specificity, difficulty, abstraction, temporal horizon, commitment?
+58. Как higher-order и lower-order goals связаны в goal hierarchies?
+59. Как люди выбирают между competing goals?
+60. Как goal conflict и goal facilitation измеряются?
+61. Чем goal setting отличается от goal striving?
+62. Как goal commitment формируется и меняется?
+63. Как feedback about progress влияет на persistence и reprioritization?
+64. Какие processes переводят intention в action?
+65. Чем implementation intentions отличаются от обычных goals/plans?
+66. Как multiple-goal pursuit отличается от single-goal paradigms?
+67. Как goals прекращаются, пересматриваются или заменяются?
+68. Как goal systems взаимодействуют с identity и social expectations?
+
+## 8. Persistence, disengagement, self-control и volition
+
+### Вопросы
+69. Что определяет adaptive persistence?
+70. Когда disengagement является adaptive outcome, а не failure?
+71. Как люди решают, продолжать ли недостижимую или слишком дорогую цель?
+72. Чем disengagement отличается от temporary pause и goal substitution?
+73. Как self-control отличается от motivation и self-regulation?
+74. Как conflicts between short-term attraction and long-term valued goals изучаются?
+75. Чем effortful inhibition отличается от proactive situation selection?
+76. Как fatigue, boredom и opportunity cost влияют на persistence?
+77. Какие individual differences в persistence действительно устойчивы across contexts?
+78. Как volition отделяют от initial motivation?
+79. Как setbacks изменяют commitment, effort и goal choice?
+80. Какие pathological forms persistence/rigidity существуют?
+
+## 9. Approach–avoidance, promotion–prevention и regulatory fit
+
+### Вопросы
+81. Чем approach/avoidance motivation отличается от positive/negative affect?
+82. Как approach toward presence, approach toward absence, avoidance of presence и avoidance of absence различаются?
+83. Что добавляет regulatory focus distinction promotion vs prevention?
+84. Чем regulatory focus отличается от goal valence?
+85. Как regulatory fit влияет на experience of engagement/value?
+86. Насколько promotion/prevention являются traits, states или context-induced orientations?
+87. Как approach–avoidance проявляется при mixed incentives?
+88. Какие measurement paradigms действительно измеряют motivation, а не motor bias?
+89. Как culture/social norms меняют preference for promotion/prevention strategies?
+
+## 10. Effort, activation и energization
+
+### Вопросы
+90. Что такое effort как motivational construct?
+91. Как objective task demand отличается от subjective effort cost?
+92. Какие theories explain willingness to exert effort?
+93. Как effort-based decision making связано с reward/value?
+94. Чем activation/energization отличается от direction of motivation?
+95. Как fatigue, opportunity costs и expected benefits влияют на effort allocation?
+96. Как effort measured behaviorally, physiologically и subjectively?
+97. Почему high motivation не всегда означает high effort?
+98. Когда effort itself становится valued or aversive?
+99. Как individual differences in effort sensitivity измеряются?
+
+## 11. Interest как отдельный motivational construct
+
+### Вопросы
+100. Чем situational interest отличается от individual/personal interest?
+101. Чем interest отличается от intrinsic motivation?
+102. Чем interest отличается от liking, preference и enjoyment?
+103. Какие components interest включают affect, value, knowledge и reengagement?
+104. Что делает situational interest maintained vs transient?
+105. Как personal interest измеряется как enduring disposition?
+106. Как prior knowledge и perceived competence связаны с interest?
+107. Как social support и cultural context влияют на interest development?
+108. Какие individual differences меняют trajectory interest?
+109. Как fluctuations interest соотносятся с more stable personal interest?
+110. Какие domains of interest literature существуют за пределами education?
+
+## 12. Curiosity, novelty, uncertainty и information seeking
+
+### Вопросы
+111. Как state curiosity отличается от trait curiosity?
+112. Чем curiosity отличается от interest?
+113. Какие виды curiosity различаются: epistemic, perceptual, social и другие?
+114. Как novelty, surprise, uncertainty и information gaps связаны с curiosity?
+115. Как curiosity измеряется: self-report, information-seeking choice, willingness to pay/work for information?
+116. Всегда ли information seeking goal-directed?
+117. Как curiosity interacts with competence, autonomy и self-relevance?
+118. Как curiosity развивается across childhood and adulthood?
+119. Как culture and socioeconomic context меняют opportunities for curiosity?
+120. Как maladaptive curiosity или information avoidance вписываются в карту?
+121. Как question asking относится к curiosity, learning и social interaction?
+
+## 13. Boredom, engagement и motivational disengagement
+
+### Вопросы
+122. Что отличает boredom от low interest, fatigue и apathy?
+123. Какие theories boredom рассматривают lack of meaning, under/overstimulation или attentional mismatch?
+124. Как boredom связано с information seeking и curiosity?
+125. Когда boredom запускает exploration, а когда withdrawal?
+126. Как state boredom отличается от boredom proneness?
+127. Как boredom влияет на goal switching?
+128. Как engagement измеряется отдельно от interest и motivation?
