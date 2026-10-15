@@ -1,8 +1,8 @@
-# A1 №1 — Психология развития личности
+# A1/A2 №1 — Психология развития личности
 
-**Статус:** A1 завершена как первичная картография 15.10.2026 после полного перезапуска предыдущей недействительной попытки.
+**Статус:** A1 завершена 15.10.2026; **A2 завершена 15.10.2026 как повторная финальная картография после межобластной сверки.**
 
-**Цель этого файла:** карта того, что в области вообще необходимо исследовать. Здесь не решаются найденные вопросы и не строится механизм будущего эксперимента.
+**Цель этого файла:** итоговая после A2 карта того, что в области необходимо исследовать глубоко в фазе B. Здесь не выдаются найденные механизмы за готовый рецепт будущего эксперимента.
 
 ## 1. Границы самой области: что считать «личностью»
 
@@ -211,8 +211,65 @@ Narrative identity и interpersonal approaches образуют самостоя
 
 После coverage-check новые источники добавляли в основном детали внутри уже найденных блоков, а не новые крупные ветви.
 
+## 15. A2 — финальные межобластные уточнения и новые вопросы
+
+После сравнения со всеми 12 областями A1 и дополнительного поиска A2 отдельной новой дисциплинарной ветви не обнаружено. Однако прежняя карта была недостаточно явной в четырёх местах: **micro→macro transition, reciprocal person–environment cycles, causal attribution individual change и различение natural vs directed/intervention-induced development.**
+
+### Новые вопросы A2
+
+70. Какие наблюдаемые различия позволяют отделять кратковременную personality state fluctuation от изменения распределения states, устойчивого behavioral pattern, trait-level change и более широкого personality development?
+71. Какие данные реально поддерживают переход `repeated states/behaviors → longer-term trait change`, а какие звенья этого перехода пока остаются теоретическими?
+72. Как proposed mechanisms `preconditions / triggers / reinforcers / integrators` соотносятся с другими process models и какие из них имеют независимую эмпирическую поддержку?
+73. Как полный цикл `situation selection → situation experience/construal → behavioral state → outcome → future situation selection` связан с долгосрочным personality development?
+74. Как причинно разделять person→environment selection, environment→person socialization и reciprocal transaction, если они происходят одновременно?
+75. Что в эффекте life event потенциально причинно важно: occurrence, perceived characteristics, repeated exposure, changed role demands, own response, consequences или сочетание этих факторов?
+76. Когда repeated minor experiences дают более информативную единицу developmental exposure, чем один major life-event label?
+77. Почему одинаковое событие связано с разными personality trajectories у разных людей и какие moderators этого различия воспроизводятся?
+78. Какие shapes изменения нужно различать вокруг transitions: abrupt level shift, gradual slope change, temporary perturbation, delayed change, recovery, nonlinear trajectory?
+79. Как time lag между событием, state/behavioral response и personality assessment меняет causal interpretation?
+80. Какие критерии отличают natural history-dependent development от volitional/intervention-induced change, где desired endpoint задан заранее?
+81. Как отделять реальное personality change от изменения self-perception, reference group, response style, measurement properties или informant perspective?
+82. Какое сочетание self-report, informant, behavioral/digital и intensive-longitudinal evidence достаточно для осторожного вывода об индивидуальном change?
+83. Какой уровень доказательств нужен, чтобы утверждать **idiographic developmental change конкретного индивида**, а не переносить population mean или group-level association?
+84. Где personality-development explanation должна остановиться и передать механизм соседней области: memory/learning №2–3, motivation №4, identity/social processes №5, biology №6?
+85. Какие элементы person–environment transaction можно впоследствии использовать как **абстрактные функциональные идеи** для искусственной системы, не предполагая переноса человеческого механизма?
+86. Какие признаки позволяют в будущем синтезе не спутать developmental individualization с тремя альтернативами: scripted persona, externally directed change и stochastic/contextual behavioral variation?
+
+## 16. A2 — ownership corrections после межобластной сверки
+
+Для фазы B следующие части старой A1-карты сохраняются как **границы/cross-reference**, но не как место полного deep-dive:
+
+- вопросы 51 и часть 48–52 о goals/values/interests → механизмы primary в №4;
+- вопросы 53–57 о identity/narrative/interpersonal → detailed identity mechanisms primary в №5; №1 исследует их место в broader personality development;
+- вопросы 31–35 о biological/genetic mechanisms → detailed biological mechanisms primary в №6;
+- прямые analogies с GPT/agent persona, persistent state, prompting или ChatGPT → №8/9/11/12, а не №1.
+
+При этом №1 остаётся **primary owner** двух межобластных проблем:
+1. causal attribution of longitudinal personality-like change;
+2. переход между временными масштабами от state variability к устойчивой individual trajectory.
+
+## 17. Финальный coverage audit A2
+
+Повторно проверены независимые ветви:
+- lifespan trait development и current theory status;
+- individual differences in change;
+- personality states;
+- process/mechanism reviews;
+- person–situation / person–environment transactions;
+- major events vs repeated minor experiences;
+- individual perception of events;
+- coordinated event-change analyses;
+- nonlinear transition modeling;
+- volitional/intervention-induced change;
+- cross-cultural measurement;
+- identity/narrative boundary.
+
+После последних источников новые находки укладывались в существующие блоки или вопросы 70–86. **Новой крупной самостоятельной ветви не появилось.**
+
 ## Статус
 
-**A1 №1 закрыта именно как картография области.** Никакой из 69 вопросов здесь не считается исследованным глубоко. Они являются материалом для межобластной сверки, A2 и будущей фазы B.
+**A2 №1 завершена как финальная картография области.** Карта теперь включает 69 первичных вопросов A1 + 17 уточняющих вопросов A2 (№70–86), межобластные ownership corrections и coverage audit.
 
-**Следующий шаг общего процесса:** A1 №2 «Когнитивная психология и память».
+Вопросы в этом файле **не считаются глубоко исследованными только потому, что A2 завершена**. A2 уточнила карту и просмотрела часть источников на уровне, необходимом для картографии; глубокая проверка конкретных causal mechanisms относится к фазе B.
+
+**Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №2 «Когнитивная психология и память»**.
