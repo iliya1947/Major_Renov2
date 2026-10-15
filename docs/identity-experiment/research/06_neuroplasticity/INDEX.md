@@ -341,3 +341,61 @@
 258. How can network-level models bridge cellular animal findings and human neuroimaging?
 259. How do correlational biomarkers differ from causal manipulations?
 260. How should multiscale evidence be combined without claiming an undemonstrated direct bridge?
+
+## 27. Крупные споры, сохранённые для A2/B
+
+1. Synaptic plasticity as the core substrate of learning vs multiscale plasticity.
+2. LTP/LTD-centered accounts vs broader learning rules such as STDP and BTSP.
+3. Plasticity-driven change vs developmental assembly and genetically guided circuit formation.
+4. Hebbian modification vs homeostatic stability.
+5. Plasticity vs metaplastic regulation of future plasticity.
+6. Stable memory engrams vs dynamic/reconfiguring representations.
+7. Systems consolidation as transfer vs transformation/reorganization.
+8. Synaptic storage vs distributed cellular, glial and network substrates.
+9. Neuron-centric plasticity vs essential glial/myelin contributions.
+10. Critical-period closure vs continuing lifelong plasticity.
+11. Adult neurogenesis as meaningful human mechanism vs limited/uncertain contribution.
+12. Stability of behavior vs representational drift.
+13. Local cellular change vs macroscale network reconfiguration.
+14. Adaptive plasticity vs maladaptive persistence.
+15. Greater plasticity as benefit vs stability–flexibility trade-offs.
+16. Human neuroimaging changes as neural plasticity vs indirect physiological proxies.
+17. Animal causal precision vs human translational validity.
+18. Genetic constraint vs experience-dependent reorganization vs their interaction.
+19. Universal plasticity laws vs region-, cell-type-, state- and person-specific rules.
+20. Correlational neural change vs causally necessary substrate of behavioral change.
+
+## 28. Coverage-check A1
+
+Карта сверена по независимым ветвям:
+- multiscale definitions of neuroplasticity;
+- synaptic LTP/LTD;
+- STDP and BTSP;
+- intrinsic/dendritic plasticity;
+- structural synaptic and axonal remodeling;
+- homeostatic plasticity;
+- metaplasticity;
+- neuromodulatory gating;
+- activity-dependent transcription and epigenetics;
+- engrams and memory allocation;
+- systems consolidation, updating and representational drift;
+- critical/sensitive periods;
+- adult and lifespan plasticity;
+- adult human neurogenesis controversy;
+- astrocytes, microglia and glial plasticity;
+- oligodendrocytes/myelin;
+- offline/sleep-related processes;
+- physiological stress/hormonal state;
+- exercise/metabolic modulation;
+- circuit and macroscale network reconfiguration;
+- individual differences/genetic/environmental context;
+- maladaptive plasticity;
+- cross-species translation and measurement.
+
+После последних поисков новые обзорные источники в основном добавляли детализацию внутри этих осей, а не новые крупные направления.
+
+## Статус
+
+**A1 №6 закрыта именно как картография области.** В этом проходе вопросы не исследовались глубоко: работа была направлена на устройство поля и границы будущего исследования.
+
+**Следующий шаг общего процесса:** A1 №7 «Кибернетика, сложные системы и самоорганизация».
