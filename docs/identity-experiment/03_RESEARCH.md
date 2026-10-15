@@ -96,4 +96,4 @@
 11. `research/11_chatgpt_capabilities/` — возможности ChatGPT.
 12. `research/12_area/` — проектные инструкции и prompting.
 
-**Статус 16.10.2026:** **A1 и межобластная сверка после A1 завершены; A2 №1–7 завершены.** В A2 №7 выполнен fresh-source coverage audit, добавлены вопросы №309–335; уточнены primary gaps `system boundary of participant` и `retrieval-induced path dependence`, а также guided self-organization, bounded autonomy, multiscale causality, state↔structure coevolution and open-endedness. **Следующий шаг — A2 №8 «Архитектура и поведение GPT/LLM» отдельным полноценным исследовательским проходом.**
+**Статус 16.10.2026:** **A1 и межобластная сверка после A1 завершены; A2 №1–8 завершены.** В A2 №8 выполнен fresh-source coverage audit, добавлены вопросы №321–344; уточнены primary gaps `initial model state vs acquired history` и `individual trajectory vs stochastic divergence`, а также ICL vs persistent adaptation, effective-context use and model/product drift. **Следующий шаг — A2 №9 «AI-агенты и когнитивные архитектуры» отдельным полноценным исследовательским проходом.**
