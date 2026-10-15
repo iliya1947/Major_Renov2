@@ -1,6 +1,6 @@
 # 06 — Нейронаука и нейропластичность: A1 — карта необходимых вопросов
 
-**Статус: A1 В ПРОЦЕССЕ.** Цель — выяснить, какие нейробиологические уровни и вопросы необходимо исследовать, а не переносить устройство мозга на GPT и не выбирать готовый механизм пластичности.
+**Статус: A1 ПЕРВИЧНАЯ КАРТА ГОТОВА.** Финальная доводка будет на глобальном проходе A2 после картографии остальных областей. Цель — выяснить, какие нейробиологические уровни и вопросы необходимо исследовать, а не переносить устройство мозга на GPT и не выбирать готовый механизм пластичности.
 
 ## Что реально сделано
 
@@ -13,6 +13,7 @@
 - intrinsic excitability;
 - structural synaptic/axonal remodeling;
 - glial/astrocytic plasticity;
+- adult neurogenesis;
 - myelin plasticity;
 - gene-expression/epigenetic change;
 - local circuit and large-scale network reconfiguration.
@@ -46,7 +47,8 @@
 - intrinsic homeostasis;
 - competition for synaptic resources;
 - preventing runaway potentiation/depression;
-- preserving learned relative structure while compensating global perturbation.
+- preserving learned relative structure while compensating global perturbation;
+- energetic/metabolic/resource constraints on durable updates.
 - Как взаимодействуют Hebbian и homeostatic changes?
 
 ### N5. Как прошлый опыт меняет саму способность к будущей пластичности?
@@ -158,6 +160,7 @@
 
 ### N16. Почему люди/системы различаются по пластичности?
 - age/development;
+- sex/hormonal state/puberty;
 - genetics;
 - prior experience;
 - stress history;
@@ -223,18 +226,20 @@
 27. astrocyte-plasticity update 2026: *Cellular and molecular mechanisms of astrocyte plasticity in learning and memory*. PMID 41934042.
 28. Day JJ, Sweatt JD. 2011. *Epigenetic mechanisms in cognition*. Neuron. https://doi.org/10.1016/j.neuron.2011.05.019
 
-## Следующий локальный проход A1
+## Проверка пропусков после второго прохода A1
 
-Проверить, требуют ли отдельного верхнего блока:
-- adult neurogenesis;
-- glial/astrocytic plasticity (N1/N15 или отдельный уровень);
-- myelin plasticity (N10 или отдельный);
-- neuroepigenetics (N15 или отдельный);
-- neuromodulator-specific plasticity vs generic gating;
-- maladaptive plasticity/addiction/chronic pain as contrast;
-- sex/hormones/puberty;
-- compensatory plasticity after lesion vs learning plasticity;
-- energy/metabolic constraints;
-- network-level plasticity vs transient functional reconfiguration.
+- **Adult neurogenesis:** реальная форма circuit plasticity, особенно hippocampal, но её specific cognitive function остаётся предметом спора. Учитывать в N1/N15 и sensitive/adult plasticity N13; новый верхний блок не нужен.
+- **Astrocytes/glia:** современный review показывает activity-dependent molecular, structural and circuit-level plasticity. Это расширяет N1/N15 и предостерегает от neuron-only картины.
+- **Myelin plasticity:** mature myelin динамически remodels with activity/experience; входит N10 как structural/infrastructure plasticity.
+- **Neuroepigenetics:** важный molecular persistence layer, но не отдельная theory of memory; входит N15.
+- **Neuromodulator-specific mechanisms:** сохранять N9 generic; dopamine/NE/5-HT/ACh сравнивать уже в B, не создавать отдельный блок для каждого transmitter.
+- **Maladaptive plasticity:** chronic pain/addiction показывают, что persistent plastic change может ухудшать функцию. Использовать как stress-test N4/N10/N14/N17, не отдельный блок.
+- **Sex/hormones/puberty:** hormonal state реально gates plasticity and sensitive periods; добавить N13/N16.
+- **Compensatory plasticity after lesion:** важный контраст natural learning vs recovery/remapping; входит N10/N12/N17.
+- **Energy/metabolic constraints:** durable writes имеют metabolic cost, но current literature не обосновывает отдельную learning theory. Учитывать в N4/N15 как resource constraint.
+- **Network-level plasticity vs transient state:** N12 должен явно различать cumulative learning-related reconfiguration и мгновенную state-dependent connectivity.
 
-После этого решить, достаточно ли N1–N18 для A1.
+**Вывод:** N1–N18 достаточно покрывают область №6 для первого глобального A1. Второй проход расширил уровень биологических носителей и ограничений, но не выявил нового крупного семейства вопросов.
+
+## Следующий шаг
+Перейти к **A1 области №7 — «Кибернетика, сложные системы, самоорганизация»**. Финальную доводку N1–N18 выполнить на A2 после межобластной сверки.
