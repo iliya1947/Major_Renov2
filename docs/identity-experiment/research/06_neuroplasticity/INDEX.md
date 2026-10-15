@@ -289,3 +289,55 @@
 218. How durable are experience-related neural changes after an intervention ends?
 219. Which apparent effects may be mediated by sleep, mood or cardiovascular change?
 220. What evidence separates direct neural mechanisms from broad association?
+
+## 23. Circuit and macroscale network plasticity
+
+221. How does learning reconfigure population activity within a circuit?
+222. How do local synaptic changes scale up to network-level reorganization?
+223. What is structure–function coupling and how can it change with experience?
+224. How do local and long-range connectivity changes differ?
+225. How stable are functional networks across tasks and time?
+226. What forms of additional neural recruitment appear during learning?
+227. How do distributed networks support compensation during aging or after perturbation?
+228. How does network flexibility differ from noisy instability?
+229. How do structural constraints limit functional reconfiguration?
+230. What can fMRI connectivity changes legitimately imply about underlying cellular plasticity?
+
+## 24. Individual differences, genetics and biological context
+
+231. Why do individuals differ in plastic responses to similar experience?
+232. How do genetic variants affect plasticity-related pathways?
+233. How do activity-dependent gene programs interact with inherited variation?
+234. How do age, sex, hormones and baseline brain state moderate plasticity?
+235. How does prior experience alter responsiveness to the same new experience?
+236. How do environmental exposures become biologically embedded without implying determinism?
+237. How do disease risk and subclinical variation affect plastic capacity?
+238. How stable is “plasticity” as an individual difference across tasks?
+239. Can there be domain-specific rather than general plasticity propensity?
+240. How should gene–environment interaction be separated from simplistic nature-versus-nurture accounts?
+
+## 25. Adaptive and maladaptive plasticity
+
+241. When does experience-dependent plasticity become maladaptive?
+242. How do persistent harmful learned states reuse ordinary plasticity mechanisms?
+243. How does aberrant plasticity differ from normal adaptation to an adverse environment?
+244. What roles excessive stability versus excessive plasticity may play in dysfunction?
+245. How do neurodevelopmental conditions alter critical-period and plasticity processes?
+246. How does neurodegeneration differ from failed plastic compensation?
+247. When does rehabilitation reveal general plasticity principles versus injury-specific mechanisms?
+248. How can interventions that enhance plasticity produce trade-offs?
+249. How reversible are persistent maladaptive changes?
+250. Which pathological findings can inform normal neuroscience without overgeneralization?
+
+## 26. Measurement, causality and translation
+
+251. Which methods measure synaptic, cellular, structural, circuit and network plasticity directly versus indirectly?
+252. What can electrophysiology, calcium imaging, optogenetics and longitudinal microscopy establish?
+253. What can structural MRI, diffusion MRI, fMRI, EEG/MEG and PET infer in humans?
+254. How do rapid MRI changes complicate interpretation of “structural” plasticity?
+255. How reliable are within-person longitudinal neuroimaging changes?
+256. How can intervention designs distinguish plasticity from task familiarity, performance change or vascular effects?
+257. How do cross-species differences limit translation from rodents to humans?
+258. How can network-level models bridge cellular animal findings and human neuroimaging?
+259. How do correlational biomarkers differ from causal manipulations?
+260. How should multiscale evidence be combined without claiming an undemonstrated direct bridge?
