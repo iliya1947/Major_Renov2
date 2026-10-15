@@ -108,7 +108,7 @@
 4. **Перед переходом в другой чат** актуализировать этот файл: завершённая тема, полученный результат, что остаётся открытым, точный следующий содержательный шаг и нужные ссылки. Если тема не завершена, честно пометить незавершённость. Не рассчитывать, что перенос произойдёт автоматически.
 5. Не делать из числа чатов меру числа «экспериментов», не создавать отдельные пилоты и не тратить контекст на бессмысленные дубли отчётов.
 
-**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1–№8.**
+**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1–№9.**
 
 1. **A1 №1 «Психология развития личности»** — 69 вопросов этой области.
 2. **A1 №2 «Когнитивная психология и память»** — 124 вопроса этой области.
@@ -117,20 +117,21 @@
 5. **A1 №5 «Социальная психология и идентичность»** — 292 вопроса этой области.
 6. **A1 №6 «Нейробиология и нейропластичность»** — 260 вопросов этой области.
 7. **A1 №7 «Кибернетика, сложные системы и самоорганизация»** — 308 вопросов этой области.
-8. **A1 №8 «Архитектура и поведение GPT/LLM»** — 320 вопросов этой области в 34 блоках.
+8. **A1 №8 «Архитектура и поведение GPT/LLM»** — 320 вопросов этой области.
+9. **A1 №9 «AI-агенты и когнитивные архитектуры»** — 402 вопроса этой области в 37 блоках.
 
 **Важно для отчётов:** числа вопросов — отдельные локальные счётчики областей, не накопительный счётчик.
 
-По №8 созданы и проверены:
-- `research/08_gpt_llm/INDEX.md`;
-- `research/08_gpt_llm/RESEARCH.md`;
-- `research/08_gpt_llm/UNDERSTANDING.md`.
+По №9 созданы и проверены:
+- `research/09_agents_cognitive_architectures/INDEX.md`;
+- `research/09_agents_cognitive_architectures/RESEARCH.md`;
+- `research/09_agents_cognitive_architectures/UNDERSTANDING.md`.
 
-Карта №8 охватывает Transformer/autoregressive foundations; tokenization; positional representation; attention/MLP/residual computation; dense/MoE architecture; pretraining data and scaling; memorization/generalization; post-training/instruction tuning/preference optimization; instruction hierarchy; decoding; context/long-context use; ICL/prompt sensitivity; reasoning/test-time compute; factuality/uncertainty; sycophancy/prompt injection; continual learning/model editing; interpretability; multilingual behavior; tool-use boundary; multimodality; evaluation/contamination; proprietary-model reproducibility/version drift.
+Карта №9 охватывает definitions/boundaries of agents; perceive–decide–act loops; goal/task representation; planning and reasoning–acting; tool use; memory storage/retrieval/consolidation; reflection/self-correction; feedback learning; world models; long-horizon state; profiles/personas; metacognition; classical cognitive architectures; declarative/procedural knowledge and skills; action selection; human oversight/autonomy; multi-agent communication; social/generative and embodied agents; safety/security; failure modes; evaluation; efficiency/reproducibility; interactive environments; self-improvement claims and cross-domain analogy discipline.
 
-**В этом проходе ни один из 320 вопросов области №8 не исследовался глубоко.** Работа была направлена на первичную картографию области.
+**В этом проходе ни один из 402 вопросов области №9 не исследовался глубоко.** Работа была направлена на первичную картографию области.
 
-**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №9 «AI-агенты и когнитивные архитектуры»**. Сохранять дисциплину A1: картографировать структуру области, подходы, споры, методологические проблемы, слепые зоны и вопросы; не переходить к глубокому разбору механизмов.
+**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №10 «Машинное обучение и адаптивные системы»**. Сохранять дисциплину A1: картографировать структуру области, подходы, споры, методологические проблемы, слепые зоны и вопросы; не переходить к глубокому разбору механизмов.
 
 **Жёсткий процесс A1/A2:**
 - A1 каждой области — минимум один отдельный полноценный ответ с реальным исследованием источников;
