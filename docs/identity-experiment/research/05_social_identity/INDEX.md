@@ -1,6 +1,6 @@
-# A1 №5 — Социальная психология и идентичность
+# A1/A2 №5 — Социальная психология и идентичность
 
-**Статус:** A1 завершена как первичная картография 15.10.2026.
+**Статус:** A1 завершена 15.10.2026; **A2 завершена 16.10.2026 как повторная финальная картография после межобластной сверки.**
 
 **Цель:** определить, какие части социальной психологии self/identity, отношений и группового влияния необходимо будет исследовать глубоко позже. Здесь не решаются найденные вопросы и не строится механизм будущего эксперимента.
 
@@ -450,8 +450,75 @@
 
 После этих проверок новые обзорные источники добавляли преимущественно детализацию внутри уже найденных блоков, а не новые крупные оси.
 
+## 28. A2 — финальные межобластные уточнения и новые вопросы
+
+После межобластной сверки и fresh-source coverage pass новой самостоятельной social-identity ветви не обнаружено. Основные уточнения относятся к **типам пользовательского влияния, selective self-concept updating, compliance/internalization, social feedback, self-presentation/reputation и reciprocal identity–environment loops**.
+
+### Новые вопросы A2
+
+293. Как в одном social interaction различать **instruction/authority, factual correction, evidence, evaluative feedback, approval/rejection, norm cue, relationship signal и real consequence**?
+294. Какие признаки позволяют определить функцию сообщения, если одна и та же реплика одновременно содержит, например, instruction, social approval и factual evidence?
+295. Как отличить immediate compliance с social/authority demand от более устойчивого internalization или self-concept change?
+296. Как identification with a person/group отличается от compliance и от value/norm internalization?
+297. Когда social feedback действительно меняет self-concept, а когда только вызывает temporary self-presentation, defensiveness или public agreement?
+298. Как self-congruence, feedback valence, credibility, relationship closeness и accumulated prior evidence влияют на интеграцию self-related feedback?
+299. Когда отсутствие self-concept update после feedback отражает justified resistance, weak evidence, threat avoidance, self-verification motive или rigidity?
+300. Как различать **self-description, self-concept, identity commitment, role, self-presentation and reputation** в одной longitudinal social history?
+301. Когда repeated self-presentation начинает влиять на self-view, а когда остаётся purely strategic audience management?
+302. Как public vs private self-presentation, audience persistence и social feedback меняют вероятность последующего identity-related change?
+303. Как reputation, сформированная другими, меняет будущие opportunities, expectations и feedback, даже если она расходится с self-concept?
+304. Как отличить actual identity change от adaptation к собственной reputation или к ожиданиям аудитории?
+305. Когда injunctive/social norm меняет behavior через enforcement, когда через informational influence, когда через identification, а когда через internalization?
+306. Как reactance, selective reinterpretation или resistance to norms отличаются от autonomous self-endorsed judgment?
+307. Почему автоматическое несогласие с пользователем столь же плохо свидетельствует об autonomy/identity, как автоматическое согласие?
+308. Как natural repeated interaction with one significant other может влиять на relational self без превращения всей personal identity в отражение этого relationship?
+309. Когда new shared/social experience действительно интегрируется into self-concept, а когда остаётся просто новым опытом без self-change?
+310. Как personal identity commitments и social/group identifications взаимно влияют друг на друга во времени, не сводясь к одному construct?
+311. Как собственный choice/self-presentation изменяет дальнейший social environment, feedback and relationship trajectory, создавая reciprocal identity-relevant experience?
+312. Как отличать **user-caused influence** от **user-authored outcome**: когда пользователь лишь часть естественной среды, а когда прямой instruction фактически заранее задаёт желаемое self/identity content?
+313. Какие longitudinal признаки позволят осторожно заключить, что социальный опыт был **интегрирован** в identity/self-concept, а не просто remembered, repeated, socially reinforced или performed?
+
+## 29. A2 — ownership corrections после межобластной сверки
+
+Для фазы B:
+
+- №5 остаётся **primary owner** cross-area gap 10: `типы пользовательского влияния`;
+- №5 поддерживает gap 11 через social influence, internalization, relational self and agency-under-influence distinctions;
+- broader personality-development trajectory → primary №1;
+- learning from correction/feedback/consequence → №3;
+- motivation/value/self-endorsement → №4;
+- agent persona/profile and operational autonomy → №9;
+- instruction hierarchy/persona prompting → №12;
+- ChatGPT product-level communication/persistence facts → №11.
+
+Ключевые границы:
+- **agreement/compliance ≠ identity change**;
+- **disagreement/reactance ≠ autonomy**;
+- **self-presentation ≠ self-concept ≠ identity ≠ reputation**;
+- **social feedback ≠ factual correction ≠ evidence ≠ consequence**;
+- **persistent role/persona ≠ human-like identity**;
+- **user influence is natural experience, but direct identity scripting is not emergent development**.
+
+## 30. Финальный coverage audit A2
+
+Повторно проверены:
+- current personal/social identity-development review;
+- social evaluative feedback and selective self-concept updating;
+- avoidance of self-related feedback;
+- compliance/identification/internalization;
+- group-identity vs alternative social-influence mechanisms;
+- norm enforcement/internalization/reactance;
+- digital self-presentation and identity shift;
+- relationship/self-expansion and integration;
+- reputation and self–other perceptions;
+- reciprocal normative/social change.
+
+После последних источников новые находки укладывались в вопросы №293–313 или существующие A1-блоки. **Новой крупной самостоятельной ветви не появилось.**
+
 ## Статус
 
-**A1 №5 закрыта именно как картография области.** Ни один из 292 вопросов не считается глубоко исследованным или решённым.
+**A2 №5 завершена как финальная картография области.** Карта теперь содержит 292 вопроса A1 + 21 уточняющий вопрос A2 (№293–313), ownership corrections и final coverage audit.
 
-**Следующий шаг общего процесса:** A1 №6 «Нейробиология и нейропластичность».
+A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры, границ и полноты карты; глубокий разбор social influence, identity integration and reciprocal dynamics относится к фазе B.
+
+**Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №6 «Нейробиология и нейропластичность»**.
