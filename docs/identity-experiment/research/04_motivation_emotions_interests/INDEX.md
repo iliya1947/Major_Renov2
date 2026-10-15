@@ -199,3 +199,111 @@
 126. Как state boredom отличается от boredom proneness?
 127. Как boredom влияет на goal switching?
 128. Как engagement измеряется отдельно от interest и motivation?
+
+## 14. Что считать emotion, affect, mood и feeling
+
+### Вопросы
+129. Как современные frameworks различают emotion, affect, mood и feeling?
+130. Является ли valence/arousal достаточным описанием affect?
+131. Когда discrete emotion categories дают дополнительную информацию сверх dimensions?
+132. Как emotional episode отличается от diffuse mood?
+133. Как subjective feeling соотносится с physiological, expressive и action components?
+134. Можно ли наблюдать emotion без self-reported feeling?
+135. Как emotion words и labeling влияют на measurement?
+136. Насколько emotion categories comparable across languages/cultures?
+137. Как trait affectivity отличается от momentary affect?
+
+## 15. Основные теоретические семейства emotion science
+
+Для A2/B нужно сопоставить:
+- basic/discrete emotion theories;
+- appraisal theories;
+- component-process theories;
+- dimensional/core-affect approaches;
+- psychological construction / constructed emotion;
+- predictive/interoceptive approaches;
+- functional/evolutionary approaches;
+- social-functional approaches.
+
+### Вопросы
+138. Какие phenomena является target каждого семейства?
+139. Где frameworks расходятся в ontology emotion, а где только в уровне объяснения?
+140. Какие predictions basic-emotion и construction approaches считают взаимоисключающими?
+141. Как appraisal theories различаются между собой?
+142. Что component-process models добавляют к appraisal?
+143. Чем dimensional affect models отличаются от categorical emotion accounts?
+144. Как functional/evolutionary explanations связаны с proximal psychological accounts?
+145. Как social-functional theories меняют unit of analysis from person to interaction?
+146. Какие evidence standards используют конкурирующие emotion theories?
+
+## 16. Elicitation, appraisal и components emotion
+
+### Вопросы
+147. Какие appraisal dimensions наиболее устойчиво связаны с emotion differentiation?
+148. Как goal relevance/congruence входит в appraisal theories?
+149. Как novelty, agency, control/coping potential и norms влияют на emotion classification?
+150. Насколько appraisals cause emotions vs accompany/report them?
+151. Какие components различаются: action tendency, physiology, expression, feeling, cognition?
+152. Насколько components synchronize within an emotional episode?
+153. Как temporal ordering components измеряется?
+154. Как automatic и deliberate appraisal различаются?
+155. Как individual history changes appraisal of same event?
+156. Как context modifies relation appraisal → reported emotion?
+
+## 17. Emotion regulation
+
+### Вопросы
+157. Что считается regulation: изменение expression, experience, attention, appraisal, action или environment?
+158. Как distinguish emotion generation from emotion regulation?
+159. Какие strategy families выделяют process models?
+160. Почему strategy не может автоматически считаться adaptive/maladaptive независимо от context?
+161. Что такое emotion-regulation flexibility?
+162. Как regulation goals выбираются?
+163. Как beliefs about emotions влияют на regulation?
+164. Чем intrinsic emotion regulation отличается от interpersonal/extrinsic regulation?
+165. Как social partners co-regulate emotion?
+166. Как automatic regulation отличается от deliberate regulation?
+167. Как regulation ability отличается от actual strategy use?
+168. Какие developmental trajectories regulation skills существуют?
+169. Как culture alters desired emotional states and regulation targets?
+
+## 18. Emotion dynamics и temporal structure
+
+### Вопросы
+170. Какие dimensions emotion dynamics различаются: mean level, variability, instability, inertia, reactivity, recovery?
+171. Чем variability отличается от instability?
+172. Что означает affective inertia и как её измеряют?
+173. Как emotion duration и recovery time различаются?
+174. Как mixed emotions и co-occurrence моделируются?
+175. Что такое emotional differentiation/granularity?
+176. Как within-person dynamics соотносятся с between-person traits?
+177. Какие timescales нужны для изучения emotion dynamics?
+178. Насколько ESM-derived dynamics reliable at individual level?
+179. Как context sensitivity отличать от random fluctuation?
+
+## 19. Социальные и self-conscious emotions
+
+### Вопросы
+180. Какие эмоции требуют representation self or others: pride, shame, guilt, embarrassment и др.?
+181. Как self-conscious emotions связаны с norms, evaluation и identity?
+182. Какие эмоции primarily coordinate social interaction?
+183. Как emotional expressions influence observers independently of experiencer's internal state?
+184. Что такое emotional contagion и чем она отличается от inference from emotion?
+185. Как gratitude, compassion, envy, jealousy и moral emotions вписываются в общую taxonomy?
+186. Как relationship context changes function/meaning emotion?
+187. Как dyadic/group emotion processes отличаются от individual emotion?
+188. Где граница этой ветви с областью №5 «Социальная психология и идентичность»?
+
+## 20. Интерфейс motivation ↔ emotion
+
+### Вопросы
+189. Как goals и goal relevance structure emotional responses?
+190. Как emotions alter goal priority, choice и persistence?
+191. Как affect functions as information vs direct incentive?
+192. Как achievement emotions отличаются от general affect?
+193. Как interest может одновременно рассматриваться motivational и affective variable?
+194. Как reward/anticipated emotion differs from experienced emotion?
+195. Как emotion influences effort allocation and disengagement?
+196. Как motivational conflict produces mixed emotions?
+197. Как success/failure emotions feed back into competence beliefs, values and goals?
+198. Какие theories explicitly integrate motivation and emotion rather than treating one as input to the other?
