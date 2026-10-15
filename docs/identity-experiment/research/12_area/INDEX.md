@@ -272,3 +272,43 @@
 198. How do branched conversations alter inherited context?
 199. How can multi-turn prompting avoid silent state drift?
 200. What must be recorded to reproduce a stateful prompting result?
+
+
+## 21. Dynamic and context-dependent prompt construction
+
+201. When should an instruction set vary by task, query or context?
+202. How does dynamic routing differ from one fixed instruction template?
+203. How should task metadata and user-supplied variables influence prompt construction?
+204. When should optional prompt sections be activated conditionally?
+205. How should retrieved policies or task rules enter a dynamically built prompt?
+206. How do generated prompts differ from hand-authored dynamic templates?
+207. How can dynamic construction create silent behavior drift?
+208. What must be logged to reproduce a dynamically assembled prompt?
+209. How can automatic adaptation of prompts overfit recent cases?
+210. Which rules should remain stable while task-specific details vary?
+
+## 22. Templates, variables and modularity
+
+211. How does a reusable template differ from a literal one-off prompt?
+212. How should typed variables be represented?
+213. How should variable content be separated from fixed instructions?
+214. How should missing, empty and null values be handled?
+215. How can untrusted variable content alter interpretation of surrounding instructions?
+216. How do nested templates affect clarity and maintenance?
+217. When are default variable values useful or dangerous?
+218. How should changes to variable schemas be versioned?
+219. What validation should occur before rendering a prompt?
+220. When does template abstraction become harder to understand than explicit text?
+
+## 23. Composition, conflicts and overconstraint
+
+221. How should goals, constraints, examples and output requirements be combined?
+222. How should contradictions inside one instruction set be detected?
+223. When do redundant instructions reinforce versus interfere?
+224. How should priority be expressed among same-level rules?
+225. How should exceptions to a general rule be represented?
+226. How do independently reasonable instructions interact when combined?
+227. When can many prohibitions make behavior brittle?
+228. How should an impossible set of constraints be handled?
+229. What constitutes graceful behavior under unresolved conflict?
+230. How should conflict handling be evaluated systematically?
