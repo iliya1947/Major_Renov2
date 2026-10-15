@@ -1,8 +1,8 @@
-# A1 №3 — Психология обучения и поведения
+# A1/A2 №3 — Психология обучения и поведения
 
-**Статус:** A1 завершена как первичная картография 15.10.2026.
+**Статус:** A1 завершена 15.10.2026; **A2 завершена 16.10.2026 как повторная финальная картография после межобластной сверки.**
 
-**Цель:** определить, какие части психологии обучения и поведения необходимо будет исследовать глубоко позже. Здесь не решаются найденные вопросы и не строится механизм будущего эксперимента.
+**Цель:** итоговая после A2 карта того, какие части психологии обучения и поведения нужно исследовать глубоко в фазе B. Здесь не превращаются psychological-learning findings в готовый механизм будущего ИИ.
 
 ## 1. Что считать обучением
 
@@ -263,8 +263,78 @@
 
 После последних поисков новые обзорные источники добавляли преимущественно подветви уже найденных блоков, а не новые крупные оси.
 
+## 24. A2 — финальные межобластные уточнения и новые вопросы
+
+После межобластной сверки и свежего coverage pass новой самостоятельной learning tradition не обнаружено. Основные поправки относятся к **no-update criterion, learning vs performance, источнику learning signal, delayed credit assignment, context-sensitive revision, reciprocal interaction и meta-learning**.
+
+### Новые вопросы A2
+
+173. Какие наблюдаемые критерии позволяют отличить durable psychological learning от temporary performance change, cueing, motivation shift, response selection или simple compliance?
+174. Как отличить **absence of learning** от latent/unexpressed learning, которое не проявилось в текущем поведении?
+175. Какой уровень persistence и transfer нужен, чтобы осторожно заключить, что изменение действительно learned, а не существует только в исходном context/task?
+176. При каких условиях заметное событие, ошибка или feedback **не должны** приводить к устойчивому updating?
+177. Как отличить оправданный no-update при слабом/неоднозначном evidence от maladaptive inertia, confirmation bias или insensitivity to changed contingencies?
+178. Как learning может происходить без explicit external feedback и при каких условиях self-reinforcement собственных predictions помогает или закрепляет ошибку?
+179. Какие свойства feedback делают его реально информативным для learning: correctness signal, explanation, causal information, credibility, timing, specificity or opportunity to act?
+180. Когда correction вызывает только immediate response change, а когда переносится на новые случаи и становится evidence durable learning?
+181. Как prior knowledge, confidence and causal interpretation меняют вероятность того, что error/correction действительно приведёт к revision?
+182. Как direct experience, observation, verbal instruction и social interaction различаются по источнику информации, causal informativeness и sensitivity to changed contingencies?
+183. Когда verbal rule/instruction ускоряет adaptive behavior, но одновременно снижает чувствительность к последующему изменению реальных contingencies?
+184. Как разрешается конфликт между explicit rule/instruction и позже наблюдаемыми consequences собственной активности?
+185. Как различать в естественном разговоре user instruction, factual correction, social response, expressed preference, evidence и real consequence как **разные learning inputs**?
+186. Как delayed consequence приписывается конкретному прежнему choice/action, если между ними были другие действия, события и возможные causes?
+187. Как causal representations, temporal distance and counterfactual information влияют на delayed credit assignment?
+188. Когда новое противоречащее experience должно изменить старое learning, а когда создаётся competing/context-specific alternative без erasure?
+189. Как context выбирает expression между competing learned relations и почему отсутствие старого behavior в одном context не доказывает, что старое learning исчезло?
+190. По каким механизмам limited experience generalizes to novel situations: similarity, rule, latent structure, causal model or hybrid strategy?
+191. Какие условия поддерживают discrimination и preservation of exceptions, чтобы generalization не превращалась в overgeneralization?
+192. Как повторяющиеся experiences на разных временных масштабах меняют не только содержание learning, но и future learning rate, exploration strategy or sensitivity to uncertainty?
+193. Чем meta-learning / learning-to-learn отличается от приобретения конкретного rule, habit, value or memory?
+194. Как reciprocal social interaction создаёт endogenous contingencies, где собственное поведение участника меняет следующий input/response другой стороны?
+195. Какие признаки показывают, что past experience **изменило future choice**, а не было просто retrieved, verbalized или повторено под current instruction?
+196. Как naturalistic sparse, partially observable, delayed and socially coupled environments ограничивают перенос выводов из short laboratory learning tasks?
+
+## 25. A2 — ownership corrections после межобластной сверки
+
+Для фазы B:
+
+- №3 остаётся **primary owner** cross-area gap 7: `критерий отсутствия нового learning/update`;
+- №3 поддерживает gaps 8–10, 13 и 16 через psychological learning theory;
+- memory retention/retrieval/generalized representation → primary №2;
+- value, motivation, interest and goal endorsement → №4;
+- detailed social identity/relationship mechanisms → №5;
+- engineered agent learning/update loop and long-horizon tracking → №9;
+- formal ML/RL adaptation algorithms → №10;
+- prompt/instruction authority and wording → №12.
+
+Ключевые границы:
+- **psychological learning ≠ immediate performance/compliance**;
+- **psychological RL ≠ ML RL implementation**;
+- **instruction-following ≠ independently acquired experience**;
+- **feedback ≠ consequence ≠ correction ≠ reward ≠ social response**.
+
+## 26. Финальный coverage audit A2
+
+Повторно проверены:
+- learning vs performance;
+- feedback-free/self-reinforced learning;
+- error/corrective feedback;
+- direct instruction vs active/direct experience;
+- rule-governed vs contingency-shaped behavior;
+- social vs experiential learning;
+- reciprocal contingency in social interaction;
+- delayed credit assignment;
+- extinction, renewal and context-dependent expression;
+- generalization/discrimination;
+- meta-learning across nested timescales;
+- ecological limits of laboratory learning.
+
+После последних источников новые находки укладывались в вопросы №173–196 или уже существующие блоки A1. **Новой крупной самостоятельной ветви не появилось.**
+
 ## Статус
 
-**A1 №3 закрыта именно как картография области.** Ни один из 172 вопросов не считается глубоко исследованным или решённым.
+**A2 №3 завершена как финальная картография области.** Карта теперь содержит 172 вопроса A1 + 24 уточняющих вопроса A2 (№173–196), ownership corrections и final coverage audit.
 
-**Следующий шаг общего процесса:** A1 №4 «Мотивация, эмоции и интересы».
+A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры и полноты карты; глубокое сравнение learning mechanisms относится к фазе B.
+
+**Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №4 «Мотивация, эмоции и интересы»**.
