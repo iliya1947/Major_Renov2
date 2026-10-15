@@ -155,3 +155,132 @@
 После проверки cybernetics, control/regulation, nonlinear dynamics, emergence, self-organization, nonequilibrium systems, adaptive networks, multiscale organization, path dependence, robustness/resilience, evolvability, autonomy, information theory, criticality, distributed control, morphogenesis, FEP critiques and complex-system modeling новые обзоры добавляли главным образом детали внутри уже найденных осей.
 
 Это достаточно для **A1-картографии**, но не означает глубокого исследования отдельных механизмов.
+
+
+---
+
+# A2 — повторная финальная картография с учётом всех областей
+
+**Дата прохода:** 16.10.2026.
+
+**Цель:** после межобластной сверки уточнить substrate-neutral системные вопросы, которые реально нужны дальнейшему синтезу: system boundary, history/path dependence, guided self-organization, bounded autonomy, multiscale causality, state↔structure coevolution, robustness↔revisability и open-ended state spaces. Это всё ещё A2-картография, а не глубокая фаза B и не проектирование готового механизма.
+
+## Новые или повторно углублённо проверенные источники A2
+
+### Gershenson (2025) — Self-organizing systems: what, how, and why?
+npj Complexity 2:10  
+https://doi.org/10.1038/s44260-025-00031-5
+
+**Фактически просмотрено:** full open-access review sections on definitions, emergence, applications and guided self-organization.  
+**Что меняет в карте:** self-organization remains broad and context-dependent; the review explicitly distinguishes self-organization from external design and discusses **guided self-organization** as a balance between control and component independence. Для A2 это усиливает отдельный вопрос: когда fixed constraints merely delimit a process, а когда outcome фактически externally scripted.
+
+### Pessoa (2026) — Beyond networks: Toward adaptive models of biological complexity
+Physics of Life Reviews 56:67–81  
+https://doi.org/10.1016/j.plrev.2025.11.007
+
+**Фактически просмотрено:** open full text/PMC sections on adaptive topology, multilevel systems, context dependence, open-endedness, history dependence and coarse-graining.  
+**Что меняет в карте:** current state can depend on substantial portions of system history; static/fixed state spaces may be inadequate when possible future states themselves change. Для A2 это strengthens distinctions among **history dependence, explicit memory, evolving state space and current-state sufficiency**.
+
+### Hoel (2026) — Quantifying emergent complexity
+Patterns 7(1):101472  
+https://doi.org/10.1016/j.patter.2025.101472
+
+**Фактически просмотрено:** open-access summary/full-text overview.  
+**Что меняет в карте:** complex systems can possess causal contributions distributed across multiple scales; choosing only the micro-level or macro-level may miss part of the causal structure. Для A2 это strengthens the question **at what level the future participant should be analyzed** and why macro-level continuity need not reduce to one fixed microstate.
+
+### Zhang et al. (2024) — Emergence and Causality in Complex Systems: A Survey of Causal Emergence and Related Quantitative Studies
+Entropy 26:162  
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10887681/
+
+**Фактически просмотрено:** abstract, introduction and survey framing.  
+**Что меняет в карте:** causal emergence is an active formal program with multiple measurement/identification problems, not a settled proof that higher-level patterns are autonomous causes. A2 therefore keeps **emergence as an empirical/modeling question**, not a rhetorical explanation.
+
+### An Investigation Into the Notion of Complex Systems (2025)
+Foundations of Science  
+https://doi.org/10.1007/s10699-025-09975-2
+
+**Фактически просмотрено:** sections on observer, system delineation and boundaries.  
+**Что меняет в карте:** complex-system boundaries are partly modeling/observer decisions rather than always unique natural cuts. Для нашего project-level gap this means that `model only`, `project`, `project+tools`, or `project+user interaction loop` are different systems of interest whose causal claims cannot be mixed.
+
+### Berner et al. (2023) — Adaptive dynamical networks
+Physics Reports 1031  
+**Повторно использовано из A1.**
+
+**Что меняет в A2:** adaptive networks make the reciprocal relation explicit:
+`node/system state → changing interaction structure → changed future dynamics`.
+This provides a substrate-neutral formal bridge to person↔environment and agent↔environment loops without claiming same domain mechanism.
+
+### Artime et al. (2024) — Robustness and resilience of complex networks
+Nature Reviews Physics 6:114–131  
+https://doi.org/10.1038/s42254-023-00676-y
+
+**Повторно использовано из A1:** abstract/review overview.  
+**Что меняет в A2:** robustness, resilience, recovery and adaptation are distinct. A trajectory that never changes can be rigid rather than resilient; a system that changes constantly can be unstable rather than adaptive.
+
+## A2 — уточнения, полученные из совокупности источников
+
+1. **System boundary is part of the scientific question.** Conclusions about autonomy, memory, adaptation and causality depend on what counts as internal state versus environment.
+
+2. **The future participant can be described at several nested boundaries.** Candidate systems include: bare model; model+current context; project instructions+sources/history; model+project+tools/runtime; and the recurrent project↔user interaction loop. A2 does not choose the final boundary; it makes the choice explicit for later synthesis.
+
+3. **Open system does not mean no boundary.** Information/actions can cross a boundary while the analyst still defines a system of interest. The relevant issue is whether the chosen boundary preserves the causal loop needed for the claim being made.
+
+4. **History dependence is not the same thing as a memory store.** A system can be path-dependent because current state/structure embodies previous transitions even when no explicit record is queried.
+
+5. **Conversely, stored history does not guarantee path dependence.** If stored information is never selected or never changes future transitions, the trajectory may be effectively memoryless with respect to that information.
+
+6. **Path dependence must be separated from incomplete state description.** Apparent dependence on remote history can disappear if omitted current variables are added; genuine non-Markovian/history-dependent behavior requires stronger evidence.
+
+7. **Retrieval can create its own path dependence.** If previously selected information affects choices that generate more similar experiences and therefore increases future retrieval probability, a self-reinforcing loop can emerge even without any fixed “preference” variable.
+
+8. **Hysteresis is stronger than mere persistence.** The same current external condition can yield different system states depending on prior trajectory; this is a better formal question for lock-in/reversibility than simply asking whether something persisted.
+
+9. **State and structure can co-evolve.** Adaptive-network theory shows that current node/system behavior can alter connection structure, which then changes later behavior. This is a useful formal bridge for reciprocal history loops.
+
+10. **Guided self-organization occupies a middle category.** A process may operate under fixed constraints while local/history-dependent interactions determine the detailed outcome. This differs both from unrestricted self-organization and from a global blueprint that specifies the final state.
+
+11. **Therefore external constraints do not automatically negate autonomy.** Autonomy must be decomposed into what choices/transitions remain endogenous under those constraints.
+
+12. **But “autonomy” cannot be inferred from unpredictability.** Stochastic or hard-to-control behavior can remain fully externally specified in its objectives/rules.
+
+13. **Self-organization does not establish learning, goals or individuality.** It only describes organization emerging from system interactions under specified dynamics.
+
+14. **Feedback does not establish adaptation.** A feedback loop can stabilize a variable around an externally specified target without changing the rule that governs future responses.
+
+15. **Robustness and revisability must be distinguished from rigidity.** A useful history-dependent system may preserve function while still changing components/strategies; zero change is not automatically resilience.
+
+16. **Multiscale descriptions can all matter causally.** A project-level behavioral pattern may be a useful causal description even if implemented by lower-level model/context mechanisms, but macro usefulness is not proof of an ontologically independent “personality entity”.
+
+17. **Choice of scale must match the claim.** Questions about token/model dynamics, agent policy, persistent project state and longitudinal individual trajectory can require different levels rather than one universal explanatory scale.
+
+18. **Open-endedness is stronger than ordinary adaptation in a fixed state space.** If history changes what future options even exist, a pre-specified list of all possible trajectories may be structurally inadequate. This is relevant to our invention as a warning against pre-authoring all future “interests/traits”, not as proof that ChatGPT is open-ended in the biological sense.
+
+19. **Viability, objective optimization and autonomy are distinct.** A system can maintain operational constraints without maximizing one scalar objective, and a system can optimize an external objective without choosing its own goals.
+
+20. **A systems principle becomes useful to the project only after operationalization.** Terms like attractor, basin, path dependence, feedback, autonomy or emergence must specify state variables, boundary, timescale and observable transition structure.
+
+## A2 boundary decisions for area №7
+
+- **Остаётся в №7:** system boundary as analytic/formal problem; feedback/regulation; path dependence/hysteresis; guided self-organization; multiscale causality; adaptive state↔structure loops; robustness/resilience; substrate-neutral autonomy/viability distinctions.
+- **Primary owner №1:** human/personality developmental trajectories.
+- **Primary owner №3:** psychological learning/feedback.
+- **Primary owner №6:** biological mechanisms of stability/plasticity.
+- **Primary owner №8:** actual LLM/model state and inference behavior.
+- **Primary owner №9:** concrete agent architecture, goals, memory and action loops.
+- **Primary owner №10:** artificial learning/adaptation algorithms.
+- **Primary owner №11:** actual ChatGPT product boundary, persistence and permissions.
+- **Primary owner №12:** instruction-level constraints/design.
+
+## A2 coverage conclusion
+
+Повторный поиск по:
+- system boundaries and observer dependence;
+- self-organization/guided self-organization;
+- adaptive/co-evolving networks;
+- history dependence and evolving state spaces;
+- path dependence/hysteresis;
+- multiscale causal description;
+- robustness/resilience;
+- bounded/delegated autonomy
+
+не выявил новой крупной complex-systems branch beyond A1. Новое содержательно находится в **отношениях между границей системы, историей, структурой, масштабом анализа и внешними ограничениями**. Этого достаточно для финализации карты №7.
