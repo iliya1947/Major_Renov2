@@ -395,3 +395,17 @@
 288. When should consequential actions require an additional confirmation step?
 289. How should resistance to conflicting external content be evaluated?
 290. Which protections belong to model/runtime design rather than prompt wording?
+
+
+## 31. Automatic prompt optimization
+
+301. What objective is optimized in automatic prompt optimization?
+302. What search space is available to an optimizer?
+303. Which prompt components can be optimized separately?
+304. How are human labels or automated quality signals used?
+305. What families of optimization procedures are used?
+306. How easily can an optimized prompt overfit its development set?
+307. How should optimized prompts be checked on edge cases?
+308. How are regressions detected after optimization?
+309. What compute and evaluation cost does optimization require?
+310. Why is manual review still needed after automated optimization?
