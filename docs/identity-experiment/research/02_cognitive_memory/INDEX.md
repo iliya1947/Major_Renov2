@@ -1,8 +1,8 @@
-# A1 №2 — Когнитивная психология и память
+# A1/A2 №2 — Когнитивная психология и память
 
-**Статус:** A1 завершена как первичная картография 15.10.2026.
+**Статус:** A1 завершена 15.10.2026; **A2 завершена 16.10.2026 как повторная финальная картография после межобластной сверки.**
 
-**Цель:** выяснить, какие части области памяти нужно будет исследовать глубоко позже. Здесь не решаются найденные вопросы и не строится механизм будущего эксперимента.
+**Цель:** итоговая после A2 карта того, какие части когнитивной памяти нужно исследовать глубоко в фазе B. Здесь не выдаются human-memory findings за готовую архитектуру памяти будущего ИИ.
 
 ## 1. Что вообще считать памятью
 
@@ -286,8 +286,67 @@ Cognitive offloading и цифровые средства создают отд�
 
 После добавления последних ветвей новые обзорные результаты в основном укладывались в уже найденные блоки и не создавали новых крупных осей.
 
+## 22. A2 — финальные межобластные уточнения и новые вопросы
+
+После межобластной сверки и нового coverage pass отдельной новой memory-system ветви не обнаружено. Основные изменения касаются **связей между event representation, episodic/semantic memory, generalization, retrieval, forgetting и external memory**.
+
+### Новые вопросы A2
+
+125. Как continuous experience сегментируется в отдельные события и как выбор event boundary меняет то, что позже считается одним воспоминанием?
+126. Чем фактически произошедшее событие отличается от event representation, которая была закодирована и позднее реконструируется?
+127. Какие свойства temporal, causal и action structure реального события определяют последующее запоминание и связывание его частей?
+128. Какими разными маршрутами specific episodes могут поддерживать generalization: retrieval похожих instances, similarity, rule extraction, latent structure, schema или их комбинации?
+129. Когда higher-level generalization может возникать без точного восстановления отдельных episodes и что это меняет в трактовке «опыт → знание»?
+130. Чем semanticization, schema formation, gist extraction, compression, summarization и explicit lesson extraction функционально отличаются друг от друга?
+131. Какие details, conditions и exceptions теряются при abstraction/compression и когда полезное обобщение превращается в overgeneralization?
+132. Как surprising/prediction-error events получают приоритет в memory, не превращая surprise в универсальный критерий значимости?
+133. Как retrieval изменяет не только доступ к target memory, но и саму target representation, связанные memories и последующее encoding?
+134. Как строго различать пять состояний прошлого: **stored/persisting → accessible → retrieved → reported/represented now → behaviorally influential**?
+135. Какие данные показывают, что прошлый опыт может продолжать влиять на behavior при слабом или отсутствующем explicit autobiographical recall?
+136. Как distinguishing inaccessibility, interference, suppression, active forgetting, updating и actual erasure меняет вывод о том, что «опыт утрачен»?
+137. Когда contradictory new experience должно интегрироваться с prior knowledge, создать context-specific alternative, ослабить прежнее representation или оставить competing memories?
+138. Как repeated retrieval одной части прошлого может постепенно менять относительную доступность других memories и создавать history-dependent bias?
+139. Как external memory/offloading меняет внутреннее encoding, retention и strategy use даже когда внешний носитель остаётся доступным?
+140. Как потеря, недоступность или ненадёжность external memory отличается от внутреннего forgetting и какие виды dependency возникают при offloading?
+141. Как metamemory и beliefs about tool reliability влияют на выбор между internal remembering и external aid?
+142. Какой **functional mapping** требуется прежде, чем использовать human labels вроде episodic/semantic/autobiographical memory для engineered agent memory или ChatGPT product memory?
+
+## 23. A2 — ownership corrections после межобластной сверки
+
+Для фазы B:
+
+- №2 остаётся **primary owner** cross-area gap 13: `episodes → conditional reusable understanding`;
+- event representation, episodic↔semantic relations, retrieval/reconstruction, forgetting/accessibility и cognitive offloading исследуются здесь;
+- acquisition/learning mechanisms → primary №3;
+- generic path dependence/system memory → №7;
+- engineered write/retrieval/consolidation policy и lifecycle agent experience → №9;
+- реальные persistence/retrieval semantics ChatGPT → №11;
+- prompting/context rules for use of sources → №12;
+- detailed biological consolidation/reconsolidation → №6.
+
+Ключевая граница для всего проекта:
+**human cognitive memory ≠ engineered agent memory ≠ ChatGPT product memory/history/files**. Сходство функций требует явного mapping, а не переноса названий.
+
+## 24. Финальный coverage audit A2
+
+Повторно проверены:
+- event segmentation и naturalistic memory;
+- episodic↔semantic interaction;
+- generalization across levels of abstraction;
+- schemas/compression;
+- reconstructive retrieval;
+- active forgetting;
+- explicit accessibility vs retained influence;
+- cognitive offloading;
+- metacognitive control of offloading;
+- boundaries with learning, agents and ChatGPT product persistence.
+
+После последних источников новые вопросы укладывались в блоки №125–142 или уже существующие вопросы A1. **Новой крупной самостоятельной ветви памяти не появилось.**
+
 ## Статус
 
-**A1 №2 закрыта именно как картография области.** Ни один из 124 вопросов не считается глубоко исследованным или решённым.
+**A2 №2 завершена как финальная картография области.** Карта теперь содержит 124 вопроса A1 + 18 уточняющих вопросов A2 (№125–142), ownership corrections и final coverage audit.
 
-**Следующий шаг общего процесса:** A1 №3 «Психология обучения и поведения».
+A2 не означает, что эти вопросы уже глубоко решены. В A2 источники исследовались настолько, насколько нужно для проверки структуры и полноты карты; глубокое сравнение competing mechanisms относится к фазе B.
+
+**Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №3 «Психология обучения и поведения»**.
