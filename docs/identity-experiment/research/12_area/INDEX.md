@@ -258,3 +258,17 @@
 188. How should multiple documents be ordered?
 189. How do long prompts trade completeness against attention dilution?
 190. How should effective context use be measured rather than nominal window size?
+
+
+## 20. Multi-turn and stateful prompting
+
+191. How should persistent rules be separated from turn-specific requests?
+192. How do earlier messages continue to constrain later turns?
+193. When should a newer same-level instruction override an older preference?
+194. How should temporary exceptions be scoped?
+195. How should conversation summaries preserve instruction state?
+196. How does accumulated context create contradictory guidance?
+197. How should completed tasks reset or retain conversational assumptions?
+198. How do branched conversations alter inherited context?
+199. How can multi-turn prompting avoid silent state drift?
+200. What must be recorded to reproduce a stateful prompting result?
