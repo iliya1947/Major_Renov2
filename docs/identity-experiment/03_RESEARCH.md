@@ -96,4 +96,4 @@
 11. `research/11_chatgpt_capabilities/` — возможности ChatGPT.
 12. `research/12_area/` — проектные инструкции и prompting.
 
-**Статус 16.10.2026:** **A1 и межобластная сверка после A1 завершены; A2 №1–2 завершены.** В A2 №2 выполнен fresh-source coverage audit, добавлены вопросы №125–142, уточнены границы human cognitive memory ↔ agent memory ↔ ChatGPT product memory и зафиксирован primary gap `episodes → conditional reusable understanding`. **Следующий шаг — A2 №3 «Психология обучения и поведения» отдельным полноценным исследовательским проходом.**
+**Статус 16.10.2026:** **A1 и межобластная сверка после A1 завершены; A2 №1–3 завершены.** В A2 №3 выполнен fresh-source coverage audit, добавлены вопросы №173–196 и уточнены primary gap `no-update criterion`, learning↔performance, instruction↔experience, delayed credit assignment, context-dependent revision и meta-learning. **Следующий шаг — A2 №4 «Мотивация, эмоции и интересы» отдельным полноценным исследовательским проходом.**
