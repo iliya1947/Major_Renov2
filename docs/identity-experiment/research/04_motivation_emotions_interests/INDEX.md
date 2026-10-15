@@ -1,6 +1,6 @@
 # 04 — Мотивация, эмоции и интересы: A1 — карта необходимых вопросов
 
-**Статус: A1 В ПРОЦЕССЕ.** Цель — выяснить, какие вопросы и теоретические семейства нужны, прежде чем глубоко исследовать происхождение собственной значимости, целей, интересов, предпочтений и эмоциональной регуляции.
+**Статус: A1 ПЕРВИЧНАЯ КАРТА ГОТОВА.** Финальная доводка будет на глобальном проходе A2 после картографии остальных областей. Цель — выяснить, какие вопросы и теоретические семейства нужны, прежде чем глубоко исследовать происхождение собственной значимости, целей, интересов, предпочтений и эмоциональной регуляции.
 
 ## Что реально сделано
 
@@ -12,6 +12,7 @@
 - motive, need, drive, goal, value, preference, incentive, reward, interest, curiosity, desire, emotion — что из этого причина, состояние, объект или описание поведения?
 - Что определяет направление поведения, что его интенсивность, что persistence?
 - Какие конструкции могут существовать без явной цели?
+- Насколько explicit/self-attributed motives совпадают с implicit motives, измеряемыми не через прямой self-report?
 - Какие уровни являются momentary states, а какие более устойчивыми dispositions?
 
 **Почему обязателен:** обзор motivational beliefs/values/goals и современные goal/SDT frameworks используют разные, перекрывающиеся единицы; нельзя заранее назвать их одним «интересом».
@@ -75,6 +76,7 @@
 - Когда information seeking имеет instrumental value, а когда самоценно?
 - Как curiosity связана с exploration/exploitation из области №3?
 - Нужно ли выделять epistemic curiosity от perceptual/social curiosity?
+- Чем boredom отличается от низкого interest и как boredom меняет information seeking?
 
 ### V10. Что такое reward в психологическом смысле?
 - Различать «liking», «wanting» и learning.
@@ -124,6 +126,7 @@
 - Что формируется через socialization/internalization, а что связано с temperament/needs?
 - Как отличать value change от situational choice shift?
 - Как прошлые choices и commitments укрепляют или меняют preferences?
+- Действительно ли сам выбор причинно меняет preference, и как избежать артефактов классического free-choice paradigm?
 - Где проходит граница с personality/identity №1 и social psychology №5?
 
 ### V16. Как социальная и культурная среда формирует мотивацию без полного внешнего программирования?
@@ -174,18 +177,20 @@
 15. Tamir M. 2020. *Emotion Regulation Is Motivated*. Emotion. PMID 31961189.
 16. Recent value-development map opened: 2026 systematic review, *The development of social values in childhood and early adolescence*. https://doi.org/10.1016/j.childyouth.2026.108914
 
-## Следующий локальный проход A1
+## Проверка пропусков после второго прохода A1
 
-Проверить, не пропущены ли крупные ветви:
-- implicit motives vs explicit/self-attributed motives;
-- approach/avoidance motivation and regulatory focus;
-- achievement goals / mastery-performance orientation;
-- flow/engagement;
-- meaning/purpose as distinct motivational constructs;
-- moral motivation / values — №4 или №5;
-- boredom as counterpart to interest/curiosity;
-- affective forecasting / anticipated emotion;
-- preference construction / choice-induced preference change;
-- homeostatic/allostatic motivation — №4 or №6.
+- **Implicit vs explicit motives:** реальная традиция; низкая convergence между implicit и explicit measures делает это важным для V1/V17, но новый верхний блок не нужен.
+- **Approach/avoidance и regulatory focus:** самостоятельные frameworks, причём review-literature подчёркивает, что promotion/prevention не тождественны общему approach/avoidance. Добавить к V6/V2 как разные способы организации goal pursuit.
+- **Achievement goal theory:** крупная ветвь achievement motivation; входит в V2/V6 и позже помогает сравнить mastery/performance и approach/avoidance, отдельный универсальный блок не нужен.
+- **Flow/engagement:** полезно как состояние интенсивной вовлечённости, но для общей карты достаточно V8/V17; не путать flow с устойчивым interest.
+- **Meaning/purpose:** самостоятельная литература существует, но purpose тесно связан с personally valued goals/identity; учитывать в V6/V15 и сверять с №1, не делать отдельным центром области.
+- **Moral motivation/values:** глубокая нормативно-социальная часть → №5; здесь остаётся общий вопрос V15 о values.
+- **Boredom:** современная литература показывает функциональную связь, но не тождество boredom и curiosity. Добавить к V9 как противоположный/комплементарный драйвер information seeking.
+- **Affective forecasting / anticipated emotion:** относится к V3/V13 — ожидаемые эмоции могут участвовать в valuation будущего действия.
+- **Choice-induced preference change:** реальный вопрос, но классический free-choice paradigm имеет известный measurement flaw. Добавить к V15/V17 как причинно-методологическую проблему.
+- **Homeostatic/allostatic motivation:** оставить внутри V5; физиологическую реализацию исследовать в №6.
 
-Затем решить, достаточно ли V1–V18 для первого глобального A1.
+**Вывод:** V1–V18 достаточно покрывают пространство области №4 для первого глобального прохода A1; новые ветви уточняют существующие блоки, но не требуют V19.
+
+## Следующий шаг
+Перейти к **A1 области №5 — «Социальная психология и идентичность»**. К №4 вернуться на A2 после общей межобластной сверки.
