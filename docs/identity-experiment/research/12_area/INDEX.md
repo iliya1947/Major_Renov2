@@ -367,3 +367,17 @@
 268. What validation should occur outside the model?
 269. When should invalid output be retried, repaired or rejected?
 270. Which responsibilities belong to runtime constraints rather than prompt wording?
+
+
+## 28. Instructions around external actions
+
+271. What information about available external capabilities must be present in context?
+272. How should a model distinguish among several available capabilities?
+273. How should prerequisites and possible consequences be represented?
+274. When should an action require explicit user approval?
+275. How should the result of an external action be integrated into the next step?
+276. How should returned content be distinguished from trusted task guidance?
+277. How much descriptive detail is needed for reliable capability selection?
+278. How does a large capability set affect selection quality?
+279. How should action-selection guidance be evaluated?
+280. Which questions belong to agent architecture rather than prompt design?
