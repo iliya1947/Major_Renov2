@@ -35,3 +35,42 @@
 8. **Wu, Meder & Schulz (2025), Unifying Principles of Generalization. Annual Review of Psychology 76:275–302.** DOI: 10.1146/annurev-psych-021524-110810.  
    Просмотрено: abstract и доступные sections.  
    Для карты: generalization пересекает concept/function learning, RL и latent structure; rule-based vs similarity-based — самостоятельный спор.
+
+
+9. **Holyoak & Cheng (2011), Causal learning and inference as a rational process. Annual Review of Psychology 62:135–163.** DOI: 10.1146/annurev.psych.121208.131634.  
+   Просмотрено: abstract PubMed.  
+   Для карты: causal-model/Bayesian approaches нельзя растворять в associative learning.
+
+10. **Olsson, Knapska & Lindström (2020), The neural and computational systems of social learning. Nature Reviews Neuroscience 21:197–212.** DOI: 10.1038/s41583-020-0276-4.  
+    Просмотрено: abstract, definitions и доступные sections.  
+    Для карты: observation, vicarious reinforcement, instruction и social strategies образуют отдельную ветвь.
+
+11. **Saffran & Kirkham (2018), Infant Statistical Learning. Annual Review of Psychology 69:181–203.** DOI: 10.1146/annurev-psych-122216-011805.  
+    Просмотрено: abstract.  
+    Для карты: implicit/statistical learning нужно отделять от conditioning и explicit instruction.
+
+12. **Watanabe & Sasaki (2015), Perceptual Learning: Toward a Comprehensive Theory. Annual Review of Psychology 66:197–221.** DOI: 10.1146/annurev-psych-010814-015214.  
+    Просмотрено: abstract.  
+    Для карты: perceptual learning — самостоятельная experience-dependent tradition.
+
+13. **Metcalfe (2017), Learning from Errors. Annual Review of Psychology 68:465–489.** DOI: 10.1146/annurev-psych-010416-044022.  
+    Просмотрено: abstract и доступный PDF excerpt.  
+    Для карты: errorful learning, confidence и corrective feedback требуют отдельного блока, не сводимого к generic reward learning.
+
+14. **Lee & Anderson (2013), Student Learning: What Has Instruction Got to Do With It? Annual Review of Psychology 64:445–469.** DOI: 10.1146/annurev-psych-113011-143833.  
+    Просмотрено: abstract.  
+    Для карты: direct instruction vs discovery/exploration и language-mediated learning — отдельная ветвь.
+
+15. **Bjork, Dunlosky & Kornell (2013), Self-Regulated Learning: Beliefs, Techniques, and Illusions. Annual Review of Psychology 64:417–444.** DOI: 10.1146/annurev-psych-113011-143823.  
+    Просмотрено: abstract.  
+    Для карты: monitoring/control of learning и learning-vs-performance distinction требуют самостоятельной meta-learning/self-regulation оси.
+
+16. **Nussenbaum & Hartley (2024), Understanding the development of reward learning through the lens of meta-learning. Nature Reviews Psychology 3:424–438.** DOI: 10.1038/s44159-024-00304-1.  
+    Просмотрено: abstract.  
+    Для карты: developmental learning нужно рассматривать на nested timescales и отделять изменение learning strategy от одного фиксированного learning rate.
+
+## Coverage-check
+
+Дополнительно проверены обзоры и работы по avoidance, evaluative conditioning, skill/motor learning, social learning strategies, developmental goal-directed learning и ecological validity. После этого новые источники добавляли в основном подветви уже найденных блоков, а не новые крупные оси.
+
+Это достаточно для **A1-картографии**, но не означает глубокого исследования ни одной темы.
