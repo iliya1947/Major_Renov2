@@ -258,3 +258,110 @@ https://doi.org/10.1146/annurev-devpsych-111124-031623
 - longitudinal/idiographic methodology,
 
 последующие источники в основном добавляли детали внутрь уже найденных ветвей. Новых крупных самостоятельных блоков не появилось. Это основание считать **первичную картографию A1 №1 достаточно широкой**, не утверждая полноту будущего глубокого исследования.
+
+
+---
+
+# A2 — повторная финальная картография с учётом всех областей
+
+**Дата прохода:** 15.10.2026.
+
+**Цель:** не переходить к deep-dive ответам фазы B, а проверить финальную полноту карты №1 после межобластной сверки, уточнить causal/process branches, убрать ложные переносы и определить, какие вопросы действительно принадлежат personality development.
+
+## Новые/повторно проверенные источники A2
+
+### Jackson & Wright (2024) — The process and mechanisms of personality change
+Nature Reviews Psychology 3:305–318  
+https://doi.org/10.1038/s44159-024-00295-z
+
+**Фактически просмотрено:** abstract и доступное publisher summary.  
+**Что меняет в карте:** современный обзор выделяет theorized mechanisms of change (preconditions, triggers, reinforcers, integrators) и одновременно подчёркивает, что empirical evidence for specific mechanisms остаётся mixed/inconclusive. Для A2 это усиливает отдельную ветвь **process/mechanism vs descriptive change** и запрещает считать любую красивую process-схему уже подтверждённым механизмом.
+
+### Li & Wilt (2025) — Situated selves: A cyclical model of personality expression in context
+Current Opinion in Psychology 65:102104  
+https://doi.org/10.1016/j.copsyc.2025.102104
+
+**Фактически просмотрено:** abstract, highlights и доступные основные разделы publisher page.  
+**Что меняет в карте:** современная person–situation рамка явно связывает четыре фазы: situation selection → situation experience/construal → behavioral state expression → outcome activation, причём outcomes feed back в дальнейший выбор/восприятие ситуаций. Для A2 это делает самостоятельным вопрос о **замкнутом person↔environment цикле**, а не только о том, как environment «воздействует» на человека.
+
+### Oeltjen & Kandler (2026) — Individual Differences in the Effects of Life Events on Personality Trait Change
+Journal of Personality  
+https://doi.org/10.1111/jopy.70055
+
+**Фактически просмотрено:** abstract и доступные sections/summary на Wiley.  
+**Что меняет в карте:** effects life events оказались сильно зависимы от age, gender, event perception, type of change, time lag, repeated exposure и assessment method. Это усиливает causal-attribution branch: **сам ярлык события недостаточен**, а group-level event effect плохо описывает конкретную индивидуальную траекторию.
+
+### Haehner et al. (2025/2026) — Life events and personality trait change: A coordinated data analysis
+European Journal of Personality 40(2):391–412  
+https://doi.org/10.1177/08902070251356148
+
+**Фактически просмотрено:** abstract и доступное summary/PDF excerpt.  
+**Что меняет в карте:** coordinated analysis across seven large panel studies подтверждает, что event-related change можно находить, но общий state of evidence остаётся inconclusive и чувствителен к confounding/time modeling. Для A2 это сохраняет life events как одну из возможных causes, но не как универсальный causal unit.
+
+### Dugan et al. (2024) — Life events sometimes alter the trajectory of personality development
+Journal of Personality 92:130–146  
+https://doi.org/10.1111/jopy.12837
+
+**Фактически просмотрено:** abstract и доступный discussion excerpt.  
+**Что меняет в карте:** frequent minor experiences и repeated exposure могут быть не менее важны, чем редкие major events; единичный event-label может скрывать accumulated experience. Это усиливает различение **event occurrence vs repeated experience/process**.
+
+### Hopwood, Wright & Bleidorn (2022) — Person–environment transactions differentiate personality and psychopathology
+Nature Reviews Psychology 1:55–63  
+https://doi.org/10.1038/s44159-021-00004-0
+
+**Фактически просмотрено:** abstract/publisher preview.  
+**Что меняет в карте:** person–environment transactions across timescales являются отдельным explanatory layer. Для A2 важно различать selection, evocation/manipulation and socialization вместо однонаправленного «environment causes change».
+
+### Levelt et al. (2026) — Modelling non-linear personality change surrounding transitions
+European Journal of Personality 40(3):725–751  
+https://doi.org/10.1177/08902070251376407
+
+**Фактически просмотрено:** abstract и university/publisher summary.  
+**Что меняет в карте:** personality change surrounding transitions может быть nonlinear; разные statistical approaches выявляют разные aspects/trajectories. В A2 methodological branch нужно явно включить **shape/timing of change**, а не предполагать linear pre→post change.
+
+### Asselmann et al. (2026) — Volitional Personality Development: Theoretical Foundations, Empirical Advances, and Future Directions
+Social and Personality Psychology Compass 20(5):e70147  
+https://doi.org/10.1111/spc3.70147
+
+**Фактически просмотрено:** abstract.  
+**Что меняет в карте:** свежий review VPC снова разделяет self-endorsed goals, intervention mechanisms и multi-method/long-term evidence. Это подтверждает, что intentional/intervention-induced change нужно держать отдельной ветвью и **не использовать как модель естественного формирования индивидуальности по умолчанию**.
+
+## A2 — уточнения, полученные из совокупности источников
+
+1. **Trait change и personality development не тождественны.** Trait-level literature наиболее количественно зрелая, но broader personality includes characteristic adaptations, goals, narrative/identity and interpersonal functioning. A2 №1 должна использовать trait evidence как часть области, а не как полное определение индивидуальности.
+
+2. **Micro→macro bridge остаётся открытой проблемой.** Современная literature связывает situations, states, repeated behavior/habits and trait change, но specific causal mechanisms не установлены с достаточной определённостью. Это будущий deep-dive, а не готовый рецепт.
+
+3. **Life event ≠ causal mechanism.** Нужно различать occurrence, subjective perception/construal, repetition, behavioral demands, response, downstream outcomes, time lag and selection into events.
+
+4. **Personality development потенциально рекурсивно.** Личность/состояние влияет на situation selection and construal; ситуация влияет на state/behavior; outcomes меняют последующие situations. Это особенно важно как материал для будущего изобретения, но не доказывает аналогичный механизм у GPT.
+
+5. **Individual change cannot be inferred from population mean change.** 2026 meta-analysis of individual differences in change и life-event work усиливают idiographic branch; одинаковый event может сопровождаться различными trajectories.
+
+6. **Timescale is causal, not merely methodological.** Momentary states, repeated episodes, habits, trait-level change and lifespan development нельзя считать одной переменной, измеренной реже/чаще.
+
+7. **Volitional change is a special case.** Self-endorsed change goals and interventions могут вызывать change, но это не основание проектировать desired personality into future AI. Для проекта эта литература прежде всего показывает, насколько легко external procedure/goal-setting может создать directed change, который затем ошибочно назвать “natural development”.
+
+8. **Measurement itself can create apparent development.** Self-report, informant report, behavioral measures, nonlinear models, time spacing and cultural validity can lead to different conclusions. Causal attribution must therefore remain separate from observed score change.
+
+## A2 boundary decisions for area №1
+
+- **Остаётся в №1:** definitions/types of personality development; trait/state/change timescales; idiographic trajectories; person–environment transactions as personality-development process; causal attribution of longitudinal change; natural vs volitional/intervention-induced change.
+- **Primary owner №5:** detailed identity/social-identity theories. №1 keeps only their relation to broader personality development.
+- **Primary owner №4:** mechanisms of goals, values, interests and motivation. №1 keeps their developmental relation to personality.
+- **Primary owner №6:** biological/neural mechanisms. №1 keeps only evidence that biological and environmental contributions constrain developmental theories.
+- **Primary owners №8/9/11/12:** GPT/agent/product/instruction mechanisms. №1 supplies human developmental distinctions and cautions, not a direct artificial implementation.
+
+## A2 coverage conclusion
+
+Дополнительный поиск по:
+- modern mechanisms reviews;
+- personality states and state→trait questions;
+- person–situation cycles;
+- major vs repeated minor experiences;
+- coordinated life-event analyses;
+- individual differences in event-related change;
+- nonlinear change methodology;
+- current volitional-change review
+
+не открыл новой крупной самостоятельной ветви outside A1 map. Он **существенно уточнил связи и causal questions внутри уже найденных блоков**. Поэтому область готова к финализации A2 как карты вопросов, без утверждения ответов на них.
