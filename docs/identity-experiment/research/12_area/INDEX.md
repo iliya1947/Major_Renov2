@@ -107,3 +107,56 @@
 78. How should zero-shot prompts be evaluated for robustness?
 79. When does adding examples improve versus distort the task?
 80. How should zero-shot prompts handle unusual/counterintuitive rules?
+
+
+## 9. Few-shot prompting and demonstrations
+
+81. What counts as a demonstration in few-shot prompting?
+82. How many demonstrations are useful before returns diminish?
+83. How does demonstration quality affect task induction?
+84. How does demonstration diversity affect generalization?
+85. How does similarity between demonstrations and query affect performance?
+86. How do mislabeled or noisy examples influence task inference?
+87. How do examples interact with explicit natural-language instructions?
+88. When can examples override or distort written rules?
+89. How does demonstration formatting matter?
+90. How should counterexamples or negative examples be used?
+
+## 10. Demonstration selection and ordering
+
+91. How should examples be selected from a larger candidate pool?
+92. How do semantic similarity and task coverage differ as selection criteria?
+93. How model-dependent is optimal demonstration selection?
+94. How does example order change predictions?
+95. What are primacy and recency effects among demonstrations?
+96. How should edge cases be represented in example sets?
+97. Can demonstration selection itself be dynamic or query-dependent?
+98. How does uncertainty guide example selection?
+99. How reproducible are gains from optimized example order?
+100. When does example optimization overfit an evaluation set?
+
+## 11. Role and persona prompting
+
+101. What distinct uses of role prompts exist: expertise, style, social simulation and task framing?
+102. Does assigning an expert role reliably improve objective task performance?
+103. How do irrelevant persona details affect outputs?
+104. How does persona fidelity differ from performance advantage?
+105. How does persona prompting affect style versus problem solving?
+106. How stable is persona behavior across turns?
+107. How do personas interact with factuality and confidence?
+108. When does a role prompt create unwanted stereotypes?
+109. How do neutral prompts compare with persona prompts?
+110. Why must persona prompting be distinguished from acquired identity?
+
+## 12. Intermediate-reasoning and rationale prompting
+
+111. What families of intermediate-reasoning prompts are distinguished?
+112. How do demonstration-based and zero-example rationale prompts differ?
+113. Which task classes benefit from explicit intermediate steps?
+114. How do model family and scale affect usefulness?
+115. How important is correctness of demonstration rationales?
+116. How important are relevance and ordering of rationale steps?
+117. When can explicit rationale generation reduce performance?
+118. How do reasoning models differ in recommended prompting from non-reasoning GPTs?
+119. How should rationale quality be evaluated separately from answer correctness?
+120. When is generated rationale not a faithful explanation of the process producing the answer?
