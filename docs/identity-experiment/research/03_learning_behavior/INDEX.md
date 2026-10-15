@@ -169,3 +169,72 @@
 119. Какие виды feedback нужны для разных типов category learning?
 120. Чем concept learning отличается от semantic memory acquisition?
 121. Как structured knowledge влияет на subsequent learning?
+
+## 16. Feedback, errors, practice и exploration
+
+122. Какие виды feedback различаются: outcome, corrective, explanatory, delayed/immediate, social?
+123. Когда errors улучшают learning, а когда закрепляют неправильный ответ?
+124. Как confidence in an error влияет на correction?
+125. Как learning from feedback отличается от reinforcement learning?
+126. Как exploration vs exploitation изучается психологически?
+127. Какие формы curiosity/exploration относятся к learning, а какие к motivation?
+128. Как practice schedules влияют на acquisition, retention и transfer?
+129. Как spacing/interleaving/testing effects разграничиваются между memory и learning?
+130. Как определить, что улучшился learning, а не только task performance?
+
+## 17. Self-regulated learning и learning-to-learn
+
+131. Какие компоненты self-regulated learning относятся именно к learning: monitoring, strategy selection, control, reflection?
+132. Как inaccurate beliefs about learning изменяют study behavior?
+133. Чем meta-learning отличается от metamemory и metacognition?
+134. Могут ли learning rates/strategies адаптироваться к statistics среды?
+135. Как learners выбирают, когда продолжать, менять или прекращать стратегию?
+136. Какие phenomena «learning to learn» изучаются вне формального образования?
+137. Как отделять self-regulation от motivation и executive control?
+
+## 18. Развитие, жизненный цикл и индивидуальные различия
+
+138. Какие learning systems доступны уже в infancy, а какие меняются позднее?
+139. Как reward/punishment learning меняется от childhood к adolescence и adulthood?
+140. Как exploration, generalization и causal inference меняются с возрастом?
+141. Какие возрастные различия отражают learning, а какие working memory/executive development?
+142. Как social/observational learning развивается относительно individual learning?
+143. Какие forms of learning особенно уязвимы при normal aging?
+144. Какие individual differences in learning действительно стабильны между задачами?
+145. Как early environment может изменять later learning strategies без предположения фиксированной траектории?
+
+## 19. Контекст, культура и ecological validity
+
+146. Насколько learning, измеренное в simple laboratory tasks, переносится на rich natural environments?
+147. Как context определяет expression и renewal learned behavior?
+148. Как культура меняет social learning strategies, instruction и reinforcement histories?
+149. Как real-world environments отличаются от лаборатории по sparsity, partial observability и delayed consequences?
+150. Как learning происходит в repeated interpersonal interaction, где обе стороны меняют поведение?
+151. Как norms и institutions задают contingencies, которые нельзя свести к индивидуальному reinforcement?
+152. Какие comparative/animal-learning findings переносятся на human learning, а какие зависят от species-specific ecology?
+
+## 20. Maladaptive и clinical learning
+
+153. Какие learning processes используются для объяснения anxiety/fear/avoidance?
+154. Какие — для addiction, compulsivity и persistent reward seeking?
+155. Как maladaptive habits отличаются от strongly learned goal-directed behavior?
+156. Какие disorders связывают с extinction, reversal, punishment или reward-learning differences?
+157. Когда overgeneralization становится clinically relevant?
+158. Как различать cause, consequence и correlate в clinical learning findings?
+159. Насколько therapeutic exposure/behavior change можно использовать как evidence о normal learning?
+160. Как не смешивать pathology-specific phenomena с general learning laws?
+
+## 21. Методологические проблемы области
+
+161. Какие behavioral paradigms действительно измеряют разные learning processes, а какие имеют скрытое перекрытие?
+162. Как различать learning rate и choice stochasticity?
+163. Как отделять learning от memory, attention, perception, motivation и motor execution?
+164. Насколько trial-level computational parameters identifiable и reliable между сессиями?
+165. Когда group-level model лучше individual-level model, и наоборот?
+166. Как task design заранее навязывает model-free/model-based interpretation?
+167. Как operational definitions reward, punishment, habit и extinction различаются между subfields?
+168. Как сравнивать animal и human paradigms без ложного one-to-one mapping?
+169. Как longitudinal и naturalistic designs могут дополнить короткие laboratory tasks?
+170. Как replication, sample size и analytic flexibility влияют на выводы computational learning research?
+171. Как оценивать actual behavior change отдельно от verbal report/explicit knowledge?
+172. Как measure transfer/generalization без confounds исходной similarity?
