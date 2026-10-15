@@ -111,3 +111,107 @@
 76. Как narrative identity пересекается с social identity without being identical?
 77. Как heterotypic continuity применяется к identity constructs?
 78. Какие developmental questions особенно poorly studied outside Western samples?
+
+## 8. Identity motives и self-related motives
+
+### Вопросы
+79. Какие motives вокруг self/identity различаются: self-enhancement, self-verification, self-expansion, self-assessment, distinctiveness, belonging?
+80. Какие из этих motives относятся к self-maintenance, а какие к social functioning?
+81. Как self-verification работает, если existing self-view негативна?
+82. Когда self-enhancement и self-verification конфликтуют?
+83. Как self-expansion через relationships/groups отличается от simple novelty seeking?
+84. Какие motives стабилизируют identity, а какие способствуют change?
+85. Как identity threat alters motive priority?
+86. Насколько identity motives conscious?
+87. Как social approval и relational value входят в self-related motivation?
+88. Какие theories explain seeking identity-consistent environments?
+
+## 9. Self-esteem, relational value и self-worth
+
+### Вопросы
+89. Чем global self-esteem отличается от domain-specific self-worth?
+90. Как sociometer theory связывает self-esteem с perceived relational value?
+91. Какие альтернативные explanations self-esteem существуют?
+92. Как self-esteem различается от self-concept clarity и identity certainty?
+93. Как rejection/acceptance alters state self-esteem?
+94. Насколько self-esteem tracks actual social evaluation vs perceived evaluation?
+95. Как contingent self-worth differs from stable self-esteem?
+96. Как culture changes bases of self-worth?
+97. Как self-esteem measurement distorted by self-presentation?
+98. Что означает low vs unstable self-esteem в social contexts?
+
+## 10. Belonging, social connection и attachment to groups
+
+### Вопросы
+99. Как belongingness отличается от social connection, affiliation, loneliness и group identification?
+100. Какие conceptualizations social connection используются: subjective connection, network structure, synchrony, interpersonal behavior?
+101. Как quantity and quality relationships различаются?
+102. Как belonging to one person, group, community and society differ psychologically?
+103. Какие indicators measure perceived social integration?
+104. Как social support отличается от belonging?
+105. Как repeated interaction builds familiarity vs genuine connection?
+106. Как synchrony and coordinated behavior relate to perceived connection?
+107. Какие individual differences shape need or sensitivity to belonging?
+108. Как online connection differs from co-present interaction?
+109. Как belonging and autonomy can conflict?
+
+## 11. Ostracism, rejection и social exclusion
+
+### Вопросы
+110. Чем ostracism отличается от explicit rejection and social exclusion?
+111. Какие short-term vs chronic responses различаются?
+112. Какие needs считаются threatened by exclusion?
+113. Почему exclusion sometimes increases conformity/prosociality, а sometimes aggression/withdrawal?
+114. Как source and target relationship changes response?
+115. Как ambiguity of exclusion affects interpretation?
+116. Как repeated exclusion alters social expectations?
+117. Какие laboratory paradigms generalize to chronic real-world exclusion?
+118. Как social pain measures relate to subjective experience?
+119. Как exclusion linked to identity threat vs belonging threat?
+120. Какие coping trajectories lead to reintegration vs disengagement?
+
+## 12. Social comparison
+
+### Вопросы
+121. Какие forms comparison различаются: upward, downward, lateral, temporal, dimensional?
+122. Как comparison target selection occurs?
+123. Когда comparison informs self-knowledge, motivation or emotion?
+124. Как assimilation vs contrast effects arise?
+125. Как social comparison affects identity and self-esteem?
+126. Как group membership changes comparison standards?
+127. Как social media alters frequency and visibility comparison?
+128. Чем social comparison differs from social evaluation?
+129. Как comparison processes operate without explicit awareness?
+130. Какие individual/contextual moderators determine beneficial vs harmful effects?
+
+## 13. Person perception, categorization и stereotypes
+
+### Вопросы
+131. Как person perception combines individuating information and category-based inference?
+132. Когда social categories activate automatically?
+133. Как stereotypes affect attention, interpretation and memory?
+134. Чем stereotype, schema, prototype and reputation differ?
+135. How controllable are categorical biases?
+136. Как goals and motivation of perceiver change person perception?
+137. Как first impressions update with contradictory information?
+138. Как expectancy confirmation and behavioral confirmation operate?
+139. Как identity of perceiver influences perception of target?
+140. Как accuracy in person perception is measured?
+141. Как implicit social cognition relates to explicit judgments?
+142. Какие limitations имеют indirect measures of implicit bias?
+
+## 14. Reputation, impression management и self-presentation
+
+### Вопросы
+143. Чем identity отличается от reputation?
+144. Как self-view, others' views and shared reputation diverge?
+145. Какие impression-management tactics используются?
+146. Как audience composition changes self-presentation?
+147. Когда self-presentation is strategic vs habitual/automatic?
+148. Как reputation emerges from repeated interactions and gossip?
+149. Как reputational feedback changes future self-presentation?
+150. Как accuracy and error coexist in shared person perceptions?
+151. Как digital persistence changes reputation management?
+152. Как authenticity is defined and measured in self-presentation?
+153. Когда reputation constrains later identity options?
+154. Как power/status affects ability to manage impressions?
