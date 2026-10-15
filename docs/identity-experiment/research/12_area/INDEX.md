@@ -409,3 +409,43 @@
 308. How are regressions detected after optimization?
 309. What compute and evaluation cost does optimization require?
 310. Why is manual review still needed after automated optimization?
+
+
+## 32. Eval-driven prompt development
+
+311. What makes an evaluation set representative of intended use?
+312. When should quality be defined by reference answers versus behavioral properties?
+313. Which criteria can be checked deterministically?
+314. When are model-based graders useful?
+315. When are human labels required?
+316. How should rare and difficult cases be represented?
+317. What belongs in a regression suite for prompt changes?
+318. How many repeated runs are needed for stochastic outputs?
+319. How should evaluation account for distribution shift?
+320. How can optimizing to an evaluation set produce misleading gains?
+
+## 33. Versioning and change management
+
+321. When should prompts be treated like code or configuration?
+322. What changes should be recorded in a prompt changelog?
+323. How should rollback to an earlier version work?
+324. When should a prompt version be pinned?
+325. How do changes in input-variable schemas affect prompt compatibility?
+326. How should concurrent edits be reconciled?
+327. What documentation is needed for a reusable instruction set?
+328. How should prompt versions migrate when the underlying model changes?
+329. When is staged rollout useful?
+330. What metadata are needed for reproducibility?
+
+## 34. Cost, latency and context efficiency
+
+331. How does prompt length affect cost and latency?
+332. When is repeated guidance redundant?
+333. How expensive are demonstrations relative to their benefit?
+334. How does long context affect response time?
+335. When can caching reduce repeated context cost?
+336. How should latency be traded against output quality?
+337. How does higher inference effort interact with prompt design?
+338. How should cost-quality trade-offs be evaluated?
+339. When should descriptions and examples be shortened?
+340. When is elaborate prompting not worth its complexity?
