@@ -256,3 +256,15 @@
 13. Individual-level adaptation vs population-average models.
 14. Stable learning traits vs task/context-specific performance.
 15. Computational model usefulness vs psychological identifiability.
+
+## 23. Coverage-check A1
+
+Карта сверена по независимым ветвям: nonassociative learning; Pavlovian/associative conditioning; instrumental/operant learning; reward/punishment/avoidance; reinforcement learning; habit/goal-directed action; extinction/reversal/relapse; generalization/discrimination/transfer; causal/latent-structure learning; social/observational learning; instruction/rule-guided learning; implicit/statistical learning; perceptual/motor/skill learning; category/concept learning; feedback/errors/practice; self-regulated/meta-learning; development; context/culture/ecology; maladaptive/clinical learning; methodological/computational measurement.
+
+После последних поисков новые обзорные источники добавляли преимущественно подветви уже найденных блоков, а не новые крупные оси.
+
+## Статус
+
+**A1 №3 закрыта именно как картография области.** Ни один из 172 вопросов не считается глубоко исследованным или решённым.
+
+**Следующий шаг общего процесса:** A1 №4 «Мотивация, эмоции и интересы».
