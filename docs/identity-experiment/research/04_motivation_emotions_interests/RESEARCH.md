@@ -67,3 +67,43 @@ Tamir (2020) frames emotion regulation through goal setting and goal striving.
 - anticipated emotion/affective forecasting;
 - preference construction;
 - homeostatic/allostatic motivation.
+
+
+## 15.10.2026 — второй проход A1: проверка возможных пропусков
+
+### Implicit motives
+Köllner & Schultheiss (2014) meta-analysis показал низкую convergence между implicit и explicit measures achievement/affiliation/power motives.
+
+**Для карты:** V1/V17 должны различать self-attributed motivation и мотивационные dispositions, выводимые иными методами. Самоотчёт не является универсальным доступом к motive.
+
+### Approach/avoidance, regulatory focus, achievement goals
+Monni et al. (2020) сопоставляют Reinforcer Sensitivity Theory, Regulatory Focus Theory и Achievement Goal Theory и показывают сходства и различия; Oxford review Regulatory Focus (2019) отдельно подчёркивает различие promotion/prevention и approach/avoidance. Senko et al. (2020) прослеживают эволюцию achievement-goal theory и её conceptual/methodological debates.
+
+**Для карты:** V2/V6 нуждаются в этих ветвях, но не в трёх новых верхнеуровневых блоках.
+
+### Flow
+Lavoie et al. (2021) показывает продолжающиеся споры о conceptualization/measurement flow.
+
+**Для карты:** flow — состояние engagement, релевантное V8/V17; не equate with interest or intrinsic motivation.
+
+### Meaning / purpose
+King & Hicks (2021) различают coherence, purpose и existential mattering; purpose связано с personally valued goals, но шире единичного goal pursuit.
+
+**Для карты:** учесть в V6/V15 и в будущей cross-check с identity №1/№5.
+
+### Boredom
+Seiler & Dan (2024) review рассматривает boredom и curiosity как различные, но функционально связанные состояния information seeking.
+
+**Для карты:** расширить V9; absence of interest ≠ boredom.
+
+### Preference construction / choice effects
+Izuma & Murayama (2013) критически разбирают methodological flaw классического free-choice paradigm: apparent preference change может возникать без true change.
+
+**Для карты:** V15/V17 — вопрос о feedback loop «choice → preference» обязателен, но требует строгой causal methodology.
+
+### Homeostatic/allostatic and moral motivation
+Новый самостоятельный верхний блок не требуется: basic biological regulation остаётся V5/№6; moral/social norms — V15/V16 и глубже №5.
+
+## Итог A1 области №4
+
+Второй проход расширил теоретическую представленность карты, но не обнаружил крупного семейства, отсутствующего в V1–V18. Карта признаётся достаточной для A1 и остаётся открытой для A2.
