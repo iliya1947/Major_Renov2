@@ -372,3 +372,197 @@
 292. How do federated systems handle changing local distributions?
 293. How does federated transfer/domain generalization combine cross-client and cross-domain adaptation?
 294. When does decentralization improve resilience versus amplify inconsistency?
+
+## 26. Uncertainty, novelty detection and adaptation triggers
+
+295. How should a system detect that current knowledge is insufficient?
+296. How do aleatoric and epistemic uncertainty differ for adaptation?
+297. How does out-of-distribution detection differ from concept-drift detection?
+298. How does novelty detection differ from low confidence?
+299. When should high uncertainty trigger learning, abstention, retrieval or human escalation?
+300. How reliable are uncertainty estimates under distribution shift?
+301. How does calibration drift over time?
+302. How can false novelty signals cause unnecessary adaptation?
+303. How can a system detect hidden shift when predictions remain superficially confident?
+304. How should adaptation thresholds depend on risk/cost?
+305. Can adaptation itself be uncertainty-aware?
+306. How is uncertainty preserved across sequential updates?
+
+## 27. Robust optimization, invariance and causal structure
+
+307. How does robust optimization differ from adaptive learning?
+308. What is distributionally robust optimization?
+309. How do worst-case objectives trade average performance for robustness?
+310. How does invariant risk minimization relate to domain generalization?
+311. What assumptions are required for invariant/causal predictors?
+312. How do causal representations support transfer under interventions?
+313. When are stable correlations enough without causal structure?
+314. How can spurious-feature reliance be diagnosed?
+315. How do environment partitions affect discovered invariances?
+316. How do causal assumptions fail under hidden confounding or changing mechanisms?
+317. When should systems adapt versus rely on invariant structure?
+318. How can robustness and plasticity conflict?
+
+## 28. Dynamic model capacity and architecture adaptation
+
+319. When should model width/depth/capacity change during learning?
+320. How do grow/prune/merge mechanisms differ?
+321. How is capacity insufficiency detected?
+322. How can architecture growth avoid unbounded resource use?
+323. How does pruning affect retained old knowledge?
+324. How do neural architecture search and online architecture adaptation differ?
+325. Can learned routing substitute for structural growth?
+326. How is architecture adaptation evaluated separately from parameter adaptation?
+327. What failure modes arise when architecture changes too frequently?
+328. How does dynamic capacity interact with continual-task recurrence?
+
+## 29. Hyperparameter and optimizer adaptation
+
+329. Which hyperparameters should remain fixed versus adapt online?
+330. How do adaptive optimizers differ from meta-learned optimizers?
+331. How can learning rate adapt to nonstationary data?
+332. How do optimizer-state resets affect adaptation and forgetting?
+333. What is population-based training and what does it adapt?
+334. How do hyperparameter schedules become learned policies?
+335. When can hyperparameter adaptation chase noise?
+336. How are validation signals obtained in continual deployment?
+337. How does AutoML differ from continual self-adaptation?
+338. What is the cost of adapting the learning process itself?
+
+## 30. Data selection, weighting and memory policies
+
+339. How does data selection differ from replay?
+340. How are hard, informative, diverse and representative samples distinguished?
+341. How do importance weights correct distribution mismatch?
+342. When does prioritizing hard examples amplify noise?
+343. How are old and new data weighted under drift?
+344. How should duplicate/redundant experience be handled?
+345. How do coresets summarize a history under finite memory?
+346. How are rare edge cases preserved?
+347. What is selective forgetting of obsolete data?
+348. How can data provenance and timestamp influence reuse?
+349. How do curriculum, active learning and replay interact through sample selection?
+350. How do data-selection policies themselves adapt?
+
+## 31. Resource-bounded adaptation
+
+351. How do compute, memory, bandwidth and latency constraints alter viable learning methods?
+352. When is periodic batch retraining preferable to continuous online updates?
+353. How does edge/on-device learning differ from server-side adaptation?
+354. How should update frequency trade freshness against stability and cost?
+355. How can replay buffers be bounded without severe forgetting?
+356. How do compressed/quantized models adapt after deployment?
+357. How do energy constraints affect continual learning?
+358. How does model-size growth conflict with lifelong learning?
+359. How should adaptation operate when raw historical data cannot be retained?
+360. What performance metrics include resource cost rather than accuracy alone?
+
+## 32. Safety, fairness and undesirable adaptation
+
+361. How can adaptation amplify spurious or harmful feedback?
+362. What is feedback-loop bias in deployed learning systems?
+363. How can personalization produce filter bubbles or discriminatory outcomes?
+364. How does online learning react to malicious/adversarial data poisoning?
+365. What is catastrophic adaptation to a corrupted stream?
+366. How can protected constraints remain stable while other behavior adapts?
+367. How does fairness drift over time?
+368. How can models detect that optimization is moving away from intended objectives?
+369. How do safe-update/rollback mechanisms differ from ordinary regularization?
+370. When should adaptation be blocked pending human review?
+371. How are audit trails maintained for continuously changing models?
+372. How does value/objective drift differ from statistical concept drift?
+
+## 33. Evaluation of adaptive and continual systems
+
+373. Which metrics capture average accuracy, forgetting, forward transfer and backward transfer?
+374. How are adaptation speed and steady-state performance jointly measured?
+375. How should performance be evaluated before, during and after drift?
+376. What baselines are required to show adaptation actually helps?
+377. How should memory, compute and communication costs enter benchmarks?
+378. How do known task boundaries bias evaluation relative to real deployment?
+379. How do static benchmark sequences misrepresent open-ended streams?
+380. How should recurring concepts be evaluated?
+381. How can benchmark order strongly affect continual-learning conclusions?
+382. How are multiple random task orders used?
+383. How should uncertainty/calibration be evaluated during adaptation?
+384. How do robustness and fairness metrics evolve over time?
+385. How are per-user/per-domain failures hidden by average metrics?
+386. How should negative transfer be reported?
+
+## 34. Real-world deployment and monitoring
+
+387. What signals should be monitored after deployment?
+388. How are drift detection, retraining, validation and rollout orchestrated?
+389. What is shadow deployment or canary evaluation for adaptive models?
+390. How should rollback work after a harmful update?
+391. How is versioning handled when models update frequently?
+392. How do delayed labels complicate monitoring?
+393. How can silent performance decay be detected?
+394. How do distribution monitors differ from outcome monitors?
+395. How are human review and operational constraints integrated?
+396. How does adaptation interact with regulatory/audit requirements?
+397. How should deployed systems distinguish temporary incidents from persistent shift?
+398. What is the boundary between ML adaptation algorithm and MLOps lifecycle?
+
+## 35. Крупные споры, сохранённые для A2/B
+
+1. Batch retraining vs continuous/online adaptation.
+2. Stability vs plasticity as the central continual-learning trade-off.
+3. Retaining old knowledge vs intentionally forgetting obsolete knowledge.
+4. Replay vs regularization vs modular/dynamic architectures.
+5. Fixed task boundaries vs task-free/open-ended continual learning.
+6. Transfer as benefit vs negative transfer/interference.
+7. Domain adaptation vs domain generalization vs test-time adaptation.
+8. Fast meta-learned adaptation vs broad out-of-distribution generalization.
+9. Multi-task sharing vs task-specific specialization.
+10. Curriculum/active selection vs passive exposure to data.
+11. Self-supervised representation learning vs task-specific supervision for adaptability.
+12. Model-free vs model-based adaptive policy learning.
+13. RL adaptation vs adaptive-control guarantees.
+14. Global model vs personalized/local models.
+15. Centralized adaptation vs federated/distributed adaptation.
+16. Reacting to detected shift vs proactively learning invariant/causal structure.
+17. Parameter adaptation vs architecture/capacity adaptation.
+18. Adapt everything vs preserve protected invariants/constraints.
+19. Maximum performance vs resource-bounded sustainable adaptation.
+20. Continuous improvement vs harmful feedback loops and unsafe drift.
+21. Average benchmark performance vs individual/domain worst-case adaptation.
+22. “Learning from experience” as weight update vs broader memory/context/system adaptation.
+
+## 36. A1 breadth check
+
+Карта сверена по независимым ветвям:
+- basic learning paradigms and adaptation definitions;
+- online/stream learning;
+- concept drift detection/adaptation;
+- continual/lifelong learning settings;
+- stability–plasticity and loss of plasticity;
+- replay, regularization and parameter isolation;
+- dynamic architectures;
+- transfer learning;
+- domain adaptation/generalization and OOD evaluation;
+- test-time adaptation;
+- meta-learning/few-shot adaptation;
+- multi-task learning;
+- curriculum/self-paced learning;
+- active learning;
+- self-supervised representation learning;
+- reinforcement learning and meta-RL;
+- adaptive control;
+- personalization;
+- federated/distributed adaptation;
+- uncertainty/novelty as adaptation triggers;
+- robust/invariant/causal learning;
+- hyperparameter/optimizer adaptation;
+- data selection/memory policies;
+- resource constraints;
+- safety/fairness under adaptation;
+- evaluation and real-world monitoring.
+
+После этих проверок новые обзорные результаты в основном добавляли детали внутри уже найденных ветвей, а не новые крупные оси. Это **первичная A1-картография**, а не финальный A2 coverage audit.
+
+## Статус
+
+**A1 №10 закрыта именно как первичная картография области.** В этом проходе отдельные вопросы не исследовались глубоко: источники использовались для выявления форм адаптации, конкурирующих learning paradigms, stability–plasticity trade-offs и методологических границ.
+
+**Следующий шаг общего процесса:** A1 №11 «Возможности ChatGPT».
