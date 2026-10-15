@@ -241,3 +241,130 @@ https://doi.org/10.1038/s44159-025-00432-2
 После проверки общих теорий памяти, working memory, episodic/semantic, event memory, retrieval, forgetting, reconstruction, schemas/generalization, autobiographical memory, prospective/future thinking, metamemory, emotion, development/aging, culture, offloading и ecological validity новых крупных самостоятельных осей не обнаружено. Новые результаты добавляли в основном подветви уже найденных блоков.
 
 Это достаточно для **A1-картографии**, но не означает глубокого исследования ни одной из перечисленных тем.
+
+
+---
+
+# A2 — повторная финальная картография с учётом всех областей
+
+**Дата прохода:** 16.10.2026.
+
+**Цель:** уточнить итоговую карту памяти после межобластной сверки, особенно primary gap `episodes → conditional reusable understanding`, различие storage/access/retrieval/influence, reconstructive retrieval и external/distributed memory. Это всё ещё финальная картография, а не глубокая фаза B.
+
+## Новые или повторно углублённо проверенные источники A2
+
+### Nagy, Orbán & Wu (2025) — Adaptive compression as a unifying framework for episodic and semantic memory
+Nature Reviews Psychology 4:484–498  
+https://doi.org/10.1038/s44159-025-00458-6
+
+**Фактически просмотрено в A2:** abstract, доступное описание framework и figures/summary на publisher page.  
+**Что меняет в карте:** episodic и semantic memory нельзя ставить в простую линейную цепочку «событие записалось → потом стало знанием». Авторы предлагают normative online-structure-learning framework: semantic memory кодирует regularities, episodic memory может сохранять surprising experiences относительно более raw для дальнейшей reinterpretation. Для A2 это создаёт отдельные вопросы о **compression, surprise, exception preservation и later reinterpretation**. Это theoretical framework, не установленный универсальный механизм.
+
+### Wu, Meder & Schulz (2025) — Unifying Principles of Generalization: Past, Present, and Future
+Annual Review of Psychology 76:275–302  
+https://doi.org/10.1146/annurev-psych-021524-110810
+
+**Фактически просмотрено в A2:** abstract и доступное full-text summary.  
+**Что меняет в карте:** перенос limited experience на novel situations может опираться на similarity, rules, latent structure и hybrid approaches. Поэтому «обобщить опыт» не обозначает одну операцию. Финальная карта должна спрашивать, **какой тип generalization сохраняет conditions/exceptions и когда abstraction превращается в overgeneralization**.
+
+### Karjack, Newcombe & Ngo (2025) — The dependence of children’s generalization on episodic memory varies with age and level of abstraction
+Nature Communications 16:8894  
+https://doi.org/10.1038/s41467-025-63934-w
+
+**Фактически просмотрено:** abstract и доступная introduction/results summary.  
+**Что меняет в карте:** связь episodic specificity и generalization зависит от уровня abstraction; higher-level generalization может не зависеть от точного episodic retrieval так же, как lower-level. Это эмпирически усиливает вопрос, нельзя ли получать reusable knowledge разными маршрутами, а не только через простую semanticization отдельных episodes.
+
+### Bailey & Smith (2024) — Event perception and event memory in real-world experience
+Nature Reviews Psychology 3:754–766  
+https://doi.org/10.1038/s44159-024-00367-0
+
+**Фактически просмотрено в A2:** abstract, publisher overview и описание теоретических осей.  
+**Что меняет в карте:** real-world experience приходит как continuous stream, а cognitively usable episode зависит от event segmentation и temporal/action structure. Поэтому перед вопросом «что сохранить из события?» есть более фундаментальный вопрос: **что вообще считается одним событием/эпизодом и где проходят его границы**.
+
+### Roediger & Abel (2022) — The double-edged sword of memory retrieval
+Nature Reviews Psychology 1:708–720  
+https://doi.org/10.1038/s44159-022-00115-2
+
+**Фактически повторно просмотрено в A2:** abstract и publisher summary.  
+**Что меняет в карте:** retrieval — не read-only operation. Он может менять subsequent retrievability target memory, related memories и encoding новой информации после retrieval. Для A2 это усиливает gap retrieval-induced path dependence: **то, что вспоминается чаще, может менять последующую доступность и структуру прошлого**.
+
+### Fawcett et al. (2024) — Active intentional and unintentional forgetting in the laboratory and everyday life
+Nature Reviews Psychology 3:652–664  
+https://doi.org/10.1038/s44159-024-00352-7
+
+**Фактически повторно просмотрено в A2:** abstract и publisher overview.  
+**Что меняет в карте:** forgetting включает intentional и unintentional active processes; everyday transfer остаётся отдельной проблемой. Поэтому lifecycle прошлого нельзя описывать одной операцией «delete/forget».
+
+### Richmond & Taylor (2025) — The benefits and potential costs of cognitive offloading for retrospective information
+Nature Reviews Psychology 4:312–321  
+https://doi.org/10.1038/s44159-025-00432-2
+
+**Фактически просмотрено в A2:** abstract, доступный полный publisher overview и ключевые references/implications.  
+**Что меняет в карте:** external store улучшает выполнение memory-based tasks, но reliance может иметь costs; неожиданная потеря доступа может ухудшать performance относительно internal-memory condition. Для нашего future synthesis это не blueprint файлов, а доказательство необходимости различать **stored externally, internally retained, accessible now и actually used**.
+
+### Guo & Ye (2026) — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications
+Humanities and Social Sciences Communications 13:772  
+https://doi.org/10.1057/s41599-026-06621-5
+
+**Фактически просмотрено:** abstract и доступное описание proposed metacognitive framework.  
+**Что меняет в карте:** решение offload/rely on external aid itself может зависеть от beliefs about internal ability, tool reliability и task-specific monitoring. Это добавляет A2-вопрос о **control policy выбора внутреннего vs внешнего источника**, не превращая его в engineering memory policy области №9.
+
+### Alberini (2026) — Infantile Amnesia: The Forgetting that Shapes our Identity
+Annual Review of Developmental Psychology, Review in Advance  
+https://doi.org/10.1146/annurev-devpsych-111323-121324
+
+**Фактически просмотрено в A2:** abstract текущей Review in Advance.  
+**Что меняет в карте:** review прямо ставит проблему: ранние memories могут перестать быть доступными explicit autobiographical recall, но исследования предполагают сохраняющееся влияние early-life experience. Это усиливает ключевое различие **storage/persistence ≠ explicit accessibility ≠ behavioral influence**.
+
+### Bein & Niv (2025) — Schemas, reinforcement learning and the medial prefrontal cortex
+Nature Reviews Neuroscience 26:141–157  
+https://doi.org/10.1038/s41583-024-00893-z
+
+**Фактически просмотрено:** abstract и доступное publisher summary.  
+**Что меняет в карте:** schema learning связывается с prediction errors, hierarchical knowledge and dimensionality reduction. Для области №2 это не готовый ответ и частично принадлежит №3/6, но показывает необходимость отдельной границы между **schema/abstract representation**, learning signal и neural implementation.
+
+## A2 — уточнения, полученные из совокупности источников
+
+1. **Episode is constructed before it is remembered.** Continuous experience segmentation и representation задают, что позже может выступать единицей episodic memory. Следовательно, raw event in world ≠ memory episode.
+
+2. **Episode → reusable knowledge is not one mechanism.** Generalization может использовать similarity to instances, explicit rules, latent structure, schema or hybrid routes. Semantic knowledge не обязано быть simple compressed copy of episodes.
+
+3. **Compression always implies selection.** Любая abstraction/gist/schema теряет detail; важный A2-вопрос — какие conditions/exceptions должны сохраняться, чтобы later understanding не стало rigid overgeneralization.
+
+4. **Surprise/prediction error is a candidate prioritization signal, not a universal definition of significance.** Это пересекается с learning №3 и motivation №4; область №2 должна исследовать, как unusual events affect memory representation/retrieval, но не превращать surprise в готовое правило «что важно».
+
+5. **Retrieval is potentially an intervention.** Вспоминание может улучшать target retention, ослаблять/усиливать related information и менять subsequent encoding. Поэтому retrieval policy later cannot be treated as neutral access mechanism.
+
+6. **Stored, accessible, retrieved, reported and influential are different states.** A record can exist but not be accessible; can be accessible but not retrieved; can be retrieved but not control behavior. Это central distinction для будущего synthesis.
+
+7. **Forgetting is not equivalent to erasure.** Inaccessibility, active suppression, interference, updating/competition and loss of explicit recall need separate treatment.
+
+8. **External memory changes the cognitive system without becoming internal memory.** Offloading can improve task performance and change what needs to be maintained internally, while reliance creates vulnerability to loss of access. This is the appropriate human analogue boundary for future files, not evidence that a project file is “episodic memory”.
+
+9. **Choice of internal vs external memory can itself be metacognitively controlled.** This matters for future cross-area work on memory use, but exact engineered write/retrieval policy belongs to №9.
+
+10. **Memory can guide future behavior without explicit autobiographical recall.** Therefore future claims about “experience influencing choice” cannot require conscious-like explicit recollection as the only possible signature — but human evidence cannot be directly transferred to GPT.
+
+## A2 boundary decisions for area №2
+
+- **Остаётся в №2:** episodic/semantic relations; event representation; retrieval/reconstruction; forgetting/accessibility; generalization/schema as memory phenomena; autobiographical memory boundary; external/offloaded memory as cognitive phenomenon; metamemory and memory-use control.
+- **Primary owner №3:** acquisition/learning mechanisms and reinforcement/feedback.
+- **Primary owner №7:** generic path dependence/system memory.
+- **Primary owner №9:** engineered memory write/retrieval/consolidation policies and agent experience lifecycle.
+- **Primary owner №11:** actual ChatGPT Memory/history/files persistence semantics.
+- **Primary owner №12:** prompt/context rules controlling use of those sources.
+- **№6:** neural consolidation/reconsolidation mechanisms only where biological detail is needed.
+
+## A2 coverage conclusion
+
+Повторный поиск по:
+- event segmentation/naturalistic memory;
+- episodic↔semantic interaction;
+- generalization routes;
+- compression/schema;
+- reconstructive retrieval;
+- active forgetting;
+- explicit accessibility vs retained influence;
+- external memory/offloading and metacognitive control
+
+не открыл новой самостоятельной memory domain beyond A1. Новое содержательно находится на **стыках уже найденных блоков** и требует добавить интегральные вопросы A2, после чего карта считается готовой для фазы B.
