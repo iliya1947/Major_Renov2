@@ -63,8 +63,8 @@
 
 **Источники:** McAdams & Olson (2010), Shiner et al. (2021), Haehner et al. (2024).
 
-### A8. Как развивается идентичность и история о себе?
-- Чем self-concept, identity, narrative identity и autobiographical meaning различаются?
+### A8. Как развиваются self-concept, идентичность и история о себе?
+- Чем self-concept, identity, narrative identity и autobiographical meaning различаются и как они связаны?
 - Как связаны история о себе и фактическое поведение?
 - Может ли устойчивый индивидуальный паттерн существовать без явного самоописания?
 - Как пережитые события становятся частью идентичности и когда история о себе искажает, а не отражает развитие?
@@ -72,9 +72,9 @@
 
 **Источники:** McAdams & Olson (2010), Roberts & Yoon (2022), Sirin et al. (2024), литература по autobiographical memory.
 
-### A9. Как культура, социальные отношения и роли входят в развитие личности?
+### A9. Как отношения, attachment, культура и социальные роли входят в развитие личности?
 - Какие изменения универсальны, а какие зависят от культуры, социальных ролей и исторического периода?
-- Как отношения, нормы, работа, семья, группы и цифровая среда создают разные траектории?
+- Как attachment/close relationships, нормы, работа, семья, группы и цифровая среда создают разные траектории?
 - В какой мере «нормативное созревание» является культурно зависимым?
 - Как избегать выводов из узких западных выборок как универсальных?
 
@@ -95,7 +95,8 @@
 **Источник-карта:** Haehner, Wright & Bleidorn (2024) выделяют отдельную литературу по volitional personality change.
 
 ### A12. Какими методами вообще можно выявить причинный механизм индивидуального развития?
-- Что дают и чего не дают продольные исследования, experience sampling, intervention, natural experiment, cross-lagged/within-person designs?
+- Что дают и чего не дают продольные исследования, intensive longitudinal/experience sampling, intervention, natural experiment, cross-lagged/within-person designs?
+- Когда нужен nomothetic подход, а когда idiographic/person-specific модель конкретного человека?
 - Как не перепутать between-person correlation с within-person process?
 - Какие источники данных нужны: self-report, observer report, поведение, ситуации, нарративы?
 - Как проверять measurement invariance/heterotypic continuity?
@@ -111,9 +112,10 @@
 - personality dynamics / states-and-processes approaches;
 - neo-socioanalytic / sociogenomic / social-investment approaches;
 - lifespan developmental approaches;
-- motivational/agentic approaches;
+- motivational/agentic approaches, включая SDT/PSI;
 - narrative identity approaches;
 - behavioral-genetic / socioecological-cultural approaches;
+- attachment/relational approaches как соседняя ветвь;
 - integrative models, пытающиеся связать несколько уровней.
 
 **Следующая задача фазы A:** проверить, не пропущены ли крупные современные семейства и какие из перечисленных реально конкурируют, а какие дополняют друг друга.
@@ -147,14 +149,22 @@
 12. Curran PJ, Bauer DJ. 2011. *The Disaggregation of Within-Person and Between-Person Effects in Longitudinal Models of Change*. Annual Review of Psychology 62:583–619. https://doi.org/10.1146/annurev.psych.093008.100356
 13. Columbus S, Strandsbjerg CF. 2025. *Personality states*. Current Opinion in Psychology 65:102099. https://doi.org/10.1016/j.copsyc.2025.102099
 
-## Что ещё нужно сделать до завершения фазы A №1
+## Coverage audit после двух проходов
 
-1. Проверить карту по **ещё одному независимому современному обзору/handbook-map**, чтобы не зависеть от одной школы Roberts/Bleidorn/McAdams.
-2. Отдельно проверить, не пропущены ли:
-   - attachment/relational approaches как самостоятельная ветвь развития личности;
-   - self/self-concept approaches;
-   - psychodynamic/humanistic современные линии (если они реально релевантны современной developmental personality science);
-   - personality pathology как источник общих developmental-механизмов или только соседняя клиническая область.
-3. Найти современный обзор **idiographic/person-specific methods**, чтобы правильно сформулировать вопросы об индивидуальной траектории.
-4. После этого сократить/объединить карту: оставить только вопросы, без которых фаза B действительно будет неполной.
-5. Только после закрытия этих пробелов отметить фазу A №1 завершённой и перейти к фазе A №2.
+Проверены потенциальные пробелы:
+- **idiographic/person-specific methods — добавить обязательно** к A12;
+- **attachment/relational — учитывать**, но как часть A9 и пересечение с областью №5;
+- **self-concept — учитывать** внутри A8;
+- **personality pathology — не отдельный главный блок**, а полезный контрастный случай;
+- **SDT/PSI — учитывать** внутри A7/A13;
+- **psychodynamic/humanistic как отдельный блок — пока основания недостаточны**; не включать ради исторической полноты;
+- независимая структура Cambridge Handbook в целом подтверждает покрытие основных направлений.
+
+### Оставшийся шаг до локального завершения фазы A №1
+Провести **финальную проверку A1–A14 на избыточность и доказательное основание**:
+1. у каждого научного блока должны быть независимые обзорные основания или явная пометка «гипотеза карты»;
+2. объединить вопросы, которые дублируют соседние области;
+3. отделить вопросы области №1 от того, что следует глубоко изучать только в №2–№6;
+4. сформулировать компактную итоговую карту для будущей межобластной сверки.
+
+После этого фазу A №1 можно пометить **локально завершённой, но открытой для корректировки после фаз A остальных 11 областей**, и перейти к фазе A №2.
