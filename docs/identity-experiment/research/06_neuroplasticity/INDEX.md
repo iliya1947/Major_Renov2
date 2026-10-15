@@ -81,3 +81,81 @@
 58. Как repeated experience alters synapse clustering?
 59. Как structural stability coexists with ongoing turnover?
 60. Какие imaging methods can causally link structural change to learned behavior?
+
+## 7. Homeostatic plasticity and stability
+
+61. Какие forms homeostatic plasticity regulate firing rates and network activity?
+62. Как synaptic scaling differs from Hebbian LTP/LTD?
+63. Как inhibitory plasticity contributes to stability?
+64. Как intrinsic excitability participates in homeostasis?
+65. Какие variables are actually homeostatically controlled: firing rate, E/I balance, information flow, tuning?
+66. How local vs global are homeostatic adjustments?
+67. Как homeostasis preserves function despite synaptic turnover?
+68. Как homeostatic mechanisms constrain learning capacity?
+69. Когда homeostatic compensation masks underlying plastic change?
+70. Как failure of homeostasis contributes to pathology?
+
+## 8. Metaplasticity: plasticity of plasticity
+
+71. Что qualifies as metaplasticity?
+72. Как previous activity alters thresholds for subsequent LTP/LTD?
+73. Какие timescales metaplasticity occupies?
+74. How input-specific vs cell-wide can metaplastic effects be?
+75. Как neuromodulatory state alters future plasticity?
+76. Как metaplasticity differs from homeostatic plasticity?
+77. Может ли metaplasticity explain history-dependent learning capacity?
+78. Как metaplastic effects measured in behaving organisms?
+79. Какие adult human evidence exists beyond stimulation paradigms?
+80. Как metaplasticity contributes to stability–flexibility trade-offs?
+
+## 9. Neuromodulation and plasticity gating
+
+81. Как dopamine, acetylcholine, norepinephrine and serotonin differently modulate plasticity?
+82. How do neuromodulators alter induction versus persistence of plastic change?
+83. Как salience, novelty, uncertainty, reward and arousal map onto neuromodulatory signals?
+84. Насколько neuromodulator effects are receptor-, region- and state-specific?
+85. What is the role of volume transmission versus point-to-point synaptic signaling?
+86. How do neuromodulators interact rather than act independently?
+87. Как neuromodulation gates plasticity at synaptic, dendritic and network scales?
+88. Как timing of neuromodulatory release matters relative to experience?
+89. Как neuromodulators differ between learning, attention, motivation and memory functions?
+90. Как pharmacological manipulation distorts inference about normal plasticity?
+
+## 10. Activity-dependent gene expression and protein synthesis
+
+91. Какие immediate-early genes and plasticity-related genes mark experience-dependent change?
+92. How does neural activity trigger transcriptional programs?
+93. Какие transcription factors link transient activity to longer-lasting cellular change?
+94. Как local protein synthesis at synapses differs from nuclear transcription?
+95. Как gene-expression programs vary by cell type?
+96. What distinguishes genes associated with activation from genes causally required for plasticity?
+97. How long do activity-dependent transcriptional changes persist?
+98. How repeated experiences reshape transcriptional responsiveness?
+99. Как transcriptional plasticity differs across development and adulthood?
+100. Какие limits arise when using IEG expression as a proxy for engram participation?
+
+## 11. Epigenetic and chromatin plasticity
+
+101. Какие roles DNA methylation/demethylation, histone modifications and non-coding RNAs play in plasticity?
+102. Как epigenetic changes differ between development and adult learning?
+103. Какие epigenetic modifications are transient, persistent or reversible?
+104. How cell-type specificity changes interpretation of bulk-tissue results?
+105. Как experience-dependent chromatin remodeling links to gene expression?
+106. Чем epigenetic priming differs from stable memory storage?
+107. How early-life experience shapes later plasticity through epigenetic mechanisms?
+108. Как distinguish causal epigenetic mechanisms from correlational marks?
+109. Какие human evidence is direct versus inferred from peripheral tissue or animal models?
+110. Как single-cell and spatial multi-omics change this field?
+
+## 12. Engrams and memory allocation
+
+111. What operational criteria define an engram cell or ensemble?
+112. How are neurons allocated to an engram?
+113. Как intrinsic excitability and prior activity bias allocation?
+114. How sparse or distributed are engrams across regions?
+115. How stable is engram membership over time?
+116. Как inhibitory and glial plasticity contribute to engram function?
+117. How can linked memories share cells yet retain distinct identities?
+118. What distinguishes engram reactivation from generic task-related activity?
+119. How recall-induced changes alter engram composition?
+120. How species/task dependence limits generalization of engram findings?
