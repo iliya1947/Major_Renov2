@@ -133,3 +133,134 @@
 98. Какое retention возможно ради safety?
 99. Как custom instructions/plugins взаимодействуют с temporary personalization?
 100. Почему Temporary chat не подходит как persistent experimental substrate?
+
+
+## 11. File upload capabilities and limits
+
+101. What file formats are supported across ChatGPT surfaces?
+102. What per-file size limits apply?
+103. What token limits apply to textual documents?
+104. What spreadsheet/image-specific limits apply?
+105. What upload-rate limits apply?
+106. What total Library storage limits apply?
+107. What per-project file-count limits apply by plan?
+108. What happens when file/storage limits are reached?
+109. How do parsing capabilities differ among PDFs, documents, spreadsheets and images?
+110. Which file-processing behaviors vary by model or tool availability?
+
+## 12. Library
+
+111. Which uploaded/generated files are automatically saved to Library?
+112. How does Library persistence differ from chat attachment persistence?
+113. Does deleting a chat delete its Library file?
+114. How can a Library file be reused in another conversation?
+115. How can Library files be searched and filtered?
+116. How do connected-cloud files appear alongside locally stored Library files?
+117. Which file/folder operations are supported in Library?
+118. How does Library storage interact with upload quotas?
+119. Which surfaces can access full Library versus recent files only?
+120. How should Library be distinguished from project sources?
+
+## 13. Connected apps and plugins
+
+121. What is the product distinction between plugin, connected app, skill and extension?
+122. How are plugins installed and discovered?
+123. When does a plugin require separate account authorization?
+124. Which connected apps provide read-only versus write actions?
+125. How does app availability depend on plan, region, role and interface?
+126. Can ChatGPT automatically select a relevant installed plugin?
+127. How are app actions constrained by provider permissions?
+128. How do workspace admins restrict apps/plugins?
+129. How do app failures differ from model failures?
+130. How should external account state be separated from persistent internal ChatGPT state?
+
+## 14. App links as project sources
+
+131. Which app links can currently be added as project sources?
+132. How do Google Drive files/folders behave as project sources?
+133. How do Slack channels behave as project sources?
+134. Does adding a link copy content or preserve connection to the external source?
+135. How are external-source permission changes reflected?
+136. How does linked-source freshness differ from uploaded snapshot files?
+137. What happens when an external source becomes unavailable?
+138. What does sync mean for connected sources?
+139. Why can app sync behavior differ when used inside a project?
+140. How should linked dynamic sources be versioned for reproducible experiments?
+
+## 15. Connected-app permissions and actions
+
+141. What permissions determine whether ChatGPT may read versus act?
+142. How do provider permissions differ from ChatGPT app permissions?
+143. Which actions require confirmation or approval?
+144. How does least-privilege access work across apps?
+145. How are multiple connected accounts handled?
+146. What happens when authorization expires?
+147. How can a user review or revoke app permissions?
+148. How do workspace defaults constrain personal app settings?
+149. How are tool/action failures surfaced?
+150. What audit information exists for app actions?
+
+## 16. Web search
+
+151. What is standard web search in ChatGPT?
+152. When does ChatGPT decide to search versus answer from model knowledge?
+153. Can the user explicitly request or restrict search?
+154. How are search sources cited?
+155. How does web search differ from deep research?
+156. How does search differ from browsing through Work/cloud browser?
+157. How is freshness handled?
+158. How do source quality and ranking affect answers?
+159. Can web search access authenticated/private content?
+160. Which search capabilities vary by model, plan or workspace?
+
+## 17. Deep research
+
+161. What sources can deep research use by default?
+162. How can the user restrict or prioritize websites?
+163. Which connected apps are eligible as research sources?
+164. Why does deep research use read actions but not app write actions?
+165. How is a research plan proposed and edited?
+166. Can the user interrupt and redirect research?
+167. What citations/source links are included in final report?
+168. How does usage vary by plan?
+169. How does deep research differ from ordinary multi-turn research in chat?
+170. Which parts belong to a separate agent/runtime rather than chat model itself?
+
+## 18. ChatGPT Work
+
+171. What distinguishes Work from ordinary Chat?
+172. What kinds of multi-step tasks can Work carry out?
+173. How does Work use files, apps and tools?
+174. How does Work use project context when launched from a project?
+175. Why is Work unavailable in project-only-memory projects?
+176. How do cloud and local Work differ?
+177. Which surfaces support Work?
+178. Can Work continue after user leaves the conversation?
+179. When does Work pause for confirmation/sign-in/input?
+180. How does Work’s agentic persistence differ from ordinary chat continuity?
+
+## 19. Cloud browser and desktop browser
+
+181. What can the cloud browser read/click/type on supported sites?
+182. How are signed-in website sessions handled?
+183. How does cloud browser differ from desktop built-in browser?
+184. Which tasks can continue remotely?
+185. What happens when websites block automated browsing?
+186. How is takeover by user handled?
+187. How are downloads/files handled in browser tasks?
+188. What restrictions apply to transactions or sensitive actions?
+189. How do browser actions relate to connected-app actions?
+190. What state persists between browser sessions?
+
+## 20. Scheduled and event-triggered tasks
+
+191. What one-time and recurring schedules are supported?
+192. What types of monitored conditions/events are supported?
+193. Which app events can trigger tasks?
+194. How are notifications delivered?
+195. How are tasks reviewed, edited, paused or deleted?
+196. What approvals can pause a scheduled task?
+197. What context does a task retain between runs?
+198. Why can a scheduled task created in a project fail to access uploaded/project files?
+199. How do event-triggered tasks depend on app permissions and Work availability?
+200. Which plans/workspaces support event-triggered tasks?
