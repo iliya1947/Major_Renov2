@@ -96,4 +96,4 @@
 11. `research/11_chatgpt_capabilities/` — возможности ChatGPT.
 12. `research/12_area/` — проектные инструкции и prompting.
 
-**Статус 16.10.2026:** **A1 и межобластная сверка после A1 завершены; A2 №1–3 завершены.** В A2 №3 выполнен fresh-source coverage audit, добавлены вопросы №173–196 и уточнены primary gap `no-update criterion`, learning↔performance, instruction↔experience, delayed credit assignment, context-dependent revision и meta-learning. **Следующий шаг — A2 №4 «Мотивация, эмоции и интересы» отдельным полноценным исследовательским проходом.**
+**Статус 16.10.2026:** **A1 и межобластная сверка после A1 завершены; A2 №1–4 завершены.** В A2 №4 выполнен fresh-source coverage audit, добавлены вопросы №263–285 и уточнён primary gap `significance without preset values/interests/goals`: разведены salience, relevance, utility, value, interest, curiosity, information value, external influence/internalization и state→enduring interest. **Следующий шаг — A2 №5 «Социальная психология и идентичность» отдельным полноценным исследовательским проходом.**
