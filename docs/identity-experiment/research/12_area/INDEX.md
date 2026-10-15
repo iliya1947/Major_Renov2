@@ -160,3 +160,17 @@
 118. How do reasoning models differ in recommended prompting from non-reasoning GPTs?
 119. How should rationale quality be evaluated separately from answer correctness?
 120. When is generated rationale not a faithful explanation of the process producing the answer?
+
+
+## 13. Decomposition and staged task execution
+
+121. When should a complex task be decomposed into subproblems?
+122. How does staged prompting differ from one-pass generation?
+123. How does plan-first prompting differ from direct execution?
+124. How does explicit planning affect missing-step errors?
+125. When can decomposition create error propagation?
+126. How should dependencies among subproblems be represented?
+127. How does decomposition interact with external tools?
+128. When should plan creation and execution be separated?
+129. How should plans be revised after new information?
+130. Which decomposition gains are task-specific rather than general?
