@@ -48,3 +48,58 @@ Learning не заканчивается acquisition в исходной зад�
 - изменяется при новой информации.
 
 Поэтому A2/B должны рассматривать transfer/generalization как самостоятельный вопрос, а не как автоматическое следствие learning.
+
+
+## 5. Социальное и языковое обучение меняют пространство
+
+Люди учатся не только через собственные последствия, но и через:
+- наблюдение чужих действий;
+- наблюдение чужих outcomes;
+- imitation/emulation;
+- instruction;
+- verbal rules;
+- социальный выбор источника информации.
+
+Это создаёт отдельную границу между direct experience и mediated experience и должно быть позже сопоставлено с областью №5.
+
+## 6. Learning-to-learn — самостоятельная ветвь
+
+Современные developmental/meta-learning работы допускают, что меняются не только конкретные associations или values, но и сами strategies/parameters learning в ответ на statistics среды.
+
+A1 только фиксирует эту ветвь. Вопрос о том, как это происходит, переносится в A2/B.
+
+## 7. Методологическая проблема центральна
+
+Большая часть apparent-различий может зависеть от:
+- конкретной task;
+- способа operationalize reward/punishment/habit/extinction;
+- model identifiability;
+- смешения learning с memory, motivation, attention и motor execution;
+- коротких laboratory timescales;
+- group averages вместо individual trajectories.
+
+Поэтому будущий глубокий разбор должен сопровождать substantive claims проверкой того, что реально измерялось.
+
+## 8. Что A1 №3 дала общей программе
+
+Получена карта из 172 вопросов по 23 блокам. Она позволяет позже не смешивать:
+- learning и performance;
+- reinforcement и punishment;
+- punishment и avoidance;
+- habit и automaticity;
+- extinction и erasure;
+- association и causal inference;
+- direct и social learning;
+- implicit и explicit learning;
+- acquisition и transfer;
+- laboratory behavior и real-world adaptation.
+
+## 9. Граница текущего результата
+
+Ни один из 172 вопросов не считается глубоко исследованным или решённым.
+
+A1 №3 отвечает только на вопрос:
+
+**«Какие части психологии обучения и поведения необходимо исследовать, чтобы позже понять изменение поведения под влиянием опыта и последствий, не сводя всё к одной слишком простой модели learning?»**
+
+**Следующий шаг общего процесса:** A1 №4 «Мотивация, эмоции и интересы».
