@@ -341,3 +341,138 @@
 258. How can contradictory edits be handled?
 259. How should edit persistence be distinguished from temporary context override?
 260. What does model editing reveal—and fail to reveal—about where knowledge is represented?
+
+## 27. Interpretability, probing and causal analysis
+
+261. What is mechanistic interpretability trying to explain?
+262. How do feature attribution, probing, activation analysis and circuit analysis differ?
+263. What makes an explanation faithful rather than merely predictive?
+264. How do counterfactual interventions strengthen causal claims?
+265. What are induction heads and other proposed Transformer circuits?
+266. How stable are discovered circuits across model sizes/families/tasks?
+267. How does superposition complicate feature-level interpretation?
+268. What are sparse autoencoders intended to recover?
+269. How should interpretability methods be validated?
+270. Where do mechanistic explanations stop scaling to frontier proprietary models?
+
+## 28. Multilingual and cross-lingual behavior
+
+271. How does pretraining-language balance affect capability by language?
+272. How does tokenizer inefficiency interact with multilingual performance?
+273. What forms of cross-lingual transfer occur without explicit parallel data?
+274. Are concepts represented in shared multilingual spaces or language-specific structures?
+275. How does instruction tuning transfer across languages?
+276. How do safety/alignment behaviors differ across languages?
+277. How does knowledge availability differ from reasoning ability across languages?
+278. What happens when reasoning and answer languages differ?
+279. How do low-resource languages expose architecture/data limitations?
+280. What measurement-invariance problems arise when comparing LLM behavior across languages?
+
+## 29. Tool calling and external information: boundary with agents
+
+281. What is learned tool-use behavior inside an LLM versus runtime tool execution?
+282. How are tool schemas/function signatures supplied to the model?
+283. How does selecting a tool differ from executing its action?
+284. How do tool results re-enter context?
+285. How do tool errors, stale results and malicious outputs affect model behavior?
+286. How does grounding in external sources differ from changing model weights?
+287. What does retrieval augment at inference time and what remains model-internal?
+288. How should provenance be preserved when external information is incorporated?
+289. At what point does tool orchestration become an agent architecture rather than an LLM property?
+290. Which questions belong in area №9 instead of being duplicated here?
+
+## 30. Multimodality and cross-modal context
+
+291. How do multimodal GPT-like systems incorporate image/audio/video representations?
+292. What architectural patterns connect modality encoders to a language decoder?
+293. How do modality-specific tokens/embeddings differ from text tokens?
+294. What does cross-modal grounding mean operationally?
+295. How do multimodal context limits differ from text-only limits?
+296. How do hallucination and uncertainty change with multimodal input?
+297. How is contradictory information across modalities resolved?
+298. What knowledge is learned jointly versus transferred through language representations?
+299. How much of multimodal behavior belongs to the LLM backbone versus modality adapters?
+300. Which multimodal questions are relevant to GPT architecture but outside the planned text-centered experiment?
+
+## 31. Evaluation, benchmarks and contamination
+
+301. What makes an LLM benchmark measure capability rather than prompt fit?
+302. How does benchmark contamination inflate apparent performance?
+303. What forms of explicit and implicit contamination are distinguished?
+304. How can dynamic benchmarks reduce contamination risk?
+305. How should prompt sensitivity be incorporated into benchmark uncertainty?
+306. How do pass@k, exact match, preference scores and open-ended ratings answer different questions?
+307. When are human evaluations necessary?
+308. What are strengths and biases of LLM-as-a-judge?
+309. How do judge position, verbosity, authority and style biases affect scores?
+310. How should evaluation handle stochastic decoding and repeated trials?
+
+## 32. Reproducibility, opacity and model/version drift
+
+311. How reproducible are findings when proprietary model weights/training data are unavailable?
+312. How do silent model updates affect longitudinal behavioral research?
+313. How can API/runtime changes be separated from model-weight changes?
+314. How should exact model identifiers, dates and inference settings be recorded?
+315. How do temperature/default decoding changes confound comparisons?
+316. What information can black-box behavioral experiments legitimately infer about architecture?
+317. How do open-weight models help test mechanisms that cannot be inspected in frontier APIs?
+318. How does benchmark behavior transfer across model generations?
+319. What does a “same model” mean when post-training/runtime policies change?
+320. How should conclusions be marked when architecture or training details are undisclosed?
+
+## 33. Крупные споры, сохранённые для A2/B
+
+1. Next-token prediction as sufficient explanatory core vs need for distinct post-training/inference mechanisms.
+2. Capabilities learned in weights vs elicited by prompting/context.
+3. Pretraining knowledge vs post-training behavior.
+4. In-context learning as learning vs inference/task conditioning.
+5. Smooth scaling vs genuinely emergent capability transitions.
+6. Dense computation vs sparse/MoE specialization.
+7. Long nominal context vs reliable effective context.
+8. Internal parametric knowledge vs retrieval/external grounding.
+9. Memorization vs generalization.
+10. Localized knowledge vs distributed representation.
+11. Generated rationale as reasoning trace vs post-hoc explanation.
+12. More test-time compute vs reliable better reasoning.
+13. Verbalized confidence vs calibrated epistemic uncertainty.
+14. Hallucination as one phenomenon vs heterogeneous factuality/faithfulness failures.
+15. User responsiveness vs sycophancy.
+16. Steerability vs robustness to prompt injection.
+17. Fine-tuning/model editing vs continual learning.
+18. Behavioral consistency vs stochastic/context-sensitive generation.
+19. Interpretability correlations vs causal mechanistic explanation.
+20. Benchmark gains vs contamination/prompt artifacts.
+21. Language-general capability vs tokenizer/data-induced cross-lingual inequality.
+22. Model property vs runtime/product/agent property.
+
+## 34. A1 breadth check
+
+Карта сверена по независимым ветвям:
+- Transformer/autoregressive foundations;
+- tokenization and positional representation;
+- attention, MLP/residual computation and MoE;
+- pretraining data/objective and scaling;
+- memorization/generalization;
+- post-training, instruction tuning and preference optimization;
+- instruction hierarchy;
+- decoding;
+- context and long-context behavior;
+- in-context learning and prompt sensitivity;
+- reasoning/test-time scaling;
+- factuality, uncertainty and calibration;
+- sycophancy/prompt-injection robustness;
+- continual learning and model editing;
+- interpretability;
+- multilingual behavior;
+- tool-use boundary;
+- multimodality;
+- evaluation/contamination/LLM-as-judge;
+- proprietary-model reproducibility and version drift.
+
+После этих проверок новые обзоры в основном добавляли подветви внутри уже найденных осей. Это не финальный A2 coverage audit: межобластные границы ещё будут пересмотрены после A1 всех 12 областей.
+
+## Статус
+
+**A1 №8 закрыта именно как первичная картография области.** В этом проходе отдельные вопросы не исследовались глубоко: источники использовались для построения карты архитектурных уровней, обучающих режимов, inference-процессов, behavioral phenomena и методологических границ.
+
+**Следующий шаг общего процесса:** A1 №9 «AI-агенты и когнитивные архитектуры».
