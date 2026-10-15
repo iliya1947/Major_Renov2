@@ -70,3 +70,41 @@ Pérez-Torres (2024) reviews self-presentation, social comparison, role models a
 - loneliness/social connection;
 - cultural evolution;
 - parasocial and AI-mediated relationships.
+
+
+## 15.10.2026 — второй проход A1: проверка возможных пропусков
+
+### Multiple identities
+Roccas & Brewer lineage and the Annual Review *Multiple Identities in Social Perception and Interaction* (2015) establish multiple/intersectional category memberships as a substantial social-identity problem.
+
+**Для карты:** enrich S1/S16; no separate top-level block.
+
+### Trust, cooperation, reciprocity — missing block confirmed
+Frederiksen (2021) Annual Review of Sociology distinguishes particularized/generalized/categorical trust; Tomasello & Vaish (2022) Annual Review of Psychology maps reciprocity, reputation, signaling, punishment and cultural mechanisms behind human cooperation.
+
+**Для карты:** added S19. Long-term interaction cannot be mapped only through belonging/attachment; credibility, reciprocity and cooperative expectations form a separate relationship dynamic.
+
+### Status / power / hierarchy
+Fiske et al. (2016), Bendersky & Pai (2018), Körner et al. (2025) show both a large literature and conceptual measurement problems: power, status, dominance and prestige are often conflated.
+
+**Для карты:** S4/S16 must track hierarchy as a modifier of influence and agency; no separate core block needed for our question.
+
+### Cultural evolution
+Gelfand et al. (2024) and Kashima et al. (2019) distinguish micro transmission, micro–macro emergence and macro constraints.
+
+**Для карты:** strengthens S5/S14 and future №7 cross-check; not a new block.
+
+### AI-mediated / parasocial relationships
+Hung et al. (2026) systematic review of AI parasocial relationships reports both potential social-support functions and risks, while stressing inconsistent definitions, measurement and lack of longitudinal work.
+
+**Для карты:** retain as a modern context S6/S17, but do not elevate AI companionship into a universal social mechanism; technical/product-specific part belongs №11.
+
+### Loneliness, moral identity, minority influence
+No evidence from this pass that these require new upper-level blocks:
+- loneliness/social disconnection → S9;
+- moral/fused identities → S1/S3/S13;
+- minority/resistance/reactance → S4/S16.
+
+## Итог A1 области №5
+
+One new upper-level question was required: **trust/cooperation/reciprocity (S19)**. With it, the working map S1–S21 is sufficient for the first global A1 and remains open for A2.
