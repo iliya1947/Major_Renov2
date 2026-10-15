@@ -170,3 +170,83 @@
 129. How can macro-level conditions feed back onto agent behavior?
 130. What role does environmental variability play in maintaining adaptive capacity?
 131. How should adaptation be evaluated when there is no single objective function?
+
+## 13. Adaptive networks and coevolution
+
+132. What distinguishes static, temporal and adaptive networks?
+133. How do node states and network topology coevolve?
+134. When does adaptation occur by changing interactions rather than node behavior?
+135. How do homophily/assortativity and influence become entangled?
+136. How can network rewiring stabilize or destabilize collective dynamics?
+137. What forms of feedback exist between local state and connectivity?
+138. How do multilayer/interdependent networks change adaptation?
+139. What is the role of network memory and persistence?
+140. How can emergent topology constrain later possibilities?
+141. Which adaptive-network findings depend strongly on chosen update rules?
+
+## 14. Multiscale organization and hierarchy
+
+142. How are spatial, temporal and organizational scales identified rather than assumed?
+143. What counts as a higher-level unit in a multiscale system?
+144. How do interactions within and across levels differ?
+145. What forms of upward and downward constraint are empirically meaningful?
+146. How does timescale separation enable hierarchical organization?
+147. When do fast variables enslave slow ones or vice versa?
+148. How can coarse-grained variables retain causal/predictive value?
+149. How do modular and hierarchical architectures interact?
+150. What kinds of feedback operate between local adaptation and global organization?
+151. How does one avoid double-counting the same process at multiple scales?
+152. When is a multiscale description necessary rather than merely convenient?
+
+## 15. Path dependence, history and system memory
+
+153. What does path dependence mean in dynamical systems versus economics/social science?
+154. How does history dependence differ from ordinary state dependence?
+155. What forms of memory can a dynamical system exhibit without an explicit memory store?
+156. How does hysteresis relate to path dependence?
+157. How can early random events constrain later trajectories?
+158. What are lock-in and increasing returns?
+159. How do initial conditions differ from historically accumulated structural change?
+160. How can a system escape a path-dependent regime?
+161. When does apparent path dependence reflect an incomplete model rather than real memory?
+162. How can historical contingency be measured experimentally or computationally?
+
+## 16. Robustness, resilience and recovery
+
+163. How does robustness differ from resilience?
+164. How does resilience differ from stability?
+165. How is recovery time measured after perturbation?
+166. What is graceful degradation?
+167. How can a system remain functional while internal components change?
+168. What is the difference between robustness to expected versus novel perturbations?
+169. How do redundancy, modularity and distributed control support robustness?
+170. What are robustness–fragility trade-offs?
+171. How can optimizing for one class of disturbance increase vulnerability to another?
+172. How does adaptive resilience differ from simple return to a previous state?
+173. When does resilience mean persistence of an undesirable regime?
+
+## 17. Redundancy, degeneracy and modularity
+
+174. How does redundancy differ from degeneracy?
+175. When can different components perform overlapping functions without being identical?
+176. How does modularity localize failures and adaptation?
+177. What costs does modularity impose on integration and performance?
+178. How does modular organization emerge rather than being designed?
+179. How can modules be reconfigured over time?
+180. How does degeneracy support both robustness and innovation?
+181. What is functional substitution after perturbation?
+182. How can tightly coupled systems outperform modular ones under stable conditions?
+183. How should modularity be measured in structural versus functional networks?
+
+## 18. Search, adaptive landscapes and exploration
+
+184. What is an adaptive/fitness landscape and what assumptions does it encode?
+185. How do rugged landscapes constrain local adaptation?
+186. What is an adaptive walk?
+187. How do local optima create lock-in?
+188. How does exploration differ from random perturbation?
+189. How does exploitation differ from stable regulation?
+190. What mechanisms maintain diversity of candidate solutions?
+191. How do changing environments turn fixed landscapes into seascapes?
+192. How can agents reshape the landscape through niche construction or environmental modification?
+193. When does optimization language obscure open-ended or multi-objective adaptation?
