@@ -1,6 +1,6 @@
-# A1 №1 — Психология развития личности: понимание карты области
+# A1/A2 №1 — Психология развития личности: накопленное понимание
 
-**Статус:** итог первичной картографии A1 №1 после полного перезапуска 15.10.2026. Это понимание структуры исследовательского пространства, а не ответы на найденные вопросы.
+**Статус:** A1 и A2 №1 завершены 15.10.2026. Ниже сохраняется структура A1 и добавляется понимание, полученное после межобластной сверки и финального coverage audit A2.
 
 ## 1. Область многомерна
 
@@ -84,3 +84,112 @@
 **«Что необходимо исследовать в психологии развития личности, чтобы затем не строить решение на слишком узкой или ошибочной картине области?»**
 
 Следующий шаг общего процесса — **A1 №2 «Когнитивная психология и память»**.
+
+
+---
+
+# A2 — что изменилось в понимании области
+
+## 8. Центральный объект для нашей будущей работы — не «черта», а developmental trajectory
+
+После A2 стало яснее, что наиболее полезный для дальнейшего синтеза материал области №1 — не нормы Big Five сами по себе.
+
+Нам понадобится различать:
+- momentary state;
+- повторяющийся state/behavior pattern;
+- устойчивое изменение trait-like tendencies;
+- broader changes в goals/characteristic adaptations/identity;
+- индивидуальную trajectory во времени.
+
+Само наличие стабильного поведения ещё не показывает, **как оно возникло**. Это критично для будущего проекта, где scripted persona способна создать consistency немедленно.
+
+## 9. Micro→macro bridge — важный, но ещё не решённый научный вопрос
+
+Современные process models предполагают переходы от ситуаций и momentary states через повторение, reinforcement/integration и более устойчивые patterns к personality change.
+
+Но A2 не дала основания считать одну конкретную цепочку установленным универсальным механизмом. Свежие reviews прямо сохраняют mixed/inconclusive evidence о specific mechanisms.
+
+Для нас это полезно именно как **пространство для будущего изобретения**:
+- нужны механизмы, связывающие отдельный опыт с долговременной траекторией;
+- нельзя просто скопировать человеческую theoretical chain и объявить её механизмом GPT.
+
+## 10. Person↔environment reciprocity важнее модели «событие изменило личность»
+
+A2 усилила более точную картину:
+
+`person → situation selection/construal → behavior/state → outcomes → future situations`
+
+и одновременно:
+
+`environment/social demands → states/behavior → possible longer-term change`.
+
+То есть развитие потенциально history-dependent не только потому, что «с человеком что-то случается», но и потому, что прежнее состояние/особенности влияют на то, **в какие ситуации он попадает и что из них получает дальше**.
+
+Это одна из наиболее релевантных областей №1 для нашего будущего causal synthesis, но сама по себе она ещё не даёт рецепта для ИИ.
+
+## 11. Life event — слишком грубая единица причины
+
+Свежие life-event studies показывают высокую heterogeneity:
+- одинаковое событие связано с разными trajectories;
+- важны subjective perception, repetition, time lag and assessment method;
+- repeated minor experiences могут иметь cumulative роль;
+- event effects often small/inconsistent.
+
+Следовательно, для будущей фазы B вопрос нужно ставить не «какие события формируют личность», а **какие свойства последовательности опыта и person↔environment transactions способны давать устойчивое изменение конкретного индивида**.
+
+## 12. Individualization требует idiographic evidence
+
+Population mean change, rank-order trends и возрастные нормы не отвечают на вопрос, почему **один конкретный участник** стал отличаться от своего прежнего состояния или от другой возможной траектории.
+
+A2 усилила необходимость:
+- person-specific longitudinal analysis;
+- нескольких типов evidence;
+- различения change от measurement noise;
+- учёта nonlinear trajectories;
+- явной causal-attribution problem.
+
+Это особенно важно для будущего эксперимента, где объект один и история уникальна.
+
+## 13. Intentional personality change — полезный контрпример, а не шаблон
+
+VPC literature показывает, что personality-related behavior может направленно изменяться через:
+- заранее выбранную цель;
+- behavioral practice;
+- intervention structure;
+- repeated prompts/support.
+
+Для нашего проекта это предупреждение: если инструкции заранее говорят, **каким стать**, получившуюся устойчивость нельзя честно назвать естественно сформировавшейся индивидуальностью.
+
+Поэтому VPC полезна прежде всего как boundary case между:
+- history-dependent emergence;
+- self-endorsed intentional change;
+- externally scaffolded/directed change.
+
+## 14. Что область №1 реально даст позднему синтезу
+
+Не готовый механизм личности, а набор обязательных различений:
+
+1. **state ≠ trait ≠ developmental trajectory;**
+2. **consistency ≠ development;**
+3. **event occurrence ≠ causal developmental process;**
+4. **population trend ≠ individual trajectory;**
+5. **external intervention ≠ natural history-dependent change;**
+6. **person and environment can recursively shape one another;**
+7. **different timescales must be connected explicitly rather than verbally;**
+8. **causal attribution requires ruling out alternative sources of apparent change.**
+
+Эти различения должны позже ограничивать собственное решение проекта, но не диктовать его заранее.
+
+## 15. Финальная граница A2 №1
+
+A2 №1 завершила **карту**, а не deep research causal mechanisms.
+
+Самые важные deep-dive ветви для будущей фазы B из этой области:
+- micro/state → macro/trait developmental mechanisms;
+- reciprocal person–environment transactions across timescales;
+- causal attribution of idiographic change;
+- event occurrence vs accumulated/repeated experience;
+- natural history-dependent development vs directed/intervention-induced change;
+- evidence standards for distinguishing development from consistency/noise.
+
+Подробные memory/learning/motivation/identity/biological/AI mechanisms должны исследоваться в своих primary областях и затем синтезироваться, а не поглощаться №1.
