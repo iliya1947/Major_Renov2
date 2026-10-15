@@ -471,3 +471,108 @@
 370. What information is needed to reproduce memory-augmented agent behavior?
 371. How do framework defaults create hidden experimental variables?
 372. How should negative results and failure trajectories be reported?
+
+## 33. Environments and learning from interaction
+
+373. What makes an environment suitable for agent learning rather than only evaluation?
+374. How do task generation, action execution and feedback form an interaction loop?
+375. How do static datasets differ from interactive environments?
+376. How do environment realism and controllability trade off?
+377. How are consequences represented when they unfold after many actions?
+378. How can environments expose rare but important failure states?
+379. What is the role of procedurally generated tasks?
+380. How can environment curricula shape agent behavior?
+381. How does simulation-to-real transfer affect learned agent strategies?
+382. How can environment feedback be informative without directly prescribing the correct policy?
+383. What happens when the environment itself changes over time?
+384. How do agents distinguish changes in the world from errors in their own model?
+
+## 34. Self-improvement, self-evolution and agent adaptation
+
+385. What claims are grouped under “self-improving” or “self-evolving” agents?
+386. Which forms of improvement change weights, memory, prompts, tools, skills or orchestration?
+387. How does self-generated training data differ from experience memory?
+388. How do agents propose and validate changes to their own strategies?
+389. How does self-modification differ from externally orchestrated optimization?
+390. What mechanisms prevent degradation while incorporating improvements?
+391. How can an agent detect that a previously useful strategy has become obsolete?
+392. How should improvement be measured across a distribution rather than one repeated task?
+393. How do self-improvement loops avoid feedback amplification and reward hacking?
+394. What evidence is required before calling adaptation “self-evolution” rather than iterative engineering?
+
+## 35. Cross-domain analogy and boundary discipline
+
+395. Which cognitive-architecture concepts are directly implemented computational mechanisms versus inspiration/metaphor?
+396. When is “episodic memory” in an agent genuinely analogous to psychological episodic memory?
+397. When is “reflection” simply another inference call rather than metacognition?
+398. When is “experience” raw trajectory storage versus generalized reusable knowledge?
+399. How should agent “identity” be separated from persona prompts and persistent state?
+400. How should “learning” be separated across context adaptation, memory update, policy update and weight update?
+401. How should “autonomy” be separated from permissions and orchestration?
+402. Which concepts must be reconciled later with areas №2, №3, №5, №7, №8 and №10 rather than resolved locally?
+
+## 36. Крупные споры, сохранённые для A2/B
+
+1. LLM as agent vs LLM as cognitive core inside a larger agent system.
+2. Reactive tool use vs genuinely closed-loop autonomous control.
+3. Natural-language planning vs formal/symbolic/external planning.
+4. Plan-first execution vs interleaved reasoning and acting.
+5. Internal world knowledge vs explicit world models.
+6. Raw trajectory memory vs structured episodic/semantic/procedural memory.
+7. Append-only memory vs active update/deletion/consolidation.
+8. Similarity retrieval vs learned/utility-sensitive memory policies.
+9. Reflection as reliable metacognition vs another fallible generation step.
+10. Self-feedback vs externally grounded feedback.
+11. Prompt/memory adaptation vs actual policy/weight learning.
+12. Persistent persona/profile vs emergent history-dependent state.
+13. Classical cognitive architectures vs LLM-centric ad hoc orchestration.
+14. Symbolic vs subsymbolic vs hybrid cognitive organization.
+15. Centralized planner/controller vs distributed modular control.
+16. Single-agent depth vs multi-agent collaboration.
+17. Natural-language communication vs structured protocols.
+18. More autonomy vs stronger human oversight.
+19. Fixed delegated goals vs agent-generated subgoals and initiatives.
+20. Long-horizon persistence vs safe stopping/replanning.
+21. Memory continuity vs stale/poisoned experience.
+22. More reflection/memory/tools vs cost and error amplification.
+23. Benchmark success vs robust real-world execution.
+24. Digital agents vs embodied/computer-using agents.
+25. Agent “self-evolution” as substantive adaptation vs loose marketing terminology.
+26. Cognitive terminology as useful design vocabulary vs misleading anthropomorphic analogy.
+
+## 37. A1 breadth check
+
+Карта сверена по независимым ветвям:
+- definitions and boundaries of agent systems;
+- perception/state construction;
+- goals, planning and reasoning–acting loops;
+- tool use/action interfaces;
+- memory storage, retrieval, consolidation and experience abstraction;
+- reflection/self-correction and feedback learning;
+- world/environment models;
+- long-horizon trajectory management;
+- profiles/roles and agent identity;
+- metacognition;
+- classical cognitive architectures (ACT-R, Soar, CLARION, LIDA, Sigma and broader field);
+- declarative/procedural knowledge and skills;
+- action selection/arbitration;
+- human oversight and multidimensional autonomy;
+- multi-agent collaboration and communication;
+- social/generative agents;
+- embodied/computer-using agents;
+- safety/security/authority boundaries;
+- reliability/failure modes;
+- agent evaluation and memory benchmarks;
+- resource efficiency;
+- reproducibility/system opacity;
+- interactive environments;
+- self-improvement/self-evolution claims;
+- cross-domain analogy discipline.
+
+После этих проверок новые обзорные результаты в основном добавляли детали внутри уже найденных ветвей. Это **первичная A1-картография**, а не финальный A2 coverage audit.
+
+## Статус
+
+**A1 №9 закрыта именно как первичная картография области.** В этом проходе отдельные вопросы не исследовались глубоко: источники использовались для выявления структуры поля, конкурирующих архитектурных подходов, границ и методологических проблем.
+
+**Следующий шаг общего процесса:** A1 №10 «Машинное обучение и адаптивные системы».
