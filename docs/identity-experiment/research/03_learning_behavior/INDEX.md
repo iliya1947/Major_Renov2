@@ -238,3 +238,21 @@
 170. Как replication, sample size и analytic flexibility влияют на выводы computational learning research?
 171. Как оценивать actual behavior change отдельно от verbal report/explicit knowledge?
 172. Как measure transfer/generalization без confounds исходной similarity?
+
+## 22. Крупные споры, сохранённые для A2/B
+
+1. Learning as association vs inference/model building.
+2. Contiguity vs contingency/informativeness/prediction error.
+3. Behavior change vs latent learning/knowledge without expression.
+4. Pavlovian vs instrumental independence vs integrated learning systems.
+5. Model-free/habitual vs model-based/goal-directed dual systems vs unified accounts.
+6. Extinction as erasure vs new/contextual learning.
+7. Direct experience vs social/instructional learning.
+8. Explicit/rule-based vs implicit/statistical learning.
+9. Specificity vs generalization/transfer.
+10. Reward and punishment symmetry vs partly distinct systems.
+11. Laboratory laws vs ecological/functional accounts.
+12. Domain-general learning vs domain-specific constraints.
+13. Individual-level adaptation vs population-average models.
+14. Stable learning traits vs task/context-specific performance.
+15. Computational model usefulness vs psychological identifiability.
