@@ -264,3 +264,175 @@
 198. Why can a scheduled task created in a project fail to access uploaded/project files?
 199. How do event-triggered tasks depend on app permissions and Work availability?
 200. Which plans/workspaces support event-triggered tasks?
+
+
+## 21. Model selection and thinking levels
+
+201. Which model families are currently selectable in ChatGPT?
+202. How do Instant, Medium, High, Extra High and Pro differ as product controls?
+203. Which thinking levels depend on plan?
+204. How do explicit model selection and default/Latest behavior differ?
+205. Can natural-language requests to “think harder” change selected effort?
+206. How can workspace admins restrict models?
+207. How do models available in Chat differ from Work or Codex?
+208. How do model rollouts affect reproducibility over time?
+209. How are legacy models exposed?
+210. What metadata should an experiment record about model and thinking mode?
+
+## 22. Context windows and product-managed context
+
+211. What portion of project context is injected or retrieved on a given turn?
+212. How does product-managed retrieval differ from raw model context window?
+213. How do uploaded files compete with conversation history for effective context?
+214. How are long project histories summarized or selected?
+215. What behavior occurs when project context exceeds model limits?
+216. How does model selection change available context?
+217. How do tool outputs consume context?
+218. How are citations/source snippets represented to the model?
+219. How should experiment logs distinguish source existence from actual source use?
+220. Which context-management details are undocumented implementation behavior?
+
+## 23. Voice and multimodal conversation
+
+221. What does Live Voice support relative to text Chat?
+222. Which model powers Voice by plan?
+223. Can Voice use memory and web search?
+224. Can Voice use plugins/connected apps?
+225. Can Voice operate inside Projects and use project sources/instructions?
+226. How do Advanced and Standard voice modes differ?
+227. Which modes support video/screen sharing?
+228. How are voice transcripts/history retained?
+229. How does switching between text and voice affect continuity?
+230. Which voice features vary by device/region/workspace?
+
+## 24. Images and multimodal files
+
+231. How can images enter ChatGPT: upload, camera, generated image or connected source?
+232. Which models/surfaces can reason over images?
+233. How are image outputs saved and reused?
+234. How do vision inputs count toward context or limits?
+235. What image-generation/editing capabilities are available?
+236. How does image understanding differ between Chat and Voice?
+237. How are multimodal files represented in Projects?
+238. What metadata/provenance persists for generated images?
+239. How do safety restrictions affect image tools?
+240. Which multimodal capabilities are relevant versus irrelevant to a text-centered experiment?
+
+## 25. Document/artifact creation and editing
+
+241. Which document, spreadsheet, presentation and image artifacts can ChatGPT create?
+242. How are generated files saved to Library?
+243. Can generated artifacts be added to project sources?
+244. Which formats can later be reopened and edited?
+245. How does source-file editing differ from generating a replacement artifact?
+246. Which connected-file formats can be updated at their original source?
+247. What collaboration/editing features require opening the original provider app?
+248. How is version history handled for edited external files?
+249. How are generated artifacts referenced across chats/projects?
+250. Which artifact operations depend on specialized tools/plugins?
+
+## 26. Sharing and collaboration
+
+251. What access levels exist in shared Projects?
+252. What can chat-access members see/do?
+253. What can edit-access members change?
+254. How are invitations, group access and link sharing controlled?
+255. What changes when a private project becomes shared?
+256. Why does sharing force project-only memory?
+257. How are project files/chats exposed to collaborators?
+258. Can collaborators work synchronously in one chat?
+259. How does branching support collaborative exploration?
+260. How might collaborators alter the experiential history available to future project chats?
+
+## 27. Privacy, retention and deletion
+
+261. How long are regular chats retained?
+262. What happens when a project is deleted?
+263. What happens to files stored only in a deleted project?
+264. Why can Library files survive deletion of the chat/project that used them?
+265. How do workspace retention policies override default behavior?
+266. How are deleted custom instructions handled?
+267. What may be retained temporarily for safety/debugging?
+268. How do consumer and managed-workspace model-improvement policies differ?
+269. How do connected-app providers retain data independently of OpenAI?
+270. What deletions are needed to remove an experience from all possible persistence surfaces?
+
+## 28. Plan, region, workspace and admin variability
+
+271. Which features vary by Free/Go/Plus/Pro/Business/Enterprise/Edu?
+272. Which features are restricted by geographical rollout?
+273. How do workspace permissions disable otherwise available tools?
+274. How do admin settings alter memory behavior?
+275. How do role permissions affect project sharing and app actions?
+276. How do model limits and usage quotas vary?
+277. Which capabilities are rolling out gradually and therefore account-specific?
+278. How should experiments record feature availability at start?
+279. How should later product changes be treated without invalidating historical observations?
+280. Which account-level settings are experimental conditions rather than model behavior?
+
+## 29. Product drift, reproducibility and undocumented behavior
+
+281. How often do product surfaces, defaults and limits change?
+282. How can release notes be used to reconstruct product changes?
+283. Which behaviors are guaranteed/documented versus incidental?
+284. How should silent backend changes be detected?
+285. How can model changes be separated from product-feature changes?
+286. How can memory behavior be evaluated when retrieval policies are not fully documented?
+287. How should temporary outages/tool errors be separated from capability absence?
+288. What evidence is sufficient to claim a feature works consistently?
+289. How should experimental records capture date, plan, model, memory mode and enabled tools?
+290. How should A2 distinguish durable platform primitives from rapidly changing UI details?
+
+## 30. Boundaries for the future experiment
+
+291. Which project features can provide durable continuity without changing model weights?
+292. Which persistence channels are directly inspectable by the user?
+293. Which persistence channels are partially opaque?
+294. Which project mechanisms can be revised or deleted during the experiment?
+295. Which tools introduce external environmental consequences rather than mere conversation?
+296. Which capabilities require user approval or are unavailable autonomously?
+297. Which features risk substituting pre-authored persona for acquired history?
+298. Which product limits constrain a long-running single-project experiment?
+299. Which capabilities must be rechecked immediately before experiment launch because they are product-version dependent?
+300. Which questions belong to №12 prompt/project-instruction design rather than №11 product capability?
+
+## 31. Крупные споры/неопределённости, сохранённые для A2/B
+
+1. Project files/chats/instructions as shared context vs “memory” as a single construct.
+2. Default memory vs project-only memory for an isolated long-term experiment.
+3. Explicit inspectable project sources vs opaque personalized memory retrieval.
+4. Static uploaded sources vs dynamically connected external sources.
+5. Ordinary Chat continuity vs Work agentic execution.
+6. Project-only isolation vs access to Work.
+7. Library persistence vs project-local persistence.
+8. Model-level behavior vs product/runtime scaffolding.
+9. Current documented capabilities vs rollout/account-specific behavior.
+10. User-controlled persistence vs automatically selected personalization context.
+11. Long-lived project history vs effective model context limits.
+12. Product feature evolution vs experimental reproducibility.
+
+## 32. A1 breadth check
+
+Карта сверена по официальной документации OpenAI по:
+- Projects, project instructions, sources and sharing;
+- default/project-only memory;
+- account memory and Sources;
+- temporary chats;
+- file uploads and limits;
+- Library and connected cloud files;
+- plugins/apps and permissions;
+- web search and deep research;
+- Work and cloud browser;
+- scheduled/event-triggered tasks;
+- model selection/thinking levels;
+- Voice;
+- collaboration, retention and workspace controls;
+- release notes/product drift.
+
+После этих проверок новые официальные страницы в основном уточняли plan/UI/permission details внутри уже найденных ветвей. Это **первичная A1-картография**, а не финальный A2 audit.
+
+## Статус
+
+**A1 №11 закрыта именно как первичная картография области.** В этом проходе отдельные вопросы не исследовались глубоко: официальная документация использовалась для построения карты product capabilities, persistence channels, tools and operational constraints.
+
+**Следующий шаг общего процесса:** A1 №12 «Prompt engineering и проектные инструкции».
