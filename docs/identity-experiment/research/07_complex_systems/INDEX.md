@@ -98,3 +98,75 @@
 72. How can transient metastable states support flexibility without permanent switching?
 73. When are attractor metaphors justified for cognition or behavior?
 74. How can one empirically infer an attractor from finite noisy data?
+
+## 8. Bifurcations, tipping points and hysteresis
+
+75. What is a bifurcation and what kinds matter most in complex adaptive systems?
+76. How do gradual parameter changes produce abrupt qualitative transitions?
+77. What is a tipping point versus an ordinary threshold?
+78. What is critical slowing down and when is it a valid early-warning signal?
+79. How reliable are generic early-warning indicators across real systems?
+80. What is hysteresis and how does it encode path dependence?
+81. How can the route into a state differ from the route out?
+82. How does noise interact with tipping and bifurcation?
+83. How do rate-dependent transitions differ from static bifurcation predictions?
+84. What distinguishes irreversible change from merely hard-to-reverse change?
+85. How can intervention move a system between basins without restoring its previous trajectory?
+
+## 9. Emergence, reduction and coarse-graining
+
+86. What definitions of emergence are used in complexity science?
+87. How does weak emergence differ from stronger philosophical notions?
+88. When is a macro-property genuinely informative beyond micro-description?
+89. What is coarse-graining and how is a useful macrostate chosen?
+90. How can information appear at one scale and not another?
+91. What does causal emergence claim beyond descriptive emergence?
+92. How should top-down constraints be distinguished from mysterious top-down causation?
+93. When can macro-level laws be more predictive than micro-level detail?
+94. How does model reduction differ from discovering an emergent variable?
+95. What are order parameters and collective variables?
+96. How can multiple valid coarse-grainings coexist?
+97. How do we avoid labeling mere surprise or ignorance as emergence?
+
+## 10. Self-organization and pattern formation
+
+98. What operational criteria distinguish self-organization from externally imposed organization?
+99. Must self-organization occur without any external input, or only without centralized specification?
+100. How do local interactions generate global order?
+101. What roles positive and negative feedback play in pattern formation?
+102. How do symmetry breaking and instability initiate pattern formation?
+103. What are reaction–diffusion/Turing mechanisms and what do they actually establish?
+104. How does self-assembly differ from self-organization?
+105. How does guided self-organization differ from fully externally programmed patterning?
+106. How do noise and fluctuations seed organized structure?
+107. How does a self-organized pattern become stable?
+108. How can multiple self-organized patterns compete?
+109. Which signatures can distinguish self-organization from hidden centralized control?
+
+## 11. Nonequilibrium systems and dissipative organization
+
+110. Why is nonequilibrium important for sustained self-organization?
+111. What is a dissipative structure?
+112. How does continual energy or resource flow maintain organization?
+113. How do entropy production and local order coexist?
+114. What role does stochastic thermodynamics play in modern self-organization research?
+115. How do active matter and driven systems differ from passive equilibrium systems?
+116. What is irreversible about the formation of an organized state?
+117. How do resource constraints shape the possible organization?
+118. Which thermodynamic analogies transfer to informational or computational systems and which do not?
+119. What evidence is needed before calling an artificial system a nonequilibrium self-organizing system?
+
+## 12. Complex adaptive systems and adaptation
+
+120. What distinguishes a complex system from a complex adaptive system?
+121. What must change for a system to count as adaptive?
+122. How does adaptation differ from regulation?
+123. How does adaptation differ from optimization?
+124. How does adaptation differ from evolutionary change?
+125. Can a system adapt while its components follow fixed local rules?
+126. How do heterogeneous agents contribute to system-level adaptation?
+127. What is coadaptation among interacting components?
+128. How can local adaptation reduce global performance?
+129. How can macro-level conditions feed back onto agent behavior?
+130. What role does environmental variability play in maintaining adaptive capacity?
+131. How should adaptation be evaluated when there is no single objective function?
