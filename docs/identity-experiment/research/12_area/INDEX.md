@@ -326,3 +326,17 @@
 238. Насколько чувствительность зависит от конкретной модели?
 239. Как случайность генерации взаимодействует с чувствительностью к формулировке?
 240. Как отличать непонимание задачи от чувствительности к форме?
+
+
+## 25. Cross-version consistency
+
+241. How stable are prompt results across model families?
+242. How do preferred task formulations differ across model types?
+243. What changes after a model update?
+244. How does the same prompt behave across model scales?
+245. How portable are prompt patterns across providers?
+246. What must be checked when moving to a newer model generation?
+247. Which behaviors come from the prompt and which from the model?
+248. When do version-specific patterns become obsolete?
+249. How should obsolete scaffolding be identified?
+250. What comparison tests are needed during a model migration?
