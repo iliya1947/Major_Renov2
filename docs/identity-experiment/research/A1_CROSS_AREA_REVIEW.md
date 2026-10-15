@@ -1,13 +1,13 @@
 # Межобластная сверка после A1
 
-**Статус:** этап 1 завершён 15.10.2026. Этап 2 в работе: внутренние зависимости кластеров №1–7 и №8–12 проверены; межкластерные мосты ещё не проверены.
+**Статус:** этапы 1–2 завершены 15.10.2026. Следующий — этап 3; он ещё не начат.
 
 **Назначение:** сверить 12 первичных карт A1 до начала A2. Сверка проводится поэтапно, без попытки закрыть весь межобластной анализ одним ответом.
 
 ## Этапы
 
 1. **Границы областей, дубли и неверно разделённые темы — завершён.**
-2. **Зависимости и пересечения между областями — в работе.** Внутрикластерный проход завершён; межкластерный проход остаётся.
+2. **Зависимости и пересечения между областями — завершён.** Проверены внутренние зависимости и все 35 межкластерных пар.
 3. Пропущенные вопросы, видимые только межобластно — не начат.
 4. Противоречия, терминологические ложные совпадения и несовместимые постановки — не начат.
 5. Пакет конкретных поправок для A2 каждой области — не начат.
@@ -426,3 +426,133 @@
 - human acquired experience №1–5 ↔ instructions/files/context №8/9/11/12.
 
 **Поэтому этап 2 в этом ответе НЕ завершён. Этап 3 не начинать.**
+
+
+## Проход 2B — межкластерные мосты №1–7 ↔ №8–12
+
+### Типы связей
+
+Чтобы не превращать сходство слов в перенос механизма, для межкластерной сверки используются четыре типа:
+
+- **T — translation/project dependency:** для нашей задачи две области нужно соединить, потому что одна задаёт функциональную проблему, а другая — технически доступный способ/ограничение. Это НЕ означает одинаковый механизм.
+- **F — formal/structural bridge:** общий формальный принцип можно применять к обеим областям, если переменные и границы системы операционализированы.
+- **A — analogy only:** связь может дать гипотезу, но не является зависимостью и не переносится без отдельного доказательства.
+- **X — dangerous false equivalence:** одинаковые слова/поведение особенно легко ошибочно принять за один механизм; в A2 это надо явно разводить.
+
+### Полная матрица 35 межкластерных пар
+
+| Human/system area | №8 GPT/LLM | №9 Agents | №10 ML adaptation | №11 ChatGPT product | №12 Prompt/instructions |
+|---|---|---|---|---|---|
+| **№1 Personality development** | **T**: model constraints delimit possible persistent behavioral change | **T/X**: agent identity/agency may model persistence, but persona ≠ personality development | **T/A**: personalization/adaptation may create stable differences, not personality by itself | **T**: product persistence determines whether longitudinal change can be carried across chats | **T/X**: instructions must enable process without hard-coding traits/persona |
+| **№2 Human memory** | **T/X**: context/ICL are not human memory | **T/X**: engineered episodic/semantic memory borrows terms but needs independent definitions | **A/T**: replay/forgetting/memory mechanisms are engineering analogies useful for implementation questions | **T/X**: product memory/history/files are persistence substrates, not cognitive memory systems | **T**: instructions can govern reading/writing/use of persistent sources but cannot manufacture memory guarantees |
+| **№3 Psychological learning** | **T/X**: ICL and prompted behavior change must not be called learning automatically | **T**: interaction/feedback loops are candidate functional implementations of experience-dependent change | **T/X**: ML learning algorithms are candidate technical mechanisms, not psychological learning theories | **T**: product affordances determine what persistent updating is actually possible without weight changes | **T**: instructions can shape how feedback/experience is processed, but may also overdetermine updating |
+| **№4 Motivation/emotion/interest** | **X/T**: preference-trained behavior or logits do not establish motivation/interest | **T/X**: agent goals/rewards are operational control variables, not automatically intrinsic motives | **X/A**: reward/objective/intrinsic-motivation algorithms are not human motivation by definition | **T**: product capabilities bound what self-directed choice/action can be expressed | **T/X**: wording can inject goals/values/interests, so instructions must avoid substituting assigned motives for emerging ones |
+| **№5 Social psychology/identity** | **T/X**: social/sycophantic behavior is relevant but not evidence of identity | **T/X**: persistent roles/personas/social agents can model interaction, but simulated persona ≠ identity | **A**: personalization/user modeling may alter behavior but is not social identity theory | **T**: shared history, memory and user interaction are the actual social substrate available in product | **T/X**: role/persona prompting and user influence must be separated from identity formation |
+| **№6 Neuroplasticity** | **A/X**: weight adaptation/model editing ≠ neural plasticity | **A/X**: agent memory updates ≠ neuroplasticity | **A/X**: ML “stability–plasticity” shares a label/trade-off, not biological mechanism | **A/X**: ChatGPT persistence/memory has no direct neuroplastic equivalence | **A/X**: prompt revision is not plasticity; useful ideas require an intermediate abstraction |
+| **№7 Complex systems/cybernetics** | **F/T**: model/context behavior may be studied with system concepts only after operationalizing state/boundary | **F/T**: feedback loops, delays, control, autonomy and path dependence directly structure agent systems | **F/T**: adaptive control, stability, robustness and feedback have genuine formal links to adaptive ML | **T/F**: product/runtime boundaries and persistence channels define the actual closed system for the experiment | **F/T**: instruction rules can participate in control/feedback structure, but prompt text alone is not a controller in the full systems sense |
+
+## Выводы по семи главным мостам
+
+### 1. Human memory №2 ↔ agent/product memory №9/11
+
+Это **не одна память в разных реализациях**.
+
+- №2 определяет cognitive phenomena: episodic/semantic representation, reconstruction, retrieval, forgetting, autobiographical continuity.
+- №9 исследует engineered stores, retrieval policies, compression, provenance and abstraction.
+- №11 фиксирует product-level persistence: project memory, chat history, files/sources.
+
+**Для проекта зависимость реальна на уровне перевода требований:** если мы хотим acquired experience, нужно понять, какие функции памяти существенны, а затем проверить, какие из них можно выразить через engineered/product persistence. Нельзя называть файл «episodic memory» и считать психологический механизм реализованным.
+
+### 2. Psychological learning №3 ↔ ML adaptation №10
+
+Это **translation dependency + high false-equivalence risk**.
+
+- №3: изменение поведения/ожиданий через опыт, contingency, feedback, generalization.
+- №10: алгоритмы обновления parameters/policy/representation/memory/data selection.
+
+Для будущего решения №3 задаёт, **что должно меняться функционально**, а №10 — **какие виды машинного изменения вообще существуют**. Наличие аналогичного термина RL/feedback не доказывает общий механизм.
+
+### 3. Motivation/interest №4 ↔ goals/reward/objectives №9/10
+
+Это самая опасная зона антропоморфного переноса.
+
+- externally supplied agent goal;
+- scalar reward/objective;
+- learned preference;
+- human interest/motivation/value
+
+— разные constructs.
+
+Для проекта связь нужна прежде всего **контрастивно**: технический механизм не должен называться «собственным интересом» только потому, что он выбирает действие или оптимизирует reward.
+
+### 4. Personality/identity №1/5 ↔ persona/persistent agent identity №9/12
+
+В основном **T/X**, а не прямой перенос.
+
+Persona prompt может создавать устойчивую видимость характера; persistent agent profile может поддерживать consistency. Но это прямо конфликтует с целью эксперимента, если profile заранее задаёт traits/goals/values.
+
+Поэтому №1/5 нужны №9/12 не как доказательство возникновения личности, а чтобы:
+1. отличать emergent longitudinal change от scripted persona;
+2. обнаруживать, где instruction/profile сам создаёт то, что потом ошибочно принимается за развитие.
+
+### 5. Neuroplasticity №6 ↔ ML stability–plasticity №10
+
+**Прямой зависимости нет.**
+
+Общее слово `plasticity` скрывает разные mechanisms/substrates. Возможен только абстрактный вопрос о trade-off persistence ↔ change; корректный мост должен проходить через №7 (formal systems concepts) и затем проверяться в №10.
+
+Следствие: №6 не должна использоваться как биологическое оправдание конкретной схемы memory files, prompt updates или continual learning.
+
+### 6. Complex systems №7 ↔ agents/ML №9/10
+
+Это наиболее сильный **formal bridge**.
+
+Feedback, delay, system boundary, state, path dependence, stability, robustness, distributed control and adaptation могут быть определены операционально и для artificial systems.
+
+Но №7 даёт **форму вопроса/модели**, а не эмпирическое подтверждение того, что конкретная LLM-system self-organizes или possesses autonomy.
+
+### 7. Human acquired experience №1–5 ↔ GPT/agent/product/instructions №8/9/11/12
+
+Это центральная **project-level dependency всей подготовки**.
+
+Нельзя решить задачу одной стороной:
+
+- №1–5 дают различия между personality, memory, learning, motivation, identity и social influence — то есть не позволяют назвать любой persistent text «опытом».
+- №8 показывает реальные свойства/ограничения модели и transient context.
+- №9 показывает, какие persistence/reflection/action loops можно построить вокруг модели.
+- №11 фиксирует, что реально доступно в ChatGPT Projects.
+- №12 отвечает, как выразить процесс через persistent instructions, не задавая заранее его содержательный результат.
+
+**Связь не симметрична доказательно:** человеческие исследования не доказывают, что GPT имеет те же внутренние процессы; технические механизмы не доказывают человеческие constructs. Они взаимно ограничивают проектирование решения.
+
+## Направленные зависимости, которые должны управлять A2
+
+После межкластерной проверки для A2 нужно держать следующие направления:
+
+1. **№9/11/12 ← №8:** нельзя проектировать agent/product/instruction behavior без реальных ограничений model-level context and instruction following.
+2. **№12 ← №11:** нельзя проектировать project instructions, предполагая несуществующие product capabilities.
+3. **Проектный синтез №8–12 ← №1–5:** technical design должен сохранять различия между memory, learning, motivation, identity and social influence и не заменять их однословными engineering analogies.
+4. **№9/10 ↔ №7:** formal systems principles применимы только после operational mapping.
+5. **№10 не ← №6 напрямую:** neuroplasticity не является основанием ML stability–plasticity mechanism.
+6. **№9/11 не ← №2 напрямую:** engineered/product memory не является реализацией cognitive memory без функционального mapping.
+7. **№9/10 не ← №4 напрямую:** goals/rewards/objectives не являются motivation/interests without additional evidence.
+8. **№9/12 не ← №1/5 напрямую:** persona/role/profile не являются personality/identity development.
+
+## Saturation-check этапа 2
+
+Проверены:
+- внутренние зависимости №1–7;
+- внутренние зависимости №8–12;
+- все **35 межкластерных пар** №1–7 × №8–12;
+- семь наиболее важных мостов для исходной задачи;
+- направления зависимости и запрещённые прямые переносы.
+
+На последних проверяемых парах новые **типы** межобластной связи уже не появлялись: все случаи укладываются в field dependency, project translation dependency, formal bridge или analogy/false-equivalence risk.
+
+## Итог этапа 2
+
+**Этап 2 завершён.**
+
+Главный результат: исследовательская карта не является цепочкой «человеческий механизм → такой же механизм в GPT». Для нашего проекта большинство межкластерных связей — это **перевод функциональных требований под технические ограничения**, с обязательной проверкой ложных аналогий.
+
+**Этап 3 — поиск пропущенных вопросов, видимых только межобластно — в этом проходе НЕ начинался.**
