@@ -114,3 +114,58 @@
 79. Как cognitive maps и structural representations входят в learning literature?
 80. Как hidden-state inference объясняет apparent changes in learning?
 81. Где граница causal learning с reasoning и decision making?
+
+## 11. Observational, social и vicarious learning
+
+82. Какие виды social learning различаются: imitation, emulation, observational outcome learning, vicarious reinforcement, instruction?
+83. Что можно узнать из чужого действия без наблюдения outcome?
+84. Что можно узнать из чужого outcome без копирования действия?
+85. Как выбирается, у кого учиться?
+86. Какие social learning strategies исследуются: prestige, success, majority, similarity и другие?
+87. Как direct experience и social information интегрируются или конфликтуют?
+88. Какие процессы social learning domain-general, а какие требуют специфически social representations?
+89. Как social learning связан с cumulative culture?
+90. Где граница этой ветви с областью №5 «Социальная психология и идентичность»?
+
+## 12. Instruction, rules и language-mediated learning
+
+91. Как instruction меняет learning по сравнению с trial-and-error?
+92. Как verbal rules могут управлять behavior без прямого reinforcement history?
+93. Чем rule-governed behavior отличается от contingency-shaped behavior?
+94. Какие условия делают instruction полезной, а какие препятствуют самостоятельному updating?
+95. Как direct instruction сопоставляется с discovery/exploration learning?
+96. Как explanation, worked examples и comparison влияют на learning?
+97. Как prior verbal knowledge взаимодействует с последующей feedback-based learning?
+98. Где граница instruction learning с language/cognition и образовательной психологией?
+
+## 13. Implicit и statistical learning
+
+99. Что сегодня считается implicit learning?
+100. Как implicit learning отличается от implicit memory?
+101. Что такое statistical learning и насколько это единый construct?
+102. Какие regularities могут усваиваться без explicit intention или awareness?
+103. Как измерять awareness так, чтобы не превращать его в артефакт теста?
+104. Как domain-general vs modality-specific accounts сравниваются?
+105. Как statistical learning связан с language, perception и sequence learning?
+106. Какие individual differences в implicit/statistical learning считаются надёжными?
+
+## 14. Perceptual, motor и skill learning
+
+107. Чем perceptual learning отличается от simple exposure и attentional tuning?
+108. Какие виды motor learning различаются: adaptation, sequence learning, skill acquisition?
+109. Как explicit и implicit components взаимодействуют в skill learning?
+110. Какие stages of skill acquisition поддерживаются современными данными?
+111. Как practice amount, spacing, variability и feedback влияют на skill learning?
+112. Как retention и transfer измеряются отдельно от immediate performance?
+113. Чем automaticity навыка отличается от habit?
+114. Как expertise меняет representation и perception задачи?
+
+## 15. Concept, category и rule learning
+
+115. Какие семьи моделей category learning существуют: prototype, exemplar, rule, clustering/latent structure?
+116. Как concept learning связано с generalization?
+117. Как exceptions и boundary cases изменяют learned categories?
+118. Как learners выбирают между rules и similarity?
+119. Какие виды feedback нужны для разных типов category learning?
+120. Чем concept learning отличается от semantic memory acquisition?
+121. Как structured knowledge влияет на subsequent learning?
