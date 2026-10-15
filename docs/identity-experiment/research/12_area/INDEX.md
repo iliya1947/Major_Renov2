@@ -1,1 +1,109 @@
-x
+# A1 №12 — Prompt engineering и проектные инструкции
+
+**Статус:** A1 в процессе первичной картографии 15.10.2026.
+
+**Цель:** определить, какие направления prompt/instruction design необходимо будет исследовать глубоко позже. Здесь не составляется финальный prompt будущего эксперимента и не утверждаются project instructions.
+
+## 1. Что считать prompt engineering
+
+1. Какие определения prompt и prompt engineering используются в современной literature?
+2. Чем prompt engineering отличается от instruction following?
+3. Чем prompt design отличается от prompt optimization?
+4. Чем manual prompting отличается от automatic prompt optimization?
+5. Какие prompt components считаются instructions, context, examples, data, output contract?
+6. Где проходит граница между prompt engineering and orchestration?
+7. Чем prompt engineering отличается от fine-tuning?
+8. Чем prompt engineering отличается от retrieval augmentation?
+9. Как prompt engineering changes across text, multimodal and agentic settings?
+10. Какие claims о “prompt effectiveness” task-, model- and version-specific?
+
+## 2. Instruction types and task specification
+
+11. Какие instruction types различаются: goals, constraints, process guidance, output requirements, style, permissions?
+12. Чем task instruction отличается от contextual information?
+13. Как explicit constraints отличаются от implicit expectations?
+14. Как positive instructions отличаются от prohibitions?
+15. Как hard constraints отличаются от preferences?
+16. Как multiple simultaneous constraints represented?
+17. Как task semantics can be specified by natural language versus examples?
+18. Как instruction specificity affects model latitude?
+19. Когда underspecification useful versus harmful?
+20. Как instruction granularity влияет на compositional following?
+
+## 3. Instruction hierarchy and authority
+
+21. Какие instruction levels exist in OpenAI chain of command?
+22. Как system/developer/user/tool authority differs from prompt position?
+23. Что happens when instructions at same authority conflict?
+24. Как lower-authority content should be treated when it contradicts higher authority?
+25. Как quoted/retrieved text distinguished from authoritative instruction?
+26. Как instruction hierarchy interacts with conversation history?
+27. Как tool outputs can contain untrusted instruction-like text?
+28. How well do models actually follow authority hierarchy under conflict?
+29. Как hierarchy failures differ from general instruction-following failures?
+30. Какие hierarchy behaviors are model-trained versus prompt-engineered?
+
+## 4. System/developer/project-level persistent guidance
+
+31. What properties belong in persistent high-level instructions rather than per-turn prompts?
+32. How should stable rules differ from task-specific details?
+33. What happens when persistent instructions grow over time?
+34. How does repeated guidance interact with newer model behavior?
+35. How can persistent instructions become stale?
+36. How should contradictions inside one instruction set be detected?
+37. How should priority among rules be made explicit?
+38. How does project-level instruction differ from ordinary user prompt?
+39. How do product-specific persistent instructions complicate cross-model portability?
+40. How should persistent instructions be versioned and audited?
+
+## 5. Clarity, specificity and ambiguity
+
+41. What kinds of ambiguity most affect instruction following?
+42. How does semantic ambiguity differ from missing constraints?
+43. When does adding detail improve performance?
+44. When does adding detail create overconstraint or contradiction?
+45. How does vague language interact with model defaults?
+46. How should exceptions be specified?
+47. How should conditional rules be worded?
+48. How does ambiguous referent resolution affect long instructions?
+49. How can multiple interpretations be surfaced without unnecessary clarification?
+50. What prompt properties make evaluation criteria themselves ambiguous?
+
+## 6. Structure, delimiters and segmentation
+
+51. How do markdown headings, XML tags, quotes and delimiters affect parsing?
+52. When do delimiters reduce instruction/context confusion?
+53. How should long context be segmented into roles, rules, data and examples?
+54. Does markup improve reliability consistently across models?
+55. How does nested structure affect instruction following?
+56. When do too many sections increase cognitive/context overhead?
+57. How do explicit labels like <instructions> and <context> alter behavior?
+58. How should untrusted external text be delimited?
+59. How does delimiter choice interact with prompt injection?
+60. How should structured prompt templates be tested across models?
+
+## 7. Output contracts
+
+61. What is an output contract?
+62. How do natural-language format requests differ from schema-constrained outputs?
+63. How should required sections/order be specified?
+64. How do exact length limits affect compliance?
+65. How do word, sentence, token and character limits differ operationally?
+66. How should optional versus required fields be marked?
+67. How do conflicting format/content constraints get resolved?
+68. How does strict output formatting affect content quality?
+69. When should format be enforced by runtime/schema instead of prompt?
+70. How should format compliance be evaluated separately from semantic quality?
+
+## 8. Zero-shot prompting
+
+71. What counts as zero-shot prompting?
+72. How much task information is needed without demonstrations?
+73. Which tasks benefit little from examples?
+74. How do model priors dominate under sparse instructions?
+75. How does zero-shot performance depend on instruction phrasing?
+76. How does zero-shot prompting differ across reasoning and GPT-style models?
+77. What kinds of constraints are reliably followed zero-shot?
+78. How should zero-shot prompts be evaluated for robustness?
+79. When does adding examples improve versus distort the task?
+80. How should zero-shot prompts handle unusual/counterintuitive rules?
