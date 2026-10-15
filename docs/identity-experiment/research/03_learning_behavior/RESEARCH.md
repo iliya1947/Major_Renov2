@@ -69,3 +69,43 @@ Carpenter et al. (2022) и Polack & Miller (2022) показывают, что s
 - conscious awareness/contingency awareness;
 - self-regulated behavior change;
 - maladaptive learning as contrast.
+
+
+## 15.10.2026 — второй проход A1: проверка возможных пропусков
+
+### Exploration / exploitation
+Wyatt et al. (2024) систематически рассматривают exploration–exploitation как отдельную человеческую decision/learning problem; Schulz & Gershman (2019) различают несколько стратегий exploration, включая random и uncertainty-directed.
+
+**Решение для карты:** отдельный L17 не нужен. Это уточняет L12: learner адаптирует не только learning rate, но и способ добывать новую информацию/выбирать между известным и неизвестным. Формальная RL-реализация будет исследоваться в №10.
+
+### Counterfactual / foregone-outcome learning
+Byrne (2016) рассматривает counterfactual thought как средство объяснять прошлое и готовиться к будущему; Van Hoeck et al. (2015) связывают counterfactual reasoning с learning/planning; Palminteri et al. (2017) экспериментально различают factual и counterfactual feedback learning.
+
+**Решение для карты:** расширить L9/L5. Важно исследовать не только последствия выбранного действия, но и learning from represented alternatives/unchosen outcomes. Однако это не требует отдельного верхнеуровневого блока A1.
+
+### Belief updating
+Kube & Rozenkrantz (2021) показывают, что belief updating исследуется разрозненными психологическими традициями и зависит от множества biases/contextual factors. Теоретическая работа Connors & Halligan (2023) дополнительно разделяет **updating proper** и процессы до него: evidence search, acceptance, hypothesis specification, integration и reasoning.
+
+**Решение для карты:** расширить L3. Нельзя приравнивать belief revision к associative prediction error.
+
+### Awareness / explicit vs implicit learning
+Mertens & Engelhard (2020) в systematic review/meta-analysis показали серьёзные methodological problems в литературе об unaware fear conditioning; более качественные исследования реже поддерживали такие эффекты. Одновременно другие paradigms дают evidence for automatic binding/retrieval without contingency awareness, поэтому вывод зависит от исследуемого процесса.
+
+**Решение для карты:** awareness — поперечная теоретико-методологическая ось L10/L15, а не новый блок. В фазе B нельзя задавать бинарное правило «learning требует/не требует awareness» без domain-specific evidence.
+
+### Explicit instruction
+Lee & Anderson (2013) организуют literature о direct instruction vs discovery learning; instruction может менять acquired expectations без direct trial-and-error.
+
+**Решение:** instructed/rule learning явно отметить в L2/L11/L13, не выделяя новый блок.
+
+### Self-regulated behavior change
+Hennessy et al. (2020) meta-review 66 meta-analyses показывает большую intervention literature о self-regulation, но лишь небольшая доля обзоров напрямую проверяла mediation — меняется ли поведение **потому, что** изменилась self-regulation.
+
+**Решение:** оставить в L13 и области №4. Intervention component effectiveness ≠ установленный natural learning mechanism.
+
+### Maladaptive learning
+Fear/addiction/helplessness literature полезна как контраст, но этот проход не обнаружил причины превращать её в отдельный общий механизм learning. Использовать на A2/B как stress-test теорий.
+
+## Итог A1 области №3
+
+Второй проход уточнил L3, L9–L13 и L15, но **не выявил нового крупного семейства, отсутствующего в L1–L16**. Поэтому карта признаётся достаточной для первого глобального прохода A1 и оставляется открытой для A2.
