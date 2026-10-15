@@ -108,24 +108,25 @@
 4. **Перед переходом в другой чат** актуализировать этот файл: завершённая тема, полученный результат, что остаётся открытым, точный следующий содержательный шаг и нужные ссылки. Если тема не завершена, честно пометить незавершённость. Не рассчитывать, что перенос произойдёт автоматически.
 5. Не делать из числа чатов меру числа «экспериментов», не создавать отдельные пилоты и не тратить контекст на бессмысленные дубли отчётов.
 
-**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1–№5.**
+**АКТУАЛЬНЫЙ СТАТУС ПРОЦЕССА — 15.10.2026:** **A1 завершена для областей №1–№6.**
 
 1. **A1 №1 «Психология развития личности»** — первичная картография; 69 вопросов.
 2. **A1 №2 «Когнитивная психология и память»** — первичная картография; 124 вопроса.
 3. **A1 №3 «Психология обучения и поведения»** — первичная картография; 172 вопроса.
 4. **A1 №4 «Мотивация, эмоции и интересы»** — первичная картография; 262 вопроса.
-5. **A1 №5 «Социальная психология и идентичность»** — первичная картография; 292 вопроса в 27 блоках.
+5. **A1 №5 «Социальная психология и идентичность»** — первичная картография; 292 вопроса.
+6. **A1 №6 «Нейробиология и нейропластичность»** — первичная картография; 260 вопросов в 28 блоках.
 
-По №5 созданы и проверены:
-- `research/05_social_identity/INDEX.md`;
-- `research/05_social_identity/RESEARCH.md`;
-- `research/05_social_identity/UNDERSTANDING.md`.
+По №6 созданы и проверены:
+- `research/06_neuroplasticity/INDEX.md`;
+- `research/06_neuroplasticity/RESEARCH.md`;
+- `research/06_neuroplasticity/UNDERSTANDING.md`.
 
-Карта №5 охватывает personal/social/relational/role identity; multiple/intersectional identities; identity development and motives; self-esteem; belonging/social connection and exclusion; social comparison; person perception/stereotypes; reputation/self-presentation; norms/social influence; intergroup relations; trust/cooperation; close relationships; cultural identity/acculturation; power/status; stigma/identity threat; collective action/normative change; digital identity/social media; social networks and methodology.
+Карта №6 охватывает multiscale definitions of plasticity; LTP/LTD; STDP/BTSP; intrinsic/dendritic and structural plasticity; homeostasis/metaplasticity; neuromodulation; activity-dependent transcription/epigenetics; engrams and systems consolidation; critical periods and adult plasticity; adult neurogenesis; astrocytes/microglia/myelin; offline processes; physiological state; exercise/metabolic modulation; circuit/network reconfiguration; individual differences; maladaptive plasticity; human measurement and cross-species translation.
 
-**Ни один из 292 вопросов №5 не считается глубоко исследованным или решённым.** В рамках A1 не строился причинный механизм и не проектировались инструкции.
+**В этом проходе ни один из 260 вопросов №6 не исследовался глубоко.** Работа была направлена на картографию области и её границ.
 
-**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №6 «Нейробиология и нейропластичность»**. Сохранять дисциплину A1: картографировать структуру области, направления/школы, споры, методологические проблемы, слепые зоны и вопросы; не переходить к глубокому разбору механизмов.
+**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** начать **A1 области №7 «Кибернетика, сложные системы и самоорганизация»**. Сохранять дисциплину A1: картографировать структуру области, направления/школы, споры, методологические проблемы, слепые зоны и вопросы; не переходить к глубокому разбору механизмов.
 
 **Жёсткий процесс A1/A2:**
 - A1 каждой области — минимум один отдельный полноценный ответ с реальным исследованием источников;
