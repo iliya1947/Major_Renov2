@@ -230,3 +230,17 @@
 168. Когда нужны эталонные ответы?
 169. Как учитывать неопределённость оценки?
 170. Когда автоматической проверки недостаточно?
+
+
+## 18. Retrieval-grounded prompting
+
+171. How should retrieved evidence be presented to a model?
+172. How should source material be separated from task instructions?
+173. How does evidence ordering affect answer quality?
+174. How many retrieved passages should be included?
+175. How should conflicting sources be represented?
+176. How should source provenance be retained?
+177. How can prompts require abstention when sources are insufficient?
+178. How does citation guidance affect factuality?
+179. How do retrieval failures interact with instruction failures?
+180. When should retrieval be repeated or the query reformulated?
