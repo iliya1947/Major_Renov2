@@ -340,3 +340,30 @@
 248. When do version-specific patterns become obsolete?
 249. How should obsolete scaffolding be identified?
 250. What comparison tests are needed during a model migration?
+
+
+## 26. Multilingual and cross-lingual prompting
+
+251. How does instruction language affect compliance?
+252. How does requested answer language interact with instruction language?
+253. How do mixed-language prompts behave?
+254. When are translations semantically equivalent but operationally different?
+255. Which constraints require language-specific localization?
+256. How does prompting differ for low-resource languages?
+257. What script-specific constraints affect instruction following?
+258. How do examples transfer across languages?
+259. How do cultural references affect prompt equivalence?
+260. How should instruction-following quality be compared fairly across languages?
+
+## 27. Structured outputs and runtime constraints
+
+261. When should natural-language format guidance be replaced by a formal schema?
+262. What guarantees do schema-constrained outputs provide?
+263. How does constrained generation differ from ordinary prompting?
+264. How should function or tool arguments be schema-constrained?
+265. How does schema complexity affect generation quality?
+266. Can strict structural compliance reduce semantic quality?
+267. How should refusals or incomplete outputs interact with schemas?
+268. What validation should occur outside the model?
+269. When should invalid output be retried, repaired or rejected?
+270. Which responsibilities belong to runtime constraints rather than prompt wording?
