@@ -1,6 +1,6 @@
-# A1 №2 — Когнитивная психология и память: понимание карты области
+# A1/A2 №2 — Когнитивная психология и память: накопленное понимание
 
-**Статус:** итог первичной картографии A1 №2 от 15.10.2026. Это понимание структуры области, а не ответы на найденные вопросы.
+**Статус:** A1 завершена 15.10.2026, A2 — 16.10.2026. Ниже сохранено понимание структуры области и добавлены выводы финальной картографии после межобластной сверки.
 
 ## 1. Память нельзя картографировать одной иерархией
 
@@ -86,3 +86,129 @@ A1 №2 отвечает только на вопрос:
 **«Какие части когнитивной психологии памяти необходимо исследовать, чтобы позже понять превращение пережитого в применимый и пересматриваемый опыт, не используя слишком узкую модель памяти?»**
 
 **Следующий шаг общего процесса:** A1 №3 «Психология обучения и поведения».
+
+
+---
+
+# A2 — что изменилось в понимании области
+
+## 11. Между событием и памятью уже есть преобразование
+
+A1 могла читаться так, будто сначала существует готовый «эпизод», который затем сохраняется. A2 усилила более точную границу:
+
+`continuous experience → segmentation/representation → encoded memory`.
+
+То есть то, что позже вспоминается как один episode, уже является **структурированным представлением опыта**, а не буквальным куском внешней реальности.
+
+Для будущего синтеза это означает: нельзя считать «событие» и «его запись в опыте» одной сущностью.
+
+## 12. Переход episode → reusable understanding не является одной операцией
+
+A2 показывает несколько различных путей:
+- retrieval похожих episodes;
+- similarity-based generalization;
+- rule extraction;
+- schema/latent-structure learning;
+- gist/semanticization;
+- compression;
+- hybrid mechanisms.
+
+Поэтому будущая система приобретённого опыта не должна автоматически сводить всё к «сделать summary эпизода». Summary, schema, semantic knowledge и transferable conditional understanding — разные вещи.
+
+## 13. Сохранение исключений так же важно, как обобщение
+
+Compression/generalization полезны именно потому, что отбрасывают детали. Но эта же функция создаёт риск:
+- потерять conditions применимости;
+- затереть counterexamples;
+- превратить локальное наблюдение в глобальное правило;
+- усилить уже существующую schema.
+
+Для нашей задачи это один из ключевых будущих вопросов: acquired experience должно быть переносимым, но не превращаться в жёсткое «всегда X».
+
+## 14. Retrieval — часть формирования траектории, а не только чтение прошлого
+
+Повторное извлечение способно:
+- усиливать target memory;
+- изменять доступность related memories;
+- открывать окно для нового encoding;
+- поддерживать selective rehearsal.
+
+Следовательно, **какая часть прошлого извлекается снова и снова** может со временем влиять на будущую доступность и решения.
+
+Это прямо связывает область №2 с path dependence №7 и retrieval policy №9, но психологический retrieval mechanism нельзя автоматически переносить на engineered retrieval.
+
+## 15. Нужно различать минимум пять уровней «прошлое сохранилось»
+
+Для будущего синтеза критично не смешивать:
+
+1. информация где-то **persisted/stored**;
+2. она **accessible** при подходящих условиях;
+3. она фактически **retrieved** сейчас;
+4. она представлена/упомянута в текущем cognition/output;
+5. она **повлияла на решение**.
+
+Переходы между этими уровнями не гарантированы.
+
+Это делает ошибочной формулу «раз файл существует, значит опыт учитывается».
+
+## 16. Забывание не равно исчезновению влияния
+
+A2 усилила различие между:
+- erasure;
+- inaccessibility;
+- interference;
+- suppression;
+- active forgetting;
+- transformation/update;
+- отсутствием explicit autobiographical recall при возможном retained influence.
+
+Поэтому lifecycle experience позже должен учитывать не только «есть/нет записи», но и **доступность, актуальность и влияние**.
+
+## 17. External memory — часть функциональной системы, но не превращается во внутреннюю память
+
+Cognitive offloading показывает, что внешние носители способны реально менять memory-based performance и стратегию использования внутренних ресурсов.
+
+Но корректный вывод ограничен:
+- внешний носитель может поддерживать continuity;
+- reliance on it can create dependence on access;
+- его наличие меняет поведение remembering;
+- это **не делает носитель human episodic/semantic memory**.
+
+Для проекта это полезная функциональная идея, а не готовая метафора файловой архитектуры.
+
+## 18. Значимость и приоритет нельзя вывести только из памяти
+
+Surprise, novelty, schema violation и goal relevance могут влиять на encoding/retrieval, но они не образуют универсальную шкалу «что важно».
+
+Поэтому №2 может объяснить, **что получает mnemonic priority**, но вопрос, **что должно считаться значимым опытом без заранее заданных values/interests**, остаётся межобластным и primary относится к №4/9/12.
+
+## 19. Что область №2 реально даст позднему синтезу
+
+Не модель «памяти ИИ», а обязательные различения:
+
+1. **event ≠ event representation;**
+2. **episode ≠ generalized knowledge;**
+3. **generalization ≠ summarization;**
+4. **storage ≠ accessibility;**
+5. **accessibility ≠ retrieval;**
+6. **retrieval ≠ behavioral influence;**
+7. **forgetting ≠ erasure;**
+8. **external memory ≠ internal cognitive memory;**
+9. **retrieval itself can alter future memory dynamics;**
+10. **compression/generalization can destroy exceptions while improving transfer.**
+
+Эти различения должны ограничивать будущий invented mechanism, но не определяют его заранее.
+
+## 20. Финальная граница A2 №2
+
+Самые важные deep-dive ветви для будущей фазы B:
+- event segmentation and representation of naturalistic experience;
+- episodic↔semantic interaction;
+- mechanisms/routes of generalization;
+- preservation of conditions and exceptions during abstraction;
+- reconstructive/retrieval-induced change;
+- forgetting vs inaccessibility vs retained influence;
+- cognitive offloading and distributed memory;
+- evidence that past information actually influenced present judgment/action.
+
+Engineered memory lifecycle/policies исследуются primary в №9, ChatGPT persistence surfaces — №11, prompt rules — №12.
