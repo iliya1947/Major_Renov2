@@ -1,6 +1,6 @@
 # 05 — Социальная психология и идентичность: A1 — карта необходимых вопросов
 
-**Статус: A1 В ПРОЦЕССЕ.** Цель — выяснить, какие социальные и identity-процессы необходимо исследовать, прежде чем глубоко изучать влияние общения и отношений на индивидуальную траекторию.
+**Статус: A1 ПЕРВИЧНАЯ КАРТА ГОТОВА.** Финальная доводка будет на глобальном проходе A2 после картографии остальных областей. Цель — выяснить, какие социальные и identity-процессы необходимо исследовать, прежде чем глубоко изучать влияние общения и отношений на индивидуальную траекторию.
 
 ## Что реально сделано
 
@@ -31,7 +31,7 @@
 - salience конкретной group identity;
 - in-group norms/prototypes;
 - depersonalization vs loss of individuality — различие;
-- multiple/overlapping group identities;
+- multiple/overlapping/intersectional group identities и identity complexity;
 - как group membership меняет perception, judgment и action?
 
 ### S4. Почему люди поддаются социальному влиянию — и почему иногда не поддаются?
@@ -163,6 +163,7 @@
 - intergroup threat/cooperation;
 - когда человек меняет group, норму или собственную позицию?
 - как agency проявляется в сопротивлении социальному влиянию?
+- как status, power, dominance и prestige меняют способность влиять и свободу отвечать на влияние?
 
 ### S17. Что меняет цифровая социальная среда?
 - self-presentation and audience persistence;
@@ -184,7 +185,17 @@
 
 **Граница:** emotion mechanisms → №4; здесь social interaction as regulator.
 
-### S19. Как исследовать причинное социальное изменение?
+### S19. Как возникают и меняются trust, cooperation и reciprocity?
+- particularized vs generalized trust;
+- trust vs trustworthiness;
+- как repeated interaction и reputation обновляют доверие?
+- reciprocity, signaling, punishment and cooperation;
+- как betrayal/violation меняет future expectations?
+- как group/category membership влияет на trust?
+- как distinguish genuine cooperation от strategic compliance?
+- когда distrust адаптивен и когда блокирует learning/relationship?
+
+### S20. Как исследовать причинное социальное изменение?
 - public compliance vs private internalization;
 - self-report identity vs behavior;
 - cross-sectional group differences vs within-person change;
@@ -195,7 +206,7 @@
 - cultural/WEIRD sampling;
 - measurement invariance of identity constructs.
 
-### S20. Границы области №5
+### S21. Границы области №5
 - №1: personality development and individual pattern; здесь — social mechanisms/identity relations.
 - №2: memory representations; здесь — conversational/transactive social shaping.
 - №3: observational learning; здесь — social source/group/norm context.
@@ -222,18 +233,18 @@
 14. Messina I et al. 2021. *Interpersonal Emotion Regulation: From Research to Group Therapy*. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.636919
 15. Pérez-Torres V. 2024. *Social media: a digital social mirror for identity development during adolescence*. Current Psychology. https://doi.org/10.1007/s12144-024-05980-z
 
-## Следующий локальный проход A1
+## Проверка пропусков после второго прохода A1
 
-Проверить возможные пропуски:
-- self-verification/self-expansion/reflected appraisal — нужен ли отдельный блок beyond S7;
-- social identity complexity/intersectionality/multiple identities;
-- minority influence/resistance/reactance;
-- trust/cooperation/reciprocity — отдельная ветвь или №5/№7;
-- status/power/dominance;
-- moral identity;
-- collective identity / identity fusion;
-- loneliness/social connection;
-- cultural evolution/social transmission;
-- parasocial/AI-mediated relationships — оставить для №11 или социальная ветвь здесь.
+- **Multiple/intersectional identities:** крупная ветвь, но входит в S1/S16; Annual Review показывает, что overlapping identities меняют и self-experience, и social perception.
+- **Minority influence / resistance / reactance:** дополняют S4/S16; отдельный верхний блок не нужен.
+- **Trust/cooperation/reciprocity:** выявлен настоящий пробел — добавлен новый S19. Trust не сводится к attachment или conformity и имеет собственную literature о particularized/generalized trust, reputation, reciprocity and cooperation.
+- **Status/power/dominance/prestige:** важная hierarchy literature; добавить к S4/S16. Различать power (resources/control), status (respect/prestige) и dominance.
+- **Moral identity / identity fusion:** использовать как подветви S1/S3/S13 и stress-tests strong commitment; не новый универсальный блок.
+- **Loneliness/social connection:** входит S9 как chronic/subjective side social disconnection.
+- **Cultural evolution/social transmission:** уже покрыто S5/S14; современный norm-dynamics framework прямо связывает micro learning и macro cultural persistence/change.
+- **Parasocial/AI-mediated relationships:** современная literature существует, но social-process questions входят S6/S17; техническая специфичность AI → №11. Не делать современный продукт отдельным базовым social mechanism.
 
-После этого решить, достаточно ли S1–S20 для A1.
+**Вывод:** после добавления trust/cooperation карта S1–S21 достаточно покрывает область №5 для первого глобального A1. Финальные границы с №1, №3, №4, №7 и №11 — на A2.
+
+## Следующий шаг
+Перейти к **A1 области №6 — «Нейронаука / нейропластичность»**.
