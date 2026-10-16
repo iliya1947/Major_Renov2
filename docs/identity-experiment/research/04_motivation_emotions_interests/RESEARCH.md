@@ -326,3 +326,72 @@ https://proceedings.mlr.press/v70/pathak17a.html
 - какие части этой схемы функционально переносимы на LLM, а какие остаются только human-domain constructs.
 
 **B1 НЕ завершена. Не переходить к B2.**
+
+
+## B1 — проход 2: edge-case falsification
+
+**Статус:** B1 всё ещё НЕ завершена. Этот проход проверяет рабочее разделение orienting / epistemic revision / motivational significance на случаях, которые должны ломать слишком простую последовательность `surprise → importance → durable update`.
+
+### Scherer & Fontaine (2013) — Driving the emotion process: The Appraisal component
+Oxford Handbook of Affective Computing / appraisal factor analysis  
+https://academic.oup.com/book/24880/chapter/188625567
+
+**Фактически просмотрено:** доступные metadata/abstract и описание factor structure.
+
+**Результат для B1:** novelty/chance, expectedness/familiarity и goal relevance входят как различимые appraisal dimensions. Следовательно, person-relative relevance не требует неожиданности: событие может быть крайне релевантным и при этом полностью ожидаемым.
+
+### Dubey, Griffiths & Lombrozo (2022) — If it’s important, then I’m curious: Increasing perceived usefulness stimulates curiosity
+
+**Фактически просмотрено:** accepted full-text PDF, включая abstract, theory и Experiment 3.
+
+**Результат:** манипуляция perceived usefulness повышала curiosity и information seeking; в Experiment 3 usefulness отделяли от understanding, informativeness и surprise. Эффект usefulness на curiosity полностью опосредовался perceived usefulness, тогда как surprise не объяснял его полностью. Это ломает необходимую цепочку `surprise → interest/relevance`: практическая/социальная полезность может усиливать curiosity сверх surprise.
+
+### Kang et al. (2009) — The Wick in the Candle of Learning: Epistemic Curiosity Activates Reward Circuitry and Enhances Memory
+Psychological Science 20(8):963–973
+
+**Фактически просмотрено:** доступный full PDF, включая information-gap account, behavioral measures и relation between confidence and curiosity.
+
+**Результат:** curiosity была максимальна не при максимальной неожиданности, а около промежуточной уверенности; participants тратили ресурсы/время на получение ответов. Это поддерживает knowledge-gap account: собственное текущее знание/предсказание способно создать вопрос. Но `want to know` остаётся человеческим motivational construct и не является value-free механизмом для LLM.
+
+### Brod & Breitwieser (2019) — Lighting the wick in the candle of learning: generating a prediction stimulates curiosity
+npj Science of Learning 4:17
+
+**Фактически просмотрено:** abstract и доступное описание experiment/results.
+
+**Результат:** генерация собственного prediction перед ответом увеличивала curiosity по сравнению с example condition и была связана с лучшей memory для high-curiosity items. Для нашей задачи это важный *кандидат на механизм*: собственное ожидание может породить unresolved discrepancy даже без заранее заданной тематической цели. Это вывод по аналогии; human curiosity не переносится автоматически на LLM.
+
+### Haines, Kvam & Turner (2023) — Explaining the description-experience gap in risky decision-making
+Psychonomic Bulletin & Review
+
+**Фактически просмотрено:** доступный full article, с фокусом на framing description-vs-experience gap и learning/memory account.
+
+**Результат:** decisions from indirect description и direct experience могут систематически расходиться. Для B1 это даёт полезное различение каналов: чьё-то заявление `это важно` может быть реальным social/descriptive input и менять поведение, но последующие собственные observed consequences являются отдельным потоком evidence. Ни один канал не получает абсолютный приоритет только из-за происхождения.
+
+### Ma, Nan & Wu (2026) — What Deserves Memory: Adaptive Memory Distillation for LLM Agents (NEMORI)
+ACL 2026
+
+**Фактически просмотрено:** ACL page и full paper, включая method, ablation, prompts и limitations.
+
+**Что действительно переносимо:** NEMORI operationalizes predictability-relative-to-existing-memory: LLM сначала прогнозирует episode, затем distills content, которое отклоняется от prediction. В ablation prediction-error-based distillation превосходила direct distillation, а authors report substantial storage reduction while preserving downstream performance. Это реальный LLM-agent пример того, что **history-relative prediction mismatch может быть функциональным engineering signal**, а не фиксированным topic importance score.
+
+**Критическая находка:** paper не является value-neutral решением gap 6. Exact distillation prompt одновременно требует извлекать `valuable knowledge`, сохранять specific preferences/reasons и material useful for future interactions, а temporary states/emotions, conversational flow/style и social pleasantries — игнорировать. То есть поверх prediction-error criterion остаётся **designer-authored ontology utility/importance**. Работа сама описывает свои structure/representation/distillation priors как inductive biases.
+
+Это важнее простого замечания «любая система имеет bias»: можно локализовать два разных вида prior:
+- **procedural/epistemic prior:** compare actual episode with a prediction; track contradiction/novel information;
+- **substantive utility prior:** заранее решить, какие классы содержания `valuable`, `useful` или недостойны памяти.
+
+Первое ещё совместимо с нашим запретом на preset personality content; второе может незаметно вернуть заранее заданную траекторию.
+
+## Результат edge-case проверки для gap 6
+
+Рабочая трёхчастная decomposition **выдержала проверку, но не как pipeline**.
+
+1. **Important but unsurprising:** возможно. Relevance/utility отделимы от novelty/surprise.
+2. **Surprising but non-significant:** возможно. Surprise может вызвать orienting, не создавая durable interest/value и не оправдывая revision.
+3. **New question without pre-existing topical goal:** возможно как минимум в human information-gap/prediction paradigms; собственное prediction может создать discrepancy. Для LLM это пока только функциональная гипотеза.
+4. **User-declared importance:** это causal social/descriptive input, а не либо «истинная собственная ценность», либо «загрязнение». Его последующее значение должно оставаться различимым от independent consequence/history evidence.
+5. **LLM functional transfer:** prediction-relative selection реально реализуема, но engineering prompt легко повторно внедряет содержательные ценности поверх неё.
+
+**Уточнённая рабочая картина:** orienting, epistemic revision pressure и motivational/trajectory significance лучше рассматривать как **частично независимые causal roles/axes**, а не стадии одной шкалы.
+
+**Следующий вопрос внутри B1:** вывести проверяемую границу между допустимыми procedural/inductive assumptions и hidden preset value function, затем проверить её на нескольких LLM-agent memory/update mechanisms. B1 НЕ завершена.
