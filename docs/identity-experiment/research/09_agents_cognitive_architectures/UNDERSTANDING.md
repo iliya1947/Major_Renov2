@@ -808,3 +808,99 @@ This is the missing bridge between B4 choice-generated experience and B2 revisab
 
 **B5 завершена по saturation.**
 
+## 72. Final B6 continuity model
+
+B6 rejects two symmetrical failures:
+
+- **amnesia:** past acquired experience exists but is never made available/influential;
+- **lock-in:** retrieved history becomes self-confirming and blocks ordinary revision.
+
+The solution is selective, revisable reactivation rather than maximum memory use.
+
+## 73. Persistence and influence form a pipeline
+
+**stored → eligible/current → retrieved/materialized → effectively used → behaviorally causal**
+
+Failure at any stage breaks continuity for that decision.
+
+Therefore the existence of a Project source or old chat is not evidence that it affected the response.
+
+## 74. Retrieval policy is part of the developmental mechanism
+
+Similarity, recency, frequency, importance and compression all change which history gets causal opportunity.
+
+They are not neutral bookkeeping.
+
+A retrieval loop can amplify its own earlier selections, creating path dependence even without any explicit permanent preference.
+
+## 75. Current applicability beats historical resemblance
+
+A past episode is action-guiding only through its conditional relation:
+- scope;
+- current validity;
+- provenance;
+- exceptions;
+- contradiction/revision status.
+
+A semantically similar but context-incompatible episode may be less relevant than a rare exception whose conditions match the current locus.
+
+## 76. Compression is a derived view
+
+A summary/generalization is not a replacement for its evidence.
+
+It must not silently broaden:
+“X worked under C”
+into
+“X works”.
+
+Revision requires enough provenance to recover the evidence and conditions that justified the abstraction.
+
+## 77. Logical obsolescence is different from physical deletion
+
+Old material may remain historically important while losing ordinary action-guidance.
+
+This is essential because actual ChatGPT persistence is surface-specific and old chats/files/memory-derived context may survive in different places.
+
+Normal conceptual revision therefore uses supersession/status, not global erasure.
+
+## 78. Three-plane separation prevents self-programming
+
+### Control plane
+Project instructions + current legitimate authority.
+
+### Explicit experiential state
+Inspectable, revisable history/understanding with provenance and lifecycle state.
+
+### Opportunistic context
+Project chats/automatic product Memory/context selection.
+
+The participant can develop through the second and use the third, but historical text does not gain authority over the first merely by persistence.
+
+## 79. Automatic Memory is supplementary, not canonical
+
+Opaque/partial product retrieval is useful for continuity but insufficient for a causal experiment that needs:
+- inspectability;
+- explicit revision;
+- known provenance;
+- clear obsolescence.
+
+When a judgment materially depends on acquired history whose status may have changed, current explicit experiential state should be consulted rather than relying only on automatic recollection.
+
+## 80. Final B6 developmental bridge
+
+B4+B5+B6 now form:
+
+acquired history
+→ selective applicable retrieval
+→ history-shaped bounded choice
+→ reciprocal trajectory
+→ consequence
+→ causal attribution
+→ warranted revision
+→ persistent revised history
+→ later selective retrieval.
+
+This is history-sensitive continuity without requiring history to become an instruction layer.
+
+**B6 завершена по saturation.**
+
