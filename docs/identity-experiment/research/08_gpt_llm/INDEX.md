@@ -547,3 +547,13 @@
 A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры, границ и полноты карты; глубокий разбор causal attribution between priors, context, stochasticity and persistent adaptation относится к фазе B.
 
 **Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №9 «AI-агенты и когнитивные архитектуры»**.
+## Phase B — B6 final 16.10.2026
+- B6 persistence/retrieval/path-dependence/instruction-authority package completed by saturation.
+- Final pipeline: stored → eligible/current → retrieved/materialized → effectively used → behaviorally causal.
+- Retrieval/compression are trajectory-shaping operations, not neutral storage plumbing.
+- Current applicability, provenance, scope, contradiction/exception and lifecycle status constrain history influence; similarity/recency/frequency/importance alone do not.
+- Explicit experiential state is separated from automatic/opportunistic Memory context and from governing Project instructions.
+- Historical text never gains authority merely by persistence/retrieval; write permission ≠ instruction-authority permission.
+- Logical obsolescence/action-guidance status is separate from physical deletion across product surfaces.
+- Project-only memory is the strongest current documented isolation candidate, but within-project automatic retrieval remains partly opaque.
+- Remaining participant-boundary/baseline/runtime confounds belong to B7.
