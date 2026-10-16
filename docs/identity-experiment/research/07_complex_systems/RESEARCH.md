@@ -284,3 +284,87 @@ https://doi.org/10.1038/s42254-023-00676-y
 - bounded/delegated autonomy
 
 не выявил новой крупной complex-systems branch beyond A1. Новое содержательно находится в **отношениях между границей системы, историей, структурой, масштабом анализа и внешними ограничениями**. Этого достаточно для финализации карты №7.
+
+# Phase B — B3: substrate-neutral first-order vs second-order change
+
+**Статус 16.10.2026:** B3 начата и НЕ завершена. This is the first cross-domain deep pass for gaps 4+21.
+
+## Core distinction
+
+Current evidence supports a substrate-neutral distinction that is stronger than the vague phrase «history matters»:
+
+- **first-order change:** history/evidence changes the current state/content under an otherwise fixed response/update relation;
+- **second-order change:** history changes a variable, structure or rule that modifies how later evidence will change the system.
+
+Abstractly:
+`x(t+1) = U(x(t), e(t); θ(t))`
+
+First-order change updates x while θ is effectively fixed.
+Second-order change means prior history also changes θ, or changes the effective structure of U itself.
+
+This notation is only a comparison device; human personality, synapses and ML systems do not share one mechanism.
+
+## Cross-domain evidence supporting the distinction
+
+1. **Human learning:** Simoens et al. 2026 showed slow environment-specific learning-rate adaptation plus fast within-environment updating. Prior visits changed the initial learning rate on revisiting a context before new diagnostic current feedback could explain the difference.
+2. **Biology:** metaplasticity changes susceptibility to later LTP/LTD without necessarily changing current synaptic efficacy at the time it is induced.
+3. **ML:** MAML/RL²/learned optimizers deliberately alter future adaptation dynamics; continual learning can also unintentionally lose plasticity.
+4. **Personality development:** repeated short-term state processes are theoretically linked to long-term trait/trajectory change, but evidence for exact mechanisms remains mixed, so personality literature currently supports the multiscale question more strongly than one universal accumulation rule.
+
+## Hysteresis/path dependence — useful formal possibility, dangerous shortcut
+
+### Chow, Morris & Rabbah (SIAM Review 2023) — Hysteresis and Stability
+https://epubs.siam.org/doi/10.1137/21M1420733
+
+**Фактически просмотрено:** abstract/metadata.
+
+Dynamical-systems hysteresis can arise with multiple equilibria: current response under the same external control variable may differ depending on prior trajectory.
+
+### Gharari & Razavi (2018) — Hysteresis in hydrology: memory, path-dependency, or missing physics?
+https://doi.org/10.1016/j.jhydrol.2018.06.037
+
+**Фактически просмотрено:** abstract, highlights and accessible review summary.
+
+The review gives a crucial guardrail: apparent hysteresis/path dependence may reflect omitted dimensions or an incomplete representation of state/physics. A system may look history-dependent because the analyst has failed to include a relevant current-state variable.
+
+**B3-вывод:** observed history dependence is not enough to claim second-order development. We must distinguish:
+- true history-bearing change of response dynamics;
+- ordinary dependence on a current latent state produced by history;
+- apparent path dependence caused by an incomplete system boundary/state description.
+
+These may be behaviorally indistinguishable without intervention or richer state measurement.
+
+## Thresholds, accumulation and abrupt transition
+
+Complex-systems literature provides several possible temporal forms:
+- gradual accumulation/integration;
+- state-dependent gain changes;
+- threshold crossing/bifurcation;
+- multistability and hysteresis;
+- lock-in or loss of plasticity.
+
+None of these is a default explanation for personality or LLM development. B3 uses them only as candidate **shapes of longitudinal dynamics** that future evidence might discriminate.
+
+## Evidence criterion for gap 21 — provisional
+
+A claim that history changed future responsiveness becomes stronger when:
+
+1. current test input/evidence is held comparable;
+2. relevant current content/state is measured or controlled as far as possible;
+3. systems/participants with different prior histories show systematically different update magnitude, direction, threshold, speed or generalization to that same new evidence;
+4. the difference persists beyond an immediate transient response;
+5. alternative explanations such as retrieval/access differences, hidden current state, external instruction changes, model/runtime changes or stochastic variation are reduced or independently tracked.
+
+Simoens et al. provides a particularly clean psychological example because first-trial evidence distributions were matched while context-specific initial learning rates reflected earlier history. Metaplasticity and ML provide mechanistically different existence proofs.
+
+## First-pass B3 synthesis
+
+Gap 4 and gap 21 must remain separate:
+
+- **gap 4:** how local changes become a longer-term trajectory;
+- **gap 21:** how that history changes the future response function/capacity for later change.
+
+A system can show gap-4 continuity without gap-21 changeability: it may simply accumulate content under a fixed update rule.
+A system can show gap-21 effects without obvious macro personality trajectory: its learning rate or plasticity threshold can change while current overt behavior remains similar.
+
+**B3 НЕ завершена.** Next pass must stress-test this distinction on continuity under component turnover, nonlinear/threshold change, and whether a persistent external-memory/project system can exhibit second-order change without model-weight adaptation.
