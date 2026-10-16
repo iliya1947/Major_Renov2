@@ -227,3 +227,15 @@ This prevents a conceptual shortcut: stable trait change and history-dependent f
 The project may eventually need both, but B3 must not infer the second merely because the first exists.
 
 **B3 НЕ завершена.**
+
+## 20. B3 final developmental contribution
+
+Second pass did not produce a universal micro→macro mechanism. It strengthened a negative but important result: longitudinal development can be gradual, discontinuous, temporary and person-specific; trajectory shape is not enough to infer the generating mechanism.
+
+For the project, area №1 therefore contributes:
+- state/repeated behavior and trajectory are distinct levels;
+- recurrence can support but does not define durable development;
+- nonlinearity/changepoints are descriptive until a causal mechanism is identified;
+- second-order changeability must be evidenced independently of ordinary trait/trajectory change.
+
+**B3 cross-domain package is complete; final synthesis is in area №7 UNDERSTANDING.**
