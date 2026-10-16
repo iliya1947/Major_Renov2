@@ -542,3 +542,12 @@ A2 не означает глубокого решения этих вопрос
 ## Phase B status
 
 **B3 gaps 4+21 завершена 16.10.2026 по saturation.** Working substrate-neutral distinction: first-order change updates current state/content; second-order change means history alters later update gain/threshold/strategy/effective transition rule. Evidence guardrail: apparent path dependence may reflect omitted latent state. Следующий шаг: continuity under component turnover and whether project/external-memory systems can show genuine second-order change without weight adaptation.
+## Phase B — B5 final 16.10.2026
+- B5 delayed causal credit completed by saturation.
+- Later outcome is not converted directly into a lesson; it first supports a revisable causal-contribution attribution.
+- Temporal order alone is insufficient; preserve competing/direct/mediated/enabling/joint/redundant/exogenous paths and attribution uncertainty.
+- Decision quality is separate from realized terminal outcome; luck, rescue and exogenous failure must not be mislearned.
+- Retrospective LLM explanation is a candidate attribution, not ground truth.
+- Revision scope follows causal support: local / broader / no durable revision.
+- Reciprocal participant↔user/environment feedback can itself be part of the causal path.
+- Remaining persistence/retrieval/authority mechanics belong to B6.
