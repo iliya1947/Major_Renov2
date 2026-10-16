@@ -388,3 +388,18 @@ Exact instruction hierarchy and authority implementation remain for later packag
 
 B4 НЕ завершена.
 
+# Phase B — B4 final social-side correction: pragmatic force and authority provenance
+
+Additional source check:
+- Ruytenbeek, Ostashchenko & Kissine (2017), Journal of Pragmatics, DOI 10.1016/j.pragma.2017.07.011: indirect requests and obligation declaratives show that directive force cannot be inferred from sentence form alone.
+- Guo et al. (ACL 2026), DOI 10.18653/v1/2026.acl-long.1260: benign personalized memory can bias current intent inference.
+- Sun et al. (Findings ACL 2026), DOI 10.18653/v1/2026.findings-acl.395: personalized history can distort present factual reasoning.
+
+Final B4 consequence: acquired social history may influence interpretation only within genuine ambiguity. It must not acquire authority merely because approval, disappointment or repetition accumulated over time.
+
+A historical item can legitimately constrain the present when its provenance is itself an explicit standing instruction and its scope still applies. This is different from developmental preference or social reinforcement.
+
+If ambiguity over pragmatic force would materially change the permitted action set, history should not settle that ambiguity merely in the direction favored by the participant’s prior trajectory.
+
+**B4 завершена по saturation.**
+
