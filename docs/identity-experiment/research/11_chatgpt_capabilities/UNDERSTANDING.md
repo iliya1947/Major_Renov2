@@ -339,3 +339,61 @@ The most important Phase B branches:
 - immediate product re-verification before experiment launch.
 
 Prompt wording/design remains №12; model internals №8; general agent architecture №9.
+
+## 36. B6 product-feasible continuity boundary
+
+Current ChatGPT Projects provide enough separate primitives to support the B6 distinction conceptually:
+
+- Project instructions as stable project-specific control context;
+- explicit project files/sources as inspectable persistent content;
+- project chats as long-lived conversational history;
+- project memory modes controlling which conversations/memories are eligible;
+- account Memory/Library/apps as additional product surfaces.
+
+But the product does not expose a complete deterministic retrieval/arbitration trace.
+
+Therefore the future experiment should not equate “ChatGPT remembered it” with a known causal path.
+
+## 37. Project-only memory is the strongest current isolation candidate
+
+As of 16.10.2026, official docs say project-only memory:
+- excludes previously saved memories in project chats;
+- allows reference to chats within the project;
+- excludes conversations outside the project;
+- prevents outside chats from referencing project conversations.
+
+This reduces external-history contamination and is therefore a strong candidate configuration.
+
+It does not solve retrieval opacity inside the project.
+
+## 38. Explicit source state is more auditable than automatic Memory
+
+Current product Memory:
+- selects what is relevant;
+- does not retain every detail;
+- exposes only partial Memory summary/Sources information.
+
+Therefore automatic Memory can support continuity, but explicit Project sources are the stronger candidate for canonical acquired-state provenance/revision.
+
+This does not mean every source must be read every turn.
+
+## 39. Deletion is not one operation
+
+Project files, project chats, Library files and Memory-derived information have different retention/removal behavior.
+
+Consequently:
+- conceptual obsolescence should be represented as a current state;
+- physical deletion is separate;
+- deleting one surface does not prove all historical/derived context disappeared.
+
+## 40. B6 feasibility result
+
+The proposed three-plane distinction is compatible with current documented Projects capabilities:
+1. stable control instructions;
+2. explicit editable project sources;
+3. project-history/automatic-memory context.
+
+What remains opaque is the exact runtime selection/use of eligible context. That limitation is preserved for B7/B8 rather than hidden.
+
+**B6 завершена по saturation.**
+
