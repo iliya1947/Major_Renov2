@@ -368,3 +368,92 @@ A system can show gap-4 continuity without gap-21 changeability: it may simply a
 A system can show gap-21 effects without obvious macro personality trajectory: its learning rate or plasticity threshold can change while current overt behavior remains similar.
 
 **B3 НЕ завершена.** Next pass must stress-test this distinction on continuity under component turnover, nonlinear/threshold change, and whether a persistent external-memory/project system can exhibit second-order change without model-weight adaptation.
+
+## B3 — pass 2: second-order change under a fixed substrate and continuity under turnover
+
+**Статус:** final B3 cross-domain stress-test.
+
+### Fixed substrate does not eliminate second-order change
+
+Meta-learning and in-context learning results force a refinement of the first-pass formalism. A fixed base model/global transition mechanism can still support history-dependent future responsiveness if persistent/fast state includes variables whose **causal role is to modulate later updating**.
+
+Useful decomposition:
+
+`(C_{t+1}, M_{t+1}) = F(C_t, M_t, e_t)`
+
+where:
+- `C` = current content/experience state;
+- `M` = adaptation-control/meta-state (for example effective gain, threshold, trust calibration, update strategy, context-selection policy);
+- `F` = fixed substrate/process, potentially including unchanged model weights and governing rules.
+
+Then:
+- ordinary change in C with stable M is first-order;
+- history-dependent change in M is functional second-order change;
+- F itself need not mutate.
+
+This is not merely semantic relabeling because C and M are distinguished by **causal role**: intervention on M should alter how comparable future evidence changes C.
+
+### Why 'hidden state' is not automatically a confound
+
+The first pass correctly warned that apparent hysteresis may arise from omitted state, but it was too strong to treat all latent/current state explanations as disqualifying.
+
+If the omitted state is merely current task content, then the phenomenon is first-order.
+If the omitted state is a persistent learned modulator of future updating, then discovering it is precisely the mechanism required by gap 21.
+
+Therefore the correct question is not `state or changed rule?` in an absolute sense, but:
+
+**what functional variable changed, and does it control future update dynamics rather than merely current output content?**
+
+### Project-relevant edge case: fixed model weights + evolving persistent project state
+
+Research on Algorithm Distillation, meta-RL, transformer in-context learning and memory-augmented networks demonstrates that fixed network parameters can support adaptive behavior through evolving recurrent/context/external-memory state.
+
+This establishes only **possibility**. A future ChatGPT-project participant would exhibit gap-21 second-order change only if its persistent state causally changes later processing/update policy. Simply retrieving different facts, examples or memories is still first-order history dependence.
+
+Operationally, a project-level candidate M could be evidenced if different histories produce a persistent change in how comparable new evidence is evaluated/incorporated, and targeted removal/replacement of the meta-state removes that difference. Exact experiment design belongs later; B3 establishes the causal distinction.
+
+### Continuity when lower-level components change
+
+Representational-drift literature gives a mechanistically different existence proof that stable higher-level function/information can coexist with substantial lower-level representational change.
+
+For B3, continuity therefore means preservation of relevant **functional/relational organization across time**, not literal identity of every implementation component.
+
+Guardrail: external model/runtime replacement can both preserve some higher-level continuity and independently create apparent development. It is therefore conceptually compatible with continuity but methodologically a confound for causal attribution.
+
+### Nonlinearity, thresholds and hysteresis
+
+Personality longitudinal research supports nonlinear, temporary and discontinuous trajectories; formal dynamical systems support multistability/hysteresis. But trajectory shape is not mechanism.
+
+B3 does **not** infer:
+`abrupt change → threshold mechanism`
+or
+`different response after history → hysteresis`.
+
+Threshold/hysteresis becomes a defensible mechanism only when the underlying state/control relation is independently characterized and alternative latent-state/exogenous explanations are reduced.
+
+## Final evidence standard for gap 21
+
+A claim that history changed future changeability is strongest when all of the following are available:
+
+1. **Declared level/decomposition.** Specify content state C, candidate adaptation-control/meta-state M, and system boundary.
+2. **Comparable future probe.** Histories A/B are followed by sufficiently comparable new evidence.
+3. **Different update dynamics.** Histories produce systematic differences in update magnitude, direction, threshold, speed, generalization or context sensitivity — not merely different current answers.
+4. **Persistence.** Difference survives beyond a one-turn transient and recurs when relevant conditions return.
+5. **Causal localization.** Manipulating/removing/replacing candidate M changes the later update dynamics as predicted, when technically possible.
+6. **Confound tracking.** Retrieval content, explicit instructions, model/runtime version, external objective changes and stochasticity are separated or recorded.
+7. **No progress assumption.** Changed plasticity may improve adaptation, specialize it, reduce it or cause lock-in; second-order change is descriptive, not automatically beneficial.
+
+## Saturation check B3
+
+Targeted deep work now covers every required B3 branch:
+- personality state→trajectory transitions;
+- gradual vs nonlinear/discontinuous forms;
+- human psychological meta-learning;
+- biological metaplasticity as source-domain example;
+- substrate-neutral second-order formulation;
+- ML meta-learning/update-rule change and loss of plasticity;
+- fixed-weight/context/external-memory adaptation;
+- continuity under lower-level representational turnover;
+- evidence criteria distinguishing content change from altered future responsiveness.
+
+Additional search is now returning variations inside these classes rather than a missing causal class. **B3 reaches saturation at principle-space level. B4 is not started here.**
