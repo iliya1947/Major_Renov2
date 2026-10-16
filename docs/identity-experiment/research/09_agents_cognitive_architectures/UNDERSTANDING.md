@@ -675,3 +675,66 @@ The developmentally important loop is:
 
 **B4 завершена по saturation.**
 
+## 57. Delayed consequence begins as a causal hypothesis
+
+B5 rejects direct conversion:
+
+later outcome → lesson about earlier action.
+
+The intermediate object is a **revisable causal-credit hypothesis**. Delay, mediation, competing causes, partial observability and stochasticity all make the attribution uncertain.
+
+## 58. Temporal order is necessary in many cases but not sufficient
+
+“X happened before Y” can nominate X as a candidate cause. It cannot establish that X materially produced Y.
+
+This matters especially in natural dialogue because user responses and environment changes occur between participant choice and later consequence.
+
+## 59. Credit and significance are different questions
+
+RL assumes a reward/return objective and distributes credit relative to it.
+
+Our experiment has no scalar “good individuality” reward.
+
+So B5 asks only which earlier choices plausibly contributed to an observed consequence. B1 separately asks whether that evidence warrants durable update.
+
+## 60. Multi-causal credit must remain decomposable
+
+A later outcome can involve direct, mediated, enabling, joint, competing and exogenous contributions.
+
+Forcing one cause into a narrative destroys exactly the uncertainty needed for later revision.
+
+## 61. Counterfactual credit is baseline-dependent
+
+“What if I had acted differently?” requires specifying what “differently” means.
+
+Recent causal credit work shows that changing the baseline policy changes the credit story. In a natural conversation the counterfactual usually cannot be rerun, so the baseline assumption itself must remain visible rather than disappear into a confident conclusion.
+
+## 62. Hindsight is a proposal generator, not a causal oracle
+
+LLM self-explanation can propose candidate causal links and counterfactuals, but current evidence on explanation faithfulness and self-reflection rules out treating generated retrospective narratives as ground truth.
+
+## 63. Scope of revision should follow scope of causal support
+
+- episode-specific evidence → local revision;
+- supported recurrent/mechanistic structure → possible broader strategy revision;
+- ambiguous causal credit → no durable revision yet.
+
+This prevents one lucky success or unlucky failure from rewriting a whole strategy.
+
+## 64. First B5 synthesis
+
+The developmental loop needs an explicit causal bridge:
+
+choice → downstream trajectory → observed consequence
+does **not** directly become
+choice → acquired lesson.
+
+Instead:
+
+choice/conditions → downstream trajectory → consequence
+→ causal-credit hypothesis with alternatives and uncertainty
+→ evidence-sensitive revision (or no-update)
+→ later choice.
+
+**B5 НЕ завершена.**
+
