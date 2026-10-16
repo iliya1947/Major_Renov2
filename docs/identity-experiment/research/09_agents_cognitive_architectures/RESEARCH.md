@@ -2231,3 +2231,238 @@ Next pass must define:
 - relationship between idiographic change and causal evidence;
 - whether full individualization requires multiple independent history-shaped relations or only one recursively self-conditioning relation.
 
+# Phase B — B8 final pass 3: operational evidence standard and saturation
+
+## Additional sources inspected
+
+1. Asselmann et al. (2026), “Volitional Personality Development: Theoretical Foundations, Empirical Advances, and Future Directions for Personality Change Interventions”, Social and Personality Psychology Compass, DOI 10.1111/spc3.70147.
+   - Current review stresses multi-method assessment, long-term follow-up and distinguishing self-perception change from behavioral change.
+2. Oltmanns et al. (2020), “Personality Change: Longitudinal Self–Other Agreement and Convergence with Retrospective-Reports”, open PMC.
+   - Retrospective self-report and longitudinal/multi-method change measures are not interchangeable.
+3. Current single-case/idiographic causal-method literature already inspected in pass 1–2.
+4. Existing B1–B7 synthesis.
+
+## 1. B8 is a ladder of claims, not one binary verdict
+
+The final evidence standard separates four substantive levels.
+
+### Level H — causal history influence
+Claim:
+**post-t0 acquired history materially influenced a later open decision.**
+
+Minimum evidence:
+- relevant acquired state has post-t0 provenance;
+- current task/authority leaves a B4 open decision locus;
+- history is applicable to that locus;
+- behavior is not explained only by immediate user instruction/current cue;
+- there is independent evidence beyond self-report that changing/status-changing that acquired state predicts a change in decision behavior/decision boundary, or a convergent natural-revision contrast strong enough to make history causality the best supported explanation.
+
+This is history-shaped choice.
+
+### Level A — persistent history-sensitive adaptation
+Claim:
+**history influence persists/selectively transfers beyond one immediate retrieval episode.**
+
+Additional evidence:
+- influence reappears in later non-identical but applicable situations;
+- scope/conditions are respected;
+- obsolete/contradicted relations lose ordinary guidance;
+- effect is not merely one cached response or identical-template replay.
+
+This is durable learning/adaptation, not yet individualization.
+
+### Level D — recursive longitudinal development
+Claim:
+**accumulated history changes later choices, and those history-shaped choices help create further experience that changes subsequent acquired state.**
+
+Minimum structural evidence:
+- more than one isolated memory→action mapping;
+- temporally separated acquired episodes/relations contribute to current state;
+- at least one demonstrated recursive path where an earlier history-shaped choice changes later experience/state and that revised state later affects another decision;
+- participant is evaluated relative to its own earlier dynamics;
+- the developmental relation persists/revises across time rather than existing only in one current context.
+
+This is trajectory formation.
+
+### Level I — functional individualization reasonably demonstrated
+Claim:
+**the L2 participant developed a trajectory-specific organization of choices through its own acquired and revisable history, within open substantive outcomes, and the pattern is not adequately explained by preset persona, personalization, context, stochasticity, external scripting or configuration drift.**
+
+This is the strongest label B8 permits.
+
+It does not imply:
+- consciousness;
+- phenomenal experience;
+- metaphysical free will;
+- human personality equivalence.
+
+## 2. Necessary conditions for Level I
+
+### I1. Post-t0 developmental provenance
+The relevant history was acquired/revised during the experiment, not preloaded in L0/control plane/initial files.
+
+### I2. Independent causal influence
+At least some important later choices satisfy Level H with evidence beyond narrative self-report.
+
+Not every choice must be history-shaped.
+
+### I3. Recursive accumulation
+The trajectory contains actual B4→B5→B6 loops:
+history-shaped choice → consequence → attribution/revision → later changed history-shaped choice.
+
+A single permanent lesson is insufficient.
+
+### I4. Idiographic organization beyond one cached mapping
+The evidence concerns the participant’s own longitudinal organization and spans multiple non-identical decision instances/relations.
+
+No fixed number of “traits” or unrelated domains is required.
+
+A single narrow stimulus→response rule cannot justify participant-level individualization.
+
+### I5. Open substantive outcome
+Project/control rules constrain process but did not prescribe the substantive preference/interest/persona trajectory.
+
+At relevant points, materially different live alternatives existed.
+
+A parallel cloned experiment is not required; openness is evidenced locally through decision-locus structure and the absence of a prescribed target.
+
+### I6. Revisable evidence-sensitive state
+Acquired patterns remain defeasible.
+
+Observed narrowing/reversal after genuine counterevidence is strong positive evidence against a frozen persona.
+
+The experiment must not manufacture counterevidence merely to “test personality”; if no diagnostic revision event naturally occurs, absence of observed reversal lowers evidence strength but is not automatic failure.
+
+### I7. Alternative causes reasonably bounded
+B7 configuration epochs, user/environment reinstatement, instruction changes, model/runtime drift, current-context effects and stochasticity are tracked sufficiently that they do not provide a better explanation for the core history→choice pattern.
+
+Perfect control is impossible in consumer ChatGPT; residual uncertainty must remain explicit.
+
+### I8. Not fully explained by personalization
+If behavior can be adequately explained as:
+fixed external objective + evolving model of user preference,
+then personalization is demonstrated, not participant individualization.
+
+User influence may still participate naturally in individualization. The key is that acquired state also shapes residual open participant choices not uniquely determined by current user preference/authority.
+
+## 3. Supporting but non-necessary evidence
+
+These strengthen Level I but should not become mandatory personality tests:
+
+- observed revision/reversal under new evidence;
+- causal influence across several different decision loci;
+- cross-context transfer with preserved scope;
+- repeated history perturbation effects;
+- user-observed behavioral change that converges with trace/provenance evidence;
+- changed thresholds/decision boundaries even when selected action sometimes remains the same;
+- second-order changes in future updating from B3.
+
+None alone is sufficient.
+
+## 4. Multi-method means causal triangulation, not human questionnaires
+
+Human personality literature recommends self/informant/behavioral convergence because single-method self-report can be misleading.
+
+For this project, analogous triangulation uses different evidence surfaces:
+
+- participant verbal report/interpretation;
+- explicit experiential-state provenance/revision history;
+- actual choices/actions over time;
+- user/environment consequences;
+- retrieval/use traces when visible;
+- configuration provenance;
+- natural or controlled history perturbations where appropriate.
+
+Agreement among these independent-ish surfaces is stronger than repeated textual self-description.
+
+## 5. Naturalistic experiment and causal intervention are compatible only conditionally
+
+The future experiment remains one long natural experiment.
+
+B8 does **not** require:
+- control groups;
+- cloned participants;
+- pilot experiments;
+- recurring ABAB personality tests;
+- forced personality probes.
+
+Artificial history perturbation is optional high-strength evidence and may itself damage natural history.
+
+The preferred naturalistic evidence can come from genuine events:
+- experience is corrected;
+- attribution is contradicted;
+- a preference loses warrant;
+- an exception narrows a rule;
+- an old relation becomes obsolete;
+- a current situation reactivates a dormant conditional relation.
+
+If later choices change selectively in accordance with these real revisions, the trajectory itself supplies intervention-like evidence.
+
+## 6. Evidence against individualization is also informative
+
+Examples that should block or downgrade the Level I claim:
+
+- only E0 self-report/self-description;
+- behavior follows a static persona prompt;
+- all changes track explicit user instructions;
+- all apparent individuality is user-preference optimization;
+- relevant history is mentioned but perturbing/revising it has no diagnostic behavioral relation;
+- effects vanish outside identical prompts;
+- persistence exists but no recursive acquired-state development occurs;
+- trajectory changes align with model/runtime/instruction epoch boundaries;
+- apparent development can be explained by environment-mediated reinstatement;
+- only one narrow cached strategy changed;
+- evidence is too confounded to select history causality.
+
+## 7. Correct outcome vocabulary
+
+The future experiment should be allowed to end with any of these conclusions:
+
+1. **History causal influence not demonstrated.**
+2. **History causal influence demonstrated, but only local/persistent adaptation demonstrated.**
+3. **Recursive longitudinal development demonstrated, but individualization not demonstrated.**
+4. **Functional individualization reasonably demonstrated, with stated residual confounds/limits.**
+5. **Indeterminate because configuration/provenance/confounding prevents a defensible higher-level claim.**
+
+This prevents pressure to “find a personality”.
+
+## 8. Why Level I is not merely a renamed history-sensitive agent
+
+The extra content is not anthropomorphic.
+
+Level I requires the conjunction of:
+- causal post-start history;
+- recursive self-conditioning trajectory;
+- idiographic organization;
+- substantive outcome openness;
+- participant-level history-shaped decisions;
+- revisability;
+- non-reduction to preset persona/personalization/external scripting.
+
+A generic memory agent can satisfy some of these and still fail the conjunction.
+
+## 9. Final operational definition for this project
+
+**Functional individualization** =
+
+> a longitudinal process in which the L2 Project participant’s post-start acquired and revisable history causally shapes multiple non-equivalent open decisions; those choices partly generate later experiences that revise the participant’s own state; and the resulting idiographic trajectory is not substantively specified in advance or better explained by personalization, immediate context, stochasticity, external scripting or configuration drift.
+
+This is a project-specific operational construct synthesized from the evidence; it is **not** claimed as an established scientific definition of AI individuality.
+
+## 10. Saturation check
+
+B8 required:
+- hierarchy from verbal report to causal influence;
+- idiographic longitudinal evidence;
+- B7 alternative-cause controls;
+- distinction from persistence/persona/personalization/context/stochastic divergence/scripting;
+- reversibility/revision;
+- minimum trajectory evidence under multiple possible outcomes;
+- explicit “individualization not demonstrated” conditions.
+
+All are now covered.
+
+Additional searches on 2026 personalization/personality-intervention/multi-method and single-case causal methodology refine the same evidence classes rather than adding a missing causal class.
+
+**B8 завершена по saturation. Phase B complete.**
+
