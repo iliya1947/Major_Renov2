@@ -467,3 +467,47 @@ Current cross-domain candidate:
 This is still only a conceptual candidate. B2 must test whether single-event strategic shifts and many-episode abstractions fit without forcing artificial granularity.
 
 **B2 НЕ завершена.**
+
+## 37. Финальный B2 lifecycle synthesis
+
+B2 engineering evidence converges on four requirements rather than one memory-object recipe:
+
+1. preserve episode/source evidence;
+2. allow derived abstractions/interpretations;
+3. bind abstractions back to provenance and scope;
+4. let current action authority change independently of historical existence.
+
+### Important non-equivalences
+
+`stored ≠ current`
+`retrievable ≠ applicable`
+`similar ≠ context-compatible`
+`past success ≠ permanently valid`
+`reflection ≠ evidence`
+`obsolete ≠ historically nonexistent`
+
+These distinctions explain why append-only retrieval, coarse summarization and unconditional experience-following fail under changing contexts.
+
+### Engineering-neutral lifecycle
+
+Rather than selecting a final state machine, B2 leaves a conceptual transition space:
+
+- new evidence can propose a candidate interpretation;
+- supporting evidence can increase warrant and permit action-guidance;
+- counterevidence can narrow scope or create context-specific alternatives;
+- unresolved conflict can suspend ordinary authority without deleting history;
+- changed world/state can make an earlier valid understanding stale;
+- a superseded understanding can become historical-only;
+- later evidence can reactivate or reformulate it.
+
+Any future implementation may encode this differently, but it must preserve event/interpretation separation and revision lineage.
+
+## 38. B2 handoff
+
+The package yields a conceptual lifecycle, not a memory architecture:
+
+**episode/trajectory evidence ↔ revisable conditional understanding ↔ current action-guidance, with provenance and revision lineage retained across changes.**
+
+This is sufficient for B2. Questions about how such changes accumulate across timescales and alter future changeability belong to B3.
+
+**B2 завершена по saturation.**
