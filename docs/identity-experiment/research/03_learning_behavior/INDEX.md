@@ -338,3 +338,8 @@
 A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры и полноты карты; глубокое сравнение learning mechanisms относится к фазе B.
 
 **Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №4 «Мотивация, эмоции и интересы»**.
+
+
+## Phase B status
+
+**B1 gaps 6+7 завершена 16.10.2026 по saturation.** Роль №3: legitimate no-update / evidence-sensitive durable revision. Итог: no-update — first-class warranted outcome; update зависит от diagnosticity, provenance/reliability, evidence dependence, uncertainty и alternatives, а не от surprise/intensity/repetition count. Подробности: RESEARCH и UNDERSTANDING. Следующий общий пакет: B2.
