@@ -349,3 +349,71 @@ Exact causal evidence that history affected a choice remains B8.
 
 **B6 НЕ завершена.**
 
+# Phase B — B7 deep pass 1: elicitation vs conditioning vs acquisition
+
+## Sources inspected
+
+1. Dong et al. (EMNLP 2024), “A Survey on In-context Learning”, DOI 10.18653/v1/2024.emnlp-main.64.
+2. Lee et al. (NAACL Findings 2024), “Crafting In-context Examples according to LMs’ Parametric Knowledge”, DOI 10.18653/v1/2024.findings-naacl.133.
+3. Cywiński et al. (2025), “Towards eliciting latent knowledge from LLMs with mechanistic interpretability”, arXiv:2505.14352.
+4. Park et al. (2026), “MechELK”, arXiv:2605.28825.
+5. Existing B3 fixed-weight adaptation results in this repository.
+
+## 1. First observation time is not acquisition time
+
+LLMs can possess parametric knowledge/capabilities that are not expressed under every prompt.
+
+Different demonstrations, prompts or steering can surface behavior without modifying model weights.
+
+Therefore:
+**behavior first observed at time t > 0 does not establish behavior acquired at time t.**
+
+It may be elicitation of a pre-existing baseline capability/disposition.
+
+## 2. Three mechanisms must be separated
+
+### A. Baseline elicitation
+A current prompt/context reveals a capability, tendency or knowledge already present in L0.
+
+No durable post-start state change is required.
+
+### B. Transient current-context conditioning
+New text/examples alter behavior while present in the active context or retrieved turn context.
+
+The effect may disappear when that context is removed and need not represent persistent acquisition.
+
+### C. Persistent project-level acquisition
+Post-t0 interaction changes persistent Project-level experiential state, and that changed state later affects behavior in another relevant context/turn.
+
+This can occur with fixed model weights if persistent external/project state is part of the L2 participant boundary.
+
+## 3. Parameter change is neither necessary nor sufficient for the project claim
+
+Not necessary:
+B3 already established that fixed weights plus persistent state can support history-dependent adaptation.
+
+Not sufficient:
+provider retraining/model replacement can change weights/behavior without any participant experience.
+
+Thus “weights changed” and “participant developed” are different causal claims.
+
+## 4. Prompt-following can imitate development
+
+Examples:
+- user says “be more skeptical from now on” and later skepticism appears;
+- an old chat containing a style pattern is automatically retrieved;
+- Project instructions are edited to encourage initiative;
+- a new prompt simply elicits a latent baseline capability.
+
+All can create later behavioral difference without acquired experiential development.
+
+B7 labels these as alternative causes to be separated, not as evidence against the possibility of development.
+
+## 5. Candidate persistence boundary
+
+For B7, a change is at least eligible to count as acquisition only if it is carried by post-t0 persistent participant state rather than solely by the immediate eliciting cue.
+
+Whether that state actually caused a later choice is B8.
+
+**B7 НЕ завершена.**
+
