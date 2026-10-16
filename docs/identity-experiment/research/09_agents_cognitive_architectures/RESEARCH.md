@@ -361,3 +361,90 @@ https://aclanthology.org/2026.acl-long.1260/
 - safety effects of persistent personalization
 
 не выявил новой крупной agent/cognitive-architecture branch beyond A1. Новое содержательно связывает уже найденные branches into **a lifecycle and causal-evidence problem**, что позволяет финализировать карту №9.
+
+# Phase B — B2: agent-side trajectory → abstraction → revisable experience
+
+**Статус 16.10.2026:** первый глубокий B2-проход на engineering side. B2 НЕ завершена.
+
+## Реально просмотренные источники B2
+
+### Luo et al. (Findings ACL 2026) — From Storage to Experience
+https://aclanthology.org/2026.findings-acl.2069/
+
+**Фактически просмотрено:** ACL abstract/framework page и formal high-level staging.
+
+Survey explicitly separates:
+- Storage = trajectory preservation;
+- Reflection = trajectory refinement;
+- Experience = trajectory abstraction.
+
+**B2-результат:** contemporary agent literature itself no longer treats stored trajectory and reusable experience as identical. Но это taxonomy of engineering approaches, не доказательство, что reflection/abstraction истинны или корректны.
+
+### Zhao et al. (AAAI 2024) — ExpeL: LLM Agents Are Experiential Learners
+https://ojs.aaai.org/index.php/AAAI/article/view/29936
+
+**Фактически просмотрено:** peer-reviewed abstract/metadata в текущем проходе.
+
+ExpeL gathers task experiences, extracts natural-language insights, then retrieves both insights and past experiences later.
+
+**B2-результат:** useful engineering distinction between example episode and extracted cross-task insight. Но insight extraction уже является model-generated interpretation; без provenance/contradiction handling она не становится ground-truth lesson.
+
+### Shinn et al. (NeurIPS 2023) — Reflexion
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html
+
+**Фактически просмотрено:** peer-reviewed abstract; ранее B1 отдельно проверяла literature on self-correction limitations.
+
+Reflexion stores generated verbal reflection in an episodic memory buffer after task feedback.
+
+**B2-результат:** architecture demonstrates behavioral utility of derived reflection, but also illustrates category collapse risk: generated reflection is stored as memory and can influence future actions even though reflection is an inference about the trajectory, not the trajectory itself.
+
+### Uddin et al. (Findings ACL 2026) — From Recall to Forgetting / Memora
+https://aclanthology.org/2026.findings-acl.1337/
+
+**Фактически просмотрено:** ACL abstract/framework and benchmark result summary.
+
+Agents frequently reuse obsolete/invalidated memory and fail to reconcile evolving memory. FAMA explicitly penalizes dependence on invalidated memory.
+
+**B2-результат:** append-only persistence and simple retrieval are empirically insufficient for evolving long-term state. Lifecycle must represent not merely presence/absence, but whether information remains current/action-guiding.
+
+## Первый engineering synthesis B2
+
+Минимальное conceptual separation, которое выдерживает human + agent evidence:
+
+trajectory/event evidence
+≠ model-generated interpretation/reflection
+≠ cross-episode reusable abstraction
+≠ current action-guiding status.
+
+Если эти уровни collapse into one text blob:
+- hallucinated causal attribution can become historical «fact»;
+- abstraction may erase exceptions;
+- invalidated knowledge can remain retrieved;
+- later revision cannot tell whether it contradicts observation or only an old interpretation.
+
+## Provenance requirement appears causal, not clerical
+
+Для B2 provenance нужна не ради audit trail alone. Она решает causal problem:
+
+- derived understanding должно оставаться связуемым с supporting episodes;
+- later contradiction должно быть способно изменить derivative without falsifying original historical occurrence;
+- confidence/scope должны зависеть от source evidence rather than fluency of generated lesson;
+- obsolete interpretation can stop guiding behavior while episode remains part of history.
+
+Точный data structure B2 пока НЕ проектирует.
+
+## Первый candidate acquired-experience relation
+
+После первого прохода рабочая гипотеза такая:
+
+**Приобретённый опыт — не отдельный episode и не отдельный lesson, а revisable relation между episode-level evidence и derived conditional understanding, которое имеет provenance, scope и текущий epistemic/action status.**
+
+Это собственный conceptual synthesis проекта и пока только candidate. Следующий B2-проход должен попытаться его сломать:
+- single episode that genuinely changes general strategy;
+- conflicting episodes;
+- exceptions;
+- causal attribution later disproved;
+- old interpretation historically important but currently false;
+- abstraction supported by many episodes but no single decisive source.
+
+**B2 НЕ завершена.**
