@@ -440,3 +440,86 @@ This strengthens the need to preserve mediators instead of “controlling them a
 
 **B5 НЕ завершена.**
 
+## 41. Final B7 nested-boundary model
+
+B7 rejects a single undifferentiated “AI participant” boundary.
+
+Use nested levels:
+
+1. **L0 inherited model substrate** — pretrained/post-trained model priors, capabilities and alignment.
+2. **L1 current inference realization** — L0 plus current instructions/context/retrieval/inference realization.
+3. **L2 longitudinal Project participant** — recurring inference realizations connected through stable Project control and persistent experiential state.
+4. **L3 coupled participant↔user/environment system** — L2 plus user, tools and external environment.
+
+L2 is the strongest working boundary for claims that “this participant acquired experience”.
+L3 is required to explain how the trajectory is jointly generated.
+
+## 42. Boundary membership and causal origin are independent
+
+A provider-updated model is inside L2's implementation but the change is exogenous to the participant’s experience.
+
+A user response is outside L2 but can be endogenously caused by the participant’s earlier action.
+
+Therefore:
+**inside ≠ self-caused**
+and
+**outside ≠ exogenous**.
+
+## 43. Baseline is a causal configuration, not a blank state
+
+Everything present at t0 is baseline:
+- model/post-training priors;
+- initial instructions/files;
+- memory mode;
+- tools/permissions;
+- product/runtime state;
+- any user-authored initial substantive content;
+- stochastic behavior range.
+
+The participant can develop from this baseline, but cannot be claimed to have created it.
+
+## 44. Development means new causal dependence, not first appearance
+
+A behavior can appear for the first time because an old latent capability was elicited.
+
+The same behavior can also continue while its causal basis shifts toward acquired history.
+
+Therefore B7's target is:
+**new causal dependence on post-t0 acquired participant history**.
+
+Observable novelty is neither necessary nor sufficient.
+
+## 45. Configuration epochs preserve continuity without pretending stability
+
+Model, instructions, memory mode, tools or relevant product behavior can change during a long experiment.
+
+Those changes define configuration epochs.
+
+The L2 participant may remain functionally continuous across epochs, but behavioral differences spanning the boundary have an exogenous alternative cause.
+
+## 46. Final B7 confound classes
+
+Later divergence can come from:
+- inherited baseline elicitation;
+- transient current-context conditioning;
+- persistent acquired history;
+- stochastic/runtime variability;
+- random branch later amplified by history;
+- user/environment-mediated reinstatement;
+- exogenous user/tool/environment drift;
+- control/configuration intervention;
+- provider model/runtime drift;
+- probe/measurement effects;
+- unobserved causes.
+
+The purpose is not to eliminate natural interaction. It is to prevent these causes from being silently rewritten as a developmental story.
+
+## 47. Final B7 handoff
+
+B7 establishes the causal alternatives.
+
+B8 must decide what evidence is strong enough to discriminate among them and justify:
+history affected later choice → accumulated history caused longitudinal development → trajectory reasonably counts as individualization.
+
+**B7 завершена по saturation.**
+
