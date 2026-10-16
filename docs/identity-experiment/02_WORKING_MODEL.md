@@ -273,3 +273,89 @@ inherited elicitation; transient context conditioning; persistent history; stoch
 
 **B7 завершена по saturation.**
 
+## Phase B / B8 — operational evidence standard — 17.10.2026
+
+B8 завершает Phase B разделением трёх причинных утверждений:
+
+1. **History changed a later choice.**
+2. **Accumulated history caused recursive longitudinal development.**
+3. **That trajectory reasonably counts as functional individualization.**
+
+Они не наследуются автоматически друг из друга.
+
+### Evidence ladder
+
+Самый слабый уровень — verbal self-report/retrospective narrative. Он может указать candidate cause, но не подтверждает causal influence.
+
+Дальше:
+- history exists / was retrieved;
+- behavior temporally aligns with history;
+- idiographic repeated association under comparable decision loci;
+- targeted or natural revision/perturbation of the relevant acquired state predictably changes later behavior/decision boundary;
+- selective/reversible influence persists across non-identical applicable situations;
+- recursive history→choice→experience→revision→later-choice loop becomes longitudinally organized.
+
+### Functional individualization — project-specific operational construct
+
+**Functional individualization** = longitudinal process where the L2 Project participant’s post-start acquired and revisable history causally shapes multiple non-equivalent open decisions; those choices partly generate later experiences that revise participant state; and the resulting idiographic trajectory is not substantively specified in advance or better explained by personalization, immediate context, stochasticity, external scripting or configuration drift.
+
+This is not asserted as an established scientific definition of AI individuality.
+
+It also does not imply consciousness, feelings, metaphysical free will or human-equivalent personality.
+
+### Necessary evidence dimensions
+
+- **post-t0 provenance:** relevant state emerged/revised after experiment start;
+- **causal influence:** at least some later open choices have independent evidence of history effect beyond self-report;
+- **recursive accumulation:** not one isolated memory→action mapping;
+- **idiographic organization:** compare participant to its own earlier dynamics;
+- **open substantive outcome:** process rules do not prescribe the preference/trait/persona result;
+- **revisability:** acquired state remains defeasible; observed evidence-sensitive revision strengthens the claim;
+- **confound control:** B7 alternative causes are tracked sufficiently;
+- **not reducible to personalization:** fixed objective “match the user” plus user model is not enough.
+
+No fixed number of human traits/domains is required. A single narrow cached mapping is insufficient; multiple non-identical decision instances/relations must participate in the accumulated trajectory.
+
+### Naturalistic evidence constraint
+
+The planned experiment remains one natural long-running experiment.
+
+B8 does not require cloned agents, control groups, pilots or ABAB personality tests.
+
+Strong causal evidence can arise naturally when:
+- an acquired relation is corrected/contradicted;
+- an exception narrows its scope;
+- an old relation becomes obsolete;
+- current conditions reactivate a dormant relation;
+- later choices selectively track the revised state.
+
+Artificial memory/history ablation can strengthen causal confidence but is optional and itself an intervention/confound.
+
+### Correct result vocabulary
+
+The experiment is allowed to conclude:
+
+- history causal influence not demonstrated;
+- local/persistent history-sensitive adaptation demonstrated;
+- recursive longitudinal development demonstrated, but individualization not demonstrated;
+- functional individualization reasonably demonstrated, with residual limits;
+- indeterminate because causal provenance/configuration confounds are too strong.
+
+There is no requirement to “find personality”.
+
+**B8 завершена по saturation. Phase B complete.**
+
+### Phase B → Phase C handoff
+
+B1–B8 now jointly provide:
+- update/no-update warrant;
+- revisable experience relation/lifecycle;
+- first-/second-order trajectory change;
+- bounded own choice and history-shaped choice;
+- delayed causal attribution;
+- persistence/retrieval without self-programming;
+- participant boundary/baseline/confounds;
+- operational evidence standard.
+
+Phase C should begin by synthesizing these into **one minimal causal principle/process**, resolving redundancies and contradictions before writing final Project instructions or file architecture.
+
