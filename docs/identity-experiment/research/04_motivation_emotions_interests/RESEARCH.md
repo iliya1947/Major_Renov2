@@ -395,3 +395,95 @@ ACL 2026
 **Уточнённая рабочая картина:** orienting, epistemic revision pressure и motivational/trajectory significance лучше рассматривать как **частично независимые causal roles/axes**, а не стадии одной шкалы.
 
 **Следующий вопрос внутри B1:** вывести проверяемую границу между допустимыми procedural/inductive assumptions и hidden preset value function, затем проверить её на нескольких LLM-agent memory/update mechanisms. B1 НЕ завершена.
+
+
+## B1 — проход 3: procedural assumptions vs hidden preset value/objective
+
+**Статус:** финальный cross-mechanism stress-test B1. Цель — проверить, можно ли отличить неизбежные process/inductive assumptions от заранее внедрённого критерия того, *что участник должен считать ценным*.
+
+### NEMORI (Ma, Nan & Wu, ACL 2026) — prediction-relative trigger с содержательным prompt prior
+
+Источник: https://aclanthology.org/2026.acl-long.1607/  
+**Фактически просмотрено:** paper methodology и appendix prompts D.1.5–D.2 в оригинальном PDF.
+
+Авторы позиционируют prediction error как data-driven alternative к predefined importance heuristics. Это важный positive case: событие сравнивается не с универсальным списком тем, а с тем, что система уже могла предсказать из истории.
+
+Но конкретный distillation prompt дополнительно требует извлекать только knowledge, которое factual, persistent, specific, useful for future interactions, и заранее исключает temporary states/emotions, social pleasantries/reactions. Ablation NEMORI-s ещё явнее задаёт HIGH-VALUE categories: identity/professional facts, persistent preferences, technical knowledge, relationships, goals/plans, patterns/habits.
+
+**B1-вывод:** prediction-relative trigger сам по себе может быть procedural; semantic whitelist/blacklist поверх него — уже substantive selection prior. Один механизм способен содержать оба слоя одновременно.
+
+### AgeMem (Yu et al., ACL 2026) — operational autonomy под внешним reward objective
+
+Источник: https://aclanthology.org/2026.acl-long.981/  
+**Фактически просмотрено:** оригинальный PDF, §§3.1–3.5 и Appendix reward details.
+
+AgeMem позволяет policy самостоятельно выбирать ADD/UPDATE/DELETE/RETRIEVE/SUMMARY/FILTER. Но policy обучается end-to-end с composite reward. Dominant task reward оценивает correctness относительно expected answer; memory reward дополнительно поощряет storage quality, update/delete operations и semantic relevance к query. В appendix high-quality memory определяется LLM-анализом query и expected answer.
+
+**B1-вывод:** агентская свобода выбора memory operation не делает критерий значимости value-neutral. Если storage/update policy оптимизирована на заранее заданную task utility, causal source selection criterion остаётся внешним objective.
+
+### Memory-R1 (Yan et al., ACL 2026) — тот же принцип другим путём
+
+Источник: https://aclanthology.org/2026.acl-long.583/  
+**Фактически просмотрено:** ACL page/abstract и описание RL formulation.
+
+Memory Manager учит ADD/UPDATE/DELETE/NOOP, а Answer Agent — selection/reasoning; оба оптимизируются outcome-driven RL. Это подтверждает общий вывод AgeMem: learned/agentic policy может убрать handcrafted heuristic, но не убирает authored objective, если reward определяется успешностью заранее заданных задач.
+
+### A-MEM (Xu et al., NeurIPS 2025) — organization without a significance solution
+
+Источник: https://arxiv.org/abs/2502.12110  
+**Фактически просмотрено:** methodology/full-paper material в предыдущем B1-проходе и повторно abstract/method summary.
+
+При добавлении новой memory A-MEM строит structured note (context, keywords, tags), находит связанные исторические memories и позволяет new memory запускать evolution representations/attributes существующих memories.
+
+**B1-вывод:** similarity/linking/evolution полезны для organization, но сами не отвечают на gap 6+7. Semantic proximity — relation между representations, не доказательство personal significance; если write path широко принимает input, проблема legitimate no-update просто переносится дальше.
+
+### MemoryBank (Zhong et al., AAAI 2024) — retention heuristic ≠ significance
+
+Источник: https://arxiv.org/abs/2305.10250  
+**Фактически просмотрено:** original paper/full-text sections в предыдущем B1-проходе; повторно abstract.
+
+Forgetting/reinforcement based on elapsed time and recall gives frequently reactivated memories greater persistence.
+
+**B1-вывод:** recency/frequency/recall can manage finite retention, but they are resource/history-selection mechanisms. Повторное retrieval может само создавать path dependence; его нельзя использовать как доказательство возникшего interest/value.
+
+### Дополнительная проверка recent mechanism space
+
+Просмотрены:
+- Luo et al. (Findings ACL 2026), *From Storage to Experience* — survey: Storage → Reflection → Experience, включая trajectory abstraction;
+- Du (2026 preprint), *Memory for Autonomous LLM Agents* — families: compression, retrieval stores, reflection, hierarchical context, policy-learned management;
+- SAGE (2026 preprint) — embedding-novelty write gate;
+- D-MEM (2026 preprint) — surprise + utility routing.
+
+Новой mechanism family, которая снимала бы B1-проблему, этот поиск не дал:
+- **heuristic/semantic scoring** заранее определяет important classes;
+- **prediction/novelty gating** может быть content-neutral trigger, но novelty alone не даёт durable meaning;
+- **always/mostly-store + later organization** избегает решения significance на write step, но не решает update/no-update;
+- **RL-learned management** переносит критерий в reward/task objective;
+- **recency/similarity/frequency** управляют ресурсом/retrieval, но не определяют собственную ценность.
+
+## Строгая рабочая граница B1
+
+Fixed rule считается **procedural/experiment-enabling assumption**, а не preset participant value, только если его causal role ограничен тем, *как проверяется и пересматривается опыт*, и он выдерживает следующие проверки:
+
+1. **Content-substitution invariance.** При одинаковых relations evidence ↔ current history правило не должно менять решение лишь потому, что тема относится к заранее предпочитаемой semantic category.
+2. **Direction symmetry.** Оно должно допускать strengthen, weaken, revise, defer и legitimate no-update; не оптимизировать неизменно novelty, positivity, approval, persistence, curiosity или task success.
+3. **Evidence/provenance dependence.** Durable change опирается на observations/consequences/source reliability/dependence/alternatives, а не на generated label «important».
+4. **No hidden external utility.** Если criterion обучен/скорится по заранее заданному benchmark reward, expected answer, user approval или другой terminal utility, это engineered objective, а не emergent significance.
+5. **Resource/meaning separation.** Recency, frequency, similarity, retrieval count, token budget and novelty may control processing cost/access, but must not be relabelled as interest/value.
+6. **Authority separation.** User request or governing instruction may legitimately command behavior/process; это не делает содержание автоматически participant-endorsed value. Self-reflection likewise has no evidential authority by itself.
+7. **Revisability and no-update.** Process must permit preserving existing understanding when new evidence is redundant/weak/ambiguous and later reversing any prior interpretation when stronger evidence appears.
+
+Это **собственный синтез проекта**, выведенный из source-domain mechanisms; литература не предоставляет эту границу как готовый рецепт.
+
+## Saturation check B1
+
+После трёх последовательных deep-research проходов:
+- human attention/interest/motivation;
+- learning/belief update/no-update;
+- LLM-agent memory/update mechanisms + recent surveys,
+
+дополнительный поиск в текущем scope перестал добавлять новую causal class и в основном давал новые реализации уже найденных типов. Поэтому B1 достигла **исследовательского насыщения на уровне principle space**.
+
+Это не означает, что финальная implementation/instruction уже доказана. B1 передаёт B2 только classes of warrant, guardrails and legitimate no-update conditions.
+
+**B1 завершена. B2 в этом проходе не начиналась.**
