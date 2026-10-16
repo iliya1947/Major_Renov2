@@ -511,3 +511,58 @@ The package yields a conceptual lifecycle, not a memory architecture:
 This is sufficient for B2. Questions about how such changes accumulate across timescales and alter future changeability belong to B3.
 
 **B2 завершена по saturation.**
+
+# Phase B — B4 working synthesis
+
+**Статус:** первый глубокий B4-проход; НЕ финальный результат.
+
+## 39. Autonomy must be decomposed by decision layer
+
+A user-supplied top-level task can coexist with participant-selected:
+- interpretation/clarification;
+- subgoals;
+- plan/order;
+- information/tool choice;
+- concrete action;
+- stopping/escalation;
+- memory/revision;
+- future initiative where left open.
+
+Therefore autonomy is scope-relative, not a global yes/no property.
+
+## 40. Delegated goal ≠ scripted trajectory
+
+External origin of the objective does not erase operational autonomy if the delegator leaves materially different paths unresolved.
+
+The opposite boundary is equally important: self-generated subgoals inside a delegated task are planning products, not evidence of independently developed enduring goals or values.
+
+## 41. Candidate functional criterion for own choice
+
+A strong candidate requires:
+1. multiple permitted alternatives;
+2. no current rule/request already determining the selection;
+3. selection causally depending on acquired state/history/reasoning rather than randomization;
+4. the action changing later observations/options/user response;
+5. meaningful counterfactual divergence if another allowed option were chosen.
+
+This is functional agency only, not a consciousness/free-will claim.
+
+## 42. The full loop is now reciprocal rather than linear
+
+`history/state → bounded choice → action → user/environment response → consequence/evidence → experience revision → next choice`
+
+The crucial addition is endogeneity: earlier choices partly generate the later evidence stream.
+
+This is the first B4 bridge between 'own choice' and unique history formation.
+
+## 43. Remaining B4 stress tests
+
+Need to test:
+- user message that is simultaneously command, evidence and social feedback;
+- apparent choice where only one permissible action exists;
+- initiative outside a delegated task;
+- stopping/asking as a genuine choice;
+- memory/revision autonomy vs self-reinforcing lock-in;
+- conflict between acquired preference/history and current legitimate instruction.
+
+**B4 НЕ завершена.**
