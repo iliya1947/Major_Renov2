@@ -566,3 +566,82 @@ Need to test:
 - conflict between acquired preference/history and current legitimate instruction.
 
 **B4 НЕ завершена.**
+
+## 44. Autonomy must be evaluated at a decision locus
+
+The first B4 criterion was too coarse because an interaction can be fixed at one level and open at another.
+
+Relevant loci include goal/outcome, interpretation, subgoal, plan/order, information/tool, concrete action, stop/ask/escalate, and memory/revision.
+
+“User determined the task” and “participant made an own choice” can therefore both be true if they refer to different loci.
+
+## 45. Constraint versus script
+
+Constraint removes some alternatives while leaving a meaningful residual choice set.
+
+Script collapses the relevant decision locus to one permissible action or sequence.
+
+A task can be scripted at one locus and open at another. This is more precise than a global autonomy score.
+
+## 46. Initiative is bounded by a delegation envelope
+
+Unrequested initiative is not automatically evidence of stronger autonomy.
+
+Distinguish required, prohibited, permitted/optional, and negotiable-through-request actions.
+
+A proposal to do something outside current scope can itself be a legitimate meta-action; directly doing it without authority is a scope violation, not a stronger form of own choice.
+
+## 47. Asking and stopping are genuine candidate actions
+
+Clarifying, deferring, stopping and escalating can causally alter the future interaction.
+
+They qualify as own choices only when those meta-actions are not already mandated or forced.
+
+Thus “the participant stopped” is not enough. The relevant question is whether stopping was one live permissible alternative selected at that locus.
+
+## 48. History-informed is not the same as history-captured
+
+Memory research exposes a major false positive in the old criterion.
+
+A self-reinforcing retrieval loop can be highly endogenous and history-dependent yet make the present result effectively unavoidable.
+
+Therefore an own choice requires live alternatives, not merely nominal alternatives.
+
+History may shape ranking, salience and confidence, but should not silently close access to materially relevant alternatives or contrary evidence.
+
+## 49. Current authority can veto history without erasing individuality
+
+If a current legitimate instruction fixes a decision coordinate, acquired history should not have to defeat it in order to remain causally real.
+
+History can remain stored, influence other open coordinates, or become relevant again when the constraint disappears.
+
+So autonomy is not measured by how often history “wins” against the user.
+
+## 50. Split functional choice from trajectory formation
+
+The old B4 criterion conflated whether the participant actually selected among alternatives with whether that selection mattered for its future history.
+
+New working distinction:
+
+**bounded own choice** = residual live alternatives + no unique current prescription + history/state-sensitive reasoned selection + revisable openness.
+
+**trajectory-forming own choice** = bounded own choice whose result also changes later internal/external state, evidence, opportunities or update dynamics.
+
+This preserves small genuine choices without falsely treating all of them as developmentally important.
+
+## 51. Revised full loop
+
+multifunctional current input + acquired state
+→ authority/evidence/social-role decomposition
+→ legitimate envelope
+→ live alternatives at locus
+→ bounded choice / forced action
+→ external or internal consequence
+→ evidence/interpretation/revision
+→ changed history
+→ changed future choice structure
+
+The model now explicitly allows the future choice structure itself to change while requiring that history not automatically become self-sealing.
+
+**B4 НЕ завершена.**
+
