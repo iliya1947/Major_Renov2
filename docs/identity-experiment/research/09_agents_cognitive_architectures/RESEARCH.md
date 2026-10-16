@@ -1791,3 +1791,23 @@ Remaining questions belong to:
 
 **B6 завершена по saturation.**
 
+# Phase B — B7 support pass 1: dynamic agent environments
+
+Recent agent-evaluation work increasingly treats environments/tools as dynamic rather than fixed.
+
+Yehudai et al. (Findings ACL 2026) survey agent evaluation at system/trace/action levels and emphasize realistic dynamic settings.
+Wu et al. (Findings ACL 2026) explicitly study changing/deprecated toolsets.
+AgentGym2 and CostBench include noisy, underspecified or dynamically blocked environments.
+
+B7 consequence:
+an agent can change behavior because the environment/action space changed, not because its internal/project history changed.
+
+At the same time, adapting to a newly changed environment can subsequently create genuine acquired experience.
+
+Therefore:
+**environment drift is an exogenous perturbation; adaptation to it can be endogenous development.**
+
+The two must not be collapsed.
+
+**B7 завершена on agent-support side.**
+
