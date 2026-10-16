@@ -501,3 +501,46 @@ The exact participant-boundary/confound treatment belongs to B7. B5 only require
 
 **B5 НЕ завершена.**
 
+# Phase B — B6 support pass 1: retrieval-induced path dependence
+
+B6 operationalizes the A2/B3 path-dependence warning.
+
+A retrieval loop can be written abstractly as:
+
+history H_t
+→ selector R(H_t, current state)
+→ retrieved subset C_t
+→ choice/action A_t
+→ new events E_t
+→ updated history H_{t+1}.
+
+If R systematically favors material similar to the currently dominant trajectory, then C_t changes A_t in a direction that produces more similar E_t, which makes later retrieval even more homogeneous.
+
+This is a genuine feedback mechanism, not merely “memory exists”.
+
+## Hysteresis boundary
+
+Stable history-dependent behavior becomes concerning when:
+- current external conditions no longer justify the old pattern;
+- retrieval keeps reconstructing the old context;
+- new contrary evidence fails to regain influence;
+- escaping the trajectory requires removing historical context rather than ordinary evidence-based revision.
+
+This is stronger than simple preference stability.
+
+B4 already established that stable preference is compatible with autonomy if counterevidence can change ranking. B6 therefore treats **retrieval-induced insensitivity** as the lock-in signature, not consistency itself.
+
+## Anti-lock-in implication
+
+Retrieval should be sensitive to:
+- current scope/conditions;
+- superseding/contradictory evidence;
+- exceptions;
+- current action-guidance status;
+
+rather than maximizing similarity to the dominant historical pattern.
+
+This does not require random exploration or forced novelty.
+
+**B6 НЕ завершена.**
+
