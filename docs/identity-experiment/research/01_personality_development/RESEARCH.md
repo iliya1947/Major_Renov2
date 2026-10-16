@@ -418,3 +418,35 @@ Personality literature supports four distinctions:
 The unresolved question is which substrate-neutral signatures distinguish simple accumulation from a genuine change in the system's future responsiveness. That belongs to gap 21 / area №7.
 
 **B3 НЕ завершена.**
+
+## B3 — pass 2: nonlinear trajectory shapes are observations, not mechanisms
+
+### Levelt et al. (2026) — Modelling non-linear personality change surrounding transitions
+https://pmc.ncbi.nlm.nih.gov/articles/PMC13089859/
+
+**Фактически просмотрено:** full open-access article through Introduction and modelling-method overview, including discussion of discontinuous, temporary, piecewise/changepoint and continuous-time patterns.
+
+Review shows that personality-related change surrounding life transitions is often non-linear: rates can accelerate/decelerate, changes can be discontinuous, temporary/U-shaped, or person-specific. Different model classes can yield materially different conclusions from the same longitudinal phenomenon.
+
+**B3-результат:** longitudinal shape cannot be assumed linear accumulation. But an abrupt/changepoint trajectory does **not** by itself identify a threshold/bifurcation mechanism; it may reflect external transition timing, measurement resolution, unobserved state or another cause.
+
+### Jackson & Wright (2024) revisited
+https://www.nature.com/articles/s44159-024-00295-z
+
+**Фактически повторно просмотрено:** abstract/review summary.
+
+Review states personality change is generally gradual and modest, while abrupt transformative change can occur in some deliberately attempted or biologically mediated cases; evidence for specific mechanisms remains mixed.
+
+## B3 conclusion on accumulation vs threshold/nonlinearity
+
+B3 therefore keeps several **candidate longitudinal forms** without promoting any to a universal mechanism:
+- gradual accumulation/integration;
+- changing rates over time;
+- context-conditional branches;
+- discontinuous/changepoint transitions;
+- temporary excursions with recovery;
+- possible threshold/hysteretic dynamics where independently evidenced.
+
+Observed nonlinearity is a trajectory description. A threshold or hysteresis claim needs evidence about the generating dynamics, not only a curved or abrupt time series.
+
+**Personality-development contribution to B3 is saturated at principle-space level.**
