@@ -96,4 +96,4 @@
 11. `research/11_chatgpt_capabilities/` — возможности ChatGPT.
 12. `research/12_area/` — проектные инструкции и prompting.
 
-**Статус 16.10.2026:** **A1, межобластная сверка после A1 и A2 всех 12 областей завершены. Финальная межобластная сверка после A2: этапы 1–4 завершены.** Этап 4 reconciled terminology/contradictions across the final 23-gap map and added explicit A2 guardrails for lifecycle, future changeability, authority, individualization and drift. Ownership map remains unchanged. **Следующий шаг — этап 5: собрать недублирующий Phase-B entry package и точную первую deep-research задачу; саму Phase B пока не начинать.**
+**Статус 16.10.2026:** **A1, обе межобластные сверки и A2 всех 12 областей завершены.** Финальная post-A2 map содержит **23 cross-area gaps** и Phase-B entry package из 8 последовательных deep-research packages. **Следующий шаг — начать Phase B только с B1: significance without preset values + legitimate no-update (gaps 6+7). B2 не начинать до saturation B1.**
