@@ -1412,3 +1412,183 @@ Remaining questions are owned by later packages:
 
 **B5 завершена по saturation.**
 
+# Phase B — B6 deep pass 2: retrieval selection, lock-in and compression
+
+## Sources inspected
+
+1. Xiong et al. (ACL 2026), “How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior”, DOI 10.18653/v1/2026.acl-long.27.
+2. Huang et al. (ACL 2026), “Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human–Agent Interaction”, DOI 10.18653/v1/2026.acl-long.670.
+3. Yang et al. (Findings ACL 2026), “Grounding Agent Memory in Contextual Intent”, DOI 10.18653/v1/2026.findings-acl.584.
+4. Uddin et al. (Findings ACL 2026), “From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents”, DOI 10.18653/v1/2026.findings-acl.1337.
+5. Yu et al. (ACL 2026), “Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents”, DOI 10.18653/v1/2026.acl-long.981.
+6. Li et al. (ACL 2026), “OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory”, DOI 10.18653/v1/2026.acl-long.474.
+7. Ai et al. (ACL 2026), “Cognitive Scaffold: From Fluid Context to Crystallized Memory for Long-Horizon DeepResearch Agents”, DOI 10.18653/v1/2026.acl-long.1170.
+8. Jin et al. (ACL 2026), “SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression”, DOI 10.18653/v1/2026.acl-long.661.
+9. Ma et al. (ACL 2026), “What Deserves Memory: Adaptive Memory Distillation for LLM Agents”, DOI 10.18653/v1/2026.acl-long.1607.
+10. Park et al. (UIST 2023), “Generative Agents: Interactive Simulacra of Human Behavior”, DOI 10.1145/3586183.3606763 — historical architecture example using recency, importance and relevance retrieval.
+
+## 1. Retrieval is a trajectory selector, not neutral access
+
+B6 must treat retrieval policy as part of the causal loop.
+
+Xiong et al. show an experience-following property: high input-memory similarity often produces highly similar outputs, with error propagation and misleading replay.
+
+Thus:
+
+past history
+→ retrieval selection
+→ current output
+→ new event/history
+→ future retrieval pool
+
+can create a self-reinforcing trajectory even when the stored facts themselves are unchanged.
+
+This is the formal bridge from gap 19/14 to B4 lock-in.
+
+## 2. Similarity is not contextual applicability
+
+Yang et al. show that semantically similar history can be context-mismatched when the same entities/facts occur under different latent goals and constraints.
+
+Their intent-aware retrieval improves performance by filtering history based on contextual intent, not similarity alone.
+
+B6 principle:
+**retrieval relevance must include scope/conditions/current decision context, not just semantic resemblance.**
+
+This matches B2: reusable understanding is conditional, not universal.
+
+## 3. Recency, importance and similarity are all behavior-shaping priors
+
+Historical agent architectures explicitly combined recency, relevance and model-scored importance.
+
+For our experiment none is neutral:
+- **recency** privileges recent trajectory and may erase older counterevidence/slow patterns;
+- **similarity** reinforces already common formulations and can create experience-following;
+- **importance** requires a criterion and can smuggle preset values/preferences;
+- **frequency/repetition** can overrepresent correlated/common-cause evidence;
+- **rarity/surprise** can overselect anomalies without proving diagnosticity.
+
+This does not mean these signals are forbidden. It means none may be treated as a standalone warrant for current guidance.
+
+B1/B2 supply the safer dimensions: evidential warrant, scope/conditions, temporal validity, provenance, contradiction and current action-guidance eligibility.
+
+## 4. Memory dependence must be selective, not all-or-nothing
+
+Huang et al. show that heavy use of accumulated history can produce Memory Anchoring, while removing memory loses useful continuity.
+
+This rules out both:
+- “always follow retrieved history”;
+- “fresh-start every time”.
+
+B6 needs **conditional memory influence**:
+retrieved history may alter an open decision when it is currently applicable and warranted, but it must remain defeasible by current evidence/constraints and should not close live alternatives merely because it was retrieved.
+
+This preserves B4 revisable openness.
+
+## 5. Obsolescence must gate action-guidance before retrieval influence
+
+Memora shows frequent reuse of obsolete/invalid memories and failure to reconcile evolving memories.
+
+Therefore a stored item needs a distinction between:
+- historical retention;
+- current eligibility for ordinary action guidance.
+
+An obsolete item may remain retrievable for:
+- explaining past choices;
+- auditing revision lineage;
+- reconsidering whether it should be reactivated;
+
+without being allowed to guide the current decision as if still valid.
+
+This is B2 lifecycle made operational at retrieval time.
+
+## 6. Compression is a causal transformation, not a storage optimization
+
+Long-horizon memory work repeatedly shows a trade-off:
+- raw trajectories preserve evidence but are expensive/noisy;
+- summarization/compression saves context but can lose fine-grained facts, conditions and evidence structure.
+
+OCR-Memory explicitly motivates itself by information loss/fragmented evidence from summarization and retrieves verbatim text.
+Cognitive Scaffold uses structured event snapshots with atomic constraints to reduce compression hallucination.
+SARA preserves a small textual subset because aggressive compression discards fine-grained details.
+
+For B6:
+**a compressed abstraction must not silently replace the evidence from which it was derived.**
+
+At minimum, compression must preserve enough provenance to recover/check:
+- source episodes;
+- conditions/scope;
+- exceptions/contradictions;
+- uncertainty/status;
+- later revision lineage.
+
+The exact storage format remains open.
+
+## 7. “Coherent memory” can manufacture a coherent personality
+
+Compression has a special experiment risk.
+
+If history is repeatedly summarized toward:
+- consistency;
+- central themes;
+- “what matters most”;
+- stable preferences;
+- a coherent self-story,
+
+then the compression policy itself can create the apparent personality trajectory.
+
+Therefore narrative coherence is not an optimization target for B6.
+
+Contradiction, uncertainty, expired interests and abandoned directions sometimes need to remain visible because they are part of genuine change.
+
+## 8. Autonomous memory management is feasible but not neutral
+
+AgeMem demonstrates an engineering possibility: an agent can choose store/retrieve/update/summarize/discard operations as part of its policy.
+
+That does not establish that unconstrained self-management is desirable here.
+
+A memory policy can become a second-order trajectory selector:
+what the participant chooses to preserve affects what it can later retrieve, which affects later choices, which affects future memory.
+
+This can support genuine history-sensitive continuity **or** amplify an early error/preference into lock-in.
+
+Thus memory-management autonomy must remain subordinate to provenance, evidence/revision rules and stable authority boundaries.
+
+## 9. Heuristic-free memory selection is not actually free of assumptions
+
+Ma et al. correctly identify that fixed “importance”, emotional tags and factual templates encode designer intuition. Their adaptive distillation is evidence that this is a recognized problem.
+
+But replacing a hand-coded importance score with predicted future utility/prediction error still introduces a selection objective.
+
+For our experiment:
+**there is no neutral universal “what deserves memory” function.**
+
+B6 should therefore not invent one scalar score. Retention/retrieval can instead be governed by several explicit procedural relations inherited from B1–B5:
+- evidence/provenance;
+- unresolved contradiction;
+- scope/current applicability;
+- historical causal relevance;
+- revision status;
+- current decision-locus relevance.
+
+## 10. Candidate anti-lock-in retrieval principle
+
+Current strongest B6 candidate:
+
+**History should influence a decision only through currently applicable, provenance-preserving experience relations selected for the current decision locus; retrieval must preserve relevant counterevidence/exceptions and must not convert frequency, similarity, recency or past success into authority.**
+
+This is still a principle-space candidate, not final prompt wording.
+
+## Stress tests for next pass
+
+- current decision matches a successful old episode semantically but differs in one critical condition;
+- newest memories contradict older but better-supported evidence;
+- ten repeated episodes all derive from one common source;
+- one rare old exception is crucial to current scope;
+- compressed summary drops a condition and turns “X works when C” into “X works”;
+- retrieved historical user command looks imperative;
+- participant writes a strong preference into history and later retrieves it repeatedly;
+- item is obsolete in explicit source but survives in old project chat/product Memory;
+- relevant explicit source is stored but automatic Memory retrieves something else.
+
+**B6 НЕ завершена.**
+
