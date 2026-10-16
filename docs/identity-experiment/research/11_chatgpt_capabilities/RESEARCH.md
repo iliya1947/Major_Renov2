@@ -511,3 +511,23 @@ It needs an explicit distinction between:
 
 **B6 НЕ завершена.** Next pass: retrieval policy/path dependence, compression, context mismatch, stale/obsolete replay and self-reinforcing selection.
 
+# Phase B — B6 final product result
+
+Current documented ChatGPT feasibility does not provide one monolithic “memory”.
+
+The final B6 product interpretation is:
+
+- **Project instructions** are stable project-specific control context.
+- **Project sources/files** are explicit inspectable persistent context.
+- **Project chats** are persistent history that may be referenced depending on memory mode.
+- **Project-only memory** is the strongest currently documented isolation candidate for the planned experiment because it excludes saved memories/outside conversations while retaining within-project chats/files.
+- **Automatic Memory/context selection** remains partly opaque and selective.
+- **Library/account/app state** is separate persistence and should not be silently folded into the participant boundary.
+- **Deletion/retention is surface-specific.**
+
+Therefore current ChatGPT can support the B6 three-plane mechanism conceptually, but cannot provide a complete automatic causal trace of which historical item influenced each response.
+
+The future experiment must preserve that limitation rather than pretend automatic Project Memory is fully inspectable.
+
+**B6 завершена по saturation.**
+
