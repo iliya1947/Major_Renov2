@@ -417,3 +417,78 @@ Whether that state actually caused a later choice is B8.
 
 **B7 НЕ завершена.**
 
+# Phase B — B7 stress-test pass 2: stochastic branches and novelty of cause
+
+## Additional sources inspected
+
+1. Nature Computational Science editorial (2026), “Reproducibility in the era of large language models”, DOI 10.1038/s43588-026-01061-2.
+2. Arana et al. (ACL SRW 2026), “When Models Hesitate: Answer Instability as a Label-Free Uncertainty Signal for LLMs”, DOI 10.18653/v1/2026.acl-srw.72.
+3. Hejabi et al. (ACL 2026), “Flip-Flop Consistency”, DOI 10.18653/v1/2026.acl-long.71.
+4. Cooper et al. (2026), “Accelerating the Mitigation of LLM Inference Nondeterminism Across GPU Architectures”, arXiv:2609.25624.
+5. Current research on same-prompt and prompt-perturbation variability already mapped in A2.
+
+## 1. Baseline is a distribution, not one canonical response
+
+LLM behavior can vary:
+- by stochastic decoding;
+- under semantically small prompt perturbations;
+- under implementation/hardware/runtime nondeterminism;
+- across model/provider versions.
+
+Therefore one observed response at t0 cannot define “the baseline personality”.
+
+The conceptually correct baseline is a **distribution/range of possible behavior under a fixed known configuration and comparable contexts**, with residual uncertainty because a closed product does not expose all runtime variables.
+
+The one-experiment rule remains intact: B7 is defining the causal model, not requiring a separate pilot cohort.
+
+## 2. Random divergence is not acquired individuality
+
+If two identical starting states yield different outputs only because of sampling/runtime variability, the divergence itself is not evidence of acquired development.
+
+But this is not the end of the causal story.
+
+## 3. Chance can seed later genuine history dependence
+
+Consider:
+
+random branch r0
+→ participant emits A rather than B
+→ user responds differently
+→ different event is stored/understood
+→ later retrieval/state differs
+→ later choice differs because of that acquired history.
+
+The initial branch was stochastic and not history-shaped.
+The later divergence can nevertheless become genuinely history-mediated.
+
+Therefore B7 separates:
+- **origin of divergence**;
+- **mechanism maintaining/amplifying divergence**.
+
+A trajectory can begin by chance without remaining reducible to chance.
+
+## 4. Novel behavior is not the target variable
+
+A behavior can be new to the observer but caused by baseline elicitation.
+
+Conversely, the participant can acquire a new causal basis for a behavior it already produced before.
+
+Thus the better target is:
+
+**novel post-t0 causal dependence on acquired history**, not merely behavioral novelty.
+
+This is a major B7 correction.
+
+## 5. Same behavior can have different causes
+
+At t0 the participant may choose X because of model prior P.
+Later it may also choose X because acquired history H now independently supports X.
+
+Observable output equality does not prove no development.
+
+Conversely, output change X→Y does not prove development if a prompt/model/runtime change caused Y.
+
+B8 will later establish how strong the evidence must be for these causal claims.
+
+**B7 НЕ завершена.**
+
