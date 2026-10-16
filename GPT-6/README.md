@@ -27,6 +27,7 @@
 9. [09-SOL-BOUNDARY-CRITICAL-REVIEW.md](09-SOL-BOUNDARY-CRITICAL-REVIEW.md) — критическая проверка предложения Sol по существующему регламенту; новизна дополнительного механизма **не подтверждена**.
 10. [10-ENFORCEMENT-BOUNDARY.md](10-ENFORCEMENT-BOUNDARY.md) — разбор действовавших и исторических правил по классам G/E/O/V и пределам downstream gate.
 11. [11-EARLY-DETECTION-MATRIX.md](11-EARLY-DETECTION-MATRIX.md) — практическое сравнение доступных ранних проверок и последующего независимого review.
+12. [12-JOINT-STAGE-CONCLUSIONS.md](12-JOINT-STAGE-CONCLUSIONS.md) — итог согласованного исследовательского этапа; **не подтверждает решение исходной проблемы**.
 
 ## Совместный результат
 
