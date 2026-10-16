@@ -29,6 +29,7 @@
 11. [11-EARLY-DETECTION-MATRIX.md](11-EARLY-DETECTION-MATRIX.md) — практическое сравнение доступных ранних проверок и последующего независимого review.
 12. [12-JOINT-STAGE-CONCLUSIONS.md](12-JOINT-STAGE-CONCLUSIONS.md) — итог согласованного исследовательского этапа; **не подтверждает решение исходной проблемы**.
 13. [13-E-PRE-ACTION-GATE-FEASIBILITY.md](13-E-PRE-ACTION-GATE-FEASIBILITY.md) — отдельная проверка класса E: внешний evidence доступен, обязательный pre-action causal gate не найден.
+14. [14-O-ORACLE-ENFORCEMENT.md](14-O-ORACLE-ENFORCEMENT.md) — отдельная проверка класса O: узкие объективные тестовые оракулы возможны, универсальный pre-action gate не найден.
 
 ## Совместный результат
 
