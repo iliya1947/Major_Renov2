@@ -362,3 +362,66 @@ Any project mechanism that only rewards increasing sensitivity would misundersta
 B3 must now test whether this distinction survives cases where lower-level components turn over, where macro continuity is preserved despite micro change, and where the only persistent substrate is external memory/project state rather than model weights.
 
 **B3 НЕ завершена.**
+
+## 34. Финальный principle space B3
+
+B3 уточнила, что `history changed future changeability` — это **функциональное second-order понятие относительно выбранного уровня анализа**, а не требование буквально менять глобальный закон переходов или base-model weights.
+
+Рабочая decomposition:
+
+`(C_{t+1}, M_{t+1}) = F(C_t, M_t, e_t)`
+
+- C — текущее содержание/experience state;
+- M — persistent adaptation-control/meta-state, чья causal role — менять способ обработки последующего evidence;
+- F — базовый процесс/substrate, который может оставаться фиксированным.
+
+История, меняющая только C, даёт first-order trajectory.
+История, меняющая M так, что comparable future evidence вызывает иной update, даёт gap-21 second-order effect.
+
+## 35. Fixed model weights совместимы с functional meta-change
+
+Meta-RL, Algorithm Distillation, in-context learning and memory-augmented networks показывают существование systems, где network parameters at deployment остаются fixed, а changing context/recurrent/external-memory state обеспечивает learning/adaptation.
+
+Поэтому для будущего проекта нельзя использовать правило:
+`weights не менялись → способ обучения не мог измениться`.
+
+Но и обратное неверно:
+`persistent memory изменилась → система приобрела meta-change`.
+
+Нужно показать, что history-bearing state изменяет **response to later evidence**, а не только подставляет другое содержание в тот же response process.
+
+## 36. Continuity не требует micro-identity
+
+Representational drift даёт source-domain пример stable functional information/behavior despite changing lower-level representation.
+
+Следовательно, longitudinal continuity допустимо определять через устойчивые higher-level causal/functional relations, а не через неизменность всех компонентов.
+
+Но для нашего будущего эксперимента external model/runtime turnover остаётся causal confound: theoretical continuity across turnover не даёт права приписывать возникшее изменение собственной истории участника.
+
+## 37. Nonlinear trajectory shape не равна нелинейному механизму
+
+Наблюдаемый changepoint, abrupt shift, U-shape или path dependence может иметь разные причины.
+
+Поэтому accumulation, threshold, hysteresis и abrupt transition остаются **различаемыми candidate dynamics**, а не заранее выбранной моделью формирования индивидуальности.
+
+## 38. Что B3 установила
+
+1. local/repeated changes могут участвовать в longer-term trajectory, но repetition count не является универсальным механизмом;
+2. longer-term trajectory и changed future responsiveness — разные свойства;
+3. second-order change требует history-dependent modulator of future updating;
+4. этот modulator может жить не в base weights, а в persistent system state;
+5. more changeability is not automatically better — history can also produce selective rigidity/loss of plasticity;
+6. macro functional continuity can coexist with lower-level turnover;
+7. evidence for second-order change requires comparable probes and causal separation from retrieval/content/instruction/runtime differences.
+
+## 39. B3 handoff
+
+B3 передаёт дальше distinction между:
+- acquired content/history;
+- trajectory-level persistence;
+- adaptation-control/meta-state that changes future responsiveness;
+- fixed higher-level substrate/constraints.
+
+Как choices/user interaction формируют следующий поток опыта и какие части выбора являются собственными — это уже B4.
+
+**B3 достигла saturation и завершена.**
