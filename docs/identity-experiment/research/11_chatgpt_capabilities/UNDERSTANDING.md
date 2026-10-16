@@ -434,3 +434,18 @@ Isolation is useful, not causal proof.
 
 **B7 завершена по saturation.**
 
+## 45. B8 product-level evidence ceiling
+
+Current ChatGPT exposes enough Project state/configuration to support functional longitudinal evidence, but not a complete causal trace of backend inference/retrieval.
+
+Therefore B8 can reasonably establish:
+- behavioral dependence on explicit post-start Project history;
+- persistence/revision across known configuration epochs;
+- selective effects of inspectable experiential state.
+
+It cannot establish complete internal mechanism identity.
+
+Residual provider/runtime uncertainty must remain in the final conclusion.
+
+**B8 завершена on product-support side.**
+
