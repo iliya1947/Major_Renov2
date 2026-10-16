@@ -301,3 +301,64 @@ Pessoa's recent review highlights systems in which history may change not just c
 - criteria for legitimate use of emergence/open-endedness.
 
 Concrete LLM mechanisms remain №8, agent architecture №9, ML adaptation №10, ChatGPT product boundaries №11 and project instructions №12.
+
+# Phase B — B3 working synthesis
+
+**Статус:** первый глубокий B3-проход; НЕ финальный результат.
+
+## 28. First-order and second-order change are now separable
+
+Working substrate-neutral distinction:
+
+- **first-order:** history changes current state/content under a response rule that is effectively unchanged;
+- **second-order:** history changes future responsiveness — update gain, threshold, adaptation strategy, or effective transition rule.
+
+This distinction is supported by mechanistically different cases in human meta-learning, biological metaplasticity and ML meta-learning. It does **not** imply a shared substrate.
+
+## 29. Gap 4 and gap 21 are orthogonal enough to require separate evidence
+
+A long-term trajectory can arise through accumulation under a fixed rule, so trajectory continuity does not prove meta-change.
+
+Conversely, future responsiveness can change while overt content/behavior remains similar, as in biological metaplasticity before later plasticity is tested.
+
+Therefore our eventual mechanism cannot treat 'experience persists' and 'experience changed how later experience is learned' as synonyms.
+
+## 30. A strong operational signature of second-order history dependence
+
+Evidence should compare response to comparable new evidence after different prior histories.
+
+Strongest pattern:
+`history A vs history B → comparable current probe → systematically different update dynamics`
+
+where the difference concerns magnitude/direction/threshold/speed/generalization and cannot be reduced to a known change in governing instructions, model/runtime or a simple retrieval difference.
+
+## 31. Apparent hysteresis may be a boundary error
+
+Complex-systems work warns that path dependence can appear when an analyst omits a relevant current-state variable. Therefore 'same visible situation, different response because of history' is not automatically evidence that the update rule itself changed.
+
+Future B3 synthesis needs a hierarchy of explanations:
+1. different currently represented content;
+2. different latent/current state;
+3. different accessibility/retrieval;
+4. genuinely altered response/update dynamics.
+
+Only the fourth is gap 21 in the strongest sense.
+
+## 32. Second-order change is not inherently developmental progress
+
+Dohare et al.'s loss-of-plasticity results give an important negative case: history can reduce future ability to learn.
+
+So future changeability has at least direction and scope:
+- more responsive;
+- less responsive;
+- differently responsive by context;
+- more selective;
+- rigid/locked-in.
+
+Any project mechanism that only rewards increasing sensitivity would misunderstand the target.
+
+## 33. Exact next question
+
+B3 must now test whether this distinction survives cases where lower-level components turn over, where macro continuity is preserved despite micro change, and where the only persistent substrate is external memory/project state rather than model weights.
+
+**B3 НЕ завершена.**
