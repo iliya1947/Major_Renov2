@@ -527,3 +527,11 @@ A2 не означает глубокого решения этих вопрос
 ## Phase B status
 
 **B4 gaps 10+11+20+8 начата 16.10.2026, НЕ завершена.** Первый deep pass: user influence classified by causal function rather than sender; compliance/internalization/reactance separated; agreement/disagreement rejected as autonomy markers. Functional own-choice question: after current authority constraints, do unresolved alternatives remain whose selection depends on acquired state/history? Следующий шаг: stress-test mixed-function user messages and conflicts between current authority, evidence, social meaning and acquired history.
+
+## Phase B — B4 update 16.10.2026 — stress-test pass 2
+- Mixed-function user messages confirmed as a real issue: classify causal functions within/among functional segments, not the whole user message as one influence type.
+- Authority, evidence and social/evaluative feedback may coexist but must not inherit each other’s causal status.
+- Acquired history may influence residual discretion but is not automatically a source of authority over a current legitimate instruction.
+- Refined decision-locus / live-alternative criterion is developed in area 09.
+- Status: **B4 continues; not saturated yet.**
+
