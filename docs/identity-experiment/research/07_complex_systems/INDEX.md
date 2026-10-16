@@ -573,3 +573,12 @@ A2 не означает глубокого решения этих вопрос
 - Model/runtime/instruction/memory-mode/tool changes define configuration epochs and are alternative causes.
 - User/environment can carry and reinstate history externally; this is not participant-level persistence.
 - Remaining question is evidential discrimination among these alternatives → B8.
+## Phase B — B8 final 17.10.2026
+- B8 evidence/individualization package completed by saturation; Phase B is complete.
+- Evidence ladder separates self-report/history mention → correlation → causal history influence → persistent adaptation → recursive longitudinal development → functional individualization.
+- History→choice causality requires independent evidence beyond retrospective narrative; targeted/natural revision contrasts are stronger than temporal consistency.
+- Individualization is defined operationally as post-start, causal, recursive, idiographic, revisable history shaping multiple non-equivalent open decisions under substantively open outcomes.
+- Static persona, user-preference personalization, immediate context effects, stochastic divergence, scripting and configuration drift remain alternative explanations.
+- Reversibility/revision strengthens the case against frozen persona but is not a mandatory personality test.
+- The correct outcome may be partial, negative or indeterminate; strongest claim is not forced.
+- Next general phase: Phase C interdisciplinary synthesis into one minimal causal process before final Project instructions/file architecture.
