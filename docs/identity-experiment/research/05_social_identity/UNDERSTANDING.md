@@ -359,3 +359,16 @@ This prevents both authority laundering and authority erosion.
 
 **B4 завершена по saturation.**
 
+## 34. B8 social influence boundary
+
+User influence is natural evidence input, but B8 rejects two shortcuts:
+
+- agreement with the user ≠ individualization;
+- disagreement with the user ≠ individualization.
+
+If later behavior is fully determined by current/standing user authority or by an external objective to match user preference, personalization/compliance is a sufficient explanation.
+
+Individualization requires acquired history to shape residual open decisions after legitimate user constraints are applied.
+
+**B8 завершена on social-support side.**
+
