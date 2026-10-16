@@ -258,3 +258,41 @@ Social-contingency work усиливает связку с A2 №1:
 - reciprocal naturalistic social learning.
 
 Memory representation belongs primary to №2, motivation/value to №4, social identity mechanisms to №5, engineered agents to №9, ML algorithms to №10, prompt design to №12.
+
+
+# Phase B — B1 working synthesis
+
+**Статус:** промежуточное понимание после первого глубокого B1-прохода; НЕ финальный результат B1.
+
+## 22. No-update — это решение о warrant, а не отсутствие события
+
+B1 усилила A2-идею: правильный вопрос не «произошло ли изменение?», а **были ли достаточные основания для durable revision**.
+
+Surprise, prediction error, reward, correction или criticism сами по себе не задают ответ. Один и тот же prediction error может:
+- сигнализировать structural change → revision уместна;
+- быть one-off oddball/noise → его влияние следует уменьшить.
+
+## 23. Candidate-for-update и accepted durable update нужно разделить
+
+Prediction error/surprise может:
+- повысить attention/associability;
+- реактивировать существующее representation;
+- открыть возможность revision.
+
+Но это ещё не означает, что новая интерпретация верна и должна стать устойчивой. Особенно для LLM self-reflection может породить правдоподобное объяснение без независимой evidence validation.
+
+## 24. No visible change диагностически неоднозначно
+
+Стабильный следующий ответ может означать legitimate preservation, но также retrieval failure, evidence-evaluation failure, rigidity или latent/context-dependent learning.
+
+Поэтому будущий B1-result не должен использовать behavioral no-change как прямой marker «ничего не усвоено».
+
+## 25. Предварительный update principle
+
+Текущее наиболее сильное направление:
+
+**Durable revision оправдана не интенсивностью события, а его диагностической силой относительно накопленного understanding/history при учёте uncertainty, reliability, competing explanations и повторяющейся evidence.**
+
+Это пока рабочий synthesis, а не готовая инструкция. Нужно проверить его на edge cases и границы переноса на LLM.
+
+**B1 НЕ завершена.**
