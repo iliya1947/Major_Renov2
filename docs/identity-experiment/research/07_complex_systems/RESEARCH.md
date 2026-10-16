@@ -660,3 +660,88 @@ This remains a candidate until B7 stress tests it against model/runtime replacem
 
 **B7 НЕ завершена.**
 
+# Phase B — B7 stress-test pass 2: membership, causal authorship and configuration epochs
+
+## Stress test 1. A constitutive component changes from outside
+
+Suppose the provider replaces the underlying Chat model while Project files/history remain unchanged.
+
+The base model is functionally part of the L2 participant implementation, yet the change was not caused by participant experience.
+
+Therefore two questions must be separated:
+
+- **system membership:** is this component part of the machinery realizing the participant?
+- **causal authorship of change:** did the participant's post-t0 history cause this component/state change?
+
+They are orthogonal.
+
+A provider model update can be **inside the participant boundary but exogenous to participant development**.
+
+## Stress test 2. An external user response is caused by the participant
+
+Conversely, the user remains outside the participant boundary for individualization claims.
+
+But if the participant's prior choice changes what the user says next, that user response is externally located yet **endogenous to the trajectory**.
+
+Therefore:
+- outside ≠ exogenous;
+- inside ≠ endogenous.
+
+B7 must track causal origin separately from boundary membership.
+
+## Stress test 3. Substrate replacement with persistent Project history
+
+B3 allowed functional continuity across lower-level component turnover.
+
+B7 adds the missing methodological distinction:
+
+**continuity of participant identity/trajectory does not imply causal comparability across a substrate change.**
+
+If L0 changes while L2 history persists:
+- it may still be meaningful to treat the Project participant as a continuing longitudinal system;
+- but any behavioral discontinuity around the change has at least two candidate causes: accumulated history and substrate replacement.
+
+Thus provider/runtime changes create **configuration epochs**.
+
+Within an epoch, configuration is approximately stable.
+Across an epoch boundary, development may continue, but attribution of behavioral change requires explicit confound status.
+
+## Stress test 4. Instruction revision
+
+Changing Project instructions is also a configuration epoch boundary.
+
+Even if the participant itself proposed the edit, the causal status depends on who/what has authority to enact it.
+
+For this experiment the governing instructions are part of the control plane, not acquired experiential state. Their modification changes the experimental process itself and must not be counted as ordinary participant development.
+
+B6's firewall therefore also protects B7 attribution.
+
+## Stress test 5. Memory-mode or tool availability change
+
+Switching project memory mode, enabling/disabling an app/tool, changing permissions, or moving between product surfaces can alter:
+- eligible context;
+- available actions;
+- external information access;
+- retrieval pathways.
+
+Such changes alter the feasible state/action space and therefore define another configuration intervention.
+
+## B7 configuration-epoch principle
+
+Longitudinal history should be interpreted relative to a time-indexed configuration:
+
+K_t = {
+  model/runtime state,
+  control-plane version,
+  memory mode,
+  product surface,
+  enabled tools/apps/permissions,
+  relevant product settings
+}
+
+A history effect is not invalidated merely because K changes, but behavioral changes across K transitions cannot be attributed to history alone.
+
+Exact evidence requirements remain B8.
+
+**B7 НЕ завершена.**
+
