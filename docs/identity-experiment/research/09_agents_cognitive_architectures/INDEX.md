@@ -683,4 +683,4 @@ A2 не означает глубокого решения этих вопрос
 
 ## Phase B status
 
-**B2 gaps 5+13+15 начата 16.10.2026, НЕ завершена.** Первый engineering deep pass: Storage ≠ Reflection ≠ Experience abstraction; provenance required for causal revision; obsolete memory must be separable from historical existence. Следующий шаг: stress-test candidate relational unit on edge cases before lifecycle finalization.
+**B2 gaps 5+13+15 завершена 16.10.2026 по saturation.** Первый engineering deep pass: Storage ≠ Reflection ≠ Experience abstraction; provenance required for causal revision; obsolete memory must be separable from historical existence. Следующий шаг: stress-test candidate relational unit on edge cases before lifecycle finalization.
