@@ -273,3 +273,8 @@ Narrative identity и interpersonal approaches образуют самостоя
 Вопросы в этом файле **не считаются глубоко исследованными только потому, что A2 завершена**. A2 уточнила карту и просмотрела часть источников на уровне, необходимом для картографии; глубокая проверка конкретных causal mechanisms относится к фазе B.
 
 **Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №2 «Когнитивная психология и память»**.
+
+
+## Phase B status
+
+**B3 gaps 4+21 начата 16.10.2026, НЕ завершена.** Первый deep pass: micro/state→longer-term trajectory, TESSERA + empirical daily-life evidence, no universal repetition→trait law. Working distinction: trajectory formation ≠ history-dependent change of future responsiveness. Следующий шаг: continuity under component turnover/nonlinear transitions and artificial persistent-state case.
