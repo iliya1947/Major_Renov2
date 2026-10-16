@@ -689,3 +689,15 @@ A2 не означает глубокого решения этих вопрос
 ## Phase B status
 
 **B4 gaps 10+11+20+8 начата 16.10.2026, НЕ завершена.** First agent-side pass: delegated vs operational autonomy; autonomy decomposed across task origin, interpretation, subgoals, planning, tool/action choice, stopping, memory/revision and initiative. Candidate own-choice criterion requires multiple allowed alternatives, history-dependent selection and counterfactual effect on future evidence stream. Следующий шаг: stress-test authority/evidence conflicts, initiative outside task, stopping, and memory autonomy vs lock-in.
+
+## Phase B — B4 update 16.10.2026 — stress-test pass 2
+- Old five-part own-choice criterion partially failed under memory anchoring/self-reinforcing retrieval.
+- New unit of analysis: **decision locus**, not whole response/task.
+- New boundary: **constraint** narrows a locus; **script** collapses it to one option.
+- Introduced conceptual delegation envelope: required / prohibited / permitted-optional / negotiable expansion.
+- Stop/ask/escalate are meta-actions and can themselves be choice loci.
+- New distinction: **history-informed vs history-captured**.
+- Revised candidate uses **live alternatives** and **revisable openness**.
+- Split **functional bounded own choice** from **trajectory-forming own choice**.
+- Status: **B4 continues; next pass must adversarially test false positives/negatives of the revised criterion.**
+
