@@ -289,3 +289,54 @@ arXiv:2507.03861
 - personalization/recommender feedback loops and preference drift
 
 не выявил новой крупной ML-adaptation branch beyond A1. Новые результаты существенно уточнили **what changes, what should persist, when forgetting is useful, what counts as drift, and why personalization/RL optimization are not equivalent to individualization**. Этого достаточно для финализации карты №10.
+
+# Phase B — B3 support: artificial second-order adaptation
+
+**Статус:** support evidence for B3 gap 21. These systems optimize externally specified task distributions/objectives and are not models of emergent personality.
+
+### Finn, Abbeel & Levine (ICML 2017) — MAML
+https://proceedings.mlr.press/v70/finn17a.html
+
+**Фактически просмотрено:** PMLR abstract and paper introduction/method framing.
+
+MAML optimizes model parameters so that a small amount of new task data and only a few gradient steps produce good adaptation.
+
+**B3-результат:** outer-loop history across tasks shapes the model's *future ease and direction of adaptation*. This is explicit artificial second-order adaptation, but the meta-objective and training task distribution are externally authored.
+
+### Duan et al. (2016) — RL²
+https://openai.com/index/rl2/
+
+**Фактически просмотрено:** original publication abstract.
+
+A slow RL process trains recurrent weights whose activations implement a faster learned RL algorithm on new MDPs.
+
+**B3-результат:** separates slow acquisition of an adaptation procedure from fast within-task adaptation. Again, the learned rule serves externally specified reward/task families.
+
+### Andrychowicz et al. (NeurIPS 2016) — Learning to learn by gradient descent by gradient descent
+https://papers.neurips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf
+
+**Фактически просмотрено:** abstract/introduction.
+
+An LSTM-based optimizer learns update behavior from histories of optimization problems rather than using only a hand-coded fixed optimizer.
+
+**B3-результат:** in artificial systems even the update transformation can be learned; 'history changed how future evidence changes the system' can therefore be operationalized without metaphor.
+
+### Dohare et al. (Nature 2024) — Loss of plasticity in deep continual learning
+https://www.nature.com/articles/s41586-024-07711-7
+
+**Фактически просмотрено:** full accessible article through main results and discussion sections.
+
+Across long continual-learning sequences, standard deep networks progressively lost ability to learn new tasks; this is distinct from catastrophic forgetting. Continual backpropagation and some variability-preserving methods maintained plasticity.
+
+**B3-результат:** second-order change is not inherently beneficial. Training history can make later evidence *less capable* of changing the system. B3 must therefore treat future changeability as a signed/multidimensional property, not 'more meta-learning = more development'.
+
+## ML boundary for B3
+
+Artificial evidence supports at least three distinct forms of second-order change:
+1. learned initialization/representation that makes later adaptation easier;
+2. learned update procedure/optimizer;
+3. unintended history-dependent loss of plasticity.
+
+All differ from ordinary first-order parameter/content updates. None establishes own values or individuality because objectives/task distributions are externally set.
+
+**B3 НЕ завершена.**
