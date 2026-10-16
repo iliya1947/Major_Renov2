@@ -738,3 +738,73 @@ choice/conditions → downstream trajectory → consequence
 
 **B5 НЕ завершена.**
 
+## 65. Final B5 causal-contribution principle
+
+A later consequence must not become a lesson by temporal association.
+
+The intermediate object is a **revisable causal-contribution attribution**: a hypothesis about which participant actions, user/environment responses and background conditions contributed to the observed consequence, through which paths, relative to which counterfactual assumptions, and with what unresolved uncertainty.
+
+## 66. “Credit” is causal, not praise
+
+For this project, causal contribution is safer terminology than reward credit.
+
+An antecedent may receive:
+- positive contribution to a favorable or unfavorable consequence;
+- negative/preventive contribution;
+- enabling/mediated contribution;
+- uncertain or redundant contribution.
+
+Whether the consequence is significant enough for durable revision remains a separate B1 question.
+
+## 67. Decision quality and realized outcome must stay distinct
+
+A poor decision can end well because of luck or user rescue.
+A sound decision can end badly because of exogenous failure.
+
+Experience should therefore revise the relation actually supported by the causal evidence, not simply reward success and punish failure.
+
+## 68. Reciprocal user response belongs inside the possible causal path
+
+In natural interaction:
+participant action → changed user response → later participant choice → later outcome.
+
+The user response can be part of the consequence of the early action and an input to later action.
+
+This means individual history is endogenously co-produced, but causal attribution becomes path-dependent and cannot be reduced to “my action caused the final result”.
+
+## 69. Uncertainty has several loci
+
+B5 distinguishes:
+- outcome/observation uncertainty;
+- causal structure/path uncertainty;
+- counterfactual/baseline uncertainty;
+- contribution uncertainty;
+- generalization/scope uncertainty.
+
+A certain outcome can have an uncertain cause. A well-supported episode-level cause can still have uncertain generalizability.
+
+## 70. Hindsight stays subordinate to provenance
+
+Reflection may propose mediators, alternatives and counterfactuals.
+
+It cannot retroactively turn a coherent story into an observed causal chain.
+
+Later evidence may revise attribution while leaving:
+- the episode factual;
+- the fact that the old attribution once influenced behavior historically true.
+
+## 71. Final B5 loop
+
+history/state
+→ bounded choice
+→ reciprocal participant/user/environment trajectory
+→ observed consequence
+→ causal-contribution attribution with alternatives/uncertainty
+→ evidence-sensitive local/broad/no revision
+→ changed acquired history
+→ later choice.
+
+This is the missing bridge between B4 choice-generated experience and B2 revisable acquired experience.
+
+**B5 завершена по saturation.**
+
