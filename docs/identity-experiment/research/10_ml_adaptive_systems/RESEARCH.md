@@ -340,3 +340,67 @@ Artificial evidence supports at least three distinct forms of second-order chang
 All differ from ordinary first-order parameter/content updates. None establishes own values or individuality because objectives/task distributions are externally set.
 
 **B3 НЕ завершена.**
+
+## B3 — pass 2 support: fixed weights can still implement adaptive learning through state/context
+
+### Laskin et al. (ICLR 2023) — In-context Reinforcement Learning with Algorithm Distillation
+https://arxiv.org/abs/2210.14215
+
+**Фактически просмотрено:** full arXiv HTML through Introduction, Method §§3–3.2 and main evaluation setup/results.
+
+Algorithm Distillation trains a causal transformer on complete learning histories. At evaluation, transformer parameters remain fixed; the model improves its policy entirely through an across-episode context containing its own observations, actions and rewards. The paper explicitly describes the context-conditioned model as a fixed-parameter sequence model that distills a policy-improvement operator.
+
+**B3-результат:** parameter constancy does not imply absence of functional learning/adaptation. A fixed-weight sequence model can implement a history-conditioned learning process through changing activation/context state.
+
+Critical limitation: AD's learning algorithm was pre-authored indirectly by the source RL histories and objective, and its context is bounded/transient. This is an existence proof for fixed-weight adaptive dynamics, not evidence that ordinary pretrained LLMs or ChatGPT Projects automatically perform the same mechanism.
+
+### Akyürek et al. (ICLR 2023) — What Learning Algorithm Is In-Context Learning?
+https://openreview.net/forum?id=0g0X4H8yN4I
+
+**Фактически просмотрено:** peer-reviewed abstract and main claims via indexed ICLR page.
+
+In stylized linear-regression settings, transformers can encode context-specific predictors in hidden representations and update those implicit predictors as new examples enter context, without parameter updates.
+
+### von Oswald et al. (ICML 2023) — Transformers Learn In-Context by Gradient Descent
+https://proceedings.mlr.press/v202/von-oswald23a.html
+
+**Фактически просмотрено:** PMLR abstract/full publication page.
+
+Constructed and trained self-attention models on regression tasks can implement transformations equivalent or closely related to gradient-descent learning within a forward pass.
+
+### Shen, Mishra & Khashabi (ICML 2024) — Do pretrained Transformers Learn In-Context by Gradient Descent?
+https://proceedings.mlr.press/v235/shen24d.html
+
+**Фактически просмотрено:** peer-reviewed abstract/publication page.
+
+Authors show that the gradient-descent equivalence established in stylized ICL setups does not cleanly transfer to real pretrained language models; ICL and GD show materially different behavior.
+
+**B3 guardrail:** fixed-weight contextual learning is technically possible and empirically demonstrated in specialized/meta-trained systems, but we must not claim that a production LLM's natural ICL is literally gradient descent or the same learned update rule.
+
+### Santoro et al. (ICML 2016) — Meta-Learning with Memory-Augmented Neural Networks
+https://proceedings.mlr.press/v48/santoro16.html
+
+**Фактически просмотрено:** PMLR publication page/abstract.
+
+Memory-augmented networks rapidly assimilate new data into an external memory and use it for few-shot prediction instead of relearning network parameters.
+
+**B3-результат for the project edge case:** an adaptive system can place fast/history-dependent state outside the base weights. Therefore a future project-level system with fixed model weights is not *in principle* restricted to first-order content persistence; an external persistent state could carry variables that modulate future processing.
+
+However, **external memory alone does not establish second-order change**. If it only supplies more facts/examples to an unchanged policy, it is first-order state change. Gap 21 requires that the persistent state has a causal role in *how later evidence is incorporated* (for example, changing effective gain, threshold, trust calibration, update strategy or context-selection policy).
+
+## Corrected formal interpretation
+
+The first B3 pass used `x` for current content and `θ` for update-control state. This pass makes an important correction:
+
+At a sufficiently broad system boundary, `θ` itself can always be included inside the total state. Then the global transition law can remain fixed. Therefore 'second-order change' cannot mean an ontologically changing law of nature.
+
+For B3 it means **functional second-order change relative to a declared decomposition**:
+- content state C_t represents what is currently believed/expected/retained;
+- adaptation-control state M_t represents persistent variables that modulate how new evidence updates C;
+- fixed substrate/process F can update both: `(C_{t+1}, M_{t+1}) = F(C_t, M_t, e_t)`.
+
+History-dependent change in M is a legitimate gap-21 effect even though F and base weights may remain unchanged.
+
+This formulation prevents two opposite errors: declaring any context difference 'meta-learning', and wrongly requiring base-model weight change for meta-change.
+
+**B3 support side reaches saturation; final cross-domain synthesis belongs to area №7.**
