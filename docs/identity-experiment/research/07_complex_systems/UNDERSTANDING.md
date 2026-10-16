@@ -523,3 +523,19 @@ history affected later choice → accumulated history caused longitudinal develo
 
 **B7 завершена по saturation.**
 
+## 48. B8 causal claim boundary
+
+B7 supplied alternative causes; B8 converts them into evidential discipline.
+
+A longitudinal pattern becomes stronger evidence for history causality when:
+- relevant effects recur within stable/comparable configuration epochs;
+- history state changes precede selective decision changes;
+- unrelated/configuration changes do not explain the same pattern;
+- reciprocal feedback paths are preserved rather than collapsed.
+
+No closed-product analysis can remove every latent/provider cause.
+
+Therefore the strongest justified output is “reasonably demonstrated with residual uncertainty”, not mechanistic certainty.
+
+**B8 завершена on systems-support side.**
+
