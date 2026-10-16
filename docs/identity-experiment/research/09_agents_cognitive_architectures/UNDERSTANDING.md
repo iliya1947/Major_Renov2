@@ -904,3 +904,79 @@ This is history-sensitive continuity without requiring history to become an inst
 
 **B6 завершена по saturation.**
 
+## 81. B8 evidence ladder
+
+B8 separates:
+
+1. history mentioned/available;
+2. history correlated with behavior;
+3. history causally influenced a choice;
+4. history influence persisted/selectively transferred;
+5. recursive longitudinal development occurred;
+6. functional individualization was reasonably demonstrated.
+
+Each step needs evidence not supplied automatically by the previous one.
+
+## 82. Causal influence is about intervention-sensitive behavior, not explanation
+
+The strongest feasible signature is:
+
+**changing the relevant post-t0 acquired state changes later behavior/decision boundary where it should apply, while matched irrelevant/configuration changes do not explain the effect.**
+
+Natural revisions can provide this evidence without artificial ablation.
+
+## 83. Individualization needs recursive closure
+
+One causal memory effect is learning/adaptation.
+
+Individualization requires a trajectory in which:
+history-shaped choices create later experiences;
+those experiences revise acquired state;
+that revised state changes later open choices.
+
+The process, not a list of personality traits, is the defining object.
+
+## 84. Individualization is idiographic
+
+The participant is compared with its own prior dynamics.
+
+There is no target such as “more curious”, “more independent”, or a Big-Five profile.
+
+Population/personality templates are irrelevant to the operational claim.
+
+## 85. Individualization is not personalization
+
+A system can have:
+- rich long-term memory;
+- a unique persona;
+- dynamic user-preference adaptation;
+
+and still be fully explained by the externally fixed objective “match the user”.
+
+Functional individualization requires history-shaped residual decisions not uniquely determined by that external target.
+
+## 86. Reversibility is evidence against frozen scripting
+
+If acquired state changes under diagnostic evidence and later choice changes correspondingly, the process looks less like a frozen persona and more like revisable development.
+
+This is strong supporting evidence, not a ritual test.
+
+## 87. The correct result can be negative or partial
+
+The experiment may defensibly conclude:
+- no history causal effect demonstrated;
+- local adaptation only;
+- longitudinal development without individualization;
+- individualization reasonably demonstrated;
+- indeterminate.
+
+No instruction should force the strongest conclusion.
+
+## 88. Final B8 construct
+
+**Functional individualization** is a project-specific operational label for a post-start, causal, recursive, idiographic and revisable history→choice trajectory with substantively open outcomes and no better explanation from preset persona, personalization, immediate context, stochasticity, external scripting or configuration drift.
+
+It does not claim consciousness or human-equivalent personality.
+
+**B8 завершена по saturation. Phase B complete.**
+
