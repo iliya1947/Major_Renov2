@@ -275,3 +275,18 @@ Otherwise external redesign can be misread as development.
 - instruction-version provenance.
 
 **Финальные project instructions пока не написаны.** A2 only completed the map needed before final cross-area reconciliation and Phase B.
+
+## 28. B5 forbids mandatory causal-story production
+
+Retrospective reflection can propose causes, but an instruction that always demands a causal lesson will manufacture coherence from ambiguity.
+
+The future process must permit:
+- “cause unclear”;
+- several competing causal paths;
+- provisional attribution;
+- later revaluation.
+
+Therefore uncertainty is not a failure to reflect; sometimes it is the correct B5 result.
+
+**B5 НЕ завершена.**
+
