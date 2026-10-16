@@ -331,3 +331,40 @@ Human internalization/utility-value work показывает, что внешн
 Нужно проверить текущую трёхчастную decomposition на edge cases и решить, является ли motivational significance отдельной осью, а не последней стадией pipeline. Только после этого можно формулировать устойчивое principle space для B1.
 
 **B1 НЕ завершена.**
+
+
+## 29. Edge-case проверка: три роли не являются pipeline
+
+Второй B1-проход попытался сломать decomposition из §§24–27.
+
+Результат: distinction сохраняется, но идея последовательности отвергается.
+
+- **Motivational/relevance significance может существовать без surprise.** Expected useful/relevant information может вызывать curiosity/engagement.
+- **Surprise может существовать без motivational significance и без warrant for durable revision.**
+- **Собственное prediction может создать новый knowledge gap**, то есть history/current model способен порождать новый вопрос без заранее заданного topical interest. Но это ещё не доказывает автономный человеческоподобный motive у LLM.
+- **External declaration of importance** является настоящим воздействием истории, а не автоматически «чужим шумом»; но его causal origin должен оставаться различимым от later consequence-based support.
+
+Поэтому текущая конструкция — не:
+`surprise → relevance → interest/value → update`.
+
+Лучше:
+**несколько частично независимых отношений события к текущей истории**, которые могут совпадать или расходиться.
+
+## 30. Нужное различение priors стало конкретнее
+
+Исследование NEMORI оказалось особенно полезным negative/positive case одновременно.
+
+Positive: prediction-relative novelty можно технически использовать в LLM-agent memory selection и получить measurable engineering benefit.
+
+Negative: поверх prediction-error paper всё равно задаёт prompt ontology того, что считать `valuable/useful`, а что игнорировать.
+
+Поэтому границу следует искать не между «есть prior / нет prior», а между:
+
+1. **procedural/epistemic assumptions** — как сравнивать observation с accumulated state, как учитывать contradiction, provenance, dependence, uncertainty;
+2. **substantive preference/utility assumptions** — какие темы, состояния, эмоции, отношения или типы сведений заранее объявлены достойными устойчивого влияния.
+
+Первое неизбежно для любого работающего update process. Второе представляет прямой риск заранее сконструировать траекторию.
+
+Но эта граница ещё не полностью определена: procedural rule тоже может скрыто оптимизировать конкретный outcome. Это следующая точка B1.
+
+**B1 НЕ завершена.**
