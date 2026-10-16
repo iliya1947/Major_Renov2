@@ -224,3 +224,52 @@ Obsolescence означает прежде всего потерю current actio
 
 **B6 завершена по saturation.**
 
+## Phase B / B7 — causal baseline and participant boundary — 16.10.2026
+
+B7 устанавливает, относительно какого именно уровня можно говорить, что «участник изменился», и какие альтернативные причины могут имитировать развитие.
+
+Финальная nested model:
+
+1. **L0 — inherited model substrate:** pretraining/post-training/alignment, parametric capabilities and priors.
+2. **L1 — current inference realization:** L0 + current control/context/retrieval/inference state.
+3. **L2 — longitudinal Project participant:** последовательность L1, связанная stable Project control plane + persistent experiential state + project continuity mechanisms.
+4. **L3 — participant↔user/environment trajectory system:** L2 + user + tools/environment.
+
+Рабочая граница participant для acquired-experience/individualization claims — L2. L3 нужен для объяснения reciprocal trajectory, но user не становится частью participant только потому, что causal loop совместный.
+
+Ключевая коррекция B7:
+**system membership и causal origin ортогональны.**
+Provider-updated model может быть constitutive component participant, но изменение exogenous. User находится снаружи participant, но его response может быть endogenously caused by earlier participant action.
+
+Baseline не является «пустой личностью» и не равен одному первому ответу. Он включает всю pre-experiment causal configuration:
+- model/post-training priors;
+- initial Project instructions and sources;
+- memory mode;
+- tools/permissions;
+- relevant product/runtime state;
+- any substantive initial user-authored content;
+- stochastic/inference behavior range.
+
+Различаются:
+- **baseline elicitation** — позднее проявление уже существовавшей capability/tendency;
+- **transient context conditioning** — эффект текущего prompt/retrieval без durable state change;
+- **persistent Project-level acquisition** — post-t0 history changes persistent experiential state that can later affect behavior.
+
+Поэтому developmental target — не behavioral novelty, а:
+**new causal dependence on post-t0 acquired history.**
+
+Stochasticity тоже двухэтапна:
+- early random branch itself is not acquired individuality;
+- if it changes user/environment, becomes persistent experience and later drives choices, subsequent divergence may become genuinely history-mediated.
+
+Для long-running ChatGPT experiment вводятся **configuration epochs**. Observable changes of model/runtime, Project instructions, memory mode, tools/apps/permissions or relevant product configuration create epoch boundaries. Functional continuity of L2 may survive them, but behavior across the boundary cannot be attributed to history alone.
+
+Особый false positive — **environment-mediated reinstatement**: user may remember/restate past experience that participant itself no longer retains. Later behavior can then depend on old content without participant-level persistence.
+
+Final B7 confound model covers:
+inherited elicitation; transient context conditioning; persistent history; stochastic/runtime variability; history-amplified random branches; environment-mediated reinstatement; exogenous user/tool/environment drift; control/config changes; provider model/runtime drift; probe effects; unknown causes.
+
+Это не требование превратить будущий один естественный эксперимент в лабораторный A/B design. Задача — сохранять provenance и не превращать альтернативные причины в post-hoc developmental narrative.
+
+**B7 завершена по saturation.**
+
