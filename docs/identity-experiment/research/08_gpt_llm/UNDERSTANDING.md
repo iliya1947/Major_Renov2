@@ -355,3 +355,17 @@ B8 must test causal influence rather than appearance alone.
 
 **B7 завершена по saturation.**
 
+## 38. B8 behavior is an imperfect proxy for causal state
+
+Output novelty is neither necessary nor sufficient for acquired development.
+
+The same output may have a changed causal basis, while a changed output may arise from prompt/runtime stochasticity.
+
+For a closed LLM, B8 therefore favors:
+- repeated comparable behavioral contrasts;
+- history-state perturbation/revision where appropriate;
+- stable configuration provenance;
+over hidden-state/self-report claims.
+
+**B8 завершена on model-support side.**
+
