@@ -707,4 +707,12 @@ A2 не означает глубокого решения этих вопрос
 - Determinism and behavioral consistency do not by themselves negate choice; relevant counterfactual responsiveness matters.
 - Historical social influence does not become authority by accumulation; authority requires appropriate provenance and active scope.
 - Remaining causal-credit, persistence/authority mechanics, baseline confounds and evidential standards belong to B5–B8.
-
+## Phase B — B5 final 16.10.2026
+- B5 delayed causal credit completed by saturation.
+- Later outcome is not converted directly into a lesson; it first supports a revisable causal-contribution attribution.
+- Temporal order alone is insufficient; preserve competing/direct/mediated/enabling/joint/redundant/exogenous paths and attribution uncertainty.
+- Decision quality is separate from realized terminal outcome; luck, rescue and exogenous failure must not be mislearned.
+- Retrospective LLM explanation is a candidate attribution, not ground truth.
+- Revision scope follows causal support: local / broader / no durable revision.
+- Reciprocal participant↔user/environment feedback can itself be part of the causal path.
+- Remaining persistence/retrieval/authority mechanics belong to B6.
