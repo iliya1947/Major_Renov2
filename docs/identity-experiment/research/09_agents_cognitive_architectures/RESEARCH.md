@@ -448,3 +448,101 @@ trajectory/event evidence
 - abstraction supported by many episodes but no single decisive source.
 
 **B2 НЕ завершена.**
+
+## B2 — проход 2: provenance, scope and lifecycle in agent memory
+
+**Статус:** second engineering stress-test B2; B2 reaches saturation after cross-domain synthesis.
+
+### MemWeaver (Ye et al., Findings ACL 2026)
+https://aclanthology.org/2026.findings-acl.630/
+
+**Фактически просмотрено:** ACL abstract/metadata and framework summary.
+
+MemWeaver separates a temporally grounded graph, an experience memory abstracting recurring patterns, and passage memory preserving original textual evidence; retrieval jointly returns abstraction and supporting evidence.
+
+**B2-результат:** peer-reviewed agent evidence supports traceable coexistence of abstraction and source evidence. It is one implementation, not a required architecture, but it directly validates the engineering usefulness of keeping abstraction from becoming source-erasing compression.
+
+### Structured Episodic Event Memory / SEEM (Lu et al., ACL 2026)
+https://aclanthology.org/2026.acl-long.277/
+
+**Фактически просмотрено:** ACL abstract/metadata and framework summary.
+
+SEEM constructs structured episodic event frames anchored by provenance pointers and uses reverse provenance expansion to reconstruct context from evidence.
+
+**B2-результат:** precise provenance is operationally useful for coherent long-horizon reasoning. Again, the specific graph/frame design is not adopted; the transferable principle is that derived structure should retain a path back to evidence.
+
+### Grounding Agent Memory in Contextual Intent / STITCH (Yang et al., Findings ACL 2026)
+https://aclanthology.org/2026.findings-acl.584/
+
+**Фактически просмотрено:** ACL abstract/full page.
+
+Similar facts recur under different latent goals and constraints, and semantic similarity alone retrieves context-mismatched evidence. Intent indexing and compatibility filtering substantially reduce such interference.
+
+**B2-результат:** reusable experience needs **scope/context compatibility**, not just semantic similarity. A generally true-looking lesson can be wrong for the current latent goal/action context.
+
+### Xiong et al. (ACL 2026) — How Memory Management Impacts LLM Agents
+https://aclanthology.org/2026.acl-long.27/
+
+**Фактически просмотрено:** ACL abstract/full page.
+
+Retrieved similar experiences strongly steer output; wrong experiences propagate errors, and even apparently successful past executions can be misleading when replayed.
+
+**B2-результат:** historical success is not permanent validation. Experience quality is conditional on future task/context evidence, so lifecycle must permit later downgrade/narrowing/deactivation.
+
+### Memora (Uddin et al., Findings ACL 2026)
+https://aclanthology.org/2026.findings-acl.1337/
+
+**Фактически просмотрено:** ACL full page/abstract/benchmark description.
+
+Systems frequently reuse obsolete/invalidated memory and fail to reconcile evolving memory; FAMA penalizes use of obsolete/invalidated memory.
+
+**B2-результат:** factual persistence without validity state can be worse than forgetting. `Still stored` must not entail `eligible to guide current behavior`.
+
+### ReMe (Cao et al., Findings ACL 2026)
+https://aclanthology.org/2026.findings-acl.829/
+
+**Фактически просмотрено:** ACL abstract/full page.
+
+ReMe explicitly combines experience distillation, context-adaptive reuse and utility-based refinement/pruning of outdated memories.
+
+**B2-результат:** current systems increasingly treat experience as lifecycle-managed rather than append-only. However, ReMe's utility criterion is task-specific engineering utility and should not be imported as the project's significance/value rule.
+
+### TEPA (Zhou et al., 2026 preprint) — illustrative, not primary evidence
+https://arxiv.org/abs/2608.07429
+
+**Фактически просмотрено:** full arXiv HTML through Method/Results.
+
+TEPA separates Hypothesis, Active and Revoked precedents; revoked history remains archived but excluded from normal retrieval. Under its controlled same-key reversal benchmarks, explicit revocation strongly outperforms append-only memory.
+
+**B2-результат:** useful existence-vs-action-guidance proof-of-concept, but limited to engineered conflict keys, thresholds and benchmark objectives. We use it only as an existence example, not as final lifecycle design.
+
+## Agent-side edge-case conclusions
+
+1. **One episode → broad reusable change is technically possible**, but an abstraction must expose the inferential bridge; otherwise a generated 'lesson' simply overgeneralizes one example.
+2. **Conflicting episodes need adjudication or contextual separation**, not retrieval of both as equally active evidence.
+3. **Context mismatch is itself a lifecycle/scope failure**: an experience may remain valid historically yet be inapplicable now.
+4. **A derived interpretation can become obsolete while its source episode remains true.** This requires different statuses for source evidence and derivative.
+5. **Past influence and current validity are independent:** a bad memory may have caused a real past action while now deserving zero current authority.
+6. **Many-to-one abstraction requires many-to-one provenance:** deleting source relations converts reusable understanding into an unverifiable narrative.
+
+## Final engineering form of the B2 unit
+
+The strongest surviving conceptual unit is **not a memory blob**. It is an evidence-linked, revisable relation:
+
+`episode/trajectory evidence ↔ interpretation/attribution ↔ conditional reusable understanding`
+
+with independent dimensions for:
+- provenance/support;
+- scope/conditions/exceptions;
+- current validity/warrant;
+- action-guidance eligibility;
+- historical influence;
+- revision lineage.
+
+One episode can support several understandings; one understanding can be supported by many episodes. This cardinality is necessary to handle exceptions, overlapping contexts and cross-episode abstractions.
+
+## Saturation check B2 — agent side
+
+Targeted search across 2024–2026 agent memory work repeatedly returned the same mechanism families: raw/episodic preservation, reflection/distillation, abstraction, contextual retrieval, provenance, validity/update/pruning and lifecycle management. No additional causal class altered the unit/lifecycle synthesis.
+
+**B2 is saturated at principle-space level. B3 is not started in this file.**
