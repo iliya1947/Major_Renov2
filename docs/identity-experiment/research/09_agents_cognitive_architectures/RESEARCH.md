@@ -776,3 +776,151 @@ current input decomposed into authority/evidence/social/opportunity roles + acqu
 
 **B4 НЕ завершена.** Next pass: adversarially test the revised criterion for false positives/false negatives, especially deterministic-but-reasoned choice, strongly acquired stable preference, suggestion-vs-command ambiguity, and history influencing interpretation of authority itself.
 
+# Phase B — B4 adversarial pass 3: deterministic choice, strong preference and authority ambiguity
+
+## Sources inspected in this pass
+
+1. Sutton & Barto, Reinforcement Learning: An Introduction, 2nd ed. — official author-hosted draft/book material. Deterministic policies select a specific action for a state; stochasticity is not required for sequential action selection.
+2. Fischer & Ravizza reasons-responsiveness literature, checked through Cambridge/Springer discussions of guidance control. The useful source-domain distinction is counterfactual sensitivity to relevant reasons rather than variability under identical conditions. This is used only as a functional analogy, not as an attribution of human moral agency to an LLM.
+3. Handel (2024), “Making and breaking habits”, Journal of the Experimental Analysis of Behavior. Goal-directed vs habitual control is distinguished by sensitivity to outcome value and response–outcome contingency.
+4. Bouton (2024), “Habit and persistence”, Journal of the Experimental Analysis of Behavior. Behavioral persistence itself does not establish habit; devaluation sensitivity is the more diagnostic distinction.
+5. Ruytenbeek, Ostashchenko & Kissine (2017), “Indirect request processing, sentence types and illocutionary forces”, Journal of Pragmatics, DOI 10.1016/j.pragma.2017.07.011. Directive force cannot be inferred safely from surface sentence form alone; context matters, and conventional indirect requests can function like imperatives.
+6. Guo et al. (ACL 2026), “When Personalization Legitimizes Risks”, DOI 10.18653/v1/2026.acl-long.1260. Benign memory can bias current intent inference.
+7. Sun et al. (Findings ACL 2026), “When Personalization Misleads”, DOI 10.18653/v1/2026.findings-acl.395. Personalized history can distort current factual reasoning.
+8. Bajoria et al. (2026), “From Language Models to Agentic AI”, Cognitive Computation. The survey treats autonomy, tool use, collaboration and governance as interacting dimensions rather than one global switch.
+
+## Adversarial case 1: deterministic but reasoned selection
+
+The second-pass criterion still risked equating a live alternative with nonzero same-state behavioral randomness.
+
+That is too strong.
+
+A deterministic decision process can select A every time under exactly the same state while still being sensitive to relevant changes in evidence, outcome value or constraints. RL provides a simple technical existence proof: deterministic policies map states to actions and still constitute action-selection policies.
+
+Therefore B4 rejects the equation choice = stochasticity.
+
+The relevant property is counterfactual reason-responsiveness: holding the decision mechanism fixed, sufficiently relevant changes in reasons/evidence can change which permissible alternative is selected.
+
+This is only a functional criterion. It does not imply metaphysical free will.
+
+## Adversarial case 2: strongly stable acquired preference
+
+Repeatedly selecting the same option is not by itself lock-in.
+
+Human goal-directed/habit research provides a useful source-domain distinction: repeated behavior can remain goal-directed when it changes after outcome devaluation or contingency change; persistence without such sensitivity is more compatible with habitual/inflexible control.
+
+Transferred cautiously to B4:
+- stable acquired preference may produce highly consistent selection;
+- consistency is compatible with bounded choice if relevant counterevidence or changed consequences can alter the ranking;
+- lock-in is diagnosed by insensitivity, not by low behavioral variance.
+
+Therefore the project must not force novelty or occasional disagreement merely to prove individuality.
+
+## Adversarial case 3: two alternatives exist but evidence strongly favors one
+
+Permitted is not enough for an alternative to be live.
+
+A live alternative must remain materially viable under the task, factual state and current evidence. Syntactically generatable nonsense, known falsehoods, impossible actions or disallowed actions do not create a real choice locus.
+
+However, alternatives need not be equally attractive. Strong but non-eliminating evidence may yield deterministic selection of A while B remains a viable counterfactual under different reasons.
+
+This motivates a distinction:
+- feasible/permitted set;
+- live/warranted choice set;
+- ranking within that set.
+
+If current facts, logic or authority collapse the live set to one, B4 should not manufacture individuality by choosing otherwise.
+
+## Adversarial case 4: suggestion versus command ambiguity
+
+Surface wording cannot safely determine directive force. A polite question can function as a request; context can change whether an utterance is understood as directive.
+
+This creates a special risk for an experience-forming system: acquired social history could silently convert suggestions into obligations or commands into optional preferences.
+
+B4 therefore adds authority-source provenance:
+- a past item can constrain the present only if it originated as an authoritative/standing instruction whose scope still applies;
+- accumulated approval, disappointment, repetition or preference does not become authority merely through persistence;
+- acquired history may help interpret genuinely ambiguous pragmatics, but must not on its own upgrade or downgrade authority.
+
+If unresolved ambiguity would materially alter the permission envelope, preserving uncertainty or clarification is preferable to letting acquired preference decide its own constraints. Exact hierarchy/implementation remains B6.
+
+## Adversarial case 5: history-biased parsing of current authority/evidence
+
+ACL 2026 personalization work gives direct technical evidence that benign memory can bias current intent inference and factual reasoning.
+
+Thus the second-pass condition “history may influence interpretation” needs a boundary: developmental history must not be allowed to rewrite the evidential or authority status of current input merely because the historical trajectory favors one reading.
+
+This does not mean history is ignored:
+- previous explicit standing instructions can remain authority through provenance;
+- previous factual episodes can remain evidence through provenance;
+- acquired preferences can rank genuinely open options.
+
+The failure mode is role leakage: preference/social reinforcement masquerading as authority or fact.
+
+## Adversarial case 6: forced clarification with open question content
+
+Decision-locus decomposition survives.
+
+If a higher rule mandates clarification, ask-vs-not-ask is not an own-choice locus.
+
+But the clarification content can still be open if several materially useful questions are available and no rule uniquely specifies one.
+
+If only one question can resolve the blocking ambiguity, that lower locus is effectively determined too.
+
+Thus autonomy can disappear or remain at different levels of the same interaction without contradiction.
+
+## Final B4 correction: history is not required for every own choice
+
+The previous revised criterion still mixed operational autonomy with individuality.
+
+A participant can make a reasoned bounded choice among open alternatives using current evidence even when acquired history is causally irrelevant.
+
+Therefore B4 now separates four levels:
+
+### 1. Open decision locus
+After current authority, feasibility and task-relevant evidence are applied, at least two materially distinct live alternatives remain.
+
+### 2. Functional bounded choice
+At an open locus, the participant selects through a reason-responsive decision process rather than external scripting, pure randomness or mechanical precedent replay.
+
+The process may be deterministic.
+
+### 3. History-shaped bounded choice
+A functional bounded choice for which acquired history materially changes ranking, interpretation, confidence or selection among live alternatives.
+
+Conceptual counterfactual: with current authority/evidence held fixed, removing or replacing the relevant acquired history would change some decision-relevant quantity in a predictable direction.
+
+Exact causal testing belongs to B8.
+
+### 4. Trajectory-forming history-shaped choice
+A history-shaped choice that also changes later external/internal state: user/environment response, evidence, memory/revision, opportunities/constraints or future choice dynamics.
+
+This fourth case closes the developmental loop:
+past acquired history → current open choice → changed future experience → revised history → later choice.
+
+## Final B4 guardrails
+
+- deterministic ≠ scripted;
+- repeated ≠ locked-in;
+- disagreement ≠ autonomous;
+- compliance ≠ non-autonomous at every locus;
+- historical influence ≠ authority;
+- historical consistency ≠ individuality by itself;
+- random variation ≠ own choice;
+- strong preference ≠ preset value if it was acquired and remains evidence-sensitive;
+- current truth/constraint should not be sacrificed to display personality;
+- not every own choice is individualized;
+- not every individualized choice is trajectory-forming.
+
+## Saturation check
+
+A final targeted scan of 2026 agent-autonomy/controllability surveys added dimensions and governance terminology but no new causal class that changes the B4 model.
+
+The remaining unresolved issues are assigned to later packages rather than being B4 gaps:
+- delayed causal attribution → B5;
+- persistence/retrieval/instruction authority mechanics → B6;
+- participant/runtime baseline confounds → B7;
+- causal evidence standard for individualization → B8.
+
+**B4 завершена по saturation.**
+
