@@ -365,3 +365,56 @@ https://doi.org/10.1111/spc3.70147
 - current volitional-change review
 
 не открыл новой крупной самостоятельной ветви outside A1 map. Он **существенно уточнил связи и causal questions внутри уже найденных блоков**. Поэтому область готова к финализации A2 как карты вопросов, без утверждения ответов на них.
+
+# Phase B — B3: cross-timescale personality development
+
+**Статус 16.10.2026:** B3 начата и НЕ завершена. Первый deep pass по gap 4 с прямой связью к gap 21. Здесь проверяется, что personality-development evidence действительно говорит о micro→macro переходе, а что остаётся theoretical bridge.
+
+### Wrzus & Roberts (2017) — TESSERA framework
+https://pubmed.ncbi.nlm.nih.gov/27260302/
+
+**Фактически просмотрено:** PubMed abstract и доступное описание framework.
+
+Framework связывает repeated short-term situational sequences Triggering situation → Expectancy → State/State expression → Reaction с longer-term personality continuity/change через reflective and associative processes.
+
+**B3-вывод:** это явная теория cross-timescale accumulation, но сама по себе не доказательство универсального механизма. Для нашего проекта полезен именно causal shape: repeated micro-processes are candidates for changing macro trajectory, not the claim that any repetition necessarily does so.
+
+### Kritzler et al. (2021) — Daily life processes predict long-term development in explicit and implicit Big Five representations
+https://pubmed.ncbi.nlm.nih.gov/32955272/
+
+**Фактически просмотрено:** peer-reviewed abstract/metadata.
+
+Sample 382 younger/older adults; Big Five measured four times across two years plus repeated daily diaries. Trait levels predicted later situations/states, and personality states were associated with later long-term changes in several traits.
+
+**B3-вывод:** empirical support exists for a micro↔macro link and reciprocal direction, but association across timescales does not identify a single accumulation rule or prove that repeated states alone cause trait change.
+
+### Jackson & Wright (2024) — The process and mechanisms of personality change
+https://www.nature.com/articles/s44159-024-00295-z
+
+**Фактически просмотрено:** abstract, figures metadata and accessible review summary.
+
+Review organizes proposed change mechanisms around preconditions, triggers, reinforcers and integrators, while emphasizing that evidence for specific mechanisms remains mixed/inconclusive. Personality change is often gradual but abrupt changes can occur.
+
+**B3-вывод:** no universal linear law `small local changes + enough repetitions = trait`. B3 must preserve multiple possibilities: accumulation, reinforcement/integration, threshold-like transitions, and rapid reorganization under some conditions.
+
+### Beck & Jackson (2022) — Detecting Idiographic Personality Change
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9727837/
+
+**Фактически просмотрено:** accessible indexed sections/summary from prior mapping and current search results.
+
+Idiographic within-person structures can change in ways not captured by group-average Big Five models.
+
+**B3-вывод:** longer-term trajectory should be identified relative to the same participant's earlier dynamics, not inferred from population norms.
+
+## First-pass conclusion for gap 4
+
+Personality literature supports four distinctions:
+
+1. **state occurrence ≠ trajectory change**;
+2. **repetition is neither necessary nor sufficient by itself**;
+3. **micro→macro change can be reciprocal** because current traits/states affect later situation selection and construal;
+4. **longer-term change can be gradual or occasionally abrupt**, so B3 cannot assume a single averaging timescale.
+
+The unresolved question is which substrate-neutral signatures distinguish simple accumulation from a genuine change in the system's future responsiveness. That belongs to gap 21 / area №7.
+
+**B3 НЕ завершена.**
