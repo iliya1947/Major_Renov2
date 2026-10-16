@@ -366,3 +366,148 @@ These are direct examples that **platform/model/runtime state can change while a
 Re-verification of Projects, Memory, project-only/default memory, Sources, apps, files/Library, Work, Scheduled tasks and release notes plus the newly surfaced Space and dots capabilities changed several current product facts but did not invalidate the core Project boundary. The map now explicitly covers the two new adjacent surfaces and the current 2026 product drift.
 
 A2 №11 can therefore be finalized as a current product map, with the standing requirement to **re-verify all product-dependent assumptions immediately before experiment launch**.
+
+# Phase B — B6 deep pass 1: actual ChatGPT persistence surfaces and observability
+
+**Дата re-verification:** 16.10.2026. Product facts below were re-checked against current OpenAI Help Center / Model Spec in this B6 pass; they are not assumed timeless.
+
+## Current official sources inspected
+
+1. OpenAI Help Center — Projects in ChatGPT  
+https://help.openai.com/en/articles/10169521-projects-in-chatgpt  
+Current page inspected 16.10.2026.
+
+2. OpenAI Help Center — Memory in ChatGPT  
+https://help.openai.com/en/articles/8590148-memory-in-chatgpt  
+Current page inspected 16.10.2026.
+
+3. OpenAI Help Center — File storage and Library in ChatGPT  
+https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt/  
+Current page inspected 16.10.2026.
+
+4. OpenAI Help Center — Chat and file retention in ChatGPT  
+https://help.openai.com/en/articles/8983778-chat-and-file-retention-in-chatgpt  
+Current page inspected 16.10.2026.
+
+5. OpenAI Model Spec — “Ignore untrusted data by default”  
+https://model-spec.openai.com/2025-10-27  
+Current public page located and inspected 16.10.2026; this is a model-behavior specification, not a guarantee of every ChatGPT retrieval implementation.
+
+## 1. Actual Project persistence layers are heterogeneous
+
+Current Projects documentation confirms several distinct surfaces:
+
+- **Project instructions** — persistent project-specific control context; they apply inside the project and override global custom instructions.
+- **Project files/sources** — explicit project content; they remain available to the project and can be opened/deleted by the user.
+- **Project chats** — persistent conversations; project memory can reference other conversations in the same project.
+- **Project memory mode** — default or project-only, which changes which external conversations/memories are eligible for reference.
+- **Account Memory/personalization** — a separate system that may use past chats, saved memories, files in Library and connected apps depending on settings/mode.
+- **Library** — separate file persistence; deleting a chat does not delete a separately saved Library file.
+- **Connected apps** — separate external data surfaces with their own permissions.
+
+These are not interchangeable forms of “memory”.
+
+## 2. Project-only memory is the strongest currently documented isolation mode
+
+Current docs say that with project-only memory:
+- previously saved memories are not referenced in project chats;
+- chats may reference other conversations in the same project;
+- chats cannot reference conversations outside the project;
+- outside chats cannot reference project conversations;
+- project chats/files remain available inside the project.
+
+For the future experiment, this makes project-only memory a strong **candidate isolation boundary**, not yet a final launch decision. It reduces outside-history contamination but does not make within-project retrieval fully transparent.
+
+## 3. Persistence must be decomposed into a causal pipeline
+
+Current product docs and agent-memory research require at least:
+
+**stored → eligible/available → retrieved/included/materialized → behaviorally influential**
+
+These are distinct.
+
+Examples:
+- a project file can exist but not be used on a particular turn;
+- a past project chat can be eligible but not selected;
+- selected text can be included yet underweighted/ignored by the model;
+- product Memory can use context not exhaustively exposed in the visible Memory summary/Sources UI.
+
+Therefore:
+**storage alone is not continuity evidence, and retrieval alone is not influence evidence.**
+
+This distinction is mandatory for B6 and later B8.
+
+## 4. Product Memory is partly opaque
+
+Current Memory documentation explicitly says:
+- Memory does not retain every detail;
+- ChatGPT decides which available information is relevant;
+- the Memory summary is high-level and need not include every detail/source;
+- Sources may appear when personal context is used, but Sources may not show every factor shaping a response;
+- information derived from chat history can change as ChatGPT updates what is useful to remember.
+
+Thus automatic product Memory is not an auditable canonical record of acquired experience.
+
+It may remain useful as a convenience/context surface, but an experiment that needs provenance/revision cannot infer:
+“not visible in summary → not available”
+or
+“visible source → complete causal explanation of the response”.
+
+## 5. Deletion and obsolescence are surface-specific
+
+Current docs establish that:
+- deleting a chat does not necessarily delete a separate saved memory;
+- deleting a chat does not delete a separately saved Library file;
+- fully removing remembered information may require removing it from multiple sources;
+- project files remain until removed/project deleted (subject to retention policy);
+- Memory changes/deletion can take time to propagate.
+
+Therefore B2 “obsolete/historical-only” cannot be implemented conceptually as one global delete switch.
+
+For B6:
+**logical obsolescence/action-guidance status and physical deletion across product surfaces are different operations.**
+
+A stale item can remain stored historically while being marked non-guiding; conversely deleting one surface does not prove all copies/context derived from it are gone.
+
+## 6. Stable governing instructions and historical data are different authority classes
+
+Current Projects docs give Project instructions a clear control role. Project files/chats are contextual sources.
+
+Current Model Spec additionally states that file attachments/quoted/tool content have no authority by default; instructions embedded in such data are treated as information unless higher-level instructions explicitly delegate authority.
+
+For the experiment, this supports a critical B6 separation:
+
+**control plane:** stable project instructions / current legitimate user requests  
+**history plane:** episodes, interpretations, old intentions, quoted commands, acquired conclusions, summaries
+
+Historical text must not silently become a new governing instruction simply because it is persistently stored or repeatedly retrieved.
+
+This is a conceptual requirement. Exact final project wording belongs later synthesis.
+
+## 7. Immediate feasibility boundary
+
+The future mechanism can rely on:
+- explicit Project instructions as governing constraints;
+- explicit Project sources/files as inspectable durable state;
+- Project chats as additional contextual history;
+- project-only memory as a candidate isolation mode.
+
+It cannot rely on:
+- a fully documented automatic retrieval ranking;
+- complete observability of product Memory selection;
+- a guarantee that every stored item is used;
+- a single global deletion operation that invalidates every persistence surface.
+
+## B6 first-pass consequence
+
+A viable continuity mechanism cannot be “store everything and trust ChatGPT memory”.
+
+It needs an explicit distinction between:
+1. durable historical content;
+2. eligibility/current validity;
+3. selection/retrieval;
+4. model-side use;
+5. governing authority.
+
+**B6 НЕ завершена.** Next pass: retrieval policy/path dependence, compression, context mismatch, stale/obsolete replay and self-reinforcing selection.
+
