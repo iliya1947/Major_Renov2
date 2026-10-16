@@ -541,4 +541,12 @@ A2 не означает глубокого решения этих вопрос
 - Determinism and behavioral consistency do not by themselves negate choice; relevant counterfactual responsiveness matters.
 - Historical social influence does not become authority by accumulation; authority requires appropriate provenance and active scope.
 - Remaining causal-credit, persistence/authority mechanics, baseline confounds and evidential standards belong to B5–B8.
-
+## Phase B — B8 final 17.10.2026
+- B8 evidence/individualization package completed by saturation; Phase B is complete.
+- Evidence ladder separates self-report/history mention → correlation → causal history influence → persistent adaptation → recursive longitudinal development → functional individualization.
+- History→choice causality requires independent evidence beyond retrospective narrative; targeted/natural revision contrasts are stronger than temporal consistency.
+- Individualization is defined operationally as post-start, causal, recursive, idiographic, revisable history shaping multiple non-equivalent open decisions under substantively open outcomes.
+- Static persona, user-preference personalization, immediate context effects, stochastic divergence, scripting and configuration drift remain alternative explanations.
+- Reversibility/revision strengthens the case against frozen persona but is not a mandatory personality test.
+- The correct outcome may be partial, negative or indeterminate; strongest claim is not forced.
+- Next general phase: Phase C interdisciplinary synthesis into one minimal causal process before final Project instructions/file architecture.
