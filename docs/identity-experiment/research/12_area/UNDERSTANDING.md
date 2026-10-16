@@ -290,3 +290,15 @@ Therefore uncertainty is not a failure to reflect; sometimes it is the correct B
 
 **B5 НЕ завершена.**
 
+## 29. B7 control changes are not experience changes
+
+Project instruction edits, example changes and memory-mode changes can alter later behavior directly.
+
+They must therefore remain in a separate configuration/control provenance stream from participant-acquired experience.
+
+Even participant-proposed rule changes do not automatically become ordinary experience updates if they modify the governing process itself.
+
+This preserves the difference between development within rules and redesign of the rules.
+
+**B7 завершена on instruction-support side.**
+
