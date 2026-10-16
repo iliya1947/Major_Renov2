@@ -679,3 +679,8 @@ Handoffs:
 A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры, границ и полноты карты; разработка и сравнение конкретных agent memory/update/autonomy mechanisms относится к фазе B.
 
 **Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №10 «Машинное обучение и адаптивные системы»**.
+
+
+## Phase B status
+
+**B2 gaps 5+13+15 начата 16.10.2026, НЕ завершена.** Первый engineering deep pass: Storage ≠ Reflection ≠ Experience abstraction; provenance required for causal revision; obsolete memory must be separable from historical existence. Следующий шаг: stress-test candidate relational unit on edge cases before lifecycle finalization.
