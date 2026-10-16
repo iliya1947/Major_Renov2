@@ -329,3 +329,39 @@ Conversely, repeated individually weak observations may accumulate into strong e
 Это отличается от preset value function: речь о relation evidence↔current understanding. Но этот procedural rule всё равно содержит inductive assumptions; «без заранее заданных ценностей» не означает «без любых fixed process assumptions».
 
 **B1 НЕ завершена. Не переходить к B2.**
+
+
+## B1 — проход 2: repetition, one-shot evidence and no-update
+
+**Статус:** B1 НЕ завершена. Здесь проверяется, можно ли заменить сложный warrant для update простыми эвристиками `повторилось много раз` или `одно событие недостаточно`.
+
+### Xie & Hayes (2022) — Sensitivity to Evidential Dependencies in Judgments Under Uncertainty
+
+**Фактически просмотрено:** peer-reviewed abstract и доступный full-text material с описанием трёх experiments.
+
+**Результат:** normative evidential weight зависит от зависимости источников: несколько independent informants несут больше новой evidence, чем повторение зависимой testimony. Participants учитывали dependence непоследовательно. Поэтому `N повторов` не является универсальной мерой evidence strength; нужно различать независимое подтверждение и многократное воспроизведение одного происхождения.
+
+### Bramley et al. (2018) — Time in Causal Structure Learning
+
+**Фактически просмотрено:** full PDF, включая one-shot experiment, multiple-observation comparison и discussion.
+
+**Результат:** participants могли делать систематические causal-structure judgments после единственного динамического episode; event order и exact timing влияли на inference. Это не доказывает безошибочность one-shot learning, но опровергает универсальное правило `для durable update всегда нужно многократное повторение`: один observation может быть высокодиагностичным при сильных structural constraints.
+
+### Дополнительная проверка repeated evidence
+
+Современные studies of repeated claims/source dependence совпадают с более общим результатом: epistemic value повторения зависит от того, воспринимаются ли сообщения как independent evidence или как correlated/redundant testimony. Для B1 достаточно peer-reviewed anchor Xie & Hayes; более новые conference/preprint результаты пока не используются как основное основание.
+
+## Результат edge-case проверки gap 7
+
+1. **Repeated weak evidence:** может накапливаться, если observations несут действительно новую/частично независимую информацию. Повторение одного источника/одной цепочки не должно линейно умножать warrant.
+2. **One decisive event:** возможно. Количество episodes не может быть обязательным gate; важна diagnosticity relative to live alternatives.
+3. **No-update after repetition:** может оставаться оправданным, если evidence зависима, ненадёжна или не различает competing explanations.
+4. **Large update after one event:** может быть оправдан, если observation резко разделяет alternatives; но это не permission превращать salience/shock в diagnosticity.
+
+Отсюда усиливается рабочий принцип B1:
+
+> update warrant зависит не от интенсивности и не от голого числа повторений, а от того, насколько evidence изменяет относительную поддержку live interpretations с учётом provenance, dependence, uncertainty и alternatives.
+
+Это всё ещё conceptual principle space, не final project instruction.
+
+**Следующий вопрос внутри B1:** формализовать границу между epistemic/procedural criterion и скрытым value criterion и проверить её на LLM memory/update systems. B1 НЕ завершена.
