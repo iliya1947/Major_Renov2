@@ -407,3 +407,24 @@ ML typically measures:
 - protected invariants vs adaptable state.
 
 Concrete agent experience architecture остаётся primary №9, actual ChatGPT mechanisms — №11.
+
+## 40. B5 formal transfer boundary
+
+Temporal-credit algorithms are not a ready-made solution for this experiment because they presuppose a target return.
+
+Their transferable contribution is narrower: separating delayed causal influence from temporal proximity, luck, routine actions and competing trajectory branches.
+
+## 41. Outcome quality and decision quality must be separated
+
+Under partial observability, a good decision can produce a bad outcome and a bad decision can succeed by luck or rescue.
+
+Therefore future experience must not update a decision rule solely from terminal success/failure.
+
+## 42. Baseline is part of a counterfactual attribution
+
+Any statement like “this action mattered because otherwise Y would not have happened” depends on what alternative action/process is used as the counterfactual baseline.
+
+For natural dialogue this baseline is often uncertain and cannot be rerun, so confidence should remain correspondingly limited.
+
+**B5 НЕ завершена.**
+
