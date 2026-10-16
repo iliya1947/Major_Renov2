@@ -541,4 +541,4 @@ A2 не означает глубокого решения этих вопрос
 
 ## Phase B status
 
-**B3 gaps 4+21 начата 16.10.2026, НЕ завершена.** Working substrate-neutral distinction: first-order change updates current state/content; second-order change means history alters later update gain/threshold/strategy/effective transition rule. Evidence guardrail: apparent path dependence may reflect omitted latent state. Следующий шаг: continuity under component turnover and whether project/external-memory systems can show genuine second-order change without weight adaptation.
+**B3 gaps 4+21 завершена 16.10.2026 по saturation.** Working substrate-neutral distinction: first-order change updates current state/content; second-order change means history alters later update gain/threshold/strategy/effective transition rule. Evidence guardrail: apparent path dependence may reflect omitted latent state. Следующий шаг: continuity under component turnover and whether project/external-memory systems can show genuine second-order change without weight adaptation.
