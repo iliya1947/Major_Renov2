@@ -1,6 +1,6 @@
-# A1 №9 — AI-агенты и когнитивные архитектуры
+# A1/A2 №9 — AI-агенты и когнитивные архитектуры
 
-**Статус:** A1 завершена как первичная картография 15.10.2026.
+**Статус:** A1 завершена 15.10.2026; **A2 завершена 16.10.2026 как повторная финальная картография после межобластной сверки.**
 
 **Цель:** определить, какие части исследований AI-агентов, LLM-агентов и когнитивных архитектур необходимо будет исследовать глубоко позже. Здесь не проектируется будущий агент и не выводятся инструкции эксперимента.
 
@@ -571,8 +571,111 @@
 
 После этих проверок новые обзорные результаты в основном добавляли детали внутри уже найденных ветвей. Это **первичная A1-картография**, а не финальный A2 coverage audit.
 
+## 38. A2 — финальные межобластные уточнения и новые вопросы
+
+После межобластной сверки и fresh-source coverage pass новой самостоятельной agent/cognitive-architecture ветви не обнаружено. Основные поправки связывают уже найденные ветви в **causal lifecycle acquired experience** и распределяют primary gaps №5, 8, 9, 11, 15, 16, 19 и 20.
+
+### Новые вопросы A2
+
+403. Какую единицу следует считать raw experience input агента: individual event, observation, action–observation pair, complete trajectory, episode boundary or interaction segment?
+404. Как operationally отличить raw trajectory, observation/state summary, interpretation, reflection, changed expectation, conditional lesson, strategy and intention/open question?
+405. Какой из этих объектов должен сохранять прямую provenance к исходному event/action/consequence, а какой может быть derived abstraction?
+406. Когда textual summary отражает compression trajectory, а когда уже вводит новую interpretation, отсутствовавшую в наблюдаемом опыте?
+407. Какие условия нужны, чтобы trajectory abstraction была reusable beyond исходной task, но сохраняла applicability conditions and exceptions?
+408. Как cross-trajectory abstraction должна обращаться с conflicting successful/failed trajectories, а не только majority/common pattern?
+409. Как отличить genuine acquired experience от retrieved example/demo, которое просто копируется в новый output?
+410. Когда stored experience считается provisional hypothesis, а когда достаточно подтверждённым conditional understanding для дальнейшего use?
+
+411. Как полный loop `history/state → choice → action → environment/user response → observed consequence → attribution/update → next choice` должен представлять каждый causal transition?
+412. Что считать consequence собственного выбора, если environment/user response одновременно зависит от external factors?
+413. Как различать observation of outcome и interpretation of what that outcome means for prior choice?
+414. Когда environment feedback сообщает consequence, а когда фактически напрямую сообщает desired policy/lesson?
+415. Какие элементы loop должны быть persistent across sessions, чтобы previous choice мог реально изменить future choice rather than only current turn?
+416. Как system should represent unresolved outcomes, когда consequence ещё не наступило или remains ambiguous?
+
+417. Как delayed outcome связывать с earlier actions при десятках промежуточных steps и competing causes?
+418. Какие provenance links нужны между decision, action, environment state and later outcome для credible credit assignment?
+419. Как выражать uncertainty/confidence of causal attribution вместо бинарного `это произошло из-за X`?
+420. Когда post-hoc reflection/hindsight critic полезен как hypothesis generator, а когда он создаёт unsupported causal story?
+421. Какие counterfactual, alternative-cause or repeated-experience evidence могут повысить confidence in long-horizon credit assignment?
+422. Когда один delayed consequence должен revise one earlier decision, broader strategy or nothing at all?
+
+423. Как различать user-specified top-level goal, delegated task, inferred subgoal, self-generated subgoal, exploratory action and enduring self-originated goal?
+424. Какие dimensions functional autonomy нужно измерять отдельно: initiation, subgoal selection, planning, tool selection, execution, stopping, memory management, revision and learning?
+425. Когда agent-generated subgoal является собственной decision внутри delegated objective, а когда просто deterministic decomposition external instruction?
+426. Как own choice can be evidenced when available options are shaped by user request, higher-priority instructions, tools and permissions?
+427. Как fixed safety/system constraints ограничивают autonomous choice without determining every lower-level trajectory?
+428. Почему automatic refusal/opposition to influence не является stronger evidence autonomy than automatic compliance?
+
+429. Какие lifecycle states acquired experience реально нужны для исследования: working/local, persisted, abstracted, validated, retrieved, reinforced, revised, contradicted, stale/obsolete, archived/deleted?
+430. Как distinguish revision, narrowing/conditionalization, supersession, contradiction coexistence and deletion?
+431. Когда obsolete experience нужно сохранять как historical provenance, но исключать из ordinary action guidance?
+432. Как future evidence can invalidate derived lesson while preserving original event record and attribution history?
+433. Как memory management policy should avoid append-only accumulation without turning every new conflict into destructive overwrite?
+434. Когда forgetting/deletion improves adaptive continuity by preventing obsolete or misleading experience from dominating current decisions?
+
+435. Как retrieval ranking, memory budget and compression decide which history can participate in current action selection?
+436. Как prevent common/recent/similar memories from crowding out rare but high-consequence experiences?
+437. Как detect retrieval-induced self-reinforcement, где repeatedly retrieved history creates more similar behavior and therefore more similar future memory?
+438. Какие interventions — add/remove/replace/suppress one memory under comparable current conditions — могут test whether that experience causally affected a choice?
+439. Как distinguish causal influence of memory content from mere verbal mention or post-hoc justification of the same content?
+440. Какой minimum evidence package нужен, чтобы утверждать: `past acquired experience materially changed this later choice`, а не current prompt, base-model prior, retrieved instruction-like demo or stochastic output?
+
+## 39. A2 — ownership corrections после межобластной сверки
+
+Для фазы B №9 остаётся главным technical integration area и primary owner:
+
+- **gap 5:** unit of acquired experience;
+- **gap 8:** full closed choice→consequence→update loop;
+- **gap 9:** delayed cross-session credit assignment;
+- **gap 11:** own choice under unavoidable external influence;
+- **gap 15:** lifecycle of acquired experience;
+- **gap 16:** evidence that acquired experience affected a new choice;
+- **gap 19:** compression/retrieval budget as trajectory selector;
+- **gap 20:** bounded autonomy under immutable higher-level constraints.
+
+№9 также поддерживает gap 6: any memory-write/retrieval “importance” mechanism must not silently inject preset values.
+
+Handoffs:
+- human memory/generalization → №2;
+- psychological learning/no-update → №3;
+- significance/value/interest → №4;
+- social influence/identity → №5;
+- formal path dependence/system boundary → №7;
+- base-model/context/stochasticity attribution → №8;
+- ML/RL optimization algorithms → №10;
+- actual ChatGPT product persistence/tools/permissions → №11;
+- exact project instruction design → №12.
+
+Ключевые запреты:
+- **memory write ≠ learning**;
+- **reflection ≠ verified metacognition**;
+- **retrieved trajectory ≠ own acquired experience automatically**;
+- **successful past trajectory ≠ universally valid lesson**;
+- **persona/profile ≠ developed identity**;
+- **agent-generated subgoal ≠ self-originated enduring goal**;
+- **memory mention ≠ evidence memory caused the decision**.
+
+## 40. Финальный coverage audit A2
+
+Повторно проверены:
+- storage → reflection → experience abstraction;
+- agent-controlled store/retrieve/update/summarize/discard;
+- experience-following behavior and memory addition/deletion effects;
+- stale/obsolete/conflicting memory handling;
+- factual vs reflective memory evaluation;
+- limits of prompted reflection/self-correction;
+- long-horizon delayed/hindsight credit assignment;
+- multidimensional autonomy;
+- system-level agent evaluation;
+- personalization-memory safety failures.
+
+После последних источников новые находки укладывались в вопросы №403–440 или существующие A1-блоки. **Новой крупной самостоятельной ветви не появилось.**
+
 ## Статус
 
-**A1 №9 закрыта именно как первичная картография области.** В этом проходе отдельные вопросы не исследовались глубоко: источники использовались для выявления структуры поля, конкурирующих архитектурных подходов, границ и методологических проблем.
+**A2 №9 завершена как финальная картография области.** Карта теперь содержит 402 вопроса A1 + 38 уточняющих вопросов A2 (№403–440), ownership corrections и final coverage audit.
 
-**Следующий шаг общего процесса:** A1 №10 «Машинное обучение и адаптивные системы».
+A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры, границ и полноты карты; разработка и сравнение конкретных agent memory/update/autonomy mechanisms относится к фазе B.
+
+**Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №10 «Машинное обучение и адаптивные системы»**.
