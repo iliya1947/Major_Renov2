@@ -245,3 +245,84 @@ https://doi.org/10.1146/annurev-psych-020821-110710
 - persistence vs disengagement
 
 не выявил новой крупной самостоятельной motivation/emotion branch beyond A1. Новые результаты в основном clarify **how different routes to relevance/significance intersect without becoming one construct**. Этого достаточно, чтобы добавить интегральные вопросы A2 и финализировать карту №4.
+
+
+# Phase B — B1: significance without preset values
+
+**Статус 16.10.2026:** B1 начата и НЕ завершена. Этот раздел — первый глубокий проход по gap 6 в связке с gap 7. Цель прохода: отделить механизмы привлечения внимания, epistemic pressure to revise и motivational/personal significance, не вводя готовую value/interest/goal function.
+
+## Реально просмотренные источники B1
+
+### Itti & Baldi (2009) — Bayesian surprise attracts human attention
+Vision Research 49(10):1295–1306  
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2782645/
+
+**Фактически просмотрено:** abstract, introduction и доступные онлайн sections/results. Первичное исследование human gaze + formal Bayesian surprise.
+
+**Результат для B1:** Bayesian surprise определена относительно prior→posterior change наблюдателя и в эксперименте предсказывала orienting/gaze. Это даёт value-free-looking формальный пример **history/model-relative surprise**, но доказательство относится к attention/orienting. Оно НЕ показывает, что surprising event должен становиться долговременной ценностью, интересом или устойчивым опытом.
+
+### Yan et al. (2025) — From situational interest and state curiosity to personal interest
+Frontiers in Psychology 16  
+https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1700208/full
+
+**Фактически просмотрено:** полный доступный online article с фокусом на §§2–5. Integrative review, не causal proof одной модели.
+
+**Результат:** transient situational interest/state curiosity и enduring personal interest — разные состояния. Situational interest может возникать из novelty, social interaction или choice; переход к personal interest предполагает повторные циклы взаимодействия, growing knowledge/value и reengagement, но **не гарантирован**. Поэтому мгновенная salience/curiosity не является достаточным доказательством устойчивой значимости.
+
+### Guo & Fryer (2025) — What really elicits learners’ situational interest
+Current Psychology 44:587–601  
+https://link.springer.com/article/10.1007/s12144-024-07176-x
+
+**Фактически просмотрено:** abstract, literature review и limitations доступной open-access статьи. Scoping review 35 empirical studies.
+
+**Результат:** источники situational interest разнообразны (включая novelty и utility-value), а большая часть исследований была короткой: 57% — в одной session. Следовательно, эффект на situational interest нельзя автоматически превращать в вывод об enduring interest.
+
+### Hulleman et al. (2010) — Enhancing Interest and Performance With a Utility Value Intervention
+Journal of Educational Psychology 102(4):880–895  
+https://doi.org/10.1037/a0019506
+
+**Фактически просмотрено:** abstract и доступный author/full-text preview с описанием двух randomized experiments.
+
+**Результат:** manipulated relevance — просьба участникам связать материал с собственной жизнью — повышала perceived utility value и interest, особенно при низких ожиданиях/предыдущей performance. Это важный negative control: наблюдаемая «релевантность» или interest может быть **вызвана внешней процедурой**, поэтому сам факт последующего engagement не доказывает самопроизвольное формирование собственной ценности.
+
+### Deci, Eghrari, Patrick & Leone (1994) — Facilitating Internalization
+Journal of Personality 62(1):119–142  
+https://doi.org/10.1111/j.1467-6494.1994.tb00797.x
+
+**Фактически просмотрено:** publisher abstract и доступный PDF/описание экспериментальной части; не построчное полное чтение всей статьи.
+
+**Результат:** в human SDT external regulation может быть introjected или более глубоко integrated; meaningful rationale, acknowledgment и choice меняли последующую self-regulation. Для B1 это запрещает простое правило «внешнее влияние = не своё». Но constructs integration/self-endorsed value относятся к человеческой мотивации и **не должны буквально приписываться LLM**.
+
+### Park et al. (2023) — Generative Agents
+https://arxiv.org/html/2304.03442
+
+**Фактически просмотрено:** оригинальный paper §§4.1–4.2 и relevant evaluation/limitations.
+
+**Результат:** architecture прямо просит LLM оценить memory по 1–10 шкале «poignancy», где prompt заранее задаёт mundane/poignant examples; importance затем участвует в retrieval и threshold reflection. Это работоспособный engineering heuristic для их цели, но **не нейтральное возникновение значения**: семантика шкалы и её нормативные примеры заданы разработчиком. То, что число генерирует LLM, не делает criterion собственно приобретённой ценностью агента.
+
+### Pathak et al. (2017) — Curiosity-driven Exploration by Self-supervised Prediction
+ICML / PMLR 70:2778–2787  
+https://proceedings.mlr.press/v70/pathak17a.html
+
+**Фактически просмотрено:** PMLR abstract и релевантные method/discussion fragments в текущем B1-проходе.
+
+**Результат:** curiosity формализована как intrinsic reward = prediction error в специально выбранном feature space. Отсутствие extrinsic reward здесь **не означает отсутствие preset objective**: designer заранее выбрал prediction error как то, что агент должен максимизировать, и representation определяет, какие изменения вообще считаются релевантными. Поэтому curiosity-RL — полезный контрпример скрытой value injection, а не решение gap 6.
+
+## Первый глубокий вывод по gap 6
+
+Одного scalar «significance» по найденным данным не получается. Минимум три функционально разные вещи могут внешне выглядеть как «это важно»:
+
+1. **Orienting / candidate attention:** novelty, surprise, prediction error, uncertainty, salience. Они могут говорить «это стоит дополнительно обработать», но не «это следует закрепить как долговременную ценность/понимание».
+2. **Epistemic revision pressure:** событие меняет/оспаривает уже накопленное ожидание или понимание и обладает достаточной диагностичностью относительно noise/alternative explanations. Это может быть history-relative без личной value function.
+3. **Motivational / trajectory significance:** interest, utility, goal relevance, personal/social meaning, self-endorsed value. В human literature они способны развиваться исторически, но не выводятся из attention или surprise и не переносимы на LLM как человеческие внутренние состояния.
+
+Сейчас наиболее важна граница между (2) и (3): **правило evidence-sensitive revision может быть процедурным, а не содержательно-мотивационным**, но оно всё равно не assumption-free. Любой механизм должен иметь inductive/process assumptions; это не то же самое, что заранее задать участнику темы, ценности или интересы.
+
+## Что B1 ещё должна проверить
+
+- являются ли эти три функции реально тремя слоями последовательного pipeline или лучше понимать их как частично независимые оси;
+- edge cases: важное, но не surprising; surprising, но не update-worthy; repeated weak evidence; one decisive event; событие, которое создаёт новый вопрос без pre-existing goal;
+- где procedural epistemic assumptions превращаются в скрытую normative/value function;
+- какие части этой схемы функционально переносимы на LLM, а какие остаются только human-domain constructs.
+
+**B1 НЕ завершена. Не переходить к B2.**
