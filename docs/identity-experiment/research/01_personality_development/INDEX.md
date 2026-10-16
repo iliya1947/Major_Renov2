@@ -278,3 +278,15 @@ Narrative identity и interpersonal approaches образуют самостоя
 ## Phase B status
 
 **B3 gaps 4+21 завершена 16.10.2026 по saturation.** Первый deep pass: micro/state→longer-term trajectory, TESSERA + empirical daily-life evidence, no universal repetition→trait law. Working distinction: trajectory formation ≠ history-dependent change of future responsiveness. Следующий шаг: continuity under component turnover/nonlinear transitions and artificial persistent-state case.
+## Phase B — B7 final 16.10.2026
+- B7 participant-boundary/baseline/confound package completed by saturation.
+- Nested boundaries: L0 inherited model substrate → L1 current inference → L2 longitudinal Project participant → L3 participant↔user/environment system.
+- Working participant boundary for acquired-development claims is L2; L3 explains reciprocal trajectory generation.
+- System membership ≠ causal authorship: inside components can change exogenously; outside variables can change endogenously.
+- Baseline is the full pre-experiment causal configuration plus behavioral variability, not a blank state or one initial answer.
+- Baseline elicitation, transient context conditioning and persistent Project-level acquisition are distinct.
+- Developmental target is new causal dependence on post-t0 acquired history, not behavioral novelty.
+- Stochastic branches may seed later genuine history dependence without stochasticity itself counting as individuality.
+- Model/runtime/instruction/memory-mode/tool changes define configuration epochs and are alternative causes.
+- User/environment can carry and reinstate history externally; this is not participant-level persistence.
+- Remaining question is evidential discrimination among these alternatives → B8.
