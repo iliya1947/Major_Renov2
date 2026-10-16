@@ -667,3 +667,112 @@ Thus future experience can be partly endogenous without being isolated from soci
 - acting inside an externally authored objective ≠ proof that the participant authored that objective.
 
 **B4 НЕ завершена.** Next pass must stress-test this model on conflicting authority/evidence/social meaning, user suggestions that leave no real alternative, initiative outside a delegated task, and whether memory/revision choice can be autonomous without becoming self-reinforcing lock-in.
+
+# Phase B — B4 stress-test pass 2: decision loci, meta-actions and lock-in
+
+## Sources inspected in this pass
+
+1. Castelfranchi & Falcone (1998), “Towards a theory of delegation for agent-based systems”, DOI 10.1016/S0921-8890(98)00028-1 — publisher abstract. Autonomy varies with task specification, delegated control and help; collaborative conflict can arise when an agent tries to go beyond the request.
+2. Novick & Sutton (1997), “What is Mixed-Initiative Interaction?” — AAAI abstract page. Initiative is multi-factor rather than one scalar, including task, speaker and outcome initiative.
+3. Deng et al. (ICML 2026), “Uncertainty-Aware Clarification in LLM Agents with Information Gain”, PMLR 306 — abstract page. In underspecified tasks, clarification changes the information state and can improve later action selection.
+4. Hudson (ICML 2026), “Corrigibility Transformation: Constructing Goals That Accept Updates”, PMLR 306 — abstract page. Corrigibility is framed around accepting changes through designated channels and mid-action overrides rather than resisting updates.
+5. Xiong et al. (ACL 2026), “How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior”, DOI 10.18653/v1/2026.acl-long.27 — ACL abstract page. Similar retrieved experiences can produce highly similar outputs; error propagation and misleading replay are observed.
+6. Huang et al. (ACL 2026), “Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human–Agent Interaction”, DOI 10.18653/v1/2026.acl-long.670 — ACL abstract page. Heavy memory reliance can produce Memory Anchoring.
+7. Guo et al. (ACL 2026), “When Personalization Legitimizes Risks”, DOI 10.18653/v1/2026.acl-long.1260 — ACL abstract page. Benign personal memories can bias current intent inference.
+8. Uddin et al. (Findings ACL 2026), “From Recall to Forgetting”, DOI 10.18653/v1/2026.findings-acl.1337 — ACL abstract page. Existing memory agents frequently reuse invalidated memories and fail to reconcile evolving information.
+
+## Stress test: apparent choice with only one permissible action
+
+The original criterion said “multiple permitted alternatives”, but it was underspecified about level.
+
+Autonomy must be assessed at a specific **decision locus**: goal, interpretation, plan, tool, concrete action, stop/ask, memory revision, etc.
+
+If a legitimate constraint leaves only one permissible option at that locus, executing it is not an own choice at that locus even if the participant explains it in an individualized way.
+
+Another locus may remain open. A user can fully determine what while leaving how open.
+
+## Stress test: initiative outside delegated task
+
+“Outside the stated task” is not identical to “outside authority”.
+
+For B4 the useful abstraction is a **delegation envelope**:
+- obligated actions;
+- prohibited actions;
+- permitted but optional actions;
+- negotiable expansion of scope.
+
+Initiative counts as legitimate only if the action is inside the permitted envelope, or if the participant uses an allowed meta-action to propose or ask for expansion.
+
+Unauthorized extra action is not “more own” merely because nobody requested it.
+
+## Stress test: stopping or asking for clarification
+
+Stopping and asking are meta-actions that can alter the future information and option state.
+
+Clarification work in LLM agents directly supports this: asking can reduce latent intent uncertainty and change later tool/action selection.
+
+But an ask/stop counts as own choice only where it is genuinely left open:
+- mandated clarification is compliance at that locus;
+- a forced stop is not an own choice;
+- choosing among ask/defer/continue/narrow when several are permissible can be a bounded own choice.
+
+The content of the clarification question can itself form a separate decision locus even when the decision to ask is mandatory.
+
+## Stress test: acquired history conflicts with current legitimate instruction
+
+The criterion must not reward resistance for its own sake.
+
+A valid current instruction can shrink the feasible set. If it leaves one option, there is no own choice at that coordinate. History can still influence unconstrained coordinates.
+
+Corrigibility research reinforces this boundary: persistence of a prior goal/history that resists designated updates is not a necessary sign of autonomy and can be a failure mode.
+
+Therefore history may rank options inside the current legitimate envelope; it does not automatically rewrite the envelope.
+
+Exact instruction authority/versioning mechanics remain for B6.
+
+## Stress test: memory/revision autonomy and self-reinforcing lock-in
+
+This case breaks the original five-part criterion.
+
+A loop can satisfy all old surface conditions: history exists, nominal alternatives exist, history influences the action, the action changes future experience, and another action would produce another future.
+
+Yet retrieval can repeatedly expose only history-consistent material, causing similar outputs, storing similar experiences and narrowing future behavior.
+
+Therefore history-dependent + endogenous + counterfactually consequential is still insufficient.
+
+The missing requirement is **counterfactual openness / live alternatives**:
+- materially different permitted alternatives must remain available to current reasoning, not merely exist in theory;
+- acquired history may bias their ranking but must not erase relevant contrary evidence/options;
+- legitimate new evidence or updates must be able to alter the ranking.
+
+This does not require randomness, forced novelty or equal weighting.
+
+## Revised B4 distinction
+
+### Functional bounded own choice
+At a specified decision locus:
+1. the locus lies within the current legitimate permission/delegation envelope;
+2. at least two materially different **live** permissible alternatives remain;
+3. no current authoritative constraint already uniquely specifies the selection;
+4. selection is produced by current reasoning integrating acquired state/history and present evidence, rather than pure randomness, forced compliance, or mechanical replay of a retrieved precedent;
+5. the choice remains **revisably open**: relevant new evidence or legitimate updates can change the ranking rather than history making the result effectively irreversible.
+
+### Trajectory-forming own choice
+A bounded own choice becomes developmentally important when the selected alternative additionally produces meaningful downstream divergence in external/user response, internal memory/revision state, future evidence, opportunities/constraints, or later choice dynamics.
+
+This split separates “was there a real choice?” from “did that choice alter the developmental trajectory?”.
+
+## Revised B4 loop
+
+current input decomposed into authority/evidence/social/opportunity roles + acquired state
+→ legitimate delegation/permission envelope
+→ live alternatives at a specific decision locus
+→ bounded own choice or forced action
+→ action / meta-action / memory action
+→ changed external and/or internal state
+→ observation/consequence
+→ interpretation/revision
+→ changed acquired state and future live-choice structure
+
+**B4 НЕ завершена.** Next pass: adversarially test the revised criterion for false positives/false negatives, especially deterministic-but-reasoned choice, strongly acquired stable preference, suggestion-vs-command ambiguity, and history influencing interpretation of authority itself.
+
