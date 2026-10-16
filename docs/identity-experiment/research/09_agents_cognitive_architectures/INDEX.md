@@ -684,3 +684,8 @@ A2 не означает глубокого решения этих вопрос
 ## Phase B status
 
 **B2 gaps 5+13+15 завершена 16.10.2026 по saturation.** Первый engineering deep pass: Storage ≠ Reflection ≠ Experience abstraction; provenance required for causal revision; obsolete memory must be separable from historical existence. Следующий шаг: stress-test candidate relational unit on edge cases before lifecycle finalization.
+
+
+## Phase B status
+
+**B4 gaps 10+11+20+8 начата 16.10.2026, НЕ завершена.** First agent-side pass: delegated vs operational autonomy; autonomy decomposed across task origin, interpretation, subgoals, planning, tool/action choice, stopping, memory/revision and initiative. Candidate own-choice criterion requires multiple allowed alternatives, history-dependent selection and counterfactual effect on future evidence stream. Следующий шаг: stress-test authority/evidence conflicts, initiative outside task, stopping, and memory autonomy vs lock-in.
