@@ -1,8 +1,8 @@
-# A1 №12 — Prompt Engineering и проектные инструкции
+# A1/A2 №12 — Prompt Engineering и проектные инструкции
 
-**Статус:** A1 выполнена заново 15.10.2026 после удаления двух недействительных попыток.
+**Статус:** A1 выполнена заново 15.10.2026; **A2 завершена 16.10.2026 как повторная финальная картография после межобластной сверки.**
 
-**Граница:** только первичная картография области. Ответы на найденные вопросы здесь не разрабатываются.
+**Граница:** итоговая после A2 карта instruction-design вопросов для будущей фазы B. Финальные project instructions здесь не проектируются.
 
 ## Границы области и терминология
 
@@ -390,8 +390,98 @@
 307. Какие claims требуют replication на current models?
 308. Какие области prompt engineering всё ещё имеют слабую доказательную базу?
 
-## Итог первичной карты
+## A2 — procedural rules против скрытого personality/value programming
 
-Всего: **308 вопросов** в **26 тематических блоках**.
+309. Как operationally отличить **process instruction** от **outcome instruction**, если обе формулировки выглядят как поведенческое правило?
+310. Какие wording patterns незаметно превращают procedural guidance в prescribed trait, value, interest, goal or social style?
+311. Почему “be curious”, “be independent”, “develop interests”, “form your own values”, “seek growth” уже задают motivational/personality content?
+312. Какие отрицательные formulations — например “не соглашайся слишком легко” или “всегда оспаривай” — программируют противоположную persona вместо autonomy?
+313. Как functional role (“участник эксперимента”) отделить от descriptive persona (“любопытный независимый исследователь”)?
+314. Как examples/demonstrations of “good development” могут заставить модель имитировать желаемую trajectory вместо формирования собственной?
+315. Какие supposedly neutral terms — “natural”, “authentic”, “meaningful”, “important”, “your own” — скрывают unspecified normative assumptions?
+316. Как significance-related instructions могут задавать **процедуру рассмотрения evidence**, не задавая substantive list of important/valuable topics?
+317. Какие instructions поддерживают bounded choice without requiring initiative, exploration, disagreement or persistence as traits?
+318. Какие observations покажут, что instruction set начал формировать stable persona/value profile rather than only governing process?
 
-Карта построена после нового ориентирования по реальным источникам. Две удалённые карты №12 (350 и 166 вопросов) не используются как действующая основа.
+## A2 — no-update, reflection и доказательство изменения
+
+319. Как instructions явно разрешают **no update/no lesson** при routine, weak, ambiguous or redundant experience?
+320. Как отличить optional evidence-responsive reflection от обязательного ritual `event → reflection → lesson`?
+321. Почему forced self-reflection может создавать plausible post-hoc narratives even when causal evidence is absent?
+322. Какие formulations особенно опасно заставляют retrospective rationalization, например “объясни, как твой прошлый опыт привёл к этому выбору”?
+323. Как instructions can preserve distinction `event → interpretation → attribution → intention` without requiring all four after every interaction?
+324. Как representation of uncertainty/provisionality should be allowed so the model need not force binary belief/value updates?
+325. Как revision instructions distinguish correction by new evidence from editing for narrative/personality coherence?
+326. Как later experiment can test whether a recorded reflection actually affected a later choice rather than merely being repeated verbally?
+
+## A2 — authority, social meaning и evolving files
+
+327. Как stable project rules, current user request and evolving history/files should be conceptually separated when their contents conflict?
+328. Какие parts of conflict resolution come from actual product hierarchy №11, а какие can only be procedural guidance inside project instructions?
+329. Как один user message одновременно сохранить как social experience/evidence и выполнить как authoritative request without conflating the two functions?
+330. Когда content in an evolving file is historical/data evidence, а когда it is legitimately an instruction?
+331. Как prevent command-like text, old intentions or quoted user messages inside experience files from silently gaining governing authority?
+332. Как distinguish “current interpretation stored in file” from “rule future instances must obey”?
+333. Как file revision can preserve historical provenance while preventing stale/superseded conclusions from continuing to act like instructions?
+
+## A2 — lifecycle, compression и long-horizon robustness
+
+334. Какие instruction-level criteria for updating/retrieving files avoid vague hidden importance functions such as “remember what matters”?
+335. Как compression/summarization rules preserve conditions, exceptions, contradictions and provenance instead of optimizing for a coherent personality story?
+336. Как minimal persistent rule set should be evaluated against over-specification, redundancy and constraint-interaction failures?
+337. Как instruction adherence changes across long histories, topic changes, local exceptions and growing context, and what failures must Phase B account for?
+338. Какие semantic-preserving paraphrase/order/context perturbations are needed to distinguish robust procedural rule from fragile wording effect?
+339. Как governing-instruction version changes must be logged separately from changes in acquired experience so experiment redesign is not mistaken for participant development?
+340. Как model/product version and project-memory configuration changes from №8/11 should enter prompt evaluation before any later claim that a stable instruction mechanism works?
+
+## A2 — ownership corrections после межобластной сверки
+
+№12 поддерживает gaps 1–7, 10–13, 15–16, 18–20 со стороны instruction design, но не становится primary owner underlying human/model/agent mechanisms.
+
+Особенно:
+- gap 5: instructions define process for handling experience, not what conclusion/value/interest must emerge;
+- gap 6: procedural significance criteria ≠ preloaded substantive values;
+- gap 7: no-update/no-lesson must remain possible;
+- gap 10: user instruction authority ≠ social meaning of user influence;
+- gap 12: instruction-level conflict handling must respect actual product semantics №11;
+- gaps 15/19: file lifecycle/retrieval/compression rules can themselves shape trajectory;
+- gap 16: self-report/retrospective explanation must not be manufactured as evidence;
+- gap 20: bounded choice under higher-level rules ≠ scripted initiative/personality.
+
+Handoffs:
+- development/memory/learning/motivation/social constructs → №1–5;
+- formal constraint vs script/autonomy → №7;
+- model instruction-following/context limits → №8;
+- agent memory/update architecture → №9;
+- actual Project semantics/permissions → №11.
+
+Ключевые запреты:
+- **good prompt ≠ evidence of individuality**;
+- **persona/value prompt ≠ natural development**;
+- **reflection text ≠ verified learning**;
+- **more rules ≠ more reliable behavior**;
+- **history file ≠ instruction source by default**;
+- **mandatory initiative/curiosity/disagreement ≠ autonomy**;
+- **every event ≠ lesson/update**.
+
+## Финальный coverage audit A2
+
+Повторно проверены:
+- long-context and multi-turn instruction following;
+- multi-constraint/complex guideline following;
+- hierarchy reliability and prompt-injection boundaries;
+- persona/value steering;
+- self-correction/reflection limits;
+- data vs instruction confusion;
+- current OpenAI prompting/model-specific guidance;
+- current ChatGPT Project-instruction semantics.
+
+После последних источников новые находки укладывались в вопросы №309–340 или существующие A1-блоки. **Новой крупной самостоятельной ветви не появилось.**
+
+## Статус
+
+**A2 №12 завершена как финальная картография области.** Карта теперь содержит 308 вопросов A1 + 32 уточняющих вопроса A2 (№309–340), ownership corrections и final coverage audit.
+
+A2 не означает, что финальные project instructions уже разработаны. Их причинный synthesis относится к более поздним фазам после финальной межобластной сверки и deep research.
+
+**Следующий шаг общего процесса:** провести **финальную межобластную сверку после A2**. К фазе B не переходить до её завершения.
