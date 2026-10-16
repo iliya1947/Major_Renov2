@@ -464,3 +464,105 @@ New evidence может:
 B2 должна ещё исследовать precise lifecycle terminology и provenance before declaring a final principle.
 
 **B2 НЕ завершена.**
+
+## B2 — проход 2: stress-test unit, scope, coexistence and forgetting
+
+**Статус:** второй глубокий проход по gaps 5+13+15. Проверяется candidate relational unit на edge cases и уточняется conceptual lifecycle. После этого прохода B2 достигла saturation на уровне принципов; final synthesis ниже в UNDERSTANDING.
+
+### Lee, O'Doherty & Shimojo (2015) — Neural computations mediating one-shot learning in the human brain
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4412411/
+
+**Фактически просмотрено:** доступный full online text, включая task, Results и Discussion.
+
+**Результат:** humans могут резко изменить causal belief после single cause–outcome pairing; learning rate зависит от causal uncertainty. Это опровергает любое обязательное правило `generalization requires many episodes`. Single episode может стать основанием широкого update, если он highly diagnostic relative to prior structure. Но сама diagnosticity зависит от background model/history.
+
+### Abstract representations emerge in human hippocampal neurons during inference (Nature, 2024)
+https://www.nature.com/articles/s41586-024-07799-x
+
+**Фактически просмотрено:** доступные online method/result/discussion fragments.
+
+**Результат:** после одного negative-feedback event о covert context switch участники могли корректно отвечать на stimuli, ещё не встречавшиеся в новом context, используя learned abstract relation between contexts. Это сильный edge case: one episode can trigger broad conditional inference when reusable structure already exists.
+
+### Boeltzig et al. (2026) — To update or to separate: Neural signatures and consequences of latent cause inference in episodic memory
+https://pubmed.ncbi.nlm.nih.gov/41933851/
+
+**Фактически просмотрено:** PubMed abstract + journal highlights.
+
+**Результат:** prediction error может вести либо к updating existing memory, либо к formation of a separate trace/new latent cause. Moderate vs large mismatch and prediction precision matter. Поэтому conflict не обязан разрешаться overwrite: иногда правильный response — context separation.
+
+### Event Integration and Temporal Differentiation (2024)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10919070/
+
+**Фактически просмотрено:** abstract/significance statement и available result summary.
+
+**Результат:** related events can be represented simultaneously with increased contextual integration and item-level differentiation. Generalization and specificity need not be mutually exclusive. Это поддерживает many-to-one abstraction with retained episode specificity rather than replacement of episodes by a single gist.
+
+### Learning exceptions to the rule in human and model via hippocampal encoding (2021)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8563716/
+
+**Фактически просмотрено:** accessible introduction/model rationale and relevant results summary.
+
+**Результат:** rule-following regularities and rule-violating exceptions can receive differentiated representations; exceptions need not force global schema replacement. B2 therefore needs scope/exception preservation.
+
+### Causal Imprinting in Causal Structure Learning (2012)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3428960/
+
+**Фактически просмотрено:** abstract and accessible experiment summary.
+
+**Результат:** people sometimes persist in an initially learned causal structure even after later evidence normatively explains away that relationship. Это negative case for B2: historical causal attribution can be wrong yet genuinely have guided prior behavior. Therefore event, attribution validity, and historical influence must remain distinguishable.
+
+### Concurrent representations of reinstated and transformed memories (2025)
+https://pubmed.ncbi.nlm.nih.gov/40800904/
+
+**Фактически просмотрено:** abstract.
+
+**Результат:** study reports concurrent specific episodic reinstatement and generalized/transformed representations of commonalities. This directly weakens a forced choice between keeping episodes and keeping abstractions.
+
+### Nagy, Orbán & Wu (2025) — Adaptive compression as a unifying framework for episodic and semantic memory
+https://www.nature.com/articles/s44159-025-00458-6
+
+**Фактически просмотрено:** full accessible Perspective page/abstract/framework summary.
+
+**Результат:** memory compression is adaptive but assumption-sensitive; framework explicitly argues that surprising experiences may need relatively raw episodic preservation for later interpretation while semantic regularities are continually learned. B2 implication: summarization/compression and generalization are different operations, and retaining raw-ish exceptions can be functionally necessary.
+
+### Active forgetting reviews (Anderson & Hulbert 2021; Fawcett et al. 2024)
+https://pubmed.ncbi.nlm.nih.gov/32928060/
+https://www.nature.com/articles/s44159-024-00352-7
+
+**Фактически просмотрено:** abstracts/review summaries.
+
+**Результат:** forgetting can be active and adaptive rather than mere storage failure. But human forgetting may change accessibility/expression rather than literally erase a historical trace. This supports a conceptual distinction between `not currently guiding/retrievable` and `historically absent/deleted`.
+
+## Edge-case results
+
+1. **Single decisive episode:** candidate relation survives. One episode may support broad revision if it is diagnostic against an already structured set of alternatives. Episode count is not the unit criterion.
+2. **Conflicting episodes:** candidate relation survives only if multiple condition-specific interpretations can coexist. Conflict does not force global overwrite.
+3. **Exception to a useful generalization:** exception can narrow scope, create a conditional branch, or remain separately represented. A reusable rule must preserve boundary cases.
+4. **Later-disproved causal attribution:** original episode remains historical evidence; the attribution can become contradicted. Past causal influence of the attribution is a different fact from present truth of the attribution.
+5. **Historically important but currently false understanding:** current action-guidance must be separable from historical existence/influence.
+6. **Many-to-one abstraction:** a generalized relation may be supported by multiple episodes with no single privileged source, while specific episodes remain independently accessible.
+
+## Lifecycle insight: labels are not enough
+
+A2 listed useful labels: provisional, validated, contradicted, narrowed, stale/obsolete, historical-only, reactivated. B2 shows these should **not** be treated as a mandatory linear state machine. They project several partially independent dimensions:
+
+- **evidential warrant:** how strongly current evidence supports the interpretation/generalization;
+- **scope/conditions:** where it applies and what exceptions/context boundaries exist;
+- **current action-guidance eligibility:** whether it should currently influence choices;
+- **temporal validity:** whether the represented situation is still current;
+- **historical causal status:** whether this understanding actually influenced past choices, even if it is now false;
+- **accessibility/retention:** whether supporting episode evidence remains available enough for revision.
+
+This multidimensional view explains why `narrowed` is not the same as `contradicted`, `obsolete` is not the same as `false`, and `historical-only` is not the same as accidental loss.
+
+## Functional forgetting vs accidental loss
+
+**Functional forgetting/obsolescence** reduces ordinary action-guidance or retrieval of currently irrelevant/invalid material while preserving enough historical/provenance structure to revise, audit, or understand prior trajectory when needed.
+
+**Accidental loss** removes still-relevant evidence or breaks its relation to a derived understanding, making later checking/revision impossible. The two can look behaviorally similar in the moment but are conceptually opposite.
+
+## Saturation check B2 — human-memory side
+
+After targeted searches on one-shot learning, integration vs separation, exception learning, memory transformation, reconstruction/distortion, active forgetting and episodic↔generalized coexistence, new sources were refining the same causal classes rather than adding a missing class. Human-memory contribution to B2 is saturated at principle-space level.
+
+**B2 final cross-domain synthesis is recorded in UNDERSTANDING; no B3 work is included here.**
