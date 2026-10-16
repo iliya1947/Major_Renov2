@@ -517,3 +517,8 @@
 A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры и полноты карты; глубокое сравнение mechanisms of significance, interest development, internalization and appraisal относится к фазе B.
 
 **Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №5 «Социальная психология и идентичность»**.
+
+
+## Phase B status
+
+**B1 gaps 6+7 завершена 16.10.2026 по saturation.** Роль №4: significance without preset values. Итог: orienting/surprise, epistemic update warrant и motivational/trajectory significance — разные causal roles; procedural evidence rules нужно отделять от semantic/reward-based preset value injection. Подробности: RESEARCH и UNDERSTANDING. Следующий общий пакет: B2.
