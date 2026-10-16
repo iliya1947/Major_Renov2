@@ -1,6 +1,6 @@
-# A1 №10 — Машинное обучение и адаптивные системы
+# A1/A2 №10 — Машинное обучение и адаптивные системы
 
-**Статус:** A1 завершена как первичная картография 15.10.2026.
+**Статус:** A1 завершена 15.10.2026; **A2 завершена 16.10.2026 как повторная финальная картография после межобластной сверки.**
 
 **Цель:** определить, какие части machine learning и adaptive-systems research необходимо будет исследовать глубоко позже. Здесь не выбирается алгоритм будущего эксперимента и не строится механизм индивидуальности.
 
@@ -561,8 +561,100 @@
 
 После этих проверок новые обзорные результаты в основном добавляли детали внутри уже найденных ветвей, а не новые крупные оси. Это **первичная A1-картография**, а не финальный A2 coverage audit.
 
+## 37. A2 — финальные межобластные уточнения и новые вопросы
+
+После межобластной сверки и fresh-source coverage pass новой самостоятельной ML-adaptation ветви не обнаружено. Главные поправки относятся к **what changes, transient vs persistent adaptation, beneficial forgetting, replay vs abstraction, drift attribution, personalization vs individualization и limits of RL/credit-assignment transfer**.
+
+### Новые вопросы A2
+
+399. Какой именно объект меняется в каждом adaptation regime: parameters, adapters/modules, representation, policy, optimizer/update rule, normalization/statistics, routing, architecture, replay buffer or data weighting?
+400. Как различать **adaptation target** и **persistence timescale**: временное test-time state, session-local state, persistent external state, adapter/module change и base-parameter change?
+401. Какие forms adaptation reversible/rollbackable, а какие practically irreversible without restoring an older checkpoint/state?
+402. Как проверить, что behavioral change обусловлен конкретным adaptation target, а не одновременно изменившимися data selection, routing or environment?
+
+403. Как catastrophic forgetting отличается от loss of plasticity/catastrophic remembering и почему улучшение одного показателя может ухудшать другой?
+404. Когда сохранение old knowledge полезно, а когда старые constraints мешают learning of new structure?
+405. Какие criteria позволяют считать forgetting **beneficial/functional**, а не accidental degradation?
+406. Как distinguishing obsolete, currently inactive and potentially recurring knowledge меняет forgetting/retention policy?
+407. Как finite model/replay/resource capacity задаёт неизбежный trade-off между retention breadth и future plasticity?
+
+408. Чем experience replay принципиально отличается от abstraction/generalization of experience?
+409. Какие последствия имеют replay sampling policies based on recency, similarity, rarity, surprise, uncertainty or reward?
+410. Как replay buffer composition itself becomes a source of path dependence and selection bias?
+411. Когда generative replay preserves useful distributional structure, а когда синтетические ошибки начинают self-reinforce?
+412. Как доказать, что replay поддержал transferable knowledge, а не только rehearsed benchmark-specific behavior?
+
+413. Как отличить **environment/data drift** от learner/model drift when performance changes over time?
+414. Как distinguish covariate/data drift, concept drift, label/preference drift and objective/value drift?
+415. Когда detected shift достаточно устойчив и значим для adaptation, а когда это noise/transient regime?
+416. Как отсутствие immediate ground-truth feedback влияет на ability to decide whether adaptation is warranted?
+417. Какие baselines/monitoring signals нужны, чтобы понять: ухудшилась модель, изменилась среда или произошли оба процесса?
+418. Как recurring regimes должны храниться/переиспользоваться без предположения, что newest regime permanently supersedes all earlier ones?
+
+419. Чем user personalization отличается от history-dependent **individualization of the adaptive system itself**?
+420. Как отличить estimated user preference, current interaction pattern and enduring preference when all three drift over time?
+421. Как recommendation/personalization feedback loop `estimate → exposure → user response → updated estimate` может создавать artificial preference reinforcement?
+422. Когда highly personalized output remains purely externally optimized user-model behavior rather than evidence of system’s own acquired values/interests?
+
+423. Какие элементы RL credit assignment legitimately useful для long-horizon agent interaction when reward is sparse/delayed?
+424. Какие RL assumptions fail when there is **no predefined scalar reward/objective** corresponding to “good personal development” or “meaningful experience”?
+425. Почему accurate credit assignment to a supplied reward still does not solve which consequences should become significant without preset values?
+
+426. Как meta-learning/learned update rules change future adaptability without implying development of goals, values or identity?
+427. Как data selection, curriculum and active querying alter future trajectory even when base update algorithm is unchanged?
+428. Какие constraints/objectives should remain protected invariants while lower-level behavior adapts, and how does this differ from freezing a personality?
+429. Как measure positive transfer, negative transfer, forgetting, adaptation speed, calibration and worst-case behavior together rather than optimizing one aggregate score?
+430. Какой evidence нужен, чтобы claim “continual adaptation helped” survived changing task order, random seeds, resource budgets and unseen future regimes?
+431. Какие properties ML stability–plasticity genuinely abstract through №7, а какие remain algorithm/substrate-specific and cannot be justified by neuroscience №6?
+432. Какие ML mechanisms are merely candidate engineering tools for №9 rather than evidence that the future participant can naturally form individuality?
+
+## 38. A2 — ownership corrections после межобластной сверки
+
+Для фазы B №10 отвечает за **formal/engineering mechanisms of adaptation**, а не за psychological or agent-level meaning of experience.
+
+№10 поддерживает cross-area gaps 3, 8, 9, 13, 15 и 18 через:
+- explicit adaptation target;
+- persistence/reversibility;
+- replay/transfer/generalization distinctions;
+- retention vs beneficial forgetting;
+- drift attribution;
+- delayed-credit formalism.
+
+Handoffs:
+- psychological learning/no-update → №3;
+- biological plasticity → №6;
+- substrate-neutral stability/path dependence → №7;
+- LLM-specific adaptation/context → №8;
+- concrete agent experience lifecycle/choice loop → №9;
+- actual ChatGPT mechanisms → №11.
+
+Ключевые границы:
+- **personalization ≠ individualization**;
+- **reward optimization ≠ motivation/value**;
+- **replay ≠ abstraction/understanding**;
+- **retention ≠ always beneficial**;
+- **environment drift ≠ learner drift**;
+- **ML stability–plasticity ≠ neuroplasticity**.
+
+## 39. Финальный coverage audit A2
+
+Повторно проверены:
+- continual learning with loss of plasticity;
+- catastrophic remembering/controlled forgetting;
+- online test-time adaptation;
+- concept/data drift and unlabeled drift detection;
+- replay and transfer;
+- task-aware vs task-agnostic continual adaptation;
+- long-horizon temporal credit assignment;
+- personalization/recommendation feedback loops;
+- evolving user preferences and continual recommendation.
+
+После последних источников новые находки укладывались в вопросы №399–432 или существующие A1-блоки. **Новой крупной самостоятельной ветви не появилось.**
+
 ## Статус
 
-**A1 №10 закрыта именно как первичная картография области.** В этом проходе отдельные вопросы не исследовались глубоко: источники использовались для выявления форм адаптации, конкурирующих learning paradigms, stability–plasticity trade-offs и методологических границ.
+**A2 №10 завершена как финальная картография области.** Карта теперь содержит 398 вопросов A1 + 34 уточняющих вопроса A2 (№399–432), ownership corrections и final coverage audit.
 
-**Следующий шаг общего процесса:** A1 №11 «Возможности ChatGPT».
+A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры, границ и полноты карты; глубокое сравнение concrete continual/adaptive algorithms относится к фазе B.
+
+**Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №11 «Возможности ChatGPT»**.
