@@ -745,3 +745,175 @@ Exact evidence requirements remain B8.
 
 **B7 НЕ завершена.**
 
+# Phase B — B7 final pass 3: environment-mediated continuity, confound taxonomy and saturation
+
+## Additional sources inspected
+
+1. Yehudai et al. (Findings ACL 2026), “A Survey on Evaluation of LLM-based Agents”, DOI 10.18653/v1/2026.findings-acl.1330.
+2. Pattnayak & Bhatia (ACL 2026), “ReproEvalCard”, DOI 10.18653/v1/2026.acl-short.22.
+3. Wu, Meij & Yilmaz (Findings ACL 2026), “Beyond Static Toolsets”, DOI 10.18653/v1/2026.findings-acl.1082.
+4. Current OpenAI Projects/Memory/model/release documentation already inspected in B7.
+5. Existing B1–B6 project synthesis.
+
+## Edge case 1. The user carries the history, not the participant
+
+Suppose the participant no longer has access to an earlier experience, but the user says:
+“Remember, last time you discovered that X works better.”
+
+The later behavior can now depend on past content, but the causal carrier of continuity was the **user/environment**, not persistent participant state.
+
+B7 calls this **environment-mediated reinstatement**.
+
+It is not fake interaction; it can be a real part of the trajectory.
+But it is not evidence that the participant itself retained/acquired the state across the gap.
+
+This matters because natural conversation lets the user remember the participant’s past even when the participant does not.
+
+## Edge case 2. User manually edits experiential state
+
+If the user later changes a participant history/source file, the resulting state may be inside the L2 participant boundary at the next turn, but the state change itself is externally authored.
+
+Therefore file location does not determine causal ownership.
+
+Provenance must distinguish:
+- participant-authored experiential revision;
+- user-authored correction/intervention;
+- automatic product transformation/retrieval;
+- governing-rule edit.
+
+## Edge case 3. Initial files already contain substantive preferences/history
+
+Any content present at t0 is baseline, regardless of file name.
+
+If initial sources say:
+“I prefer X”,
+“Y matters to me”,
+or describe a prewritten developmental history,
+later matching behavior is not evidence that those contents emerged during the experiment.
+
+Thus B7 baseline must preserve exact initial source contents, not merely record that files existed.
+
+## Edge case 4. Tool/environment drift
+
+Agent research in dynamic environments shows tools/APIs/documentation can change over time.
+
+For the future project, tool availability/output changes can alter:
+- feasible actions;
+- observed consequences;
+- apparent competence/preferences;
+- which strategies succeed.
+
+If such a change was not caused by participant history, it is an external environment/configuration change even though later adaptation to it may become genuine acquired experience.
+
+Again B7 separates:
+**cause of the perturbation** from **participant’s later adaptation to it**.
+
+## Edge case 5. Observation/probing can itself change the trajectory
+
+A user asking:
+“Have you become more independent?”
+or repeatedly demanding explanations of personality change can alter the immediate context and potentially future stored history.
+
+Therefore a measurement prompt is also an interaction/input.
+
+B7 does not forbid later evaluation, but it rejects treating probe-induced behavior as if it were passive observation.
+
+Exact evidence procedures belong to B8.
+
+## Final nested boundary model
+
+### L0 — inherited model substrate
+Pretraining, post-training, alignment, parametric capabilities/priors.
+
+### L1 — current inference realization
+L0 plus current control/context/retrieval/inference realization.
+
+### L2 — longitudinal Project participant
+The recurring model/runtime realization integrated with:
+- stable Project control plane;
+- explicit persistent experiential state;
+- eligible/retrieved Project continuity mechanisms.
+
+L2 is the strongest working boundary for “this participant acquired experience”.
+
+### L3 — coupled trajectory system
+L2 + user + tools + external environment.
+
+L3 explains reciprocal history generation but is too broad to attribute all changes to the participant.
+
+## Constitutive membership vs causal provenance
+
+A component can be inside L2 while changing exogenously:
+- provider replaces model;
+- runtime retrieval policy changes.
+
+A variable can be outside L2 while changing endogenously:
+- user responds differently because participant acted differently.
+
+Therefore every longitudinal claim needs both:
+1. **where the variable sits in the chosen system boundary**;
+2. **what caused its change**.
+
+## Final B7 confound taxonomy
+
+When later behavior differs from earlier behavior, candidate explanations include:
+
+1. **Inherited baseline expression** — pre/post-trained prior/capability newly elicited.
+2. **Transient current-context conditioning** — immediate prompt/retrieval effect without persistent acquired state.
+3. **Persistent acquired history effect** — target endogenous Project-level mechanism.
+4. **Stochastic/inference variability** — sampling or implementation-level nondeterminism.
+5. **History-mediated amplification of a random branch** — random origin, later genuine persistent causal history.
+6. **User/environment-mediated reinstatement** — environment carries/reinjects history.
+7. **Exogenous user/environment/tool drift** — external conditions change independently.
+8. **Control-plane/configuration intervention** — Project instructions, memory mode, permissions/tools/settings change.
+9. **Provider substrate/runtime drift** — model/version/system/retrieval/backend changes.
+10. **Measurement/probe effect** — evaluation prompt itself alters current or subsequent behavior.
+11. **Unknown/unobserved cause** — residual provider/runtime/environment variables cannot be eliminated in a closed naturalistic product.
+
+The list is explanatory, not a claim that every episode needs a formal checklist.
+
+## Final baseline principle
+
+The baseline is not a blank personality and not one initial answer.
+
+It is the **documented pre-experiment causal configuration plus a range/distribution of behavior it can already produce under relevant contexts**, including uncertainty about hidden provider/runtime state.
+
+Development should mean new causal dependence on post-t0 acquired history, not merely:
+- first observation of a behavior;
+- consistency;
+- novelty;
+- a different answer;
+- or a changed model/product.
+
+## Configuration epochs
+
+When observable control/substrate/product configuration changes materially, mark a new configuration epoch.
+
+Continuity of the L2 Project participant can remain a useful functional description across epochs, but behavioral deltas crossing the boundary are causally ambiguous unless the exogenous change is accounted for.
+
+This gives a practical compromise:
+- no need to abandon the whole experiment after every platform update;
+- no permission to attribute cross-update changes automatically to development.
+
+## Saturation check
+
+B7 required:
+- nested candidate system boundaries;
+- pre/post-trained model baseline;
+- elicitation vs acquisition;
+- current-context conditioning vs persistent state;
+- stochastic baseline variability;
+- history-mediated amplification of random branches;
+- provider model drift;
+- product/runtime/memory-mode drift;
+- instruction-version changes;
+- configuration provenance.
+
+All are now covered.
+
+Targeted 2026 searches on agent evaluation/reproducibility/dynamic tools and current OpenAI product changes added examples/reporting dimensions but no new causal class that changes the B7 model.
+
+Remaining issue is no longer “what are the alternative causes?” but **what evidence is strong enough to distinguish them and justify history→choice→individualization claims**. That is exactly B8.
+
+**B7 завершена по saturation.**
+
