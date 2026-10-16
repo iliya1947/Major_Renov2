@@ -1,6 +1,6 @@
 # Финальная межобластная сверка после A2
 
-**Статус:** начата 16.10.2026. **Этапы 1–3 завершены; вся финальная сверка ещё НЕ завершена. Фаза B не начата.**
+**Статус:** начата 16.10.2026. **Этапы 1–4 завершены; вся финальная сверка ещё НЕ завершена. Фаза B не начата.**
 
 **Назначение:** проверить уже финализированные A2-карты всех 12 областей как одну систему вопросов перед deep research. Это не синтез финального механизма и не проектирование project instructions.
 
@@ -949,3 +949,586 @@ This is a **cartographic conclusion**, not evidence that the 23-gap map is a fin
 The current integrated map contains **23 cross-area gaps**.
 
 **Следующий этап:** этап 4 — проверить contradictions, terminology and false equivalences **after A2**, now using the final 23-gap map. The goal is to remove incompatible meanings before building the Phase-B entry package.
+
+
+---
+
+# Этап 4 — contradictions, terminology и false equivalences after A2
+
+## 1. Метод
+
+Финальные A2-карты и 23-gap map проверены по четырём типам риска:
+
+1. **same label → different constructs/mechanisms**;
+2. **different labels → overlapping functional role**;
+3. **compatible-looking claims that are actually different levels of analysis**;
+4. **genuinely incompatible assumptions** that cannot be silently combined in Phase B.
+
+A1 terminology guardrails remain valid. A2 did not overturn them; it added a second layer of distinctions around lifecycle, causal evidence, authority, second-order changeability, product drift and individualization.
+
+## 2. Same label → different constructs after A2
+
+### 2.1 Individualization / development / personalization
+
+These must now be kept separate:
+
+- **development** — longitudinal change process/trajectory at the relevant level;
+- **individualization** — emergence of a distinct history-dependent individual trajectory;
+- **personalization** — system/output adaptation to a user or user-specific data;
+- **persona consistency** — behavior stabilized by role/prompt/profile;
+- **history-aware behavior** — any behavior influenced by persisted/retrieved history.
+
+A2 makes the false equivalence explicit:
+
+**history-sensitive ≠ personalized ≠ individualized ≠ developmentally changed.**
+
+Gap 23 owns the trajectory-level evidence standard.
+
+### 2.2 Experience
+
+After A2 the word `experience` must not collapse:
+
+- event/interaction;
+- observation;
+- own action/choice;
+- consequence;
+- stored record;
+- interpretation;
+- causal attribution;
+- reflection;
+- changed expectation;
+- conditional lesson/strategy;
+- intention/open question;
+- generalized cross-trajectory abstraction.
+
+A raw event, a generated reflection and a reusable acquired understanding are not the same object.
+
+### 2.3 Memory / history / context
+
+These remain separate:
+
+- human cognitive memory;
+- neural memory mechanism;
+- system history/path dependence;
+- model context;
+- agent memory store/policy;
+- replay buffer;
+- ChatGPT project chat/history/Memory/source;
+- explicit project file;
+- broader account/Space/app state.
+
+A2 adds a crucial distinction:
+**history dependence can exist without an explicit memory store, and a memory store can exist without materially influencing future behavior.**
+
+### 2.4 Learning / adaptation / update / revision
+
+A2 now requires four dimensions whenever one of these words is used:
+
+1. **what object changes;**
+2. **what caused the change;**
+3. **how long it persists;**
+4. **whether future changeability itself changed.**
+
+Possible meanings include:
+- psychological learning;
+- ICL/context conditioning;
+- agent memory/state update;
+- ML parameter/policy adaptation;
+- model editing;
+- product-memory update;
+- revision of an interpretation;
+- meta-learning/metaplasticity-like change in future responsiveness.
+
+### 2.5 Significance / importance / relevance / priority
+
+These terms still overlap functionally but are not interchangeable:
+
+- attentional salience;
+- novelty/surprise;
+- uncertainty/information value;
+- task/goal relevance;
+- utility;
+- subjective/personal value;
+- interest/curiosity;
+- identity/self relevance;
+- memory-write priority;
+- retrieval/replay rank.
+
+**Engineering priority is not evidence of developed value or interest.**
+
+### 2.6 Autonomy / agency / initiative / independence
+
+A2 adds sharper boundaries:
+
+- human agency;
+- self-endorsed psychological autonomy;
+- system/operational autonomy;
+- delegated agent autonomy;
+- initiative frequency;
+- disagreement/reactance;
+- freedom within higher-priority constraints.
+
+**initiative ≠ autonomy; disagreement ≠ autonomy; unpredictability ≠ autonomy; absence of external influence ≠ required autonomy.**
+
+### 2.7 Goal / value / preference / reward / objective / intention / constraint
+
+These all steer action but occupy different causal roles:
+
+- self-endorsed human goal/value;
+- situational intention;
+- user instruction;
+- agent subgoal;
+- externally specified objective;
+- reward signal;
+- learned user preference estimate;
+- hard safety/system constraint.
+
+**Agent-generated subgoal is not automatically a self-originated enduring goal.**
+
+### 2.8 Feedback / consequence / correction / evidence / social reaction
+
+The same post-action message can simultaneously contain several functions.
+
+Need to distinguish:
+- factual evidence;
+- correctness/correction;
+- social approval/rejection;
+- instruction;
+- environmental consequence;
+- reward/learning signal;
+- relationship/reputation signal.
+
+Sender identity alone does not determine function.
+
+### 2.9 State / participant / system / environment
+
+After A2, `state` and `system` require an explicit boundary.
+
+Possible system boundaries include:
+- model only;
+- model + current context;
+- Project persistent state;
+- Project + tools/runtime;
+- recurrent user↔Project loop.
+
+A component can be **external state** at one boundary and **internal constituent** at another.
+
+### 2.10 Persistence / continuity / stability / robustness / resilience / rigidity / hysteresis
+
+A2 sharpened these:
+
+- persistence — something remains over time;
+- continuity — higher-level trajectory/function remains connected across change;
+- stability — bounded behavior around a regime;
+- robustness — function survives perturbation;
+- resilience — function recovers/adapts after perturbation;
+- rigidity — inability to revise/adapt;
+- hysteresis — same current conditions can yield different states because of prior path.
+
+**Persistence is not automatically continuity; stability is not rigidity; persistence is not hysteresis.**
+
+### 2.11 Retrieval / replay / exposure / selection
+
+All can make the past influence the future, but they are different:
+
+- cognitive retrieval;
+- agent memory retrieval;
+- product-managed context selection;
+- ML replay;
+- recommendation/exposure;
+- curriculum/data selection;
+- direct prompt insertion.
+
+A2 broadens the trajectory-selection problem:
+**what becomes available/encountered can shape the trajectory even before any explicit “learning” step occurs.**
+
+### 2.12 Reflection / attribution / explanation / provenance / self-report
+
+These must remain distinct:
+
+- reflection — generated reconsideration;
+- causal attribution — hypothesis about why an outcome occurred;
+- explanation — communicative/generated account;
+- provenance — trace to source event/action/evidence;
+- self-report — statement about one’s own state/change.
+
+**A plausible explanation or self-report is not provenance and is not causal evidence.**
+
+### 2.13 Instruction / rule / authority / historical content
+
+A2 adds the new authority distinction:
+
+- system/developer/project governing instruction;
+- current user request;
+- procedural rule;
+- historical user quote;
+- old intention;
+- derived conclusion;
+- evidence/data stored in a file.
+
+**Imperative wording inside historical data does not automatically make it a governing instruction.**
+
+This is gap 22.
+
+### 2.14 Drift
+
+A2 requires drift to be qualified:
+
+- environment/data drift;
+- concept/relationship drift;
+- user-preference drift;
+- learner/model drift;
+- provider model update;
+- product/runtime drift;
+- memory-mode/configuration drift;
+- governing-instruction version change;
+- objective/value drift.
+
+These are not one phenomenon and can produce similar observed behavior changes.
+
+### 2.15 Future changeability / metaplasticity / meta-learning
+
+These share a second-order functional slot:
+
+**past history changes how future change happens.**
+
+But:
+- biological metaplasticity;
+- psychological meta-learning;
+- ML learned update rules;
+- agent update-policy changes
+
+are not one mechanism.
+
+The only shared level is the substrate-neutral question in gap 21 / №7.
+
+### 2.16 Randomness / stochastic divergence / history-mediated divergence
+
+Need three stages:
+
+1. random/stochastic branch;
+2. changed subsequent environment/history;
+3. later behavior causally dependent on the diverged history.
+
+A trajectory can **begin from chance** without remaining **explainable only by chance**.
+
+### 2.17 Forgetting / deletion / inaccessibility / obsolescence / deactivation
+
+These all reduce current influence but mean different things:
+
+- representation erased/deleted;
+- source removed;
+- still stored but inaccessible;
+- not retrieved;
+- retrieved but ignored;
+- marked stale/obsolete;
+- archived historical-only;
+- competing representation dominates.
+
+Therefore:
+**not currently influential ≠ erased.**
+
+### 2.18 Identity / self-concept / self-presentation / reputation / persona / profile
+
+A2 preserves and sharpens:
+
+- identity/self-concept — human/social constructs;
+- self-presentation — audience-facing behavior;
+- reputation — others’ distributed representation;
+- persona/profile — engineered or prompted representation;
+- stable style — observable regularity.
+
+**Stable style/persona/reputation adaptation does not establish identity development.**
+
+### 2.19 Open-endedness / nonstationarity / unpredictability
+
+These are distinct:
+
+- nonstationarity — environment/data changes;
+- unpredictability — future output difficult to predict;
+- exploration/novelty — new states/actions are sampled;
+- open-endedness — accessible future possibilities/state space itself may expand/change.
+
+A2 does **not** establish that a ChatGPT Project is formally open-ended.
+
+## 3. Different labels → overlapping functional roles after A2
+
+These should be compared in Phase B but not collapsed.
+
+### 3.1 Carrying the past forward
+
+`memory / history / file / source / model weight / adapter state / project chat / account memory / replay buffer / context`
+
+Functional question:
+**what information/state from the past can influence future behavior?**
+
+### 3.2 Reducing old influence
+
+`forgetting / deletion / archival / invalidation / obsolescence / extinction / suppression / truncation / context omission / negative transfer correction`
+
+Functional question:
+**why does an older state stop guiding current action?**
+
+### 3.3 Creating reusable structure
+
+`generalization / semanticization / abstraction / summarization / consolidation / schema formation / lesson extraction / transfer`
+
+Functional question:
+**how does specific history become applicable beyond the original event?**
+
+### 3.4 Selecting what shapes the next state
+
+`attention / retrieval / replay / ranking / curriculum / recommendation / context assembly / source selection`
+
+Functional question:
+**which available information actually gets a chance to affect the next decision?**
+
+### 3.5 Revising without erasing history
+
+`reconsolidation / extinction/new learning / conditionalization / supersession / contradiction tracking / stale marking / rollback`
+
+Functional question:
+**how can prior understanding cease to govern while provenance remains available?**
+
+### 3.6 Evidence of longitudinal change
+
+`idiographic trajectory / behavioral intervention effect / history dependence / memory intervention / repeated-sampling control / model-version control / product-configuration log`
+
+Functional question:
+**what alternatives must be excluded before interpreting change as history-derived?**
+
+### 3.7 Constraints on change
+
+`homeostasis / protected invariants / system rules / safety constraints / instruction hierarchy / viability bounds`
+
+Functional question:
+**what must remain protected while other state remains revisable?**
+
+These are analogous functional slots across domains, not evidence for shared mechanism.
+
+## 4. Real incompatible formulations after A2
+
+### 4.1 Continuity as maximal preservation vs continuity as revisable persistence
+
+One formulation says continuity means keeping as much history as possible.
+
+A2 shows the opposite can also be necessary:
+- obsolete experience can mislead;
+- excessive retention can create rigidity/loss of plasticity;
+- old conclusions may need narrowing, deactivation or forgetting.
+
+**Phase-B requirement:** continuity must permit revision/forgetting without equating them with loss of identity/history.
+
+### 4.2 Stable identity/function requires fixed substrate vs continuity can survive component turnover
+
+№6/7 show that higher-level function can remain stable while lower-level components change.
+
+**Requirement:** do not define continuity as bit-for-bit persistence of every internal representation/file entry.
+
+### 4.3 More history influence is better vs history can create lock-in/error propagation
+
+Retrieval, replay and personalization can:
+- improve reuse;
+- amplify early accidents;
+- propagate errors;
+- create apparent interests/preferences;
+- degrade safety.
+
+**Requirement:** history influence is a capability, not a success criterion.
+
+### 4.4 History dependence equals individualization vs history dependence can be mechanical
+
+A recommender loop, repeated retrieval or fixed persona plus memory can be strongly path-dependent.
+
+**Requirement:** gap 23 must distinguish individualization from mere history-sensitive adaptation.
+
+### 4.5 No-update as failure vs no-update as legitimate outcome
+
+No change can reflect:
+- insufficient evidence;
+- stable well-supported prior understanding;
+- irrelevance;
+- latent learning not yet expressed;
+- or pathological rigidity.
+
+**Requirement:** no-update must be allowed but diagnostically ambiguous.
+
+### 4.6 Forgetting as damage vs forgetting as adaptation
+
+Forgetting may be:
+- accidental loss;
+- context-dependent inaccessibility;
+- intentional/functional removal of obsolete influence.
+
+**Requirement:** retention and forgetting cannot be scored on a one-dimensional “more memory is better” axis.
+
+### 4.7 Reflection as learning vs reflection as generated narrative
+
+Reflection can help reorganize experience, but can also hallucinate reasons and create post-hoc causal stories.
+
+**Requirement:** reflection is a candidate processing step, not evidence of durable learning or provenance.
+
+### 4.8 Retrieval as access vs retrieval as intervention
+
+Retrieval can alter:
+- what current inference sees;
+- future storage/replay distribution;
+- subsequent actions and therefore future events.
+
+**Requirement:** retrieval policy is part of trajectory formation.
+
+### 4.9 Historical experience as evidence vs historical experience as instruction
+
+For history to matter, it must influence reasoning; but if persisted text becomes a governing command, the system becomes an uncontrolled self-modifying prompt.
+
+**Requirement:** gap 22 must preserve influence without automatic instruction authority.
+
+### 4.10 User influence as contamination vs user influence as natural experience
+
+The user necessarily affects the trajectory socially, informationally and through instructions.
+
+**Requirement:** influence is not a defect; **direct scripting of desired identity content** is the distinct problem.
+
+### 4.11 Independence as opposition vs autonomy under influence
+
+Automatic disagreement can be as externally determined as automatic agreement.
+
+**Requirement:** autonomy cannot be operationalized as contrarian behavior.
+
+### 4.12 Self-generated subgoal equals own enduring goal vs delegated decomposition
+
+Agent planning can generate subgoals inside an externally supplied objective.
+
+**Requirement:** functional planning initiative must not be re-labelled as self-endorsed values/goals.
+
+### 4.13 Reward/optimization equals significance vs significance without preset objective
+
+RL can solve credit assignment relative to a specified reward.
+
+Our target does not assume a predefined scalar “good development” reward.
+
+**Requirement:** reward optimization cannot substitute for gap 6.
+
+### 4.14 Personalization equals individualization
+
+User-specific Memory/profile/policy can create long-term tailored behavior.
+
+**Requirement:** personalization is an alternative explanation, not evidence of participant individualization.
+
+### 4.15 More instructions means safer/more neutral process vs rule overload reduces fidelity
+
+A2 №12 shows multi-constraint/long-context rule-following degrades and interactions can conflict.
+
+**Requirement:** future instructions must seek a minimal causal core; every failure mode cannot become an extra rule.
+
+### 4.16 Fixed higher-level constraints eliminate autonomy vs constraints can bound autonomous dimensions
+
+System/product/safety rules remain fixed, yet lower-level choices may remain open.
+
+**Requirement:** bounded autonomy must be specified by decision domain, not treated as all-or-nothing.
+
+### 4.17 Model stability implies experiment stability vs product/runtime/instruction configuration can drift
+
+Even with nominally “the same participant”, behavior can change because:
+- provider model changed;
+- runtime/context assembly changed;
+- Project memory mode changed;
+- instruction version changed.
+
+**Requirement:** experimental continuity requires configuration provenance, not only conversation history.
+
+### 4.18 Stochastic origin invalidates later individuality vs stochastic seed can become historically amplified
+
+An early random branch may alter later user/environment responses and thereby become a causal historical divergence.
+
+**Requirement:** distinguish random origin from continued random explanation.
+
+### 4.19 Open-endedness equals unpredictability/novelty vs open-endedness is a stronger state-space claim
+
+**Requirement:** do not call the experiment open-ended merely because outputs are diverse or future topics are unknown.
+
+### 4.20 Causal history effect is sufficient evidence of individualization vs trajectory-level interpretation requires more
+
+Even if a stored experience demonstrably changes a later decision, that only establishes **history influence**.
+
+**Requirement:** gap 23 separately asks whether the accumulated pattern warrants the label individualization.
+
+### 4.21 Protected invariants equal frozen personality vs invariants can preserve experiment/safety boundaries
+
+Fixed safety/process constraints can coexist with revisable interests, interpretations and lower-level choices.
+
+**Requirement:** do not confuse protected governing boundaries with pre-authored personality content.
+
+## 5. Final terminology guardrails entering Phase B
+
+Use qualified terms whenever ambiguity matters:
+
+- **event / observation / action / consequence**
+- **interpretation / causal attribution / reflection / intention**
+- **stored record / historical source / candidate lesson / conditional understanding**
+- **human cognitive memory**
+- **agent memory store/policy**
+- **ChatGPT project Memory/history/source**
+- **model context**
+- **psychological learning**
+- **in-context adaptation / ICL**
+- **agent-state update**
+- **ML parameter/policy adaptation**
+- **history-dependent future responsiveness**
+- **neurobiological metaplasticity**
+- **ML meta-learning/update-rule adaptation**
+- **attentional salience / task relevance / subjective value / interest / engineering priority**
+- **human/self-endorsed goal**
+- **agent subgoal**
+- **training/optimization objective**
+- **reward signal**
+- **social feedback / factual correction / evidence / environmental consequence**
+- **project governing instruction**
+- **current user request**
+- **historical/data content**
+- **retrieved/included context**
+- **behaviorally influential context**
+- **product personalization**
+- **history-dependent individualization**
+- **stochastic divergence**
+- **history-mediated divergence**
+- **model drift / product-runtime drift / instruction-configuration drift**
+- **persistence / continuity / resilience / rigidity / hysteresis**
+- **forgetting / deletion / inaccessibility / obsolescence / archival**
+
+If a shorter label is used, its object, level, persistence horizon and causal role must be clear from context.
+
+## 6. Comparison dimensions required in Phase B
+
+When mechanisms from different areas are compared, comparison must explicitly state:
+
+1. **level of analysis**;
+2. **system boundary**;
+3. **object that changes**;
+4. **source of change/feedback**;
+5. **timescale**;
+6. **persistence mechanism**;
+7. **selection/retrieval mechanism**;
+8. **authority status** of the information;
+9. **reversibility/revision path**;
+10. **evidence standard**;
+11. whether the claim is **domain mechanism, formal abstraction, engineering analogy or product fact**.
+
+This is the minimum discipline needed to keep Phase B from silently rebuilding the false equivalences removed during A1/A2.
+
+## 7. Итог этапа 4
+
+**Этап 4 завершён. Финальная межобластная сверка НЕ завершена.**
+
+A1 terminology guardrails remain valid; A2 adds explicit distinctions around:
+- lifecycle/revision/forgetting;
+- history-dependent future changeability;
+- data/evidence vs instruction authority;
+- personalization vs individualization;
+- causal history influence vs trajectory-level individualization;
+- experiment-stack drift;
+- continuity under changing substrate.
+
+No unresolved terminology conflict requires changing the 23-gap ownership map.
+
+**Следующий этап:** этап 5 — собрать **конкретный пакет входа в Phase B**: сгруппировать 23 gaps и supporting domain questions into a non-duplicative deep-research order, define what each Phase-B pass must establish, and set the exact first deep-research task. Phase B itself is not to be started during that packaging step.
