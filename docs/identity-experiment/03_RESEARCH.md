@@ -96,4 +96,4 @@
 11. `research/11_chatgpt_capabilities/` — возможности ChatGPT.
 12. `research/12_area/` — проектные инструкции и prompting.
 
-**Статус 16.10.2026:** **A1, межобластная сверка после A1 и A2 всех 12 областей завершены.** В A2 №12 выполнен fresh-source coverage audit, добавлены вопросы №309–340; уточнены process-vs-outcome instructions, hidden persona/value injection, no-update/no-lesson, reflection vs evidence, stable rules vs evolving files и long-horizon prompt robustness. **Следующий шаг — финальная межобластная сверка после A2. К фазе B до её завершения не переходить.**
+**Статус 16.10.2026:** **A1, межобластная сверка после A1 и A2 всех 12 областей завершены. Финальная межобластная сверка после A2: этап 1 завершён.** В `research/A2_CROSS_AREA_REVIEW.md` проверены границы, residual overlaps и true duplicates; структура 12 областей сохранена. **Следующий шаг — этап 2: dependencies/ownership всех cross-area gaps после A2. К фазе B не переходить.**
