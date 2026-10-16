@@ -546,3 +546,124 @@ One episode can support several understandings; one understanding can be support
 Targeted search across 2024–2026 agent memory work repeatedly returned the same mechanism families: raw/episodic preservation, reflection/distillation, abstraction, contextual retrieval, provenance, validity/update/pruning and lifecycle management. No additional causal class altered the unit/lifecycle synthesis.
 
 **B2 is saturated at principle-space level. B3 is not started in this file.**
+
+# Phase B — B4: bounded operational autonomy inside delegated tasks
+
+**Статус 16.10.2026:** first agent-side deep pass for gaps 10+11+20+8. B4 НЕ завершена.
+
+## Реально просмотренные источники B4
+
+### Castelfranchi & Falcone (1998) — Towards a theory of delegation for agent-based systems
+Robotics and Autonomous Systems 24(3–4):141–157
+https://doi.org/10.1016/S0921-8890(98)00028-1
+
+**Фактически просмотрено:** journal abstract and indexed delegation dimensions.
+
+The paper grounds agent autonomy in delegation/adoption: task specification, control delegation, possibility of subdelegation and help levels vary independently. It also explicitly analyzes collaborative conflicts where a contractor uses its own planning/decision skills beyond a minimally specified request.
+
+**B4-результат:** autonomy is scope- and task-relative. A delegated top-level goal can coexist with substantial discretion over how to achieve it. External origin of the task does not erase operational autonomy.
+
+### Ganesh et al. (2025) — Generative AI Agents for Knowledge Work Augmentation in Finance
+Annual Review of Control, Robotics, and Autonomous Systems 8:189–210
+https://doi.org/10.1146/annurev-control-022823-033813
+
+**Фактически просмотрено:** abstract, article overview and indexed autonomy discussion from the full-text page.
+
+The review treats autonomy as both level and scope, and proposes dimensions such as flexibility, proactivity and supervision for knowledge-work agents.
+
+**B4-результат:** agent autonomy is not one scalar property and must be tied to a declared domain/task envelope and human control regime.
+
+### Feng, McDonald & Zhang (2025) — Levels of Autonomy for AI Agents
+https://arxiv.org/abs/2506.12469
+
+**Фактически просмотрено:** abstract/framework summary; preprint, used as supporting taxonomy rather than primary evidence.
+
+Five escalating user roles are proposed: operator, collaborator, consultant, approver and observer. Important for B4 because control over an agent can vary without changing its underlying capabilities.
+
+### Yao et al. (ICLR 2023) — ReAct
+https://mlanthology.org/iclr/2023/yao2023iclr-react/
+
+**Фактически просмотрено:** peer-reviewed abstract and Google research explanation of the action/observation loop.
+
+ReAct interleaves reasoning with task-specific actions; actions produce observations from an external environment, and those observations update subsequent reasoning/planning.
+
+**B4-результат:** a language-agent architecture can instantiate a literal closed loop where an internally selected action changes the next evidence available to the agent.
+
+### Zhou et al. (ICLR 2024) — WebArena
+https://proceedings.iclr.cc/paper_files/paper/2024/hash/4410c0711e9154a7a2d26f9b3816d1ef-Abstract-Conference.html
+
+**Фактически просмотрено:** conference abstract and CMU project summary.
+
+WebArena supplies fully functional websites in which high-level natural-language commands must be converted into concrete long-horizon interactions. Agent actions change web/application state and therefore future observations/options.
+
+**B4-результат:** user-specified end task and agent-selected intermediate actions can coexist. Intermediate choices have causal consequences for the future trajectory even when the top-level objective is delegated.
+
+### Wang et al. (2023) — Voyager
+https://arxiv.org/abs/2305.16291
+
+**Фактически просмотрено:** paper abstract/project summary.
+
+Voyager combines an automatic curriculum, executable skill library and iterative environment-feedback/self-verification loop without model-weight fine-tuning.
+
+**B4 caution:** 'autonomous exploration' here is still architecturally directed by a designer-authored exploration curriculum/objective. Self-generated tasks or subgoals do not automatically equal self-originated enduring values.
+
+## B4 decomposition: where can a choice actually belong to the participant?
+
+A top-level request does not determine every lower-level decision. Current synthesis separates:
+
+1. **Task/objective origin** — who specifies the top-level requested outcome.
+2. **Interpretation/clarification** — how ambiguous task meaning is resolved; whether to ask for clarification.
+3. **Subgoal generation/decomposition** — which intermediate objectives are created to reach the task.
+4. **Planning/order** — which sequence/path is chosen among feasible alternatives.
+5. **Information acquisition/tool choice** — what to inspect, retrieve, ask, search or invoke.
+6. **Execution choice** — which concrete action is taken in the environment.
+7. **Stopping/escalation** — when to stop, defer, ask the user or declare insufficiency.
+8. **Memory/revision choice** — what acquired understanding to revisit or modify when evidence permits.
+9. **Future initiation** — whether to propose or pursue a new direction when the interaction leaves that dimension open.
+
+These dimensions can carry different amounts of autonomy simultaneously. Therefore `user gave the task` does not imply `agent made no choices`, and `agent generated a subgoal` does not imply `agent owns the top-level goal/value`.
+
+## Delegated autonomy vs operational autonomy
+
+**Delegated authority/scope** answers: what actions, tools, information and outcomes are permitted/required by user/system/product constraints.
+
+**Operational autonomy** answers: within that envelope, which unresolved decisions are selected by the participant's current reasoning/history/state rather than explicitly specified by the delegator.
+
+Bounded autonomy is therefore compatible with fixed higher-level constraints. It becomes scripting when the constraints specify the detailed trajectory or desired internal/personality outcome rather than only the permissible/process envelope.
+
+## Candidate criterion for causally meaningful own choice
+
+A choice is a stronger candidate for participant-owned functional choice when:
+
+1. at least two materially different permitted alternatives remain open;
+2. governing instructions/user request do not already determine which alternative must be selected;
+3. selection depends on the participant's current acquired state/history/reasoning rather than pure randomization or a fixed external rule;
+4. executing the selection changes the later environment, user response, available information or feasible next actions;
+5. counterfactually selecting another allowed alternative would plausibly have produced a different subsequent evidence stream.
+
+This is a functional/causal criterion only. It does not claim consciousness, metaphysical free will or human subjective ownership.
+
+## Full reciprocal loop
+
+The B4 agent-side loop can now be stated more precisely:
+
+`history/acquired state → bounded choice → action/utterance/tool use → environment/user state changes → observation/response/consequence → interpretation/update → changed history/state → next bounded choice`
+
+User influence appears at multiple points:
+- before choice, as request/constraint/information;
+- after action, as contingent feedback/consequence;
+- between steps, by changing opportunities and available evidence;
+- recursively, because the participant's own earlier action helped cause the user/environment response it later experiences.
+
+Thus future experience can be partly endogenous without being isolated from social influence.
+
+## First B4 guardrails
+
+- autonomy ≠ disagreement with user;
+- autonomy ≠ randomness/unpredictability;
+- autonomy ≠ unrestricted permissions;
+- planning/subgoal generation ≠ independent enduring value;
+- compliance with a legitimate current request ≠ absence of all operational choice;
+- acting inside an externally authored objective ≠ proof that the participant authored that objective.
+
+**B4 НЕ завершена.** Next pass must stress-test this model on conflicting authority/evidence/social meaning, user suggestions that leave no real alternative, initiative outside a delegated task, and whether memory/revision choice can be autonomous without becoming self-reinforcing lock-in.
