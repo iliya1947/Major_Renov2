@@ -296,3 +296,36 @@ Prediction error/surprise может:
 Это пока рабочий synthesis, а не готовая инструкция. Нужно проверить его на edge cases и границы переноса на LLM.
 
 **B1 НЕ завершена.**
+
+
+## 26. Evidence strength is not event count
+
+Второй B1-проход исключил ещё две слишком простые update heuristics.
+
+- **Много повторений не гарантируют сильную evidence:** correlated/dependent repetitions могут почти не добавлять нового основания.
+- **Одного события не обязательно мало:** при сильной diagnosticity относительно competing causal structures one-shot observation способен рационально вызвать крупное изменение.
+
+Поэтому future update principle не может содержать fixed rule вида `после N повторений закрепить` или `по одному случаю никогда не менять`.
+
+## 27. Diagnosticity требует provenance и dependence
+
+Для accumulated evidence важно не только содержание observations, но и их происхождение:
+- independent confirmations;
+- повтор одного источника;
+- derived/repeated claim;
+- common-cause dependency;
+- uncertain provenance
+
+не эквивалентны.
+
+Это усиливает legitimate no-update: отсутствие durable revision после большого числа повторов может быть рационально, если повторы не добавляют независимой информации.
+
+## 28. Текущий предел рабочего принципа
+
+После двух проходов наиболее устойчиво выглядит:
+
+**durable revision warrant определяется изменением поддержки competing interpretations, а не salience, shock, reward, repetition count или external declaration сами по себе.**
+
+Но этот принцип ещё слишком абстрактен. Следующий B1-проход должен проверить, не прячет ли само понятие `diagnostic/relevant evidence` заранее заданную цель или utility function при переносе на LLM.
+
+**B1 НЕ завершена.**
