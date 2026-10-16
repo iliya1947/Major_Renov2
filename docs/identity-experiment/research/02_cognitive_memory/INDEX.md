@@ -350,3 +350,8 @@ Cognitive offloading и цифровые средства создают отд�
 A2 не означает, что эти вопросы уже глубоко решены. В A2 источники исследовались настолько, насколько нужно для проверки структуры и полноты карты; глубокое сравнение competing mechanisms относится к фазе B.
 
 **Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №3 «Психология обучения и поведения»**.
+
+
+## Phase B status
+
+**B2 gaps 5+13+15 начата 16.10.2026, НЕ завершена.** Первый deep pass: event segmentation, episode vs interpretation vs reusable understanding, abstraction/generalization, reconsolidation/revision. Рабочий candidate: acquired experience is a revisable relation between episode evidence and conditional understanding with provenance/scope/status. Следующий шаг: stress-test single-event learning, conflicts, exceptions and many-to-one abstraction.
