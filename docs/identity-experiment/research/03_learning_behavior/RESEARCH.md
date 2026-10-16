@@ -214,3 +214,118 @@ https://doi.org/10.1098/rstb.2024.0358
 - meta-learning across nested timescales
 
 не открыл новой крупной самостоятельной learning tradition beyond A1. Новые результаты в основном **перестроили границы между уже найденными ветвями и выявили интегральные вопросы**, которые добавляются в INDEX перед закрытием A2.
+
+
+# Phase B — B1: legitimate no-update
+
+**Статус 16.10.2026:** B1 начата и НЕ завершена. Этот раздел — первый глубокий проход по gap 7 в связке с gap 6. Цель: определить, когда отсутствие durable update является рациональной/адаптивной возможностью, а когда та же внешняя стабильность может означать failure.
+
+## Реально просмотренные источники B1
+
+### Nassar et al. (2010) — An Approximately Bayesian Delta-Rule Model Explains the Dynamics of Belief Updating in a Changing Environment
+Journal of Neuroscience 30(37):12366–12378  
+https://doi.org/10.1523/JNEUROSCI.0822-10.2010
+
+**Фактически просмотрено:** abstract и релевантные methods/results/discussion sections доступного online text в текущем B1-проходе. Первичное human study в task-specific changing environment.
+
+**Результат:** learning rate зависит не только от prediction error, но от uncertainty/history and inferred environmental change. Большая ошибка не обязана означать, что underlying regularity изменилась.
+
+### McGuire et al. (2014) — Functionally dissociable influences on learning rate in a dynamic environment
+Neuron 84(4):870–881  
+https://doi.org/10.1016/j.neuron.2014.10.013
+
+**Фактически просмотрено:** abstract и релевантные available sections/summary. Первичное human computational/fMRI study.
+
+**Результат:** uncertainty-, surprise- and reward-related influences on learning rate dissociate. Reward-driven updating в их task мог быть context-inappropriate. Для B1 это прямой запрет на подмену evidence quality эмоциональной/reward salience.
+
+### Nassar et al. / change-point vs oddball paradigm
+Representative accessible account:  
+https://academic.oup.com/brain/article/144/3/1013/6090163
+
+**Фактически просмотрено:** normative-model section и relevant results describing change-point vs oddball contexts.
+
+**Результат:** одинаково surprising outlier должен вести к **противоположному** update behavior в разных causal contexts. Если outlier сигнализирует change-point, surprise увеличивает learning; если это one-off oddball, normative learner должен уменьшить влияние наблюдения. Следовательно, surprise itself не определяет update direction or magnitude.
+
+### Sanna & Lagnado (2025) — Belief updating in the face of misinformation: The role of source reliability
+Cognition 258:106090  
+https://doi.org/10.1016/j.cognition.2025.106090
+
+**Фактически просмотрено:** abstract/highlights и open repository metadata; первичная серия из 4 experiments.
+
+**Результат:** participants учитывали source reliability при revising beliefs. Значит, content contradiction сама по себе недостаточна: reliability/provenance источника влияет на weight evidence.
+
+### Sommer, Musolino & Hemmer (2024) — Updating, evidence evaluation, and operator availability
+Psychological Review 131(2):373–401  
+https://pubmed.ncbi.nlm.nih.gov/37589708/
+
+**Фактически просмотрено:** abstract и substantial accessible framework sections в текущем B1-проходе. Теоретический integrative framework, не финально установленная универсальная модель.
+
+**Результат:** authors отделяют narrow updating proper от evidence search, acceptance, hypothesis specification, integration/recall и reasoning. Поэтому наблюдаемое «belief did not change» неоднозначно: проблема могла возникнуть **до** собственно update.
+
+### Soderstrom & Bjork (2015) — Learning Versus Performance
+Perspectives on Psychological Science 10(2):176–199  
+https://doi.org/10.1177/1745691615569000
+
+**Фактически просмотрено:** substantial full-PDF extract в текущем B1-проходе: abstract, latent-learning discussion, practice/retrieval examples и theoretical sections; не заявляется построчное чтение каждого абзаца.
+
+**Результат:** durable learning ≠ immediate performance. Learning может существовать без текущего expression; immediate performance improvements могут не сохраняться. Поэтому visible behavior change не годится как единственный criterion durable update, а visible no-change не доказывает no-learning.
+
+### Sinclair & Barense (2018) и subsequent human memory-prediction-error work
+https://doi.org/10.1016/j.learninstruc.2017.11.001
+
+**Фактически просмотрено:** abstracts/relevant online sections по prediction-error-triggered memory updating.
+
+**Результат:** prediction error может открыть окно для updating/reactivation, но surprise также может повысить susceptibility to later distortion/false memory. То есть «candidate for revision» и «validated durable lesson» должны быть разделены.
+
+### Kamoi et al. (2024) — When Can LLMs Actually Correct Their Own Mistakes?
+TACL 12:1417–1440  
+https://aclanthology.org/2024.tacl-1.78/
+
+**Фактически просмотрено:** abstract/conclusion and survey summary. Critical survey.
+
+**Результат:** reliable external feedback substantially changes self-correction prospects; prompted intrinsic feedback alone lacks robust general evidence outside specially suited tasks. LLM self-reflection cannot serve as self-validating evidence that an update is correct.
+
+### Li et al. (2024) — When Hindsight is Not 20/20
+Findings of NAACL 2024  
+https://aclanthology.org/2024.findings-naacl.237/
+
+**Фактически просмотрено:** abstract/results summary.
+
+**Результат:** self-reflection without external feedback improved one benchmark and harmed another; outcome depended on initial accuracy and difficulty. More reflection/update is not monotonically better.
+
+## Candidate legitimate no-durable-update conditions
+
+Evidence from these domains supports at least the following **candidate conditions**, not yet final project rules:
+
+1. New observation is materially redundant with what is already well supported and adds no relevant discriminatory information.
+2. Prediction error is plausibly noise/one-off oddball rather than evidence of a changed underlying process.
+3. Source/provenance/reliability is too weak or conflicting to support durable revision.
+4. Evidence is genuinely ambiguous among live explanations; deferring durable commitment is better justified than inventing a lesson.
+5. Event is salient/novel/rewarding but not diagnostic for the representation under consideration.
+6. Immediate behavior/performance changes, but there is no basis yet for inferring durable learning.
+7. Self-generated reflection supplies a narrative but no trustworthy independent evidence that the narrative is correct.
+
+Conversely, repeated individually weak observations may accumulate into strong evidence; a single observation may justify large revision when it is highly diagnostic. Therefore a simple per-event threshold cannot be the general solution.
+
+## Главная диагностическая проблема gap 7
+
+**No visible update ≠ legitimate no-update.** Та же внешняя стабильность может означать:
+- well-supported stability;
+- failure to retrieve prior/evidence;
+- failure to accept/represent evidence;
+- over-rigidity/confirmation-like bias;
+- latent learning not yet behaviorally expressed;
+- context-dependent inaccessibility;
+- implementation/product limitation.
+
+Поэтому B1 должна определить **warrant for durable revision/preservation**, а не просто наблюдать, изменился ли следующий ответ.
+
+## Связь gap 7 с gap 6
+
+Самый сильный найденный принцип пока такой:
+
+> Surprise/prediction error can justify **inspection or revision pressure**, but durable update should depend on what the event is evidence for relative to accumulated history, uncertainty, source reliability and plausible alternatives.
+
+Это отличается от preset value function: речь о relation evidence↔current understanding. Но этот procedural rule всё равно содержит inductive assumptions; «без заранее заданных ценностей» не означает «без любых fixed process assumptions».
+
+**B1 НЕ завершена. Не переходить к B2.**
