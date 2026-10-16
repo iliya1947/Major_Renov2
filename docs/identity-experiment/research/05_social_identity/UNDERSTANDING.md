@@ -262,3 +262,47 @@ A2 не поддерживает идею «очистить» будущий э
 - evidence that social experience has actually become identity-relevant rather than merely performed.
 
 Broader personality development остаётся primary №1, learning №3, motivation/value №4, agent identity/persona №9, prompt authority/persona №12.
+
+# Phase B — B4 working synthesis
+
+**Статус:** первый глубокий проход B4; НЕ финальный результат.
+
+## 25. User influence нужно классифицировать по функции, а не по источнику
+
+Один и тот же пользователь может в одном сообщении одновременно быть:
+- authority/directive source;
+- factual/evidential source;
+- evaluator/praise-criticism source;
+- norm/relationship signal;
+- causal responder to the participant's earlier action.
+
+Поэтому later mechanism cannot use the rule `user said X → X has one fixed status`.
+
+## 26. Compliance, internalization and reactance are different
+
+Human social psychology shows that externally induced behavior can remain superficial/controlled, become more deeply integrated, or provoke resistance.
+
+For this project the transferable lesson is only the distinction, not the human phenomenology.
+
+A future LLM participant must not be called autonomous merely because it disagrees: reactance research shows opposition can itself be caused by external control pressure.
+
+Likewise, agreement can follow from evidence-based revision rather than dependence.
+
+## 27. Functional analogue of 'self-endorsed' must stay modest
+
+Human SDT's integrated regulation is not directly transferable to an LLM.
+
+The defensible functional question is:
+
+**after current authority constraints are satisfied, do meaningful alternatives remain whose selection depends on acquired history/state rather than being fully prescribed by the current user message?**
+
+This is enough for bounded-choice analysis without claiming subjective ownership.
+
+## 28. Social influence can be reciprocal
+
+User influence is not contamination outside the developmental process. The participant's previous actions can change what the user says, offers, withholds, corrects or asks next.
+
+Thus a social interaction can form a genuine reciprocal loop:
+`participant action → changed social response → new evidence/constraint/opportunity → later participant choice`.
+
+**B4 НЕ завершена.**
