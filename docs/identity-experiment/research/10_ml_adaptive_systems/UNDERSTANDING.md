@@ -1,6 +1,6 @@
-# A1 №10 — Машинное обучение и адаптивные системы: понимание карты области
+# A1/A2 №10 — Машинное обучение и адаптивные системы: накопленное понимание
 
-**Статус:** итог первичной картографии A1 №10 от 15.10.2026. Это понимание структуры исследовательского пространства, а не ответы на найденные вопросы.
+**Статус:** A1 завершена 15.10.2026, A2 — 16.10.2026. Ниже сохранено понимание структуры области и добавлены выводы финальной картографии после межобластной сверки.
 
 ## 1. «Адаптация» в ML — не один вид изменения
 
@@ -131,3 +131,279 @@ A1 №10 отвечает только на вопрос:
 **«Какие формы machine learning adaptation необходимо исследовать, чтобы позже понять, как система может накапливать и пересматривать приобретённое без либо катастрофического стирания прошлого, либо утраты способности меняться, не сводя адаптацию к одному алгоритму?»**
 
 **Следующий шаг общего процесса:** A1 №11 «Возможности ChatGPT».
+
+
+---
+
+# A2 — что изменилось в понимании области
+
+## 15. Главный вопрос ML — не «адаптируется ли система», а «что именно адаптируется»
+
+После A2 слово `adaptation` без объекта стало практически бесполезным.
+
+Меняться могут:
+- base parameters;
+- adapters/modules;
+- representation;
+- policy;
+- optimizer/update rule;
+- normalization/statistics;
+- routing;
+- architecture/capacity;
+- replay/data selection;
+- external memory/knowledge state.
+
+Два systems могут показывать одинаковое behavioral change при совершенно разном locus of change.
+
+Для будущего проекта это защищает от слишком общей фразы «ИИ научилась на опыте».
+
+## 16. Persistence — отдельная ось от adaptation mechanism
+
+Один механизм может менять поведение:
+- только на одном batch/test window;
+- до конца session;
+- в persistent external state;
+- в learned adapter/module;
+- в core parameters.
+
+Следовательно, later causal model must separately ask:
+1. **what changed?**
+2. **how long does it persist?**
+3. **under what conditions is it expressed?**
+4. **can it be rolled back/revised?**
+
+## 17. Stability–plasticity имеет две симметричные failure directions
+
+A1 уже зафиксировала catastrophic forgetting.
+
+A2 усилила противоположность:
+**loss of plasticity / catastrophic remembering** — чрезмерное сохранение старого может сделать систему неспособной эффективно осваивать новое.
+
+Поэтому будущему acquired experience нельзя максимизировать persistence.
+
+Слишком слабая continuity разрушает trajectory.
+Слишком сильная continuity превращает history в lock-in.
+
+## 18. Forgetting может быть функциональной частью adaptation
+
+В nonstationary systems прошлое может стать:
+- obsolete;
+- context-specific;
+- temporarily irrelevant;
+- useful again if an old regime recurs.
+
+Это значит, что later mechanism должен различать:
+`forget`, `deactivate`, `archive`, `supersede`, `retain for possible recurrence`.
+
+Простая цель «никогда ничего не терять» инженерно и концептуально неверна.
+
+## 19. Replay и abstraction — принципиально разные операции
+
+Experience replay:
+- выбирает old samples/trajectories;
+- снова подаёт их learner;
+- поддерживает old performance or transfer.
+
+Abstraction:
+- преобразует examples;
+- извлекает structure/rule/representation.
+
+Повторное exposure к прошлому может поддерживать behavior без появления reusable understanding.
+
+Это напрямую соединяется с №2 и №9:
+**replayed history ≠ generalized acquired experience**.
+
+## 20. Выбор replay data сам формирует будущую trajectory
+
+Replay buffer — не нейтральный archive.
+
+Его selection policy решает:
+- что старое остаётся активным;
+- что забывается;
+- какие редкие события сохраняются;
+- какие common patterns получают disproportionate rehearsal.
+
+Поэтому replay может создавать path dependence так же, как retrieval №7/9.
+
+## 21. Drift attribution должен быть двусторонним
+
+Если system behaves differently at T2, возможны два fundamentally different causes:
+
+1. **environment/data-generating process changed**;
+2. **learner/model/system changed**.
+
+И часто оба одновременно.
+
+Concept drift literature полезна именно этой дисциплиной причинности:
+нельзя автоматически интерпретировать deterioration/improvement as internal development.
+
+## 22. Не всякий drift одинаков
+
+Нужно различать:
+- input/data distribution drift;
+- concept/relationship drift;
+- label/feedback availability change;
+- user-preference drift;
+- model/system drift;
+- objective/value drift.
+
+Последняя категория особенно важна:
+изменение statistical environment не равно изменению того, **что система считает целью**.
+
+## 23. Adaptation gating предшествует adaptation itself
+
+До update возникает отдельный вопрос:
+**достаточно ли evidence, что устойчивое изменение вообще произошло?**
+
+Если labels delayed/absent, drift detection itself uncertain.
+
+Это сильный инженерный аналог no-update problem №3:
+не всякая новизна/ошибка должна немедленно менять persistent state.
+
+Но ML thresholds не являются готовым психологическим/agent mechanism for our project.
+
+## 24. Personalization и individualization нужно разорвать окончательно
+
+Personalization может создавать:
+- user profile;
+- preference estimator;
+- user-specific policy;
+- tailored ranking/output;
+- per-user embeddings.
+
+Всё это может быть highly persistent and history-sensitive.
+
+Но объектом adaptation остаётся **модель пользователя или policy serving the user**.
+
+Это не то же самое, что сама system develops:
+- own values;
+- own interests;
+- own enduring self-trajectory.
+
+Поэтому персонализация — потенциальный компонент interaction history, но не evidence individuality.
+
+## 25. Personalization может сама создавать то, что потом измеряет
+
+Recommender feedback loop:
+
+`estimated preference → exposure → user interaction → new data → updated preference estimate`.
+
+Такая система partly shapes future evidence about the user.
+
+Для нашего project this is a useful warning:
+memory/retrieval/choice mechanisms могут **создавать собственную подтверждающую data stream**.
+
+Это одна из strongest cross-links №10 ↔ №7/9.
+
+## 26. RL решает другую задачу, чем «что стало значимым»
+
+RL полезен для:
+- state/action formalization;
+- delayed outcomes;
+- temporal credit assignment;
+- exploration;
+- policy adaptation.
+
+Но standard RL assumes some reward/objective.
+
+Даже perfect answer to:
+**«какое раннее действие вызвало reward?»**
+
+не отвечает:
+**«почему именно этот outcome должен стать значимым acquired experience, если values заранее не заданы?»**
+
+Поэтому reward/credit machinery может быть техническим инструментом later synthesis, но не заменяет №4/9.
+
+## 27. Meta-learning тоже не означает развитие личности
+
+Meta-learning может изменить:
+- learning rate;
+- initialization;
+- exploration;
+- update strategy;
+- rapid-adaptation capability.
+
+То есть history across tasks меняет **how the system learns**.
+
+Это очень релевантно к нашей идее history-dependent future responsiveness.
+
+Но optimization target/task distribution обычно заданы externally.
+
+Следовательно:
+`learning how to adapt` ≠ `developing own values/goals`.
+
+## 28. Data selection — такая же часть adaptation, как weights
+
+Active learning, curriculum, replay, sampling and recommendation decide **what is encountered next**.
+
+Это делает ML especially relevant to our causal loop:
+- learning algorithm changes from data;
+- data-selection policy changes future data;
+- future data changes the learner again.
+
+Получается reciprocal loop similar to №1, №5, №7 and №9.
+
+Но whether future ChatGPT participant can control enough of this loop is product/agent question №9/11.
+
+## 29. Protected invariants и adaptive state не противоречат development
+
+Safe deployed systems often preserve some higher-level constraints while allowing lower-level components to adapt.
+
+Для нашего project this provides a useful abstract compatibility:
+- fixed safety/system boundaries;
+- revisable acquired history;
+- changing lower-level choices.
+
+Это **не** требует freezing a personality.
+
+Именно detailed distinction between constraint and script from №7 matters here.
+
+## 30. Evaluation target проекта принципиально шире обычных ML metrics
+
+ML typically measures:
+- accuracy/return;
+- forgetting;
+- forward/backward transfer;
+- adaptation speed;
+- regret;
+- calibration;
+- resources.
+
+Для нашего experiment эти metrics могут оценивать pieces, но конечный вопрос другой:
+
+**стала ли уникальная история causally relevant to later revisable choices without a pre-scripted personality endpoint?**
+
+Поэтому ML cannot supply final success criterion by itself.
+
+## 31. Что область №10 реально даст позднему синтезу
+
+Не algorithm “for individuality”, а engineering vocabulary and trade-offs:
+
+1. **specify what changes;**
+2. **separate adaptation target from persistence;**
+3. **retain without losing plasticity;**
+4. **forget obsolete structure when necessary;**
+5. **distinguish replay from abstraction;**
+6. **treat replay/data selection as causal trajectory shapers;**
+7. **distinguish environment drift from learner drift;**
+8. **gate updates under uncertainty;**
+9. **separate personalization from individualization;**
+10. **use RL credit only where reward/objective assumptions apply;**
+11. **separate meta-adaptation from values/goals;**
+12. **preserve protected constraints while allowing lower-level revision.**
+
+## 32. Финальная граница A2 №10
+
+Самые важные deep-dive ветви для фазы B:
+- continual learning beyond catastrophic forgetting;
+- loss of plasticity/catastrophic remembering;
+- beneficial forgetting and recurring regimes;
+- replay selection vs abstraction/generalization;
+- task-free/drift-aware adaptation;
+- environment vs system drift attribution;
+- personalization feedback loops;
+- temporal credit assignment and limits of reward-based framing;
+- meta-learning/adaptation-rule change;
+- protected invariants vs adaptable state.
+
+Concrete agent experience architecture остаётся primary №9, actual ChatGPT mechanisms — №11.
