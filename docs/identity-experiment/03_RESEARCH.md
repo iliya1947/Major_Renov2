@@ -96,4 +96,4 @@
 11. `research/11_chatgpt_capabilities/` — возможности ChatGPT.
 12. `research/12_area/` — проектные инструкции и prompting.
 
-**Статус 16.10.2026:** **A1 и межобластная сверка после A1 завершены; A2 №1–10 завершены.** В A2 №10 выполнен fresh-source coverage audit, добавлены вопросы №399–432; уточнены adaptation target/persistence, loss of plasticity/catastrophic remembering, beneficial forgetting, replay vs abstraction, environment/learner drift, personalization vs individualization и limits of reward-based credit assignment. **Следующий шаг — A2 №11 «Возможности ChatGPT» отдельным полноценным исследовательским проходом.**
+**Статус 16.10.2026:** **A1 и межобластная сверка после A1 завершены; A2 №1–11 завершены.** В A2 №11 выполнена current official-doc re-verification, добавлены вопросы №301–328; уточнены primary gaps `arbitration among persistence/context layers` и `model/product drift as false development`, а также isolation, inspectability and adjacent product-surface boundaries. **Следующий шаг — A2 №12 «Prompt engineering и проектные инструкции» отдельным полноценным исследовательским проходом.**
