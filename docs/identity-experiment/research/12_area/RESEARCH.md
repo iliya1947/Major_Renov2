@@ -399,3 +399,22 @@ A participant may update experiential data without acquiring the ability to rewr
 
 **B6 НЕ завершена.**
 
+# Phase B — B7 support pass 1: governing-rule changes are experimental interventions
+
+B7 strengthens A2 instruction-versioning requirements.
+
+If Project instructions, examples or stable process rules change during the experiment, the participant is now operating under a changed control intervention.
+
+This remains true even if the new rule is semantically intended as a “small clarification”: prompt wording/order/constraint interactions can materially alter LLM behavior.
+
+Therefore instruction revisions need their own provenance and must not be merged into the participant’s experiential revision lineage.
+
+A later behavioral change has to be interpretable against:
+- unchanged control rules + changed experience;
+versus
+- changed control rules themselves.
+
+B7 does not require governing instructions to remain forever immutable; it only prevents a rule edit from being misread as internally acquired development.
+
+**B7 НЕ завершена.**
+
