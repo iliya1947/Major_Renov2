@@ -355,3 +355,13 @@ A2 не означает, что эти вопросы уже глубоко р�
 ## Phase B status
 
 **B2 gaps 5+13+15 завершена 16.10.2026 по saturation.** Первый deep pass: event segmentation, episode vs interpretation vs reusable understanding, abstraction/generalization, reconsolidation/revision. Рабочий candidate: acquired experience is a revisable relation between episode evidence and conditional understanding with provenance/scope/status. Следующий шаг: stress-test single-event learning, conflicts, exceptions and many-to-one abstraction.
+## Phase B — B6 final 16.10.2026
+- B6 persistence/retrieval/path-dependence/instruction-authority package completed by saturation.
+- Final pipeline: stored → eligible/current → retrieved/materialized → effectively used → behaviorally causal.
+- Retrieval/compression are trajectory-shaping operations, not neutral storage plumbing.
+- Current applicability, provenance, scope, contradiction/exception and lifecycle status constrain history influence; similarity/recency/frequency/importance alone do not.
+- Explicit experiential state is separated from automatic/opportunistic Memory context and from governing Project instructions.
+- Historical text never gains authority merely by persistence/retrieval; write permission ≠ instruction-authority permission.
+- Logical obsolescence/action-guidance status is separate from physical deletion across product surfaces.
+- Project-only memory is the strongest current documented isolation candidate, but within-project automatic retrieval remains partly opaque.
+- Remaining participant-boundary/baseline/runtime confounds belong to B7.
