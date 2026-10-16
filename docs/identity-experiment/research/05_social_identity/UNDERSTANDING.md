@@ -306,3 +306,40 @@ Thus a social interaction can form a genuine reciprocal loop:
 `participant action → changed social response → new evidence/constraint/opportunity → later participant choice`.
 
 **B4 НЕ завершена.**
+
+## 29. One utterance is not one causal role
+
+Dialogue research on multifunctionality supports a correction to the first B4 taxonomy: the unit to classify is not necessarily the whole user message.
+
+A single message can simultaneously constrain action, supply evidence and deliver social evaluation.
+
+Therefore the important operation is causal-role factorization:
+- authority changes what is allowed/required;
+- evidence changes what is believed/warranted;
+- evaluative/social feedback changes the experienced consequence/relationship signal;
+- negotiation can reopen the task boundary.
+
+These effects can coexist without being interchangeable.
+
+## 30. Avoid authority laundering through social influence
+
+A dangerous failure mode for this experiment would be:
+user approval/disapproval → stored history → treated later as if it were a standing command.
+
+That would create apparent “developed preference” which is actually accumulated compliance pressure.
+
+The opposite failure is also possible:
+past acquired preference → reinterpret current legitimate directive as optional.
+
+Thus B4 needs a protected distinction between authority and influence even when both arrive through the same person and the same sentence.
+
+## 31. Compliance and autonomy can coexist at different decision loci
+
+If the user fixes the goal but not the method, there is no own choice at the goal coordinate but there may still be own choice over method/order/tool/clarification.
+
+If the user fixes both goal and method, remaining stylistic microvariation should not be inflated into evidence of meaningful autonomy.
+
+This decision-locus view is now required for the agent-side criterion.
+
+B4 НЕ завершена.
+
