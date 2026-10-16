@@ -285,3 +285,49 @@ Emotion/appraisal literature показывает, почему один и то
 - appraisal as person-relative event significance.
 
 Learning mechanisms остаются primary в №3, identity/social internalization — №5, engineered goals/rewards — №9/10, instruction/value injection — №12.
+
+
+# Phase B — B1 working synthesis
+
+**Статус:** промежуточное понимание после первого глубокого B1-прохода; НЕ финальный результат B1.
+
+## 24. «Значимость» распалась на разные causal roles
+
+A2 уже предупреждала, что salience, relevance, value и interest нельзя сливать. B1 усилила это до более жёсткого causal distinction:
+
+- **orienting significance** — почему событие привлекло дополнительную обработку;
+- **epistemic revision significance** — почему событие реально даёт основание пересмотреть накопленное понимание;
+- **motivational/trajectory significance** — почему тема/действие приобретает устойчивую привлекательность, utility, goal/self relevance или иное мотивационное значение.
+
+Эти роли не образуют одну шкалу и пока не доказано, что они являются последовательными стадиями. Вероятнее, они частично ортогональны.
+
+## 25. History-relative не означает value-free в сильном смысле
+
+Bayesian surprise и adaptive belief updating показывают важную возможность: relevance нового observation может определяться **отношением к уже накопленному prior/expectation**, а не заранее заданным списком важных тем.
+
+Но никакое learning rule не является полностью assumption-free. Нужно различить:
+- **content-prescriptive bias:** заранее сказать, что участник должен ценить/любить/искать X;
+- **procedural/inductive bias:** правила того, как evidence, uncertainty, reliability и alternatives участвуют в пересмотре.
+
+Для нашего замысла запрет относится прежде всего к первому. Второго полностью избежать нельзя; задача — не спрятать внутри него готовую motivational objective.
+
+## 26. Критическая граница: prediction error как evidence ≠ prediction error как reward
+
+Один и тот же сигнал можно использовать принципиально по-разному:
+
+- как повод проверить, не ошибочно ли текущее expectation;
+- как intrinsic reward, который агент должен максимизировать.
+
+Второй вариант уже задаёт направление поведения — seek unpredictability/novelty — и потому фактически вводит preset drive. Pathak et al. полезны именно как контрпример: «без extrinsic reward» не означает «без заранее заданного objective».
+
+## 27. External influence нельзя фильтровать по происхождению
+
+Human internalization/utility-value work показывает, что внешняя среда способна менять later motivation и relevance. Поэтому будущий механизм не должен автоматически считать пользовательский/social input «чужим» и не относящимся к acquired history.
+
+Но обратный вывод тоже неверен: praise, instruction, repetition или induced relevance не доказывают, что возникла enduring self-endorsed value. Для LLM человеческий construct self-endorsement вообще требует отдельной операционализации и пока не должен приписываться.
+
+## 28. Точка продолжения B1
+
+Нужно проверить текущую трёхчастную decomposition на edge cases и решить, является ли motivational significance отдельной осью, а не последней стадией pipeline. Только после этого можно формулировать устойчивое principle space для B1.
+
+**B1 НЕ завершена.**
