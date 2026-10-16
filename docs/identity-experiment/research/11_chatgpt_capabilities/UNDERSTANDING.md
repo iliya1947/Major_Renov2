@@ -397,3 +397,40 @@ What remains opaque is the exact runtime selection/use of eligible context. That
 
 **B6 завершена по saturation.**
 
+## 41. B7 configuration epochs
+
+Current ChatGPT is not a fixed laboratory instrument across long periods.
+
+Documented model, Memory, Projects, tools and runtime features change.
+
+Therefore the future Project should be interpreted as passing through configuration epochs, each with observable provenance where available.
+
+## 42. Continuity can survive an epoch change without preserving causal comparability
+
+Project history/files may remain intact while the underlying Chat model changes.
+
+It can still be useful to treat the Project as the same longitudinal participant at a functional level.
+
+But a behavior shift across that boundary cannot be assigned solely to acquired history.
+
+## 43. Observable provenance has a hard ceiling
+
+The user can record selected model, reasoning setting, memory mode, instructions/files, tools and known release changes.
+
+The consumer product does not expose every backend snapshot, context-assembly rule or rollout detail.
+
+Therefore “unknown provider/runtime cause” remains a legitimate residual alternative.
+
+## 44. Product result for B7
+
+Project-only memory can reduce one important class of outside-history contamination, but it does not remove:
+- provider model drift;
+- product/runtime drift;
+- stochasticity;
+- user/environment changes;
+- explicit Project instruction/file interventions.
+
+Isolation is useful, not causal proof.
+
+**B7 завершена по saturation.**
+
