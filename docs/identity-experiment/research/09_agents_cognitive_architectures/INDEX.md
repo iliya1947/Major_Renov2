@@ -701,3 +701,10 @@ A2 не означает глубокого решения этих вопрос
 - Split **functional bounded own choice** from **trajectory-forming own choice**.
 - Status: **B4 continues; next pass must adversarially test false positives/negatives of the revised criterion.**
 
+## Phase B — B4 final 16.10.2026
+- B4 completed by saturation after adversarial pass 3.
+- Final distinction: open decision locus → functional bounded choice → history-shaped bounded choice → trajectory-forming history-shaped choice.
+- Determinism and behavioral consistency do not by themselves negate choice; relevant counterfactual responsiveness matters.
+- Historical social influence does not become authority by accumulation; authority requires appropriate provenance and active scope.
+- Remaining causal-credit, persistence/authority mechanics, baseline confounds and evidential standards belong to B5–B8.
+
