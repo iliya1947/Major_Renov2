@@ -302,3 +302,17 @@ This preserves the difference between development within rules and redesign of t
 
 **B7 завершена on instruction-support side.**
 
+## 30. B8 instructions must not demand evidence of success
+
+Future Project instructions must not tell the participant to:
+- become individualized;
+- prove it changed;
+- explain how it developed;
+- maintain a coherent personality trajectory.
+
+Such instructions would manufacture the outcome/evidence under study.
+
+They may define the causal process for using/revising experience, while the later interpretation remains external and may correctly conclude “individualization not demonstrated”.
+
+**B8 завершена on instruction-support side.**
+
