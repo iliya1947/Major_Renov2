@@ -616,3 +616,57 @@ A longitudinal causal interpretation must track both:
 
 **B7 НЕ завершена.**
 
+# Phase B — B7 stress-test pass 2: configuration epochs in current ChatGPT
+
+## Current product evidence
+
+OpenAI release notes document concrete configuration changes in 2026, including:
+- memory updates;
+- ability to change existing Project memory mode;
+- model-family updates and retirements;
+- GPT-6 rollout in Chat on 07.10.2026;
+- distinct model/runtime availability between Chat, Work, Codex and Voice.
+
+The current GPT-6 Help Center also documents that selected model and thinking level vary by plan/workspace and that older explicitly selected models can remain available while default selections migrate.
+
+## B7 consequence
+
+A future long-running Project should be modeled as a sequence of **configuration epochs**, not as a product runtime assumed constant for months.
+
+An epoch boundary can be triggered by an observable change in:
+- model/model selection behavior;
+- Project instructions;
+- Project memory mode;
+- tools/apps/permissions;
+- workspace/sharing state that changes memory semantics;
+- relevant ChatGPT product/runtime behavior.
+
+Release notes provide partial evidence of such boundaries but cannot expose every silent backend change.
+
+## Exact provenance requirement at principle-space level
+
+For later interpretation, preserve when available:
+- timestamp/date;
+- selected model family/name;
+- thinking/reasoning setting;
+- product surface;
+- Project memory mode;
+- Project instruction version;
+- explicit experiential-source versions;
+- enabled tools/apps/permissions relevant to the turn;
+- known major product release/configuration change;
+- unknown/opaque runtime state flag where exact backend state cannot be observed.
+
+This is experimental provenance, not experiential memory.
+
+## Important limitation
+
+Even perfect logging of visible settings cannot prove runtime identity.
+
+Thus B7 must preserve a residual category:
+**unobserved provider/runtime change**.
+
+A later unexplained discontinuity should not automatically be absorbed into a developmental narrative.
+
+**B7 НЕ завершена.**
+
