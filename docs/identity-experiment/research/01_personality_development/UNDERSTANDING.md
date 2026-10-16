@@ -239,3 +239,16 @@ For the project, area №1 therefore contributes:
 - second-order changeability must be evidenced independently of ordinary trait/trajectory change.
 
 **B3 cross-domain package is complete; final synthesis is in area №7 UNDERSTANDING.**
+
+## 21. B7 idiographic baseline support
+
+Personality-development research already warned that state occurrence, behavioral recurrence and longitudinal change are different levels.
+
+For B7 this means later behavior must be interpreted relative to the participant’s own prior dynamics, not a generic template of what “development” looks like.
+
+A single unusual state is not a trajectory change, and a new longitudinal pattern still requires causal separation from changed situations/interventions.
+
+This human evidence is only a source-domain analogy; it does not establish personality in the LLM participant.
+
+**B7 завершена on personality-support side.**
+
