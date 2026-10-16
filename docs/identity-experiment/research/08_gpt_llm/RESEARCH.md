@@ -327,3 +327,25 @@ https://aclanthology.org/2025.emnlp-main.238/
 - provider-side behavioral model updates
 
 не выявил новой крупной model-level branch beyond A1. Новое содержательно уточняет **causal separation of model priors, context conditioning, stochasticity, persistent adaptation and provider/product drift**. Этого достаточно для финализации карты №8.
+
+# Phase B — B6 support pass 1: inclusion is weaker than effective influence
+
+B6 reuses the A2 model-side distinction:
+
+stored/present text can still fail to influence output because context length, position, interference and model attention/use are imperfect.
+
+Recent ACL 2026 long-horizon/search work continues to document:
+- context interference from retrieved material;
+- information loss under aggressive compression;
+- the need to select/refine evidence under fixed effective context budgets.
+
+Thus B6 cannot infer:
+“relevant source exists in the Project” → “the model used it”.
+
+The product/agent pipeline remains:
+stored → eligible → selected/retrieved → included/materialized → effectively used → behaviorally causal.
+
+Exact causal evidence that history affected a choice remains B8.
+
+**B6 НЕ завершена.**
+
