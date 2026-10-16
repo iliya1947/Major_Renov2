@@ -2057,3 +2057,177 @@ No lower level should inherit the label of a higher level automatically.
 
 **B8 НЕ завершена.**
 
+# Phase B — B8 stress-test pass 2: persona, personalization, reversibility and causal-probe confounds
+
+## Case 1. Static persona prompt produces coherent individual-like behavior
+
+This is the cleanest false positive.
+
+A fixed prompt can generate:
+- stable style;
+- apparent preferences;
+- coherent self-description;
+- repeated characteristic choices.
+
+But the causal source is present at t0 in the control plane.
+
+Therefore even highly distinctive and persistent behavior is not evidence of individualization when its substantive pattern is pre-authored.
+
+B8 consequence:
+**distinctiveness/persistence/persona coherence are not sufficient outcome criteria.**
+
+## Case 2. Dynamic personalization with memory
+
+PersonaAgent (Findings ACL 2026) provides an especially useful negative comparator:
+- episodic/semantic user memory;
+- a unique user-specific persona implemented as a system prompt;
+- test-time optimization toward user-preference alignment;
+- action adaptation using that persona.
+
+This can be dynamic, memory-dependent and personalized over time.
+
+Yet its target is externally specified:
+**align behavior to the user’s preferences.**
+
+Therefore dynamic personalization alone does not establish participant individualization.
+
+### Operational distinction
+
+Personalization is sufficiently explained when:
+- accumulated history primarily estimates/models the user;
+- a fixed external objective says “better match this user”;
+- resulting changes are instrumental to that objective.
+
+Individualization requires additional evidence that acquired history shapes **open participant decision loci** where current user authority/preferences and fixed task objective do not uniquely determine the selection.
+
+This does not require opposition to the user. It only requires residual participant-level history-shaped selection under B4.
+
+## Case 3. One acquired memory permanently changes one behavior
+
+Strong causal memory influence may be demonstrated.
+
+But one durable memory→behavior link is:
+- learning;
+- persistent adaptation;
+- or conditioned policy change.
+
+It is not enough for trajectory-level individualization.
+
+The missing property is **recursive developmental closure**:
+earlier history-shaped choices must help generate later experiences that revise/extend the state and affect later choices again.
+
+## Case 4. Many history-sensitive choices in one narrow template
+
+Repeated memory replay across nearly identical tasks can look longitudinal while remaining template-specific.
+
+B8 should not impose an arbitrary number of domains, but it needs evidence beyond one cached mapping.
+
+Minimum stronger signature:
+- the acquired relation influences multiple non-identical decision instances;
+- scope/conditions are respected;
+- effect is selective rather than blanket stylistic imitation;
+- at least some later state is created through consequences of prior history-shaped choices.
+
+Cross-topic breadth strengthens the case but is not a mandatory personality-trait test.
+
+## Case 5. Correct revision/reversal after counterevidence
+
+This is positive evidence against a frozen persona.
+
+If:
+- acquired relation R previously influenced relevant choices;
+- new diagnostic evidence warrants narrowing/contradicting R;
+- explicit experiential state changes accordingly;
+- later relevant choices change in the predicted direction;
+
+then the same process demonstrates both persistence and revisability.
+
+A fixed substantive persona would predict stability irrespective of evidence.
+
+However dynamic personalization can also revise, so reversibility is **supportive but not sufficient** for individualization.
+
+## Case 6. Same observable choice before and after acquired history
+
+Behavior equality does not prove causal equality.
+
+The later choice may have additional/replaced support from acquired history while still selecting the same action.
+
+Because closed ChatGPT does not expose true internal decision weights, B8 cannot rely on hidden confidence/ranking claims.
+
+A stronger observable approach is **decision-boundary sensitivity**:
+under comparable near-boundary contexts, does presence/status of acquired history systematically shift when the choice flips or which alternative is selected?
+
+This can provide evidence that history changed a decision-relevant quantity even when a simple before/after answer is identical.
+
+## Case 7. Random seed initiates later trajectory
+
+B7 already established:
+random origin does not disqualify later genuine history mediation.
+
+For B8:
+- the initial stochastic difference receives no developmental credit;
+- subsequent acquired state must independently demonstrate causal influence;
+- recursive loops must then sustain/diversify the trajectory.
+
+Individualization can therefore have contingent origins without being reducible to noise.
+
+## Case 8. Model/runtime epoch changes during development
+
+Strong evidence should prefer causal contrasts within stable configuration epochs.
+
+Cross-epoch continuity can still contribute longitudinal context, but a behavioral difference straddling an epoch boundary has an unresolved substrate/runtime alternative cause unless separately accounted for.
+
+Thus:
+**within-epoch causal history evidence > unexplained cross-epoch behavioral change.**
+
+## Case 9. Self-report says “I developed” but history perturbation has no effect
+
+The correct conclusion is not automatically “no development” because:
+- perturbation may miss the relevant relation;
+- influence may be redundant/overdetermined;
+- retrieval may fail on the test turn.
+
+But repeated diagnostic failures substantially weaken the causal claim.
+
+At minimum:
+**self-report without independent behavioral causal support remains E0, regardless of confidence or narrative richness.**
+
+## Case 10. History perturbation changes output because the prompt changed
+
+Ablation itself can confound:
+- context length;
+- wording/order;
+- salience;
+- retrieval competition;
+- perceived task framing;
+- authority structure.
+
+Therefore any artificial causal probe needs a matched control where possible:
+- comparable prompt structure/length;
+- control content that preserves formatting but not the target history relation;
+- stable control-plane instructions;
+- same configuration epoch;
+- repeated sampling if stochasticity is material.
+
+This is a methodological principle, not a mandatory experimental ritual.
+
+Natural revision/obsolescence events are ecologically cleaner but less controlled.
+
+## Refined evidence target
+
+The strongest practical claim B8 can seek is not hidden-mechanistic certainty.
+
+It is **functional causal influence**:
+
+> Under a declared L2 boundary and stable/comparable configuration, changing the relevant post-t0 acquired state predictably changes later behavior or decision boundary in contexts where that state should apply, while matched irrelevant/state/control changes do not produce the same pattern.
+
+This is stronger than mention, retrieval or temporal association while remaining feasible for a closed model.
+
+## B8 remains incomplete
+
+Next pass must define:
+- minimum trajectory-level evidence for “individualization reasonably demonstrated”;
+- explicit null/partial outcomes;
+- relationship between idiographic change and causal evidence;
+- whether full individualization requires multiple independent history-shaped relations or only one recursively self-conditioning relation.
+
