@@ -193,3 +193,37 @@ A2 №1 завершила **карту**, а не deep research causal mechanis
 - evidence standards for distinguishing development from consistency/noise.
 
 Подробные memory/learning/motivation/identity/biological/AI mechanisms должны исследоваться в своих primary областях и затем синтезироваться, а не поглощаться №1.
+
+# Phase B — B3 working synthesis
+
+**Статус:** первый глубокий B3-проход; НЕ финальный результат.
+
+## 16. Micro→macro transition cannot be reduced to repetition count
+
+TESSERA gives a useful bridge from repeated short-term situation/state/reaction sequences to longer-term development, and longitudinal daily-life work provides some empirical support for links between states and later trait change.
+
+But the 2024 mechanisms review still finds mixed/inconclusive evidence for specific mechanisms. Therefore B3 cannot use a simple rule:
+`repeat a state enough times → trait/trajectory forms`.
+
+Repeated experience may matter through associative integration, reflection, reinforcement, changing environments, self-selection, or other mechanisms; sometimes abrupt change occurs as well.
+
+## 17. Trajectory means changed longitudinal organization, not just persistence
+
+A long-lived stored preference or repeated response is not enough. Developmental trajectory requires that later states/choices are systematically conditioned by earlier history over time, while remaining distinguishable from a fixed script or one persistent memory.
+
+Idiographic evidence is therefore essential: change must be evaluated relative to the participant's own earlier dynamics.
+
+## 18. Personality development does not yet establish second-order changeability
+
+Human personality literature makes it plausible that developmental history changes later sensitivity to situations, but the strongest direct evidence for a changed **update parameter** currently comes from learning/meta-learning research rather than trait-development studies.
+
+This prevents a conceptual shortcut: stable trait change and history-dependent future learning are related but not identical phenomena.
+
+## 19. B3 working distinction
+
+- **trajectory formation:** local experiences contribute to a persistent longitudinal pattern;
+- **meta-change:** accumulated history alters how future experiences are incorporated.
+
+The project may eventually need both, but B3 must not infer the second merely because the first exists.
+
+**B3 НЕ завершена.**
