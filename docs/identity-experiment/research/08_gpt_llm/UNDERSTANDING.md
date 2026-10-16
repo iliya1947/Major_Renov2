@@ -314,3 +314,44 @@ For proprietary frontier LLMs мы часто можем:
 - limits of black-box mechanistic inference.
 
 Persistent agent memory/control belongs №9, general adaptation algorithms №10, actual ChatGPT persistence/version/runtime №11, instruction design №12.
+
+## 34. B7 causal novelty is not behavioral novelty
+
+The central B7 model-side correction is:
+
+**new behavior to the observer ≠ newly acquired behavior.**
+
+A pre-existing parametric capability may be elicited later.
+A current prompt can transiently steer the model.
+A persistent Project state can change later behavior without changing weights.
+A provider update can change weights without participant learning.
+
+Therefore the relevant developmental quantity is **new causal dependence on post-start acquired history**.
+
+## 35. Baseline is distributional
+
+Because repeated generations and small context changes can produce different outputs, the baseline cannot be one canonical response.
+
+It is a range/distribution of behavior under a documented configuration, with residual uncertainty for hidden runtime state.
+
+## 36. Chance can seed but does not define development
+
+An early stochastic output is not an acquired trait.
+
+If it changes the user/environment, becomes part of persistent experience and later influences choices, the resulting path can become genuinely history-dependent.
+
+Thus:
+random origin ≠ random maintenance.
+
+## 37. Same output may have changed causal basis
+
+The participant may produce X before and after experience while the causal support shifts from model prior to acquired history.
+
+Behavior-only comparison can therefore miss development.
+
+Conversely behavior change can occur without development because prompts/runtime/model changed.
+
+B8 must test causal influence rather than appearance alone.
+
+**B7 завершена по saturation.**
+
