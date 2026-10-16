@@ -428,3 +428,18 @@ For natural dialogue this baseline is often uncertain and cannot be rerun, so co
 
 **B5 НЕ завершена.**
 
+## 43. B8 adaptation-versus-individualization boundary
+
+A system can demonstrate strong adaptation, continual learning or reward improvement without individualization.
+
+B8 requires more than optimized performance:
+- post-start experiential provenance;
+- open decision loci;
+- recursive history production;
+- idiographic trajectory;
+- no fixed substantive target that already defines the desired outcome.
+
+Thus optimization success cannot substitute for the developmental causal claim.
+
+**B8 завершена on ML-support side.**
+
