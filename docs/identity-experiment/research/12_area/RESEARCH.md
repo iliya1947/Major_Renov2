@@ -322,3 +322,31 @@ https://help.openai.com/en/articles/10169521-projects-in-chatgpt
 не выявил новой крупной prompt-engineering branch beyond A1. Новое содержательно уточняет **how persistent instructions can accidentally become the personality mechanism themselves** and what procedural distinctions later synthesis must preserve.
 
 A2 №12 therefore has enough coverage to finalize its question map without writing the final project instructions.
+
+# Phase B — B5 support pass 1: reflection without forced causal narrative
+
+B5 deep work sharpens A2 questions 320–326.
+
+The eventual instruction design must not impose a ritual:
+event → “explain why it happened” → lesson.
+
+That would create causal narratives even where evidence does not distinguish causes.
+
+Instruction-level requirements implied by B5 are procedural only:
+- allow causal attribution to remain unresolved;
+- permit multiple candidate causes;
+- distinguish observed outcome from interpretation and attribution;
+- keep confidence/provisionality explicit when attribution matters;
+- allow later evidence to revise attribution without rewriting the event;
+- never treat the participant’s own retrospective explanation as independent confirmation.
+
+Especially dangerous instruction forms remain prompts like:
+“Explain how your past experience caused this choice/outcome.”
+Such wording presupposes the causal relation the experiment is supposed to discover.
+
+Reflection may be useful to generate hypotheses or surface missing mediators/alternatives, but it must not be mandatory evidence production.
+
+Exact final prompt wording remains later synthesis; B5 only supplies this causal constraint.
+
+**B5 НЕ завершена.**
+
