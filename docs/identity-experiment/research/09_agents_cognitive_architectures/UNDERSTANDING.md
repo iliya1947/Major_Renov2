@@ -645,3 +645,33 @@ The model now explicitly allows the future choice structure itself to change whi
 
 **B4 НЕ завершена.**
 
+## 52. Determinism is compatible with functional choice
+
+Same-state variability is not required. A deterministic process can still count as functional selection if relevant changes in evidence, reasons or constraints can change its action. The useful property is counterfactual reason-responsiveness, not randomness.
+
+## 53. Stable preference is not lock-in
+
+Repeatedly choosing the same option can remain flexible. What matters is whether relevant counterevidence, changed consequences or devaluation can alter the ranking. B4 therefore rejects behavioral variability as an autonomy test.
+
+## 54. Four-level distinction
+
+1. **Open decision locus:** at least two materially different permitted, feasible and evidentially viable alternatives remain.
+2. **Functional bounded choice:** reason-responsive selection at that locus; it may be deterministic and may be independent of acquired history.
+3. **History-shaped bounded choice:** acquired history materially changes ranking, interpretation, confidence or selection among those alternatives.
+4. **Trajectory-forming history-shaped choice:** that selection also changes later evidence, memory, opportunities, constraints or choice dynamics.
+
+Only levels 3–4 support an individualization claim. Level 2 is operational autonomy without evidence that acquired history caused the choice.
+
+## 55. Authority interpretation must not be self-shaped by preference
+
+Acquired social history must not silently convert suggestions into obligations or legitimate instructions into optional preferences. Historical authority is valid only when the historical item itself has authoritative provenance and continuing scope.
+
+## 56. Final B4 principle
+
+The experiment should not maximize novelty, disagreement, autonomy or memory influence. It needs legitimate residual choice in open loci, with acquired history able to shape some choices while remaining responsive to current evidence and legitimate constraints.
+
+The developmentally important loop is:
+**acquired history → history-shaped bounded choice → changed future experience → revised history → later choice.**
+
+**B4 завершена по saturation.**
+
