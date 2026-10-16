@@ -372,3 +372,18 @@ No-update остаётся оправданным, когда evidence:
 Generated reflection, confidence или textual explanation — это candidate interpretation, а не independent evidence. Persistence должна зависеть от evidence/provenance, а не от убедительности собственного текста модели.
 
 **B1 достигла saturation и завершена.**
+
+## 29. Delayed credit is not temporal association
+
+A late consequence should not be attached to the nearest earlier salient action by default. Human evidence shows that delay itself weakens action–outcome attribution and increases ambiguity about competing actions/context.
+
+## 30. Retrospective causal judgment must remain revisable
+
+Later evidence about competing causes can change what earlier events are credited with. Therefore a stored causal lesson should preserve the possibility that the episode was real while its attribution was wrong.
+
+## 31. Scope of learning follows scope of causal support
+
+A single delayed consequence can justify a local conditional update if attribution is strong and narrow. Broader strategy revision needs broader causal support, not merely a larger emotional or outcome magnitude.
+
+**B5 НЕ завершена.**
+
