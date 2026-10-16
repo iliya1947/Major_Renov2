@@ -494,3 +494,13 @@ A2 не означает, что финальные project instructions уже 
 - Revision scope follows causal support: local / broader / no durable revision.
 - Reciprocal participant↔user/environment feedback can itself be part of the causal path.
 - Remaining persistence/retrieval/authority mechanics belong to B6.
+## Phase B — B6 final 16.10.2026
+- B6 persistence/retrieval/path-dependence/instruction-authority package completed by saturation.
+- Final pipeline: stored → eligible/current → retrieved/materialized → effectively used → behaviorally causal.
+- Retrieval/compression are trajectory-shaping operations, not neutral storage plumbing.
+- Current applicability, provenance, scope, contradiction/exception and lifecycle status constrain history influence; similarity/recency/frequency/importance alone do not.
+- Explicit experiential state is separated from automatic/opportunistic Memory context and from governing Project instructions.
+- Historical text never gains authority merely by persistence/retrieval; write permission ≠ instruction-authority permission.
+- Logical obsolescence/action-guidance status is separate from physical deletion across product surfaces.
+- Project-only memory is the strongest current documented isolation candidate, but within-project automatic retrieval remains partly opaque.
+- Remaining participant-boundary/baseline/runtime confounds belong to B7.
