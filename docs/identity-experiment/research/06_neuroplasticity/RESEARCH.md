@@ -256,3 +256,40 @@ Direct `synapse → weight`, `engram → file` or `metaplasticity → learning-r
 - human measurement validity and rapid structural-change confounds
 
 не выявил новой крупной biological-plasticity branch beyond A1. Новые результаты уточнили **relations among change, stability, history, representation and evidence**. Этого достаточно для финализации карты №6 без превращения neuroscience в blueprint для artificial adaptation.
+
+# Phase B — B3 support: metaplasticity as source-domain second-order change
+
+**Статус:** source-domain support for B3 gap 21; not an artificial implementation.
+
+### Abraham & Bear (1996) — Metaplasticity: the plasticity of synaptic plasticity
+https://pubmed.ncbi.nlm.nih.gov/8658594/
+
+**Фактически просмотрено:** abstract and indexed review summary.
+
+Metaplasticity is induced by prior synaptic/cellular activity but may not itself appear as an immediate change in synaptic efficacy. Instead it alters the ability of later activity to induce LTP/LTD.
+
+**B3-результат:** this is a clean biological example of second-order change: history modifies the rule/capacity for later change rather than only the current stored state.
+
+### Lee & Kirkwood (2019) — Mechanisms of Homeostatic Synaptic Plasticity in vivo
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6901705/
+
+**Фактически просмотрено:** open review summary/sections indexed by search.
+
+The BCM-style sliding modification threshold is controlled by integrated past neuronal activity: high prior activity shifts later LTP/LTD susceptibility in one direction; low prior activity shifts it in the other.
+
+### Li et al. (2019) — Homeostatic synaptic plasticity as a metaplasticity mechanism
+https://pubmed.ncbi.nlm.nih.gov/30212714/
+
+**Фактически просмотрено:** abstract and accessible review sections.
+
+Hebbian and homeostatic mechanisms interact; homeostatic state can alter later Hebbian plasticity thresholds.
+
+## Transfer discipline for B3
+
+The only substrate-neutral claim carried forward is:
+
+**a slower variable can summarize prior activity and modify the response function applied to future inputs.**
+
+Do NOT transfer NMDA receptors, LTP/LTD, BCM equations or homeostatic goals directly to LLM architecture. Biology demonstrates existence of history-dependent future responsiveness, not the correct mechanism for this project.
+
+**B3 НЕ завершена.**
