@@ -467,3 +467,24 @@ For the future experiment, memory selection should be constrained by procedural 
 
 **B6 НЕ завершена.**
 
+# Phase B — B7 support pass 1: learner drift vs environment drift
+
+Area 10 contributes one strict B7 boundary inherited from continual/adaptive ML:
+
+performance/behavior change can be caused by:
+- learner/model change;
+- data/environment change;
+- objective/configuration change;
+- interaction between them.
+
+For this project, “the participant changed” must not be inferred from changed outputs before these alternatives are considered.
+
+A provider model update is learner/substrate drift from outside the participant’s experiential process.
+Changing user/tool/environment is data/environment drift.
+Changing Project instructions is objective/control drift.
+Acquired experiential revision is the target history-mediated participant-state change.
+
+This decomposition supports B7 without importing an optimization objective.
+
+**B7 завершена on ML-support side.**
+
