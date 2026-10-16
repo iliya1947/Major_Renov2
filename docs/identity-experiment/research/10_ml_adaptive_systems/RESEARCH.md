@@ -446,3 +446,24 @@ Counterfactual-Shapley work additionally shows that causal credit is baseline-re
 
 **B5 НЕ завершена.**
 
+# Phase B — B6 support pass 1: memory policy is itself an adaptation objective
+
+Modern agent-memory systems can learn or optimize policies for store/retrieve/update/summarize/discard.
+
+This establishes feasibility, but it creates an objective problem for our experiment.
+
+If a memory manager is optimized for:
+- benchmark task reward;
+- prediction accuracy;
+- user preference fit;
+- stylistic consistency;
+- future utility;
+
+then that objective shapes which experiences survive and therefore shapes the future trajectory.
+
+B6 must not import such an objective as if it were neutral.
+
+For the future experiment, memory selection should be constrained by procedural evidence/lifecycle relations from B1–B5 rather than a scalar “important/useful to personality” score.
+
+**B6 НЕ завершена.**
+
