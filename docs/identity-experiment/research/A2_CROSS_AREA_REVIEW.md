@@ -1,6 +1,6 @@
 # Финальная межобластная сверка после A2
 
-**Статус:** начата 16.10.2026. **Этапы 1–4 завершены; вся финальная сверка ещё НЕ завершена. Фаза B не начата.**
+**Статус:** **завершена 16.10.2026. Этапы 1–5 завершены.** Финальная карта содержит 23 cross-area gaps и недублирующий пакет входа в Phase B. **Фаза B ещё НЕ начата.**
 
 **Назначение:** проверить уже финализированные A2-карты всех 12 областей как одну систему вопросов перед deep research. Это не синтез финального механизма и не проектирование project instructions.
 
@@ -1532,3 +1532,339 @@ A1 terminology guardrails remain valid; A2 adds explicit distinctions around:
 No unresolved terminology conflict requires changing the 23-gap ownership map.
 
 **Следующий этап:** этап 5 — собрать **конкретный пакет входа в Phase B**: сгруппировать 23 gaps и supporting domain questions into a non-duplicative deep-research order, define what each Phase-B pass must establish, and set the exact first deep-research task. Phase B itself is not to be started during that packaging step.
+
+
+---
+
+# Этап 5 — пакет входа в Phase B
+
+## 1. Принцип упаковки
+
+Phase B **не должна идти по областям №1→№12**.
+
+Причина: после A2 основной объект исследования — не отдельная дисциплина, а причинные interfaces между ними. Если снова исследовать каждую область независимо, одни и те же вопросы про experience, feedback, retrieval, autonomy and evidence будут глубоко разобраны несколько раз под разными названиями.
+
+Поэтому Phase B строится как **последовательность tightly connected deep-research packages**, каждый из которых:
+
+1. содержит один вопрос или тесно связанную группу gaps;
+2. имеет один центральный causal problem;
+3. использует несколько областей только как independent evidence/mechanism sources;
+4. не начинает следующий package, пока текущий не достиг saturation по правилу `05_WORKFLOW.md`;
+5. может занять сколько угодно сообщений/chats;
+6. при обнаружении более фундаментального пробела останавливается и сначала разбирает его;
+7. не проектирует финальные Project instructions — это относится к последующему interdisciplinary synthesis.
+
+Order below is dependency order, not importance ranking.
+
+## 2. Общий стандарт каждого Phase-B package
+
+Каждый deep-research package должен установить:
+
+1. **что именно известно** в релевантных source domains;
+2. competing mechanisms/explanations;
+3. causal evidence and methodological limits;
+4. what transfers only as formal analogy vs what can plausibly inform an artificial mechanism;
+5. failure modes and boundary conditions;
+6. which parts are implementable in the actual ChatGPT/agent setting and which are not;
+7. which unresolved questions materially affect the next package;
+8. updated `RESEARCH.md` / `UNDERSTANDING.md` in the primary/support areas as needed;
+9. whether the package reached saturation: additional search no longer materially changes the mechanism map.
+
+Every cross-domain comparison must retain the Stage-4 dimensions:
+**level, system boundary, changed object, change source, timescale, persistence, selection/retrieval, authority, reversibility and evidence standard.**
+
+## 3. Phase-B package order
+
+### B1 — Significance without preset values + legitimate no-update
+**Primary gaps:** 6, 7.  
+**Primary areas:** №4 and №3.  
+**Required support:** №2, №5, №9, №10, №12.
+
+### Central question
+
+**Under what conditions can an event, consequence or interaction become a candidate for durable acquired change without a pre-authored value/interest/goal function — and under what conditions should no durable update occur?**
+
+This is first because every later mechanism for storage, abstraction, retrieval or revision presupposes some answer to:
+`why this event should matter enough to alter persistent experience at all?`
+
+### B1 must establish
+
+- mechanisms distinguishing salience, novelty, surprise, uncertainty, utility, relevance, interest, value and goal relevance;
+- evidence for when feedback/error/consequence actually produces durable learning rather than transient performance;
+- legitimate no-update cases;
+- hidden ways an engineering “importance score” would inject preset values;
+- whether significance can be relational to current history, unresolved questions, commitments or consequences without becoming a fixed authored preference function;
+- what is *not* transferable from human motivation/learning to an LLM/agent.
+
+### B1 must NOT do
+
+- choose a memory schema;
+- write project instructions;
+- invent a scalar significance/reward score;
+- require every event to generate a lesson.
+
+### Expected result
+
+A defensible **selection/update principle space**: what kinds of evidence could justify persistent revision, what only justifies temporary attention, and when preservation/no-update is appropriate.
+
+---
+
+### B2 — From event to reusable, revisable acquired experience
+**Primary gaps:** 5, 13, 15.  
+**Primary areas:** №9, №2.  
+**Required support:** №3, №7, №10, №12.
+
+### Central question
+
+**What exactly is the unit of acquired experience, and how can specific episodes become conditional reusable understanding that remains revisable without erasing provenance?**
+
+### B2 must establish
+
+- event/observation/action/consequence vs interpretation/attribution/lesson/intention;
+- episode segmentation and representation;
+- gist/schema/semanticization/generalization vs summarization;
+- trajectory storage vs reflection vs abstraction;
+- conditions/exceptions and overgeneralization;
+- lifecycle states: provisional, validated, contradicted, narrowed, stale, historical-only, reactivated;
+- revision vs overwrite vs coexistence of competing interpretations;
+- functional forgetting/obsolescence vs accidental loss.
+
+### Expected result
+
+A **conceptual lifecycle of acquired experience** grounded in evidence, still independent of any final file architecture.
+
+---
+
+### B3 — Cross-timescale development + history-dependent future changeability
+**Primary gaps:** 4, 21.  
+**Primary areas:** №1, №7.  
+**Required support:** №3, №6, №9, №10.
+
+### Central question
+
+**How can repeated/local changes become a longer-term trajectory, and can history alter not only current content but the way future evidence changes the system?**
+
+### B3 must establish
+
+- state→trait/trajectory timescale transitions;
+- accumulation vs threshold vs nonlinear/hysteretic change;
+- psychological meta-learning;
+- biological metaplasticity only as source-domain mechanism;
+- substrate-neutral second-order adaptation concepts;
+- ML meta-learning/update-rule adaptation;
+- what continuity can mean when lower-level components turn over;
+- when “history changed future responsiveness” is evidenced rather than rhetorically inferred.
+
+### Expected result
+
+A cross-domain map of **first-order vs second-order change**, with explicit non-equivalence between human/neural/ML mechanisms.
+
+---
+
+### B4 — User influence, own choice and bounded autonomy inside the full loop
+**Primary gaps:** 10, 11, 20, 8.  
+**Primary areas:** №5, №9.  
+**Required support:** №1, №3, №4, №7, №8, №11, №12.
+
+### Central question
+
+**How can the participant make causally meaningful choices while being unavoidably shaped by user requests, social interaction, model constraints and product limits, and how do those choices alter the future stream of experience?**
+
+### B4 must establish
+
+- taxonomy of user influence by function, not sender;
+- compliance, internalization, reactance and self-endorsed choice;
+- top-level task vs inferred/self-generated subgoal;
+- delegated vs operational autonomy;
+- dimensions of choice: initiation, planning, tool/action selection, stopping, memory/revision;
+- constraint vs script;
+- full loop `history/state → choice → action → environment/user response → observed consequence → later experience`;
+- endogenous environment/data-stream change produced by earlier choices.
+
+### Expected result
+
+A defensible model of **bounded own choice in reciprocal interaction**, without defining autonomy as opposition, unpredictability or absence of influence.
+
+---
+
+### B5 — Delayed consequence and causal credit
+**Primary gap:** 9.  
+**Primary area:** №9.  
+**Required support:** №3, №7, №10, №12.
+
+### Central question
+
+**How can later outcomes be attributed to earlier choices when consequences are delayed, multi-causal and partly mediated by the user/environment?**
+
+### B5 must establish
+
+- psychological causal learning/credit evidence;
+- RL temporal credit mechanisms and their objective/reward assumptions;
+- provenance from decision/action to later outcome;
+- competing causes/counterfactual evidence;
+- uncertainty of attribution;
+- limits of hindsight/reflection;
+- when one outcome revises a local decision vs broader strategy vs nothing.
+
+### Expected result
+
+An evidence-grounded **causal attribution standard for consequences**, without converting retrospective LLM explanation into ground truth.
+
+---
+
+### B6 — Persistence, retrieval and trajectory selection without self-programming
+**Primary gaps:** 12, 14, 19, 22.  
+**Primary areas:** №11, №7, №9, №12.  
+**Required support:** №2, №4, №8, №10.
+
+### Central question
+
+**How can past experience remain available and behaviorally influential across time without retrieval/compression creating lock-in and without historical content silently becoming a governing instruction layer?**
+
+### B6 must establish
+
+- actual ChatGPT persistence/context surfaces;
+- `stored → eligible → retrieved/included → behaviorally influential`;
+- retrieval/replay/context-selection mechanisms;
+- retrieval-induced path dependence and hysteresis;
+- rarity/recency/similarity/priority selection biases;
+- compression and loss of conditions/exceptions;
+- explicit source/history vs opaque product Memory;
+- stable governing rules vs historical/data content;
+- prompt-injection/self-modifying-history risk;
+- deletion/obsolescence across product surfaces.
+
+### Expected result
+
+A feasibility-constrained **continuity and retrieval mechanism space** that preserves influence while limiting lock-in and instruction-authority leakage.
+
+---
+
+### B7 — Participant boundary, baseline state and exogenous confounds
+**Primary gaps:** 1, 2, 17, 18.  
+**Primary areas:** №7, №8, №11.  
+**Required support:** №1, №9, №10, №12.
+
+### Central question
+
+**What exactly counts as the participant, what is already present before the experiment, and which non-history causes can produce apparent longitudinal divergence?**
+
+### B7 must establish
+
+- nested candidate system boundaries;
+- model prior/post-training baseline;
+- elicitation vs acquisition;
+- current-context conditioning vs persistent state;
+- stochastic baseline variability;
+- history-mediated amplification of random branches;
+- provider model drift;
+- product/runtime/memory-mode drift;
+- instruction-version changes;
+- exact experiment-configuration provenance needed for interpretation.
+
+### Expected result
+
+A **causal baseline and confound model** for the future experiment, without prematurely fixing the final system boundary if evidence favors nested analysis.
+
+---
+
+### B8 — Evidence that history changed choice and that a trajectory counts as individualization
+**Primary gaps:** 16, 3, 23.  
+**Primary areas:** №9 and №1.  
+**Required support:** №3, №5, №7, №8, №10, №11, №12.
+
+### Central question
+
+**What evidence would justify the sequence of claims: (a) past acquired experience changed a later choice; (b) accumulated history caused longitudinal development; (c) the resulting pattern is reasonably described as individualization rather than another form of history-sensitive behavior?**
+
+### B8 must establish
+
+- evidence hierarchy from verbal mention/self-report to controlled causal influence;
+- idiographic longitudinal evidence;
+- alternative-cause controls;
+- distinction from persistence, persona, personalization, context effects, stochastic divergence and external scripting;
+- reversibility/revision as evidence against a frozen prompt persona;
+- minimum trajectory-level evidence compatible with multiple possible outcomes;
+- conditions under which the correct result is **“individualization not demonstrated”**.
+
+### Expected result
+
+A non-prescriptive **operational evidence standard for the experiment**, not a personality test and not a requirement that individuality must appear.
+
+## 4. Coverage of all 23 gaps
+
+Each final gap has exactly one primary Phase-B package:
+
+- B1 → gaps 6, 7
+- B2 → gaps 5, 13, 15
+- B3 → gaps 4, 21
+- B4 → gaps 8, 10, 11, 20
+- B5 → gap 9
+- B6 → gaps 12, 14, 19, 22
+- B7 → gaps 1, 2, 17, 18
+- B8 → gaps 3, 16, 23
+
+No gap is assigned to two primary packages.
+
+Cross-references remain allowed, but a support question must not turn into a second independent deep-dive unless the primary package explicitly exposes a missing foundation.
+
+## 5. Why this order
+
+The order follows causal dependency:
+
+`B1 what warrants change`
+→ `B2 what acquired experience is and how it remains revisable`
+→ `B3 how local history becomes longer-term/changes future changeability`
+→ `B4 how own choice and environment create new experience`
+→ `B5 how consequences are causally attributed`
+→ `B6 how accumulated history is carried forward and selected`
+→ `B7 how to separate the mechanism from model/product/stochastic confounds`
+→ `B8 what evidence warrants interpreting the resulting trajectory as individualization`.
+
+This is **not** a commitment that the final mechanism will have eight components. It is only an evidence-gathering order.
+
+## 6. Exact first Phase-B task
+
+When Phase B begins, start **only B1**.
+
+Exact first deep-research task:
+
+> **Deeply investigate the tightly linked gaps 6 and 7: under what conditions can an event, consequence or interaction justify durable acquired change without a pre-authored value/interest/goal function, and under what conditions should no durable update occur?**
+
+Primary source domains to begin with:
+- №4 motivation/emotion/interests;
+- №3 learning/behavior;
+
+then use №2, №5, №9, №10 and №12 only where needed to test transfer/boundaries.
+
+Do **not** begin B2 until B1 reaches saturation under the Phase-B rule in `05_WORKFLOW.md`.
+
+## 7. What B1 is expected to hand off to B2
+
+B1 should not invent the experience representation.
+
+It should hand B2 only:
+- candidate evidence classes that can justify considering durable update;
+- explicit distinctions among salience/relevance/value/interest/engineering priority;
+- no-update conditions and ambiguities;
+- warnings against preset reward/value functions;
+- unresolved mechanism questions that materially affect how an “experience unit” can later be defined.
+
+That handoff prevents B2 from designing a memory architecture around an unexamined significance rule.
+
+## 8. Final status of the post-A2 cross-area review
+
+**Final cross-area review after A2 is complete.**
+
+Completed:
+1. boundaries/duplicates;
+2. dependencies/ownership;
+3. remaining cross-area gaps;
+4. contradictions/terminology/false equivalences;
+5. Phase-B entry package.
+
+Final integrated map: **23 cross-area gaps**.
+
+**Phase B has NOT started in this stage-5 pass.**
+
+**Exact continuation point:** begin Phase B with **B1 — Significance without preset values + legitimate no-update**, and continue that same tightly linked problem until saturation before moving to B2.
