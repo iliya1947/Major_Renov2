@@ -425,3 +425,18 @@ B3 передаёт дальше distinction между:
 Как choices/user interaction формируют следующий поток опыта и какие части выбора являются собственными — это уже B4.
 
 **B3 достигла saturation и завершена.**
+
+## 40. B5 reciprocal-path support
+
+The B4 loop is causally reciprocal, so B5 cannot use a simple action→outcome arrow.
+
+An early participant choice can alter user/environment state, which becomes both:
+- part of the mediated consequence of that early choice;
+- an input shaping the participant’s later choices.
+
+Thus later outcomes can depend on a whole feedback path. Credit must be path-relative and time-indexed, while remaining uncertain about omitted causes/system boundary.
+
+This strengthens the need to preserve mediators instead of “controlling them away” conceptually.
+
+**B5 НЕ завершена.**
+
