@@ -350,3 +350,52 @@ Exact final prompt wording remains later synthesis; B5 only supplies this causal
 
 **B5 НЕ завершена.**
 
+# Phase B — B6 support pass 1: authority firewall and non-self-programming history
+
+B6 converts A2 data-vs-instruction concerns into a stronger causal requirement.
+
+## Authority firewall
+
+Future project instructions are the stable governing/control layer.
+Evolving history/sources are evidence/data.
+
+Historical content may contain:
+- old user commands;
+- quoted instructions;
+- former intentions;
+- preferences;
+- strategy-like sentences;
+- imperative wording produced by the participant itself.
+
+Persistence or repeated retrieval must not promote these into governing authority.
+
+Current public OpenAI Model Spec likewise treats file/quoted/tool content as untrusted data with no authority by default unless higher-level instructions delegate it.
+
+## Self-programming failure mode
+
+If the participant can write into history:
+“Always choose X from now on”
+and later retrieval treats that sentence as an instruction, then a historical interpretation has silently modified the control policy.
+
+That would confound:
+- acquired preference;
+- governing rule change;
+- prompt injection/memory poisoning.
+
+Therefore any history-derived action guidance must remain:
+- conditional;
+- evidential;
+- revisable;
+- subordinate to stable Project instructions and current legitimate user authority.
+
+## Memory-poisoning relevance
+
+2026 memory-poisoning studies show that external/untrusted content can be written into long-term memory, retrieved later and steer future agent behavior.
+
+For this experiment the lesson is broader than adversarial security:
+**write permission must not imply instruction-authority permission.**
+
+A participant may update experiential data without acquiring the ability to rewrite the governing experiment through command-like historical text.
+
+**B6 НЕ завершена.**
+
