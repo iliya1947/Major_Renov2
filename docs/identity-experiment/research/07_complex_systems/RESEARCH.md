@@ -457,3 +457,47 @@ Targeted deep work now covers every required B3 branch:
 - evidence criteria distinguishing content change from altered future responsiveness.
 
 Additional search is now returning variations inside these classes rather than a missing causal class. **B3 reaches saturation at principle-space level. B4 is not started here.**
+
+# Phase B — B5 support pass 1: reciprocal causal chains and path-relative attribution
+
+## Additional formal source-domain evidence
+
+Robins, Hernán & Brumback (2000), marginal structural models, and Hernán & Robins, *Causal Inference: What If*, were inspected for longitudinal treatment–confounder feedback.
+
+Their statistical problem is not our experiment, but the structural lesson transfers cautiously: a time-varying variable can be affected by an earlier action, then influence both later action and later outcome. Treating that variable as if it were an ordinary independent confounder can distort the causal path.
+
+## B5 consequence for reciprocal user interaction
+
+Natural dialogue can contain a chain such as:
+
+participant choice A0
+→ user response U1
+→ participant choice A1
+→ later user/environment state U2
+→ outcome O.
+
+U1 is not automatically “external noise”. If A0 changed U1, then U1 may mediate part of A0’s effect on O. At the same time U1 can influence A1 and O, which makes attribution to later A1 observationally entangled with the earlier path.
+
+Therefore B5 needs **time-indexed path provenance**, not a flat list of antecedents.
+
+The project-level causal record should preserve the possibility that:
+- a participant action changed the user;
+- the changed user response altered the participant’s next information/choice set;
+- later outcome was jointly produced by this feedback chain.
+
+This is exactly the endogenous-history property wanted by B4, but it creates a harder attribution problem: the participant partly generated the conditions under which its later decision was made.
+
+## Path dependence is not unique-cause proof
+
+Area 07 already established that history dependence and feedback can arise from several mechanisms and omitted state.
+
+For B5:
+- a trajectory depending on an earlier choice does not imply that choice alone caused the endpoint;
+- mediation through later states should remain visible;
+- omitted/background variables can still explain apparent causal contribution;
+- system boundary changes which contributions appear “internal” versus “external”.
+
+The exact participant-boundary/confound treatment belongs to B7. B5 only requires attribution to preserve this ambiguity instead of collapsing it.
+
+**B5 НЕ завершена.**
+
