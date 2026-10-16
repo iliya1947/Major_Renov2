@@ -277,4 +277,4 @@ Narrative identity и interpersonal approaches образуют самостоя
 
 ## Phase B status
 
-**B3 gaps 4+21 начата 16.10.2026, НЕ завершена.** Первый deep pass: micro/state→longer-term trajectory, TESSERA + empirical daily-life evidence, no universal repetition→trait law. Working distinction: trajectory formation ≠ history-dependent change of future responsiveness. Следующий шаг: continuity under component turnover/nonlinear transitions and artificial persistent-state case.
+**B3 gaps 4+21 завершена 16.10.2026 по saturation.** Первый deep pass: micro/state→longer-term trajectory, TESSERA + empirical daily-life evidence, no universal repetition→trait law. Working distinction: trajectory formation ≠ history-dependent change of future responsiveness. Следующий шаг: continuity under component turnover/nonlinear transitions and artificial persistent-state case.
