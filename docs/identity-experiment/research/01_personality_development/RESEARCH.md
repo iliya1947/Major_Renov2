@@ -450,3 +450,66 @@ B3 therefore keeps several **candidate longitudinal forms** without promoting an
 Observed nonlinearity is a trajectory description. A threshold or hysteresis claim needs evidence about the generating dynamics, not only a curved or abrupt time series.
 
 **Personality-development contribution to B3 is saturated at principle-space level.**
+
+# Phase B — B8 support pass 1: idiographic longitudinal evidence
+
+## Sources inspected
+
+1. Beck & Jackson (2022), “Detecting Idiographic Personality Change”, open PMC / JPSP.
+2. “Consistency and change in idiographic personality: A longitudinal ESM network study” (JPSP, 2020; PMID 31120288).
+3. DSEM/N=1 tutorial literature, including PMC10321503.
+4. Rohrer & Murayama (2023), causal interpretation of within-person longitudinal data.
+5. Tanious et al. (2024), single-case experimental design methodology.
+6. 2026 review literature on volitional personality development/interventions, used only for methodological boundaries, not as a target model.
+
+## B8 support result
+
+### 1. Individual change must be assessed against the individual’s own earlier organization
+
+Group-average trait movement is not the relevant standard for this experiment.
+
+Idiographic personality work demonstrates that:
+- within-person structures can differ from group structure;
+- individual change points can occur at different times;
+- mean-level self-report alone can miss changes in dynamic organization.
+
+Transfer to our project:
+**the participant’s trajectory must be evaluated relative to its own baseline/history, not against a predefined “mature personality” template.**
+
+### 2. Longitudinal association is not causal proof
+
+Within-person temporal relations reduce some between-person confounding but do not eliminate:
+- time-varying confounders;
+- common causes;
+- intervention/configuration changes.
+
+Therefore idiographic evidence is necessary for individual-specific trajectory claims but insufficient for history causality.
+
+This exactly motivates combining:
+- idiographic longitudinal pattern;
+with
+- B7 confound provenance;
+and, when available,
+- intervention/perturbation evidence on acquired state.
+
+### 3. Intervention evidence is methodologically stronger than pre/post description
+
+Single-case experimental methodology shows why repeated measurement plus systematic manipulation can establish stronger individual-level functional relations than simple AB observation.
+
+B8 borrows only the evidence logic:
+**a predictable change tied to manipulation/revision of the candidate cause is stronger than coincident temporal change.**
+
+The future project remains one naturalistic experiment and need not implement a clinical ABAB design.
+
+### 4. Personality intervention literature is a negative boundary too
+
+Human personality can change under explicit interventions aimed at desired directions.
+
+That proves neither spontaneous development nor individualization.
+
+For our project, externally targeted personality change would be a confound/scripting outcome if the Project instructions specify the desired trait direction.
+
+Therefore B8 evaluates the **causal provenance of change**, not merely whether a stable behavioral trait shifted.
+
+**B8 НЕ завершена.**
+
