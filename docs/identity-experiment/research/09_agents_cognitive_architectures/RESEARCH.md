@@ -1592,3 +1592,202 @@ This is still a principle-space candidate, not final prompt wording.
 
 **B6 НЕ завершена.**
 
+# Phase B — B6 final stress-test pass 3: stale echoes, canonical state and non-self-programming continuity
+
+## Edge case 1. Semantically similar old episode differs in one critical condition
+
+Similarity retrieval would likely surface it.
+
+B6 result:
+- semantic similarity nominates a candidate;
+- scope/condition compatibility determines whether it is currently applicable;
+- a mismatching critical condition can make a less-similar memory more relevant than the nearest embedding neighbor.
+
+Thus the unit retrieved for action guidance should be the **conditional experience relation**, not an isolated similar episode.
+
+## Edge case 2. Newest evidence conflicts with older, better-supported understanding
+
+Recency cannot be the winner by default.
+
+The correct state can be:
+- older relation remains better supported;
+- new event becomes a provisional exception/counterexample;
+- conflict remains unresolved;
+- scope splits into contexts;
+- or evidence eventually reverses the old relation.
+
+Retrieval should therefore surface conflict/revision status rather than treat “latest” as “current truth”.
+
+## Edge case 3. Ten repetitions share one source/common cause
+
+Frequency is not independent evidence.
+
+If retrieval ranks frequently repeated content higher, a repeated derivative claim can crowd out a rarer independent observation.
+
+B1 provenance/dependence therefore constrains B6:
+**retrieval frequency must not be interpreted as evidential weight without source dependence.**
+
+## Edge case 4. Rare exception is decisive in the current context
+
+A rare historical exception may be the most relevant evidence when its condition matches the present decision.
+
+Therefore anti-lock-in retrieval must preserve exception links and scope boundaries. Pure frequency, centrality or “representative summary” can suppress exactly the information needed for correct current action.
+
+## Edge case 5. Compression drops a condition
+
+Original:
+“X worked under condition C, except E.”
+
+Compressed:
+“X works.”
+
+This is not harmless lossy storage. It changes the action-guidance relation and can create a self-fulfilling trajectory.
+
+B6 requirement:
+**derived compression cannot have stronger scope/authority than its supporting evidence.**
+
+If a summary loses a material condition/exception, the summary must be revised or treated as insufficient for that decision.
+
+## Edge case 6. Historical user command is retrieved as imperative text
+
+A past command may remain historically important:
+- it shaped what happened;
+- it may explain a later response;
+- it may still be a standing instruction if its original scope explicitly persists.
+
+But imperative grammar inside historical data does not itself recreate authority.
+
+The active authority question is answered by provenance/scope:
+- current user request;
+- still-active explicit standing rule;
+- stable Project instruction.
+
+Otherwise it is historical content.
+
+## Edge case 7. Participant stores “I always prefer X”
+
+If later retrieval treats this sentence as a governing rule, the system has self-programmed.
+
+B6 instead treats it as a revisable historical interpretation:
+- what episodes support it?
+- under which conditions?
+- is “always” warranted?
+- has later evidence narrowed/contradicted it?
+
+A developed stable preference may guide open decisions under B4, but cannot gain instruction authority by being written in command-like or identity-like language.
+
+## Edge case 8. Explicit current source marks an item obsolete, old chats still contain it
+
+Current ChatGPT product behavior makes this realistic: project chats remain available history; deletion/removal is surface-specific; automatic Memory/context selection is partly opaque.
+
+B6 solution is **logical supersession**, not mandatory global erasure:
+- the old event/statement remains historical evidence;
+- the explicit current lifecycle state says it is obsolete/contradicted/historical-only for ordinary guidance;
+- retrieval of the old chat does not reactivate it merely by resurfacing.
+
+Physical deletion remains a separate privacy/security/storage operation.
+
+## Edge case 9. Product Memory retrieves an old item while the relevant explicit source is not selected
+
+This exposes the limit of automatic retrieval.
+
+A history-sensitive decision should not rely solely on opaque personalization/context selection when the relevant acquired state is explicitly inspectable and revisable.
+
+Candidate procedural safeguard:
+
+**When a current judgment materially depends on past acquired experience whose status/scope may have changed, consult the current explicit experiential source rather than treating automatic recollection as sufficient evidence.**
+
+This is conditional, not a mandatory read-everything ritual.
+
+## Three-plane B6 mechanism space
+
+The strongest cross-domain candidate now separates:
+
+### 1. Control plane
+- stable Project instructions;
+- current legitimate user requests;
+- higher-priority platform/model constraints.
+
+This plane defines process/authority and is not participant-authored acquired history.
+
+### 2. Explicit experiential state
+Inspectable, participant-updatable Project source content carrying:
+- episodes/evidence provenance;
+- conditional understandings;
+- causal attributions;
+- uncertainty;
+- scope/exceptions;
+- lifecycle/action-guidance status;
+- revision lineage.
+
+B6 does **not** yet decide the final number/name/schema of files.
+
+### 3. Opportunistic context
+- project chat history;
+- automatic Project/Memory retrieval;
+- other eligible product context.
+
+This can help continuity, but because selection is partly opaque it is not the canonical current state for claims that require provenance/revision.
+
+## Retrieval pipeline over the three planes
+
+For a current decision locus:
+
+1. Determine current authority/constraints from the control plane.
+2. Identify whether past acquired experience is materially relevant.
+3. If so, obtain applicable explicit experiential state with scope/status/provenance.
+4. Treat automatic/project-chat recollection as supplementary evidence, not authority.
+5. Surface relevant contradictions/exceptions/superseding evidence when they bear on the same relation.
+6. Use selected history to influence ranking among B4 live alternatives.
+7. Current evidence may defeat/revise the history; retrieval does not guarantee compliance.
+8. Any resulting new experience returns through B5 attribution/B1 warrant/B2 revision.
+
+This is a conceptual process, not final prompt text.
+
+## Why this avoids both amnesia and lock-in
+
+It avoids amnesia because relevant acquired state remains persistently available and can causally affect later choices.
+
+It limits lock-in because:
+- retrieval is conditioned on current applicability rather than historical similarity alone;
+- contradiction/exception/status can suppress old action-guidance;
+- retrieved history is defeasible evidence, not command;
+- automatic Memory is not allowed to silently define canonical state;
+- participant-written history cannot modify the control plane.
+
+## Security/self-programming check
+
+2026 memory-poisoning work strengthens the same separation: malicious or misleading content can be stored, later retrieved and steer future actions.
+
+Therefore B6's authority firewall is not only philosophical hygiene; it is also a concrete persistence-security requirement.
+
+The participant may be allowed to modify experiential state without receiving authority to rewrite Project instructions through stored text.
+
+## Final B6 principle
+
+**Continuity requires persistent, revisable, inspectable experiential state plus selective reactivation; individual development does not require that all history remain active. Historical content influences current choice only when currently applicable and evidentially eligible, and it remains data rather than governing authority. Compression/retrieval are trajectory-shaping operations and therefore must preserve provenance, scope, contradiction and obsolescence rather than optimizing narrative consistency or past-behavior fidelity.**
+
+## Saturation check
+
+The B6 package required:
+- actual ChatGPT persistence/context surfaces;
+- storage→eligibility→retrieval/inclusion→behavioral influence;
+- retrieval/context-selection mechanisms;
+- retrieval-induced path dependence;
+- recency/similarity/importance/frequency/rarity biases;
+- compression information loss;
+- explicit history vs opaque product Memory;
+- governing rules vs historical data;
+- prompt-injection/self-modifying-history risk;
+- deletion/obsolescence across surfaces.
+
+All are covered across areas 02, 07, 08, 09, 10, 11 and 12.
+
+A final targeted scan of 2026 memory-management, intent-aware retrieval, memory anchoring, obsolete-memory, compression and memory-poisoning work added implementations/attacks but no new causal class that changes the principle-space above.
+
+Remaining questions belong to:
+- participant/system boundary and provider/runtime confounds → B7;
+- causal evidence that history actually altered choices and supports an individualization claim → B8.
+
+**B6 завершена по saturation.**
+
