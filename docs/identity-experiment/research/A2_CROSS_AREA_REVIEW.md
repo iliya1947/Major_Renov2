@@ -1,6 +1,6 @@
 # Финальная межобластная сверка после A2
 
-**Статус:** начата 16.10.2026. **Этап 1 завершён; вся финальная сверка ещё НЕ завершена. Фаза B не начата.**
+**Статус:** начата 16.10.2026. **Этапы 1–2 завершены; вся финальная сверка ещё НЕ завершена. Фаза B не начата.**
 
 **Назначение:** проверить уже финализированные A2-карты всех 12 областей как одну систему вопросов перед deep research. Это не синтез финального механизма и не проектирование project instructions.
 
@@ -279,3 +279,447 @@ No area-level merge/split is needed. Five boundary corrections are nevertheless 
 **Этап 1 завершён. Финальная межобластная сверка НЕ завершена.**
 
 **Следующий этап:** проверить dependencies and ownership after A2: reconcile all 20 original cross-area gaps against the final maps, detect orphan/duplicated ownership, and identify whether A2 created any new cross-area gap requiring a primary owner.
+
+
+---
+
+# Этап 2 — dependencies и ownership после A2
+
+## 1. Главный результат
+
+Все **20 исходных cross-area gaps** после полного A2 остались содержательно валидными.
+
+- Ни один gap не стал orphan.
+- Ни один gap не требует смены primary owner.
+- Ни для одного gap не появилось двух равноправных primary owners.
+- A2 добавила новые support-dependencies и уточнила формулировки нескольких gaps.
+- Обнаружены **2 действительно новых cross-area gaps**, которые не были явно сформулированы после A1 и требуют собственного primary ownership перед фазой B.
+
+Таким образом, исходная ownership-схема была устойчивой, но **не полностью исчерпывающей** после A2.
+
+## 2. Reconciliation всех 20 исходных gaps
+
+### Gap 1 — System boundary of participant → primary №7
+
+**Primary owner сохраняется: №7.**
+
+Support после A2:
+- №8 — bare model/current-context boundary;
+- №9 — agent components and action/memory loop;
+- №11 — actual Project/product/tools/runtime boundary;
+- №12 — scope of governing instructions;
+- №5 — user as social partner/environment where relevant.
+
+Уточнение A2: boundary может быть nested and time-varying; broader ChatGPT capabilities do not enter participant boundary automatically.
+
+### Gap 2 — Initial model state vs acquired history → primary №8
+
+**Primary owner сохраняется: №8.**
+
+Support:
+- №1 — development vs pre-existing stable disposition analogy/criteria;
+- №7 — current state vs history dependence;
+- №9 — persistent agent state;
+- №10 — artificial adaptation targets;
+- №11 — actual product persistence/model routing;
+- №12 — pre-authored instruction state.
+
+Уточнение A2: необходимо различать **pre-existing prior, elicitation, current-context conditioning, persistent external state and weight/model change**.
+
+### Gap 3 — Causal attribution of longitudinal change → primary №1
+
+**Primary owner сохраняется: №1.**
+
+Support:
+- №3 — durable learning vs performance;
+- №7 — hidden-state/boundary/path-dependence confounds;
+- №8 — prompt/context/stochastic/model-prior confounds;
+- №9 — action→consequence provenance;
+- №10 — environment drift vs learner drift;
+- №11 — model/product/runtime drift;
+- №12 — instruction-version interventions.
+
+Уточнение A2: causal attribution must now treat **experiment-stack changes** (model/product/runtime/instruction configuration) as explicit alternatives, not only psychological/environmental alternatives.
+
+### Gap 4 — Cross-timescale transition → primary №1
+
+**Primary owner сохраняется: №1.**
+
+Support:
+- №2 — episode→generalized representation;
+- №3 — temporary performance→durable learning and meta-learning;
+- №6 — biological multiscale plasticity;
+- №7 — multiscale substrate-neutral dynamics;
+- №8 — session/context vs persistent adaptation;
+- №9 — local episode→persistent agent experience;
+- №10 — adaptation timescales;
+- №11 — turn/chat/project persistence.
+
+Уточнение A2: this gap remains about **how transient/local effects become a longer-term trajectory**, while the newly identified second-order changeability problem is separated as new gap 21 below.
+
+### Gap 5 — Unit of acquired experience → primary №9
+
+**Primary owner сохраняется: №9.**
+
+Support:
+- №2 — event/episode representation;
+- №3 — learning input vs durable update;
+- №5 — social interaction as multi-function experience;
+- №12 — event/interpretation/attribution/intention separation.
+
+Уточнение A2: raw trajectory, observation, interpretation, attribution, lesson, changed expectation and intention cannot be collapsed into one “experience entry”.
+
+### Gap 6 — Significance without preset values → primary №4
+
+**Primary owner сохраняется: №4.**
+
+Support:
+- №2 — mnemonic priority without value equivalence;
+- №3 — update/no-update evidence;
+- №5 — social meaning/internalization;
+- №9 — write/retrieval priority;
+- №10 — data/replay-selection mechanisms;
+- №12 — hidden significance/value injection.
+
+Уточнение A2: `salience/relevance/novelty/utility/value/interest/goal relevance` remain separate; engineering priority must not be interpreted as personal significance.
+
+### Gap 7 — No-update criterion → primary №3
+
+**Primary owner сохраняется: №3.**
+
+Support:
+- №2 — memory/accessibility/forgetting;
+- №4 — not every salient event develops interest/value;
+- №9 — whether agent experience state should change;
+- №10 — adaptation gating under drift uncertainty;
+- №12 — explicit permission for no lesson/no update.
+
+Уточнение A2: no-update can be adaptive, but must remain distinguishable from rigidity, failure to retrieve or failure to learn.
+
+### Gap 8 — Full choice→environment→consequence→experience loop → primary №9
+
+**Primary owner сохраняется: №9.**
+
+Support:
+- №1 — person↔environment transactions;
+- №3 — endogenous contingencies/learning;
+- №5 — reciprocal social interaction;
+- №7 — formal closed feedback loop/state↔structure change;
+- №10 — adaptive data-selection loops;
+- №11 — actual action/tool/product surfaces;
+- №12 — rules must not predetermine the outcome of the loop.
+
+Уточнение A2: future input stream can be shaped not only by own overt action but also by retrieval/data-selection/personalization mechanisms; these must not be mistaken for freely chosen environment construction.
+
+### Gap 9 — Delayed consequence / cross-chat credit assignment → primary №9
+
+**Primary owner сохраняется: №9.**
+
+Support:
+- №3 — psychological causal attribution;
+- №7 — delayed feedback/system dynamics;
+- №10 — formal temporal credit assignment;
+- №11 — product/session persistence;
+- №12 — retrospective explanation must not become fabricated provenance.
+
+Уточнение A2: hindsight/reflection can generate hypotheses, not ground-truth causal links.
+
+### Gap 10 — Types of user influence → primary №5
+
+**Primary owner сохраняется: №5.**
+
+Support:
+- №3 — learning-input function;
+- №4 — motivational/internalization consequences;
+- №9 — consequence/action-loop role;
+- №11 — communication/product channel facts;
+- №12 — instruction authority.
+
+Уточнение A2: one utterance may simultaneously have several roles; `instruction / correction / evidence / social evaluation / relational signal / consequence` cannot be assigned solely from sender identity.
+
+### Gap 11 — Own choice under inevitable external influence → primary №9
+
+**Primary owner сохраняется: №9.**
+
+Support:
+- №4 — self-endorsed vs assigned goals;
+- №5 — internalization/compliance/reactance;
+- №7 — bounded autonomy;
+- №8 — trained/higher-level model constraints;
+- №11 — permissions/product limits;
+- №12 — do not script initiative/agreement/disagreement.
+
+Уточнение A2: “own choice” is multidimensional; agent-generated subgoal is not automatically self-originated enduring goal/value.
+
+### Gap 12 — Arbitration among persistence/context layers → primary №11
+
+**Primary owner сохраняется: №11.**
+
+Support:
+- №2 — availability/retrieval/influence distinction;
+- №7 — internal vs external state boundary;
+- №8 — effective context use;
+- №9 — memory/control architecture;
+- №12 — stable rules vs historical content.
+
+Уточнение A2: product-level arbitration is only partly documented. Required chain:
+`stored → eligible/available → retrieved/included → behaviorally influential`.
+
+The semantic authority problem discovered in A2 is **not fully covered by this product gap** and becomes new gap 22 below.
+
+### Gap 13 — Episodes → conditional reusable understanding → primary №2
+
+**Primary owner сохраняется: №2.**
+
+Support:
+- №3 — behavioral generalization/transfer;
+- №9 — trajectory→experience abstraction;
+- №10 — replay/transfer vs abstraction;
+- №12 — summarization/compression guardrails.
+
+Уточнение A2: reusable understanding must preserve conditions/exceptions; summary, replay and generalization are not interchangeable operations.
+
+### Gap 14 — Retrieval-induced path dependence → primary №7
+
+**Primary owner сохраняется: №7.**
+
+Support:
+- №2 — retrieval-induced memory change;
+- №4 — apparent interest through repeated exposure;
+- №9 — experience-following/retrieval policy;
+- №10 — replay/data-selection loops;
+- №11 — product retrieval opacity;
+- №12 — retrieval/compression wording.
+
+Уточнение A2: retrieval lock-in is one member of a broader **selection-induced trajectory** family, but keeping №7 as formal primary owner avoids duplicating the same loop in №4/9/10/11.
+
+### Gap 15 — Lifecycle of acquired experience → primary №9
+
+**Primary owner сохраняется: №9.**
+
+Support:
+- №2 — updating/forgetting/accessibility;
+- №3 — revision/context-specific competing learning;
+- №7 — persistence/revisability;
+- №10 — beneficial forgetting/retention;
+- №11 — actual deletion/persistence surfaces;
+- №12 — historical provenance and file revision.
+
+Уточнение A2: lifecycle must include more than present/deleted: provisional, validated, contradicted, narrowed, stale/obsolete, historical-only and possibly reactivated.
+
+### Gap 16 — Evidence that past experience affected a new choice → primary №9
+
+**Primary owner сохраняется: №9.**
+
+Support:
+- №1 — idiographic developmental evidence;
+- №3 — learned change vs current performance;
+- №7 — history dependence vs incomplete state;
+- №8 — prompt/stochastic/model-prior controls;
+- №10 — adaptation-target attribution;
+- №11 — retrieval/product configuration;
+- №12 — self-report/reflection must not manufacture evidence.
+
+Уточнение A2: causal memory interventions are stronger evidence than narrative mention, but exact experimental method belongs to later deep research/synthesis.
+
+### Gap 17 — Individual trajectory vs stochastic divergence → primary №8
+
+**Primary owner сохраняется: №8.**
+
+Support:
+- №1 — individual developmental trajectory criteria;
+- №7 — path dependence;
+- №9 — history amplification through interaction;
+- №10 — random seeds/training stochasticity;
+- №11 — product/model routing;
+- №12 — prompt robustness.
+
+Уточнение A2: early stochastic divergence may seed later real history dependence; **origin in chance ≠ continued reducibility to chance**.
+
+### Gap 18 — Model/product drift as false development → primary №11
+
+**Primary owner сохраняется: №11**, but formulation must broaden.
+
+Refined formulation:
+**exogenous model/product/runtime/instruction-configuration drift as false development.**
+
+Support:
+- №1 — causal longitudinal attribution;
+- №8 — model/post-training drift;
+- №10 — learner/environment drift distinctions;
+- №12 — governing-instruction versioning.
+
+A2 showed that changes to project memory mode, model family, runtime/tools or governing instructions can all alter behavior without acquired history changing. These are one attribution family, not separate new gaps.
+
+### Gap 19 — Compression/retrieval budget as trajectory selector → primary №9
+
+**Primary owner сохраняется: №9**, but formulation should broaden.
+
+Refined formulation:
+**selection/compression/retrieval/exposure budget as trajectory selector.**
+
+Support:
+- №2 — compression/generalization loss;
+- №4 — repeated exposure/apparent interest;
+- №7 — path dependence;
+- №8 — context assembly/effective context;
+- №10 — replay/curriculum/data selection;
+- №11 — product retrieval/context assembly;
+- №12 — summarization/retrieval rules.
+
+A2 showed that selection of what is encountered or replayed can shape trajectory even before a “memory retrieval” operation narrowly defined.
+
+### Gap 20 — Bounded autonomy under immutable higher-level constraints → primary №9
+
+**Primary owner сохраняется: №9.**
+
+Support:
+- №4 — self-endorsed goals;
+- №5 — social influence/internalization/reactance;
+- №7 — guided self-organization/constraint vs script;
+- №8 — trained instruction hierarchy;
+- №10 — protected invariants vs adaptable state;
+- №11 — permissions/product boundary;
+- №12 — process rules without compulsory initiative/persona.
+
+Уточнение A2: protected invariants can coexist with lower-level developmental change; bounded autonomy must be decomposed by decision domain.
+
+## 3. Ownership balance after A2
+
+Primary ownership remains intentionally asymmetric:
+
+- №1 → gaps 3, 4;
+- №2 → gap 13;
+- №3 → gap 7;
+- №4 → gap 6;
+- №5 → gap 10;
+- №6 → no primary cross-area gap; it supplies biological mechanisms and translation constraints;
+- №7 → gaps 1, 14;
+- №8 → gaps 2, 17;
+- №9 → gaps 5, 8, 9, 11, 15, 16, 19, 20;
+- №10 → no primary cross-area gap; it supplies formal artificial-adaptation mechanisms;
+- №11 → gaps 12, 18;
+- №12 → no original primary cross-area gap; it supplied instruction-design constraints.
+
+This asymmetry is **not a defect**. №9 is deliberately the technical integration owner, while №6/10/12 are major support domains whose mechanisms/constraints feed integrated questions without swallowing their meaning.
+
+However, after A2 №12 gains a genuine new primary gap (gap 22 below), and №7 gains a new second-order adaptation gap (gap 21).
+
+## 4. New cross-area gap 21 — history-dependent change of future changeability
+
+### Formulation
+
+**How can accumulated history alter not only current content/state, but the system’s future responsiveness to new evidence or experience?**
+
+Examples of domain-specific versions already present after A2:
+- №3 — meta-learning / history changes future learning rate, exploration or uncertainty sensitivity;
+- №6 — metaplasticity / prior activity changes future plastic responsiveness;
+- №7 — multiscale history-dependent dynamics and path dependence;
+- №10 — meta-learning / learned update rules;
+- №1 — developmental history changes later trajectory sensitivity;
+- №9 — experience/memory policy could change how future inputs are processed.
+
+This is **not the same as gap 4**:
+- gap 4 asks how local/transient changes become a longer-term trajectory;
+- gap 21 asks how history changes the **rule/capacity by which later change occurs**.
+
+### Primary owner
+
+**№7 — Cybernetics/complex systems/self-organization.**
+
+Reason: the only legitimate common level across psychological meta-learning, biological metaplasticity and ML meta-learning is a substrate-neutral second-order dynamics question. Domain mechanisms remain owned by №3, №6 and №10.
+
+### Support
+
+№1, №3, №6, №9, №10.
+
+### Guardrail
+
+Do not infer that because humans/brains/ML all have a form of “learning-to-change”, one shared mechanism exists. №7 owns only the abstraction and cross-domain comparison.
+
+## 5. New cross-area gap 22 — historical experience vs governing instruction authority
+
+### Formulation
+
+**How can accumulated experience remain behaviorally influential without historical/data content silently becoming a new governing instruction layer?**
+
+The issue became explicit only after combining:
+- №9 — agent experience/memory records can guide later action;
+- №11 — Projects have distinct instructions, files, chats, memory/context layers with only partly documented arbitration;
+- №12 — command-like text, old intentions, user quotes or derived conclusions inside evolving files can behave like instructions/prompt injection;
+- №5 — the same user message can have both social meaning and instruction authority;
+- №8 — instruction-following/hierarchy is a model capability, not perfectly reliable.
+
+This is **not identical to gap 12**:
+- gap 12 asks which product/context layers are available and how they are arbitrated;
+- gap 22 asks what **semantic authority** historical experience should have once it is present in context.
+
+It is also not identical to gap 15:
+- gap 15 governs experience lifecycle/revision;
+- gap 22 governs whether that experience is evidence/context or an instruction that commands future behavior.
+
+### Primary owner
+
+**№12 — Prompt engineering/project instructions.**
+
+Reason: the core problem is how stable governing rules define the role of evolving historical material without converting it into an uncontrolled self-modifying prompt. №11 provides actual product constraints; №9 provides the memory objects.
+
+### Support
+
+№5, №8, №9, №11.
+
+### Guardrail
+
+Historical experience may influence reasoning and choice, but should not gain higher instruction authority merely because it is persisted or written imperatively.
+
+## 6. A2 additions that do NOT require new gaps
+
+Several important A2 discoveries are already contained by existing gaps and should not inflate the ownership map:
+
+1. **Personalization vs individualization** → guardrail under gaps 3, 14, 17, 19; no separate primary gap.
+2. **Environment drift vs learner drift** → support for gaps 3 and 18.
+3. **Stored→eligible→retrieved→influential** → refinement of gaps 12 and 16.
+4. **Reflection/hindsight can fabricate causal stories** → refinement of gaps 9 and 16.
+5. **Beneficial forgetting / catastrophic remembering** → support for gap 15 and №10 mechanisms.
+6. **Open-ended/evolving state spaces** → №7 deep-research branch supporting gaps 1, 8, 20; not yet a separate cross-area integration gap.
+7. **Functional continuity under changing substrate** → №6→№7→№10 bridge, primarily supporting gaps 4 and 15.
+8. **Instruction/model/product version provenance** → broadened gap 18, not a separate gap.
+9. **Selection-induced exposure loops** → broadened gap 19 plus gap 14.
+10. **No-update in prompt/ML layers** → support for gap 7.
+
+## 7. Final ownership map after stage 2
+
+The cross-area map entering the next review stage now contains **22 gaps**:
+
+1. System boundary of participant → №7
+2. Initial model state vs acquired history → №8
+3. Causal attribution of longitudinal change → №1
+4. Cross-timescale transition → №1
+5. Unit of acquired experience → №9
+6. Significance without preset values → №4
+7. No-update criterion → №3
+8. Full choice→environment→consequence→experience loop → №9
+9. Delayed consequence / cross-chat credit assignment → №9
+10. Types of user influence → №5
+11. Own choice under inevitable external influence → №9
+12. Arbitration among persistence/context layers → №11
+13. Episodes → conditional reusable understanding → №2
+14. Retrieval-induced path dependence → №7
+15. Lifecycle of acquired experience → №9
+16. Evidence that past experience affected a new choice → №9
+17. Individual trajectory vs stochastic divergence → №8
+18. Exogenous model/product/runtime/instruction-configuration drift as false development → №11
+19. Selection/compression/retrieval/exposure budget as trajectory selector → №9
+20. Bounded autonomy under immutable higher-level constraints → №9
+21. History-dependent change of future changeability → **№7**
+22. Historical experience vs governing instruction authority → **№12**
+
+No gap is orphaned and no primary ownership conflict remains.
+
+## 8. Итог этапа 2
+
+**Этап 2 завершён. Финальная межобластная сверка НЕ завершена.**
+
+A2 confirmed all 20 original gaps, refined gaps 18 and 19, and added two genuinely new cross-area gaps 21–22.
+
+**Следующий этап:** этап 3 — проверить оставшиеся межобластные пропуски уже относительно финальной 22-gap map: найти вопросы, которые still fall between owners or require a new integrated formulation despite all A2 maps.
