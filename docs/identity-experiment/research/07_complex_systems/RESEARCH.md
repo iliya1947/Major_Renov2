@@ -544,3 +544,119 @@ This does not require random exploration or forced novelty.
 
 **B6 НЕ завершена.**
 
+# Phase B — B7 deep pass 1: nested participant boundaries and causal baseline
+
+## Sources inspected
+
+1. Stanford Encyclopedia of Philosophy, “Externalism About the Mind” / extended-mind section — current accessible entry. Used only as a conceptual source-domain warning that cognitive boundaries can be drawn differently when external artifacts play stable functional roles; not used to claim an LLM has a human mind.
+2. Jing et al. (2026), “Isolation as a First-Class Principle for LLM-Agent System Safety”, arXiv:2607.12406. The survey treats an LLM agent as a system with multiple interfaces/boundaries (user-agent, agent-tool, execution, agent-agent, system-environment), reinforcing that model-only analysis can miss system-level causes.
+3. Existing B3/B5/B6 results in this repository on functional decomposition, reciprocal user/environment paths and explicit external memory.
+
+## 1. There is no single universally correct boundary for every claim
+
+B7 should not prematurely choose between “the model”, “the project”, or “the whole interaction” as if only one could be causally meaningful.
+
+The useful solution is **nested analysis**.
+
+### Boundary L0 — parametric model/substrate
+Includes:
+- pretrained/post-trained model weights and learned priors;
+- provider-trained instruction-following/alignment tendencies.
+
+Claims at L0 concern what the deployed model already brings before the experiment.
+
+### Boundary L1 — current inference episode
+Includes L0 plus:
+- current higher-level/runtime instructions;
+- Project instructions supplied to this turn;
+- current user message;
+- retrieved/included context;
+- decoding/inference state.
+
+L1 explains immediate behavior on one turn but does not by itself establish persistent development.
+
+### Boundary L2 — longitudinal Project participant
+Includes the sequence of L1 inference episodes causally coupled through the stable Project control plane and the participant’s explicit/retrieved experiential state.
+
+This is the strongest candidate boundary for claims such as:
+“the participant acquired and later used experience”.
+
+Importantly, L2 can show persistent project-level development without changing L0 weights.
+
+### Boundary L3 — coupled participant↔user/environment system
+Includes L2 plus user responses, tools and relevant environment dynamics.
+
+L3 is required to explain the endogenous trajectory:
+participant choice changes user/environment, which changes later input and opportunity.
+
+But including the user in L3 does **not** make the user part of the participant for an individualization claim.
+
+## 2. Different questions require different boundaries
+
+- “Was this behavior already possible in the model?” → L0/L1.
+- “Did current prompting/context cause this output?” → L1.
+- “Did acquired Project history persist and affect later behavior?” → L2.
+- “How did participant and user jointly create this trajectory?” → L3.
+
+A causal effect discovered at L3 cannot automatically be attributed internally to L2.
+Likewise, a new L1 output cannot automatically be called L2 development.
+
+## 3. Baseline must be defined at experiment start, not inferred retrospectively
+
+At t0, before natural experimental interaction generates participant history, the baseline includes every causal ingredient already present:
+
+- exact model family/version/routing state as far as observable;
+- post-training/alignment behavior;
+- Project instructions and initial Project files/sources;
+- project memory mode;
+- account/workspace personalization state allowed by that mode;
+- enabled tools/apps and relevant permissions;
+- current product/runtime behavior;
+- any initial user-authored content supplied before the experiment;
+- stochastic/inference variability.
+
+Anything present at t0 is **baseline/scaffolding**, not acquired development, even if its behavioral effect is first noticed much later.
+
+## 4. The participant is not born “blank”
+
+The project explicitly forbids preset personality/values, but this cannot mean an empty model.
+
+L0 already contains:
+- linguistic/cultural/statistical priors;
+- post-training preferences/tendencies;
+- default styles/behavioral policies;
+- latent capabilities;
+- instruction hierarchy constraints.
+
+Therefore the correct experimental claim is not:
+“all later behavior arose from experience”.
+
+It can only be:
+“some later differences were caused by post-t0 acquired history beyond the documented baseline”.
+
+## 5. User/environment is both external cause and endogenous trajectory partner
+
+The user should remain outside the participant boundary for individualization attribution.
+
+However, B4/B5 established that participant actions change later user responses. So user behavior is not simply an exogenous nuisance variable.
+
+B7 therefore distinguishes:
+- **exogenous user variation**: user changes for reasons not caused by participant history;
+- **endogenous user mediation**: user response changed partly because of participant’s earlier action.
+
+The first is an alternative cause/confound.
+The second is part of the participant-generated trajectory at L3, although still not internal participant state.
+
+## 6. Initial B7 boundary principle
+
+**Use the narrowest boundary sufficient for the causal claim, while tracking broader coupled variables that can affect it.**
+
+For longitudinal individualization, L2 Project-participant is the working candidate participant boundary, with:
+- L0 treated as inherited substrate/baseline;
+- L1 treated as momentary inference realization;
+- L3 used to model interaction-mediated trajectory causes.
+
+This remains a candidate until B7 stress tests it against model/runtime replacement, stochastic branches and context-only changes.
+
+**B7 НЕ завершена.**
+
