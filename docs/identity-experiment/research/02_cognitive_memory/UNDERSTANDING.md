@@ -260,3 +260,65 @@ Extinction/reconsolidation/schema work усиливает уже найденн�
 ## 26. Точка продолжения
 
 Нужно stress-test этой формулировки на single-event learning, conflicting episodes, exceptions, false causal attribution и many-to-one abstraction. B2 НЕ завершена.
+
+## 27. Финальный principle space B2
+
+B2 выдержала edge-case stress-test и изменила исходную гипотезу в одном важном месте: acquired experience лучше понимать не как объект с одним состоянием, а как **связь между evidence и пересматриваемым understanding с несколькими независимыми статусными измерениями**.
+
+### Conceptual unit
+
+**Acquired experience = revisable evidence-linked relation between one or more episode-level sources and a conditional interpretation/generalization that may guide later choice.**
+
+Критические свойства:
+- episode/event evidence не равен interpretation;
+- interpretation/causal attribution не равен reusable generalization;
+- one episode may support several derived understandings;
+- one generalized understanding may be supported by many episodes;
+- generalization must retain scope, conditions and exceptions;
+- source provenance survives later abstraction and revision.
+
+### Why this survives edge cases
+
+- **One-shot:** a single diagnostic event can produce broad update when prior structure makes the inference justified.
+- **Conflict:** new episode may revise an existing relation or establish a different context/latent cause.
+- **Exception:** exception can narrow or branch a generalization rather than destroy it.
+- **False attribution:** event can remain true while its causal interpretation becomes false.
+- **Historical false belief:** an interpretation can be currently invalid yet remain historically causal because it genuinely affected earlier choices.
+- **Many-to-one:** generalized knowledge and specific episodic evidence can coexist rather than one replacing the other.
+
+## 28. Lifecycle is multidimensional, not a single linear state machine
+
+The A2 labels provisional/validated/contradicted/narrowed/stale/historical-only/reactivated remain useful descriptions, but B2 shows that they combine several separate dimensions:
+
+1. evidential warrant;
+2. scope and conditions;
+3. current temporal validity;
+4. eligibility to guide current action;
+5. historical causal influence;
+6. retention/accessibility of supporting evidence.
+
+Examples:
+- narrowed understanding can still be well supported;
+- stale information can have been true before;
+- contradicted attribution can still explain why an earlier choice occurred;
+- historical-only material can remain retrievable for revision without ordinary action authority;
+- reactivation means restored current warrant/action relevance, not erasure of the intervening history.
+
+## 29. Functional forgetting is selective loss of authority/access, not necessarily erasure
+
+For this project's mechanism-level reasoning, the useful distinction is:
+
+- **functional forgetting/obsolescence:** reduce ordinary accessibility/action-guidance of information that is no longer relevant or valid, while preserving enough provenance/history for later reconstruction where appropriate;
+- **accidental loss:** lose still-needed evidence or its linkage to derived understanding, making later verification/revision impossible.
+
+This does not prescribe a storage implementation. It establishes what any implementation must preserve conceptually.
+
+## 30. B2 result
+
+B2 answers the package question without choosing a file schema:
+
+**Specific events become reusable acquired experience only through an evidence-linked, conditional, revisable relation whose scope and current authority can change without rewriting the historical event that gave rise to it.**
+
+Abstraction, summarization, retrieval priority, current validity and historical influence are separate functions.
+
+**B2 достигла saturation и завершена.**
