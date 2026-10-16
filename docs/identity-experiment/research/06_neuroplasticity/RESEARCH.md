@@ -293,3 +293,38 @@ The only substrate-neutral claim carried forward is:
 Do NOT transfer NMDA receptors, LTP/LTD, BCM equations or homeostatic goals directly to LLM architecture. Biology demonstrates existence of history-dependent future responsiveness, not the correct mechanism for this project.
 
 **B3 НЕ завершена.**
+
+## B3 — pass 2 support: continuity under lower-level turnover
+
+### Rule et al. (2020) — Stable task information from an unstable neural population
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7392606/
+
+**Фактически просмотрено:** abstract/indexed full-text summary.
+
+Long-term recordings from mouse posterior parietal cortex showed representational drift over days/weeks without obvious behavioral change; drift was systematically constrained enough to permit stable linear readout of behavioral variables.
+
+### Kalle Kossio et al. / review: Causes and consequences of representational drift (2019)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7385530/
+
+**Фактически просмотрено:** abstract/introduction indexed by search.
+
+The review emphasizes continual molecular/cellular turnover and changing neural representations despite stable learned behavior, and discusses distributed/recurrent mechanisms that can maintain functional readout.
+
+### Rule & O'Leary (2022) — Self-healing codes
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8851551/
+
+**Фактически просмотрено:** abstract/result summary.
+
+Modeling shows that Hebbian/homeostatic plasticity can let downstream readouts track drifting population codes and preserve encoded variables without external error feedback.
+
+## B3 cross-domain conclusion from turnover
+
+Biology provides a strong existence example for **functional continuity without microscopic identity**. The transferable principle is limited:
+
+- continuity can be defined at a higher functional/relational level even while lower-level implementation changes;
+- therefore `same components forever` is not a necessary definition of persistence;
+- but stable behavior alone does not prove stable internal identity or unchanged mechanism.
+
+For the future AI experiment this creates a methodological asymmetry: a model/runtime update might theoretically preserve a higher-level trajectory, but because it is an exogenous substrate change it also becomes a serious causal confound. B3 therefore allows continuity-under-turnover conceptually; later attribution work must separately track whether observed development came from history or from external model/product replacement.
+
+**No biological mechanism is transferred directly to LLMs. B3 support side is saturated.**
