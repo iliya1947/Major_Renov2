@@ -431,3 +431,39 @@ Higher-level safety/system constraints must remain independent of developed hist
 - protection against self-reinforcing or safety-degrading personalization.
 
 Formal ML/RL mechanisms remain №10; actual ChatGPT persistence and permissions №11; exact instruction design №12.
+
+# Phase B — B2 working synthesis
+
+**Статус:** первый глубокий B2-проход; НЕ финальный результат.
+
+## 33. Storage, reflection, abstraction and validity are different dimensions
+
+Agent literature confirms an engineering progression from preserving trajectories to refining them and extracting reusable abstractions. Но текущий B2-проход показывает, что это не должно становиться линейным ritual.
+
+Trajectory can remain useful without abstraction; reflection can be wrong; abstraction can overgeneralize; an old abstraction can remain historically important while no longer valid for action.
+
+## 34. Provenance has to survive abstraction
+
+If a derived lesson cannot be traced back to the episodes/evidence that produced it, future revision loses its causal anchor.
+
+Therefore provenance is not just metadata. It is what lets later evidence answer:
+- what exactly is being contradicted;
+- which scope/condition failed;
+- whether the original event happened but the interpretation was wrong;
+- whether several episodes support the same abstraction independently.
+
+## 35. Experience lifecycle needs status independent of existence
+
+Memora's obsolete-memory failures show that a fact or lesson can still exist in storage but should not continue guiding action.
+
+So lifecycle cannot be reduced to keep/delete. At conceptual level we need distinguish current, uncertain, contradicted/narrowed, obsolete/historical-only, and possibly reactivated — exact taxonomy still open.
+
+## 36. Candidate unit is relational, not blob-like
+
+Current cross-domain candidate:
+
+**Acquired experience is a revisable evidence-linked relation between episode/trajectory evidence and a conditional understanding that can guide future choices while retaining its origin and revision path.**
+
+This is still only a conceptual candidate. B2 must test whether single-event strategic shifts and many-episode abstractions fit without forcing artificial granularity.
+
+**B2 НЕ завершена.**
