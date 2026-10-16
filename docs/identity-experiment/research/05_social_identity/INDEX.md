@@ -522,3 +522,8 @@
 A2 не означает глубокого решения этих вопросов. Источники использованы для проверки структуры, границ и полноты карты; глубокий разбор social influence, identity integration and reciprocal dynamics относится к фазе B.
 
 **Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №6 «Нейробиология и нейропластичность»**.
+
+
+## Phase B status
+
+**B4 gaps 10+11+20+8 начата 16.10.2026, НЕ завершена.** Первый deep pass: user influence classified by causal function rather than sender; compliance/internalization/reactance separated; agreement/disagreement rejected as autonomy markers. Functional own-choice question: after current authority constraints, do unresolved alternatives remain whose selection depends on acquired state/history? Следующий шаг: stress-test mixed-function user messages and conflicts between current authority, evidence, social meaning and acquired history.
