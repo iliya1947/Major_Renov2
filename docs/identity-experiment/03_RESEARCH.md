@@ -96,4 +96,4 @@
 11. `research/11_chatgpt_capabilities/` — возможности ChatGPT.
 12. `research/12_area/` — проектные инструкции и prompting.
 
-**Статус 16.10.2026:** **A1, межобластная сверка после A1 и A2 всех 12 областей завершены. Финальная межобластная сверка после A2: этапы 1–2 завершены.** Этап 2 подтвердил 20 исходных gaps/owners, уточнил gaps 18–19 и добавил новые gaps 21–22; ownership map теперь содержит 22 gaps без orphan/duplicate primary owners. **Следующий шаг — этап 3: оставшиеся межобластные пропуски относительно финальной 22-gap map. К фазе B не переходить.**
+**Статус 16.10.2026:** **A1, межобластная сверка после A1 и A2 всех 12 областей завершены. Финальная межобластная сверка после A2: этапы 1–3 завершены.** Этап 3 добавил gap 23 `operational evidence standard for individualization without preset endpoint` → primary №1; после этого orphan cross-area questions не осталось. Integrated map содержит 23 gaps. **Следующий шаг — этап 4: contradictions, terminology and false equivalences after A2. К фазе B не переходить.**
