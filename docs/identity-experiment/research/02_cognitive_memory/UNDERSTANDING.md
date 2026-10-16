@@ -212,3 +212,51 @@ Surprise, novelty, schema violation и goal relevance могут влиять н
 - evidence that past information actually influenced present judgment/action.
 
 Engineered memory lifecycle/policies исследуются primary в №9, ChatGPT persistence surfaces — №11, prompt rules — №12.
+
+# Phase B — B2 working synthesis
+
+**Статус:** первый глубокий B2-проход; НЕ финальный результат.
+
+## 22. Episode и acquired experience перестали быть одним объектом
+
+Главный сдвиг B2: episodic representation — это не reusable lesson.
+
+Event segmentation literature показывает, что continuous experience уже на уровне human memory разбивается на context-sensitive, sometimes hierarchical event units. Но later generalization/schema formation — отдельное преобразование.
+
+Поэтому current working distinction:
+- episode = what happened in a bounded context;
+- interpretation = what it may mean;
+- reusable understanding = what can be conditionally applied beyond the episode.
+
+Смешение этих трёх уровней делает provenance и revision почти невозможными.
+
+## 23. Generalization должна сохранять возможность вернуться к исключениям
+
+Human memory literature показывает adaptive abstraction, но одновременно schema-based reconstruction/distortion.
+
+Отсюда для нашего будущего механизма возникает не готовое правило хранения, а causal requirement:
+**reusability must not destroy the evidence boundary from which the abstraction was derived.**
+
+Иначе поздний counterexample невозможно отличить от ложного воспоминания или плохо сформулированного summary.
+
+## 24. Revision не обязана быть overwrite
+
+Extinction/reconsolidation/schema work усиливает уже найденную в A2 мысль:
+- старое understanding может быть narrowed;
+- новый context может породить alternative;
+- прежняя interpretation может стать obsolete;
+- original episode при этом остаётся historical occurrence.
+
+Следовательно, acquired experience должна быть conceptually capable of changing its current meaning/status without rewriting history.
+
+## 25. Рабочая гипотеза B2
+
+Наиболее сильная текущая формулировка:
+
+**Acquired experience is a revisable relation between historically grounded episode evidence and a conditional interpretation/generalization that can later be strengthened, narrowed, contradicted, suspended or made historical-only.**
+
+Это пока candidate mechanism principle, не data schema и не project instruction.
+
+## 26. Точка продолжения
+
+Нужно stress-test этой формулировки на single-event learning, conflicting episodes, exceptions, false causal attribution и many-to-one abstraction. B2 НЕ завершена.
