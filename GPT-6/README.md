@@ -26,6 +26,7 @@
 8. [08-DEPLOYABLE-ANALOG.md](08-DEPLOYABLE-ANALOG.md) — ограниченный вариант для текущего ChatGPT; **не независимый gate и не доказанное улучшение**.
 9. [09-SOL-BOUNDARY-CRITICAL-REVIEW.md](09-SOL-BOUNDARY-CRITICAL-REVIEW.md) — критическая проверка предложения Sol по существующему регламенту; новизна дополнительного механизма **не подтверждена**.
 10. [10-ENFORCEMENT-BOUNDARY.md](10-ENFORCEMENT-BOUNDARY.md) — разбор действовавших и исторических правил по классам G/E/O/V и пределам downstream gate.
+11. [11-EARLY-DETECTION-MATRIX.md](11-EARLY-DETECTION-MATRIX.md) — практическое сравнение доступных ранних проверок и последующего независимого review.
 
 ## Совместный результат
 
