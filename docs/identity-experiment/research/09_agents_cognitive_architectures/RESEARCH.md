@@ -176,3 +176,188 @@
 После проверки general agent architectures, planning, tools, memory, reflection/self-correction, environment feedback, cognitive architectures, multi-agent communication, social simulation, embodied/computer-using agents, safety and evaluation новые результаты в основном расширяли уже найденные ветви, а не создавали новые крупные оси.
 
 Это достаточно для **первичной A1-картографии**, но не является A2 coverage audit и не означает глубокого исследования отдельных механизмов.
+
+
+---
+
+# A2 — повторная финальная картография с учётом всех областей
+
+**Дата прохода:** 16.10.2026.
+
+**Цель:** после межобластной сверки уточнить главный technical integration area вокруг единицы acquired experience, полного action–consequence loop, delayed credit assignment, memory/experience lifecycle, evidence of downstream influence, retrieval/compression selection and bounded autonomy. Это всё ещё A2-картография, не проектирование финального механизма.
+
+## Новые или повторно углублённо проверенные источники A2
+
+### Luo et al. (2026) — From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms
+Findings of ACL 2026  
+https://aclanthology.org/2026.findings-acl.2069/
+
+**Фактически просмотрено в A2:** abstract, taxonomy and framework summary.  
+**Что меняет в карте:** survey explicitly separates **Storage (trajectory preservation), Reflection (trajectory refinement) and Experience (trajectory abstraction)** and discusses proactive exploration/cross-trajectory abstraction. Для A2 это подтверждает, что “experience” нельзя использовать как synonym raw log или summary; необходимо отдельно исследовать переходы между trajectory, interpretation/refinement and reusable abstraction.
+
+### Yu et al. (2026) — Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents
+ACL 2026  
+https://aclanthology.org/2026.acl-long.981/
+
+**Фактически просмотрено:** abstract and architecture/training summary.  
+**Что меняет в карте:** store, retrieve, update, summarize and discard могут быть explicit agent actions rather than fixed external heuristics. Это делает **memory management itself a policy/action domain** and strengthens bounded-autonomy questions around what the agent may decide about its own persistent state.
+
+### Xiong et al. (2026) — How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior
+ACL 2026  
+https://aclanthology.org/2026.acl-long.27/
+
+**Фактически просмотрено:** abstract and reported controlled findings.  
+**Что меняет в карте:** retrieved similar experiences strongly pull agent outputs toward similar behavior; the authors identify **error propagation** and **misaligned experience replay**, and show memory addition/deletion choices materially affect long-term behavior. This directly strengthens gaps 14/16/19: memory retrieval is a causal trajectory selector, not neutral recall.
+
+### Uddin et al. (2026) — From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents
+Findings of ACL 2026  
+https://aclanthology.org/2026.findings-acl.1337/
+
+**Фактически просмотрено:** abstract and benchmark description.  
+**Что меняет в карте:** long-term memory evaluation must penalize reliance on obsolete/invalidated memories; tested agents often reused invalid memories or failed to reconcile updates. This makes **obsolescence, contradiction and forgetting-aware evaluation** core lifecycle questions rather than edge cases.
+
+### Tan et al. (2025) — MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents
+Findings of ACL 2025  
+https://aclanthology.org/2025.findings-acl.989/
+
+**Фактически просмотрено:** abstract and benchmark dimensions.  
+**Что меняет в карте:** factual vs reflective memory and participation vs observation scenarios need separate evaluation; effectiveness, efficiency and capacity are distinct axes. For our task this reinforces that “agent remembered” is under-specified unless the level/function of memory is named.
+
+### Kamoi et al. (2024) — When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs
+TACL 12:1417–1440  
+https://aclanthology.org/2024.tacl-1.78/
+
+**Фактически повторно углублённо использовано:** abstract and survey conclusions.  
+**Что меняет в карте:** prompted self-feedback alone has weak general evidence; reliable external feedback or training changes the situation. Therefore textual “reflection” cannot be treated as verified metacognition, valid lesson or trustworthy self-update by default.
+
+### Pan et al. (2024) — Automatically Correcting Large Language Models: Surveying the Landscape of Diverse Automated Correction Strategies
+TACL 12:484–506  
+https://aclanthology.org/2024.tacl-1.27/
+
+**Фактически просмотрено:** abstract and correction taxonomy.  
+**Что меняет в карте:** feedback/correction can occur at training-time, generation-time or post-hoc and may originate internally or externally. Agent “revision” therefore needs explicit source and timing, not one generic reflection label.
+
+### Liu, Lu & Yang (2026) — SHADOW: Dynamic-Aware Credit Assignment Against Long-Horizon Tasks
+AAAI 2026  
+https://doi.org/10.1609/aaai.v40i28.39570
+
+**Фактически просмотрено:** abstract.  
+**Что меняет в карте:** delayed sparse outcomes create a genuine step-level credit-assignment problem; transition dynamics matter for deciding which earlier actions contributed. This is a technical RL setting, not our final experiment, but it strengthens the need to separate **temporal proximity from causal responsibility**.
+
+### Tan et al. (2026) — Hindsight Credit Assignment for Long-Horizon LLM Agents
+arXiv:2603.08754  
+https://arxiv.org/abs/2603.08754
+
+**Фактически просмотрено:** abstract.  
+**Что меняет в карте:** post-hoc/hindsight reasoning is being used to refine credit assignment in long-horizon agent tasks. It also exposes a methodological danger for our project: retrospective attribution generated by an LLM may be useful as a hypothesis but cannot be treated as ground truth provenance of a consequence.
+
+### Bajoria et al. (2026) — From Language Models to Agentic AI: A Survey of Autonomous, Action-Enabled, and Collaborative LLM Agents
+Cognitive Computation 18:103  
+https://doi.org/10.1007/s12559-026-10619-1
+
+**Фактически просмотрено:** open-access abstract, taxonomy and autonomy discussion.  
+**Что меняет в карте:** autonomy is decomposed across practical dimensions rather than one scalar property; agent architecture separates perception, memory, reasoning/planning, tool interfaces, actuation and feedback/oversight. This reinforces our bounded-autonomy treatment.
+
+### Yehudai et al. (2026) — A Survey on Evaluation of LLM-based Agents
+Findings of ACL 2026  
+https://aclanthology.org/2026.findings-acl.1330/
+
+**Фактически просмотрено:** abstract and evaluation perspectives.  
+**Что меняет в карте:** evaluation must span core agent capabilities, domain/generalist benchmarks and system-level dimensions; robustness, safety and cost remain under-evaluated. For our project, a single success score or self-report cannot establish that acquired experience causally shaped a new decision.
+
+### Guo et al. (2026) — When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents
+ACL 2026  
+https://aclanthology.org/2026.acl-long.1260/
+
+**Фактически просмотрено:** abstract.  
+**Что меняет в карте:** benign long-term personal memories can bias current intent interpretation and degrade safety. This is direct evidence that persistent memory can causally shape later inference in undesirable ways; “more personalized/history-aware” is not automatically better.
+
+## A2 — уточнения, полученные из совокупности источников
+
+1. **The unit of acquired experience is not given by agent literature.** Raw trajectory, observation, state summary, reflection, lesson, strategy, changed expectation and cross-trajectory abstraction are distinct representational objects.
+
+2. **Storage is not experience.** Persisting a trajectory only makes it available for later operations; it does not establish that the agent interpreted it, generalized from it or changed future behavior.
+
+3. **Reflection is not validated learning.** A textual critique/reflection can itself be wrong, ungrounded or post-hoc rationalization.
+
+4. **Experience abstraction is lossy and normative.** Converting trajectories into reusable rules/tips requires deciding which causal features, conditions and exceptions matter.
+
+5. **Provenance is therefore a core requirement for later synthesis.** A generalized lesson without links to its source events, observations and consequences is hard to revise when later evidence conflicts.
+
+6. **The full acquired-experience loop is system-level:**  
+   `state/history → choice → action → environment/user response → observed consequence → attribution/interpretation → memory/update → changed future choice`.
+   Any missing edge can break the claim that “experience changed the trajectory”.
+
+7. **Delayed consequences require credit assignment, not chronology.** Long-horizon agent research confirms that sparse outcomes cannot be safely assigned to every prior action or to the nearest preceding action.
+
+8. **Hindsight attribution is itself fallible.** LLM-generated retrospective critique can propose causal explanations but must not become automatic factual provenance.
+
+9. **Memory management changes policy-like behavior even without weight updates.** Addition, deletion and retrieval choices materially affect later outputs.
+
+10. **Experience-following creates both benefit and lock-in risk.** Similar retrieved experiences can guide a new task, but can also propagate errors and reproduce misaligned old trajectories.
+
+11. **A “successful” past trajectory is not universally good experience.** It can be distribution-specific, accidentally successful, unsafe, overfit or misleading for the new situation.
+
+12. **Memory lifecycle therefore needs validity states, not just present/deleted.** Candidate stages include local/working, persisted, abstracted, retrieved, reinforced, revised, contradicted, stale/obsolete and discarded; exact future implementation remains open.
+
+13. **Contradiction does not imply overwrite.** New evidence may invalidate, narrow, contextualize or coexist with older experience depending on provenance and conditions.
+
+14. **Forgetting can be adaptive.** Retaining obsolete memories can directly worsen future decisions; deletion/invalidation is therefore part of continuity rather than its opposite.
+
+15. **Memory operations can themselves be agent actions.** This creates a second-order autonomy question: may the participant decide what parts of its own history to preserve, summarize, revise or discard?
+
+16. **But unrestricted self-memory management can self-reinforce errors.** Autonomy over memory requires evidence/constraint questions, not a simple “agent controls its own memory” principle.
+
+17. **Compression and retrieval budgets are policy choices.** What gets summarized, dropped or ranked determines which past experiences can causally influence future actions.
+
+18. **Rare but important experience is especially vulnerable.** Similarity/recentness-heavy retrieval can suppress low-frequency but high-consequence events, while repeated common experience can dominate the trajectory.
+
+19. **Evidence that experience affected a new choice must be behavioral/causal, not verbal.** Mentioning a memory or claiming “I learned X” is insufficient.
+
+20. **Controlled memory intervention is a strong evidence pattern.** If adding/removing/replacing a specific experience predictably changes later decisions under otherwise comparable conditions, that supports causal influence more strongly than self-report.
+
+21. **However, memory influence is not automatically “own choice”.** A retrieved item can function like an external instruction/demo and mechanically steer output.
+
+22. **Own choice is multidimensional under delegation.** Need to distinguish user-specified top-level goal, inferred subgoal, plan selection, tool choice, execution choice, stopping, memory management and revision.
+
+23. **Bounded autonomy is compatible with fixed higher-level constraints.** The useful question is which decisions remain endogenously selected inside system/developer/product limits.
+
+24. **Goal generation needs special discipline.** An agent-generated subgoal inside a user task is not the same as a self-originated enduring top-level goal/value.
+
+25. **Environment feedback can be informative without prescribing the policy.** This distinction is crucial if future experience is to arise from consequences rather than from a user simply telling the participant what lesson to store.
+
+26. **Personalization/history-awareness can produce safety regressions.** A persistent history can bias intent interpretation or make risky behavior seem contextually legitimate; trajectory continuity therefore needs independent higher-level constraints.
+
+27. **Agent evaluation must inspect trajectories and state transitions.** Final success alone cannot show whether memory, reflection, planning or prior experience actually caused the result.
+
+28. **The future invented mechanism must preserve a distinction among event, interpretation, attribution and intention.** Agent architecture can support these as separate records/states, but literature does not supply a validated recipe for our exact individuality experiment.
+
+29. **No existing agent framework solves our target problem as stated.** Current work supplies mechanisms for memory, planning, reflection, feedback and autonomy, but not a demonstrated process for naturally forming an individual, revisable trajectory without pre-authored persona/values.
+
+## A2 boundary decisions for area №9
+
+- **Остаётся в №9:** full perceive/decide/act/observe loop; engineered memory lifecycle; experience abstraction/provenance; reflection/feedback integration; long-horizon credit assignment at agent-system level; multidimensional autonomy; evidence of memory/history influence on action; agent persona/profile boundary.
+- **Primary owner №2:** human memory/generalization constructs.
+- **Primary owner №3:** psychological learning and no-update criteria.
+- **Primary owner №4:** significance/value/interest/motivation.
+- **Primary owner №5:** social influence/identity.
+- **Primary owner №7:** formal history dependence/system boundary.
+- **Primary owner №8:** model/context/stochasticity attribution.
+- **Primary owner №10:** formal ML/RL adaptation and optimization algorithms.
+- **Primary owner №11:** actual ChatGPT persistence, tools, permissions and product behavior.
+- **Primary owner №12:** exact project-instruction design.
+
+## A2 coverage conclusion
+
+Повторный поиск по:
+- memory evolution from storage to experience;
+- unified agent-controlled memory operations;
+- experience-following and memory addition/deletion;
+- obsolete/conflicting long-term memories;
+- self-correction/reflection validity;
+- delayed/hindsight credit assignment;
+- multidimensional autonomy;
+- system-level agent evaluation;
+- safety effects of persistent personalization
+
+не выявил новой крупной agent/cognitive-architecture branch beyond A1. Новое содержательно связывает уже найденные branches into **a lifecycle and causal-evidence problem**, что позволяет финализировать карту №9.
