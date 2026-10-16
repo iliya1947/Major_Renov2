@@ -31,6 +31,7 @@
 13. [13-E-PRE-ACTION-GATE-FEASIBILITY.md](13-E-PRE-ACTION-GATE-FEASIBILITY.md) — отдельная проверка класса E: внешний evidence доступен, обязательный pre-action causal gate не найден.
 14. [14-O-ORACLE-ENFORCEMENT.md](14-O-ORACLE-ENFORCEMENT.md) — отдельная проверка класса O: узкие объективные тестовые оракулы возможны, универсальный pre-action gate не найден.
 15. [15-V-SPEC-DERIVED-COVERAGE.md](15-V-SPEC-DERIVED-COVERAGE.md) — проверка класса V на внешнем CommonMark corpus; узкий кандидат, не внедрён в Vico Forum.
+16. [16-COMPARATIVE-ARCHITECTURE-MAP.md](16-COMPARATIVE-ARCHITECTURE-MAP.md) — сравнение G/E/O/V по внешним данным, исполняемому контролю и обязательной границе действий; ожидает независимого review Sol.
 
 ## Совместный результат
 
