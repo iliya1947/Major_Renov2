@@ -387,3 +387,16 @@ A single delayed consequence can justify a local conditional update if attributi
 
 **B5 НЕ завершена.**
 
+## 32. B8 learning-versus-development boundary
+
+B8 distinguishes genuine learned history influence from individualization.
+
+Evidence that acquired history changes later behavior can establish learning/adaptation.
+
+Participant-level individualization additionally requires recursive longitudinal organization: multiple non-equivalent choices linked through accumulated/revised history, not one isolated learned relation.
+
+Thus:
+**learning is necessary evidence for history influence but not sufficient for individualization.**
+
+**B8 завершена on learning-support side.**
+
