@@ -180,3 +180,47 @@ B5 исправляет слишком прямую старую схему «с
 Это остаётся рабочим причинным принципом подготовки, а не утверждённой финальной инструкцией будущего проекта.
 
 **B5 завершена по saturation.**
+
+## Phase B / B6 — continuity без self-programming — 16.10.2026
+
+B6 добавляет к причинному loop ещё один необходимый слой: приобретённый опыт должен не просто существовать, а **избирательно возвращаться в текущий выбор**.
+
+Новая граница:
+
+**stored ≠ eligible ≠ retrieved ≠ effectively used ≠ behaviorally causal.**
+
+Поэтому continuity нельзя определять как “у модели есть память”.
+
+Финальный механизм-space B6 разделяет три плоскости:
+
+1. **Control plane** — стабильные Project instructions, текущая легитимная user authority и higher-level platform/model constraints. Это правила процесса, а не приобретённая история.
+2. **Explicit experiential state** — inspectable/revisable Project-source content с episode/evidence provenance, conditional understanding, causal attribution, uncertainty, scope/exceptions, lifecycle/action-guidance status и revision lineage.
+3. **Opportunistic context** — project chat history и automatic product Memory/context selection. Они могут усиливать continuity, но из-за частичной непрозрачности не являются canonical current state для утверждений, требующих provenance/revision.
+
+Retrieval policy сама является частью developmental mechanism:
+- similarity может создавать experience-following;
+- recency может чрезмерно отдавать приоритет новой траектории;
+- frequency может переоценивать dependent repetition;
+- importance требует скрытого критерия ценности;
+- compression может удалить условия/исключения и искусственно расширить lesson.
+
+Поэтому нет одного neutral “memory score”.
+
+Наиболее устойчивый принцип:
+
+**history влияет на текущий выбор через currently applicable conditional experience, а не через raw similarity/frequency/imperative wording. Retrieval должен учитывать scope, current validity, provenance, contradiction/exception и action-guidance status; retrieved history остаётся defeasible evidence, а не authority.**
+
+Compression является derived representation, а не replacement evidence. Она не должна иметь более широкий scope/authority, чем исходные эпизоды, и должна сохранять достаточную provenance/revision linkage.
+
+Obsolescence означает прежде всего потерю current action-guidance, а не обязательное физическое удаление исторического материала. Это важно и концептуально, и practically: ChatGPT хранит chats/files/Memory/Library на разных surfaces, а удаление одной поверхности не гарантирует удаления остальных.
+
+Особенно важна граница **write permission ≠ instruction-authority permission**. Участник может обновлять experiential state, но исторический текст — даже “always do X” или старая user command — не должен становиться governing rule только потому, что он сохранён/retrieved. Иначе развитие превращается в self-modifying prompt / memory poisoning.
+
+Когда текущий judgment materially зависит от acquired history, а status/scope опыта могли измениться, automatic recollection недостаточен: нужно опереться на current explicit experiential state. Это conditional verification, не ритуал чтения всей истории перед каждым ответом.
+
+Объединённый loop B1–B6 теперь:
+
+**acquired history/state → selective applicable retrieval → history-shaped bounded choice → reciprocal trajectory → observed consequence → revisable causal attribution → warranted local/broad/no revision → persistent revised history → later retrieval/choice.**
+
+**B6 завершена по saturation.**
+
