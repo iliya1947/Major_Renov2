@@ -252,3 +252,32 @@ This human evidence is only a source-domain analogy; it does not establish perso
 
 **B7 завершена on personality-support side.**
 
+## 22. B8 idiographic evidence boundary
+
+Human personality-development methodology supports a negative but important rule:
+
+**change should be assessed against the individual’s own longitudinal organization, and retrospective self-report alone is not enough.**
+
+For the AI project this transfers only methodologically:
+- compare participant to its own baseline/dynamics;
+- use repeated longitudinal behavior/provenance;
+- triangulate self-description with independent behavior/state evidence.
+
+It does not justify mapping the participant onto Big Five or human personality categories.
+
+## 23. B8 developmental threshold
+
+An isolated acquired preference or strategy can be genuine learning without constituting participant-level individualization.
+
+The stronger developmental claim requires multiple non-equivalent decisions linked through accumulated/revised history, such that earlier history-shaped choices partly create later experience and later choice structure.
+
+This is trajectory-level organization, not trait scoring.
+
+## 24. B8 avoids a target personality
+
+Human intervention research can demonstrate directed personality change, but such targeted change is not the model for this experiment.
+
+A preselected desired direction would itself undermine the claim of open individualization.
+
+**B8 завершена on personality-development side.**
+
