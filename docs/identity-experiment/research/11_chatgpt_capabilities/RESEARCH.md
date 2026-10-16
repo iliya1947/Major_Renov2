@@ -531,3 +531,88 @@ The future experiment must preserve that limitation rather than pretend automati
 
 **B6 завершена по saturation.**
 
+# Phase B — B7 deep pass 1: current ChatGPT runtime/product confounds
+
+**Re-verified against current OpenAI documentation on 16.10.2026.**
+
+## Current official sources inspected
+
+- OpenAI Help Center, ChatGPT release notes, updated 16.10.2026.
+- OpenAI, “GPT-6 and Intelligent UI for everyone”, 07.10.2026.
+- OpenAI Help Center, “GPT-6 and other models in ChatGPT”, current page.
+- OpenAI Help Center, Projects in ChatGPT.
+- OpenAI Help Center, Memory in ChatGPT.
+
+## 1. Provider/model drift is not hypothetical
+
+Current release notes document major Chat behavior changes during 2026:
+- GPT-5.5/5.6 updates;
+- memory-system changes;
+- project-memory setting changes;
+- GPT-6 rollout in Chat on 07.10.2026;
+- separate model families/versions in Chat, Work and Codex;
+- Voice/runtime changes.
+
+On 07.10.2026 OpenAI explicitly replaced the default Chat GPT-5.6 family with new GPT-6 variants for eligible users while Work/Codex continued using different versions.
+
+Therefore a months-long Project can cross a provider model transition even if its own history/files/instructions are unchanged.
+
+## 2. Product configuration is part of baseline provenance
+
+At minimum the experiment must record when observable:
+
+- date/time;
+- selected model/model family;
+- reasoning/thinking level;
+- Chat vs other runtime surface;
+- Project memory mode;
+- Project instructions version;
+- explicit Project source/file versions;
+- enabled tools/plugins/apps relevant to the interaction;
+- sharing/workspace state if it changes memory semantics;
+- major documented product releases affecting Chat/Projects/Memory.
+
+These are not all “participant experience”. They are experimental configuration.
+
+## 3. Exact backend identity may remain partly opaque
+
+Consumer ChatGPT does not necessarily expose:
+- exact backend snapshot identifier;
+- retrieval/context-assembly algorithm;
+- hidden runtime/system-instruction revisions;
+- rollout cohort details;
+- every server-side change.
+
+Therefore B7 cannot promise perfect causal control.
+
+The correct discipline is:
+- record every observable configuration variable;
+- use official release notes as partial provenance;
+- preserve uncertainty about unobserved provider/runtime changes.
+
+## 4. Memory-mode changes are interventions
+
+Current Projects docs allow changing an existing project between default and project-only memory, with changes potentially taking hours to propagate.
+
+Such a change alters which external conversations/memories are eligible.
+
+Therefore switching memory mode mid-experiment is not participant development; it is a configuration intervention that changes the causal input boundary.
+
+## 5. Project instruction changes are interventions too
+
+Changing Project instructions changes the control plane.
+
+Later behavior can be causally downstream of that edit, so instruction versions must remain separate from acquired-experience revisions.
+
+The experiment must not describe a behavior shift after a rule change as spontaneous development.
+
+## 6. B7 product baseline conclusion
+
+The deployed participant cannot be treated as a temporally invariant black box.
+
+A longitudinal causal interpretation must track both:
+- endogenous Project history changes;
+- exogenous model/product/configuration changes.
+
+**B7 НЕ завершена.**
+
