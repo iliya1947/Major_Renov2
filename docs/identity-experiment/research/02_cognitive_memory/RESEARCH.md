@@ -368,3 +368,99 @@ https://doi.org/10.1038/s41583-024-00893-z
 - external memory/offloading and metacognitive control
 
 не открыл новой самостоятельной memory domain beyond A1. Новое содержательно находится на **стыках уже найденных блоков** и требует добавить интегральные вопросы A2, после чего карта считается готовой для фазы B.
+
+# Phase B — B2: from episode to reusable, revisable acquired experience
+
+**Статус 16.10.2026:** B2 начата и НЕ завершена. Первый глубокий проход по gaps 5, 13, 15. Цель этого прохода — определить, что именно human memory literature позволяет считать episode/representation/generalization/revision, не превращая её в готовую архитектуру для LLM.
+
+## Реально просмотренные источники B2
+
+### Bailey & Smith (2024) — Event perception and event memory in real-world experience
+Nature Reviews Psychology 3:754–766
+https://www.nature.com/articles/s44159-024-00367-0
+
+**Фактически просмотрено:** abstract и доступный preview/reference structure статьи, включая sections/references по event segmentation, event models, temporal/causal organization и memory updating. Review, не LLM research.
+
+**Результат:** continuous experience не хранится естественно как один недифференцированный поток. Люди сегментируют его на events; event representation организует действия во времени, causal relations и context. Event boundaries одновременно помогают организовать memory и могут нарушать temporal continuity across boundaries.
+
+### Nolden et al. (2024) — Prediction error and event segmentation in episodic memory
+Neuroscience & Biobehavioral Reviews 157:105533
+https://doi.org/10.1016/j.neubiorev.2024.105533
+
+**Фактически просмотрено:** abstract и доступные section snippets/summary.
+
+**Результат:** prediction error и event segmentation участвуют в формировании episodic representations, но через partly overlapping mechanisms involving attention/working memory. Для B2 важно: boundary возникновения episode не обязана совпадать с later lesson/generalization.
+
+### Li, Johansson & Nikolaev (2025) — Hierarchical event segmentation of episodic memory in virtual reality
+npj Science of Learning 10:25
+https://www.nature.com/articles/s41539-025-00321-6
+
+**Фактически просмотрено:** abstract/available online sections.
+
+**Результат:** event structure может быть hierarchical: perceptual/spatial и conceptual boundaries по-разному структурируют sequence memory. Следовательно, «один episode» не имеет универсального фиксированного масштаба.
+
+### Zaki & Cai (2025) — Memory engram stability and flexibility
+Neuropsychopharmacology 50:285–293
+https://www.nature.com/articles/s41386-024-01979-z
+
+**Фактически просмотрено:** substantial open-access sections: abstract, introduction, consolidation, memory updating, forgetting, schema learning и memory-linking.
+
+**Результат:** memory representation динамична; consolidation, updating, reconsolidation, forgetting, schema learning и memory-linking сосуществуют. Extinction не всегда равна стиранию старого learning; old and new learning могут coexist. Systems consolidation часто сопровождается более gist-like representation, но сама literature спорит о precise mechanism. Schema learning показывает, что accumulated prior history меняет последующее learning.
+
+### Spens & Burgess (2024) — A generative model of memory construction and consolidation
+Nature Human Behaviour 8:526–543
+https://www.nature.com/articles/s41562-023-01799-z
+
+**Фактически просмотрено:** abstract/search-accessible summary; полный paper в текущем проходе не читался построчно.
+
+**Результат:** model формализует reconstructive memory: episodic recall сочетает unique features with schema-based predictions; с consolidation возрастает schema influence/distortion. Для B2 это важное ограничение: abstraction повышает reusability, но одновременно может потерять episode-specific exceptions/provenance.
+
+### Xue (2022) — From remembering to reconstruction: The transformative neural representation of episodic memory
+Progress in Neurobiology 219:102351
+https://doi.org/10.1016/j.pneurobio.2022.102351
+
+**Фактически просмотрено:** abstract/highlights доступного journal record.
+
+**Результат:** memory representations continuously transform through abstraction, integration, differentiation and reorganization. Coactivation overlapping events может вести либо к integration, либо differentiation, либо updating — нет универсального правила «несколько похожих эпизодов автоматически дают один schema».
+
+## Первый вывод B2 по human memory
+
+Human literature не поддерживает идею, что experience unit — это:
+- raw message/event;
+- готовый lesson;
+- неизменяемый summary;
+- обязательно один фиксированный temporal chunk.
+
+Лучше различить **как минимум три разных объекта исследования**:
+
+1. **Episode/event representation** — ограниченный фрагмент происходившего, организованный context/time/action relations.
+2. **Interpretive relation** — что participant/system считает этот episode означающим, включая causal attribution/expectation; это уже не сам episode.
+3. **Reusable generalized understanding** — relation/pattern, который переносится за пределы исходного episode и поэтому должен иметь scope/conditions/exceptions.
+
+Это conceptual distinction, НЕ финальная memory schema.
+
+## Критический результат: abstraction ≠ compression
+
+Memory research показывает, что generalization полезна именно потому, что выделяет structure across experiences. Но schema/gist influence способен:
+- стирать детали;
+- заполнять пробелы prior knowledge;
+- создавать distortions;
+- overgeneralize beyond supporting episodes.
+
+Следовательно, B2 не может принять «summary = acquired experience». Lossy summary без связи с episode делает позднюю проверку условий/исключений принципиально слабее.
+
+## Revision lifecycle — пока только conceptual space
+
+Zaki & Cai и broader reconsolidation/extinction literature дают сильную причину отказаться от overwrite-only view.
+
+New evidence может:
+- укрепить прежнее understanding;
+- изменить его;
+- сузить scope;
+- создать exception/context-specific alternative;
+- оставить competing representations;
+- сделать старое знание inactive/obsolete, не уничтожая historical fact that it once guided behavior.
+
+B2 должна ещё исследовать precise lifecycle terminology и provenance before declaring a final principle.
+
+**B2 НЕ завершена.**
