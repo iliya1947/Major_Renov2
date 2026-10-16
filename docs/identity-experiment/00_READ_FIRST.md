@@ -122,7 +122,9 @@
 
 **A2 — текущий статус:** **A2 завершена для всех 12 областей.** A2 №12 «Prompt engineering и проектные инструкции» завершена 16.10.2026 как повторная финальная картография после межобластной сверки. Итоговая карта №12 содержит 308 вопросов A1 + 32 уточняющих вопроса A2 (№309–340), ownership corrections и final coverage audit. В A2 усилены process-vs-outcome instructions, hidden persona/value injection, no-update/no-lesson, reflection vs evidence, stable rules vs evolving historical files, user authority vs social meaning, compression/retrieval wording, long-horizon instruction robustness и governing-rule versioning. Финальные project instructions НЕ проектировались.
 
-**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** следующим этапом провести **финальную межобластную сверку после A2** по всем 12 обновлённым картам. Не переходить к фазе B, пока эта сверка не доведена до содержательного завершения. После финальной сверки — фаза B deep research.
+**ФИНАЛЬНАЯ МЕЖОБЛАСТНАЯ СВЕРКА ПОСЛЕ A2 — текущий статус:** **этап 1 завершён** и сохранён в `research/A2_CROSS_AREA_REVIEW.md`. Проверены финальные границы, residual overlaps и true duplicates после A2. Структура из 12 областей остаётся валидной; merge/split не требуется. Остаточные пересечения в основном являются causal interfaces разных уровней, а не дублирующими областями. Фаза B ещё НЕ начата.
+
+**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** этап 2 финальной межобластной сверки — **dependencies and ownership after A2**: сверить все 20 исходных cross-area gaps с финальными A2-картами, проверить primary/support ownership, найти orphan/duplicate ownership и определить, появились ли после A2 новые cross-area gaps, которым нужен primary owner. К фазе B не переходить.
 
 **Полный рабочий регламент:** [05_WORKFLOW.md](05_WORKFLOW.md). Его читать после этой памятки при восстановлении нового чата или после смены модели.
 
