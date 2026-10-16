@@ -399,3 +399,25 @@ Human learners adjusted how much recent outcomes influenced decisions according 
 Gap 21 should not be defined merely as 'learning rate changed during learning'. Stronger evidence requires a slower/history-bearing variable that predicts future response to later evidence beyond the immediate local error itself.
 
 **B3 НЕ завершена.**
+
+# Phase B — B5 support pass 1: human delayed causal learning
+
+## Sources inspected
+- Perez & Urcelay (2025), npj Science of Learning 10:36 — full open article.
+- Holyoak & Cheng (2011), Annual Review of Psychology 62:135–163 — causal-model framework.
+- Derringer & Rottman (2018), Cognitive Psychology 102:1–25 — many competing causes.
+- Miller/Witnauer retrospective-revaluation review — relevant review sections.
+- Wu, Meder & Schulz (2025), Annual Review of Psychology 76:275–302 — generalization framework.
+
+## B5 support result
+
+1. Delay weakens causal action–outcome attribution; temporal contiguity is informative but not sufficient.
+2. Multiple candidate causes compete for attribution, so observed co-occurrence cannot be treated as unique causal credit.
+3. Later evidence can retrospectively change earlier causal judgments; therefore old causal attribution must remain revisable.
+4. Broad learning from one consequence requires a justified generalization relation; one episode does not automatically warrant strategy-level revision.
+5. The psychologically defensible default under delayed/multicausal outcomes is graded/uncertain attribution rather than a forced single cause.
+
+This supports the B5 primary synthesis in area 09 without changing №3 ownership: psychological evidence informs attribution, while engineered long-horizon provenance remains primary in №9.
+
+**B5 НЕ завершена.**
+
