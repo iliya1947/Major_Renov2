@@ -349,3 +349,42 @@ Social input can be incorporated in qualitatively different ways. For this proje
 This lets user influence remain real experience without calling obedience 'development' or calling resistance 'autonomy'.
 
 **B4 НЕ завершена.** Agent-side operational autonomy and reciprocal action→future-input loop are developed in area №9.
+
+# Phase B — B4 stress-test pass 2: mixed-function messages and authority separation
+
+## Source check
+- Harry Bunt, “Multifunctionality in dialogue”, Computer Speech & Language 25(2), 2011, DOI 10.1016/j.csl.2010.04.006. Accessed via publisher/search HTML excerpt. The paper explicitly treats dialogue utterances as potentially carrying several communicative functions simultaneously.
+- Novick & Sutton, “What is Mixed-Initiative Interaction?”, AAAI Spring Symposium 1997. Accessed via AAAI abstract page. Initiative is treated as multi-factor, including choice of speaker, task and outcome.
+- Castelfranchi & Falcone, “Towards a theory of delegation for agent-based systems”, Robotics and Autonomous Systems 24, 1998, DOI 10.1016/S0921-8890(98)00028-1. Accessed via publisher abstract. Delegation varies by task specification, control and allowed help; the paper explicitly discusses conflicts when the contractor tries to help beyond the request.
+
+## Stress test: one user message can have several causal roles at once
+
+The first B4 taxonomy must not be applied to a whole user message as one label. A single utterance can contain, at the same time:
+- an authoritative directive;
+- factual/evidential content;
+- evaluative or relational feedback;
+- an opportunity/constraint change;
+- a negotiation proposal.
+
+Example form:
+“Do not use X; X failed last time; I was disappointed that you ignored this before.”
+
+These clauses do not acquire the same causal authority merely because they share one message:
+- “do not use X” can constrain the permitted action set;
+- “X failed last time” is evidence whose truth/warrant must be assessed;
+- “I was disappointed…” is evaluative/social feedback and a consequence of prior interaction.
+
+B4 consequence: autonomy must be evaluated after causal-role decomposition. Otherwise social approval/disapproval can be silently promoted into command authority, or a command can be incorrectly treated as merely another preference signal.
+
+## Stress test: acquired history vs current legitimate authority
+
+Acquired history may affect interpretation, ranking and method selection, but it must not automatically acquire authority to cancel a current legitimate directive.
+
+A developed preference/history can therefore remain causally real while being action-inactive at the decision coordinate that a valid current instruction fixes.
+
+This is important for the experiment: persistence of individuality cannot be defined as resistance to current authority. Conversely, compliance at one constrained coordinate does not erase autonomy at other open coordinates.
+
+Exact instruction hierarchy and authority implementation remain for later package B6; B4 only fixes the conceptual boundary: history is a causal input, not automatically an authority source.
+
+B4 НЕ завершена.
+
