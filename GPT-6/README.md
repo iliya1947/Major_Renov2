@@ -33,6 +33,7 @@
 15. [15-V-SPEC-DERIVED-COVERAGE.md](15-V-SPEC-DERIVED-COVERAGE.md) — проверка класса V на внешнем CommonMark corpus; узкий кандидат, не внедрён в Vico Forum.
 16. [16-COMPARATIVE-ARCHITECTURE-MAP.md](16-COMPARATIVE-ARCHITECTURE-MAP.md) — совместно принятая архитектурная основа G/E/O/V с уточнением C0–C3.
 17. [17-C2-TARGET-GAP-TRACE-AUDIT.md](17-C2-TARGET-GAP-TRACE-AUDIT.md) — исторический trace-аудит C2 после red CI; **ошибочное продолжение после доставленного FAIL пока не доказано**.
+18. [18-COST-AND-FREQUENCY-PRIORITIZATION.md](18-COST-AND-FREQUENCY-PRIORITIZATION.md) — документируемые затраты G/E/O/V и quote CI-loop; без ложных выводов о частоте модели и предотвратимой цене.
 
 ## Совместный результат
 
