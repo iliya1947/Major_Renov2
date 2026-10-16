@@ -365,3 +365,37 @@ Conversely, repeated individually weak observations may accumulate into strong e
 Это всё ещё conceptual principle space, не final project instruction.
 
 **Следующий вопрос внутри B1:** формализовать границу между epistemic/procedural criterion и скрытым value criterion и проверить её на LLM memory/update systems. B1 НЕ завершена.
+
+# Phase B — B3 support: history changes future learning rate
+
+**Статус:** support evidence for B3 gap 21; B3 НЕ завершена.
+
+### Simoens et al. (eLife 2026) — Two time scales of adaptation in human learning rates
+https://doi.org/10.7554/eLife.108223
+
+**Фактически просмотрено:** full accessible eLife article sections covering design, behavioural/model results and Discussion.
+
+Participants alternated among environments requiring different optimal learning rates. The crucial design feature: first-trial outcome distributions were matched across environments, so environment-specific differences in the next update could not be attributed to current feedback. Across two experiments, participants developed distinct environment-specific initial learning rates that became stronger over time; within a block, learning rate also changed rapidly based on local prediction errors.
+
+**B3-результат:** this is unusually direct human evidence for two timescales:
+- first-order/local adaptation: current prediction errors alter current estimates/learning rate;
+- second-order/slower meta-learning: accumulated history with a context changes the initial responsiveness used when that context is revisited.
+
+The study therefore supplies an empirical criterion for 'history changed future changeability': before new diagnostic feedback in the revisited environment, prior history already changes how strongly the next evidence is incorporated.
+
+Important limitation: the learned quantity is task-specific learning rate in an explicit estimation task, not personality development or value formation.
+
+### Behrens et al. (2007) — Learning the value of information in an uncertain world
+https://www.nature.com/articles/nn1954
+
+**Фактически просмотрено:** abstract/summary.
+
+Human learners adjusted how much recent outcomes influenced decisions according to inferred environmental volatility.
+
+**B3-результат:** responsiveness to the same kind of prediction error is conditional on a higher-level estimate of environmental dynamics; update gain is itself context/history-sensitive.
+
+## B3 distinction for psychological learning
+
+Gap 21 should not be defined merely as 'learning rate changed during learning'. Stronger evidence requires a slower/history-bearing variable that predicts future response to later evidence beyond the immediate local error itself.
+
+**B3 НЕ завершена.**
