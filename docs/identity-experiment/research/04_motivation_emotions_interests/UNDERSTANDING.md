@@ -368,3 +368,55 @@ Negative: поверх prediction-error paper всё равно задаёт pro
 Но эта граница ещё не полностью определена: procedural rule тоже может скрыто оптимизировать конкретный outcome. Это следующая точка B1.
 
 **B1 НЕ завершена.**
+
+
+## 31. Финальный принцип B1: significance без preset value function
+
+Три глубоких прохода B1 дали более точную границу.
+
+**Значимость события нельзя определять одной внутренней шкалой.** Нужно различать по causal role:
+
+- **orienting/candidate attention:** событие необычно, неожиданно, неопределённо или связано с текущим контекстом и поэтому заслуживает дополнительной обработки;
+- **epistemic update warrant:** событие действительно меняет relative support существующих interpretations/expectations с учётом provenance, reliability, dependence, uncertainty и alternatives;
+- **motivational/trajectory significance:** в истории формируется устойчивое relation к теме/действию — interest, utility, commitment, preference или другое motivational meaning.
+
+Эти роли частично независимы. Никакая из первых двух не доказывает третью.
+
+### Что считать допустимым fixed process prior
+
+Полностью assumption-free development невозможен. Любой процесс должен иметь правила обработки evidence.
+
+Поэтому критическая граница проходит не между «есть fixed rule» и «нет fixed rule», а между:
+
+1. **experiment-enabling procedural invariants:** как различать observation/interpretation, учитывать provenance, uncertainty, conflicting evidence, permit no-update and revision;
+2. **substantive authored preference/objective:** какие темы/состояния заранее объявлены важными, желательными, высокоценными или должны максимизироваться.
+
+Процедурное правило допустимо для нашего замысла только пока оно content-neutral при сохранении одинаковой evidence relation, direction-symmetric и не превращает engineering utility/reward в participant value.
+
+### Что не подходит как естественная significance
+
+B1 отвергла как самостоятельное основание собственной значимости:
+
+- novelty/surprise alone;
+- retrieval frequency/recency alone;
+- semantic similarity alone;
+- prompt-generated «importance/poignancy» score;
+- LLM self-reflection without independent evidence;
+- externally specified benchmark/task reward;
+- user praise/request by itself;
+- repeated occurrence without checking dependence/provenance.
+
+Все они могут быть реальными causal inputs или resource-management signals, но не автоматически own enduring value/interest.
+
+## 32. B1 handoff
+
+B1 передаёт следующему пакету не memory architecture, а **selection/update principle space**:
+
+- candidate attention can be broad and cheap;
+- durable revision requires evidence-sensitive warrant relative to accumulated history;
+- legitimate no-update is first-class;
+- motivational significance cannot be inferred from update or storage priority;
+- external/user influence remains part of history, but its authority/origin must stay distinguishable;
+- engineering resource selection must not silently become personality/value selection.
+
+**B1 достигла saturation и завершена. B2 здесь не начиналась.**
