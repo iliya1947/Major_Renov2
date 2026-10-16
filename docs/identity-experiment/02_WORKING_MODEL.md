@@ -150,4 +150,33 @@ B4 исправляет старую слишком грубую формули�
 - не нужно создавать новизну или разногласие ради демонстрации личности.
 
 B4 завершена по saturation; точные механизмы instruction authority/retrieval относятся к B6, доказательство causal history effect — к B8.
+## Phase B / B5 — причинный мост от последствия к опыту — 16.10.2026
 
+B5 исправляет слишком прямую старую схему «собственный выбор → последствия → приобретённый опыт».
+
+Между consequence и revision нужен отдельный причинный этап:
+
+**observed consequence → revisable causal-contribution attribution → evidence-sensitive revision/no-update.**
+
+Причина: terminal success/failure не показывает автоматически качество прежнего решения. Успех может быть следствием user rescue/удачи; провал — exogenous failure; раннее действие может быть только enabling cause; несколько путей могут совместно или избыточно вести к одному исходу.
+
+Финальные различения B5:
+
+1. **Outcome ≠ causal attribution.** То, что произошло, хранится отдельно от предположения, почему это произошло.
+2. **Attribution ≠ evaluation/significance.** Даже хорошо установленный causal contribution ещё не задаёт, насколько событие значимо для durable revision; это граница B1.
+3. **Temporal precedence ≠ sufficient causal evidence.** Задержка и intervening events увеличивают ambiguity.
+4. **Participant/user/environment contributions can coexist.** Не требуется выбирать одну «главную» причину.
+5. **Reciprocal interaction is part of the path.** Ранний participant choice может изменить user response, который затем меняет следующую информацию/choice и конечный outcome.
+6. **Decision quality ≠ realized outcome quality.** Нужно учитывать information available at choice time и exogenous/luck contributions.
+7. **Counterfactual attribution is baseline-dependent.** Нереализованная альтернатива обычно остаётся гипотетической; generated hindsight не превращает её в observation.
+8. **Causal uncertainty is multidimensional:** outcome observation, path/structure, counterfactual baseline, contribution strength и generalization scope могут иметь разную определённость.
+9. **Revision scope follows causal support.** Episode-specific evidence → local update; broader strategy update требует broader causal support; unresolved attribution → legitimate no durable revision.
+10. **Later revaluation is allowed.** Episode remains factual even if old attribution becomes narrowed/contradicted; historical fact that old attribution affected past choices can remain true.
+
+Итоговый developmental loop теперь:
+
+**acquired history/state → bounded/history-shaped choice → participant↔user/environment trajectory → observed consequence → revisable causal-contribution attribution → local / broader / no durable revision → changed acquired history → later choice.**
+
+Это остаётся рабочим причинным принципом подготовки, а не утверждённой финальной инструкцией будущего проекта.
+
+**B5 завершена по saturation.**
