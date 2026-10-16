@@ -1106,3 +1106,154 @@ Only the part of the prior understanding supported by that causal hypothesis is 
 
 **B5 НЕ завершена.**
 
+# Phase B — B5 stress-test pass 2: luck, rescue, enabling causes and overdetermination
+
+Additional source:
+- Halpern & Pearl (2005; arXiv version cs/0011012), “Causes and Explanations: A Structural-Model Approach. Part I: Causes”. Structural-model examples show why actual causation depends on modeled variables, background conditions and causal process; simple but-for dependence fails in redundant/overdetermined cases.
+
+## Case 1. Good outcome after a bad decision because the user/environment rescued it
+
+Terminal success does not validate the earlier decision.
+
+The causal decomposition can instead be:
+- earlier action created a vulnerable/problem state;
+- user/environment intervention repaired or bypassed it;
+- rescue action contributed positively to the final outcome;
+- the participant’s original choice may have had zero or negative contribution relative to a better alternative.
+
+The episode may support a local lesson such as “this approach required external correction under these conditions”, not “this approach succeeded”.
+
+This is a direct reason to separate:
+**decision quality at the information state where the choice was made**
+from
+**realized terminal outcome**.
+
+## Case 2. Bad outcome after a good decision because of exogenous failure
+
+Likewise, terminal failure does not automatically discredit the action.
+
+If the chosen action was well-supported given available information and the failure came from an exogenous transition, hidden state or stochastic event, the outcome may update:
+- uncertainty/risk expectations about the environment;
+- reliability of a tool/channel;
+- need for contingency planning;
+
+without reversing the original action preference.
+
+Therefore causal credit should be about the action’s contribution to the outcome distribution/trajectory, not merely the sign of one realized outcome.
+
+## Case 3. Necessary but not sufficient enabling action
+
+An early action can have zero immediate reward and still be causally important because it enables a later branch.
+
+B5 therefore needs to preserve mediated/enabling chains:
+A changes state S;
+S makes B possible;
+B plus other conditions produces O.
+
+The warranted lesson is conditional:
+“A enabled O through S given later B/conditions”,
+not the stronger unsupported:
+“A by itself produces O”.
+
+## Case 4. Multiple sufficient or redundant paths
+
+Simple but-for reasoning can fail when two different causal paths are each sufficient for the same outcome.
+
+If removing A would not change O because B independently produces O, it does not follow that A was causally irrelevant.
+
+Structural-causal literature treats overdetermination as a canonical problem for naive counterfactual tests.
+
+B5 consequence:
+- absence of simple but-for dependence may lower confidence but cannot by itself force zero credit;
+- attribution should preserve alternative sufficient paths and avoid pretending that a unique cause exists.
+
+## Case 5. Mid-trajectory strategy switch
+
+Suppose strategy A created the initial state, then the participant switched to B, and the episode succeeded.
+
+Episode-level “success” is not evidence that both strategies worked.
+
+Attribution needs phase/transition provenance:
+- which state was inherited from A;
+- why the switch occurred;
+- what B changed;
+- whether success depended on A’s setup, B’s correction, both, or neither.
+
+If that cannot be resolved, broad strategy-level lesson extraction should be withheld.
+
+## Case 6. Delayed social feedback
+
+A later user statement such as “that worked well” or “that was frustrating” is real evaluative/consequence evidence.
+
+But it usually does not identify which earlier action caused the result.
+
+B4 causal-role separation survives:
+- evaluation can establish outcome/user impact;
+- causal attribution still needs an independent link to prior choices.
+
+Therefore social feedback should not be converted directly into causal credit merely because it is emotionally or relationally salient.
+
+## Case 7. Repeated outcomes with a hidden common cause
+
+Repeated A→O episodes can still mislead when all repetitions share a hidden common cause C.
+
+This combines B1 and B5:
+- repetition count is not evidence independence;
+- causal credit depends on whether A varies independently enough from competing causes to distinguish their contributions.
+
+A repeated confounded pattern should strengthen confidence less than genuinely discriminating evidence.
+
+## Case 8. Later evidence changes old attribution
+
+Retrospective revaluation means a causal-credit record must remain separable from the episode itself.
+
+Later evidence can yield:
+- episode remains factual;
+- original attribution becomes weaker, stronger, narrowed, or contradicted;
+- historical fact that the old attribution influenced past choices remains true.
+
+This directly reuses the B2 distinction between historical causal influence and current evidential authority.
+
+## Second-pass refinement: causal contribution is neutral, not reward valence
+
+The word “credit” can misleadingly suggest praise/reward.
+
+For this project the safer conceptual object is **causal contribution attribution**.
+
+It answers:
+“what contributed to producing this observed consequence, and with what uncertainty?”
+
+Only later do other processes decide whether the consequence is:
+- favorable/unfavorable;
+- significant;
+- worthy of durable revision.
+
+This prevents reward semantics from leaking into the experiment.
+
+## Revised B5 candidate standard
+
+A causal-contribution attribution should preserve at least these conceptual distinctions:
+
+1. **Observed outcome** — what actually happened, separate from evaluation.
+2. **Candidate antecedents** — participant actions, user actions, environment/background conditions.
+3. **Path relation** — direct, mediated/enabling, joint/redundant, competing, exogenous.
+4. **Information-at-choice** — what was knowable when the participant acted.
+5. **Counterfactual comparison** — which plausible alternative/baseline supports the causal claim.
+6. **Alternative causes/confounding** — what else could explain the outcome.
+7. **Attribution uncertainty** — how strongly the causal link is warranted.
+8. **Revision scope** — local episode/action, broader strategy, or no durable update.
+9. **Revision lineage** — later evidence may change attribution without deleting the episode/history.
+
+This is conceptual structure, not yet a file schema or final project instruction.
+
+## Remaining B5 work
+
+Still need targeted deep pass on:
+- substrate-neutral causal chains/path dependence from area 07;
+- exact distinction between causal attribution uncertainty and generic epistemic uncertainty;
+- support from instruction-design area 12 for avoiding mandatory post-hoc reflection/narrative;
+- whether mediated user responses create special endogenous-confounding cases;
+- saturation test against delayed social/interactive trajectories.
+
+**B5 НЕ завершена.**
+
