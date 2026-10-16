@@ -404,3 +404,45 @@ History-dependent change in M is a legitimate gap-21 effect even though F and ba
 This formulation prevents two opposite errors: declaring any context difference 'meta-learning', and wrongly requiring base-model weight change for meta-change.
 
 **B3 support side reaches saturation; final cross-domain synthesis belongs to area №7.**
+
+# Phase B — B5 support pass 1: what RL credit assignment can and cannot transfer
+
+## Sources inspected
+- Pignatelli et al. (2023), arXiv:2312.01072 — full accessible survey text.
+- Zhang (2026), arXiv:2604.09459 — full accessible survey of credit assignment for reasoning/agentic LLM RL.
+- Li et al. (2026), arXiv:2607.16999 — Counterfactual Shapley Credit Assignment preprint.
+
+## Formal boundary
+
+RL credit assignment is valuable because it exposes:
+- temporal delay;
+- sparse influence;
+- stochastic/luck effects;
+- partial observability;
+- counterfactual dependence;
+- baseline dependence;
+- heterogeneity of action importance.
+
+But canonical RL starts with a reward/return objective. It therefore answers:
+**which actions contributed to this defined outcome/return?**
+
+It does not answer:
+**which outcomes ought to count as meaningful acquired experience in an experiment with no preset value function?**
+
+For this project:
+- B1 determines revision warrant/significance;
+- B5 can borrow causal/temporal attribution concepts;
+- reward redistribution must not become a hidden value system.
+
+## Important technical transfer
+
+Recent agentic-RL work reinforces three distinctions useful to B5:
+
+1. **decision quality vs outcome quality** under partial observability — an apparently bad result may follow from a reasonable action given available information;
+2. **bifurcation points vs routine actions** — only a small subset of choices may materially alter the trajectory;
+3. **skill vs luck** — observed success can contain exogenous stochastic contribution that should not be credited to the participant.
+
+Counterfactual-Shapley work additionally shows that causal credit is baseline-relative; the chosen counterfactual policy changes the attribution.
+
+**B5 НЕ завершена.**
+
