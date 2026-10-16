@@ -566,3 +566,26 @@ This multidimensional view explains why `narrowed` is not the same as `contradic
 After targeted searches on one-shot learning, integration vs separation, exception learning, memory transformation, reconstruction/distortion, active forgetting and episodic↔generalized coexistence, new sources were refining the same causal classes rather than adding a missing class. Human-memory contribution to B2 is saturated at principle-space level.
 
 **B2 final cross-domain synthesis is recorded in UNDERSTANDING; no B3 work is included here.**
+
+# Phase B — B6 support pass 1: compression, exceptions and functional forgetting
+
+B6 uses the B2 human-memory synthesis as a constraint on retrieval/compression.
+
+Adaptive compression can be useful, but a derived semantic/generalized representation should not erase the episodic evidence needed to:
+- recover conditions;
+- inspect exceptions;
+- revise a false attribution;
+- distinguish current truth from historical influence.
+
+For B6, **compression is a derived view over evidence**, not an authority upgrade.
+
+A summary such as “X works” is invalidly stronger than the underlying conditional relation “X worked under C; exception E remains unresolved”.
+
+Functional forgetting/obsolescence also becomes a retrieval rule:
+- reduce ordinary retrieval/action-guidance of stale or irrelevant material;
+- preserve enough provenance/history for audit and later reactivation when needed.
+
+This differs from accidental deletion/loss.
+
+**B6 НЕ завершена.**
+
