@@ -343,3 +343,12 @@ A2 не означает глубокого решения этих вопрос
 ## Phase B status
 
 **B1 gaps 6+7 завершена 16.10.2026 по saturation.** Роль №3: legitimate no-update / evidence-sensitive durable revision. Итог: no-update — first-class warranted outcome; update зависит от diagnosticity, provenance/reliability, evidence dependence, uncertainty и alternatives, а не от surprise/intensity/repetition count. Подробности: RESEARCH и UNDERSTANDING. Следующий общий пакет: B2.
+## Phase B — B5 final 16.10.2026
+- B5 delayed causal credit completed by saturation.
+- Later outcome is not converted directly into a lesson; it first supports a revisable causal-contribution attribution.
+- Temporal order alone is insufficient; preserve competing/direct/mediated/enabling/joint/redundant/exogenous paths and attribution uncertainty.
+- Decision quality is separate from realized terminal outcome; luck, rescue and exogenous failure must not be mislearned.
+- Retrospective LLM explanation is a candidate attribution, not ground truth.
+- Revision scope follows causal support: local / broader / no durable revision.
+- Reciprocal participant↔user/environment feedback can itself be part of the causal path.
+- Remaining persistence/retrieval/authority mechanics belong to B6.
