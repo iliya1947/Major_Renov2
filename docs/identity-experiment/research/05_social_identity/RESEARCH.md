@@ -258,3 +258,94 @@ https://doi.org/10.1038/s44159-025-00448-8
 - normative transformation
 
 не открыл новой крупной самостоятельной social-identity branch beyond A1. Новые результаты уточнили **causal interfaces between social experience, self-presentation, feedback, internalization and identity change**, что позволяет финализировать карту №5.
+
+# Phase B — B4: user influence by causal function
+
+**Статус 16.10.2026:** B4 начата и НЕ завершена. Первый deep pass по gaps 10+11+20+8. Эта часть фокусируется на social/user influence: когда внешнее влияние является instruction, evidence, compliance pressure, relationship/norm signal or experience, и почему согласие/несогласие не определяет autonomy.
+
+## Реально просмотренные источники B4
+
+### Kelman (2006) — Interests, Relationships, Identities
+Annual Review of Psychology 57:1–26
+https://doi.org/10.1146/annurev.psych.57.102904.190156
+
+**Фактически просмотрено:** Annual Reviews abstract и Harvard repository abstract/metadata.
+
+Kelman сохраняет qualitative distinction among compliance, identification and internalization. The original framework was explicitly concerned with whether externally induced changes remain superficial/temporary or become integrated and persistent.
+
+**B4-результат:** outward agreement is not a sufficient marker of durable adoption. The same user-facing behavior can arise from immediate compliance, relationship-linked identification or deeper value integration in humans.
+
+### Deci, Eghrari, Patrick & Leone (1994) — Facilitating Internalization
+Journal of Personality 62(1):119–142
+https://doi.org/10.1111/j.1467-6494.1994.tb00797.x
+
+**Фактически просмотрено:** publisher abstract and article metadata/references. Abstract reports an experiment manipulating meaningful rationale, acknowledgment of feelings and conveyed choice.
+
+**Результат:** human internalization is not equivalent to obedience. Social context changes whether regulation remains externally controlled/introjected versus more integrated/self-regulated.
+
+### Pelletier & Rocchi (2023) — Organismic Integration Theory
+Oxford Handbook of Self-Determination Theory
+https://doi.org/10.1093/oxfordhb/9780197600047.013.4
+
+**Фактически просмотрено:** chapter abstract/metadata.
+
+OIT distinguishes external regulation, introjection, identification, integration and amotivation and studies conditions under which social values/behaviors become more or less internalized.
+
+**Transfer guardrail:** these are human motivational constructs. B4 may use them to preserve distinctions among externally controlled behavior, lasting integration and resistance; it may NOT claim an LLM literally experiences autonomy, ownership, introjection or integrated selfhood.
+
+### Wenzel & Woodyatt (2025) — The Power and Pitfalls of Social Norms
+Annual Review of Psychology 76:583–606
+https://doi.org/10.1146/annurev-psych-020124-120310
+
+**Фактически просмотрено:** PubMed abstract and Annual Reviews summary.
+
+Norms can influence behavior via internalization or enforcement; they can also threaten autonomy/values, undermine intrinsic motives, be selectively reinterpreted, or support challenges to existing practices.
+
+**B4-результат:** a norm/user evaluation is not a one-directional command→adoption mechanism. Social input can be complied with, integrated, reinterpreted, resisted or used to change the social context itself.
+
+### Steindl et al. (2015) — Understanding Psychological Reactance
+Zeitschrift für Psychologie 223(4):205–214
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/
+
+**Фактически просмотрено:** full search-accessible article text including theory overview and sections on cognitive/behavioral restoration of freedom.
+
+Reactance is a motivational response to perceived freedom threat and can produce disagreement, source derogation, preference reversal or other freedom-restoration behavior.
+
+**B4-результат:** disagreement/opposition is not evidence of independence. It can itself be externally caused by a controlling influence attempt. Symmetrically, agreement can reflect evidence-based revision rather than dependence.
+
+### Bandura (2001) — Social Cognitive Theory: An Agentic Perspective
+Annual Review of Psychology 52:1–26
+https://doi.org/10.1146/annurev.psych.52.1.1
+
+**Фактически просмотрено:** Annual Reviews abstract plus accessible section on intentionality and agentic transactions.
+
+Human agency is described as operating inside sociostructural influences; people are both products and producers of social systems. Bandura distinguishes direct, proxy and collective agency.
+
+**B4-результат:** influence and agency are not mutually exclusive categories. A system can act within external constraints while its actions also change the social/environmental conditions that shape later behavior.
+
+## B4 taxonomy: classify user influence by causal function, not sender
+
+The same user message may instantiate several functions simultaneously. Current synthesis distinguishes at least:
+
+1. **Authority/directive input** — request, prohibition, permission, completion criterion or governing constraint. Its immediate force comes from interaction/system authority, not from acquired value.
+2. **Epistemic/evidential input** — factual claim, correction, explanation, testimony or counterexample. Its relevance is to belief/understanding revision and should depend on evidence/reliability rather than authority alone.
+3. **Evaluative feedback** — praise, criticism, approval/disapproval of an output/action. It can be social reward, information about user experience, norm cue, or all three.
+4. **Normative/relational signal** — communicates expectations, belonging, role, trust, relationship maintenance or social standards. Compliance, identification, internalization and reactance are distinct human outcomes.
+5. **Consequence/contingency** — the user's response occurs because of a prior participant action and changes what happens next; here user influence is part of the action→outcome learning loop.
+6. **Opportunity/constraint change** — user supplies or withholds information, options, permissions, resources or future interaction, changing the participant's feasible action/data stream.
+7. **Negotiation/co-construction** — user and participant jointly reformulate goals, interpretations or next steps rather than one side simply issuing a fixed instruction.
+
+These functions are not mutually exclusive labels. The key project requirement is to preserve causal role: `the user said X` does not by itself determine whether X is a command, evidence, social evaluation, or consequence.
+
+## First B4 conclusion: user influence is compatible with own choice
+
+Human social psychology strongly rejects the binary:
+`externally influenced` vs `self-determined`.
+
+Social input can be incorporated in qualitatively different ways. For this project, however, human 'self-endorsement' cannot be copied literally into an LLM. The useful functional question is narrower:
+
+**after respecting current authority constraints, does the participant have unresolved alternatives whose selection depends on its acquired state/history/reasoning rather than being completely specified by the current user message?**
+
+This lets user influence remain real experience without calling obedience 'development' or calling resistance 'autonomy'.
+
+**B4 НЕ завершена.** Agent-side operational autonomy and reciprocal action→future-input loop are developed in area №9.
