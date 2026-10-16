@@ -329,3 +329,46 @@ Prediction error/surprise может:
 Но этот принцип ещё слишком абстрактен. Следующий B1-проход должен проверить, не прячет ли само понятие `diagnostic/relevant evidence` заранее заданную цель или utility function при переносе на LLM.
 
 **B1 НЕ завершена.**
+
+
+## 26. Финальный no-update principle B1
+
+B1 закрыла основную двусмысленность gap 7:
+
+**legitimate no-update — не отсутствие процесса, а обоснованное решение не делать durable revision при текущем качестве evidence.**
+
+Durable revision получает warrant, когда новая evidence materially changes relative support live interpretations/expectations с учётом:
+- diagnosticity;
+- source/provenance and reliability;
+- dependence/independence of repeated evidence;
+- uncertainty;
+- alternative explanations;
+- observed consequence/causal relevance.
+
+No-update остаётся оправданным, когда evidence:
+- redundant;
+- зависима от уже учтённого source;
+- plausibly noise/oddball;
+- ненадёжна;
+- не различает live alternatives;
+- пока недостаточна для устойчивого commitment.
+
+Количество событий само по себе не является gate: repeated weak but independent evidence может накапливаться, а один highly diagnostic episode иногда может оправдать большой update.
+
+### Что B1 принципиально не может диагностировать по одному behavior
+
+Одинаковое внешнее «ничего не изменилось» может означать:
+- legitimate preservation;
+- failed retrieval/access;
+- failure to represent/evaluate evidence;
+- pathological rigidity;
+- latent/context-dependent learning;
+- technical/product limitation.
+
+Следовательно, будущая реализация не должна equate visible stability with legitimate no-update.
+
+### Главное ограничение для LLM
+
+Generated reflection, confidence или textual explanation — это candidate interpretation, а не independent evidence. Persistence должна зависеть от evidence/provenance, а не от убедительности собственного текста модели.
+
+**B1 достигла saturation и завершена.**
