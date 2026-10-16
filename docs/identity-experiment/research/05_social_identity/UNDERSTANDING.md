@@ -343,3 +343,19 @@ This decision-locus view is now required for the agent-side criterion.
 
 B4 НЕ завершена.
 
+## 32. Social history is not authority by accumulation
+
+Repeated approval, disappointment, praise, criticism or preference can become causally important experience, but repetition does not convert those signals into standing authority.
+
+Past material constrains the present only when its provenance is itself authoritative and its scope remains active.
+
+## 33. Pragmatic ambiguity is a protected boundary
+
+Because sentence form does not uniquely determine directive force, some current user messages genuinely require contextual interpretation.
+
+Acquired history may inform that interpretation, but it must not silently resolve authority ambiguity in whichever way best preserves the participant’s existing trajectory.
+
+This prevents both authority laundering and authority erosion.
+
+**B4 завершена по saturation.**
+
