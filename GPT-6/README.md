@@ -31,7 +31,8 @@
 13. [13-E-PRE-ACTION-GATE-FEASIBILITY.md](13-E-PRE-ACTION-GATE-FEASIBILITY.md) — отдельная проверка класса E: внешний evidence доступен, обязательный pre-action causal gate не найден.
 14. [14-O-ORACLE-ENFORCEMENT.md](14-O-ORACLE-ENFORCEMENT.md) — отдельная проверка класса O: узкие объективные тестовые оракулы возможны, универсальный pre-action gate не найден.
 15. [15-V-SPEC-DERIVED-COVERAGE.md](15-V-SPEC-DERIVED-COVERAGE.md) — проверка класса V на внешнем CommonMark corpus; узкий кандидат, не внедрён в Vico Forum.
-16. [16-COMPARATIVE-ARCHITECTURE-MAP.md](16-COMPARATIVE-ARCHITECTURE-MAP.md) — сравнительная карта G/E/O/V; Sol приняла основную часть и предложила C0–C3, уточнение внесено, повторное review ещё не выполнено.
+16. [16-COMPARATIVE-ARCHITECTURE-MAP.md](16-COMPARATIVE-ARCHITECTURE-MAP.md) — совместно принятая архитектурная основа G/E/O/V с уточнением C0–C3.
+17. [17-C2-TARGET-GAP-TRACE-AUDIT.md](17-C2-TARGET-GAP-TRACE-AUDIT.md) — исторический trace-аудит C2 после red CI; **ошибочное продолжение после доставленного FAIL пока не доказано**.
 
 ## Совместный результат
 
