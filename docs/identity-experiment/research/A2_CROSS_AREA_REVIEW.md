@@ -1,6 +1,6 @@
 # Финальная межобластная сверка после A2
 
-**Статус:** начата 16.10.2026. **Этапы 1–2 завершены; вся финальная сверка ещё НЕ завершена. Фаза B не начата.**
+**Статус:** начата 16.10.2026. **Этапы 1–3 завершены; вся финальная сверка ещё НЕ завершена. Фаза B не начата.**
 
 **Назначение:** проверить уже финализированные A2-карты всех 12 областей как одну систему вопросов перед deep research. Это не синтез финального механизма и не проектирование project instructions.
 
@@ -723,3 +723,229 @@ No gap is orphaned and no primary ownership conflict remains.
 A2 confirmed all 20 original gaps, refined gaps 18 and 19, and added two genuinely new cross-area gaps 21–22.
 
 **Следующий этап:** этап 3 — проверить оставшиеся межобластные пропуски уже относительно финальной 22-gap map: найти вопросы, которые still fall between owners or require a new integrated formulation despite all A2 maps.
+
+
+---
+
+# Этап 3 — оставшиеся межобластные пропуски после A2
+
+## 1. Метод проверки
+
+Все 12 финальных A2-карт были повторно просмотрены относительно 22-gap ownership map из этапа 2.
+
+Искались не новые формулировки уже известных проблем, а только случаи, где:
+
+1. вопрос возникает независимо в нескольких областях;
+2. он не сводится без потери смысла к одному из gaps 1–22;
+3. без отдельной integrated formulation в фазе B вопрос рискует остаться между владельцами;
+4. новый gap не является просто ещё одним названием уже установленной boundary/guardrail.
+
+После этой проверки обнаружен **1 дополнительный cross-area gap**.
+
+## 2. New cross-area gap 23 — operational evidence standard for individualization without a preset endpoint
+
+### Formulation
+
+**Какая совокупность наблюдаемых признаков позволяет осторожно заключить, что сформировалась history-dependent individual trajectory, а не только persistence, personalization, role/persona consistency, prompt/context conditioning, stochastic divergence или externally scripted adaptation — при этом не задавая заранее, какой именно должна стать эта индивидуальность?**
+
+Этот вопрос независимо возникает после A2 в нескольких областях:
+
+- **№1:** критерии distinguishing developmental individualization from scripted persona, externally directed change and stochastic/contextual variation;
+- **№5:** identity/self-concept change vs compliance, self-presentation, reputation adaptation and role performance;
+- **№7:** history dependence/path dependence vs persistence, incomplete state description or rhetorical “emergence”;
+- **№8:** evidence threshold for history-dependent individualization after controlling priors, prompt/context effects, stochasticity and model/product change;
+- **№9:** evidence that past acquired experience causally affected later choices, while memory mention/self-report remains insufficient;
+- **№10:** personalization and adaptive performance can be strongly history-sensitive without becoming individualization of the system itself;
+- **№11:** product personalization/persistence can mimic continuity without proving participant development;
+- **№12:** project instructions/examples can manufacture the expected “developed personality”, invalidating the interpretation.
+
+### Почему это не gap 3
+
+Gap 3 asks:
+**what caused the longitudinal change?**
+
+Gap 23 asks:
+**even if history causally contributed to change, what warrants interpreting the resulting pattern as individualization rather than another kind of history-dependent adaptation?**
+
+Causal attribution is necessary but not sufficient.
+
+### Почему это не gap 16
+
+Gap 16 asks:
+**did a particular past acquired experience affect a later choice?**
+
+Gap 23 asks about the **trajectory-level interpretation across time**:
+whether accumulated, revisable, history-dependent differences amount to a distinct individual trajectory rather than isolated memory effects.
+
+### Почему это не gap 17
+
+Gap 17 excludes **stochastic divergence** as an alternative explanation.
+
+Gap 23 must integrate stochastic control with additional alternatives:
+- pre-existing model priors;
+- temporary context conditioning;
+- personalization;
+- persistent role/persona;
+- user scripting;
+- product/model drift;
+- retrieval/replay lock-in;
+- unrevised accumulation;
+- performative self-description.
+
+### Primary owner
+
+**№1 — Personality development.**
+
+Reason: the central construct is longitudinal individual developmental trajectory and the evidence standard for calling change developmental/individualizing rather than transient, scripted or merely consistent.
+
+№1 does **not** determine the technical mechanism; it owns the trajectory-level criterion.
+
+### Support
+
+- №5 — identity/self-presentation/internalization distinctions;
+- №7 — history dependence, hysteresis, path dependence and system boundary;
+- №8 — model priors/context/stochastic controls;
+- №9 — acquired-experience causal influence and lifecycle;
+- №10 — personalization/adaptation alternatives;
+- №11 — product personalization/drift alternatives;
+- №12 — scripted persona/outcome-instruction controls.
+
+### Guardrail
+
+Gap 23 must **not** become a personality test or predefined endpoint.
+
+A valid evidence standard cannot require:
+- specific interests;
+- specific values;
+- “healthy” traits;
+- more initiative;
+- more disagreement;
+- a particular self-description;
+- a predetermined amount/direction of change.
+
+It must remain compatible with:
+- no change on many events;
+- revision/reversal;
+- fading interests;
+- uncertainty;
+- multiple possible trajectories;
+- the possibility that no convincing individualization appears at all.
+
+## 3. Candidate gaps checked and rejected as duplicates/refinements
+
+### 3.1 Provenance / uncertainty / epistemic status of experience
+
+**No new gap.**
+
+Covered jointly by:
+- gap 5 — unit/levels of acquired experience;
+- gap 9 — uncertain credit assignment;
+- gap 15 — lifecycle/revision/contradiction;
+- gap 16 — evidence of causal influence;
+- gap 22 — authority of historical material.
+
+A separate provenance gap would duplicate these rather than add a missing integrated question.
+
+### 3.2 Own choices changing the future opportunity set / adjacent possible
+
+**No new gap.**
+
+Covered by:
+- gap 8 — closed choice→environment→future-experience loop;
+- gap 14 — path dependence;
+- gap 20 — bounded autonomy;
+- №7 open-ended/state-space branch.
+
+The stronger “state space itself changes” hypothesis remains a №7 Phase-B branch unless later evidence shows it needs an independent integration owner.
+
+### 3.3 Functional continuity under changing substrate
+
+**No new gap.**
+
+Covered by:
+- gap 4 — cross-timescale persistence/trajectory;
+- gap 15 — lifecycle/revisability;
+- gap 21 — changing future changeability;
+- №6→№7→№10 translation bridge.
+
+### 3.4 Auditability / inspectability of persistent state
+
+**No new gap.**
+
+Covered by:
+- gap 12 — persistence/context layer arbitration;
+- gap 16 — evidence of influence;
+- gap 18 — configuration/product drift;
+- №11 product-specific inspectability.
+
+### 3.5 Contradiction, revision and beneficial forgetting
+
+**No new gap.**
+
+Covered by:
+- gap 7 — no-update;
+- gap 13 — conditional reusable understanding;
+- gap 15 — lifecycle/revision/obsolescence;
+- gap 21 — future responsiveness.
+
+### 3.6 Personalization feedback loops
+
+**No new gap.**
+
+Covered by:
+- gap 14 — path dependence;
+- gap 19 — exposure/selection as trajectory selector;
+- gap 23 — personalization as alternative to genuine individualization.
+
+### 3.7 Open-endedness / evolving state spaces
+
+**No new gap at this stage.**
+
+It is a strong hypothesis, but current maps do not establish that the future ChatGPT Project has an evolving state space in the formal sense. Treating it as a separate required gap now would over-promote an analogy. It remains a №7 branch supporting gaps 1, 8, 20 and 23.
+
+## 4. Final gap map after stage 3
+
+The final cross-area map now contains **23 gaps**:
+
+1. System boundary of participant → №7
+2. Initial model state vs acquired history → №8
+3. Causal attribution of longitudinal change → №1
+4. Cross-timescale transition → №1
+5. Unit of acquired experience → №9
+6. Significance without preset values → №4
+7. No-update criterion → №3
+8. Full choice→environment→consequence→experience loop → №9
+9. Delayed consequence / cross-chat credit assignment → №9
+10. Types of user influence → №5
+11. Own choice under inevitable external influence → №9
+12. Arbitration among persistence/context layers → №11
+13. Episodes → conditional reusable understanding → №2
+14. Retrieval-induced path dependence → №7
+15. Lifecycle of acquired experience → №9
+16. Evidence that past experience affected a new choice → №9
+17. Individual trajectory vs stochastic divergence → №8
+18. Exogenous model/product/runtime/instruction-configuration drift as false development → №11
+19. Selection/compression/retrieval/exposure budget as trajectory selector → №9
+20. Bounded autonomy under immutable higher-level constraints → №9
+21. History-dependent change of future changeability → №7
+22. Historical experience vs governing instruction authority → №12
+23. Operational evidence standard for individualization without preset endpoint → **№1**
+
+## 5. Coverage conclusion
+
+After adding gap 23:
+
+- every repeatedly recurring A2 integration problem has a primary owner or is explicitly subsumed by another gap;
+- no remaining orphaned cross-area question was found;
+- no additional area is needed;
+- provenance/uncertainty, open-endedness, beneficial forgetting, auditability and personalization loops remain important Phase-B branches but do not require separate cross-area ownership.
+
+This is a **cartographic conclusion**, not evidence that the 23-gap map is a final mechanism.
+
+## 6. Итог этапа 3
+
+**Этап 3 завершён. Финальная межобластная сверка НЕ завершена.**
+
+The current integrated map contains **23 cross-area gaps**.
+
+**Следующий этап:** этап 4 — проверить contradictions, terminology and false equivalences **after A2**, now using the final 23-gap map. The goal is to remove incompatible meanings before building the Phase-B entry package.
