@@ -1,6 +1,6 @@
-# A1 №11 — Возможности ChatGPT
+# A1/A2 №11 — Возможности ChatGPT
 
-**Статус:** A1 завершена как первичная картография 15.10.2026.
+**Статус:** A1 завершена 15.10.2026; **A2 завершена 16.10.2026 как повторная финальная картография с текущей re-verification product semantics.**
 
 **Цель:** определить реальные product-level возможности и ограничения ChatGPT, которые позже нужно будет исследовать глубоко при проектировании эксперимента. Здесь не проектируются итоговые инструкции и не выбирается финальная структура файлов.
 
@@ -431,8 +431,70 @@
 
 После этих проверок новые официальные страницы в основном уточняли plan/UI/permission details внутри уже найденных ветвей. Это **первичная A1-картография**, а не финальный A2 audit.
 
+## 33. A2 — финальные межобластные уточнения и новые вопросы
+
+A2 повторно проверила текущую официальную документацию OpenAI на 16.10.2026. Product facts изменились после A1, поэтому №11 считается current verified map, а не timeless specification.
+
+### Новые вопросы A2
+
+301. Какие persistence/context layers реально существуют внутри будущего Project?
+302. Для каждого layer что гарантируется: storage, eligibility, retrieval/inclusion или actual behavioral influence?
+303. Как operationally различать `stored → eligible/available → retrieved/included → behaviorally influential`?
+304. Какие precedence rules документированы явно, а где полного arbitration algorithm нет?
+305. Как project instructions, current user message, project files, past project chats and account personalization взаимодействуют при конфликте?
+306. Как отличить source not retrieved от source retrieved but not behaviorally influential?
+307. Какие project-state surfaces inspectable/editable, а какие product-managed/opaque?
+308. Как отсутствие visible project-memory list ограничивает causal auditing?
+309. Какие differences default vs project-only memory materially affect isolation на конкретном плане/workspace?
+310. Как switching memory mode existing project влияет на границу контекста и longitudinal interpretation?
+311. Какие outside memories/chats могут участвовать при default memory и исключаются при project-only memory?
+312. Может ли project information влиять outside project under each mode?
+313. Как account Memory sources могут вводить контекст, отсутствующий в explicit Project sources?
+314. Почему Memory Sources — partial provenance, а не полный causal trace?
+315. Как removal from one persistence surface differs from removal from all relevant surfaces?
+316. Какие derived/copy states can remain elsewhere after one source is removed?
+317. Как distinguish project-local persistence from broader Library/Space persistence?
+318. Что меняется для карты после появления Space while Projects remain separate?
+319. Какие adjacent surfaces such as Work/dots должны оставаться outside participant boundary unless explicitly adopted?
+320. Почему scheduled/agentic execution не равно continuity of the same project experiential state?
+321. Как project-file access limits of Scheduled tasks constrain autonomous continuation?
+322. Как connected apps differ from project memory as external state with separate permissions?
+323. Какие experiment configuration facts нужно логировать longitudinally to interpret behavior changes?
+324. Какие product changes могут alter behavior without project history changing?
+325. Как отделять model drift, product/runtime drift and actual history effect?
+326. What can release notes/settings document, and what rollout-specific uncertainty remains?
+327. Какие product assumptions достаточно stable for Phase B, а какие remain provisional until pre-launch verification?
+328. Как определить минимальную Project-first capability set без автоматического включения соседних ChatGPT surfaces?
+
+## 34. A2 — ownership corrections после межобластной сверки
+
+№11 остаётся primary owner:
+- **gap 12:** arbitration among actual persistence/context layers;
+- **gap 18:** model/product drift as false development.
+
+Поддерживает gaps 1, 4, 8, 9, 15, 19, 20 через current product boundary, cross-chat persistence, inspectability, retrieval eligibility, permissions and version drift.
+
+Handoffs: formal boundary → №7; model/context → №8; agent mechanisms → №9; exact instruction design → №12.
+
+Ключевые границы:
+- **project source exists ≠ source was retrieved/included**;
+- **retrieved/included ≠ behaviorally influential**;
+- **Project Memory ≠ human/agent memory construct**;
+- **account personalization ≠ individualization**;
+- **scheduled execution ≠ access to the same experiential state**;
+- **model/product update ≠ participant development**;
+- **broader ChatGPT capability ≠ capability inside chosen Project configuration**.
+
+## 35. Финальный coverage audit A2
+
+Повторно проверены current official docs for Projects, project instructions/sources, default/project-only memory, account Memory/Sources, Temporary Chat, Library/files, apps, Work, Scheduled tasks and release notes. Добавлены adjacent surfaces Space и dots, но они не принимаются автоматически в future Project mechanism.
+
+После re-verification current product mechanisms and uncertainties укладываются в вопросы №301–328 и существующие A1-блоки.
+
 ## Статус
 
-**A1 №11 закрыта именно как первичная картография области.** В этом проходе отдельные вопросы не исследовались глубоко: официальная документация использовалась для построения карты product capabilities, persistence channels, tools and operational constraints.
+**A2 №11 завершена как финальная картография области на состоянии ChatGPT 16.10.2026.** Карта содержит 300 вопросов A1 + 28 уточняющих вопросов A2 (№301–328), ownership corrections и current-product coverage audit.
 
-**Следующий шаг общего процесса:** A1 №12 «Prompt engineering и проектные инструкции».
+Product-dependent facts обязательны к повторной проверке непосредственно перед запуском эксперимента.
+
+**Следующий шаг общего процесса:** отдельным полноценным проходом начать **A2 №12 «Prompt engineering и проектные инструкции»**.
