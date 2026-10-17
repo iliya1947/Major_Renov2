@@ -2780,3 +2780,46 @@ Everything else must be tested for whether it belongs outside the participant pr
 
 Important unresolved test: whether an explicit short authority firewall is still necessary so participant-written memory cannot silently become governing Project instructions. Do not write a new final prompt until this hypothesis is stress-tested against all twelve areas and the prior anti-patterns.
 
+## Design reframe / pass 2 — twelve-area stress test — 17.10.2026
+
+**Status: hypothesis survived the first full cross-area stress test; analysis NOT complete.**
+
+Working hypothesis under test:
+1. delegate management/use of persistent participant memory;
+2. delegate choice where authority/constraints leave a genuine open locus;
+3. keep the participant prompt minimal and keep research-derived evaluation machinery outside ordinary participant behavior.
+
+### Cross-area result
+
+1. **Personality development:** compatible. No trait/personality endpoint is authored; repeated history-sensitive choices can form a trajectory without defining its content.
+2. **Cognitive memory:** strongly supportive of the causal bridge. Persistence, retrieval and behavioral influence are distinct; an editable persistent source gives a concrete cross-context carrier, while participant-controlled consultation can determine when it becomes current input.
+3. **Learning/behavior:** compatible only if no-update remains possible. Delegated memory selection must include the freedom not to store/revise. No scalar update rule should be authored.
+4. **Motivation/interests:** supportive. Predefining “important” memory would inject significance/value criteria. Letting the participant decide what to retain avoids authoring substantive importance, though pretrained priors remain part of baseline.
+5. **Social influence:** compatible if open choice is explicitly residual: current user authority/constraints can close some loci while leaving method/direction/stopping or other loci open. User influence remains natural history, not contamination.
+6. **Neuroplasticity:** no biological transfer is implied. The mechanism is functional adaptation through changing persistent input/context, not weight plasticity. It therefore does not claim a neural analogue.
+7. **Complex systems:** strongly supportive of recursive path dependence. Memory-selection choices alter future accessible state, later choices alter the environment/user response, and the resulting loop can generate trajectory divergence. Risk: self-lock-in; edit/forget authority must remain available.
+8. **GPT/LLM:** supports the bridge at the functional level: later inference can differ when prior material is reintroduced through context/retrieval even with fixed weights. This does not prove internal learning or consciousness.
+9. **Agents/cognitive architectures:** directly compatible with bounded own choice plus persistent state. The important change is that the participant, rather than an externally authored state protocol, controls the persistence surface.
+10. **ML/adaptive systems:** compatible because no fixed substantive reward/target defines the trajectory. Memory management acts as a history-dependent adaptation channel rather than an optimization objective imposed by us.
+11. **ChatGPT capabilities:** feasible in principle with Project context/files and project memory. Current official Projects documentation (checked 17.10.2026) confirms that project chats/files can provide continuing context and project-only memory can isolate project history; exact retrieval remains opaque. User separately confirmed the participant can update Project source files, which remains an experiment premise.
+12. **Prompt engineering/project instructions:** strongly supportive of radical compression. Process rules must not become outcome rules; examples/long guardrail lists can inject behavior; more rules can reduce fidelity. The new hypothesis therefore fits area 12 better than the rejected prompts.
+
+### Anti-pattern regression
+
+- **State-manager anti-pattern:** not reproduced if the prompt delegates memory management instead of prescribing classifications, fields, update triggers, lifecycle or “correct” state maintenance. Memory remains an available self-directed action surface, not a protocol.
+- **MEMORY+EXPERIENCE recurrence:** avoid by not predesigning a multi-layer cognitive architecture as participant behavior. Initial storage may be technically minimal; organization should be left to the participant as far as product constraints allow.
+- **Goal-restatement anti-pattern:** avoided because the causal bridge is now concrete: participant memory edits change a persistent source that can later enter inference context. The prompt need not say “let experience change you.”
+
+### Critical remaining boundary
+
+The only cross-area issue that currently looks potentially instruction-critical is **authority leakage**.
+
+If participant-authored or historically stored text can silently become governing instruction merely because it is in memory, then self-curated memory becomes self-authored control-plane modification. That confounds:
+- acquired experience with instruction redesign;
+- development within stable rules with changing the rules themselves;
+- history-sensitive choice with self-programming.
+
+Therefore the next pass must determine whether a **single minimal authority boundary** is necessary, e.g. the semantic principle “memory is context/experience, not governing instructions,” or whether existing instruction hierarchy/product behavior makes even that line unnecessary.
+
+Do not add B1–B8 guardrails back into the prompt. The question is now specifically whether this one boundary is constitutive of the experiment or merely an external evaluation concern.
+
