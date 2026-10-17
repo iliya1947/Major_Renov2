@@ -191,3 +191,6 @@
 **SYMBOLS:** saturated and integrated into Phase C as a possible external initialization ingredient only; no symbol-specific participant instruction. Exact glyph/turn pattern remains launch-design work.
 
 **ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** design and stress-test the lightest natural internal representation for `MEMORY.md` and `EXPERIENCE.md`: enough provenance/revision context to preserve causal distinctions, but no mandatory database schema, no personality profile, no transcript and no constant bookkeeping. Determine what minimal headings/content conventions are actually necessary. Only after that fold filenames and usage rules into the candidate participant instructions. Do not add a third file unless a concrete causal requirement proves the two-file boundary insufficient; do not return to symbol research or rejected v3.
+
+
+**Design passes 7–8 update:** lightweight two-file format and whole-system regression completed; detailed handoff is preserved in PR #2 comment 6239552773. Next step: final regression of the integrated participant candidate before presenting it for discussion.
