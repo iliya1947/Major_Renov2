@@ -131,18 +131,6 @@
 Continue only symbols: finish remaining **edge cases + coverage audit**. Specifically check single-symbol vs repeated-symbol evidence, how to distinguish “interpretive openness” from ordinary clarification behavior, and whether any major relevant literature branch is still missing. Only after saturation derive a cautious candidate-selection principle; do not yet write Project instructions.
 
 
-## Четвёртый проход — symbol classes / tokenizer pathology
-
-- Single non-letter tokens can be anomalous for low-level tokenizer/model reasons; unusual response to a symbol is not by itself evidence of interpretation.
-- These anomalies are strongly model/tokenizer-specific, so a generic “safe symbol list” cannot be transferred across models.
-- Long repeated punctuation/structural-symbol sequences form a separate high-risk regime and should not be equated with one-symbol-per-turn interaction.
-- Rare/extended Unicode is not automatically cleaner: byte-level fragmentation and poorly learned token representations can increase hallucination/glitch risk.
-- Invisible characters, variation selectors, combining constructions and homoglyphs create human-visible/model-visible mismatches and are unsuitable for a clean symbol-only start.
-- Emoji, mathematical/logical operators, religious/affective signs, arrows and UI controls have strong conventional priors.
-- Basic single-code-point geometric shapes currently look like the best **candidate family**, not because they are neutral, but because they may offer a better semantic-load / representation-stability trade-off.
-- “More exotic = more neutral” is rejected.
-- Exact candidates must later be checked against the target model’s tokenizer/normal handling; OpenAI documentation confirms tokenization depends on model/encoding.
-
 ## Новые вопросы
 
 34. Which basic geometric code points have the weakest documented conventional functions?
@@ -189,3 +177,54 @@ Coverage is now broad across:
 ## Точная следующая точка
 
 Run one focused stress-test pass across these newly added classes: determine what each predicts for the *first 2–4 symbol-only turns*, especially (a) clarification vs commitment, (b) repeat-same vs change-symbol trajectories, and (c) what observable response would distinguish structural/token effects from an interaction-acquired interpretation. If that pass adds no new causal class, the symbols gap may be declared saturated.
+
+
+## Шестой проход — stress test первых 2–4 ходов / SATURATION
+
+Stress-test did not reveal a new causal class. The first 2–4 symbol-only turns can be explained by combinations of already established mechanisms.
+
+### Scenario A — one symbol, first turn
+Likely response classes: direct interpretation/commitment, mirroring/continuation, clarification, or treating the mark as noise/format. The response can be driven by pretrained semantic prior, tokenizer/structural effect, and the model's ambiguity policy. No interaction-acquired meaning exists yet merely from the first exposure.
+
+### Scenario B — repeat the same symbol
+Repeated exposure additionally recruits contextual entrainment, repetition/copying mechanisms and self-conditioning on prior assistant outputs. A stable pattern can arise without a genuinely shared convention. Repetition therefore increases trajectory stickiness but also increases the risk of mistaking copying/inertia for meaning formation.
+
+### Scenario C — different symbols across turns
+This reduces exact repetition/copying but introduces multiple token-specific priors. The model may construct relations among the marks (sequence, code, contrast, progression), especially if its own first answer already framed the exchange that way. This can produce a richer self-generated frame without proving a convention.
+
+### Observable distinction hierarchy
+- **Immediate exact-glyph effect:** compatible with token/format/prior mechanisms.
+- **History-dependent change across turns:** evidence for contextual/self-conditioning, but not yet shared meaning.
+- **Selective, revisable relation that depends on intervening interaction:** stronger evidence for interaction-acquired interpretation.
+- **Stable dyadic use coordinated with the user:** convention.
+- **Stable link to external/interactional evidence:** grounding.
+
+Self-report such as “this symbol means X” is not sufficient causal evidence.
+
+### Coverage result
+The research now covers tokenizer/Unicode representation, semantic priors, arbitrary mappings/ICL, single-character structural effects, ambiguity policy, multi-turn inertia/self-conditioning, repetition/order/entrainment, convention formation, symbol grounding, transition persistence, and glitch/pathology confounds. Final adjacent-term search (semiotics, symbol emergence, non-linguistic/symbolic interaction) produced no additional causal class relevant to the exact launch question.
+
+**Status: SATURATED for the current practical question.**
+
+## Final research boundary
+
+No reviewed source directly tests the exact protocol:
+`fresh ChatGPT project/chat → 2–N minimally semantic symbol-only user turns with no assigned mapping → normal conversation → long-run developmental effect`.
+
+Therefore the protocol remains an original construction assembled from verified component mechanisms, not an empirically established recipe.
+
+## Final candidate-selection principle (research-level, not launch decision)
+
+If symbols are later used, favor:
+- visible single-code-point marks;
+- low conventional semantic load;
+- no hidden Unicode modifiers / emoji presentation dependence;
+- no obvious punctuation/code/operator function;
+- normal target-model tokenization and reproducibility;
+- short one-symbol-per-turn inputs rather than long repeated symbol strings.
+
+Basic geometric shapes remain the most promising family for later individual vetting; no exact symbol or sequence is selected by this research.
+
+## Next project step
+
+Integrate this saturated symbols addendum into the existing Phase-C causal synthesis before resuming translation into Project instructions. Do not redo the symbols research unless new evidence or a concrete unresolved symbol question appears.
