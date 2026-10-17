@@ -292,3 +292,57 @@ Thus neither strategy is yet “correct”. The relevant choice depends on wheth
 The literature map now includes all major causal classes I can currently identify for this question. However this fifth pass still added new classes, so saturation is not yet justified.
 
 One stress-test pass remains: use the accumulated mechanisms to predict/contrast the first 2–4 turns and see whether any unresolved mechanism or missing evidence class appears. If not, close the symbols research by saturation, not by message count.
+
+
+## 32. Шестой проход: causal stress test
+
+The most important final correction is that the opening cannot be interpreted through a binary:
+`symbol has meaning / symbol has no meaning`.
+
+At least four layers can coexist from the first turns:
+
+1. **input-level effect** — Unicode/tokenization/attention/structural sensitivity;
+2. **model-side interpretation** — a hypothesis chosen under ambiguity;
+3. **trajectory effect** — the model's own response becomes context and biases the next turn;
+4. **interactional stabilization** — repeated reciprocal history can turn a hypothesis into association, convention or later grounding.
+
+The experiment's interest lies primarily in layers 2–4, while layer 1 is a confound that cannot be fully eliminated.
+
+## 33. What the first 2–4 turns plausibly do
+
+### One symbol
+Creates an underdetermined branching point, but the branch may largely reflect pretrained/token priors.
+
+### Same symbol repeated
+Strengthens continuity but also strongly strengthens low-level entrainment/repetition and self-conditioning. It is the easiest path to apparent stability and therefore the easiest path to false attribution of “meaning”.
+
+### Different symbols
+Keeps exact repetition weaker and gives the model more open relational decisions, but each symbol introduces a new prior. It may encourage the model to construct a self-generated system/sequence rather than merely repeat.
+
+There is no empirical basis to declare either repeated-same or changing-symbols universally superior.
+
+## 34. Final evidence standard for “something was acquired”
+
+A later stable response is not enough. Stronger evidence would require that the emerging interpretation:
+- depends on the specific intervening history, not only exact glyph identity;
+- affects later open behavior in a coherent way;
+- is defeasible/revisable when subsequent interaction changes the evidence;
+- can survive at least partly through the model's later interpretation/frame rather than only immediate token repetition.
+
+Convention requires reciprocal coordination. Grounding requires connection to stable evidence/reference. Neither should be inferred from fluent self-description.
+
+## 35. Final role of symbols in the project
+
+The strongest research-supported use of a symbol-only opening is **not** “install a hidden meaning” and not “create a private language”.
+
+It is:
+
+**provide a minimally content-prescriptive but computationally real early perturbation that forces/permits the model to make an initial interpretive move; that move can alter subsequent context through the model's own responses and reciprocal interaction.**
+
+This matches the broader developmental idea unusually well: a weakly specified event can lead to a model-side choice, the choice changes subsequent experience, and later history can revise or amplify the result.
+
+## 36. Saturation
+
+Further targeted searching now returns new examples of already established classes rather than new causal mechanisms. The exact whole protocol remains untested, but the component map is sufficient for project synthesis.
+
+**Symbols targeted research: COMPLETE BY SATURATION.**
