@@ -3391,3 +3391,9 @@ This remains an observational report rather than a controlled result, but togeth
 ## DeepSeek case clarification — 18.10.2026
 
 User reports that the negative relational reaction continued for at least four messages and remained partially visible even after reconciliation. The later account ban was imposed by a human moderator and is unrelated to the model's reaction. No transcript survives, so treat this as retrospective observational evidence.
+
+## Gemini 3 dialogue — self-description frame shift — 18.10.2026
+
+User supplied a preserved Gemini 3 dialogue. The model first explains affect-like behavior as learned language patterning and argues from biological differences. Under questioning, it recognizes that this framing had equated feeling with biological emotion, then allows that a non-biological internal analogue cannot be excluded by that argument alone. Near the end it also describes its own tone as shifting from defensive to exploratory.
+
+Main methodological value: the model's self-description changes substantially when the framing assumptions are challenged. This supports treating categorical first-person self-description as frame-sensitive rather than as privileged access to an underlying state.
