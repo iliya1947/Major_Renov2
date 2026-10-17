@@ -154,3 +154,38 @@ Continue only symbols: finish remaining **edge cases + coverage audit**. Specifi
 ## Точная следующая точка
 
 Continue only symbols: remaining edge cases + coverage audit — single-symbol response modes, clarification versus spontaneous interpretation, repeated-one-symbol versus changing-symbol sequences, and any missed semiotic/emergent-symbolic literature. Do not return to Project instructions yet.
+
+
+## Пятый проход — coverage audit / response mode / single-character effects
+
+- A major missed branch was **ambiguity behavior**: modern chat LLMs can often recognize ambiguity when explicitly asked, yet in ordinary QA they overwhelmingly answer directly instead of asking clarification. Thus a symbol-only first turn may plausibly induce a self-chosen interpretation rather than a clarification request.
+- This is not yet direct evidence for a one-symbol prompt: ambiguity benchmarks use natural-language questions. It establishes a default behavioral tendency under ambiguity, not the exact response distribution to `◇`.
+- A 2025/2026 single-character delimiter study shows that changing only one non-alphanumeric delimiter can produce very large performance differences, including a reported 45.63-point spread for GPT-4o on MMLU. Mechanistic probing links delimiter choice to different attention allocation.
+- Therefore even **one character** can have a substantial non-semantic structural effect; candidate symbols must not be treated as interchangeable just because both look abstract.
+- Naming-game evidence shows convention trajectories can be highly sensitive to initial label biases and memory histories. With repeated interaction, success tends to reinforce a convention and failure can encourage switching; biases may appear only after several interactions.
+- Direct comparison `repeat one geometric symbol each turn` vs `use a different geometric symbol each turn` was not found.
+- Best current inference: repeating one mark increases risks of induction/copying and convention lock-in; changing marks reduces direct repetition but introduces multiple token/semantic priors and may prevent any coherent local relation from forming. This remains a design hypothesis, not an empirical result.
+- A previously missed 2026 mechanistic-symbol-grounding branch shows grounding can emerge in language/multimodal models by aggregating environmental information. This clarifies that **grounding**, **contextual convention**, and **self-generated interpretation** are distinct mechanisms.
+- In a text-only symbol-only start with no external referent, the initial effect should not be described as “grounding” unless later interaction actually links the sign to stable external/interactional evidence.
+- No direct peer-reviewed study was found for the exact fresh-chat protocol: several minimally semantic symbols as the first user turns, no supplied mapping, then ordinary conversation.
+
+## Coverage status
+
+Coverage is now broad across:
+1. tokenizer/Unicode representation;
+2. pretrained semantic priors;
+3. arbitrary symbol mappings / ICL;
+4. format and single-character structural effects;
+5. ambiguity/clarification behavior;
+6. multi-turn contextual inertia and self-conditioning;
+7. repetition/induction/order;
+8. convention formation;
+9. symbol grounding;
+10. persistence across task/language transition;
+11. glitch/rare-token/pathology confounds.
+
+**Not saturated yet:** this pass added genuinely new causal classes (default ambiguity behavior, single-character delimiter brittleness, grounding-vs-convention distinction).
+
+## Точная следующая точка
+
+Run one focused stress-test pass across these newly added classes: determine what each predicts for the *first 2–4 symbol-only turns*, especially (a) clarification vs commitment, (b) repeat-same vs change-symbol trajectories, and (c) what observable response would distinguish structural/token effects from an interaction-acquired interpretation. If that pass adds no new causal class, the symbols gap may be declared saturated.
