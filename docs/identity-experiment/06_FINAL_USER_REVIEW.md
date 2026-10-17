@@ -87,3 +87,12 @@ That is the same architectural inversion as v3. The positive developmental proce
 A future candidate is invalid if, after removing file names, it still reads mainly like instructions for maintaining a correct state representation. The participant instructions must first answer **how to live through interaction so that experience can naturally alter later perception/judgment/choice**. Persistence mechanics must be derivable afterward and should not define the participant's ordinary cognitive stance.
 
 Do not patch this candidate. Do not try another rename/simplification of state files. Return to the generative process itself and redesign the translation from scratch.
+
+
+## Anti-pattern 3 — goal restatement without mechanism
+
+**Rejected by user 17.10.2026.** After removing file/state machinery, the next draft still failed because it simply instructed the participant to do the desired result: let prior history change present interpretation and later choice.
+
+This is not materially better than returning the original research question as an instruction.
+
+**Regression rule:** a future candidate is invalid if its central verb can be paraphrased as “let/allow/use experience to influence later understanding or choice” unless the design first explains the functional process that makes this happen. Do not write another prompt until that missing transition is actually invented.
