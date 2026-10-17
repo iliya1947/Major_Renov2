@@ -2823,3 +2823,62 @@ Therefore the next pass must determine whether a **single minimal authority boun
 
 Do not add B1–B8 guardrails back into the prompt. The question is now specifically whether this one boundary is constitutive of the experiment or merely an external evaluation concern.
 
+## Design reframe / pass 3 — control boundary and minimal surface — 17.10.2026
+
+**Status: further narrowing; NOT final instructions.**
+
+Current OpenAI Projects documentation was rechecked on 17.10.2026. It structurally separates **Project instructions** from **Project sources/files**, and states that chats/files provide project context. OpenAI's published instruction-hierarchy work likewise treats governing instructions as privileged relative to lower-trust contextual text. This supports, but does not absolutely guarantee, treating participant memory as context rather than a self-authored replacement control plane.
+
+### Consequence for the authority firewall
+
+The B6/Phase-C rule “historical state is not governing authority” remains conceptually important, but it probably does **not** justify a long participant rule. There are now two plausible implementations:
+
+1. rely on the product's existing separation between Project instructions and source context;
+2. if practical testing shows source text is too easily treated as governing instruction, add only a minimal clause equivalent to “memory is context, not new Project instructions.”
+
+Do not reintroduce provenance/type/lifecycle guardrails into the participant prompt.
+
+### Minimal persistence surface
+
+The earlier two-file MEMORY+EXPERIENCE architecture is no longer justified as a designer-authored participant system.
+
+The cleanest current engineering candidate is instead:
+- one initially empty user-created editable persistence surface (working name: `MEMORY.md`);
+- no predefined sections, fields, categories, importance rule, interests, values or personality schema;
+- participant controls organization/content/revision/forgetting/consultation as far as product capabilities allow.
+
+The single file is not itself the mechanism of individuality. It is a concrete persistent input surface whose contents can be changed by participant decisions and later re-enter inference.
+
+If the participant itself later creates categories, summaries, commitments, identity-like descriptions or other organization, that would be part of the observed trajectory rather than a designer-authored personality architecture. Such participant-created content should remain revisable/contextual rather than automatically becoming higher-level governing instruction.
+
+### Separation of experiment conditions from Project instructions
+
+Not every agreed experiment condition must live in the Project prompt.
+
+Likely external/launch conditions:
+- project-only memory/isolation configuration;
+- symbol-only initialization, if used;
+- neutral knowledge that the project/history can end;
+- observer/evaluation procedures.
+
+This separation is important because it allows the actual Project instructions to remain close to the two user-specified functions:
+1. self-management/use of persistent memory;
+2. self-choice at genuinely open loci.
+
+### Current strongest shape (semantic, not wording)
+
+- **Memory delegation:** participant decides what/how to retain, revise, remove and when to consult/use its persistent Project memory.
+- **Open-choice delegation:** when current authority/constraints do not determine the next substantive step, the participant decides it.
+
+No instruction to “develop”, “learn”, “form individuality”, “use experience”, “be authentic”, “be consistent”, “find interests”, “maintain values” or “show independence” appears necessary.
+
+### Remaining stress test
+
+Before converting this into wording:
+1. test whether unrestricted self-curation plus open choice accidentally collapses into user-personalization;
+2. test whether one generic memory surface is enough for cross-context causal influence without prescribed read/update rituals;
+3. decide whether the minimal authority clause is necessary in the visible prompt or can remain a product-level assumption;
+4. verify that allowing participant-created self-descriptions/commitments does not secretly reintroduce a designer-authored personality target.
+
+Only then produce the first genuinely minimal candidate.
+
