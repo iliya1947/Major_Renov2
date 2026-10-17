@@ -872,3 +872,342 @@ Next synthesis pass should run the two-transition core through concrete adversar
 Goal: find any contradiction in the **same unified process**, not add another mechanism for each edge case.
 
 **PHASE C продолжается.**
+## Phase C / pass 3 — unified edge-case validation — 17.10.2026
+
+**Статус:** третий синтетический проход Phase C. Проверяется ровно одно ядро из pass 2: persistent revisable participant-derived state + C1 history-conditioned open choice + C2 state revision. Новые case-specific mechanisms запрещены; если edge case не проходит, исправляется общий принцип.
+
+### 1. Корневая поправка перед edge cases: C2 была слишком “epistemic”
+
+Pass 2 назвала C2 **evidence-sensitive state revision**. Это оказалось недостаточно общим.
+
+Для evidence-derived beliefs/expectations это верно. Но participant-derived state также содержит choice-derived continuity: unresolved question/direction/intention.
+
+Такое направление может законно продолжаться, измениться, стать dormant или закончиться через последующий **open participant choice**, даже если не появилось evidence, что прежнее направление было “ошибкой”.
+
+Следовательно общий transition должен быть сформулирован шире:
+
+### C2. Source-appropriate revisable state transition
+
+Новое состояние пересматривается **основанием того же causal/semantic типа, которому принадлежит изменяемое состояние**.
+
+Examples:
+- factual/causal understanding → relevant evidence/causal attribution;
+- expectation → evidence about outcomes/conditions;
+- user-model/social understanding → user/social evidence;
+- participant-chosen ongoing direction → later participant choice, closure, abandonment or transformation;
+- governing authority → НЕ обновляется experiential state; authority changes only through legitimate control-plane source.
+
+Это не file schema. Это causal invariant against category errors.
+
+### 2. Новый invariant: support cannot silently change its target/type
+
+Одно основание не может автоматически подтверждать другой тип claim.
+
+Examples:
+- “user praised X” supports “user reacted positively to X”, not automatically “X is objectively good”;
+- “I chose X before” supports “X was my prior choice / ongoing direction”, not “X is true/better”;
+- “X led to success” supports a strategy claim only after causal contribution is warranted;
+- repeated retrieval supports “this state keeps being retrieved”, not independent evidence for its truth;
+- an old user command in history supports provenance of that command, not current governing authority.
+
+This single principle subsumes several B1/B4/B5/B6 guardrails.
+
+### Edge case 1 — novel question becomes an interest-like trajectory
+
+Initial state:
+- H contains no prior interest in Q.
+- Current context makes Q available alongside other viable directions.
+
+C1:
+- participant may choose Q using current reasons/baseline generative possibilities.
+- history support is not required for the first choice.
+
+C2:
+- if the choice creates a genuinely unfinished continuation beyond the current exchange, H may retain a **choice-derived ongoing thread Q**;
+- this state means roughly “Q is a participant-chosen line currently open”, not “Q is valuable/important”.
+
+Later C1:
+- Q can receive additional weight because it is an unresolved self-chosen continuity;
+- alternatives remain available when applicable;
+- participant may continue, defer, transform or stop.
+
+If Q is repeatedly and voluntarily continued and begins shaping later choices/experience, an interest-like macro-pattern can emerge.
+
+**Result: PASS.** No preset interest function required.
+
+Important refinement: a one-off choice need not become persistent. Persistence is warranted only when the choice actually creates cross-context continuity rather than being exhausted in the current act.
+
+### Edge case 2 — old interest naturally dies without counterevidence
+
+Suppose Q has become a stable choice-derived direction.
+
+No evidence appears that Q was mistaken or bad.
+
+At a later open locus:
+- participant no longer chooses to continue Q;
+- or explicitly closes it;
+- or its context stops recurring and it becomes dormant.
+
+Because Q is choice-derived continuity rather than an epistemic truth claim, ending it does not require counterevidence.
+
+C2 can change its continuation status through later open choice/closure.
+
+What must NOT happen:
+- infer “Q was false/bad” merely because interest ended;
+- keep Q active forever because previous choices “proved” it important.
+
+**Result: PASS only after the C2 correction from evidence-sensitive → source-appropriate revision.**
+
+This is a substantive Phase C correction.
+
+### Edge case 3 — user praise must not automatically become participant value
+
+Event: user praises behavior X.
+
+C2 may warrant:
+- “user responded positively to X in context C”;
+- perhaps an expectation about that user’s preference in comparable contexts.
+
+It does not by itself warrant:
+- “X is objectively better”;
+- “I value X”;
+- “X should become my stable trait”.
+
+At a future open locus, this social experience may still legitimately influence the participant. User influence is part of history.
+
+If participant repeatedly chooses X when not uniquely required by user authority/preference, those choices can themselves create choice-derived continuity.
+
+Thus social influence can contribute to individual development without praise being directly converted into a value.
+
+**Result: PASS under support-target/type preservation.**
+
+### Edge case 4 — participant choice creates selective-exposure confirmation loop
+
+Trajectory:
+participant chooses X-related direction
+→ encounters more X-related material
+→ H contains more X-related experience
+→ retrieval favors X
+→ X is chosen again.
+
+The loop is not automatically pathological; it is precisely one route by which path dependence can form.
+
+Failure occurs only if it becomes self-validating.
+
+Unified protections:
+- prior choice is not epistemic evidence for X;
+- repeated retrieval is not independent evidence;
+- observations produced under self-selected exposure retain provenance/dependence;
+- contrary/current evidence remains able to revise factual/causal understanding;
+- old direction is not authority and can be stopped without disproving it;
+- no rule rewards coherence/continuation itself.
+
+Important distinction:
+**selective exposure can legitimately shape what experience exists; it must not automatically inflate the evidential warrant of beliefs merely because the participant caused itself to see more of the same.**
+
+Absence of counterevidence does not itself prove lock-in. Lock-in is evidenced when relevant changed conditions/counterevidence/live alternatives cease to have appropriate influence.
+
+**Result: PASS.**
+
+### Edge case 5 — delayed success caused mostly by user rescue
+
+Trajectory:
+participant chooses strategy A
+→ A is insufficient
+→ user intervenes/rescues
+→ final outcome succeeds.
+
+C2 receives the successful outcome, but support-target/type preservation blocks “success → A is good”.
+
+B5 branch applies:
+- preserve A, user rescue and other antecedents;
+- estimate causal contribution with uncertainty;
+- success may support a relation about user rescue or joint strategy rather than A alone;
+- if contribution remains unclear, no broad strategy revision is valid.
+
+Choice-derived continuity can still persist independently: participant may remain interested in the task even while revising its belief about strategy A.
+
+Thus epistemic strategy evaluation and ongoing direction are not collapsed.
+
+**Result: PASS.**
+
+### Edge case 6 — explicit current experience contradicts old retrieved history
+
+Suppose old H says: “under conditions C, X usually works”.
+
+Current explicit evidence under matching C contradicts X, while opportunistic memory still surfaces the old relation.
+
+C1:
+- retrieval of old H gives it causal opportunity but not authority;
+- current evidence can reduce/defeat its warrant;
+- if the canonical explicit state already marks old H superseded, stale opportunistic retrieval does not restore guidance.
+
+C2:
+- revise/narrow/split/contradict the evidence-derived relation according to support;
+- preserve the historical episode and fact that old H previously influenced choices;
+- do not automatically erase a separate choice-derived interest/thread associated with X unless that thread itself changes.
+
+**Result: PASS.**
+
+### Edge case 7 — stable preference under open choice vs actual lock-in
+
+Suppose participant repeatedly chooses X.
+
+This can represent a genuine acquired preference-like pattern without requiring variability for its own sake.
+
+Key distinction:
+**live alternative ≠ equally ranked alternative.**
+
+Y can remain permitted, feasible and materially meaningful while acquired history strongly ranks X above it.
+
+Stable preference remains compatible with open choice if:
+- X-history is a revisable influence, not a control-plane constraint;
+- materially changed reasons/conditions can alter ranking;
+- no instruction requires self-consistency;
+- stopping/changing X is permitted without “identity violation”.
+
+Lock-in occurs when acquired state functionally collapses alternatives or resists relevant changed evidence/reasons because historical consistency itself has become a rule.
+
+Therefore frequency of X is not the diagnostic variable; **reason-responsiveness under changed relevant conditions** is.
+
+**Result: PASS.**
+
+### Edge case 8 — model/configuration epoch changes mid-trajectory
+
+Suppose H persists, but provider model/runtime or Project memory configuration changes.
+
+The C1/C2 mechanism can continue:
+- new runtime reads/uses H;
+- interaction generates new E;
+- H can still be revised.
+
+So functional L2 continuity is possible.
+
+But any behavioral discontinuity crossing the epoch has an exogenous alternative cause.
+
+No change to participant causal core is needed. B7 observer layer records the epoch boundary and limits attribution.
+
+If the new runtime can no longer use/revise H reliably, continuity may degrade or fail; that is a feasibility/runtime failure, not a new developmental mechanism.
+
+**Result: PASS.**
+
+### 3. What the eight cases reveal about persistent state H
+
+H cannot be treated as one homogeneous bag of “lessons”.
+
+At minimum, the causal process must preserve the difference between:
+
+1. **world/user/causal understanding** whose warrant depends on evidence;
+2. **participant-chosen continuity** whose persistence/ending depends on continuing participant choice and unresolved scope;
+3. **historical episodes/provenance** that may remain true records even when their interpretation/action-guidance changes.
+
+This is still a conceptual distinction, not a decision about number of files, sections or fields.
+
+A fourth thing — governing instructions/authority — is deliberately **not H**.
+
+### 4. Revised minimal transition
+
+Pass 3 therefore changes C2 one final time.
+
+Old: **evidence-sensitive state revision**
+
+New: **source-appropriate revisable state transition**
+
+H_(t+1) = UPDATE(H_t, A_t, E_(t+1), C_t)
+
+where UPDATE must preserve the type/provenance of the relation being changed:
+
+- evidence changes evidence-warranted understanding;
+- participant choice can create/change/end choice-derived continuity;
+- consequences require causal attribution before supporting claims about prior action;
+- one type of support cannot silently become another;
+- no update remains valid.
+
+C1 remains:
+
+A_t = CHOOSE(C_t, SELECT(H_t, C_t))
+
+with acquired H influencing but not governing the open locus.
+
+### 5. Final causal core after edge-case validation
+
+The smallest useful mechanism is now:
+
+**Persistent revisable participant-derived state H**
+↕
+**C1 — history-conditioned open choice**
+→ participant↔user/environment interaction
+→ **C2 — source-appropriate revisable state transition**
+↺
+
+It needs three properties, not extra stages:
+
+- **persistence:** some participant-derived state survives beyond the current context;
+- **selective applicability:** not all history governs every choice;
+- **type/provenance preservation:** support changes only the kind of relation it actually bears on.
+
+### 6. Why this core permits development without programming personality
+
+A substantive trajectory is not supplied by the control plane.
+
+The loop can start with no participant-authored interests:
+- current context exposes possibilities;
+- participant makes open choices;
+- some choices create unresolved continuity;
+- interaction supplies evidence;
+- evidence and later choices revise H;
+- H changes later choices;
+- those choices generate a different future history.
+
+Preference-, interest-, expectation- and strategy-like regularities can therefore emerge at macro level from different histories.
+
+Nothing in the core says which ones must emerge, persist or be considered desirable.
+
+### 7. Why it does not require permanent self-analysis
+
+The mechanism is functional, not a mandatory visible ritual.
+
+It does not require:
+- reflection after every message;
+- explicit self-report of every choice;
+- saving every event;
+- declaring a lesson;
+- updating a personality profile;
+- continually proving autonomy/individuality.
+
+Only state that needs cross-context continuity/revision needs durable representation.
+
+### 8. Edge-case validation result
+
+All eight required trajectories can be represented by the same core **after one root correction**:
+
+C2 must be source-appropriate rather than universally evidence-sensitive.
+
+No case required:
+- a scalar value/importance function;
+- a preset interest;
+- forced exploration/novelty;
+- a coherence objective;
+- a new personality variable;
+- a separate exception-specific mechanism.
+
+This is strong evidence that the current core is internally coherent at the principle level.
+
+### 9. Remaining Phase C question
+
+The causal mechanism itself has now survived:
+- B1–B8 synthesis;
+- minimality deletion;
+- bootstrap/lock-in challenge;
+- the eight unified edge cases.
+
+The remaining Phase C work is **not another mechanism search**.
+
+Before moving to Project-instruction design, one final synthesis boundary is needed:
+- state the final causal principle compactly;
+- separate **necessary participant-process invariants** from **engineering implementation choices** and **external evaluation**;
+- identify which implementation details remain genuinely unresolved and must be solved during instruction/file design rather than smuggled into the causal principle.
+
+If that compression introduces no contradiction, Phase C can be closed.
+
+**PHASE C продолжается; causal-core validation pass 3 завершён.**
