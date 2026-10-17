@@ -1778,4 +1778,112 @@ Not required by the abstract contract:
 - fixed priority field;
 - exhaustive timestamps for every event;
 - full raw source copies.
+### 5. Minimal lifecycle operations
+
+The abstract contract does not need a large state machine.
+
+Minimum operations are:
+
+1. **Create** — a new H-U relation or H-C continuity crosses the persistence boundary.
+2. **Revise** — change content, warrant, scope or continuation state while preserving source/type semantics.
+3. **Split/branch when needed** — conflicting evidence/contexts produce distinct conditional relations instead of false global overwrite.
+4. **Deactivate** — remove ordinary current guidance/continuation without erasing historical truth. Examples: superseded/contradicted understanding; dormant/closed continuity.
+5. **Reactivate** — restore current applicability/continuation when conditions or later choice warrant it.
+
+Subtypes such as narrow, supersede, contradict, dormant and close are semantic outcomes of these operations, not separate mechanisms.
+
+Physical deletion is not part of the conceptual lifecycle. It is later storage maintenance and must not erase still-needed provenance/revision linkage.
+
+### 6. Current state and historical truth must be separable
+
+A current H item may cease guiding future choice while its history remains true.
+
+Examples:
+- an old causal attribution may be contradicted but may still explain an earlier decision;
+- a closed participant-chosen thread may remain historically relevant without being currently active;
+- a previously valid conditional relation may become stale/historical-only.
+
+Therefore deactivation changes current status/eligibility, not the fact that the earlier state existed.
+
+### 7. Can H-U and H-C coexist in one logical representation?
+
+Yes, at the causal-principle level.
+
+Both are non-governing participant-derived state and can safely coexist if:
+- each item has explicit kind/type semantics;
+- support/provenance cannot silently change target/type;
+- H-C imperative-like wording is treated as historical/current continuity data rather than instruction authority;
+- governing Project instructions remain outside H.
+
+No causal argument currently requires separate physical stores for H-U and H-C.
+
+Physical separation may still later improve readability, update reliability or context efficiency; that is an implementation question.
+
+### 8. Does provenance require a separate canonical surface?
+
+Not necessarily.
+
+The causal requirement is **recoverable provenance**, not a dedicated provenance database.
+
+A current H item may carry:
+- a source reference/anchor;
+- a compact source descriptor;
+- or enough local provenance to understand its support when direct source retrieval is uncertain.
+
+Existing project chats can serve as historical episode material, but because automatic retrieval is not canonical, H cannot depend on opaque recall alone to know why a current relation exists.
+
+If source addressability/retention proves unreliable during implementation design, a supporting provenance surface may be necessary. That is not yet a causal requirement.
+
+### 9. One canonical participant-state surface is sufficient in principle
+
+At the abstract level, causal integrity requires **one canonical logical H**, not multiple competing canonical memories.
+
+That logical H may later be implemented as one file or several coordinated files, but there should be a single answer to:
+“what is the participant-derived state currently in force as data/context?”
+
+Multiple independent canonical surfaces would create arbitration problems and stale-state ambiguity.
+
+Therefore:
+- one canonical logical state = required;
+- one physical file = not yet decided;
+- additional supporting history/provenance surfaces = optional implementation aids, not co-equal canonical H.
+
+External B7/B8 configuration/evaluation records remain outside participant H entirely.
+
+### 10. Contract stress test
+
+The two-kind H contract preserves all prior requirements:
+- event ≠ interpretation: provenance links source to H-U without collapsing them;
+- false attribution can be revised while event remains historical;
+- user praise remains source evidence rather than value;
+- new self-chosen direction can persist as H-C without being labeled interest;
+- old direction can close without counterevidence;
+- contradictory contexts can branch rather than overwrite;
+- stale retrieved history cannot override current canonical status;
+- no historical content gains governing authority;
+- no-update creates no artificial record.
+
+No third participant-state kind was required by these cases.
+
+### 11. Pass-3 result
+
+Minimal abstract H contract:
+
+**Canonical H contains only current revisable participant-derived state of two semantic kinds — evidence-linked understanding (H-U) and choice-derived continuity (H-C) — each carrying enough provenance, scope and current status to support later selective use/revision. Historical episodes remain sources rather than automatically becoming state; governing authority remains outside H. H supports create, revise, split, deactivate and reactivate semantics, while physical storage layout remains implementation-specific.**
+
+At principle level one canonical logical H is sufficient. Multiple physical files are not causally required.
+
+### 12. Exact next design problem
+
+The abstract state contract is now stable enough to infer the minimal **physical source/file roles** needed in a ChatGPT Project.
+
+Next pass should compare implementation options against the contract:
+- one editable canonical state file;
+- separate files for H-U and H-C;
+- canonical state plus provenance/history support;
+- any smaller/larger arrangement justified by context size, update reliability and authority/type-confusion risks.
+
+Only after choosing minimal file roles should final Project-instruction wording begin.
+
+**Project-instruction design pass 3 completed.**
 
