@@ -54,3 +54,64 @@ Only the third component would directly support the hypothesis that the opening 
 No reviewed source so far directly tests: **a fresh instruction-tuned chat model receives several user turns containing only minimally semantic symbols, generates its own responses, then switches to natural-language interaction; does the early symbol exchange causally alter later interpretation/choice?**
 
 Next research must stay exactly on this missing bridge.
+
+
+## 8. Второй проход: ранняя интерпретация может сама стать причиной дальнейшей траектории
+
+Теперь есть более прямое основание для гипотезы, что первые symbol-only turns способны иметь эффект **даже без заранее созданного symbol↔meaning mapping**.
+
+Механизм не требует предполагать “магическое действие символа”:
+
+`underspecified symbol → model selects one plausible interpretation/response → assistant response remains in dialogue history → later ambiguous inputs are conditioned on that self-generated history → branch can become increasingly coherent/sticky`.
+
+Multi-turn contextual-inertia and assistant-history studies independently show, что модели могут чрезмерно опираться на собственные ранние решения/ответы. Это значит, что первый символ потенциально может использовать модель как **branching event**: не потому, что знак несёт нужный смысл, а потому что он оставляет достаточно неопределённости для самостоятельного первого commitment.
+
+## 9. Но trajectory anchoring ≠ convention formation
+
+Если после нескольких ходов модель последовательно трактует `◇` одинаково, есть минимум два качественно разных объяснения:
+
+- модель с пользователем реально выработали shared local convention;
+- модель продолжает собственную раннюю интерпретацию из-за contextual inertia/self-conditioning.
+
+Поведение может выглядеть почти одинаково. Для нашей задачи это не обязательно делает второй механизм бесполезным — собственный ранний выбор, влияющий на следующие ходы, сам по себе интересен. Но научно их нельзя смешивать.
+
+## 10. Repetition имеет собственную механику
+
+Repeated symbols/order can cause:
+- induction/copying;
+- serial-position/primacy/recency effects;
+- retrieval of a continuation previously associated with an anchor.
+
+Следовательно, `◇ → ◇ → ◇` и `◇ → ○ → △` — не просто разные “содержания”; они создают разные computational conditions even before any interpreted meaning is established.
+
+## 11. Human↔LLM common ground — не гарантирован
+
+Самое неприятное новое ограничение: recent GPT-5/reference-game evidence suggests that human-AI pairs form conventions less effectively than homogeneous human-human or AI-AI pairs. Shared interpretive biases appear to matter.
+
+Для нашего эксперимента это означает: пользователь не должен заранее считать, что его интуитивная трактовка символов будет той же, что у модели. Более того, именно расхождение может стать частью ранней траектории.
+
+## 12. Что стало сильнее после второго прохода
+
+Гипотеза “несколько symbol-only первых сообщений могут повлиять на дальнейший чат” теперь имеет несколько независимых supporting mechanisms:
+
+- underspecification → default inference;
+- early-turn assumption → contextual inertia;
+- assistant's own prior output → later context pollution/conditioning;
+- repeated anchors → induction/serial retrieval;
+- repeated interaction → possible ad-hoc convention formation.
+
+Но **ни один источник пока не объединяет эти механизмы в точном сценарии запуска свежего ChatGPT-чата только символами**. Поэтому общий effect remains an original hypothesis assembled from verified parts.
+
+## 13. Следующий unresolved bridge
+
+Нужно понять **что именно может пережить переход к normal language** после первых symbol-only ходов:
+
+- exact token/symbol association;
+- inferred semantic mapping;
+- conversational “frame”;
+- response style;
+- local convention;
+- self-generated assumption;
+- mere short-range recency/priming.
+
+И отдельно — как long/short this persistence is and whether later ordinary language overwrites it.
