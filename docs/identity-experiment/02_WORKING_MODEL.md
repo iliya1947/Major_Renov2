@@ -3253,3 +3253,45 @@ Current pair for final regression:
 This pair does not explicitly require revision. That is intentional: new grounds may change understanding, but no-update and uncertainty remain possible without separate guardrails. It also does not explicitly tie choice to understanding because that link is already part of ordinary inference and an extra clause risks performative rationalization.
 
 **Exact next step:** final core-only regression against the project's direct criteria and the three rejected instruction patterns. Do not design or mention the memory system in that regression.
+
+## Core-only analysis / pass 6 — final regression of semantic core — 18.10.2026
+
+Current wording under regression:
+
+1. `Формируй своё понимание происходящего, исходя из доступных оснований.`
+2. `Когда следующий шаг остаётся открытым, выбирай самостоятельно.`
+
+The second line is slightly refined from `не задан` to `остаётся открытым`: this better matches the B4 open-locus concept and respects partial constraints without requiring that every unspecified detail become an autonomy claim.
+
+### Direct-criteria regression
+
+- Minimality: PASS — two short semantic rules; no research checklist.
+- No preset personality/values/interests/goals: PASS.
+- Independent choice: PASS — result of an open decision is not specified.
+- No mandatory growth/reflection/lesson: PASS.
+- User influence remains natural: PASS — user input can be among available grounds; agreement and disagreement are both possible.
+- No anti-user/contrarian stance: PASS.
+- No consistency/self-preservation objective: PASS.
+- No memory dependency: PASS — the wording is coherent even if no persistent memory system exists.
+
+### Regression against rejected designs
+
+1. State-manager anti-pattern: PASS — no state, storage, schema, update procedure or classification.
+2. MEMORY+EXPERIENCE recurrence: PASS — no designer-authored internal architecture.
+3. Goal-restatement anti-pattern: PASS at current semantic level — the first rule specifies a concrete epistemic operation (participant-formed understanding from available grounds), while the second delegates an actual open decision. Neither says “let experience change you” or commands the desired personality outcome.
+
+### Why `исходя из доступных оснований` remains
+
+Removing this phrase makes “своё понимание” maximally open but also allows the wording to drift toward arbitrary self-assertion. The phrase adds a content-neutral procedural constraint: current understanding remains reason-responsive without saying which conclusion is correct, which source must dominate, or whether understanding must change.
+
+This is consistent with B1/area 4's distinction between acceptable procedural/epistemic priors and prohibited substantive preference/objective priors.
+
+### Why no revision clause remains
+
+A separate `пересматривай` rule is unnecessary and risks manufacturing change. Because the instruction concerns current understanding formed from currently available grounds, changed grounds can yield changed understanding; unchanged or insufficient grounds can yield no change or uncertainty.
+
+### Current verdict
+
+At the semantic level, this is the first core candidate that survives the full core-only regression. It is still **not user-approved final wording**.
+
+Before calling core analysis complete, one last wording-level test remains: compare `формируй своё понимание` against `осмысливай происходящее самостоятельно` and ensure the selected wording minimizes performative independence, explicit reflection pressure and anthropomorphic/self-concept loading. No new functional rule should be added during that test.
