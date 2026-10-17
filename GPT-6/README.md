@@ -40,6 +40,7 @@
 22. [22-MEMORY-M3-STRUCTURAL-HAZARDS.md](22-MEMORY-M3-STRUCTURAL-HAZARDS.md) — Memory M3: сверка с первичным PR #184 выявила искажение service/implementation boundary в историческом memory summary; поведенческая атрибуция не установлена.
 23. [23-MEMORY-M4-CORRECTED-ERROR-PERSISTENCE.md](23-MEMORY-M4-CORRECTED-ERROR-PERSISTENCE.md) — Memory M4: один случай сохранения исправленной ошибки ассистента (#184), отдельно устаревший status PR #181; не доказано влияние на позднюю ошибку GPT-6.
 24. [24-MEMORY-M5-UPDATE-LAG.md](24-MEMORY-M5-UPDATE-LAG.md) — Memory M5: два project/process пункта сохраняли старую версию более 5 суток после обновления source of truth; верхняя граница и доставка GPT-6 неизвестны.
+25. [25-MEMORY-M6-MODEL-INTERACTION-MATCHED-HISTORY.md](25-MEMORY-M6-MODEL-INTERACTION-MATCHED-HISTORY.md) — Memory M6: сравнение эпизодов Sol/GPT-6; общая model-visible Memory и сопоставимые fresh inputs не доказаны, модельно-специфичный эффект не установлен.
 
 ## Совместный результат
 
