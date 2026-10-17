@@ -1636,3 +1636,27 @@ No update is required merely because a turn ended, time passed, a conversation w
 Reliability rule: **once a durable transition has actually been recognized, persist the new canonical state before relying on that transition in a future context.**
 
 Multiple related transitions may be batched at a natural stopping point; visible reporting to the user is not required.
+### 6. Product/runtime boundary checked against current official documentation
+
+Official OpenAI documentation was rechecked 17.10.2026 because product behavior can change.
+
+Current documented product support includes:
+- project-scoped instructions;
+- chats and files available as project context;
+- project-only memory as an isolation setting for keeping conversational memory within the project;
+- automatic relevance-based use of available memory/context.
+
+Current documentation also says Memory does not retain every detail and relevance selection is performed by ChatGPT; project memory does not expose a complete inspectable list of remembered items.
+
+Design consequence:
+automatic project context/memory can assist retrieval, but it cannot be the canonical authority for the participant-derived state H.
+
+The semantic guarantees required by R1–R4 therefore remain explicit design responsibilities:
+- current status of H;
+- state kind/source/scope distinctions;
+- revision and supersession semantics;
+- legitimate no-update;
+- separation between historical content and governing control;
+- distinction among user reaction, evidence, participant choice and current authority.
+
+Product mechanics provide context/storage/isolation support; they do not replace the causal semantics.
