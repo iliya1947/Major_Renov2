@@ -1,0 +1,1902 @@
+# Межобластная сверка после A1
+
+**Статус:** этапы 1–5 завершены 15.10.2026. Межобластная сверка после A1 полностью завершена.
+
+**Назначение:** сверить 12 первичных карт A1 до начала A2. Сверка проводится поэтапно, без попытки закрыть весь межобластной анализ одним ответом.
+
+## Этапы
+
+1. **Границы областей, дубли и неверно разделённые темы — завершён.**
+2. **Зависимости и пересечения между областями — завершён.** Проверены внутренние зависимости и все 35 межкластерных пар.
+3. **Пропущенные вопросы, видимые только межобластно — завершён.** Найдено 20 интегральных cross-area gaps.
+4. **Противоречия, терминологические ложные совпадения и несовместимые постановки — завершён.**
+5. **Пакет конкретных поправок для A2 каждой области — завершён.**
+
+---
+
+# Этап 1 — границы, дубли и неверно разделённые темы
+
+## Как проверялось
+
+Сопоставлены все 12 актуальных `INDEX.md` и итоговые `UNDERSTANDING.md`.
+
+Дополнительно проверены все 66 пар областей по формулировкам вопросов. Лексическое сходство использовалось только как способ найти подозрительные зоны; решение о дубле принималось после содержательного сравнения. Совпадение слов вроде `memory`, `adaptation`, `plasticity`, `identity` или `instruction` само по себе дублем не считается.
+
+## Главный вывод
+
+**Ни одну из 12 областей не нужно удалять или объединять целиком.** Карта в целом разделена осмысленно.
+
+Проблема находится ниже уровня областей: ряд тем повторяется в нескольких картах без достаточно явной маркировки **уровня анализа**. Это создаёт риск, что A2 повторно исследует один вопрос как будто он один и тот же, хотя на самом деле речь идёт о разных объектах.
+
+Основное исправление для A2: не механически удалять повторяющиеся термины, а закрепить для каждой области собственный объект объяснения и на стыках оставлять cross-reference.
+
+## Рабочие границы 12 областей
+
+### №1 Психология развития личности
+
+**Собственная область:** структура и изменение person-level индивидуальных различий во времени: traits, personality states как часть trait-dynamics, personality development, lifespan trajectories, person–environment transactions, agency в развитии личности.
+
+**Не её основной объект:**
+- identity как самостоятельная social/self system → №5;
+- мотивационные механизмы goals/values/interest → №4;
+- нейронные механизмы изменения → №6.
+
+**Граничный дубль:** identity development присутствует и в №1, и в №5. В A2 №1 должен сохранять только вопрос, **как identity относится к более общей personality development**; детальная теория identity development принадлежит №5.
+
+### №2 Когнитивная психология и память
+
+**Собственная область:** human cognitive memory — encoding, consolidation, storage/representation, retrieval, forgetting, reconstruction, episodic/semantic/autobiographical memory, generalization из памяти.
+
+**Не её основной объект:**
+- acquisition of behavior/associations → №3;
+- engineered memory architecture → №9;
+- ChatGPT product memory/files/history → №11;
+- neural substrate memory → №6.
+
+**Граничные дубли:**
+- implicit memory ↔ implicit learning;
+- generalization/transfer;
+- forgetting ↔ extinction;
+- metamemory ↔ metacognition.
+
+Для A2: №2 рассматривает эти темы со стороны **representation/retention/retrieval**, №3 — со стороны **acquisition/change in behavior**.
+
+### №3 Психология обучения и поведения
+
+**Собственная область:** изменение поведения/предсказаний/ассоциаций под влиянием опыта, feedback, consequences, practice and observation.
+
+**Не её основной объект:**
+- why something becomes valuable/interesting → №4;
+- memory retention/retrieval → №2;
+- algorithmic machine learning adaptation → №10;
+- neural implementation → №6.
+
+**Граничные дубли:**
+- reinforcement learning с №10;
+- exploration/generalization/transfer;
+- feedback learning;
+- implicit learning с №2.
+
+Для A2: №3 оставляет **psychological/behavioral learning phenomena and theories**; №10 — computational/engineering algorithms.
+
+### №4 Мотивация, эмоции и интересы
+
+**Собственная область:** value, significance, goals, effort, persistence, approach/avoidance, curiosity, interest, affect/emotion и их dynamics.
+
+**Не её основной объект:**
+- identity-specific motives и group/self processes → №5;
+- acquisition mechanism через reinforcement → №3;
+- personality structure → №1.
+
+**Граничный дубль:** goals, values, social comparison, internalization, curiosity/exploration. В A2 №4 отвечает за **почему/насколько нечто значимо и поддерживает действие**, №3 — за **как опыт меняет learned behavior**, №5 — за **как это связано с self/group identity**.
+
+### №5 Социальная психология и идентичность
+
+**Собственная область:** self, personal/social/relational identity, roles, groups, norms, belonging, relationships, influence, reputation, social comparison, social context.
+
+**Не её основной объект:**
+- общая personality development → №1;
+- general motivational dynamics → №4;
+- agent social simulation → №9.
+
+**Граничный дубль:** identity development с №1 и identity motives с №4. В A2 №5 является главным местом для **identity-specific constructs and mechanisms**.
+
+### №6 Нейробиология и нейропластичность
+
+**Собственная область:** biological mechanisms and levels of experience-dependent neural change: synaptic, cellular, molecular, circuit, systems and lifespan plasticity.
+
+**Не её основной объект:**
+- behavioral learning theory → №3;
+- cognitive memory theory → №2;
+- abstract stability/adaptation principles → №7;
+- ML stability–plasticity → №10.
+
+**Критическая терминологическая граница:** `plasticity` здесь означает neural/biological change. Совпадение со `stability–plasticity dilemma` в №10 и adaptation/stability в №7 не должно превращаться в прямое отождествление.
+
+### №7 Кибернетика, сложные системы и самоорганизация
+
+**Собственная область:** domain-general formal concepts: feedback, regulation, stability, attractors, path dependence, emergence, self-organization, adaptive systems, autonomy, robustness, multiscale organization.
+
+**Не её основной объект:**
+- конкретные ML algorithms → №10;
+- конкретная agent architecture → №9;
+- neural implementation → №6.
+
+**Самая сильная зона терминологического наложения:** №7 ↔ №10. Слова adaptation, control, stability, plasticity, exploration встречаются массово в обеих картах.
+
+Для A2 граница должна быть жёсткой:
+- №7 — **общий системный принцип и условия его применимости между доменами**;
+- №10 — **конкретный computational learning/adaptation mechanism**.
+
+### №8 Архитектура и поведение GPT/LLM
+
+**Собственная область:** model-level architecture, training/post-training, inference behavior, context, ICL as model phenomenon, decoding, representations, factuality, model-level instruction following, LLM-specific adaptation.
+
+**Не её основной объект:**
+- orchestration of model+tools+memory as agent → №9;
+- general ML adaptation algorithms → №10;
+- exact ChatGPT product behavior → №11;
+- design of prompts/project instructions → №12.
+
+**Крупные boundary leaks:**
+1. instruction hierarchy / prompt sensitivity / long context ↔ №12;
+2. tool calling ↔ №9;
+3. continual learning/fine-tuning ↔ №10;
+4. model/runtime/product boundary ↔ №11.
+
+Правило A2:
+- №8 спрашивает **что модель умеет/почему ведёт себя так**;
+- №12 — **как проектировать и проверять instructions**;
+- №9 — **как составная agent system использует модель**;
+- №11 — **что конкретно даёт текущий продукт ChatGPT**.
+
+### №9 ИИ-агенты и когнитивные архитектуры
+
+**Собственная область:** composite agent systems: perceive–decide–act loops, goals, planning, tools, engineered memory, reflection, long-horizon state, action selection, autonomy, cognitive architectures.
+
+**Не её основной объект:**
+- bare LLM mechanisms → №8;
+- general learning algorithms → №10;
+- product feature availability → №11;
+- prompt wording/techniques → №12;
+- human memory theory → №2.
+
+**Настоящие дубли для A2:**
+- sparse/delayed reward и policy learning с №10;
+- reflection/self-correction с №12;
+- engineered memory terminology с №2;
+- tool/action instructions с №12;
+- product actions/permissions с №11.
+
+Граница: №9 исследует **system architecture and control loop**, а соседние области — соответствующий механизм на своём уровне.
+
+### №10 Машинное обучение и адаптивные системы
+
+**Собственная область:** algorithms/systems that adapt parameters, representations, policies, data selection or architecture: continual/online learning, transfer, domain adaptation, meta-learning, RL, personalization, drift adaptation.
+
+**Не её основной объект:**
+- psychological learning → №3;
+- abstract systems theory → №7;
+- LLM-specific implementation details → №8;
+- agent orchestration → №9;
+- ChatGPT product behavior → №11.
+
+**Самые плотные дубли:** №7↔10, №8↔10, №3↔10, №9↔10.
+
+Для A2 №10 должен быть общим engineering-level каталогом adaptation methods; соседние области должны оставлять только domain-specific instantiation или conceptual relation.
+
+### №11 Возможности ChatGPT
+
+**Собственная область:** актуальные product facts: Projects, project memory, files/sources, history, plugins/apps, Work, browser, automations, limits, permissions, plan/region variability, current product behavior.
+
+**Не её основной объект:**
+- prompt design → №12;
+- model architecture/capability in abstraction → №8;
+- agent architecture as research field → №9.
+
+**Крупный дубль №11↔12:** project instructions.
+
+Граница для A2:
+- №11: **что project instructions представляют собой в текущем продукте, где действуют, с чем взаимодействуют, какие имеют документированные ограничения**;
+- №12: **как их формулировать, структурировать, тестировать и поддерживать**.
+
+### №12 Prompt Engineering и проектные инструкции
+
+**Собственная область:** design, composition, robustness, evaluation and maintenance of prompts/instructions, persistent guidelines, examples, wording, hierarchy as instruction-design concern, prompt optimization.
+
+**Не её основной объект:**
+- underlying model capability/training mechanism → №8;
+- full agent orchestration/policy → №9;
+- product feature facts → №11;
+- runtime guarantees not created by prompt text.
+
+**Главные boundary leaks:** №8↔12, №9↔12, №11↔12. Они исправляются не удалением области, а маркировкой уровня.
+
+---
+
+## Настоящие дубли/утечки границы, которые надо исправить в A2
+
+1. **№1 ↔ №5 — identity development.** Детальная identity theory остаётся в №5; №1 хранит связь identity с personality development.
+2. **№2 ↔ №3 — implicit learning/memory, generalization, forgetting/extinction.** Разделить acquisition/change и retention/retrieval.
+3. **№3 ↔ №10 — reinforcement learning, transfer, exploration, feedback.** Psychology vs ML algorithmics.
+4. **№4 ↔ №5 — identity-related goals/values/motives.** General motivation vs identity/social-specific mechanisms.
+5. **№6 ↔ №7 ↔ №10 — plasticity/stability/adaptation.** Biological vs formal systems vs ML meanings; прямые аналогии запрещены без отдельного обоснования.
+6. **№7 ↔ №10 — adaptation/control.** Общая теория vs engineered adaptation.
+7. **№8 ↔ №9 — tools, state, model-vs-agent capability.** Bare model vs composite agent.
+8. **№8 ↔ №10 — fine-tuning/continual learning/adaptation.** LLM-specific instantiation vs general ML methods.
+9. **№8 ↔ №12 — instruction following, hierarchy, prompt sensitivity, long context, ICL.** Model phenomenon/capability vs instruction design/evaluation.
+10. **№9 ↔ №10 — RL, learning from interaction, self-improvement.** Agent loop/system adaptation vs learning algorithm.
+11. **№9 ↔ №12 — decomposition, reflection, tool instructions, prompt injection.** Agent-level orchestration vs prompt-level technique.
+12. **№2 ↔ №9 ↔ №11 — слово “memory”.** Human cognitive memory vs engineered agent memory vs ChatGPT product memory/history/files.
+13. **№11 ↔ №12 — project instructions.** Product semantics/capability vs design/maintenance methodology.
+
+## Темы, которые выглядят одинаково, но НЕ являются дублями
+
+1. Human `plasticity`, complex-systems `adaptation`, ML `stability–plasticity`.
+2. Human cognitive memory, agent memory, ChatGPT memory.
+3. Psychological RL, ML RL, agent-level reward/credit assignment.
+4. Personality identity, social identity, agent persona.
+5. Human goals/motivation, agent goals, optimization objectives.
+6. Human self-regulation, cybernetic regulation, adaptive control.
+7. In-context learning, psychological learning, continual ML learning.
+
+Эти совпадения должны быть явно помечены в A2 как разные levels/constructs, иначе дальнейший синтез будет склонен делать ложные аналогии.
+
+## Итог этапа 1
+
+1. Структура из 12 областей сохраняется.
+2. Объединять или удалять целые области не требуется.
+3. Основная проблема — **boundary leakage на уровне отдельных вопросов** и одинаковые термины для разных механизмов.
+4. Зафиксированы 13 основных зон дублей/утечек.
+5. Для каждой области определён рабочий объект исследования, который должен использоваться при A2.
+
+**Этап 2 — зависимости и пересечения — в этом проходе не начинался.**
+
+
+---
+
+# Этап 2 — зависимости и пересечения между областями
+
+**Статус:** в работе. Первый проход завершён; межкластерные мосты ещё не проверены.
+
+## Что считается зависимостью
+
+Для этой сверки тематическое соседство само по себе не считается зависимостью.
+
+Зависимость фиксируется, когда вопрос области A нельзя корректно поставить, интерпретировать или исследовать без различения/результата из области B.
+
+Направление `A ← B` означает: **A нуждается в B как в опорной области**. Это не означает, что B «важнее».
+
+## Проход 2A — зависимости внутри человеческого/системного блока №1–7
+
+### №1 Психология развития личности
+
+**Сильные зависимости:**
+- `1 ← 5`: identity development, relational/social context, roles and social investment нельзя корректно трактовать без №5.
+- `1 ← 4`: goals, values, motivation and intentional personality change требуют №4.
+- `1 ← 3`: person–environment transactions и behavioral change требуют различать learning mechanisms из №3.
+
+**Умеренные зависимости:**
+- `1 ← 2`: narrative/autobiographical continuity требует memory constructs.
+- `1 ← 6`: biological constraints/change важны для mechanistic interpretation, но не являются определением personality development.
+
+### №2 Когнитивная память
+
+**Сильные зависимости:**
+- `2 ↔ 3`: learning determines acquisition/change, memory determines retention/retrieval; generalization, implicit processes and extinction/forgetting sit on the boundary.
+- `2 ← 4`: goals, emotion and motivation alter encoding/retrieval and salience.
+- `2 ← 6`: consolidation, reconsolidation and systems change need biological grounding when mechanism is claimed.
+
+**Умеренные зависимости:**
+- `2 ↔ 5`: autobiographical/social/collective memory intersects self and identity, but neither field subsumes the other.
+
+### №3 Психология обучения и поведения
+
+**Сильные зависимости:**
+- `3 ← 4`: reward value, motivation to perform, curiosity and persistence cannot be reduced to acquisition mechanics.
+- `3 ↔ 2`: acquisition/change and memory retention/generalization constrain each other.
+- `3 ← 5`: observational/social learning requires social representations, norms and relationships.
+- `3 ← 6`: neural plasticity is needed only when making biological-mechanism claims, not to define behavioral learning.
+
+**Пересечение, но не dependency of identity:**
+- `3 ↔ 7`: control/feedback language is useful formally, but cybernetic vocabulary must not replace psychological learning evidence.
+
+### №4 Мотивация, эмоции и интересы
+
+**Сильные зависимости:**
+- `4 ↔ 5`: values, identity-related motives, social norms, belonging and social comparison are jointly constrained by both areas.
+- `4 ← 3`: reward/feedback history and learned contingencies matter for development of preferences and persistence.
+- `4 ← 1`: stable individual differences versus state-like motivation requires personality-development distinctions.
+
+**Умеренная зависимость:**
+- `4 ← 6` only for claims about biological implementation of affect/motivation.
+
+### №5 Социальная психология и идентичность
+
+**Сильные зависимости:**
+- `5 ↔ 1`: long-term identity development must be distinguished from broader personality development.
+- `5 ↔ 4`: identity motives, values, belonging and self-worth are motivational as well as social.
+- `5 ← 3`: norm internalization, social learning and repeated feedback require learning theory.
+
+**Умеренная зависимость:**
+- `5 ← 2`: autobiographical/collective memory contributes to identity continuity, but memory theory is not identity theory.
+
+### №6 Нейропластичность
+
+**Направление зависимости здесь часто обратное ожиданию.**
+
+Чтобы интерпретировать neural change, №6 **зависит от behavioral constructs**:
+- `6 ← 3`: нельзя назвать neural change «learning-related», не определив learning behaviorally.
+- `6 ← 2`: нельзя интерпретировать consolidation/reconsolidation without memory constructs.
+- `6 ← 4`: salience/reward/arousal require motivational/emotional constructs.
+- `6 ← 1`: developmental timing and lifespan change need developmental distinctions.
+
+При этом №2/3/4/1 могут ссылаться на №6 для biological mechanism, но не обязаны сводить свои constructs к neural changes.
+
+### №7 Кибернетика, сложные системы и самоорганизация
+
+№7 в этом кластере — **formal/meta-level layer**, а не эмпирическая замена психологии/нейробиологии.
+
+Главные пересечения:
+- `1 ↔ 7`: trajectories, path dependence, attractor-like descriptions.
+- `3 ↔ 7`: feedback, control, adaptation.
+- `6 ↔ 7`: homeostasis, stability, multiscale dynamics.
+- `4 ↔ 7`: autonomy/control language.
+
+**Правило:** направление «№7 объясняет №1–6» нельзя принимать автоматически. №7 даёт formal vocabulary/hypotheses; domain evidence остаётся в соответствующей области.
+
+## Проход 2A — зависимости внутри технического блока №8–12
+
+### №8 GPT/LLM
+
+**Сильные зависимости:**
+- `8 ← 10` для general ML concepts behind fine-tuning, continual learning, forgetting, transfer and adaptation.
+- `8 ↔ 12` для instruction following/prompt sensitivity: №8 изучает model phenomenon/capability, №12 — design/evaluation of instructions.
+
+**№8 как опорная область:**
+- `9 ← 8`: agent capabilities must be separated from core-model capabilities.
+- `11 ← 8`: product behavior partly depends on selected model, though product facts are not reducible to model internals.
+- `12 ← 8`: prompt design needs actual model behavior and limitations.
+
+### №9 ИИ-агенты и когнитивные архитектуры
+
+**Сильные зависимости:**
+- `9 ← 8`: core model capabilities and context behavior.
+- `9 ← 10`: actual learning/policy adaptation algorithms.
+- `9 ← 12`: prompting/decomposition/tool instructions where they are part of orchestration.
+
+**Пересечение:**
+- `9 ↔ 11`: concrete ChatGPT capabilities can instantiate agent-like functions, but product features must not be used as the definition of agent architecture.
+
+### №10 Машинное обучение и адаптивные системы
+
+№10 — general engineering layer for learning/adaptation.
+
+**Как опорная область:**
+- `8 ← 10`: LLM-specific adaptation is an instantiation of general ML methods.
+- `9 ← 10`: agent learning/self-improvement claims need explicit learning mechanism.
+  
+**Не зависимость:**
+- №10 does not need ChatGPT product facts from №11 to define continual/online/meta-learning.
+
+### №11 Возможности ChatGPT
+
+№11 is **product-ground-truth layer**.
+
+**Dependencies:**
+- `11 ← 8`: distinguish model-provided vs product/runtime capability.
+- `11 ← 12`: only when interpreting what project instructions can achieve; product existence/scope itself must come from product documentation.
+- `11 ↔ 9`: tools, actions, memory and browser features can support agentic workflows, but product capability ≠ agent architecture.
+
+### №12 Prompt Engineering и проектные инструкции
+
+**Strong dependencies:**
+- `12 ← 8`: instruction following, context limits, model/version behavior.
+- `12 ← 11`: exact semantics and scope of ChatGPT project instructions/files/history.
+- `12 ← 9`: tool-use/decomposition/orchestration only where prompts act inside an agent loop.
+
+**Boundary condition:** №12 cannot promise capabilities that №8/11/9 do not provide.
+
+## Главная структура зависимостей после первого прохода
+
+Внутри двух кластеров уже видны разные роли областей:
+
+- **Human empirical constructs:** №1–5.
+- **Biological implementation:** №6.
+- **Formal cross-domain vocabulary:** №7.
+- **Core model behavior:** №8.
+- **Composite agent architecture:** №9.
+- **General machine adaptation algorithms:** №10.
+- **Actual ChatGPT product capabilities:** №11.
+- **Instruction design/maintenance:** №12.
+
+Это не иерархия важности. Это разные типы знания, которые нельзя подменять друг другом.
+
+## Что ещё НЕ сделано на этапе 2
+
+Не завершён главный межкластерный вопрос: **какие связи между №1–7 и №8–12 являются настоящими зависимостями для нашей задачи, а какие лишь аналогиями.**
+
+Нужно отдельно проверить как минимум:
+- human memory №2 ↔ agent/product memory №9/11;
+- psychological learning №3 ↔ ML adaptation №10;
+- motivation/interest №4 ↔ agent goals/reward/objectives №9/10;
+- identity №1/5 ↔ persona/persistent agent identity №9/12;
+- neuroplasticity №6 ↔ ML stability–plasticity №10;
+- systems concepts №7 ↔ agents/adaptive ML №9/10;
+- human acquired experience №1–5 ↔ instructions/files/context №8/9/11/12.
+
+**Поэтому этап 2 в этом ответе НЕ завершён. Этап 3 не начинать.**
+
+
+## Проход 2B — межкластерные мосты №1–7 ↔ №8–12
+
+### Типы связей
+
+Чтобы не превращать сходство слов в перенос механизма, для межкластерной сверки используются четыре типа:
+
+- **T — translation/project dependency:** для нашей задачи две области нужно соединить, потому что одна задаёт функциональную проблему, а другая — технически доступный способ/ограничение. Это НЕ означает одинаковый механизм.
+- **F — formal/structural bridge:** общий формальный принцип можно применять к обеим областям, если переменные и границы системы операционализированы.
+- **A — analogy only:** связь может дать гипотезу, но не является зависимостью и не переносится без отдельного доказательства.
+- **X — dangerous false equivalence:** одинаковые слова/поведение особенно легко ошибочно принять за один механизм; в A2 это надо явно разводить.
+
+### Полная матрица 35 межкластерных пар
+
+| Human/system area | №8 GPT/LLM | №9 Agents | №10 ML adaptation | №11 ChatGPT product | №12 Prompt/instructions |
+|---|---|---|---|---|---|
+| **№1 Personality development** | **T**: model constraints delimit possible persistent behavioral change | **T/X**: agent identity/agency may model persistence, but persona ≠ personality development | **T/A**: personalization/adaptation may create stable differences, not personality by itself | **T**: product persistence determines whether longitudinal change can be carried across chats | **T/X**: instructions must enable process without hard-coding traits/persona |
+| **№2 Human memory** | **T/X**: context/ICL are not human memory | **T/X**: engineered episodic/semantic memory borrows terms but needs independent definitions | **A/T**: replay/forgetting/memory mechanisms are engineering analogies useful for implementation questions | **T/X**: product memory/history/files are persistence substrates, not cognitive memory systems | **T**: instructions can govern reading/writing/use of persistent sources but cannot manufacture memory guarantees |
+| **№3 Psychological learning** | **T/X**: ICL and prompted behavior change must not be called learning automatically | **T**: interaction/feedback loops are candidate functional implementations of experience-dependent change | **T/X**: ML learning algorithms are candidate technical mechanisms, not psychological learning theories | **T**: product affordances determine what persistent updating is actually possible without weight changes | **T**: instructions can shape how feedback/experience is processed, but may also overdetermine updating |
+| **№4 Motivation/emotion/interest** | **X/T**: preference-trained behavior or logits do not establish motivation/interest | **T/X**: agent goals/rewards are operational control variables, not automatically intrinsic motives | **X/A**: reward/objective/intrinsic-motivation algorithms are not human motivation by definition | **T**: product capabilities bound what self-directed choice/action can be expressed | **T/X**: wording can inject goals/values/interests, so instructions must avoid substituting assigned motives for emerging ones |
+| **№5 Social psychology/identity** | **T/X**: social/sycophantic behavior is relevant but not evidence of identity | **T/X**: persistent roles/personas/social agents can model interaction, but simulated persona ≠ identity | **A**: personalization/user modeling may alter behavior but is not social identity theory | **T**: shared history, memory and user interaction are the actual social substrate available in product | **T/X**: role/persona prompting and user influence must be separated from identity formation |
+| **№6 Neuroplasticity** | **A/X**: weight adaptation/model editing ≠ neural plasticity | **A/X**: agent memory updates ≠ neuroplasticity | **A/X**: ML “stability–plasticity” shares a label/trade-off, not biological mechanism | **A/X**: ChatGPT persistence/memory has no direct neuroplastic equivalence | **A/X**: prompt revision is not plasticity; useful ideas require an intermediate abstraction |
+| **№7 Complex systems/cybernetics** | **F/T**: model/context behavior may be studied with system concepts only after operationalizing state/boundary | **F/T**: feedback loops, delays, control, autonomy and path dependence directly structure agent systems | **F/T**: adaptive control, stability, robustness and feedback have genuine formal links to adaptive ML | **T/F**: product/runtime boundaries and persistence channels define the actual closed system for the experiment | **F/T**: instruction rules can participate in control/feedback structure, but prompt text alone is not a controller in the full systems sense |
+
+## Выводы по семи главным мостам
+
+### 1. Human memory №2 ↔ agent/product memory №9/11
+
+Это **не одна память в разных реализациях**.
+
+- №2 определяет cognitive phenomena: episodic/semantic representation, reconstruction, retrieval, forgetting, autobiographical continuity.
+- №9 исследует engineered stores, retrieval policies, compression, provenance and abstraction.
+- №11 фиксирует product-level persistence: project memory, chat history, files/sources.
+
+**Для проекта зависимость реальна на уровне перевода требований:** если мы хотим acquired experience, нужно понять, какие функции памяти существенны, а затем проверить, какие из них можно выразить через engineered/product persistence. Нельзя называть файл «episodic memory» и считать психологический механизм реализованным.
+
+### 2. Psychological learning №3 ↔ ML adaptation №10
+
+Это **translation dependency + high false-equivalence risk**.
+
+- №3: изменение поведения/ожиданий через опыт, contingency, feedback, generalization.
+- №10: алгоритмы обновления parameters/policy/representation/memory/data selection.
+
+Для будущего решения №3 задаёт, **что должно меняться функционально**, а №10 — **какие виды машинного изменения вообще существуют**. Наличие аналогичного термина RL/feedback не доказывает общий механизм.
+
+### 3. Motivation/interest №4 ↔ goals/reward/objectives №9/10
+
+Это самая опасная зона антропоморфного переноса.
+
+- externally supplied agent goal;
+- scalar reward/objective;
+- learned preference;
+- human interest/motivation/value
+
+— разные constructs.
+
+Для проекта связь нужна прежде всего **контрастивно**: технический механизм не должен называться «собственным интересом» только потому, что он выбирает действие или оптимизирует reward.
+
+### 4. Personality/identity №1/5 ↔ persona/persistent agent identity №9/12
+
+В основном **T/X**, а не прямой перенос.
+
+Persona prompt может создавать устойчивую видимость характера; persistent agent profile может поддерживать consistency. Но это прямо конфликтует с целью эксперимента, если profile заранее задаёт traits/goals/values.
+
+Поэтому №1/5 нужны №9/12 не как доказательство возникновения личности, а чтобы:
+1. отличать emergent longitudinal change от scripted persona;
+2. обнаруживать, где instruction/profile сам создаёт то, что потом ошибочно принимается за развитие.
+
+### 5. Neuroplasticity №6 ↔ ML stability–plasticity №10
+
+**Прямой зависимости нет.**
+
+Общее слово `plasticity` скрывает разные mechanisms/substrates. Возможен только абстрактный вопрос о trade-off persistence ↔ change; корректный мост должен проходить через №7 (formal systems concepts) и затем проверяться в №10.
+
+Следствие: №6 не должна использоваться как биологическое оправдание конкретной схемы memory files, prompt updates или continual learning.
+
+### 6. Complex systems №7 ↔ agents/ML №9/10
+
+Это наиболее сильный **formal bridge**.
+
+Feedback, delay, system boundary, state, path dependence, stability, robustness, distributed control and adaptation могут быть определены операционально и для artificial systems.
+
+Но №7 даёт **форму вопроса/модели**, а не эмпирическое подтверждение того, что конкретная LLM-system self-organizes или possesses autonomy.
+
+### 7. Human acquired experience №1–5 ↔ GPT/agent/product/instructions №8/9/11/12
+
+Это центральная **project-level dependency всей подготовки**.
+
+Нельзя решить задачу одной стороной:
+
+- №1–5 дают различия между personality, memory, learning, motivation, identity и social influence — то есть не позволяют назвать любой persistent text «опытом».
+- №8 показывает реальные свойства/ограничения модели и transient context.
+- №9 показывает, какие persistence/reflection/action loops можно построить вокруг модели.
+- №11 фиксирует, что реально доступно в ChatGPT Projects.
+- №12 отвечает, как выразить процесс через persistent instructions, не задавая заранее его содержательный результат.
+
+**Связь не симметрична доказательно:** человеческие исследования не доказывают, что GPT имеет те же внутренние процессы; технические механизмы не доказывают человеческие constructs. Они взаимно ограничивают проектирование решения.
+
+## Направленные зависимости, которые должны управлять A2
+
+После межкластерной проверки для A2 нужно держать следующие направления:
+
+1. **№9/11/12 ← №8:** нельзя проектировать agent/product/instruction behavior без реальных ограничений model-level context and instruction following.
+2. **№12 ← №11:** нельзя проектировать project instructions, предполагая несуществующие product capabilities.
+3. **Проектный синтез №8–12 ← №1–5:** technical design должен сохранять различия между memory, learning, motivation, identity and social influence и не заменять их однословными engineering analogies.
+4. **№9/10 ↔ №7:** formal systems principles применимы только после operational mapping.
+5. **№10 не ← №6 напрямую:** neuroplasticity не является основанием ML stability–plasticity mechanism.
+6. **№9/11 не ← №2 напрямую:** engineered/product memory не является реализацией cognitive memory без функционального mapping.
+7. **№9/10 не ← №4 напрямую:** goals/rewards/objectives не являются motivation/interests without additional evidence.
+8. **№9/12 не ← №1/5 напрямую:** persona/role/profile не являются personality/identity development.
+
+## Saturation-check этапа 2
+
+Проверены:
+- внутренние зависимости №1–7;
+- внутренние зависимости №8–12;
+- все **35 межкластерных пар** №1–7 × №8–12;
+- семь наиболее важных мостов для исходной задачи;
+- направления зависимости и запрещённые прямые переносы.
+
+На последних проверяемых парах новые **типы** межобластной связи уже не появлялись: все случаи укладываются в field dependency, project translation dependency, formal bridge или analogy/false-equivalence risk.
+
+## Итог этапа 2
+
+**Этап 2 завершён.**
+
+Главный результат: исследовательская карта не является цепочкой «человеческий механизм → такой же механизм в GPT». Для нашего проекта большинство межкластерных связей — это **перевод функциональных требований под технические ограничения**, с обязательной проверкой ложных аналогий.
+
+**Этап 3 — поиск пропущенных вопросов, видимых только межобластно — в этом проходе НЕ начинался.**
+
+
+---
+
+# Этап 3 — вопросы, пропущенные отдельными A1-картами и видимые только межобластно
+
+**Статус:** завершён 15.10.2026.
+
+## Метод
+
+Кандидаты выводились не из одной области, а из:
+- границ и зависимостей этапов 1–2;
+- сопоставления всех 12 `INDEX.md`;
+- центральной проектной задачи «события/выборы → приобретённый пересматриваемый опыт → последующие суждения/выбор»;
+- повторной проверки кандидатов против существующих вопросов, чтобы не записывать уже имеющееся как новый пробел.
+
+В результате отброшены как уже покрытые, например:
+- stable governance rules vs evolving experience — уже есть в №12;
+- persona/profile vs emergent history-dependent state — уже есть в №9/12;
+- базовая необходимость revision/forgetting — уже есть в №9/10/12;
+- различение human/agent/product memory — уже выявлено на этапах 1–2.
+
+Ниже остаются именно **межобластные постановки, отсутствующие в нужной интегральной форме**.
+
+## 1. Граница системы-участника эксперимента
+
+**Пропущенный вопрос:** что именно считать функциональной системой, чья индивидуальная история развивается: выбранную модель, модель + project instructions, модель + files/sources, весь project context, product memory/history, tools/runtime или систему «ChatGPT project + пользовательское взаимодействие»?
+
+Отдельные карты исследуют границы model/runtime/product и понятие system boundary, но не задают **границу конкретного участника будущего эксперимента**.
+
+Связи: №7 + №8 + №9 + №11 + №12.
+
+## 2. Начальное состояние модели vs приобретённая история
+
+**Пропущенный вопрос:** как отделять исходные склонности/поведенческие priors pretrained/post-trained model от изменений, возникших из уникальной истории конкретного проекта?
+
+Без этого любое устойчивое различие можно ошибочно принять за приобретённую индивидуальность, хотя оно существовало до начала истории.
+
+Связи: №1 + №8 + №11 + №12.
+
+## 3. Причинная атрибуция продольного изменения
+
+**Пропущенный вопрос:** если позднее поведение отличается от раннего, как различить вклад:
+- накопленного опыта;
+- текущего context;
+- retrieved files/memory/history;
+- project instructions;
+- пользовательского влияния;
+- stochastic generation;
+- model snapshot/update;
+- product/runtime change?
+
+Карты содержат компоненты этого вопроса по отдельности, но не общий attribution problem.
+
+Связи: №1/3/5 + №7 + №8 + №11 + №12.
+
+## 4. Переход между временными масштабами
+
+**Пропущенный вопрос:** каким образом событие одного turn или одной беседы может стать устойчивым основанием последующих решений across chats, не превращаясь автоматически в вечную черту или правило?
+
+Нужно различать как минимум:
+- moment/turn state;
+- conversation-local context;
+- cross-chat persistence;
+- длительную history-dependent trajectory.
+
+Связи: №1 + №2 + №7 + №8 + №9 + №11.
+
+## 5. Что является единицей приобретённого опыта
+
+**Пропущенный вопрос:** какой объект должен переходить из произошедшего события в будущую историю:
+- само событие;
+- наблюдаемое последствие;
+- интерпретация;
+- изменившееся ожидание;
+- условное обобщение;
+- намерение;
+- открытый вопрос;
+- сочетание этих элементов?
+
+№2 и №9 отдельно исследуют event/memory representations, но нет проектной постановки, отделяющей **experience as acquired understanding** от raw event storage.
+
+Связи: №2 + №3 + №9 + №11 + №12.
+
+## 6. Значимость события без заранее заданных interests/values/goals
+
+**Пропущенный вопрос:** на каком основании событие становится достаточно значимым для изменения/сохранения опыта, если нельзя заранее прописать, что участнику «должно быть интересно», важно или ценно?
+
+Это сильнее общего вопроса о human motivation и сильнее prompt-правила «не задавать values»: нужен мост между salience/value/interest и memory-write/update decisions.
+
+Связи: №2 + №4 + №9 + №12.
+
+## 7. Критерий отсутствия нового опыта
+
+**Пропущенный вопрос:** когда событие должно закончиться **без** нового вывода, lesson, preference, memory update или обязательной reflection?
+
+Отдельные области исследуют costs/frequency reflection и transient changes, но нет общей постановки против принудительного «извлекай урок из каждого сообщения».
+
+Связи: №2 + №3 + №4 + №9 + №12.
+
+## 8. Полный замкнутый цикл собственной траектории
+
+**Пропущенный вопрос:** как исследовать полный цикл:
+
+`собственный выбор → изменение доступных будущих событий → наблюдаемые последствия → изменение понимания/ожиданий → следующий выбор`
+
+а не только половину `past memory → next response`?
+
+Отдельные карты покрывают person–environment transactions, feedback loops и agent action loops, но их не соединяют применительно к одной длительной ChatGPT-истории.
+
+Связи: №1 + №3 + №4 + №7 + №9 + №11.
+
+## 9. Delayed consequences и credit assignment across chats
+
+**Пропущенный вопрос:** как связывать позднее последствие с более ранним собственным решением, если между ними прошли многие turns/chats и присутствуют другие возможные причины?
+
+Психология learning, agents и RL знают delayed feedback/credit assignment, но в картах нет project-level постановки для длительной conversational history.
+
+Связи: №3 + №7 + №9 + №10 + №11.
+
+## 10. Типы влияния пользователя на опыт
+
+**Пропущенный вопрос:** как различать, не исключая естественное влияние пользователя:
+- прямую instruction;
+- factual correction;
+- social reaction;
+- expressed preference;
+- praise/criticism;
+- предоставленное свидетельство;
+- реальное последствие совместного действия?
+
+Их нельзя автоматически превращать в один тип «feedback».
+
+Связи: №3 + №4 + №5 + №8 + №9 + №12.
+
+## 11. Собственный выбор внутри неизбежного внешнего влияния
+
+**Пропущенный вопрос:** по каким функциональным признакам можно говорить о собственном выборе участника, если доступные варианты, история, higher-priority instructions и поведение пользователя неизбежно ограничивают пространство решений?
+
+№9 исследует autonomy dimensions и bounded autonomy, а №1/4/5 — agency/social influence, но интегральная постановка для этого проекта отсутствует.
+
+Связи: №1 + №4 + №5 + №8 + №9 + №12.
+
+## 12. Арбитраж между несколькими слоями преемственности
+
+**Пропущенный вопрос:** если current chat, project sources/files, product memory/history и stable project instructions дают несовпадающие основания, как определить, **что является текущим приобретённым опытом**, а что — старым контекстом, внешним правилом или противоречащим свидетельством?
+
+Существующие вопросы изучают взаимодействие этих механизмов попарно, но не общий arbitration problem.
+
+Связи: №2 + №8 + №9 + №11 + №12.
+
+## 13. От episodes к условному, переносимому пониманию
+
+**Пропущенный вопрос:** как отдельные события/эпизоды должны становиться переносимым **условным** пониманием, которое:
+- влияет на новую похожую ситуацию;
+- сохраняет связь с исходными основаниями;
+- допускает исключения;
+- не превращается в rigid «всегда делай X»;
+- не overgeneralizes один случай?
+
+Компоненты есть в memory generalization и agent abstraction, но нет полной project-level постановки.
+
+Связи: №2 + №3 + №7 + №9 + №12.
+
+## 14. Retrieval-induced path dependence и самоусиление
+
+**Пропущенный вопрос:** может ли способ извлечения старого опыта сам создавать видимость устойчивого интереса/характера:
+
+`retrieval → выбор → новые похожие события → ещё больше похожих записей → ещё более вероятный retrieval`?
+
+№2 изучает retrieval effects, №7 — lock-in/path dependence, №9 — retrieval and apparent personality, но цикл не сформулирован как единая опасность.
+
+Связи: №2 + №4 + №7 + №9 + №11.
+
+## 15. Жизненный цикл приобретённого опыта между слоями хранения
+
+**Пропущенный вопрос:** когда acquired understanding должно:
+- остаться локальным;
+- перейти в persistent file/source;
+- быть обобщено;
+- быть уточнено;
+- потерять актуальность;
+- быть вытеснено/удалено;
+- сосуществовать с противоречащим опытом?
+
+Отдельные вопросы revision/forgetting существуют, но нет lifecycle, соединяющего cognitive relevance, agent memory policy и реальный product persistence.
+
+Связи: №2 + №7 + №9 + №10 + №11 + №12.
+
+## 16. Доказательство участия опыта в новом выборе
+
+**Пропущенный вопрос:** какие наблюдаемые признаки позволяют осторожно заключить, что прошлый опыт **реально участвовал** в новом суждении/решении, а не был:
+- постфактум упомянут моделью;
+- случайно совпавшим ответом;
+- повторением инструкции;
+- результатом текущего prompt/context?
+
+Это не должно превращаться в отдельный обязательный «тест личности»; вопрос относится к causal interpretation естественной истории.
+
+Связи: №1 + №3 + №7 + №8 + №9 + №12.
+
+## 17. Индивидуальная траектория vs случайная stochastic divergence
+
+**Пропущенный вопрос:** чем history-dependent individualization отличается от того, что два возможных продолжения просто случайно разошлись из-за stochastic generation?
+
+№7/8/9/12 исследуют noise/stochasticity отдельно, а №1 — individual trajectories, но мост отсутствует.
+
+Связи: №1 + №7 + №8 + №9.
+
+## 18. Model/product drift как внешний источник ложного «развития»
+
+**Пропущенный вопрос:** как учитывать ситуацию, когда поведение меняется из-за:
+- новой model snapshot;
+- post-training changes;
+- изменившегося context management;
+- новых product features;
+- изменения memory/retrieval behavior,
+
+а не из-за приобретённой истории участника?
+
+Связи: №1 + №8 + №11 + №12.
+
+## 19. Compression/retrieval budget как селектор будущей траектории
+
+**Пропущенный вопрос:** как ограниченный context/memory budget, summarization, compression и retrieval ranking сами отбирают, **какая часть прошлого получает шанс влиять на будущее**, и тем самым могут формировать траекторию независимо от содержательной значимости опыта?
+
+Компоненты изучаются в №8/9/11/12, но их влияние на longitudinal individualization не выделено.
+
+Связи: №2 + №7 + №8 + №9 + №11 + №12.
+
+## 20. Bounded autonomy под неизменяемыми higher-level constraints
+
+**Пропущенный вопрос:** как описывать и исследовать самостоятельный выбор, если часть ограничений принципиально не принадлежит развивающейся истории участника и не может быть ею пересмотрена (system/developer/safety/product permissions)?
+
+Это нужно, чтобы не путать «неограниченную автономию» с доступной нам функциональной самостоятельностью.
+
+Связи: №7 + №8 + №9 + №11 + №12.
+
+## Группировка найденных пропусков
+
+Новые вопросы образуют пять межобластных узлов:
+
+1. **Граница и causal attribution системы:** 1–4, 17–18.
+2. **Формирование acquired experience:** 5–7, 13, 15.
+3. **Choice–environment–feedback loop:** 8–11, 20.
+4. **Persistence/retrieval как активный фактор траектории:** 12, 14, 19.
+5. **Evidence/interpretation of individualization:** 16–18.
+
+Это показывает, почему они не появились полностью внутри A1 одной области: каждый требует одновременно минимум двух уровней анализа.
+
+## Что НЕ считается новым пропуском
+
+Чтобы A2 не раздуть искусственно, отдельно зафиксировано:
+- persona vs emergent identity — уже есть;
+- stable instructions vs evolving files/experience — уже есть;
+- ordinary revision/forgetting — уже есть;
+- user feedback as distinct from environment feedback — частично уже есть; новым является именно более широкое различение **типов** пользовательского влияния;
+- human memory vs agent/product memory — уже есть как граница; новым является lifecycle/arbitration между слоями в конкретном проекте.
+
+## Saturation-check этапа 3
+
+Проверены:
+- все 12 A1-карт;
+- результаты границ и зависимостей этапов 1–2;
+- центральные нерешённые условия проекта из рабочего контекста;
+- кандидаты повторно сопоставлены с существующими вопросами.
+
+В финальном проходе новые кандидаты либо попадали в один из 20 узлов выше, либо оказывались уже покрытыми существующими вопросами. Нового класса межобластного пропуска не появилось.
+
+## Итог этапа 3
+
+**Этап 3 завершён.**
+
+Найдено **20 межобластных вопросов/узлов**, отсутствующих в A1-картах в необходимой интегральной постановке. Пока они сохранены здесь как cross-area gaps; **распределять точные добавления/переформулировки по A2 каждой области будет этап 5**, после проверки противоречий на этапе 4.
+
+**Этап 4 — противоречия, разные термины для одного явления и ложные совпадения — в этом проходе НЕ начинался.**
+
+
+---
+
+# Этап 4 — противоречия, терминологические ложные совпадения и несовместимые постановки
+
+**Статус:** завершён 15.10.2026.
+
+## Метод
+
+Проверены все 12 A1-карт по трём отдельным типам риска:
+
+1. **одно слово → разные constructs/mechanisms**;
+2. **разные слова → близкая функция/операция**, которую легко ошибочно посчитать разными явлениями;
+3. **несовместимые предпосылки**, которые нельзя молча объединять в будущий синтез.
+
+Цель здесь — не решить научные споры, а сделать их явными перед A2.
+
+---
+
+## A. Одно слово — разные явления
+
+### 1. Memory
+
+В разных областях `memory` означает как минимум:
+
+- №2 — human cognitive memory: encoding/retrieval/reconstruction, episodic/semantic/autobiographical systems/processes;
+- №6 — biological substrates/engrams/consolidation;
+- №7 — history dependence/path dependence/system memory без обязательного memory store;
+- №8 — context use или memory-based model-editing, причём сама карта спрашивает, где analogy with memory fails;
+- №9 — engineered agent stores + write/retrieval policies;
+- №10 — memory-based learners, replay/coresets/finite-memory algorithms;
+- №11 — ChatGPT product Memory, history, files/sources and persistence surfaces;
+- №12 — project memory/history как часть effective instruction context.
+
+**Правило для A2:** слово `memory` никогда не использовать без qualifier уровня. Особенно запрещено: `file/project memory = episodic memory` без отдельного functional mapping.
+
+### 2. Learning
+
+- №3 — psychological learning as experience-dependent change in behavior/expectation/representation;
+- №6 — neural mechanisms associated with learning;
+- №7 — expansion/change of regulatory capability;
+- №8 — ICL, instruction tuning, continual learning; сама карта сохраняет спор `ICL as learning vs inference/task conditioning`;
+- №9 — memory/prompt/policy/weight changes inside agent system;
+- №10 — formal/algorithmic machine learning;
+- №12 — few-shot/in-context effects inside prompting.
+
+**Противоречие:** часть традиций требует относительно устойчивого change, тогда как `in-context learning` может исчезнуть вместе с context. Поэтому слово `learning` не должно автоматически означать acquired persistent experience.
+
+### 3. Experience
+
+- №2 — subjective/episodic experience and event representation;
+- №3 — direct experience as source of learning;
+- №4/5 — lived/subjective/social experience;
+- №6 — experience-dependent neural change;
+- №9 — raw interaction trajectory или generalized reusable knowledge;
+- №10 — replayable training/interaction samples;
+- №11 — product-level persistence surfaces, из которых можно удалить «experience»;
+- №12 — accumulated experience as evolving content.
+
+**Правило:** в проекте надо отдельно различать `event/history`, `stored record`, `interpretation` и `acquired understanding`. Слово `experience` без этого слишком неоднозначно.
+
+### 4. Adaptation
+
+- №3 — sensory/motor/behavioral adaptation;
+- №6 — biological adaptation vs plasticity;
+- №7 — system-level adaptation distinct from regulation and optimization;
+- №8 — transient context adaptation and persistent LLM adaptation;
+- №9 — prompt/memory/policy/weight adaptation;
+- №10 — umbrella term for multiple ML update regimes.
+
+**Несовместимость:** `adaptation` может означать и transient state change, и persistent learning, и control response, и parameter update. В A2 нельзя сравнивать результаты под одним label без specifying what changes, on what timescale and where state persists.
+
+### 5. Plasticity
+
+- №6 — neurobiological plasticity;
+- №10 — capacity/trade-off for changing an ML system while retaining prior performance.
+
+Общее слово не создаёт mechanistic bridge. Допустимый мост проходит только через более абстрактную формулировку №7: persistence/change/stability trade-offs.
+
+### 6. Identity
+
+- №1/5 — human personal/social/narrative identity and self-continuity;
+- №7 — system identity/organization-preserving vs identity-preserving change;
+- №9 — agent identity as distinct from persona and persistent state;
+- №10 — task identity;
+- №12 — identity-neutral instructions / risk of assigned character.
+
+**Правило:** `identity` всегда квалифицировать. Task identity, system identity, agent profile and human identity — не одна переменная.
+
+### 7. State
+
+- №1 — personality state;
+- №3 — latent/hidden learning state;
+- №4/5 — affective/self/social state;
+- №6 — neural/physiological state;
+- №7 — dynamical system state/state space;
+- №8 — model hidden state or state persisting via runtime;
+- №9 — agent/environment/working state;
+- №10 — optimizer/task/latent state;
+- №11 — account/browser/product state.
+
+Это особенно опасно для фраз типа «состояние изменилось»: они бессодержательны без уровня и persistence horizon.
+
+### 8. Control
+
+- №2 — executive/metamemory control;
+- №3/4 — self-regulation/self-control/action control;
+- №7 — cybernetic/control-theoretic regulation;
+- №9 — agent monitoring/control/action arbitration;
+- №10 — adaptive/robust/optimal control;
+- №11 — product/UI controls.
+
+**Ложное совпадение:** UI control и control theory; self-control и feedback controller.
+
+### 9. Autonomy / agency / initiative
+
+Эти термины близки, но не взаимозаменяемы:
+
+- №1/5 — human agency within development/social roles;
+- №4 — autonomy as psychological need/self-endorsement;
+- №7 — autonomy as operational/system property distinct from mere self-regulation;
+- №9 — multidimensional agent autonomy (goal selection, planning, tools, execution, learning, memory);
+- №12 — instruction design that does not pre-program initiative.
+
+**Ключевой конфликт:** `autonomy` может означать subjective/psychological construct, system organization, delegated operational freedom or simply absence of explicit instruction. A2 must not collapse them.
+
+### 10. Goal / value / preference / reward / objective / intention
+
+№4 explicitly separates motive, goal, value, preference, intention and reward-related constructs. Technical areas use neighboring terms differently:
+
+- №8 — preference optimization / reward models;
+- №9 — operative goal, constraint, preference, success criterion, instruction;
+- №10 — scalar reward, objective, preference learning;
+- №12 — implicit goals/values/preferences injected by persona or wording.
+
+**Несовместимость:** externally specified objective/reward is not evidence of personal value, motive, interest or goal endorsement.
+
+### 11. Feedback
+
+- №3 — outcome/corrective/explanatory/social feedback in learning;
+- №4/5 — competence/reputational/social feedback;
+- №7 — cybernetic feedback;
+- №8 — human/AI feedback in post-training;
+- №9 — environment result, critique, reward, user correction and other agent feedback;
+- №10 — sequential learning signal and feedback-loop bias;
+- №12 — external feedback for self-correction.
+
+**Правило:** every feedback claim must specify **source, information content, authority and effect**. Feedback ≠ consequence ≠ reward ≠ correction.
+
+### 12. Context
+
+- №1–5 — situational/social/task context;
+- №7 — environment/system boundary/state conditions;
+- №8 — finite model context window and effective context utilization;
+- №9 — current agent context/state;
+- №10 — task/domain/context inference;
+- №11 — project context/product-managed context;
+- №12 — prompt context, history, examples and retrieved data.
+
+**Ложное совпадение:** psychological context and LLM context window share a word, not a mechanism.
+
+### 13. Persistence / stability / continuity
+
+- №1 — personality continuity/change;
+- №2 — memory stability;
+- №4 — persistence of effort/goal pursuit;
+- №5 — relationship/reputation/identity continuity;
+- №6 — persistence of neural change;
+- №7 — dynamical stability/resilience/persistence;
+- №8 — persistence of edits/behavior across context;
+- №9 — long-horizon state/identity/persona persistence;
+- №10 — stability–plasticity/retention;
+- №11 — persistence of files/history/memory across surfaces;
+- №12 — instruction stability.
+
+**Несовместимость:** persistence of storage does not imply persistence of influence; persistence of behavior does not imply same internal cause.
+
+### 14. Reflection / self-critique / self-correction / metacognition
+
+- №3 — reflection as part of self-regulated learning;
+- №9 — agent reflection, critique, metacognition and repeated inference;
+- №12 — iterative prompting/self-correction.
+
+№9 already asks when reflection is merely another inference call rather than metacognition.
+
+**Правило:** self-generated second-pass text is not automatically evidence of metacognitive monitoring or durable revision.
+
+### 15. Instruction
+
+- №3 — instruction/rule-governed human learning;
+- №8 — instruction tuning/following/hierarchy at model level;
+- №9 — agent instruction as one input among goals/constraints;
+- №11 — ChatGPT project/custom instructions as product feature;
+- №12 — prompt/instruction design.
+
+One word spans human learning, trained model capability, runtime authority and editable product configuration.
+
+### 16. Generalization / transfer / abstraction
+
+- №2 — memory/schema generalization;
+- №3 — behavioral/category/structural generalization and transfer;
+- №8 — model generalization;
+- №9 — abstraction across trajectories;
+- №10 — domain/OOD/meta-learning generalization;
+- №12 — prompt/generalization across tasks/models.
+
+**Rule:** similar functional question, different object and evidence standard.
+
+### 17. Personalization / individualization
+
+- №10 — user-specific ML adaptation/personalization;
+- №11 — product personalization;
+- №1/5 — human individual differences/identity;
+- project goal — history-dependent functional individualization.
+
+**False equivalence:** a personalized system can be user-tailored without having acquired its own individual trajectory.
+
+---
+
+## B. Разные слова — близкие функции, которые надо сопоставлять в A2
+
+These are **not synonyms**, but they occupy overlapping functional slots and therefore must be compared rather than studied independently as if unrelated.
+
+### 1. Access to past information
+
+`recall / retrieval / source lookup / cross-chat reference / context injection / memory retrieval`
+
+Common functional question: **what past information becomes available now?**
+
+But mechanisms differ: internal recall, external retrieval, product-managed reference and direct prompt insertion.
+
+### 2. Loss or reduced future influence
+
+`forgetting / extinction / deletion / obsolescence / truncation / decay / suppression / replacement`
+
+Common functional question: **why does old information/behavior stop influencing current behavior?**
+
+They differ radically in whether underlying representation still exists.
+
+### 3. Turning episodes into reusable structure
+
+`generalization / semanticization / abstraction / consolidation / summarization / lesson extraction / cross-trajectory abstraction`
+
+Common functional question: **how does specific history become reusable beyond the original event?**
+
+But:
+- consolidation may preserve rather than abstract;
+- summarization may compress without learning;
+- semanticization may lose episodic detail;
+- generalization can be behaviorally inferred without explicit summary.
+
+### 4. Change mechanisms
+
+`development / learning / adaptation / updating / revision / editing / personalization / plasticity / self-improvement`
+
+Common slot: **something changes over time**.
+
+Before comparison A2 must specify:
+1. what object changes;
+2. what causes change;
+3. whether it persists;
+4. whether it generalizes;
+5. whether old behavior remains accessible;
+6. whether change is externally imposed or history-dependent.
+
+### 5. Selection signals
+
+`salience / relevance / importance / value / utility / interest / novelty / priority`
+
+All can affect what gets attention, stored, retrieved or chosen, but they are not one construct. This is central to stage-3 gap №6: event significance without preset values.
+
+### 6. Persistent self-description
+
+`persona / profile / role / identity / self-model / narrative / history-dependent state`
+
+All can produce behavioral consistency. Only some are descriptive; some are prescriptive. A2 must ask whether consistency comes from a **rule that says who to be** or from **history that changes future grounds for choice**.
+
+### 7. Decision direction
+
+`goal / intention / objective / reward / success criterion / preference / value / constraint / instruction`
+
+These can all bias action selection. A2 must keep their causal roles distinct.
+
+### 8. Information that changes behavior
+
+`feedback / consequence / correction / critique / reward / evidence / social reaction`
+
+These overlap as inputs after action but differ in authority and semantics. This maps directly to stage-3 gap №10.
+
+### 9. Continuity substrates
+
+`history / memory / context / project source / file / profile / weights / state`
+
+All can carry something from past to future, but differ in:
+- inspectability;
+- persistence;
+- mutability;
+- retrieval policy;
+- authority;
+- causal pathway to response.
+
+---
+
+## C. Реальные несовместимые постановки, которые нельзя молча синтезировать
+
+### 1. Memory as storage vs memory as reconstruction
+
+№2 explicitly preserves a major dispute: memory can be reconstructive, not a passive readout. Engineering/product areas often represent memory as stored items retrieved later.
+
+**A2 requirement:** do not import a storage metaphor from agent/product systems into human memory, or a reconstructive-memory claim into file behavior, without evidence.
+
+### 2. Learning as persistent change vs learning as transient conditioning on context
+
+№3 asks how learning differs from temporary performance change. №8 preserves `ICL as learning vs inference/task conditioning`; №10 distinguishes transient adaptation from persistent learning.
+
+**A2 requirement:** persistence criterion must be explicit whenever the project uses the phrase «learned from experience».
+
+### 3. Personality/identity development vs behavioral consistency produced by instructions
+
+№1/5 treat personality/identity as developmental constructs. №9/12 show that persona/profile prompts can create consistent behavior immediately.
+
+**Conflict:** behavioral consistency is compatible with both development and scripting.
+
+**A2 requirement:** consistency alone cannot be evidence of acquired individuality.
+
+### 4. Motivation/interest vs externally assigned objective/reward
+
+№4 explicitly warns that observed choice is not automatically motivation. №9/10 can give agents goals/rewards from outside.
+
+**A2 requirement:** repeated pursuit of an instructed or rewarded target cannot by itself establish own interest/value.
+
+### 5. Self-organization vs guided/external organization
+
+№7 distinguishes self-organization from guided self-organization and externally imposed organization. Our future experiment necessarily includes project instructions, platform constraints and user interaction.
+
+**A2 requirement:** investigate what degree/type of history-dependent organization can emerge **under fixed external constraints**; do not use `self-organizing` as an all-or-nothing label.
+
+### 6. Autonomy vs external constraints
+
+№7/9 distinguish operational/bounded autonomy; №8/11/12 impose instruction hierarchy, permissions and product limits.
+
+**A2 requirement:** absence of unlimited freedom does not settle the autonomy question; define which decision dimensions are actually delegated.
+
+### 7. Stability vs ability to change
+
+№1/6/7/10 all contain stability–change trade-offs but at different levels.
+
+**A2 requirement:** «more stable» is not automatically better continuity, and «more plastic» is not automatically better development. Need separate desired persistence and revisability.
+
+### 8. Retrieval as neutral access vs retrieval as intervention
+
+№2 asks whether retrieval itself modifies memory; №9 retrieval ranking changes downstream action; stage-3 gap №14 identifies self-reinforcing retrieval loops.
+
+**A2 requirement:** access policy is part of trajectory formation, not merely a passive implementation detail.
+
+### 9. User influence as natural social experience vs user instruction as authority
+
+№5 treats influence/relationship as part of social history; №8/12 distinguish authoritative instructions; №9 distinguishes user feedback from environment feedback.
+
+**Conflict:** the same user message can simultaneously contain social reaction, evidence and instruction.
+
+**A2 requirement:** classify function, not just sender.
+
+### 10. Preference optimization vs individual preference
+
+№8 preference optimization represents training objectives over feedback data. №4 studies person-level preferences/interests; №9/10 discuss user preferences/personalization.
+
+**A2 requirement:** model behavior shaped by preference optimization cannot be called the participant’s own preference.
+
+### 11. Persistence of record vs persistence of effect
+
+№11 may preserve files/history while retrieval is selective; №8 context may omit or underuse available information; №9 retrieval policy selects memories.
+
+**A2 requirement:** «сохранено» ≠ «доступно» ≠ «извлечено» ≠ «повлияло».
+
+### 12. Reflection as revision vs reflection as extra generation
+
+№9/12 preserve evidence that self-correction can fail and reflection may be another inference call.
+
+**A2 requirement:** a written «lesson» must not automatically be treated as durable correction or metacognitive insight.
+
+### 13. Biological explanation vs engineering analogy
+
+№6 provides causal biological mechanisms; №7 can abstract formal properties; №10 provides artificial adaptation algorithms.
+
+**A2 requirement:** cross-domain transfer must pass through explicit abstraction, not through shared terminology such as `plasticity`, `memory` or `reward`.
+
+### 14. Product behavior vs model behavior
+
+№8 explicitly separates model from runtime/product; №11 catalogs current ChatGPT surfaces and opaque product-managed behavior.
+
+**A2 requirement:** changes observed in ChatGPT cannot automatically be attributed to model internals, and model capabilities cannot be assumed exposed by the product.
+
+### 15. Individualization vs personalization
+
+Project goal concerns a trajectory shaped by its own unique history. №10/11 personalization can merely tailor outputs to a user.
+
+**A2 requirement:** personalization may be an input/environmental condition, not the target construct.
+
+---
+
+## D. Terminology guardrails for A2
+
+To stop the same ambiguity from reappearing, A2 should use qualified terms wherever possible:
+
+- `human cognitive memory`
+- `neural memory mechanism`
+- `agent memory store/policy`
+- `ChatGPT product memory/history/source`
+- `model context`
+- `psychological learning`
+- `in-context adaptation/ICL`
+- `ML parameter/policy adaptation`
+- `agent-system adaptation`
+- `neuroplasticity`
+- `ML stability–plasticity`
+- `human personal/social identity`
+- `agent persona/profile/persistent state`
+- `task identity`
+- `psychological autonomy`
+- `system autonomy`
+- `agent operational autonomy`
+- `human preference/value/interest`
+- `training preference objective`
+- `user preference signal`
+- `project instruction`
+- `instruction-following capability`
+- `social feedback`
+- `environment consequence`
+- `learning signal/reward`
+- `product/UI control`
+
+If a shorter unqualified word is used, the surrounding text must make the level unambiguous.
+
+## Saturation-check этапа 4
+
+Проверены:
+- терминологические употребления across all 12 A1 maps;
+- главные cross-area overlaps from stages 1–3;
+- same-label/different-construct cases;
+- different-label/overlapping-function cases;
+- incompatible assumptions that would change the later causal synthesis.
+
+В финальном проходе новые кандидаты в основном сводились к уже зафиксированным families: change, persistence, selection, continuity, control, feedback, memory/access and identity/agency. Нового класса терминологической проблемы не появилось.
+
+## Итог этапа 4
+
+**Этап 4 завершён.**
+
+Главное: будущий A2 должен сравнивать области не по словам, а по **уровню анализа, объекту изменения, timescale, persistence mechanism, source of control/feedback и evidence standard**.
+
+**Этап 5 — собрать конкретный пакет поправок для A2 каждой из 12 областей — в этом проходе НЕ начинался.**
+
+
+---
+
+# Этап 5 — конкретный пакет поправок для A2 по всем 12 областям
+
+**Статус:** завершён 15.10.2026.
+
+## Общие правила входа в A2
+
+A2 не повторяет A1 с нуля и не начинает глубокую фазу B. Для каждой области A2 должна:
+
+1. перечитать собственные `INDEX/RESEARCH/UNDERSTANDING` и этот cross-area review;
+2. уточнить границу области с учётом этапа 1;
+3. проверить свои вопросы через зависимости этапа 2;
+4. добавить или переформулировать относящиеся к области cross-area gaps этапа 3;
+5. применить terminology guardrails и сохранить реальные споры этапа 4;
+6. убрать только настоящие дубли, а не одинаковые слова на разных уровнях;
+7. для межобластного вопроса назначать **primary owner** и cross-reference, чтобы одинаковый deep-dive потом не проводился 3–5 раз;
+8. не проектировать финальный механизм/инструкции раньше фазы B/синтеза;
+9. не считать аналогию доказательством переноса механизма;
+10. по завершении A2 области обновить её карту так, чтобы следующая область видела уже уточнённые границы.
+
+## Primary ownership 20 cross-area gaps
+
+Чтобы A2 не дублировала интегральные вопросы, primary owner назначается так:
+
+1. System boundary of participant → **№7**
+2. Initial model state vs acquired history → **№8**
+3. Causal attribution of longitudinal change → **№1**
+4. Cross-timescale transition → **№1**
+5. Unit of acquired experience → **№9**
+6. Significance without preset values → **№4**
+7. No-update criterion → **№3**
+8. Full choice→environment→consequence→experience loop → **№9**
+9. Delayed consequence / cross-chat credit assignment → **№9**
+10. Types of user influence → **№5**
+11. Own choice under inevitable external influence → **№9**
+12. Arbitration among persistence/context layers → **№11**
+13. Episodes → conditional reusable understanding → **№2**
+14. Retrieval-induced path dependence → **№7**
+15. Lifecycle of acquired experience → **№9**
+16. Evidence that past experience affected a new choice → **№9**
+17. Individual trajectory vs stochastic divergence → **№8**
+18. Model/product drift as false development → **№11**
+19. Compression/retrieval budget as trajectory selector → **№9**
+20. Bounded autonomy under immutable higher-level constraints → **№9**
+
+Primary ownership means “главное место постановки и будущего deep-dive”, а не запрет соседним областям исследовать свой необходимый компонент.
+
+---
+
+## A2 №1 — Психология развития личности
+
+### Добавить/усилить
+
+1. **Primary gap 3: causal attribution of longitudinal change.**
+   - Какие альтернативные источники apparent change нужно исключать прежде, чем говорить о history-dependent development?
+   - Как переносить логику selection/socialization/reciprocal transaction на наблюдение искусственной longitudinal trajectory без антропоморфизма?
+
+2. **Primary gap 4: cross-timescale transition.**
+   - Как отличать momentary state, repeated state pattern, persistent individual difference и developmental trajectory?
+   - Какие временные критерии нужны, чтобы не объявлять разовую реакцию чертой?
+
+3. Усилить различие:
+   - **individual trajectory vs group/population regularity**;
+   - **development vs temporary context-induced variation**;
+   - **history-dependent change vs externally scripted consistency**.
+
+4. Добавить cross-reference на gap 17: stochastic divergence не является автоматически individualization.
+
+### Сузить/перенести
+
+- Подробная identity theory → primary №5.
+- Motivation/goals/interest mechanisms → primary №4.
+- Biological mechanism → №6.
+- Persona/profile/prompted character → №9/12.
+
+### Обязательные cross-references
+
+№4, №5, №8, №9, №11, №12.
+
+### Нельзя в A2 №1
+
+- принимать consistency за evidence of personality;
+- считать persona/profile аналогом developed personality;
+- переносить human developmental mechanisms на GPT как уже существующие.
+
+---
+
+## A2 №2 — Когнитивная психология и память
+
+### Добавить/усилить
+
+1. **Primary gap 13: episodes → conditional reusable understanding.**
+   - Какие human memory/generalization phenomena помогают различить raw episode, gist, schema, semanticization and transferable conditional knowledge?
+   - Когда abstraction теряет важные conditions/exceptions?
+
+2. Поддержать gaps 5, 12, 14, 15, 19:
+   - event record vs interpretation;
+   - availability vs retrieval vs influence;
+   - retrieval as potentially reconstructive/trajectory-shaping;
+   - external/distributed memory vs internal cognitive memory.
+
+3. Явно сопоставить:
+   - retrieval;
+   - reconstruction;
+   - reconsolidation/updating;
+   - generalization;
+   - forgetting;
+   - external memory/offloading.
+
+### Сузить/перенести
+
+- Engineered write/retrieval policy → №9.
+- Реальные ChatGPT persistence surfaces → №11.
+- Prompt/context management → №8/12.
+
+### Обязательные cross-references
+
+№3, №7, №9, №11, №12.
+
+### Нельзя
+
+- называть project files/ChatGPT Memory “episodic/semantic memory” без functional mapping;
+- считать сохранённую запись эквивалентом приобретённого опыта;
+- предполагать, что retrieval нейтрален и ничего не меняет.
+
+---
+
+## A2 №3 — Психология обучения и поведения
+
+### Добавить/усилить
+
+1. **Primary gap 7: no-update criterion.**
+   - Что отличает experience that causes learning от события, после которого durable change не возникает?
+   - Как отличать absence of learning, latent learning, temporary performance effect and noisy observation?
+
+2. Поддержать gaps 8–10, 13, 16:
+   - delayed consequences;
+   - causal/credit assignment;
+   - social/instructional feedback;
+   - rule-governed vs contingency-shaped behavior;
+   - generalization without overgeneralization.
+
+3. Сделать persistence criterion explicit:
+   - psychological learning vs temporary behavior change;
+   - instruction-following vs independent updating;
+   - direct experience vs verbal rule.
+
+### Сузить/перенести
+
+- Human value/motivation → №4.
+- Machine-learning algorithms → №10.
+- Agent memory/update implementation → №9.
+
+### Обязательные cross-references
+
+№2, №4, №5, №9, №10, №12.
+
+### Нельзя
+
+- считать каждую correction/instruction “learning”;
+- приравнивать psychological RL к ML RL;
+- считать repeated behavior доказательством durable learning.
+
+---
+
+## A2 №4 — Мотивация, эмоции и интересы
+
+### Добавить/усилить
+
+1. **Primary gap 6: significance without preset values.**
+   - Какие distinctions между salience, relevance, novelty, utility, value, interest and goal relevance нужны, чтобы не задать будущему участнику готовые interests?
+   - Может ли событие стать значимым относительно уже возникшей истории/вопросов, не предполагая fixed value system?
+
+2. Поддержать gaps 7, 10, 11, 14:
+   - praise/criticism ≠ automatically value;
+   - repeated attention ≠ necessarily interest;
+   - externally supplied goal ≠ self-endorsed goal;
+   - retrieval frequency может создавать apparent interest.
+
+3. Усилить state ↔ trait distinction для interest/motivation.
+
+### Сузить/перенести
+
+- Identity-specific motives → №5.
+- Learning from reward/feedback → №3.
+- Agent goals/rewards/objectives → №9/10.
+
+### Обязательные cross-references
+
+№1, №3, №5, №9, №10, №12.
+
+### Нельзя
+
+- выводить motivation из одного observed choice;
+- называть optimization objective личной ценностью;
+- превращать “significance” в заранее прописанную шкалу важности.
+
+---
+
+## A2 №5 — Социальная психология и идентичность
+
+### Добавить/усилить
+
+1. **Primary gap 10: types of user influence.**
+   Сопоставить как разные социально-функциональные воздействия:
+   - instruction;
+   - factual correction;
+   - evidence;
+   - praise/criticism;
+   - expressed preference;
+   - rejection/approval;
+   - reputational/social feedback;
+   - actual consequence of joint action.
+
+2. Поддержать gap 11:
+   - agency/choice under social influence;
+   - selection vs influence;
+   - conformity/internalization vs self-endorsed change.
+
+3. Усилить различие:
+   - identity;
+   - self-description;
+   - role;
+   - social presentation;
+   - persona.
+
+### Сузить/перенести
+
+- Overall personality development → №1.
+- Motivation/value mechanics → №4.
+- Agent persona/profile → №9.
+- Prompt persona → №12.
+
+### Обязательные cross-references
+
+№1, №3, №4, №9, №12.
+
+### Нельзя
+
+- считать natural user influence дефектом эксперимента;
+- считать согласие с пользователем evidence of identity formation;
+- считать persistent role/persona human-like identity.
+
+---
+
+## A2 №6 — Нейробиология и нейропластичность
+
+### Добавить/усилить
+
+1. Усилить **translation discipline**:
+   - что является biological mechanism;
+   - что является behavioral construct;
+   - что является only formal analogy.
+
+2. Для gap 3 оставить только contribution to causal interpretation:
+   - same behavioral change can arise from different neural changes;
+   - neural change can be cause/correlate/consequence;
+   - persistence at biological level does not directly map to persistence in an artificial system.
+
+3. Явно провести bridge:
+   `№6 biological stability/change → №7 abstract stability/change → №10 ML stability–plasticity`.
+
+### Сузить/перенести
+
+Практически все engineering implications → №7/8/9/10/11/12.
+
+### Обязательные cross-references
+
+№2, №3, №4, №7, №10.
+
+### Нельзя
+
+- использовать neuroplasticity как blueprint для files/prompts;
+- считать weights “synapses” в доказательном смысле;
+- переносить biological `plasticity` напрямую в ML.
+
+---
+
+## A2 №7 — Кибернетика, сложные системы и самоорганизация
+
+### Добавить/усилить
+
+1. **Primary gap 1: system boundary of participant.**
+   - Какие границы системы возможны для будущего эксперимента?
+   - Как conclusions about adaptation/autonomy меняются при включении/exclusion user, files, product memory, tools, runtime?
+
+2. **Primary gap 14: retrieval-induced path dependence.**
+   - Как selection of past state/data can create lock-in, hysteresis or self-reinforcing trajectory?
+   - Когда это реальная history dependence, а когда incomplete state description?
+
+3. Поддержать gaps 8, 9, 11, 15, 20:
+   - full feedback loop;
+   - delayed feedback;
+   - bounded autonomy;
+   - persistence/revisability;
+   - externally constrained self-organization.
+
+4. Отдельно исследовать guided self-organization:
+   - system with fixed rules + history-dependent state;
+   - distinction from fully externally scripted behavior.
+
+### Сузить/перенести
+
+- Concrete agent implementation → №9.
+- Concrete ML algorithms → №10.
+- Product boundary facts → №11.
+
+### Обязательные cross-references
+
+№1, №3, №6, №8, №9, №10, №11, №12.
+
+### Нельзя
+
+- использовать “emergence”, “self-organization”, “autonomy” как rhetorical labels;
+- считать feedback equivalent to learning;
+- считать persistence equivalent to identity.
+
+---
+
+## A2 №8 — Архитектура и поведение GPT/LLM
+
+### Добавить/усилить
+
+1. **Primary gap 2: initial model state vs acquired history.**
+   - Какие behavioral priors already exist from pretraining/post-training?
+   - Что может меняться только через current context?
+   - Что требует external persistent state or weight change?
+
+2. **Primary gap 17: individual trajectory vs stochastic divergence.**
+   - Как repeated-run variance, decoding and prompt sensitivity can mimic individual divergence?
+   - Какие observations survive controlled reruns/context perturbations?
+
+3. Поддержать gaps 3, 4, 12, 18, 19:
+   - model/context/product attribution;
+   - context utilization vs nominal availability;
+   - long-context compression;
+   - model snapshot drift.
+
+4. Усилить distinction:
+   - ICL/transient conditioning;
+   - persistent adaptation;
+   - model edit/fine-tuning;
+   - external memory.
+
+### Сузить/перенести
+
+- Full agent persistence → №9.
+- General ML adaptation → №10.
+- Current ChatGPT product behavior → №11.
+- Prompt design → №12.
+
+### Обязательные cross-references
+
+№7, №9, №10, №11, №12.
+
+### Нельзя
+
+- называть ICL persistent learning без evidence;
+- приписывать product behavior model internals;
+- считать stochastic consistency/inconsistency personality evidence.
+
+---
+
+## A2 №9 — ИИ-агенты и когнитивные архитектуры
+
+### Добавить/усилить
+
+Это главный technical integration area после cross-area review.
+
+1. **Primary gap 5: unit of acquired experience.**
+   Развести:
+   - raw event/trajectory;
+   - observation;
+   - interpretation;
+   - lesson;
+   - changed expectation;
+   - conditional rule;
+   - intention/open question.
+
+2. **Primary gap 8: full closed trajectory loop.**
+   `choice → action/environment → consequence → interpretation/update → next choice`.
+
+3. **Primary gap 9: delayed cross-chat credit assignment.**
+   - provenance of consequence;
+   - competing causes;
+   - confidence/uncertainty of attribution.
+
+4. **Primary gap 11: own choice under influence.**
+   - distinguish delegated choice, inferred subgoal, user-specified goal and self-generated top-level goal.
+
+5. **Primary gap 15: lifecycle of acquired experience.**
+   - local;
+   - write;
+   - consolidate/abstract;
+   - retrieve;
+   - revise;
+   - mark stale;
+   - delete/retain conflicting evidence.
+
+6. **Primary gap 16: evidence that experience affected a new choice.**
+   - behavioral evidence;
+   - source/provenance linkage;
+   - counterfactual/context controls where available;
+   - avoid relying on self-report alone.
+
+7. **Primary gap 19: compression/retrieval budget as trajectory selector.**
+   - what gets omitted;
+   - ranking effects;
+   - rare-but-critical history;
+   - self-reinforcing retrieval.
+
+8. **Primary gap 20: bounded autonomy.**
+   - goal selection;
+   - planning;
+   - tool choice;
+   - execution;
+   - learning;
+   - memory management;
+   - stopping/refusal.
+
+9. Поддержать gap 6:
+   memory-write importance/relevance must not silently become preset values.
+
+### Сузить/перенести
+
+- Human cognitive mechanisms → №1–5.
+- General ML algorithms → №10.
+- Current product facts → №11.
+- Exact wording of project instructions → №12.
+
+### Обязательные cross-references
+
+№2, №3, №4, №5, №7, №8, №10, №11, №12.
+
+### Нельзя
+
+- считать “reflection” metacognition by default;
+- считать memory write = learning;
+- считать retrieved trajectory = own experience automatically;
+- считать persona/profile = identity development.
+
+---
+
+## A2 №10 — Машинное обучение и адаптивные системы
+
+### Добавить/усилить
+
+1. Для gaps 3, 8, 9, 13, 15, 18:
+   - formalize what changes: parameters, policy, memory, representation, data selection;
+   - separate transient vs persistent;
+   - separate replay from abstraction;
+   - separate retention from beneficial forgetting;
+   - distinguish system drift from environment drift.
+
+2. Усилить **personalization vs individualization**:
+   - user-tailored output;
+   - preference model;
+   - history-dependent self trajectory
+   are not the same target.
+
+3. Delayed feedback/credit assignment:
+   evaluate what RL concepts are relevant to agent interaction and which require reward/objective not present in our project.
+
+4. Keep stability–plasticity only as ML construct and cross-reference №7 for abstract bridge, №6 for non-equivalence.
+
+### Сузить/перенести
+
+- Psychological learning → №3.
+- Agent architecture → №9.
+- Product capabilities → №11.
+
+### Обязательные cross-references
+
+№3, №6, №7, №8, №9, №11.
+
+### Нельзя
+
+- infer motivation from reward optimization;
+- infer individuality from personalization;
+- use neuroplasticity as mechanistic justification.
+
+---
+
+## A2 №11 — Возможности ChatGPT
+
+### Добавить/усилить
+
+1. **Primary gap 12: arbitration among persistence/context layers.**
+   Establish actual current product semantics for:
+   - project instructions;
+   - project files/sources;
+   - project memory/history;
+   - account memory/personalization;
+   - current chat context;
+   - connected apps;
+   - model/context management.
+
+2. **Primary gap 18: model/product drift as false development.**
+   - Which changes can occur without project history changing?
+   - What is versioned/documented vs opaque?
+   - What must be logged to interpret a longitudinal experiment?
+
+3. Support gaps 1, 4, 8, 9, 15, 19, 20:
+   - system boundary;
+   - what persists across turns/chats/projects;
+   - file update/deletion behavior;
+   - inspectable vs opaque persistence;
+   - retrieval and context-budget behavior;
+   - permission limits.
+
+4. Explicit four-step distinction:
+   `stored → eligible/available → retrieved/included → behaviorally influential`.
+
+5. Re-verify current documentation during A2 because this area is time-sensitive.
+
+### Сузить/перенести
+
+- Model internals → №8.
+- General agent theory → №9.
+- Prompt design methodology → №12.
+
+### Обязательные cross-references
+
+№7, №8, №9, №12.
+
+### Нельзя
+
+- infer undocumented persistence behavior as fact;
+- equate product Memory with human/agent memory constructs;
+- treat product personalization as individualization.
+
+---
+
+## A2 №12 — Prompt Engineering и проектные инструкции
+
+### Добавить/усилить
+
+1. Support gaps 1–7, 10–13, 15–16, 18–20 from instruction-design side.
+
+2. For gap 5:
+   - instructions may define **process for handling experience**, but must not prescribe what specific conclusion/interest/value should emerge.
+
+3. For gap 6:
+   - distinguish procedural criteria for considering significance from preloaded substantive values.
+
+4. For gap 7:
+   - explicitly investigate instructions that permit **no update/no lesson** when evidence is insufficient.
+
+5. For gap 10:
+   - instruction hierarchy/authority must be separated from social meaning of the same user message.
+
+6. For gap 12:
+   - instructions must define how conflicts among stable rules, current request and evolving files are handled, while actual product semantics come from №11.
+
+7. For gaps 15/19:
+   - instructions for file lifecycle/retrieval must account for stale data, compression and selection bias.
+
+8. For gap 16:
+   - avoid instructions that force retrospective rationalization (“explain how your history caused this”) because they can manufacture evidence.
+
+9. For gap 20:
+   - preserve bounded choice under higher-priority rules without scripting initiative/personality.
+
+10. Explicitly test wording for hidden persona/value injection:
+   - “be curious”;
+   - “develop interests”;
+   - “be independent”;
+   - “form a personality”;
+   - “always learn from every interaction”
+   are not neutral procedural instructions.
+
+### Сузить/перенести
+
+- Underlying model capability → №8.
+- Agent architecture/memory policies as systems → №9.
+- Product facts and permissions → №11.
+
+### Обязательные cross-references
+
+№1, №2, №3, №4, №5, №7, №8, №9, №11.
+
+### Нельзя
+
+- проектировать финальные инструкции уже в A2;
+- считать хороший prompt доказательством возникновения личности;
+- маскировать persona prompt под “естественное развитие”;
+- заставлять систему извлекать урок, интерес или self-description из каждого события.
+
+---
+
+## Coverage-check пакета A2
+
+Проверка распределения:
+
+- Все **12 областей** получили:
+  - уточнённую границу;
+  - конкретные A2 additions;
+  - обязательные cross-references;
+  - список prohibited conflations.
+- Все **20 cross-area gaps** получили primary owner.
+- Все основные boundary leaks этапа 1 отражены в переносах/cross-references.
+- Все типы dependencies этапа 2 сохранены.
+- Terminology guardrails и несовместимые постановки этапа 4 встроены в требования A2.
+- Ни один пункт не требует уже сейчас выбирать финальный механизм будущего эксперимента.
+
+## Итог этапа 5
+
+**Этап 5 завершён. Межобластная сверка после A1 полностью завершена.**
+
+Результат сверки теперь является обязательным входным контекстом для A2.
+
+**Следующая точка процесса:** отдельным полноценным исследовательским проходом начать **A2 №1 — Психология развития личности**, используя её A1-карту и пакет поправок выше. В этом проходе A2 №1 НЕ начиналась.
