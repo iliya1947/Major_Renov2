@@ -71,3 +71,28 @@
 ## Точная следующая точка
 
 Продолжить только symbols: глубже проверить **persistence and transition** — что именно сохраняется после 2–N symbol-only turns, когда далее появляется обычный язык; отдельно проверить primacy/recency, self-generated assistant anchors, repeated-token induction и human↔LLM convention failure. Не проектировать конкретный старт эксперимента до завершения этого блока.
+
+
+## Третий проход — persistence после перехода к natural language
+
+- Conversational task-switch studies show that prior history can continue to affect a later, explicitly different task; the carryover can survive a mode/task transition rather than vanish at the boundary.
+- Contextual entrainment gives a lower-level mechanism: tokens previously present in context receive elevated probability later even when they are random/irrelevant; semantic relevance modulates but is not required for the effect.
+- Long-context work shows persistence is not reliable memory: information use depends strongly on position, with beginning/end often favored and middle information degraded.
+- Multi-turn temporal-scope work shows implicit carryover itself can drift or collapse as conversations lengthen.
+- Therefore the symbol trace can persist at several levels with different half-lives: exact-token entrainment, task/frame interference, assistant-self-conditioning, explicit semantic convention.
+- **New inference:** the most plausible durable bridge is not necessarily `symbol token → later choice`, but `symbol → model-generated interpretation/text → later conditioning`. Once the model verbalizes or behaviorally instantiates an interpretation, ordinary language can become a secondary carrier even if direct symbol salience fades.
+- A task switch to normal language may therefore attenuate direct token effects while preserving higher-level frame/interference.
+- No source found that measures the exact decay curve for `2–N symbol-only turns → ordinary conversation` in frontier ChatGPT.
+
+## Новые вопросы
+
+28. How quickly does direct token-level contextual entrainment decay as intervening natural-language turns accumulate?
+29. Can an early symbol remain influential after it is no longer repeated, or is persistence mostly carried by assistant-generated text?
+30. Does explicit natural-language topic switching reset the frame or merely compete with it?
+31. Are initial-turn symbols advantaged by primacy, and when are they instead lost in the middle as context grows?
+32. What form of early interpretation is most likely to survive: lexical association, discourse frame, style, task hypothesis, or conversational convention?
+33. Can later natural-language interaction overwrite the early branch completely without any explicit correction?
+
+## Точная следующая точка
+
+Продолжить symbols: проверить **какие конкретно классы знаков** создают минимум заранее заданного human meaning при приемлемой tokenizer stability, и отдельно глубоко разобрать glitch/special-character/adversarial-token literature, чтобы не спутать interpretive openness с tokenizer pathology. После этого вернуться к remaining persistence edge cases and coverage audit.
