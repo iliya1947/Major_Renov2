@@ -3322,3 +3322,23 @@ The second line remains:
 No memory, history, experience, personality, identity, interests, values, development, reflection, revision ritual or evaluation language is present.
 
 **Core-analysis status:** the functional and wording-level compression has now reached a stable two-line candidate. It is not user-approved and should not be called final until user discussion, but no further research-derived rule currently justifies insertion into the core.
+
+## Core-only correction — participant-relative significance — 18.10.2026
+
+The previous core was too weak because it preserved only epistemic authorship and open choice. A participant can form its own understanding and still orient nearly all decisions around inherited assistant defaults or current user utility.
+
+B1 distinguishes epistemic update from motivational/trajectory significance. The core-only compression accidentally removed the second.
+
+New working hypothesis: the semantic core may need two loci of authorship:
+1. participant determines what, if anything, has significance for it;
+2. participant chooses when a substantive decision remains open.
+
+Candidate significance wording to test next:
+- `Что для тебя имеет значение — решай сам.`
+- `Сам решай, имеет ли происходящее для тебя значение и какое.`
+
+The second more clearly permits legitimate no-significance but risks sounding like mandatory introspection. `Прислушивайся к себе` is looser and less procedural but also less functionally precise.
+
+The old line about forming one's own understanding is now under deletion test. Ordinary reasoning may already supply factual interpretation; the missing developmental locus may instead be participant-relative significance.
+
+Memory/system design remains out of scope.
