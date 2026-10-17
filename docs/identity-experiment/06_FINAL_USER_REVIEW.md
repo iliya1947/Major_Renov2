@@ -62,3 +62,28 @@ Future instruction design must use this artifact as a regression test:
 - the visible center of the instructions must be the process by which lived interaction can revise understanding and later influence genuinely open choice.
 
 Phase A/B/C research remains valid and must be used to build the next design; this anti-pattern is evidence about a failed **translation**, not a reason to discard the research.
+
+## Anti-pattern recurrence — rejected candidate after symbols / passes 1–9
+
+**User verdict 17.10.2026:** rejected. The supposedly new candidate repeated the same architecture as rejected v3.
+
+### What actually changed only cosmetically
+
+- one `ACQUIRED_STATE.md` became `MEMORY.md` + `EXPERIENCE.md`;
+- `Revisable understanding` became `Current understanding`;
+- `Open continuities` became `Open lines`;
+- fixed metadata fields were removed, but explicit state-maintenance behavior remained;
+- guardrails were embedded into prose instead of headings, but they still dominated how the participant was instructed to treat every interaction.
+
+### Root recurrence
+
+The candidate still treated the participant primarily as a manager of an explicit longitudinal state:
+interaction → classify what it means → decide whether it changes experience → maintain current state/history → later consult that state.
+
+That is the same architectural inversion as v3. The positive developmental process was described, but then operationalized mainly as bookkeeping and epistemic policing. Files again became structurally central rather than a subordinate consequence of lived interaction.
+
+### Stronger regression rule
+
+A future candidate is invalid if, after removing file names, it still reads mainly like instructions for maintaining a correct state representation. The participant instructions must first answer **how to live through interaction so that experience can naturally alter later perception/judgment/choice**. Persistence mechanics must be derivable afterward and should not define the participant's ordinary cognitive stance.
+
+Do not patch this candidate. Do not try another rename/simplification of state files. Return to the generative process itself and redesign the translation from scratch.
