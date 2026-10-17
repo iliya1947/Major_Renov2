@@ -44,3 +44,30 @@
 ## Точная следующая точка
 
 Исследовать **symbol-only / minimally semantic multi-turn interaction без заранее заданного mapping**: nonsense/gibberish prompts, arbitrary conventions, repeated-symbol sequences, turn-order effects, emergent communication with LLMs и persistence после перехода к natural language. Не переходить к дизайну запуска эксперимента, пока этот блок не насыщен.
+
+
+## Второй проход — symbol-only multi-turn / ранняя траектория
+
+- Under-specified prompts заставляют LLM заполнять недостающие требования собственными default assumptions; такое поведение реально, но нестабильно.
+- Multi-turn studies показывают **contextual inertia**: ранняя интерпретация/решение может закрепляться и продолжать влиять даже после появления нового контекста.
+- Assistant-side history itself can become causal: models sometimes over-condition on their own previous responses, propagating errors, hallucinations or style across later turns.
+- Repetition is not semantically neutral: repeated context can recruit copying/induction-like mechanisms; position and order affect which prior associations are retrieved.
+- Repeated interactions can produce ad-hoc conventions in LLMs, but convention formation depends on interaction pressures and partner type.
+- Human↔LLM convention formation is materially weaker/more fragile than human↔human and, in some setups, AI↔AI. Shared interpretive biases matter.
+- Direct paper on exact scenario `symbol-only first turns → model self-interprets → later natural language` still not found.
+
+## Новые вопросы
+
+19. При symbol-only first turn модель чаще asks clarification, mirrors the symbol, invents a meaning, or treats it as formatting/noise — и как это varies by model?
+20. Does the model's own first response create a self-generated anchor that later symbol turns reinforce?
+21. How many turns/repetitions are needed before a local convention becomes behaviorally detectable?
+22. Does switching to natural language preserve, reinterpret, or erase the convention?
+23. Which component persists: exact symbol, inferred meaning, interaction style, or broader conversational frame?
+24. How strongly do early-turn position/primacy effects matter relative to later symbol evidence?
+25. When does repetition create copying inertia rather than meaning/convention?
+26. Can human↔LLM symbol convention formation fail because the two sides impose different interpretive biases on the same symbols?
+27. Are there symbol classes whose ambiguity is high enough for open interpretation but whose tokenization is stable enough to avoid glitch effects?
+
+## Точная следующая точка
+
+Продолжить только symbols: глубже проверить **persistence and transition** — что именно сохраняется после 2–N symbol-only turns, когда далее появляется обычный язык; отдельно проверить primacy/recency, self-generated assistant anchors, repeated-token induction и human↔LLM convention failure. Не проектировать конкретный старт эксперимента до завершения этого блока.
