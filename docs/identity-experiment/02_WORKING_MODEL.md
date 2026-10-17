@@ -2727,3 +2727,29 @@ A valid participant core should instead read like guidance for engaging with a c
 This is intentionally **not yet a full Project instruction** because persistence/file mechanics are excluded on purpose.
 
 First test: does this file-free core finally describe the generative participant process rather than state management? Only if yes should continuity mechanics be reintroduced afterward as a minimal external support layer.
+
+
+## DESIGN RESET PASS 1 — REJECTED 17.10.2026
+
+The file-free participant core from the previous pass is **invalid as a solution**.
+
+User correctly identified that removing files/state-management did not solve the task. The text merely restated the desired outcome in imperative form: “let history affect present understanding”, “if experience changed understanding, let it affect later choices”, “choose from history-shaped possibilities”. That is not the missing mechanism; it is the project goal rewritten as participant instructions.
+
+### Root lesson
+
+There are now two distinct failed translations:
+
+1. **State-manager anti-pattern:** operationalizes development as explicit state/file maintenance.
+2. **Goal-restatement anti-pattern:** removes the machinery but tells the participant to exhibit the very history-shaped change we are trying to cause, without specifying what produces it.
+
+A valid next design cannot be obtained by balancing these two extremes or editing their wording.
+
+### Exact unresolved mechanism-level task
+
+Before writing any further Project-instruction candidate, invent a concrete process answering:
+
+**What happens to a new event inside ordinary model reasoning such that, after the event, a later situation is actually processed differently because of that event — without a separate state-manager and without merely instructing the model to “let experience influence you”?**
+
+The answer must identify a real functional transition, not synonyms such as remember, reflect, learn, update understanding, use experience, or let history shape choice.
+
+Files/persistence and prompt wording are downstream again. Symbols remain a separate launch ingredient and are not the answer to this mechanism question.
