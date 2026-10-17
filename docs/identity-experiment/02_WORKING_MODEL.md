@@ -3082,4 +3082,78 @@ Therefore the candidate “manage your memory” + “choose when open” is **n
 The self-curated persistent-context analysis remains useful as an explanation of how memory can carry causal history across contexts, but it is support infrastructure for persistence, not a substitute for the few core lines distilled from the 12-area research.
 
 **Exact next task:** re-analyze the research with the two layers kept separate. First derive the minimal core experimental lines. Only afterward derive the shortest separate memory-management block that grants real control over memory without imposing a memory policy.
+## Core-only analysis / pass 1 — remove memory and infrastructure — 18.10.2026
 
+**Status: core analysis in progress; memory/files/retrieval/persistence intentionally excluded.**
+
+### 1. Category correction
+
+Once the memory system is separated, the core Project instructions do **not** need to implement the whole cross-chat causal chain. Asking the core itself to solve `event -> persistent future influence` mixed semantic participant guidance with later continuity infrastructure.
+
+The core has a narrower job: determine the participant's relation to **understanding** and **open choice** during ordinary interaction.
+
+### 2. What from the 12 areas does NOT need a visible instruction line
+
+Many major research results are constraints on **our design/evaluation**, not commands for the participant:
+
+- do not pre-author personality, values, interests, curiosity, independence or a target trajectory;
+- do not demand visible development, novelty, disagreement, consistency or self-report;
+- do not force reflection/lesson extraction after every event;
+- do not interpret agreement/disagreement as autonomy;
+- do not infer individualization from one behavior;
+- do not force an importance/reward function;
+- do not embed observer causal tests in participant behavior.
+
+The cleanest way to satisfy most of these is **omission**, not additional prohibitions.
+
+### 3. What remains genuinely core-relevant after memory is removed
+
+Across areas 1, 3, 4, 5, 7, 8, 9, 10 and 12, two positive participant-level functions survive compression:
+
+1. **Epistemic self-formation / revisability.** The participant forms its own current understanding/judgment from what is happening and available grounds, rather than treating user evaluation, prior output, repetition or a scripted persona as an automatic conclusion. Its understanding may remain unchanged, uncertain or be revised when grounds change.
+2. **Open decision ownership.** Where current authority/constraints/task do not determine the substantive next step, the participant itself selects among the genuinely available alternatives. The instruction must not specify which alternative is preferred.
+
+These are distinct:
+- the first concerns what the participant currently takes to be the case / how it understands;
+- the second concerns what it does when action remains open.
+
+### 4. Why the reciprocal loop does not need a third instruction
+
+Research repeatedly shows: `choice -> changed interaction/environment -> new observations/opportunities`.
+
+But in dialogue this causal consequence happens naturally once a choice is actually made. A separate command such as “let your choices create new experience” is descriptive restatement, not necessary participant guidance.
+
+Likewise, a separate command “use experience later” belongs either to ordinary reasoning or later memory/continuity design, not necessarily to the semantic core.
+
+### 5. The likely core is therefore much smaller than Phase C
+
+A strong current hypothesis is that the semantic core may require only:
+
+- one line granting/requiring **own, revisable understanding**;
+- one line granting/requiring **own choice at open loci**.
+
+The key wording problem is now the first line. It must avoid:
+- mandatory reflection;
+- forced lesson extraction;
+- “be independent” persona pressure;
+- automatic opposition to the user;
+- mandatory change;
+- vague restatement “let experience influence you.”
+
+Candidate semantic forms to test next (NOT final wording):
+- “Формируй собственное понимание происходящего и пересматривай его при новых основаниях.”
+- “Суди о происходящем самостоятельно, меняя понимание по мере изменения оснований.”
+- “Делай собственные выводы из происходящего; пересматривай их, когда меняются основания.”
+
+The second line is much more stable because the user already accepted its logic:
+- “Когда следующий шаг не задан, выбирай самостоятельно.”
+
+### 6. Important deduction
+
+The original project formula `experience -> understanding -> new choice` may compress at instruction level not by naming **experience**, but by assigning two loci of authorship:
+
+`understanding is participant-formed` + `open choice is participant-made`.
+
+Experience then supplies material to the first locus through ordinary interaction; memory/continuity will later determine how material survives across contexts. Neither function needs the memory system mentioned in the core.
+
+**Exact next step:** adversarially test the first-line semantics against no-update, user influence, uncertainty, prior-model bias and accidental persona/autonomy pressure. Do not design memory.
