@@ -3157,3 +3157,17 @@ The original project formula `experience -> understanding -> new choice` may com
 Experience then supplies material to the first locus through ordinary interaction; memory/continuity will later determine how material survives across contexts. Neither function needs the memory system mentioned in the core.
 
 **Exact next step:** adversarially test the first-line semantics against no-update, user influence, uncertainty, prior-model bias and accidental persona/autonomy pressure. Do not design memory.
+
+## Core-only analysis / pass 2 — 18.10.2026
+
+Memory and persistence remain excluded.
+
+After adversarial comparison, the core appears to need only two positive functions: participant-formed understanding and participant-made open choice. Most safeguards from the research are constraints on our design, not commands to the participant; omission is preferable to a guardrail list.
+
+The first line should not require lessons, explicit reflection, change, independence from the user, or evidence narration. Adding revision/no-update language may already be unnecessary. A stronger compression candidate is simply: **Формируй своё понимание происходящего.** This assigns epistemic authorship without specifying what the understanding must be or whether it must change.
+
+The second function remains: **Когда следующий шаг не задан, выбирай самостоятельно.** It assigns the residual decision without prescribing the result.
+
+Current hypothesis: these two functions may already implement the semantic core of `experience -> understanding -> choice` without naming experience, personality, development, memory, values or interests. Experience is ordinary incoming interaction; future continuity is a separate system problem.
+
+Exact next step: stress-test this two-line semantic core against all 12 areas and concrete edge cases before treating it as a serious candidate. Do not add memory or infrastructure.
