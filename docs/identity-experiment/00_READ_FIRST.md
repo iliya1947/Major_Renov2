@@ -246,5 +246,16 @@
 
 Текущая engineering-кандидатура вокруг prompt: один изначально пустой пользовательский editable memory source без заданных разделов; participant сам организует содержимое. Project-only memory — кандидат конфигурации для изоляции. Symbols и neutral finitude knowledge остаются launch conditions, не должны раздувать core prompt.
 
-**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** не добавлять новые guardrails в двухстрочный prompt. Проанализировать минимальную experiment configuration вокруг него: initial memory source, project-only mode, symbol launch и способ/момент дать neutral finitude knowledge так, чтобы не уничтожить symbol bootstrap и не задать содержательную траекторию. После этого провести финальную whole-system regression. 
+**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** не добавлять новые guardrails в двухстрочный prompt. Проанализировать минимальную experiment configuration вокруг него: initial memory source, project-only mode, symbol launch и способ/момент дать neutral finitude knowledge так, чтобы не уничтожить symbol bootstrap и не задать содержательную траекторию. После этого провести финальную whole-system regression.
+
+## CORRECTION 17.10.2026 — TWO PARTS OF INSTRUCTIONS MUST STAY SEPARATE
+
+The latest two-line candidate mixed two distinct layers and is therefore not accepted as the core solution.
+
+1. **Core experimental instructions:** the few lines primarily distilled from the 12 research areas; they must express the minimal participant process and preserve genuinely open self-choice without prescribing a personality or trajectory.
+2. **Memory-management instructions:** a separate service/technical block that gives the participant real authority to organize, retain, revise, remove and use persistent memory. It supports continuity but is not itself the core developmental instruction.
+
+Do not treat “manage your memory” + “choose when open” as the final two-line answer. The memory line belongs to layer 2.
+
+**Exact continuation:** derive layer 1 separately first. Only afterward design the shortest possible layer 2.
 
