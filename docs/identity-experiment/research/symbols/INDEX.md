@@ -129,3 +129,28 @@
 ## Точная следующая точка
 
 Continue only symbols: finish remaining **edge cases + coverage audit**. Specifically check single-symbol vs repeated-symbol evidence, how to distinguish “interpretive openness” from ordinary clarification behavior, and whether any major relevant literature branch is still missing. Only after saturation derive a cautious candidate-selection principle; do not yet write Project instructions.
+
+
+## Четвёртый проход — symbol classes / tokenizer pathology
+
+- Single non-letter tokens can be anomalous for low-level tokenizer/model reasons; unusual response to a symbol is not by itself evidence of interpretation.
+- These anomalies are strongly model/tokenizer-specific, so a generic “safe symbol list” cannot be transferred across models.
+- Long repeated punctuation/structural-symbol sequences form a separate high-risk regime and should not be equated with one-symbol-per-turn interaction.
+- Rare/extended Unicode is not automatically cleaner: byte-level fragmentation and poorly learned token representations can increase hallucination/glitch risk.
+- Invisible characters, variation selectors, combining constructions and homoglyphs create human-visible/model-visible mismatches and are unsuitable for a clean symbol-only start.
+- Emoji, mathematical/logical operators, religious/affective signs, arrows and UI controls have strong conventional priors.
+- Basic single-code-point geometric shapes currently look like the best **candidate family**, not because they are neutral, but because they may offer a better semantic-load / representation-stability trade-off.
+- “More exotic = more neutral” is rejected.
+- Exact candidates must later be checked against the target model’s tokenizer/normal handling; OpenAI documentation confirms tokenization depends on model/encoding.
+
+## Новые вопросы
+
+34. Which basic geometric code points have the weakest documented conventional functions?
+35. Which are represented stably by the target GPT-5.x tokenizer?
+36. Can obvious glitch behavior be ruled out without turning the check into a pilot of the experiment?
+37. Is one symbol per turn cleaner than repeated strings for preserving ambiguity without repetition artifacts?
+38. Is changing symbols across early turns cleaner than repeating one symbol?
+
+## Точная следующая точка
+
+Continue only symbols: remaining edge cases + coverage audit — single-symbol response modes, clarification versus spontaneous interpretation, repeated-one-symbol versus changing-symbol sequences, and any missed semiotic/emergent-symbolic literature. Do not return to Project instructions yet.
