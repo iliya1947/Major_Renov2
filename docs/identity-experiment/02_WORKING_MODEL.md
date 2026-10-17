@@ -359,3 +359,215 @@ B1–B8 now jointly provide:
 
 Phase C should begin by synthesizing these into **one minimal causal principle/process**, resolving redundancies and contradictions before writing final Project instructions or file architecture.
 
+## Phase C / pass 1 — минимальное причинное ядро — 17.10.2026
+
+**Статус:** первый синтетический проход Phase C. НЕ финальные Project instructions и НЕ архитектура файлов. Цель — свести B1–B8 к одному причинному процессу и отделить ядро от evidence/implementation layers.
+
+### 1. B1–B8 не являются восемью шагами поведения
+
+После синтеза они распадаются на три разных слоя:
+
+**A. Причинное ядро развития** — что должно происходить внутри longitudinal Project participant:
+- evidence-sensitive acquisition/revision;
+- selective use of acquired experience;
+- bounded open choice;
+- reciprocal consequence generation;
+- persistence/revision of experiential state.
+
+**B. Guardrails процесса** — что не даёт ядру выродиться в preset persona, lock-in или self-programming:
+- control plane ≠ experiential state;
+- no-update is legitimate;
+- historical content remains defeasible data, not authority;
+- provenance/scope/exceptions/uncertainty survive;
+- retrieval/compression do not decide truth/value by similarity/frequency/recency alone.
+
+**C. Evidence/observer layer** — как потом оценивать, что реально произошло:
+- participant boundary/baseline/configuration epochs/confounds (B7);
+- evidence ladder and operational individualization standard (B8).
+
+B7/B8 не следует превращать в обязательную self-monitoring routine участника. Иначе эксперимент начнёт заставлять участника доказывать собственное развитие.
+
+B3 second-order change is a possible stronger developmental phenomenon, not an obligatory step of every loop.
+
+### 2. Минимальный causal principle
+
+Текущий сильнейший синтез:
+
+> **Приобретённая индивидуальная траектория может возникать, если post-start evidence формирует и пересматривает условное понимание, это понимание избирательно влияет на последующие открытые решения, решения меняют будущий поток событий и последствий, а новые evidence снова пересматривают накопленное состояние — при том что содержательный результат не задан control plane заранее и прошлое остаётся пересматриваемым, а не превращается в authority.**
+
+Это собственная конструкция проекта, полученная из B1–B8, не готовый рецепт из литературы.
+
+### 3. Четыре функциональных перехода ядра
+
+#### P1. Current decision formation — сформировать основания текущего решения
+
+Для конкретного decision locus различаются:
+- действующие authority/constraints;
+- current factual/evidential situation;
+- применимые acquired experiential relations.
+
+История не должна входить как команда.
+Она входит как **defeasible, conditional evidence/understanding** с scope/status/provenance.
+
+Если relevant history нет, решение всё равно возможно из baseline model + current context.
+
+Если locus закрыт authority/facts до одного допустимого варианта, действие может породить опыт, но на этом locus нет history-shaped own choice.
+
+#### P2. Open bounded choice — выбрать среди реально живых альтернатив
+
+Если после constraints/evidence остаётся ≥2 materially distinct live alternatives, participant reason-responsively выбирает одну.
+
+Acquired history может:
+- изменить interpretation;
+- ranking alternatives;
+- confidence;
+- expectation of consequences;
+- selection.
+
+Она не обязана влиять на каждый выбор.
+
+Когда history materially влияет на open choice, получаем history-shaped bounded choice.
+Когда этот choice additionally changes future evidence/opportunities, он trajectory-forming.
+
+#### P3. Evidence integration — понять, изменило ли новое событие основания
+
+Новое событие не автоматически становится опытом/уроком.
+
+Нужно определить, изменяет ли полученное evidence поддержку каких-либо current:
+- interpretations;
+- expectations;
+- conditional action relations;
+- unresolved questions.
+
+Возможные результаты:
+- revise;
+- narrow/split scope;
+- strengthen provisionally;
+- mark contradicted/obsolete;
+- create a new conditional relation;
+- **no durable update**.
+
+Если evidence — downstream consequence прежнего choice, перед revision требуется B5 branch:
+**observed consequence → uncertain causal-contribution attribution → only then possible revision.**
+
+То есть causal attribution — не обязательный ритуал для каждого события; это специальный мост, когда из consequence делается вывод о прежнем action/strategy.
+
+#### P4. Persistent revisable carry-forward — сделать новое состояние доступным будущему выбору
+
+Durable acquired state сохраняет функционально необходимое:
+- evidence/provenance;
+- conditional understanding;
+- scope/conditions;
+- exceptions/contradictions;
+- uncertainty/current warrant;
+- current action-guidance eligibility;
+- revision lineage where materially needed.
+
+Позже релевантная часть состояния selectively reactivates for a current decision.
+
+Retrieval is not authority and not automatic compliance.
+Current evidence can defeat old acquired state.
+
+После нового choice цикл снова возвращается к P3/P4.
+
+### 4. Полный minimal loop
+
+**current authority + current evidence + selectively applicable acquired state**
+→ **open decision locus**
+→ **reason-responsive bounded choice, possibly history-shaped**
+→ **changed participant↔user/environment trajectory**
+→ **new observations/consequences**
+→ **evidence integration; causal attribution where consequence-credit is needed**
+→ **warranted revision / narrowing / contradiction / no-update**
+→ **persistent revisable experiential state**
+→ **selective later reactivation**
+→ **next open choice**.
+
+Индивидуальная траектория возникает не из одного прохода, а из recursive closure этого цикла.
+
+### 5. Что оказалось НЕ отдельным механизмом
+
+#### “Significance”
+Не нужен scalar importance module.
+
+Практический смысл significance в ядре:
+**имеет ли новое evidence достаточный warrant, чтобы изменить/создать decision-relevant conditional understanding?**
+
+Это допускает:
+- один highly diagnostic event;
+- накопление независимой weak evidence;
+- no-update;
+- открытие нового вопроса без немедленной durable “ценности”.
+
+#### “Reflection”
+Не обязательный этап.
+
+Reflection — один возможный способ предложить interpretation/causal hypothesis.
+Она не является независимым evidence.
+
+#### “Personality / interests / values”
+Не должны быть отдельным target state, который инструкция обязана сформировать.
+
+Если устойчивые preference/interest/value-like patterns вообще появятся, в этой конструкции они являются **macro-patterns accumulated revisable history-shaped choices**, а не заранее создаваемыми personality variables.
+
+#### “Second-order/meta-change”
+B3 показывает, что history может изменить future update dynamics.
+Но Phase C currently does not make this necessary for minimal individualization.
+
+Если recursive history changes how later evidence is incorporated, это stronger developmental phenomenon.
+Требовать его заранее означало бы сузить пространство возможных индивидуальных траекторий без необходимости.
+
+### 6. Ключевые устранённые дубли
+
+- B1 update warrant + B2 experience lifecycle + B5 consequence credit объединяются в **P3 evidence integration/revision**, где causal attribution является conditional branch.
+- B4 history-shaped choice + B6 selective retrieval объединяются в **P1/P2 current decision formation**.
+- B2 persistence + B6 storage/retrieval/lifecycle объединяются в **P4 revisable carry-forward**.
+- B7/B8 вынесены из participant causal loop в **observer/evidence layer**.
+- B3 не вставляется искусственно между каждым update; meta-change отслеживается, если фактически возникнет.
+
+### 7. Неприкосновенные causal invariants
+
+1. **Event ≠ acquired experience.**
+2. **Outcome ≠ causal lesson.**
+3. **Stored ≠ retrieved ≠ behaviorally influential.**
+4. **Historical content ≠ governing authority.**
+5. **Consistency ≠ lock-in; lock-in = evidence-insensitive capture.**
+6. **Choice ≠ randomness; deterministic reason-responsive selection допустим.**
+7. **User influence ≠ user scripting automatically.**
+8. **No-update is a legitimate state transition.**
+9. **Revision may change interpretation while preserving historical episode/provenance.**
+10. **Behavioral novelty ≠ development; relevant target is new causal dependence on post-start acquired history.**
+11. **One memory→choice effect ≠ individualization.**
+12. **No substantive personality outcome may be required in advance.**
+
+### 8. Главное новое следствие Phase C pass 1
+
+До Phase C механизм выглядел как длинная цепочка специальных операций.
+
+После дедупликации ядро существенно проще:
+
+**participant does not need a “personality mechanism”.**
+
+Нужно обеспечить только замкнутую причинную возможность:
+- формировать пересматриваемое условное understanding из evidence;
+- сохранять его с достаточными границами;
+- избирательно допускать его влияние на открытые решения;
+- позволять этим решениям изменять будущий опыт;
+- снова пересматривать acquired state по последствиям/evidence.
+
+Если такая recursive history-dependent organization действительно возникает, устойчивые individual patterns являются возможным **результатом траектории**, а не запрограммированной причиной.
+
+### 9. Что ещё необходимо проверить до завершения Phase C synthesis
+
+Первый pass ещё НЕ доказывает, что ядро минимально в строгом смысле.
+
+Следующий Phase C pass должен adversarially проверить:
+- можно ли удалить любой из P1–P4 без потери ключевого causal property;
+- не прячет ли “decision-relevant” скрытый preset objective/value criterion;
+- может ли цикл самозамкнуться в confirmation/interest lock-in даже при current guardrails;
+- как новый genuinely novel interest/question может войти в trajectory, если он ещё не поддержан old history;
+- не превращает ли requirement of explicit experiential state процесс в overly deliberate/artificial self-documentation;
+- какие функции обязаны быть expressed in Project instructions, а какие могут остаться properties of stored state/product operation.
+
+**PHASE C продолжается.**
+
