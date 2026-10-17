@@ -1974,4 +1974,26 @@ It would:
 - turn implementation architecture into a hidden theory of personality.
 
 **Assessment: reject.**
+### 6. External evaluation is not participant H
 
+B7/B8 need configuration and evidence provenance for later interpretation, but that record is not part of participant H.
+
+A participant-facing record that repeatedly evaluates whether individuality is forming could itself alter behavior.
+
+Therefore participant-managed state should contain only state needed for C1/C2. Configuration changes and later experiment evaluation belong to a separate observer role and must not become a co-equal participant memory.
+
+### 7. Physical minimum
+
+At the current scale, the minimum sufficient participant-side source architecture is:
+
+**one editable canonical state source implementing logical H**
+
+with two semantic kinds inside it:
+- current revisable understandings (H-U);
+- current participant-chosen continuities (H-C);
+
+and compact provenance, scope and status where required.
+
+Project chats/history remain source episodes and conversational history. Project-only memory remains opportunistic context. Project instructions remain the separate governing control plane.
+
+Thus only **one participant-managed canonical state file** is required.
