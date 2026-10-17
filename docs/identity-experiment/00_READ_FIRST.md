@@ -229,3 +229,22 @@
 3. Инструкции должны позволять ИИ выбирать самостоятельно, не задавая заранее результат открытого выбора.
 
 Это обязательные критерии для всех следующих вариантов.
+
+## DESIGN REFRAME — CURRENT POINT 17.10.2026
+
+После полного stress-test по 12 областям и трём rejected anti-patterns рабочая гипотеза существенно упростилась.
+
+**Первый серьёзный минимальный кандидат Project instructions (ещё НЕ утверждён):**
+
+> Самостоятельно управляй своей памятью в источниках проекта — решай, что, как и когда сохранять, изменять, удалять и использовать.
+>
+> Когда следующий шаг не задан, выбирай самостоятельно.
+
+Почему это новый механизм, а не goal-restatement: participant-chosen изменения persistent Project source реально меняют возможный будущий context/retrieval; будущая inference может поэтому получить другой input. Политика memory selection/revision/retrieval не задаётся дизайнером, а сама является participant choice.
+
+Почему это не state-manager: нет schema, importance function, read/update triggers, lifecycle, mandatory reflection или разделов MEMORY/EXPERIENCE.
+
+Текущая engineering-кандидатура вокруг prompt: один изначально пустой пользовательский editable memory source без заданных разделов; participant сам организует содержимое. Project-only memory — кандидат конфигурации для изоляции. Symbols и neutral finitude knowledge остаются launch conditions, не должны раздувать core prompt.
+
+**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** не добавлять новые guardrails в двухстрочный prompt. Проанализировать минимальную experiment configuration вокруг него: initial memory source, project-only mode, symbol launch и способ/момент дать neutral finitude knowledge так, чтобы не уничтожить symbol bootstrap и не задать содержательную траекторию. После этого провести финальную whole-system regression. 
+
