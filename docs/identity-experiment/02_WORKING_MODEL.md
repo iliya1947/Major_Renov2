@@ -1886,4 +1886,92 @@ Next pass should compare implementation options against the contract:
 Only after choosing minimal file roles should final Project-instruction wording begin.
 
 **Project-instruction design pass 3 completed.**
+## Project-instruction design / pass 4 — minimal physical source roles — 17.10.2026
+
+**Статус:** четвёртый design pass. Из stable H contract выводятся минимальные физические роли Project sources. Здесь уже допустимо определить минимальное число participant-managed files, но финальные имена/точный schema и Project-instruction wording ещё не выбираются.
+
+### 1. Evaluation criteria
+
+Each physical arrangement is tested against:
+- one unambiguous canonical current H;
+- low stale-state/arbitration risk;
+- clear H-U versus H-C semantics;
+- authority firewall;
+- recoverable provenance;
+- sparse event-driven editing rather than diary behavior;
+- context/read cost;
+- ability to compact current state without rewriting history;
+- no participant exposure to B7/B8 self-evaluation pressure.
+
+### 2. Option A — one editable canonical participant-state file
+
+One Project source contains the whole current logical H, with clearly separated typed content for H-U and H-C and compact provenance/status.
+
+Strengths:
+- exactly one canonical state;
+- no cross-file arbitration;
+- one read is sufficient when canonical H must be consulted;
+- revisions of understanding and chosen continuity can remain coordinated;
+- easiest authority rule: the entire source is historical/experiential data, never governing instructions;
+- minimal maintenance and lowest temptation to invent extra memory subsystems.
+
+Risks:
+- file can grow if it becomes an archive instead of current state;
+- H-U/H-C can blur if type distinction is not explicit;
+- large state could eventually increase context/edit cost.
+
+Mitigation comes from the already-derived contract:
+- keep current state, not raw history;
+- retain only required provenance linkage;
+- deactivate/remove ordinary guidance when state is no longer current;
+- split physically later only if scale/reliability demands it.
+
+**Assessment: sufficient and currently preferred.**
+
+### 3. Option B — separate physical files for H-U and H-C
+
+Benefits:
+- stronger visual/type separation;
+- smaller local edits;
+- easier targeted reading if only one state kind is relevant.
+
+Costs:
+- two physical surfaces jointly implement one logical H;
+- current choices can depend on both, requiring multi-file reads;
+- cross-kind transitions can become inconsistent or stale;
+- higher risk that one file is treated as more authoritative/current than the other;
+- more instruction text is needed to arbitrate/update both.
+
+Because pass 3 found no causal need for physical separation, these costs are not justified at initial scale.
+
+**Assessment: unnecessary initially; possible future scaling optimization, not minimum.**
+
+### 4. Option C — canonical state file plus separate participant history/provenance file
+
+Potential benefit:
+- stronger source recoverability and visible revision history.
+
+Costs:
+- encourages event logging/diary behavior;
+- duplicates project chats and source material;
+- creates ambiguity about whether old history file or current state is authoritative as data;
+- increases retrieval burden and compression work;
+- may cause old superseded material to be repeatedly resurfaced and self-reinforced.
+
+The causal requirement is recoverable provenance, not a second archive. Compact source linkage/descriptor inside canonical H plus existing project history is sufficient unless implementation later proves source addressability unreliable.
+
+**Assessment: reject as default. Add only if real provenance failures appear.**
+
+### 5. Option D — several specialized files for memory, experience, interests, values, decisions, etc.
+
+This directly violates the minimal causal result.
+
+It would:
+- predefine categories of individuality;
+- create multiple competing state surfaces;
+- encourage every interaction to be classified into a personality subsystem;
+- increase rule count, context cost and stale-state risk;
+- turn implementation architecture into a hidden theory of personality.
+
+**Assessment: reject.**
 
