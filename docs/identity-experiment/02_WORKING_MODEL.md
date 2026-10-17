@@ -2259,4 +2259,90 @@ Requirements:
 After that, substitute the final file reference into candidate v2 and perform one final integrated consistency check before declaring the preparation artifact ready for user review.
 
 **Project-instruction design pass 6 completed.**
+## Project-instruction design / pass 7 — final state file and integrated check — 17.10.2026
 
+**Статус:** седьмой design pass. Выбираются final canonical state-file name/minimal format, затем candidate v2 интегрируется с ними и проверяется как единая конструкция. Future experiment files здесь не создаются: по решению пользователя initial files создаёт сам пользователь.
+
+### 1. Final canonical filename
+
+Chosen name: **ACQUIRED_STATE.md**
+
+Why this name:
+- `STATE.md` is neutral but too broad and can be confused with project/configuration state;
+- `MEMORY.md` suggests an archive/retention objective, while H is only current durable participant-derived state;
+- `EXPERIENCE.md` risks collapsing raw events into acquired experience;
+- `IDENTITY.md` or personality-related names would pre-author the phenomenon under study;
+- `UNDERSTANDING.md` excludes choice-derived continuity H-C;
+- `ACQUIRED_STATE.md` marks the state as post-start/acquired without saying what personality, interests or values it should contain.
+
+The name therefore separates H from both governing control and external observer/configuration records without adding a substantive development target.
+
+### 2. Minimal internal format
+
+The file has only two semantic sections:
+
+```markdown
+# Acquired State
+
+## Revisable understanding
+
+<!-- For each durable current item, only as needed:
+- Current:
+- Source:
+- Scope:
+- Status:
+-->
+
+## Open continuities
+
+<!-- For each durable current item, only as needed:
+- Current:
+- Source:
+- Scope:
+- Status:
+-->
+```
+
+Initial content is otherwise empty.
+
+### 3. Why the same four fields are enough
+
+The section heading supplies the state kind, so a repeated explicit `Kind:` field is unnecessary.
+
+For each durable item:
+- **Current** = current understanding or currently open line;
+- **Source** = enough provenance/reference/descriptor to know what originated or supports it;
+- **Scope** = conditions/context of applicability where relevant;
+- **Status** = current warrant/lifecycle state, expressed briefly and qualitatively.
+
+No mandatory numeric confidence, importance, priority, personality label, timestamp or full transcript copy is required.
+
+An optional revision/source note may be added only when the current item would otherwise be unintelligible or unrevisable.
+
+### 4. Lifecycle in the physical file
+
+The file stores current canonical state, not a version log.
+
+Therefore:
+- create an item when it crosses the durable persistence boundary;
+- revise the existing item when content/scope/status changes;
+- split it when different conditions require distinct current relations;
+- mark/deactivate or remove ordinary guidance when superseded, contradicted, dormant or closed;
+- retain compact historical linkage only when needed for provenance or later causal interpretation;
+- do not copy every previous version into the file.
+
+Git/project history and chats remain separate historical sources.
+
+### 5. Initial file content
+
+At experiment start the user-created file should contain only the headings/template above.
+
+It must not contain seed examples of:
+- beliefs or lessons;
+- interests or preferences;
+- values;
+- personality traits;
+- ongoing directions;
+- model self-descriptions.
+
+Examples would teach substantive content and therefore are intentionally omitted.
