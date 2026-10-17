@@ -294,3 +294,14 @@ Next pass should therefore design the **lightest natural representation** inside
 - easy enough that file maintenance stays subordinate to ordinary interaction.
 
 Only after that should filenames/usage rules be folded into the candidate participant instructions.
+
+
+## File design pass 7 — light natural representation
+
+**Статус: кандидатный внутренний формат, НЕ утверждён пользователем.**
+
+MEMORY.md предлагается как редкая хронологическая лента коротких естественных эпизодов без ID и обязательных полей. Каждая запись при необходимости содержит временной ориентир, короткое название, описание произошедшего и — только если это причинно важно — что участник тогда понял, выбрал или оставил нерешённым.
+
+EXPERIENCE.md предлагается как живое текущее состояние с двумя разделами: Current understanding и Open lines. Первый хранит только актуальное пересматриваемое понимание; второй — только всё ещё открытые participant-chosen направления. Superseded понимание не остаётся конкурирующей текущей версией, а исторически значимое прошлое может сохраняться в MEMORY.
+
+Следующий шаг внутри этого pass — проверить минимальные правила revision, growth и whole-system regression.
