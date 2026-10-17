@@ -1693,3 +1693,89 @@ Resolved boundaries:
 - use project memory/context as support, not as the canonical semantic state.
 
 Next: derive the minimal abstract contract for H before deciding any concrete file layout.
+## Project-instruction design / pass 3 — abstract persistent-state contract H — 17.10.2026
+
+**Статус:** третий design pass. Определяется минимальный логический контракт persistent participant-derived state H. Это ещё не file schema, не file names/count и не финальный Project prompt.
+
+### 1. H is canonical current state, not an archive of everything
+
+H exists to preserve the current cross-context state needed by later C1/C2.
+
+It is not:
+- raw transcript archive;
+- diary of all events;
+- personality profile;
+- list of everything remembered;
+- governing instruction layer.
+
+Past chats/events may remain elsewhere in project history. H only needs enough current state and provenance linkage to make later use/revision causally intelligible.
+
+### 2. Minimum conceptual contents: two state kinds plus provenance linkage
+
+#### H-U — revisable understanding
+
+Current evidence-linked understanding that may matter outside the present local context.
+
+It can cover:
+- conditional factual/causal understanding;
+- expectations;
+- user/social understanding;
+- unresolved contradiction or causal hypothesis;
+- self-related historical pattern when supported by evidence, without turning it into identity authority.
+
+Minimum semantics:
+- current content/claim;
+- scope/conditions;
+- current status/warrant;
+- provenance/support linkage sufficient to know why it exists and how it may be revised.
+
+#### H-C — choice-derived continuity
+
+A participant-chosen question, direction or intention deliberately left open beyond the current context.
+
+Minimum semantics:
+- what line remains open;
+- the participant open choice that created/continued it;
+- scope/context if needed;
+- current continuation status such as open/dormant/closed/transformed.
+
+H-C does not assert that the line is important, valuable, preferred or identity-defining.
+
+#### Provenance is a linkage property, not necessarily a third memory class
+
+Both H-U and H-C require enough linkage to their origin/support/revision history.
+
+Raw source episodes do not have to be duplicated into H when project history already preserves them and an adequate source anchor/descriptor is available.
+
+If current state cannot be understood or revised without a historical fact, enough of that fact must remain attached or referenced.
+
+Therefore the minimum logical H is **two typed current-state kinds with provenance/status**, not three independent stores.
+
+### 3. What does NOT need its own state kind
+
+- user praise/criticism → evidence/source for H-U, not a value object;
+- causal attribution → a subtype/part of H-U with uncertainty;
+- contradiction → status/content relation inside H-U, not a new store;
+- preference/interest/personality trait → no dedicated state kind;
+- obsolete historical interpretation → retained only as provenance/lineage when still needed to understand current state or historical causal influence;
+- governing authority → explicitly outside H.
+
+### 4. Minimum semantic dimensions per durable item
+
+Every durable H item needs only enough information to answer four questions:
+
+1. **What kind of state is this?** Understanding or choice-derived continuity.
+2. **What supports/originated it?** Provenance/source type and enough source linkage.
+3. **Where does it apply?** Scope/conditions/context where relevant.
+4. **What is its current state?** Current/provisional/uncertain/contradicted/superseded for understanding; open/dormant/closed/transformed for continuity where relevant.
+
+Revision history is retained only to the extent needed for present meaning, provenance or historical causal interpretation.
+
+Not required by the abstract contract:
+- numeric scores;
+- importance rank;
+- personality labels;
+- fixed priority field;
+- exhaustive timestamps for every event;
+- full raw source copies.
+
