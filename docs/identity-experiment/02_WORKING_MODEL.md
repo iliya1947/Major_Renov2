@@ -1997,3 +1997,50 @@ and compact provenance, scope and status where required.
 Project chats/history remain source episodes and conversational history. Project-only memory remains opportunistic context. Project instructions remain the separate governing control plane.
 
 Thus only **one participant-managed canonical state file** is required.
+### 8. Growth and future split rule
+
+The one-file choice is a minimum, not a permanent prohibition on splitting.
+
+A later physical split is justified only by concrete operational failure, for example:
+- the state becomes too large for reliable targeted reading/editing;
+- H-U and H-C updates repeatedly interfere;
+- provenance lookup becomes unreliable;
+- stale sections or edit conflicts become a practical problem.
+
+If a split is introduced later, all files must still implement one logical H with non-overlapping roles and one canonical-current-state rule.
+
+### 9. What the canonical state file must not become
+
+It should not become a raw chat archive, chronological diary, experiment evaluation log, personality profile, trait/value list, instruction mirror, user-command archive or exhaustive history of every old version.
+
+It should contain only current participant-derived state plus enough provenance/revision context to use and revise that state correctly.
+
+### 10. Initial-state implication
+
+At experiment start, the canonical state source may exist structurally while remaining substantively near-empty.
+
+It must not preload interests, values, preferences, personality descriptions, ongoing participant-chosen directions or acquired experience that did not actually arise after the experiment begins.
+
+Only neutral scaffolding needed to distinguish H-U, H-C and their status/provenance is compatible with the design.
+
+### 11. Pass-4 result
+
+**Minimal physical design: one participant-managed editable canonical state file is sufficient for H.**
+
+Separate H-U/H-C files are unnecessary initially. A separate participant history/provenance archive is unnecessary by default. Specialized personality/memory subsystem files are rejected.
+
+Observer-side configuration/evaluation records remain outside participant H.
+
+Final file name and exact internal formatting remain undecided.
+
+### 12. Exact next design problem
+
+The state architecture is now minimal enough to begin final Project-instruction wording design.
+
+The next pass should translate R1-R4, the pass-2 operational boundaries and the one-file H contract into the shortest robust Project instruction structure, without using the old 04_PROJECT_INSTRUCTIONS_DRAFT.md as a template.
+
+The wording must keep process separate from substantive outcome, avoid persona/trait language, define sparse read/update behavior for canonical H, preserve the authority firewall and source-appropriate revision, leave ordinary conversation ordinary, and explicitly permit no-update, uncertainty and ending prior chosen directions.
+
+Only after the wording is stable should the final file name and internal format be chosen to match it.
+
+**Project-instruction design pass 4 completed.**
