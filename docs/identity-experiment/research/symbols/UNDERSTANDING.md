@@ -166,3 +166,73 @@ Long-context and temporal-consistency evidence blocks opposite extreme. Нали
 - визуально нейтральными для человека, но сильно нагруженными corpus associations.
 
 Следующий проход должен проверить именно эту границу и классы символов.
+
+
+## 20. Четвёртый проход: нейтральность — это компромисс двух осей
+
+Для кандидата нужно отдельно оценивать:
+
+1. **semantic prior load** — насколько сильное значение/функцию модель уже могла усвоить;
+2. **representation stability** — насколько обычным и надёжным является его Unicode/tokenizer representation.
+
+Эти оси конфликтуют. Знакомый знак обычно хорошо представлен, но семантически нагружен. Экзотический знак может быть менее осмысленным для человека, но хуже представлен моделью.
+
+Следовательно, цель — не максимальная редкость, а **low-semantic-load / high-representation-stability compromise**.
+
+## 21. Классы, которые добавляют ненужные confounds
+
+Пока следует считать плохими кандидатными классами:
+- emoji/pictographs;
+- math/logical operators;
+- strongly affective/religious signs;
+- arrows/media/UI controls;
+- long punctuation/structural-symbol strings;
+- invisible/tag/zero-width/variation-selector sequences;
+- combining/homoglyph constructions;
+- extremely rare extended glyphs chosen mainly for exotic appearance.
+
+Это не означает, что каждый отдельный знак из группы обязательно вызовет аномалию. Проблема в том, что группа добавляет сильное альтернативное объяснение эффекта.
+
+## 22. Basic geometric shapes — promising family, not solution
+
+Single-code-point geometric marks such as hollow diamonds/circles/triangles visually impose less narrative or affective content than emoji, hearts, arrows or formal operators. Unicode identity is also simpler than in multi-codepoint presentation sequences.
+
+Но они не blank:
+- некоторые имеют documented notation/UI/calendar uses;
+- corpora give them distributional associations;
+- tokenization frequency can differ;
+- some neighboring geometric characters have emoji variants.
+
+Therefore no exact symbol is accepted yet.
+
+## 23. Negative result: exoticness is not neutrality
+
+A rare four-byte glyph can be worse than a familiar simple shape if the model represents it through fragile or poorly learned token pieces. Desired uncertainty is **interpretive**, not uncertainty about whether the model can reliably encode the mark.
+
+## 24. Single-symbol versus long-sequence distinction
+
+Evidence for pathological special-character sequences is strongest for long constructed strings. One short visible symbol per turn avoids much of that regime.
+
+However single-token glitch behavior is independently documented. Minimal length helps, but does not eliminate candidate-specific representation risk.
+
+## 25. Provisional candidate criterion — not yet a final recommendation
+
+A useful candidate should eventually be:
+- visibly rendered;
+- one ordinary base code point;
+- free of hidden modifiers;
+- not dependent on emoji presentation;
+- weak in conventional semantics;
+- not obvious programming/punctuation/UI/operator syntax;
+- normally represented by the target model tokenizer;
+- reproducible/recognizable by the target model without obvious glitch symptoms.
+
+## 26. Remaining work before saturation
+
+Need one more focused coverage pass:
+- direct evidence on single-symbol prompt response modes;
+- clarification versus spontaneous interpretation;
+- repeating one symbol versus changing symbols across turns;
+- missed semiotic/emergent-symbolic branches.
+
+Only then decide whether the symbols gap is saturated.
