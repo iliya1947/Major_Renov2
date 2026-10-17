@@ -274,3 +274,46 @@ Candidate persistence channels after switching from symbols to ordinary language
 5. **Long-horizon explicit memory/retrieval** — separate product-level mechanism, not established by same-chat persistence alone.
 
 These channels have different durability and evidential meaning. The current evidence most strongly supports short-to-medium same-context carryover and self-conditioning. It does **not** establish a durable developmental effect from a few symbol turns by itself.
+
+
+## 27. Fourth-pass evidence — tokenizer and Unicode confounds
+
+### Glitch-token studies (2024–2025)
+
+Systematic work across multiple LLMs shows that some vocabulary tokens trigger anomalous behavior on simple reproduction/recognition tasks. Non-letter “character tokens” are a substantial category in several tested models, and the exact glitch set changes with tokenizer and model parameters.
+
+**Implication:** a bizarre response to a visible symbol can come from low-level representation pathology rather than open-ended interpretation. Historical glitch lists are not transferable to a future ChatGPT snapshot.
+
+A 2025 byte-level-tokenization study further shows that incomplete/stray-byte token combinations are disproportionately hallucination-prone and that alternative tokenization can sharply reduce the effect.
+
+**Implication:** uncommon Unicode is not automatically a cleaner stimulus.
+
+### Common punctuation / structural characters
+
+A separate 2024 line of work shows that long, specially constructed sequences of common structural and punctuation characters can trigger abnormal memorization/continuation behavior in LLMs, with stronger effects for longer sequences.
+
+**Scope boundary:** this is evidence against long repeated symbol strings, not evidence that a single punctuation mark in one turn behaves the same way.
+
+### Unicode representation mismatch
+
+Current Unicode specifications show that visually similar strings can differ in underlying code points through variation selectors, combining sequences and presentation mechanisms. Homoglyph research likewise demonstrates that LLMs can treat visually similar characters as distinct underlying inputs and sometimes normalize them contextually.
+
+**Implication:** clean symbol-only interaction should avoid invisible modifiers, presentation selectors, combining-only constructions and look-alike substitutions.
+
+### Semantic-load classes
+
+Prior symbolism research finds conventional symbolism easier for language models to recover than situated/context-specific symbolism. Mathematical-symbol benchmarks likewise show that formal symbols participate in dense learned contextual roles even when models interpret them imperfectly.
+
+**Implication:** emoji/pictographs, mathematical/logical operators, affective/religious signs and obvious UI/action symbols are poor candidates for maximizing interpretive openness.
+
+### Basic geometric shapes
+
+Unicode’s Basic Geometric Shapes block contains single-code-point prototypes for squares, triangles, circles and diamonds. Individual characters still have documented historical, mathematical, UI, bullet or calendar uses, and some related shapes can participate in emoji presentation.
+
+**Current synthesis:** plain basic geometric glyphs are a more promising candidate family than punctuation strings, emoji, invisible Unicode or very rare extended glyphs, but each candidate must be individually checked.
+
+### Target-model tokenization
+
+Current OpenAI documentation states that text is processed as model-dependent token sequences and provides a GPT-5.x tokenizer view.
+
+**Implication:** before any exact symbol is recommended, its target-model tokenization and ordinary reproducibility must be verified. Visual appearance alone is insufficient.
