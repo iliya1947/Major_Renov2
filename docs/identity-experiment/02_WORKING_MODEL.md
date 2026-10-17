@@ -3070,3 +3070,16 @@ No hidden substantive trajectory was found in the two lines.
 
 The candidate remains the strongest current wording. The remaining work is no longer to add research content to it, but to derive the minimal **experiment configuration around it** without contaminating the prompt: initial memory source, project-only memory, launch symbols, and timing/form of neutral finitude information.
 
+## Correction — two instruction layers were incorrectly mixed — 17.10.2026
+
+User identified a root error in the current two-line candidate: it mixes two different parts of the future Project instructions.
+
+1. **Core experimental instruction layer.** This is the part the 12 research areas were primarily meant to distill into only a few lines. Its job is to define the minimal participant process / freedom of choice without prescribing personality or trajectory.
+2. **Memory-operation instruction layer.** This is a separate service/technical part whose job is to give the participant authority and capability to manage its persistent memory system. It should support the core process but must not be mistaken for the core developmental instruction itself.
+
+Therefore the candidate “manage your memory” + “choose when open” is **not accepted as the final two-line core**. The memory line belongs to the separate memory-management layer.
+
+The self-curated persistent-context analysis remains useful as an explanation of how memory can carry causal history across contexts, but it is support infrastructure for persistence, not a substitute for the few core lines distilled from the 12-area research.
+
+**Exact next task:** re-analyze the research with the two layers kept separate. First derive the minimal core experimental lines. Only afterward derive the shortest separate memory-management block that grants real control over memory without imposing a memory policy.
+
