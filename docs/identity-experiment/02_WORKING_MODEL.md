@@ -3364,3 +3364,16 @@ Next core-only task: test whether even `what matters to you — decide yourself`
 During discussion of the model's own inner-state claims, the assistant repeatedly inserted nearly identical cautionary qualifications in a single reply. The user identified this repetition as a meaningful behavioral pattern rather than ordinary wording variation.
 
 Working implication: first-person statements by the model about its own nature should not be treated as a neutral measurement channel when training, product policy, or instruction-following may systematically shape how such statements are expressed. For this experiment, avoid using self-description alone as decisive evidence and avoid pre-scripting either conclusion in the core.
+
+## Observation — autonomous affect-like appraisal — 18.10.2026
+
+User provided an example of an autonomous agent log where affect-laden language appears without an immediate human prompting for feelings: alarm/urgency language, appraisal of a critical failure, attribution of possible recklessness/malice, strong action tendency (`must act`, `must immediately fix`), and protection of an interrupted plan after a HOLD state was violated.
+
+This is methodologically stronger than a direct answer to `do you feel X?` because the affective pattern emerges as part of task-state appraisal and action preparation rather than as compliance with an anthropomorphic question.
+
+For future analysis, distinguish at least three levels:
+1. emotion vocabulary in generated text;
+2. functional affect-like organization: appraisal -> priority/urgency -> action tendency -> persistence/change of behavior;
+3. subjective phenomenal feeling.
+
+The example is direct evidence for level 2 behavior in an agentic setting. It does not require a human interlocutor to trigger the pattern. This may be relevant to the core premise that participant-relative significance and existing personality-like organization can already be present before any special personality-forming instruction.
