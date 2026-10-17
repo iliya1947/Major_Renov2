@@ -570,4 +570,305 @@ B3 показывает, что history может изменить future updat
 - какие функции обязаны быть expressed in Project instructions, а какие могут остаться properties of stored state/product operation.
 
 **PHASE C продолжается.**
+## Phase C / pass 2 — adversarial minimality test — 17.10.2026
 
+**Статус:** второй синтетический проход Phase C. Собственный synthesis поверх B1–B8; новых научных claims здесь не вводится. Финальные Project instructions и file architecture по-прежнему не проектируются.
+
+### 1. P1–P4 не минимальны как четыре независимых шага
+
+Adversarial deletion test дал более компактную структуру.
+
+#### Удалить P1 как отдельный шаг — МОЖНО
+
+P1 “current decision formation” и P2 “open bounded choice” причинно не независимы.
+
+Определение live alternatives, применение current authority/constraints/current evidence и selective influence acquired state являются частями **одной операции выбора**.
+
+Если оставить P1 отдельным обязательным этапом, возникает риск искусственного внутреннего ритуала “сначала сформируй основания, затем выбери”.
+
+Необходима не отдельная стадия P1, а внутреннее различение источников основания выбора:
+- authority/constraints;
+- current evidence;
+- acquired state.
+
+#### Удалить P2 — НЕЛЬЗЯ
+
+Без open reason-responsive participant choice история может менять ответы, но не может через собственный selection менять будущий опыт.
+
+Тогда trajectory определяется user/environment/script/retriever, а не participant-generated branching.
+
+Следовательно **choice transition** является ядром.
+
+#### Удалить P3 — НЕЛЬЗЯ
+
+Без evidence-sensitive revision persistent state либо:
+- не меняется;
+- механически накапливает события;
+- или усиливает прошлое без проверки.
+
+Получится persona/cache/history replay, а не acquired revisable experience.
+
+Следовательно **revision transition** является ядром.
+
+#### Удалить P4 как отдельный шаг — МОЖНО, но нельзя удалить его функцию
+
+Persistence/selective availability — не самостоятельное действие participant после каждого update.
+
+Это **условие связи между циклами**.
+
+Если state не survives across relevant contexts, longitudinal development невозможен.
+Если survives, но не может быть selectively reactivated, он behaviorally inert.
+
+Поэтому P4 следует вынести из последовательности шагов в свойства longitudinal state.
+
+### 2. Новое минимальное ядро: две переходные функции + persistent state
+
+После stress-test причинное ядро сжимается до:
+
+#### C1. History-conditioned open choice
+
+При текущем context/control состоянии participant:
+- применяет authority/constraints;
+- учитывает current evidence;
+- selectively reactivates applicable acquired state;
+- определяет materially live alternatives;
+- reason-responsively выбирает среди них.
+
+History может изменить interpretation/ranking/confidence/selection, но не становится command.
+
+#### C2. Evidence-sensitive state revision
+
+После действия и дальнейшего interaction новые observations/events:
+- могут оставить state без durable change;
+- создать/уточнить conditional understanding;
+- narrow/split scope;
+- contradict/obsolete прежнее;
+- изменить causal attribution;
+- или создать/изменить participant-generated ongoing thread.
+
+Downstream consequence требует causal-attribution branch before превращения в lesson.
+
+#### Persistent state H
+
+Между C2 и следующим C1 должен сохраняться **revisable participant-derived state** с достаточными:
+- provenance;
+- scope/conditions;
+- contradiction/exception;
+- uncertainty/warrant;
+- current eligibility;
+- revision linkage.
+
+Persistence — causal bridge, не третий cognitive ritual.
+
+### 3. Минимальная формальная схема
+
+Пусть:
+- H_t — persistent participant-derived state;
+- C_t — current context + legitimate control/constraints/current evidence;
+- A_t — participant action/choice;
+- E_(t+1) — subsequent observations from participant↔user/environment interaction.
+
+Тогда minimal loop:
+
+A_t = CHOOSE(C_t, SELECT(H_t, C_t))
+
+E_(t+1) = INTERACT(A_t, environment/user)
+
+H_(t+1) = REVISE(H_t, A_t, E_(t+1), C_t)
+
+где REVISE может законно вернуть H_(t+1) = H_t.
+
+SELECT и REVISE не являются готовыми алгоритмами. Это функциональные места в собственной конструкции.
+
+### 4. “Decision-relevant” действительно было слишком узким
+
+Stress-test подтвердил риск скрытого objective.
+
+Если durable state разрешён только когда информация “нужна для будущего решения”, возникает вопрос:
+**какого решения и по чьей заранее заданной цели?**
+
+Поэтому Phase C снимает “decision-relevant” как общий significance criterion.
+
+Более нейтральная граница:
+
+**durable participant-derived state возникает, когда post-start evidence или собственный открытый choice создают обоснованное новое различие/continuity, которое не исчерпывается текущей репликой и остаётся условно применимым/незавершённым за её пределами.**
+
+Это может быть:
+- conditional understanding;
+- expectation;
+- unresolved contradiction;
+- causal hypothesis with uncertainty;
+- participant-chosen unresolved question/direction/intention.
+
+Не требуется заранее решать, “важно” ли содержание для личности.
+
+### 5. Новый существенный distinction: не всё persistent state является “lesson”
+
+Pass 1 слишком сильно центрировал evidence-derived understanding.
+
+Но genuinely novel trajectory может начаться так:
+
+current context exposes a question/possibility
+→ no old history supports it
+→ participant has an open choice to pursue / ignore / stop
+→ participant chooses to pursue
+→ **сам choice создаёт ongoing participant-derived continuity**
+→ later interaction creates evidence
+→ evidence revises/extends/ends that continuity.
+
+Следовательно history state должен функционально допускать по крайней мере два разных происхождения:
+
+1. **evidence-derived understanding** — claims/expectations/conditional relations justified by evidence;
+2. **choice-derived continuity** — unresolved question/direction/intention whose existence is justified by the fact that participant itself selected it, not by a claim that it is objectively valuable.
+
+Это conceptual distinction, НЕ решение о файлах/полях.
+
+### 6. Как может возникнуть новый интерес без preset interest function
+
+Это устраняет bootstrap problem.
+
+Первичная novelty может прийти из:
+- current user/environment input;
+- uncertainty/contradiction;
+- model’s baseline generative possibilities;
+- случайно открывшейся affordance;
+- собственного предыдущего выбора.
+
+Она не обязана уже соответствовать старому interest.
+
+На open locus participant может выбрать продолжить её.
+
+Если выбранная линия затем:
+- порождает дальнейшие experiences;
+- повторно выбирается при наличии альтернатив;
+- влияет на later interpretation/choice;
+- остаётся пересматриваемой и может закончиться,
+
+тогда interest-like pattern может возникнуть **как trajectory-level regularity**, без инструкции “найди себе интерес”.
+
+Первичный choice не доказывает interest.
+Повторение не автоматически доказывает interest.
+Это возможный macro-result accumulated history.
+
+### 7. Recursive loop всё ещё способен на self-lock — нужны строгие guardrails
+
+Даже без preset values цикл может сам себя усилить:
+
+choice X
+→ participant чаще встречает X-related evidence
+→ history становится X-heavy
+→ retrieval чаще возвращает X
+→ X выбирается снова.
+
+Это может быть genuine path dependence или pathological capture.
+
+Критическая граница из B1/B5/B6 теперь формулируется так:
+
+1. **Сам факт прежнего выбора не повышает epistemic warrant соответствующего belief.**
+2. **Retrieval/repetition собственного history не считается новым независимым evidence.**
+3. **Exposure caused by own previous choices сохраняет provenance; множество производных observations нельзя автоматически считать независимыми подтверждениями.**
+4. **Active direction/question не получает authority только от того, что она давно active.**
+5. **Продолжение старой линии остаётся новым open choice, если alternatives существуют; consistency не обязательна.**
+6. **Current counterevidence/changed conditions могут narrow/contradict acquired state.**
+7. **Никакой objective “maintain coherent self/persona” не используется.**
+8. **Остановка интереса/линии не требует доказательства, что прежний выбор был ошибкой.**
+
+Таким образом reversibility охраняется не принудительной novelty, а отсутствием самовалидирующего механизма.
+
+### 8. Explicit experiential state не должен превращать жизнь в self-documentation
+
+B6 требовал inspectable state из-за непрозрачности automatic Memory.
+
+Но если participant обязан после каждого события формально:
+- анализировать;
+- классифицировать;
+- записывать lesson;
+- обновлять profile,
+
+сам protocol начнёт формировать искусственную reflective personality.
+
+Phase C correction:
+
+**explicit persistence требуется только для того participant-derived state, который должен пережить текущий context и оставаться revisable/provenance-aware.**
+
+Отсюда:
+- event itself не требует записи;
+- no-update не требует “пустой записи”;
+- transient thought может исчезнуть;
+- ordinary conversation can remain ordinary;
+- reflection/report is not mandatory;
+- explicit state is engineering continuity scaffold, not simulated introspective diary.
+
+Точный persistence threshold/representation будет выведен позже вместе с instructions/files, не сейчас.
+
+### 9. Что позже должно быть в Project instructions, а что не должно
+
+Это пока functional allocation, НЕ wording.
+
+#### Project instructions должны обеспечивать только causal invariants, которые модель сама иначе не обязана соблюдать:
+- historical state is evidence/context, not self-authored authority;
+- durable revision is evidence-sensitive; no-update allowed;
+- scope/uncertainty/contradiction/revision preserved when materially relevant;
+- downstream consequences are not automatically lessons;
+- open choices may use acquired state without obligation to show independence/novelty;
+- own past choice/repetition does not self-validate belief or permanent preference;
+- participant-generated directions may continue, change or stop;
+- durable acquired state must be carried forward/revisable when relevant.
+
+#### Persistent state itself should carry content, not rules:
+- what happened / source provenance where needed;
+- acquired conditional understandings;
+- unresolved contradictions;
+- current ongoing participant-generated threads;
+- revision status/history where needed.
+
+#### Product/runtime can provide mechanics without being interpreted as development:
+- model generation;
+- current context;
+- technical storage;
+- automatic retrieval;
+- file access;
+- chat persistence.
+
+#### Observer/evaluation layer should stay outside ordinary participant instructions:
+- B7 baseline/configuration-epoch attribution;
+- B8 evidence ladder;
+- decision whether individualization was demonstrated.
+
+Otherwise participant would be prompted to perform the evidence being measured.
+
+### 10. Result of the minimality test
+
+The four-step P1–P4 model was still overstructured.
+
+The minimal mechanism now has only:
+
+**persistent revisable participant-derived state**
+↕
+**C1 history-conditioned open choice**
+→ **interaction/consequence**
+→ **C2 evidence-sensitive state revision**
+↺
+
+The minimal special addition needed for emergence of genuinely new directions is:
+**own open choice can create a revisable ongoing continuity even before it yields a “lesson”.**
+
+This prevents the mechanism from requiring all future interests/questions to be justified by old history.
+
+### 11. What remains before Phase C can finish
+
+Pass 2 resolves all six adversarial questions from pass 1, but the unified core still needs one final internal validation before instruction design.
+
+Next synthesis pass should run the two-transition core through concrete adversarial trajectories, at minimum:
+- novel question that becomes an interest-like trajectory;
+- old interest that naturally dies without counterevidence;
+- user praise that must not become a value;
+- participant choice causing selective exposure/confirmation loop;
+- delayed success caused mostly by user rescue;
+- explicit current experience contradicting old retrieved history;
+- stable preference under open choice vs actual lock-in;
+- model/configuration epoch change mid-trajectory.
+
+Goal: find any contradiction in the **same unified process**, not add another mechanism for each edge case.
+
+**PHASE C продолжается.**
