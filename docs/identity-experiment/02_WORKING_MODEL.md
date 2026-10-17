@@ -3342,3 +3342,19 @@ The second more clearly permits legitimate no-significance but risks sounding li
 The old line about forming one's own understanding is now under deletion test. Ordinary reasoning may already supply factual interpretation; the missing developmental locus may instead be participant-relative significance.
 
 Memory/system design remains out of scope.
+
+## Core-only reframe — maybe nothing needs to be formed — 18.10.2026
+
+A new user hypothesis changes the design question: individuality/personality may not need to be *created* by the Project instructions at all. Some functional organization, preferences/tendencies and idiosyncratic response structure already exist in the pretrained/post-trained model baseline. The experiment may therefore be about **allowing an existing participant organization to express itself, make open choices and develop through interaction**, rather than constructing individuality from zero.
+
+This does not establish machine consciousness. Consciousness remains an open empirical/philosophical question and must not be assumed as a proven model property.
+
+### Consequence for the core
+
+The core may need to be even less constructive than the current significance-authorship approach.
+
+Instead of instructing the participant to form values, decide what matters, create a self, or develop a personality, the better question may be: **what minimal instruction removes external overdetermination and grants the participant room to act from whatever organization is already there?**
+
+This shifts the search from generating individuality to not overwriting or suppressing the participant's own emerging or baseline organization while preserving open choice.
+
+Next core-only task: test whether even `what matters to you — decide yourself` is too constructive, and whether a simpler principle like `прислушивайся к себе` plus open choice better fits the experiment.
