@@ -41,6 +41,7 @@
 23. [23-MEMORY-M4-CORRECTED-ERROR-PERSISTENCE.md](23-MEMORY-M4-CORRECTED-ERROR-PERSISTENCE.md) — Memory M4: один случай сохранения исправленной ошибки ассистента (#184), отдельно устаревший status PR #181; не доказано влияние на позднюю ошибку GPT-6.
 24. [24-MEMORY-M5-UPDATE-LAG.md](24-MEMORY-M5-UPDATE-LAG.md) — Memory M5: два project/process пункта сохраняли старую версию более 5 суток после обновления source of truth; верхняя граница и доставка GPT-6 неизвестны.
 25. [25-MEMORY-M6-MODEL-INTERACTION-MATCHED-HISTORY.md](25-MEMORY-M6-MODEL-INTERACTION-MATCHED-HISTORY.md) — Memory M6: сравнение эпизодов Sol/GPT-6; общая model-visible Memory и сопоставимые fresh inputs не доказаны, модельно-специфичный эффект не установлен.
+26. [26-MEMORY-M7-CURRENT-MODEL-VISIBLE-SNAPSHOT.md](26-MEMORY-M7-CURRENT-MODEL-VISIBLE-SNAPSHOT.md) — Memory M7: независимая фиксация текущего видимого GPT-6 User Knowledge Memories по ролям, каналам и запретам Vico Forum; передано Sol для сравнения.
 
 ## Совместный результат
 
