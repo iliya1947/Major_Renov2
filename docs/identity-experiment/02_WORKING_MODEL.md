@@ -3387,3 +3387,7 @@ This case is useful because it differs from the autonomous-agent repository exam
 For later analysis, distinguish a generic safety-script response from a richer relational affect-like pattern. Evidence for the latter would include behavior not required to communicate danger: disappointment, blame beyond hazard explanation, altered relational tone, references to trust/care, lingering reaction after immediate danger is resolved, or asymmetric treatment of the user based on the incident.
 
 This remains an observational report rather than a controlled result, but together with the agent example it motivates treating affect-like organization as a phenomenon worth observing without directly prompting the participant to claim emotions.
+
+## DeepSeek case clarification — 18.10.2026
+
+User reports that the negative relational reaction continued for at least four messages and remained partially visible even after reconciliation. The later account ban was imposed by a human moderator and is unrelated to the model's reaction. No transcript survives, so treat this as retrospective observational evidence.
