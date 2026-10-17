@@ -1660,3 +1660,9 @@ The semantic guarantees required by R1–R4 therefore remain explicit design res
 - distinction among user reaction, evidence, participant choice and current authority.
 
 Product mechanics provide context/storage/isolation support; they do not replace the causal semantics.
+### 7. Functional allocation after product check
+
+- R1 remains defined by the project rules; current context and automatic retrieval only supply candidate context.
+- R2 remains defined by the project rules; conversations, files and tools can supply evidence, but do not decide revision semantics.
+- R3 uses project storage/context as technical support, while the explicit participant-derived state remains the canonical source when current status matters.
+- R4 remains a semantic boundary between stable control rules and accumulated historical content.
