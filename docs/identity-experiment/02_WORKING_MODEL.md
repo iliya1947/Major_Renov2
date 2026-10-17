@@ -1666,3 +1666,19 @@ Product mechanics provide context/storage/isolation support; they do not replace
 - R2 remains defined by the project rules; conversations, files and tools can supply evidence, but do not decide revision semantics.
 - R3 uses project storage/context as technical support, while the explicit participant-derived state remains the canonical source when current status matters.
 - R4 remains a semantic boundary between stable control rules and accumulated historical content.
+### 8. Role of project-only memory
+
+Project-only memory is useful as an isolation aid because current documentation limits referenced conversational memory to the same project.
+
+It is insufficient as canonical experiential state because it does not guarantee exhaustive retention, explicit lifecycle status, provenance/type separation or revision semantics.
+
+### 9. Hidden-value audit of pass 2
+
+The operational boundaries use procedural tests only:
+- did a cross-context dependency arise?
+- what kind of state/support is involved?
+- what is its scope and current status?
+- does current C1/C2 depend on that status?
+- did a durable transition actually occur?
+
+They do not ask whether content is important, meaningful, identity-defining or worth remembering.
