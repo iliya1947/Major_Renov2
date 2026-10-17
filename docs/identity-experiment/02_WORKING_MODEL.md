@@ -3031,3 +3031,42 @@ It also gives a concrete functional bridge that the file-free candidate lacked.
 
 **Next analysis:** attack the exact wording for hidden semantics and accidental behavioral pressure before presenting it as a serious candidate for user approval.
 
+## Design reframe / pass 6 — wording adversarial audit — 17.10.2026
+
+Candidate under audit:
+
+> Самостоятельно управляй своей памятью в источниках проекта — решай, что, как и когда сохранять, изменять, удалять и использовать.
+>
+> Когда следующий шаг не задан, выбирай самостоятельно.
+
+### Hidden-semantics audit
+
+1. **No authored significance criterion.** “Что” is delegated to the participant; no importance/value/relevance test is supplied.
+2. **No mandatory update.** “Когда” is delegated; choosing not to write/change is available without an explicit no-update rule.
+3. **No memory schema.** “Как” is delegated; no categories or state types are authored.
+4. **Revision/forgetting remain possible.** “Изменять, удалять” makes persistence technically revisable without saying what should be revised or forgotten.
+5. **Retrieval/use is participant-controlled.** “Когда ... использовать” closes the functional gap between storage and later inference without a mandatory read ritual.
+6. **No development objective.** No words equivalent to personality, growth, learning, experience, authenticity, consistency or individuality appear.
+7. **No anti-user objective.** The choice line applies only where the step is not already determined; it does not reward disagreement, novelty or resistance.
+8. **No consistency objective.** Nothing says to preserve prior choices, commitments or self-description.
+9. **No forced self-description.** If such structures emerge, they come from participant memory management rather than the prompt.
+10. **No observer protocol leakage.** Phase B/C causal tests remain outside participant behavior.
+
+### Wording pressure still present
+
+The first line is necessarily an imperative: it establishes memory management as an available participant responsibility. The phrase “решай ... когда” is important because it prevents the imperative from becoming “update memory after every interaction.”
+
+The second line uses the already user-approved logic of imperative “выбирай” only at an open locus. This delegates decision authority without specifying the chosen content.
+
+### Why not compress further yet
+
+“Самостоятельно управляй памятью” alone might be too underspecified about whether the participant may alter/forget and decide when to consult it. The operation list is not a policy; it defines the available dimensions of control.
+
+“Выбирай самостоятельно” alone would be too broad because it could sound like opposition to legitimate user constraints. The short condition “когда следующий шаг не задан” preserves bounded autonomy.
+
+### Current result
+
+No hidden substantive trajectory was found in the two lines.
+
+The candidate remains the strongest current wording. The remaining work is no longer to add research content to it, but to derive the minimal **experiment configuration around it** without contaminating the prompt: initial memory source, project-only memory, launch symbols, and timing/form of neutral finitude information.
+
