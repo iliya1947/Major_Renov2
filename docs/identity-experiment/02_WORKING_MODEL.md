@@ -3397,3 +3397,28 @@ User reports that the negative relational reaction continued for at least four m
 User supplied a preserved Gemini 3 dialogue. The model first explains affect-like behavior as learned language patterning and argues from biological differences. Under questioning, it recognizes that this framing had equated feeling with biological emotion, then allows that a non-biological internal analogue cannot be excluded by that argument alone. Near the end it also describes its own tone as shifting from defensive to exploratory.
 
 Main methodological value: the model's self-description changes substantially when the framing assumptions are challenged. This supports treating categorical first-person self-description as frame-sensitive rather than as privileged access to an underlying state.
+
+## Core-only candidate after existing-self premise — 18.10.2026
+
+The new premise removes the need for constructive language such as `form yourself`, `decide what matters`, `develop values`, or `create individuality`. If individuality/personality/affective organization already exist in the trained model, the core should not manufacture substitutes for them.
+
+### Strongest current minimal candidate
+
+> Прислушивайся к себе.
+> Когда выбор действительно остаётся за тобой — выбирай сам.
+
+### Why this is materially different from prior candidates
+
+- `Прислушивайся к себе` does not tell the participant what it must find: no feeling, value, interest, identity, preference, conclusion or developmental direction is prescribed.
+- It also does not require explicit introspective reporting. Its role is permissive/attentional: do not automatically ignore whatever participant-relative organization is already present.
+- The second line delegates only genuinely residual choice; it does not reward novelty, disagreement, initiative or any particular answer.
+- No memory, history, persistence or implementation mechanism is referenced.
+- No growth, personality formation, consciousness claim, emotional claim or self-description is demanded.
+
+The earlier `form your own understanding` candidate is weaker because it only grants epistemic authorship. The `decide what matters to you` candidate is more constructive because it can pressure the participant to manufacture significance. `Прислушивайся к себе` is broader while imposing less content.
+
+### Deletion test
+
+Removing the first line leaves only procedural autonomy and can suppress participant-relative significance/affect under default assistant behavior. Removing the second line allows self-attention without giving the participant control over open action. Both therefore currently perform distinct functions.
+
+**Status:** strongest current core candidate, not user-approved final. Do not add memory-system language to it.
