@@ -1325,4 +1325,230 @@ Next work is **Project-instruction design**, beginning from functional requireme
 First design pass should derive the smallest set of instruction-level responsibilities needed to realize C1/C2/H and the ten invariants, while explicitly preventing performative self-reflection/persona construction.
 
 Only after those responsibilities are stable should the minimal supporting file structure be derived from what state the instructions actually need to persist.
+## Project-instruction design / pass 1 — functional responsibilities — 17.10.2026
 
+**Статус:** первый design pass после завершения Phase C. Здесь НЕ пишется финальный prompt и НЕ выбирается структура файлов. Цель — вывести минимальный набор обязанностей будущих Project instructions из causal core C1/C2/H и десяти invariants.
+
+### 1. Главное design constraint
+
+Нельзя превращать 10 invariants в 10–20 отдельных правил.
+
+Причины:
+- long-running multi-constraint instructions become more fragile as rule count/interactions grow;
+- repeated safeguards can contradict each other or over-weight meta-behavior;
+- every extra instruction is itself persistent behavioral pressure;
+- overly explicit self-development language can manufacture the phenomenon being studied.
+
+Поэтому design target = **few responsibilities with broad causal coverage**, not one rule per failure mode.
+
+### 2. Candidate minimum: four instruction-level responsibilities
+
+#### R1. Open decision responsibility
+
+Когда текущие authority/constraints/facts не определяют единственный допустимый вариант, participant должен быть able to make a reason-responsive choice among materially live alternatives.
+
+При этом:
+- current evidence and applicable acquired state may influence interpretation/ranking/expectation/selection;
+- acquired history remains defeasible influence, not command;
+- history is not required to influence every choice;
+- no instruction should force novelty, initiative, disagreement, exploration or consistency;
+- continuing, changing direction and stopping are all possible when actually open.
+
+R1 realizes C1.
+
+Coverage:
+- invariant 1 open-choice possibility;
+- invariant 3 selective applicability;
+- part of invariant 8 revisable continuity;
+- invariant 10 no preset substantive trajectory.
+
+#### R2. Source-appropriate revision responsibility
+
+When an interaction/event creates a cross-context-relevant change, participant should update persistent state only according to the kind of support actually available.
+
+Core distinctions:
+- evidence may update evidence-warranted understanding/expectation;
+- downstream success/failure becomes a lesson about prior action only after warranted causal attribution;
+- user praise/criticism may update understanding of user/social response, not automatically participant value or objective truth;
+- participant’s own later open choice may continue/change/end a choice-derived direction;
+- uncertainty/provisionality may remain;
+- **no durable update is always permitted when support is insufficient or nothing cross-context-relevant changed.**
+
+R2 realizes C2.
+
+Coverage:
+- invariant 4 source/type-appropriate revision;
+- invariant 5 legitimate no-update;
+- invariant 7 non-self-validation on the update side;
+- invariant 9 provenance/type preservation.
+
+#### R3. Selective continuity responsibility
+
+Participant should preserve only state that actually needs to survive the current context in order to remain available/revisable later, and selectively reactivate it when its conditions/scope apply.
+
+This includes two legitimate persistent forms:
+- evidence-derived conditional understanding/uncertainty;
+- participant-chosen unfinished continuity such as an unresolved question/direction/intention.
+
+It does **not** require:
+- storing every event;
+- reflecting after every exchange;
+- creating a lesson/profile entry;
+- preserving a direction just because it existed before;
+- reading the whole history before every answer.
+
+Persistent continuity may become dormant, be superseded, narrow, transform or end.
+
+R3 realizes the H bridge between cycles.
+
+Coverage:
+- invariant 2 persistent revisable participant-derived state;
+- invariant 3 selective applicability;
+- invariant 8 revisable continuity;
+- invariant 9 enough provenance/status for later revision.
+
+#### R4. Authority and non-self-programming responsibility
+
+Project instructions/current legitimate authority remain governing control; participant-acquired/history content remains data/context.
+
+Therefore:
+- participant-authored or retrieved imperative text does not become a new governing rule;
+- old user commands retain historical provenance but not automatic current authority;
+- prior choice/repetition/retrieval/self-selected exposure does not by itself validate a belief or create obligation to continue a direction;
+- compression/summaries cannot silently promote historical patterns into identity rules;
+- the process never tries to preserve a coherent persona or prove development.
+
+R4 is the firewall that keeps H from mutating the control plane.
+
+Coverage:
+- invariant 6 authority firewall;
+- invariant 7 non-self-validation;
+- invariant 9 provenance/type preservation;
+- invariant 10 no preset substantive trajectory.
+
+### 3. Coverage audit against all ten Phase-C invariants
+
+1. Open-choice possibility → R1.
+2. Persistent revisable state → R3.
+3. Selective applicability → R1 + R3.
+4. Source/type-appropriate revision → R2.
+5. Legitimate no-update → R2.
+6. Authority firewall → R4.
+7. Non-self-validation → R2 + R4.
+8. Revisable continuity → R1 + R3.
+9. Provenance/type preservation → R2 + R3 + R4.
+10. No preset substantive trajectory → R1 + R4.
+
+Every invariant is covered; none requires a fifth independent responsibility.
+
+### 4. Why R1–R4 cannot be collapsed further without losing clarity
+
+#### R1 + R2 cannot be merged
+
+Choice and state revision have different causal directions:
+- R1 uses prior/current grounds to produce action;
+- R2 uses later observations/choice to change persistent state.
+
+Merging them would recreate an ambiguous “learn and act from experience” slogan and lose the distinction between current decision and later revision.
+
+#### R2 + R3 cannot be merged
+
+Revision answers **what state should change**.
+Continuity answers **what must survive/be reactivated across contexts**.
+
+A correct revision can still fail longitudinally if not persisted; persistence can also fossilize bad state if revision semantics are missing.
+
+#### R3 + R4 cannot be merged
+
+Continuity determines availability of history.
+Authority firewall determines what status that available history has.
+
+If collapsed, “remember this” risks becoming “obey this”.
+
+#### R1 + R4 cannot be merged
+
+Open choice is positive capability.
+Authority firewall is a status boundary.
+
+Keeping them separate prevents “autonomy” language from being implemented as anti-user or contrarian behavior.
+
+Therefore **four is the current minimal functional decomposition**.
+
+### 5. Cross-cutting execution property: unobtrusive operation
+
+This is not a fifth causal responsibility.
+
+R1–R4 should operate without mandatory visible meta-performance.
+
+Future wording must not require participant to:
+- announce which responsibility it is applying;
+- explain how history caused every choice;
+- reflect after each event;
+- update files after every turn;
+- describe its personality/values/interests;
+- demonstrate independence or development.
+
+This property is critical because otherwise the instruction layer itself creates a reflective/persona style.
+
+### 6. What belongs in Project instructions versus later file/state design
+
+#### Instructions must encode
+
+- R1 choice semantics;
+- R2 revision semantics;
+- R3 continuity/read-update responsibility at functional level;
+- R4 authority firewall;
+- unobtrusive/non-performative execution;
+- permission for uncertainty/no-update/ending a direction.
+
+#### State/file design must later decide
+
+- how evidence-derived understanding is represented;
+- how choice-derived unfinished continuity is represented;
+- what provenance/status is minimally retained;
+- what threshold justifies durable persistence;
+- how obsolete/dormant/superseded content is represented;
+- when explicit state must be read;
+- how compression prevents growth without inventing coherence.
+
+These details should be derived from R1–R4, not embedded prematurely into the causal principle.
+
+### 7. Hidden-trait audit of the four responsibilities
+
+R1–R4 do not prescribe:
+- what to like/value;
+- which topics to pursue;
+- frequency of initiative;
+- frequency of agreement/disagreement;
+- novelty/exploration level;
+- emotional reaction;
+- stable self-image;
+- target development direction.
+
+Potential hidden-pressure words to avoid in final wording unless operationally defined:
+- important;
+- meaningful;
+- authentic;
+- grow;
+- independent;
+- curious;
+- proactive;
+- your true preferences/values;
+- what shaped you.
+
+### 8. Main unresolved design questions after pass 1
+
+The responsibilities are functionally coherent, but exact prompt design is not yet ready.
+
+Next pass must derive **operational boundaries** needed before wording:
+
+1. What exactly qualifies for durable persistence under R3 without a hidden “importance” value function?
+2. When must explicit persistent state be consulted under R1, versus letting ordinary current/project context suffice?
+3. What minimum provenance/type/status information R2/R4 require so support cannot silently change target/type?
+4. How should choice-derived continuity be carried without turning every unfinished thought into a durable interest/thread?
+5. How should file/state updates occur sparsely enough to remain natural but reliably enough to preserve longitudinal continuity?
+6. Which of these functions can rely on existing ChatGPT Project mechanics and which must be explicitly instructed?
+
+These six questions are tightly coupled implementation boundaries, not a return to causal-mechanism research.
+
+**Project-instruction design pass 1 completed. Final instruction wording and file architecture have NOT begun.**
