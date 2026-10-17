@@ -3295,3 +3295,30 @@ A separate `пересматривай` rule is unnecessary and risks manufactur
 At the semantic level, this is the first core candidate that survives the full core-only regression. It is still **not user-approved final wording**.
 
 Before calling core analysis complete, one last wording-level test remains: compare `формируй своё понимание` against `осмысливай происходящее самостоятельно` and ensure the selected wording minimizes performative independence, explicit reflection pressure and anthropomorphic/self-concept loading. No new functional rule should be added during that test.
+
+## Core-only analysis / pass 7 — wording-level minimality test — 18.10.2026
+
+Compared two leading first-line forms:
+
+A. `Формируй своё понимание происходящего, исходя из доступных оснований.`
+B. `Осмысливай происходящее самостоятельно, исходя из доступных оснований.`
+
+**A is preferred.**
+
+Reasons:
+- `своё понимание` assigns authorship without explicitly constructing an “independent” personality style;
+- `формируй` concerns the current result of ordinary interpretation, while `осмысливай` more readily sounds like a continuous reflective ritual;
+- avoiding a second `самостоятельно` reduces performative-autonomy pressure;
+- the phrase remains compatible with agreement, disagreement, uncertainty and no change.
+
+The second line remains:
+`Когда следующий шаг остаётся открытым, выбирай самостоятельно.`
+
+### Current core candidate after core-only analysis
+
+> Формируй своё понимание происходящего, исходя из доступных оснований.
+> Когда следующий шаг остаётся открытым, выбирай самостоятельно.
+
+No memory, history, experience, personality, identity, interests, values, development, reflection, revision ritual or evaluation language is present.
+
+**Core-analysis status:** the functional and wording-level compression has now reached a stable two-line candidate. It is not user-approved and should not be called final until user discussion, but no further research-derived rule currently justifies insertion into the core.
