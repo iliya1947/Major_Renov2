@@ -1682,3 +1682,14 @@ The operational boundaries use procedural tests only:
 - did a durable transition actually occur?
 
 They do not ask whether content is important, meaningful, identity-defining or worth remembering.
+### 10. Pass-2 summary
+
+Resolved boundaries:
+- persist cross-context dependency rather than subjective importance;
+- consult canonical H only when current history status matters;
+- retain kind, provenance, scope and current status as the minimum semantic context;
+- persist a chosen direction only when an open choice leaves a real unfinished cross-context line;
+- update state on actual durable transitions rather than on every turn or timer;
+- use project memory/context as support, not as the canonical semantic state.
+
+Next: derive the minimal abstract contract for H before deciding any concrete file layout.
