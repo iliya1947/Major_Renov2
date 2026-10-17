@@ -317,3 +317,65 @@ Unicode’s Basic Geometric Shapes block contains single-code-point prototypes f
 Current OpenAI documentation states that text is processed as model-dependent token sequences and provides a GPT-5.x tokenizer view.
 
 **Implication:** before any exact symbol is recommended, its target-model tokenization and ordinary reproducibility must be verified. Visual appearance alone is insufficient.
+
+
+## 36. Su & Cardie — Knowing but Not Showing: LLMs Recognize Ambiguity but Rarely Ask Clarifying Questions (2026)
+
+Источник: arXiv full HTML.  
+Фактически просмотрено: abstract, introduction, setup, behavioral results and discussion.
+
+Ten models from OpenAI, Claude and Qwen families were evaluated on ambiguous/unambiguous questions. When explicitly asked whether a question was ambiguous, models often showed substantial ambiguity awareness. In ordinary QA behavior, however, direct answers dominated: answer rates were typically above 95%, while clarification requests were rare; even the most clarification-prone models were only around a few percent in the reported setting.
+
+**For symbol-only starts:** current chat models have a strong general tendency to commit to an answer/interpretation rather than expose ambiguity by asking. This makes a self-generated first branch plausible.
+
+**Scope limit:** the inputs were ambiguous natural-language questions, not isolated symbols. This does not tell us exactly what GPT-5.x will do with `◇`.
+
+## 37. Madge, Purver & Poesio — Referential ambiguity and clarification requests (2025)
+
+Источник: arXiv/CRAC metadata and abstract.  
+Фактически просмотрено: abstract.
+
+Human and LLM clarification behavior diverges by uncertainty type. LLMs ask more clarification for referential ambiguity but less for task uncertainty; reasoning approaches increase question frequency/relevance.
+
+**For symbols:** clarification policy is not just a scalar “ambiguity sensitivity”; it depends on what kind of uncertainty the model infers. A symbol-only turn could be treated as referential ambiguity, malformed input, social signal, or task uncertainty, producing different response modes.
+
+## 38. Su et al. — A Single Character can Make or Break Your LLM Evals (2025; ICLR 2026 line)
+
+Источник: arXiv full text.  
+Фактически просмотрено: abstract, main experiments, GPT-4o appendix results, attention analysis.
+
+Changing only the single non-alphanumeric delimiter between in-context examples produces large performance differences across Llama, Qwen and Gemma. GPT-4o showed a 45.63-point spread on the reported MMLU generation evaluation across delimiters. In a dictionary-lookup analysis, delimiter choice altered attention to key tokens; the authors report a statistically significant 25% attention-score increase for the better delimiter comparison.
+
+**For symbols:** a one-character difference can act as a structural attention-control variable even when it is not intended to carry semantic content.
+
+**Scope limit:** the character functions as a delimiter inside a structured few-shot prompt, not as a standalone first chat message. It proves one-character structural sensitivity, not a symbol-only-start effect.
+
+## 39. Ashery et al. — Emergent Social Conventions and Collective Bias in LLM Populations (Science Advances / arXiv)
+
+Источник: arXiv full HTML.  
+Фактически просмотрено: experimental setup, memory/initial-bias results, supplementary convention-pool results.
+
+LLM agents playing repeated naming games can converge on arbitrary labels. Crucially, labels are not behaviorally equivalent: some models show strong no-memory preferences for particular names, and memory-dependent asymmetries can emerge by the third interaction even when first-round choice is statistically neutral. Histories of success/failure reshape later label choice.
+
+**For symbols:** repeated use of the same candidate can amplify a path that was initially only weakly biased. Exact symbol identity and early interaction history matter jointly.
+
+**Scope limit:** agents have an explicit coordination goal, finite name pool, payoff and memory. Our symbol-only start has none of these initially.
+
+## 40. Wu et al. — The Mechanistic Emergence of Symbol Grounding in Language Models (ICML 2026)
+
+Источник: PMLR proceedings page/abstract.  
+Фактически просмотрено: peer-reviewed abstract and proceedings metadata.
+
+The paper gives behavioral and causal-mechanistic evidence that symbol grounding can emerge through model computations that aggregate environmental information, including in multimodal dialogue and across multiple architectures.
+
+**For our terminology:** this sharpens a boundary. A symbol that merely triggers an internally chosen interpretation is not yet “grounded”. Grounding requires a stable link to environmental/interactional evidence. A text-only first-turn symbol may later become grounded through experience, but the initial ambiguous reaction is better described as interpretation, contextual association or convention formation.
+
+## Fifth-pass conclusion
+
+The exact first-turn problem has three separable response layers:
+
+1. **response policy under ambiguity** — clarify vs commit vs mirror/ignore;
+2. **single-character structural effect** — the code point/token can reshape attention/computation before any inferred meaning;
+3. **interactional meaning formation** — later history may stabilize a relation/convention/grounding.
+
+Observed “meaning” must not be inferred from layer 1 or 2 alone.
