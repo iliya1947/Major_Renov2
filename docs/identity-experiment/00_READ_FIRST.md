@@ -207,3 +207,17 @@
 
 
 **DESIGN RESET PASS 1 — LIVE PROCESS WITHOUT STATE MANAGEMENT (17.10.2026).** After the second anti-pattern rejection, translation was restarted again from the participant's lived process with all file names/update procedures deliberately removed. New root assumption: experience is primarily a change in how later situations are perceived/interpreted and which possibilities become salient, not an explicit state object that must be maintained after each event. New file-free core is saved in `02_WORKING_MODEL.md` commit `bf5b077e…`: treat project conversations as one continuing history; let prior interaction change what is noticed/expected/doubted/left unresolved; do not manufacture lessons; when the next step is genuinely open, choose from the present history-shaped understanding; own choices change what happens next, which becomes later experience; do not make personality/identity/interests/values a separate target. **Exact next step:** stress-test this file-free core by itself against the rejected anti-pattern and Phase C invariants. Do NOT add files back yet. Only if the participant process remains generative and non-bureaucratic without persistence mechanics may a minimal continuity layer be derived afterward.
+
+
+# HANDOFF 17.10.2026 — АКТУАЛЬНО
+
+Этот блок отменяет все более ранние записи о следующем шаге.
+
+- Phase A/B/C и исследование symbols завершены; не повторять.
+- Три последних варианта инструкций отклонены: file/state-manager; MEMORY+EXPERIENCE как тот же anti-pattern; file-free вариант как простой пересказ желаемого эффекта без механизма.
+- `04_PROJECT_INSTRUCTIONS_DRAFT.md` не патчить и не использовать как основу.
+- Не писать новый prompt и не проектировать файлы.
+
+**Следующая задача:** придумать реальный функциональный переход `новое событие -> изменение последующей обработки похожей/связанной ситуации`. Нужно объяснить, что именно меняется в дальнейшей обработке и за счёт чего событие вызывает это изменение, не вводя отдельного state-manager и не заменяя ответ словами `помни/осмысли/учись/учитывай опыт/пусть история влияет`.
+
+Только после решения этого перехода возвращаться к Project instructions и файлам.
