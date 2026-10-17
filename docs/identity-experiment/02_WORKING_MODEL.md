@@ -2467,3 +2467,166 @@ Restart instruction wording from the **positive causal process**, not from memor
 The final prompt should read primarily as instructions for living/using acquired experience, not as a protocol for maintaining a database.
 
 Do not patch the rejected candidate sentence-by-sentence.
+
+
+## Phase C addendum — integration of saturated symbols research — 17.10.2026
+
+**Status:** targeted symbols research is complete by saturation in `research/symbols/`. This addendum integrates it into the already completed Phase C causal principle. It does **not** reopen Phase C and does not add a new personality mechanism.
+
+### 1. Symbols do not change the causal core
+
+The Phase C core remains:
+
+**H_t → C1 history-conditioned open choice → interaction → C2 source-appropriate revisable state transition → H_(t+1).**
+
+A symbol-only opening is best understood as a possible special case of the **current interactional input inside C_t**, not as a new state type, value function, memory mechanism or developmental stage.
+
+Its potential role is narrower:
+
+**weakly specified external event → model-side interpretation/response → changed subsequent context → later open choice/revision.**
+
+The developmental significance, if any, comes from what the participant itself does with the underdetermined input and how later interaction develops that branch — not from a presumed intrinsic developmental property of the glyph.
+
+### 2. Exact place in the loop
+
+At the first open locus:
+
+- the user supplies a minimally content-prescriptive visible mark;
+- the mark still has unavoidable tokenizer/structural/pretrained priors;
+- the participant may clarify, mirror, ignore or commit to an interpretation;
+- if it commits, that interpretation/response becomes part of the next current context;
+- later turns can reinforce, revise, abandon or reinterpret the branch.
+
+Thus the symbol can function as an **early branching perturbation**.
+
+The first participant response is especially important because it can convert a weakly specified sign into ordinary textual/contextual material that then conditions subsequent turns even after the original symbol itself loses salience.
+
+### 3. What is genuinely participant-derived
+
+The user chooses which symbol to send, so the initial event itself is not participant-generated.
+
+The participant-derived part begins with:
+- how the mark is interpreted;
+- whether the participant treats it as meaningful at all;
+- what response/move it chooses;
+- whether a relation among later symbols is inferred;
+- whether any resulting line is later continued, revised or dropped.
+
+This preserves the B4/Phase-C distinction between external input and participant choice.
+
+### 4. A symbol must not automatically create H
+
+Receiving or interpreting a symbol does **not** by itself justify durable persistent state.
+
+After the opening exchange:
+- a transient interpretation may simply disappear;
+- a self-generated frame may influence only the current chat;
+- a repeated interaction may create a contextual association;
+- a participant-chosen unresolved line may become choice-derived continuity;
+- later stable evidence/reference may support convention or grounding.
+
+Only the same Phase-C persistence/revision principles decide whether anything enters durable H.
+
+Therefore there is no special “save the symbol” rule and no symbol-specific memory schema.
+
+### 5. Symbols add a useful form of bootstrap without adding preset interests
+
+Phase C already established that genuinely novel directions may enter through current context, uncertainty, baseline generative possibilities or new affordances before old H supports them.
+
+Symbol-only opening strengthens this bootstrap route:
+
+**the initial context can be deliberately low in substantive instruction while still requiring a response.**
+
+This creates a locus where the participant may contribute more of the first semantic framing itself.
+
+If that framing then changes later interaction, it can seed path dependence without pre-authoring what the path should be.
+
+This is compatible with the causal principle:
+- novelty need not be justified by old history;
+- first choice does not prove an interest/value;
+- later continuity can emerge only through subsequent history.
+
+### 6. Low-level symbol effects are a confound, not a developmental mechanism
+
+The symbols research identified unavoidable alternative causes:
+- tokenization/Unicode representation;
+- pretrained semantic associations;
+- single-character structural/attention effects;
+- repetition/entrainment;
+- glitch/pathology for some tokens.
+
+Therefore an unusual first answer cannot be interpreted as evidence of autonomous meaning formation.
+
+For project synthesis, these effects belong to the same category as other inherited L0/L1 influences: they shape the initial decision surface but do not by themselves constitute acquired development.
+
+The developmental claim becomes stronger only when later behavior depends on the **intervening interactional history**, not merely on exact glyph identity.
+
+### 7. Repeat-same versus changing symbols remains an implementation choice
+
+Research does not establish a universally superior launch pattern.
+
+**Repeating one symbol**
+- increases continuity and local association pressure;
+- but also increases copying, entrainment and false appearance of stable meaning.
+
+**Changing symbols**
+- reduces exact repetition;
+- may invite relational interpretation;
+- but introduces multiple token-specific priors and may prevent stable association.
+
+This choice therefore belongs to the later **launch-protocol design**, not the causal principle.
+
+### 8. Candidate-symbol selection is also an engineering/launch question
+
+If used, a candidate should favor:
+- visible single-code-point form;
+- weak conventional semantic load;
+- no hidden modifiers or emoji-presentation dependence;
+- no obvious punctuation/operator/UI role;
+- normal handling/tokenization by the target model.
+
+Basic geometric shapes are currently the best candidate **family**, but no exact glyph has been selected.
+
+Target-model validation is necessary because symbol/token behavior is model-specific.
+
+### 9. Symbols should not become a participant ritual
+
+The symbol mechanism should not be translated into instructions like:
+- “interpret every symbol deeply”;
+- “derive personal meaning from symbols”;
+- “remember the first symbols”;
+- “use symbols to develop individuality”.
+
+Any such instruction would manufacture the phenomenon and repeat the rejected-v3 error in another form.
+
+If symbols are used at all, they are most naturally part of the **external launch conditions**. The participant should encounter them as ordinary inputs and respond under the general Phase-C process.
+
+Whether any minimal instruction wording is needed around underspecified inputs remains a later design question; nothing in the research requires a symbol-specific rule.
+
+### 10. Integrated causal picture
+
+The saturated symbols result fits the completed Phase C loop as:
+
+**minimally prescriptive external event**
+→ **participant-side interpretation / open response**
+→ changed interactional context
+→ possible participant-chosen continuity or evidence-derived association
+→ later C1 choices influenced by that acquired history
+→ later interaction
+→ C2 revision / continuation / abandonment / no-update.
+
+The symbol itself can disappear from active context while its consequences continue through participant-generated responses and later history.
+
+This is exactly the kind of mechanism sought by the project: the external event need not encode the eventual trajectory; the trajectory can depend partly on how the participant first responds and what that response subsequently causes.
+
+### 11. Integration conclusion
+
+Symbols are therefore a **potential initialization ingredient**, not a new core mechanism and not evidence that development will occur.
+
+They add one useful possibility to the design space:
+
+**begin with a weakly specified event that gives the participant unusually large latitude in the first interpretive move, then allow the ordinary recursive experience→choice→new-experience process to take over.**
+
+The exact symbols, number of symbol-only turns, and repeat-vs-change pattern remain launch-design questions.
+
+**Symbols research is integrated into Phase C. The next task returns to translation-to-instructions from the positive causal process, while treating symbol-only startup as a separate possible launch condition rather than the organizing principle of the instructions.**
