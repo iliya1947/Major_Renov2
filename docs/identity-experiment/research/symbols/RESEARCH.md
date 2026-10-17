@@ -105,3 +105,114 @@ For any observed effect of a symbol, candidate causes must remain separate:
 5. **Rare/glitch/adversarial-token effect** — behavior changes without a stable human-level meaning.
 
 Current literature strongly supports existence of all but does not yet answer the exact symbol-only-start question.
+
+
+## 11. Yang et al. — What Prompts Don’t Say: Understanding and Managing Underspecification in LLM Prompts (Findings ACL 2026)
+
+Источник: ACL Anthology.  
+Фактически просмотрено: abstract/metadata.
+
+В их benchmark LLMs иногда сами выводили unspecified requirements по default assumptions (41.1%), но underspecified prompts были примерно вдвое более склонны к regression across model/prompt changes; reported drops иногда превышали 20%.
+
+**Для symbol-only start:** отсутствие явного значения не приводит к “нулю”. Модель будет заполнять неопределённость своими priors/defaults. Но эти интерпретации могут быть хрупкими и model-dependent.
+
+## 12. Laban et al. — LLMs Get Lost In Multi-Turn Conversation (ICLR 2026)
+
+Источник: ICLR proceedings / arXiv.  
+Фактически просмотрено: abstract and public summary of experimental setup/results.
+
+200k+ simulated multi-turn conversations; average performance drop reported at 39% relative to single-turn equivalents across six generation tasks. Models often make assumptions in early turns, answer prematurely and then over-rely on those earlier decisions; recovery after a wrong early turn is poor.
+
+**Для symbol-only start:** this is not a symbol study, but it establishes a crucial mechanism: an early underspecified turn can induce an interpretation/trajectory that becomes causally sticky across later turns. Therefore a model-generated interpretation of the first symbol could plausibly become an anchor for subsequent symbol turns even without any externally assigned meaning.
+
+## 13. Chen et al. — Breaking Contextual Inertia (Findings ACL 2026)
+
+Источник: ACL Anthology.  
+Фактически просмотрено: abstract.
+
+Authors define contextual inertia as rigid adherence to previous reasoning traces during multi-turn interaction, even after later corrections/new data.
+
+**Для symbols:** strengthens the distinction between “new convention” and “trajectory inertia”. If later responses preserve an early symbol interpretation, persistence alone does not prove a grounded convention; it may be consistency pressure around an earlier self-generated hypothesis.
+
+## 14. Huang et al. — Do LLMs Benefit From Their Own Words? (arXiv 2026)
+
+Источник: arXiv full text.  
+Фактически просмотрено: abstract/introduction and reported main findings.
+
+Across in-the-wild multi-turn conversations, removing prior assistant responses often leaves quality unchanged, but there are important cases where full assistant history hurts. Authors identify **context pollution**: models over-condition on their own previous outputs, propagating errors, hallucinations and stylistic artifacts. 36.4% of turns in their corpus were classified as largely self-contained.
+
+**Для symbols:** the assistant’s own response to a first ambiguous symbol is not passive transcript. In some conversations it can become a causal part of later context. This creates a concrete candidate loop: ambiguous symbol → model chooses an interpretation/response → that response re-enters context → next ambiguous symbol is interpreted relative to the model’s own prior construction.
+
+## 15. Hiraoka & Inui — Repetition Neurons (NAACL 2025)
+
+Источник: ACL Anthology.  
+Фактически просмотрено: abstract.
+
+They identify model units increasingly activated as generated repetition continues and interpret the pattern as the model recognizing a copying/repetition task akin to in-context learning across several pretrained models.
+
+**Для symbols:** repeated symbols or repeated response patterns can recruit repetition/copying mechanisms. Repeated use therefore cannot automatically be read as evidence that the symbol acquired richer meaning.
+
+## 16. Bajaj et al. — Beyond Semantics: Temporal Biases Shape Retrieval (EACL 2026)
+
+Источник: ACL Anthology.  
+Фактически просмотрено: abstract.
+
+Using repeated anchor tokens while controlling token identity/local semantics, authors find robust serial-recall effects and model-specific primacy/recency profiles; tokens that previously followed anchors receive disproportionate probability mass.
+
+**Для symbols:** order and turn placement are causal variables independent of semantics. A first-turn symbol may be influential partly because it occupies an early serial position; repeated anchors can retrieve prior continuations without requiring a human-level “meaning”.
+
+## 17. Kouwenhoven, Peeperkorn & Verhoef — Searching for Structure: Emergent Communication with LLMs (COLING 2025)
+
+Источник: ACL Anthology.  
+Фактически просмотрено: abstract.
+
+LLM agents in referential games learn and use initially unstructured artificial languages; repeated learning/use shapes those languages toward structural properties that support successful communication, though degenerate non-humanlike vocabularies can also emerge.
+
+**Для symbols:** LLMs can participate in context-shaped artificial communication systems. But these experiments supply an explicit communicative task/feedback structure, unlike our initially meaning-free symbol exchange.
+
+## 18. Vaduguru et al. — Success and Cost Elicit Convention Formation for Efficient Communication (ACL 2026)
+
+Источник: ACL Anthology.  
+Фактически просмотрено: abstract.
+
+Repeated reference games show multimodal models can be trained to form ad-hoc conventions that improve efficiency with people. Critically, success feedback or cost pressure alone was insufficient; both were necessary in their setup.
+
+**Для symbols:** repeated interaction by itself may not be enough to create a useful convention. Some pressure/feedback may be required — but our natural conversation could potentially supply weaker endogenous signals, which remains untested.
+
+## 19. Jones et al. — LLMs and people both learn to form conventions — just not with each other (arXiv 2026)
+
+Источник: arXiv full text.  
+Фактически просмотрено: abstract, introduction, Experiment 1/2 methods/results/discussion.
+
+Using GPT-5 in repeated tangram reference games, human-human and AI-AI pairs showed stronger convention formation than human-AI pairs. AI-AI pairs reached very high accuracy/lexical stability, while human-AI pairs lagged even when GPT-5 was explicitly prompted to behave more humanlike. Authors argue shared interpretive biases/common ground matter beyond simple repetition.
+
+Important nuance: H-AI pairs did improve somewhat, so “cannot form any convention” would be too strong. The result is **relative weakness/mismatch**, not impossibility.
+
+**Для symbols:** if a human sends ambiguous symbols and expects the model to co-create meaning, the human and model may impose different priors on the same marks. This is a direct risk for our exact dyad type.
+
+## 20. Zeng et al. — LVLMs and Humans Ground Differently in Referential Communication (ACL 2026)
+
+Источник: ACL Anthology.  
+Фактически просмотрено: abstract/metadata.
+
+In multi-turn repeated reference tasks over visually ambiguous objects, LVLM/human dyads showed deficits in interactively generating/resolving referring expressions and common ground.
+
+**Для symbols:** converges with Jones et al. on a key caution: model-side capacity for context adaptation does not guarantee human-model shared grounding.
+
+## 21. Talking Nonsense / LM Babel line
+
+Источник: arXiv abstract (Cherepanova & Zou, 2024).  
+Фактически просмотрено: abstract.
+
+Optimized seemingly nonsensical prompts can reliably steer coherent outputs; robustness and target dependence were studied.
+
+**Для symbols:** confirms that low-human-semantic strings can have stable causal effects, but because prompts are adversarially optimized, it is not evidence for spontaneous convention formation from arbitrary symbol-only turns.
+
+## Second-pass synthesis
+
+The exact symbol-start hypothesis now decomposes into two distinct mechanisms:
+
+1. **Self-generated trajectory anchoring:** underspecified symbol causes the model to choose one interpretation; its own response becomes part of history; contextual inertia/assistant-side conditioning can reinforce that branch.
+2. **Dyadic convention formation:** user and model converge on a shared mapping/meaning across repeated interaction.
+
+The literature gives materially stronger support for (1) than for reliable human↔LLM (2). These must not be conflated.
