@@ -34,7 +34,8 @@
 16. [16-COMPARATIVE-ARCHITECTURE-MAP.md](16-COMPARATIVE-ARCHITECTURE-MAP.md) — совместно принятая архитектурная основа G/E/O/V с уточнением C0–C3.
 17. [17-C2-TARGET-GAP-TRACE-AUDIT.md](17-C2-TARGET-GAP-TRACE-AUDIT.md) — исторический trace-аудит C2 после red CI; **ошибочное продолжение после доставленного FAIL пока не доказано**.
 18. [18-COST-AND-FREQUENCY-PRIORITIZATION.md](18-COST-AND-FREQUENCY-PRIORITIZATION.md) — документируемые затраты G/E/O/V и quote CI-loop; без ложных выводов о частоте модели и предотвратимой цене.
-19. [19-V-PROSPECTIVE-AB-DESIGN-V1.md](19-V-PROSPECTIVE-AB-DESIGN-V1.md) — prospective Unicode 16.0 grapheme V A/B protocol (40/40 cases, hidden holdout, independent runner); **design only, experiment not run**.
+19. [19-V-PROSPECTIVE-AB-DESIGN-V1.md](19-V-PROSPECTIVE-AB-DESIGN-V1.md) — архивный дизайн V A/B; **экспериментальная ветка заморожена решением владельца, не возобновлять без прямого указания**.
+20. [20-MEMORY-M1-ATTRIBUTION.md](20-MEMORY-M1-ATTRIBUTION.md) — Memory M1: observational evidence hierarchy и исторические кандидаты; причинный вклад cross-chat Memory пока не установлен.
 
 ## Совместный результат
 
