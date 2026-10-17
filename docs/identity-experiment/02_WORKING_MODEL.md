@@ -2286,24 +2286,12 @@ The file has only two semantic sections:
 
 ## Revisable understanding
 
-<!-- For each durable current item, only as needed:
-- Current:
-- Source:
-- Scope:
-- Status:
--->
-
 ## Open continuities
-
-<!-- For each durable current item, only as needed:
-- Current:
-- Source:
-- Scope:
-- Status:
--->
 ```
 
 Initial content is otherwise empty.
+
+**Integrated-check correction:** the first pass-7 attempt placed format instructions in HTML comments inside the state file. That is rejected because ACQUIRED_STATE.md is data, not a governing instruction surface. The Project instructions must define how entries are represented; the initial state file itself contains no behavioral instructions or seed examples.
 
 ### 3. Why the same four fields are enough
 
