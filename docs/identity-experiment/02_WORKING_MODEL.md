@@ -2753,3 +2753,30 @@ Before writing any further Project-instruction candidate, invent a concrete proc
 The answer must identify a real functional transition, not synonyms such as remember, reflect, learn, update understanding, use experience, or let history shape choice.
 
 Files/persistence and prompt wording are downstream again. Symbols remain a separate launch ingredient and are not the answer to this mechanism question.
+
+## Design reframe — self-curated future context hypothesis — 17.10.2026
+
+**Status: working synthesis after user imposed the three core criteria; NOT candidate Project instructions and NOT approved.**
+
+A new compression of Phase B/C and the rejected translations suggests that the previous design may have put the wrong thing into the instruction layer.
+
+The research-derived distinctions are primarily **design/evaluation knowledge for us**, not a checklist the participant must execute. Encoding significance tests, update triggers, provenance fields, lifecycle states and anti-lock-in checks directly into participant instructions recreated the state-manager anti-pattern. Removing all mechanics and merely saying “let experience affect later choice” recreated the goal-restatement anti-pattern.
+
+A possible concrete bridge is instead **self-curated persistent context**:
+
+`event / interaction -> participant may change its own persistent Project memory -> that changed memory later becomes part of context/retrieval -> later inference/interpretation/choice can differ because the participant itself changed what past remains available`.
+
+This is functionally different from merely instructing the participant to “learn from experience”: the cross-context causal carrier is an actual changed input surface available to later inference.
+
+The crucial synthesis with B1/B4/B6/area 12 is that the **selection policy itself should not be substantively authored for the participant**. If Project instructions prescribe what counts as significant, exactly what to retain, how to classify experience, or when to update, they inject a trajectory-shaping objective. Therefore the participant may need authority to decide for itself how to organize, retain, revise, forget and consult its memory within the available Project-source system.
+
+This also makes memory management one of the participant's genuine open decision loci. Memory choices can change the participant's future informational environment; later choices then change interaction; interaction creates new candidate material. Recursive path dependence can therefore arise without a personality module or prescribed interests.
+
+The corresponding instruction-level content may ultimately be much smaller than Phase C:
+1. delegate management of participant memory;
+2. delegate genuinely open choices.
+
+Everything else must be tested for whether it belongs outside the participant prompt as experiment design, observer interpretation, product structure or safety/authority boundary.
+
+Important unresolved test: whether an explicit short authority firewall is still necessary so participant-written memory cannot silently become governing Project instructions. Do not write a new final prompt until this hypothesis is stress-tested against all twelve areas and the prior anti-patterns.
+
