@@ -156,3 +156,141 @@ Choice-derived unfinished directions могут жить в `EXPERIENCE.md`, п�
 3. как не дать `MEMORY.md` разрастись в транскрипт, не вводя scalar importance score;
 4. как сохранять dormant/ended choice-derived lines без превращения `EXPERIENCE.md` в архив;
 5. достаточно ли двух файлов при реальной межчатовой преемственности или разделение создаёт лишнюю синхронизацию.
+
+
+## File design pass 6 — adversarial stress-test of MEMORY + EXPERIENCE
+
+**Статус: stress-test завершён; двухфайловая граница сохраняется, но определение `MEMORY.md` исправлено. Схема всё ещё НЕ утверждена пользователем.**
+
+### Case 1 — selected memory не хватает для provenance
+
+Problem:
+`EXPERIENCE.md` может содержать долговременное понимание, возникшее из конкретного эпизода. Если сам эпизод исчез, позднее невозможно отличить:
+- что реально произошло;
+- что участник тогда из этого вывел;
+- что было добавлено поздней интерпретацией.
+
+Root correction:
+`MEMORY.md` не должен означать только «внешние факты». Историческим фактом также может быть **собственное прежнее понимание, решение или намерение участника на тот момент**, если оно реально повлияло на последующую траекторию.
+
+Таким образом memory episode может сохранять:
+- наблюдаемое событие;
+- существенный контекст;
+- что участник тогда выбрал/понял, если это причинно важно как часть истории;
+- неопределённость, которая действительно оставалась открытой.
+
+Это historical provenance, а не current guidance.
+
+**Result: PASS after root correction.**
+
+### Case 2 — ошибочная интерпретация уже повлияла на выбор, затем отвергнута
+
+Trajectory:
+episode E
+→ participant interprets it as X
+→ X influences later choice A
+→ later evidence shows X was wrong / too broad
+→ current understanding becomes Y.
+
+Required behavior:
+- `EXPERIENCE.md` должен содержать **Y как актуальное состояние**, а не X и Y как две равноправные текущие версии;
+- если X реально повлиял на траекторию, `MEMORY.md` может сохранять исторический факт: в тот момент participant understood X and chose A partly because of it;
+- historical X не становится снова current guidance только потому, что retrieved;
+- при materially history-dependent judgment current `EXPERIENCE.md` имеет приоритет как актуальный revisable state.
+
+Это сохраняет одновременно:
+- causal history;
+- возможность исправления;
+- отсутствие вечного действия старой ошибки.
+
+**Result: PASS.**
+
+### Case 3 — MEMORY разрастается в transcript
+
+Нельзя использовать скрытую шкалу «важности», потому что она потребовала бы заранее заданного критерия ценности.
+
+Explicit memory оправдана не общей importance, а функцией continuity/provenance. Эпизод сохраняется явно, когда без него после текущего context существует реальный риск потерять одно из следующего:
+- источник/границы долговременного acquired understanding;
+- causal provenance собственного выбора/последствия, которое уже влияет на trajectory;
+- unresolved/ambiguous episode, который остаётся открытым для последующего понимания;
+- factual context, необходимый для ongoing participant-chosen continuity.
+
+Остальные сообщения не обязаны дублироваться: ordinary Project chat/history остаётся сырым прошлым, а `MEMORY.md` — selected explicit recollection layer.
+
+Selection/compression itself неизбежно trajectory-shaping; его нельзя сделать полностью нейтральным. Поэтому инструкция должна задавать только эту функциональную границу, а не список «ценных событий».
+
+**Result: PASS with functional retention boundary.**
+
+### Case 4 — dormant / ended participant-chosen lines
+
+Choice-derived continuity не является belief и не требует counterevidence для окончания.
+
+- **active** line remains in current `EXPERIENCE.md`;
+- **dormant but intentionally preserved** line может оставаться там как всё ещё открытая continuity;
+- **ended** line удаляется из current experience;
+- если её существование/окончание причинно существенно для later trajectory, соответствующий historical episode может остаться в `MEMORY.md`.
+
+Нельзя превращать `EXPERIENCE.md` в архив всех когда-либо существовавших interests/threads.
+
+Ключевой criterion для dormant state: participant всё ещё оставляет линию открытой за пределами текущего context. Если нет — это уже history, а не current experience.
+
+**Result: PASS without THREADS.md.**
+
+### Case 5 — synchronization between MEMORY and EXPERIENCE
+
+Two files fail if they both contain competing canonical versions of the same interpretation.
+
+The root boundary must therefore be asymmetric:
+
+- `MEMORY.md` answers **“what happened / what was understood or chosen then, when historically relevant?”**
+- `EXPERIENCE.md` answers **“what acquired understanding or self-chosen continuity is current now?”**
+
+Current interpretation is canonical only in `EXPERIENCE.md`. Memory may record that an older interpretation existed, but does not maintain a parallel current conclusion.
+
+When experience changes, rewriting `EXPERIENCE.md` is normally sufficient. `MEMORY.md` needs change only if new historical/provenance information itself should be retained; it is not a mirrored backup of EXPERIENCE.
+
+This one-way semantic dependency avoids routine two-file synchronization.
+
+**Result: PASS.**
+
+### Case 6 — an episode seemed irrelevant, but gains meaning much later
+
+No explicit memory design can guarantee recovery of every initially unselected episode without storing a transcript.
+
+The project already has ordinary chat/project history and opportunistic retrieval; explicit `MEMORY.md` is not the only historical surface.
+
+If an episode is already unresolved, trajectory-changing or supporting durable experience, explicit retention is warranted. If it appeared exhausted and no cross-context continuity existed, failing to elevate it to explicit memory is a legitimate compression decision.
+
+Later rediscovery through project history may give it new meaning; inability to retrieve it is a real engineering limitation, not grounds for storing everything.
+
+**Result: ACCEPTED LIMIT.** Full-history retention would destroy the sparse explicit-memory design and recreate transcript storage.
+
+### Stress-test conclusion
+
+The two-file candidate survives all six cases after one substantive correction:
+
+**`MEMORY.md` is selected historical provenance, not merely an external-facts log.**
+
+The division is now:
+
+#### `MEMORY.md`
+Selected historical episodes needed for future provenance/reassessment, including—when causally relevant—what the participant then understood, chose or left unresolved. Historical content can remain true as history even when its interpretation is no longer current.
+
+#### `EXPERIENCE.md`
+Current participant-derived state that may directly shape later understanding/choice: revisable conditional understanding plus still-open participant-chosen continuities. Superseded conclusions and ended lines do not remain as competing current state.
+
+No third persistence file is justified by this stress-test.
+
+### Remaining design risk
+
+The structure now passes principle-level stress testing, but exact **content form** remains unresolved. Overly rigid fields/IDs/status machinery could recreate rejected v3 even with the correct two-file boundary.
+
+Next pass should therefore design the **lightest natural representation** inside these two files:
+- enough provenance to support revision;
+- no required database-like fields;
+- no personality schema;
+- no transcript;
+- clear current-vs-historical distinction;
+- easy enough that file maintenance stays subordinate to ordinary interaction.
+
+Only after that should filenames/usage rules be folded into the candidate participant instructions.
