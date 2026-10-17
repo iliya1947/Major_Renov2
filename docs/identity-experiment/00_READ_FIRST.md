@@ -197,3 +197,10 @@
 
 
 **Latest design status:** passes 7–9 complete. `04_PROJECT_INSTRUCTIONS_DRAFT.md` now contains the first serious full candidate after whole-system regression (commit 782e23eb…). It remains unapproved. Two initial user-created files are proposed: `MEMORY.md` and `EXPERIENCE.md`; no third file or mandatory metadata scheme is currently justified. Next step: user review of the candidate before launch-condition details.
+
+
+**CRITICAL DESIGN RESET 17.10.2026 — CURRENT CANDIDATE REJECTED AS SAME ANTI-PATTERN.** User correctly identified that the supposedly new full candidate was architecturally almost the same as rejected v3. Cosmetic changes: ACQUIRED_STATE → MEMORY+EXPERIENCE; Revisable understanding → Current understanding; Open continuities → Open lines; metadata headings were removed but explicit state maintenance remained. Root failure: participant instructions still organized ordinary behavior around classifying interaction, maintaining explicit longitudinal state/history, and consulting that state later. Positive causal development was described but operationalized mainly as bookkeeping/epistemic policing. `04_PROJECT_INSTRUCTIONS_DRAFT.md` is now marked rejected; recurrence analysis is appended to `06_FINAL_USER_REVIEW.md`.
+
+**STRONGER REGRESSION RULE:** if a future candidate still reads mainly as instructions for maintaining a correct state representation even after file names are removed, it has failed. Do not patch or simplify the rejected candidate and do not rename/restructure files as the next move.
+
+**ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** return to the generative participant process itself and redesign translation from scratch. The next work must answer how ordinary interaction is *lived/processed* so that experience can naturally alter later perception/judgment/choice without making the participant an explicit state manager. Persistence/files must be derived only afterward as a subordinate consequence, not used to organize ordinary cognition. Symbols remain a separate launch ingredient; do not revisit their research.
