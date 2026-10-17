@@ -379,3 +379,36 @@ The exact first-turn problem has three separable response layers:
 3. **interactional meaning formation** — later history may stabilize a relation/convention/grounding.
 
 Observed “meaning” must not be inferred from layer 1 or 2 alone.
+
+
+## 41. Sixth-pass stress test — first 2–4 symbol-only turns
+
+This final pass combined the verified mechanisms rather than searching for another ready-made protocol.
+
+### First turn
+An isolated underdetermined mark can trigger four broad response policies: interpretation/commitment, mirroring, clarification, or dismissal/noise handling. Ambiguity research shows modern chat LLMs often recognize ambiguity yet still default to answering rather than asking; underspecification work shows models frequently fill missing requirements with defaults. Single-character delimiter evidence separately establishes that one character can influence computation structurally before any inferred meaning exists.
+
+### Repeating one symbol
+Contextual entrainment gives previously seen tokens elevated probability even when random. Repetition-neuron work shows sustained repetition can increasingly recruit a copy-the-context regime. Assistant-history studies show the model's own prior response can further propagate a chosen framing. Therefore a repeated mark can rapidly become behaviorally sticky without having acquired a shared semantic meaning.
+
+### Changing symbols
+Changing the mark reduces exact repetition pressure but introduces new token-specific priors each turn. If the assistant's first response framed the interaction as a code, sequence, emotion, game, or pattern, later distinct marks may be interpreted inside that self-generated frame. This is a plausible self-conditioning trajectory, not direct evidence of grounding.
+
+### Distinguishing mechanisms observationally
+A low-level structural/token effect should be strongly tied to exact input identity and can appear on first exposure. An interaction-acquired interpretation should instead show dependence on the intervening dialogue: it can become more specific, conditional, revisable, and causally connected to later user/model actions. A dyadic convention additionally requires coordination between both parties; grounding requires stable connection to environmental or interactional evidence.
+
+None of these distinctions can be established merely because the model verbally declares a meaning.
+
+## 42. Final adjacent-field coverage check
+
+Search across social semiotics, symbol emergence systems, Peircean/interactional semiotics, non-linguistic symbols and emergent communication produced useful conceptual distinctions but no additional causal mechanism beyond the map already built.
+
+One social-semiotic analysis of one million human-chatbot interactions confirms that emoji function as interpersonal resources and are under-specified in use, but this remains a conventionally loaded emoji case, not evidence for semantically light geometric marks.
+
+Symbol-emergence and grounding literature reinforces the distinction between distributional/contextual meaning and externally grounded meaning; it does not supply a direct symbol-only launch protocol.
+
+## Saturation judgment
+
+No new causal class emerged in the stress test or final adjacent-term coverage search. Further searching is now producing variants of already mapped mechanisms rather than changing the explanatory model.
+
+**The targeted symbols gap is saturated for the current project question.**
