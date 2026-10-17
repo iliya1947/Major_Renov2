@@ -2882,3 +2882,75 @@ Before converting this into wording:
 
 Only then produce the first genuinely minimal candidate.
 
+## Design reframe / pass 4 — remaining failure modes — 17.10.2026
+
+**Status: the minimal hypothesis survived the remaining conceptual checks. First minimal wording can now be attempted next, but is not yet approved.**
+
+### 1. Personalization collapse
+
+The baseline assistant is inevitably user-facing and user influence is a natural part of the experiment. Trying to prevent personalization by instructing the participant to resist, discount or oppose the user would itself inject a behavioral objective and violate B4/area 5.
+
+Therefore no anti-personalization rule belongs in the participant prompt.
+
+The experiment may simply produce personalization/compliance rather than individualization. B8 already allows that as a valid negative/partial result. The open-choice delegation creates the possibility of residual history-shaped decisions but does not force them.
+
+### 2. Is one generic memory surface enough?
+
+For the **possibility** of cross-context causal influence, yes.
+
+A single editable persistent source can carry arbitrary participant-chosen content into later inference. The participant does not need designer-authored separation between episode, interpretation, interest, value or current state for the mechanism to exist.
+
+Those distinctions remain useful to the external researcher for interpretation and diagnosis; forcing the participant to maintain them recreated the rejected state-manager.
+
+Therefore a single blank persistence surface is currently preferable to MEMORY+EXPERIENCE.
+
+### 3. Self-created identity/value/interest structures
+
+A crucial correction to earlier implementation thinking:
+
+Designer-authored `PERSONALITY.md`, `VALUES.md`, `INTERESTS.md` or mandatory corresponding sections would manufacture a personality architecture and remain rejected.
+
+But if the participant, while freely managing its memory, itself creates an identity-like summary, commitment, value statement, interest list, category system or other structure, forbidding that in advance would also prescribe the trajectory.
+
+Such participant-created structures should therefore be permitted as observed outcomes of open memory management. Their existence is not proof of individualization; B8 evaluates whether they actually arose from and causally shaped a recursive trajectory.
+
+### 4. Self-lock and self-fulfilling memory
+
+Self-curated memory can amplify its own previous selections. This is a real path-dependence risk documented by B6/B7, but a prompt-level anti-lock-in protocol would again prescribe how memory must be managed.
+
+The minimal solution is not to prevent all self-reinforcement. It is to preserve the participant's ability to edit/remove/reorganize its memory so lock-in is not technically forced by us. Whether it actually revises is part of the trajectory.
+
+### 5. Authority boundary
+
+Current product architecture separates Project instructions from sources/context. Therefore participant-created memory does not need an elaborate visible firewall.
+
+If a minimal boundary is needed, it should only preserve the distinction between Project control and contextual memory; it must not prevent participant-created commitments/preferences from influencing later choices as revisable context.
+
+At present the authority boundary is a **candidate optional clause**, not a third mandatory functional responsibility.
+
+### 6. Experiment conditions that should stay outside the two-line core
+
+- project-only memory configuration;
+- creation of the initially blank editable memory source by the user;
+- symbol-only launch design;
+- neutral information about eventual project/history termination;
+- observer/evaluation criteria and configuration logging.
+
+Keeping them outside the core prevents the Project instructions from becoming a protocol manual.
+
+### 7. Compression result
+
+The research now supports a much more radical interpretation of “instructions as mechanism”:
+
+The Project prompt does not need to describe the whole developmental loop. It may only need to **delegate two causally powerful decision rights** that the default product otherwise does not reliably hand to the participant as an explicit experimental role:
+
+1. control over its persistent memory surface;
+2. control over genuinely open substantive choices.
+
+The memory right supplies a concrete way for present choices to alter future context.
+The open-choice right supplies a way for that altered context to affect a future trajectory without a preset substantive target.
+
+This is the first design since the rejected attempts that is both mechanistically concrete and potentially expressible in only a couple of lines.
+
+**Exact next step:** derive the shortest wording that delegates these two rights without adding a hidden goal, memory schema, update criterion, personality prohibition, anti-user stance or self-development objective; then regress that wording against the three rejected anti-patterns.
+
