@@ -216,3 +216,61 @@ The exact symbol-start hypothesis now decomposes into two distinct mechanisms:
 2. **Dyadic convention formation:** user and model converge on a shared mapping/meaning across repeated interaction.
 
 The literature gives materially stronger support for (1) than for reliable human↔LLM (2). These must not be conflated.
+
+
+## 22. Gupta et al. — LLM Task Interference: task-switch carryover (EMNLP 2024)
+
+Источник: ACL Anthology paper/PDF.  
+Фактически просмотрено: abstract, introduction/formalization, experimental setup and history-length result figures.
+
+The paper studies conversations where several turns belong to one task and the final user turn explicitly switches to a different task. Across GPT-3.5, GPT-4, Llama-2-7B-chat and Mistral-7B-chat, prior conversational task history sometimes causes substantial degradation after the switch. History lengths from 0 to 6 turns were varied; effects are strongly task/model dependent rather than a clean monotonic decay law.
+
+**Для symbol→language transition:** an explicit switch in surface task does not guarantee contextual reset. Earlier interaction can still alter the first response in the new regime. But the effect can be positive, negative or negligible depending on task/model, so persistence is not a deterministic property.
+
+## 23. Niu et al. — Llama See, Llama Do: contextual entrainment (ACL 2025)
+
+Источник: ACL Anthology paper/PDF.  
+Фактически просмотрено: abstract, experiment/results/discussion sections on random and irrelevant context.
+
+The authors find that tokens appearing in prior context receive significantly increased logits/probabilities later, including completely random tokens. In reported experiments the increases can be large relative to very low baselines, and ablation of identified attention heads attenuates the effect. Semantics modulates the magnitude but is not necessary for the effect.
+
+**Для symbols:** a symbol/token can leave a direct mechanistic residue in later generation simply by having appeared earlier. This is weaker than “meaning” but stronger than assuming semantic irrelevance means zero influence.
+
+## 24. Liu et al. — Lost in the Middle (TACL 2024) + positional-bias follow-ups
+
+Источник: ACL Anthology.  
+Фактически просмотрено: abstracts/results summaries.
+
+Relevant information is often used best when placed near the beginning or end of long context and worse in the middle; later work links this to positional attention bias and finds modern models still exhibit spacing/position sensitivities.
+
+**Для symbols:** an opening symbol may enjoy some primacy-like advantage, but as conversation grows its exact textual occurrence can become hard to use directly. Long-context availability is therefore not equivalent to stable causal influence.
+
+## 25. Atri et al. — Evaluating Temporal Consistency in Multi-Turn Language Models (ACL 2026)
+
+Источник: ACL Anthology.  
+Фактически просмотрено: abstract.
+
+ChronoScope tests retention, switching and transfer of implicit temporal scope over multi-turn chains. State-of-the-art models often fail to preserve the earlier inferred scope; failures intensify with interaction length and can persist even when relevant context remains available.
+
+**Для symbols:** even an explicitly inferable contextual state can drift with turns. Therefore a symbol-derived frame should not be assumed to remain active merely because the original exchange is still technically inside the context window.
+
+## 26. Huang et al. — Do LLMs Benefit From Their Own Words? (2026) — persistence bridge
+
+Источник: arXiv.  
+Фактически просмотрено earlier in this symbols pass: abstract/main findings.
+
+Prior assistant outputs can propagate errors, hallucinations and stylistic artifacts through context pollution, although many turns are self-contained and do not need assistant-side history.
+
+**Для transition:** this creates a second carrier of the early symbol effect. Direct symbol salience can decay while a model-generated interpretation survives because later generations condition on the assistant's own earlier natural-language response.
+
+## Third-pass synthesis: persistence is multi-channel, not one memory trace
+
+Candidate persistence channels after switching from symbols to ordinary language:
+
+1. **Exact-token entrainment** — earlier token itself gets elevated later probability/attention effects.
+2. **Sequential/format inertia** — previous interaction pattern biases later output format or task behavior.
+3. **Self-generated semantic bridge** — model's own interpretation becomes ordinary-language context and carries the branch forward.
+4. **Dyadic convention** — user/model have actually converged on a local mapping.
+5. **Long-horizon explicit memory/retrieval** — separate product-level mechanism, not established by same-chat persistence alone.
+
+These channels have different durability and evidential meaning. The current evidence most strongly supports short-to-medium same-context carryover and self-conditioning. It does **not** establish a durable developmental effect from a few symbol turns by itself.
