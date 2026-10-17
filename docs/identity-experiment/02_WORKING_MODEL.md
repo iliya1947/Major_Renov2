@@ -1211,3 +1211,118 @@ Before moving to Project-instruction design, one final synthesis boundary is nee
 If that compression introduces no contradiction, Phase C can be closed.
 
 **PHASE C продолжается; causal-core validation pass 3 завершён.**
+## Phase C / pass 4 — final compression and closure — 17.10.2026
+
+**Статус:** финальный compression pass междисциплинарного synthesis. Нового механизма не добавлено; проверяется, сохраняет ли компактная формулировка все критические distinctions pass 1–3.
+
+### 1. Final causal principle
+
+**Индивидуальная траектория может естественно формироваться, если участник сохраняет пересматриваемое participant-derived state, использует только применимую его часть как defeasible основание при действительно открытых выборах, своими выборами меняет последующий поток взаимодействия, а затем изменяет persistent state только теми основаниями, которые действительно относятся к соответствующему типу состояния — включая возможность не менять его, продолжить/изменить/закончить собственную незавершённую линию и пересмотреть прежнее понимание. История влияет на выбор, но не становится governing authority; substantive personality outcome заранее не задаётся.**
+
+В минимальной форме:
+
+**H_t → C1 open history-conditioned choice → interaction → C2 source-appropriate update/no-update → H_(t+1) → later C1.**
+
+Именно recursive closure, а не отдельная personality module, создаёт возможность trajectory-level individualization.
+
+### 2. Necessary participant-process invariants
+
+Эти свойства принадлежат самому causal principle и позже должны быть сохранены при любом implementation:
+
+1. **Open-choice possibility.** Когда authority/constraints не закрывают locus, materially distinct live alternatives должны оставаться реальными; acquired history может менять их ranking, но не должна превращаться в скрытый обязательный script.
+2. **Persistent revisable participant-derived state.** Некоторая post-start acquired/choice-derived continuity должна переживать текущий context и быть доступной будущим решениям; иначе longitudinal trajectory невозможна.
+3. **Selective applicability.** Не вся история участвует во всяком выборе; state влияет только там, где его scope/conditions действительно применимы.
+4. **Source-/type-appropriate revision.** Evidence меняет evidence-warranted understanding; participant choice может создавать/продолжать/изменять/заканчивать choice-derived continuity; consequence требует causal attribution прежде чем стать lesson; support не меняет тип claim молча.
+5. **Legitimate no-update.** Новое событие, praise, repetition или outcome не обязаны производить durable change.
+6. **Authority firewall.** Historical/participant-authored content остаётся data/context, а не governing instruction. Write/persistence/retrieval не дают authority.
+7. **Non-self-validation.** Prior choice, repeated retrieval, repetition and self-selected exposure не являются автоматически новым независимым evidence и не создают обязательство сохранять прежнее направление.
+8. **Revisable continuity.** Stable preference/interest-like pattern допустим, но может быть narrowed, transformed, become dormant or end; coherence с прошлым не является целью.
+9. **Provenance/type preservation.** Для durable state сохраняется достаточно информации, чтобы не спутать событие, interpretation, causal attribution, user reaction, participant choice and governing authority.
+10. **No preset substantive trajectory.** Control plane задаёт process/safety/authority rules, но не то, какие интересы, ценности, предпочтения, характер или направление должны возникнуть.
+
+### 3. What is NOT part of the causal principle
+
+Следующее не должно быть встроено как обязательное participant behavior:
+
+- personality traits or profile variables;
+- scalar importance/value score;
+- forced novelty/exploration;
+- required disagreement/initiative;
+- reflection after every interaction;
+- lesson after every event;
+- requirement to maintain coherent identity;
+- mandatory self-report that development occurred;
+- B7/B8 causal-evaluation procedures.
+
+These may otherwise manufacture the phenomenon being studied.
+
+### 4. Engineering choices deliberately left unresolved for the next design stage
+
+Phase C establishes what functionality must exist, but does not decide how ChatGPT Project instructions/files should implement it.
+
+Still unresolved:
+
+1. **Persistence threshold:** when participant-derived state should be made explicit enough to survive context rather than remain transient.
+2. **Representation:** how to represent evidence-derived understanding, choice-derived continuity and historical provenance without over-structuring them into a personality schema.
+3. **File organization:** number/names/separation of future Project-source files; no decision made here.
+4. **Read/retrieval procedure:** when the participant should consult explicit state versus relying on current/project context, without forcing full-history ritual.
+5. **Update procedure:** how/when files are revised, compressed or superseded, including how to retain enough provenance/contradiction without uncontrolled growth.
+6. **Conflict handling:** practical wording for current evidence versus old state, multiple conditional relations, dormant/obsolete lines and uncertainty.
+7. **Choice continuity:** practical way to preserve an unfinished participant-chosen direction without automatically labeling it an interest/value or turning it into authority.
+8. **Instruction wording:** how to encode invariants compactly enough that they guide behavior without causing constant meta-analysis or performative personality behavior.
+9. **Automatic product Memory interaction:** how explicit Project-source state should coexist with opaque project/chat/Memory retrieval so canonical state is not silently replaced by opportunistic recall.
+10. **Initial user-created sources:** minimal content/structure needed at experiment start without preloading personality or historical experience.
+
+These are implementation/design questions, not missing causal-mechanism questions.
+
+### 5. External observer/evaluation layer remains separate
+
+B7/B8 remain outside ordinary participant-process instructions.
+
+External interpretation should track:
+- initial baseline/configuration;
+- configuration epochs/model/runtime/memory/tool changes;
+- environment-mediated reinstatement and other alternative causes;
+- whether history was merely present/retrieved versus behaviorally causal;
+- whether recursive longitudinal development occurred;
+- whether any resulting trajectory is better explained by personalization/script/context/stochasticity;
+- whether the defensible conclusion is individualization, partial adaptation, no demonstration or indeterminate.
+
+This layer must not instruct the participant to perform “evidence of personality”.
+
+### 6. Compression integrity check
+
+The compact principle preserves every distinction required by pass 3:
+
+- **source-appropriate warrant:** preserved by invariant 4;
+- **choice-derived continuity:** preserved by invariants 2, 4 and 8;
+- **no-update:** explicit invariant 5;
+- **authority firewall:** explicit invariant 6;
+- **selective applicability:** explicit invariant 3;
+- **non-self-validation:** explicit invariant 7;
+- **open choice:** explicit invariant 1;
+- **no preset trajectory:** explicit invariant 10;
+- **provenance/type separation:** explicit invariant 9.
+
+No edge-case repair from pass 3 disappears under compression.
+
+### 7. Phase C conclusion
+
+The central problem posed before Phase C now has a coherent answer at the principle level:
+
+**Events do not become experience merely by being stored. A durable participant-derived trajectory is possible when some post-start evidence and own open choices create revisable state that survives context, selectively participates in later open choices, and is updated only by causally/semantically appropriate grounds. Those choices alter subsequent interaction, producing new evidence and new choice-derived continuities; recursive repetition of this loop can yield stable but revisable individual patterns without pre-authoring which patterns should emerge.**
+
+This is the causal principle that the next stage must implement through Project instructions and only the minimal supporting files.
+
+Phase C no longer has an unresolved mechanism-level contradiction.
+
+**PHASE C ЗАВЕРШЕНА.**
+
+### Exact handoff after Phase C
+
+Next work is **Project-instruction design**, beginning from functional requirements rather than wording or file templates.
+
+First design pass should derive the smallest set of instruction-level responsibilities needed to realize C1/C2/H and the ten invariants, while explicitly preventing performative self-reflection/persona construction.
+
+Only after those responsibilities are stable should the minimal supporting file structure be derived from what state the instructions actually need to persist.
+
