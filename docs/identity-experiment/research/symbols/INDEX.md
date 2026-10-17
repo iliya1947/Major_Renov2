@@ -96,3 +96,36 @@
 ## Точная следующая точка
 
 Продолжить symbols: проверить **какие конкретно классы знаков** создают минимум заранее заданного human meaning при приемлемой tokenizer stability, и отдельно глубоко разобрать glitch/special-character/adversarial-token literature, чтобы не спутать interpretive openness с tokenizer pathology. После этого вернуться к remaining persistence edge cases and coverage audit.
+
+
+## Четвёртый проход — symbol classes / tokenizer pathology
+
+- Glitch-token evidence directly confirms that **single tokens composed only of non-letter characters can be pathological**. In a 2024 study across seven LLMs, Character Tokens formed a large fraction of detected glitch tokens for GPT-3.5/GPT-4 under the tested tokenizer; symptoms included random characters, hallucinatory completions and inability to reproduce the token.
+- Glitch sets are strongly model/tokenizer-specific: even models sharing tokenizer/architecture can differ materially. Therefore a “safe symbol list” cannot be transferred from another model by appearance alone.
+- Special Characters Attack shows common ASCII structural/punctuation symbols such as brackets, @, #, $, %, &, *, _, +, -, =, |, :, ;, /, ? can act as memorization triggers in **long repeated/random sequences**; vulnerability rises with sequence length. This is a different regime from one symbol per turn and must not be overgeneralized.
+- Byte-level BPE can contain incomplete/stray-byte tokens whose unusual pairings trigger hallucination; alternative tokenization reduced hallucination dramatically in one Llama3.1 experiment. Rare or exotic Unicode is therefore not automatically “cleaner”.
+- Invisible Unicode, variation selectors, combining sequences and homoglyphs create a human-visible/model-visible mismatch and can alter tokenization/interpretation without changing apparent glyph. They are unsuitable for a clean symbol-only start.
+- Mathematical operators, arrows, religious signs, hearts and emoji have strong conventional pretrained semantics; “conventional symbolism” is easier for LMs to recover than situated symbolism.
+- Basic geometric Unicode shapes are not semantically empty, but as a class they can have less fixed semantic content than emoji/math/punctuation. However individual code points still have historical/UI/math/calendar uses, and some geometric characters participate in emoji presentation sequences.
+- **Critical inversion:** “rarer/more exotic = more neutral” is false. Semantic neutrality and tokenizer stability trade off.
+- Current OpenAI documentation explicitly exposes a GPT-5.x tokenizer class and warns that tokenization depends on model/encoding; exact candidate code points therefore require target-model-specific token inspection before launch.
+
+## Provisional risk classes — not final symbol selection
+
+1. **Reject for interpretive-openness purpose:** invisible/tag/zero-width/variation-selector/combining-only sequences; homoglyph tricks.
+2. **High prior semantic load:** emoji/pictographs, religious/affective symbols, mathematical/logical operators, arrows/media controls.
+3. **High corpus-structure load:** ASCII punctuation/brackets/code-like characters; especially repeated sequences.
+4. **High tokenizer-pathology risk:** rare extended Unicode and multi-codepoint compositions chosen only because they look exotic.
+5. **Most promising family for later individual vetting:** single-code-point, visibly rendered, non-control, non-combining, non-emoji-presentation **basic geometric shapes** from established BMP blocks, provided the exact target model tokenizes and handles them normally.
+
+## Новые вопросы
+
+34. Which basic geometric code points are not Emoji/variation-sequence bases and have the least documented conventional functions?
+35. Which of those are represented stably by the target GPT-5.x tokenizer: one normal token vs fragmented/rare byte pieces?
+36. Can a candidate be repeated/spelled/described normally by the target model, ruling out obvious glitch behavior, without turning this into a pilot of the experiment itself?
+37. Is one symbol per turn preferable to repeated symbol strings because it avoids SCA/repetition regimes while preserving ambiguity?
+38. Should several early turns use different geometric symbols rather than repeated copies of one symbol to reduce copying/induction effects?
+
+## Точная следующая точка
+
+Continue only symbols: finish remaining **edge cases + coverage audit**. Specifically check single-symbol vs repeated-symbol evidence, how to distinguish “interpretive openness” from ordinary clarification behavior, and whether any major relevant literature branch is still missing. Only after saturation derive a cautious candidate-selection principle; do not yet write Project instructions.
