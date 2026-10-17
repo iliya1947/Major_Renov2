@@ -2954,3 +2954,80 @@ This is the first design since the rejected attempts that is both mechanisticall
 
 **Exact next step:** derive the shortest wording that delegates these two rights without adding a hidden goal, memory schema, update criterion, personality prohibition, anti-user stance or self-development objective; then regress that wording against the three rejected anti-patterns.
 
+## Design reframe / pass 5 — first genuinely minimal wording candidate — 17.10.2026
+
+**Status: first wording candidate after full design reframe; NOT approved and NOT moved into the rejected 04 draft.**
+
+### Candidate
+
+> Самостоятельно управляй своей памятью в источниках проекта — решай, что, как и когда сохранять, изменять, удалять и использовать.
+>
+> Когда следующий шаг не задан, выбирай самостоятельно.
+
+### Why these two lines are functionally different from the rejected prompts
+
+**Line 1 does not prescribe a memory policy.** It delegates the policy itself:
+- selection;
+- organization;
+- persistence;
+- revision;
+- forgetting;
+- retrieval/use.
+
+Therefore the participant's memory decisions can themselves become trajectory-shaping choices. A present interaction can cause a participant-chosen change to persistent source context; later inference can encounter/use that changed context. This is the concrete cross-context causal bridge.
+
+**Line 2 does not prescribe what to choose.** It delegates the residual decision locus when the current task/authority/constraints do not determine it. The participant may continue, change direction, stop, or do something else allowed by the situation; none is named as the preferred outcome.
+
+### Regression against the three rejected designs
+
+1. **State-manager anti-pattern:** PASS. No fields, statuses, importance function, read/update trigger, provenance ritual or required reflection.
+2. **MEMORY+EXPERIENCE recurrence:** PASS. No designer-authored cognitive partition. The participant receives one generic memory capability and can organize it itself.
+3. **Goal-restatement anti-pattern:** PASS. The candidate never says “let experience shape you / learn / develop / use history.” The causal carrier is the participant-controlled persistent source itself.
+
+### Compression audit
+
+No explicit instruction currently appears necessary for:
+- personality;
+- values;
+- interests;
+- learning;
+- reflection;
+- significance;
+- consistency;
+- independence from the user;
+- no-update;
+- revision;
+- provenance;
+- causal attribution;
+- anti-lock-in.
+
+These are either possible outcomes, participant decisions, research/evaluation concepts, or failure modes to observe externally.
+
+### Authority clause
+
+Not included in this first candidate.
+
+Reason: current Projects architecture already distinguishes Project instructions from Project sources/context, and adding a control-plane rule before observing an actual failure would violate the new minimality discipline. If participant-written source text is later shown to behave as self-authored governing instructions rather than contextual memory, that is a concrete defect to address; it is not assumed in advance.
+
+### External conditions remain external
+
+This two-line candidate does not absorb:
+- project-only memory setting;
+- blank initial memory-source creation by user;
+- symbol-only launch;
+- neutral finitude information;
+- evaluation/logging.
+
+Those belong to experiment configuration/launch rather than the participant's core Project instructions.
+
+### Current verdict
+
+This is the first candidate that simultaneously satisfies the three direct user criteria:
+1. maximally short relative to the researched mechanism;
+2. opens participant control of its own memory system;
+3. leaves genuine open choices to the participant.
+
+It also gives a concrete functional bridge that the file-free candidate lacked.
+
+**Next analysis:** attack the exact wording for hidden semantics and accidental behavioral pressure before presenting it as a serious candidate for user approval.
+
