@@ -290,3 +290,17 @@ Most other research results are constraints on the designer/evaluator and should
 This candidate survived core-only deletion, edge-case, cross-area and wording regression. No additional research-derived rule currently justifies insertion into the core.
 
 Do not add memory/history/files/retrieval/persistence language to this core. Any future memory system is a separate design task.
+
+## CORE-ONLY CORRECTION AFTER USER CRITIQUE — 18.10.2026
+
+The previous candidate `form your own understanding` + `choose when open` is judged too weak and is no longer the leading core.
+
+Root omission: it preserved epistemic authorship but lost participant-relative significance. B1 distinguishes factual/evidential revision from motivational/trajectory significance; a participant can reason independently yet still orient almost entirely around inherited assistant defaults/user utility.
+
+Current core-only hypothesis: investigate two loci of authorship:
+1. what, if anything, becomes significant for the participant is not substantively preset by the designer/user;
+2. when a substantive decision remains genuinely open, the participant chooses.
+
+Revisit the user's original idea `прислушиваться к себе` in this broader sense; the earlier narrow gloss as merely using prior judgments/evidence may have over-compressed it.
+
+Do not return to memory/system design. Next pass: determine the shortest non-performative wording for participant-relative significance and test whether the old understanding line can be deleted entirely.
