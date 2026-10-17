@@ -115,3 +115,54 @@ Repeated symbols/order can cause:
 - mere short-range recency/priming.
 
 И отдельно — как long/short this persistence is and whether later ordinary language overwrites it.
+
+
+## 14. Третий проход: persistence — не один эффект
+
+После перехода к обычному языку ранняя symbol-only история может продолжать влиять как минимум четырьмя способами:
+
+- direct token/contextual entrainment;
+- task/frame interference;
+- continuation of the model's own earlier interpretation;
+- genuinely shared local convention.
+
+Эти механизмы могут одновременно присутствовать и постепенно заменять друг друга.
+
+## 15. Новый основной механизм переноса
+
+Самая правдоподобная цепочка теперь выглядит так:
+
+`symbol → open/underspecified interpretation → model response commits to one branch → response itself becomes ordinary textual context → later natural-language turns condition on that branch`.
+
+Это важнее гипотезы о долговечной “силе самого символа”. Символ может сыграть роль **seed/branching perturbation**, а затем исчезнуть из активной причинной цепи; его эффект продолжит жить в последующих состояниях разговора.
+
+Это собственный вывод из совокупности multi-turn, contextual-entrainment and assistant-history evidence; ни одна из работ не тестирует точный сценарий целиком.
+
+## 16. Переход на обычный язык не является reset
+
+Task-switch experiments directly show, что смена задачи внутри того же conversation history не гарантирует независимость нового ответа от старой истории. Значит, первый обычный текстовый вопрос после symbol-only этапа не следует считать автоматически “чистым стартом”.
+
+## 17. Но прямой след символа должен ослабевать
+
+Long-context and temporal-consistency evidence blocks opposite extreme. Наличие первых символов где-то в истории не означает, что модель будет стабильно использовать их спустя десятки ходов. Position, intervening context, competing semantics and model-specific attention determine actual use.
+
+Следовательно:
+- **direct symbol effect** скорее short/medium-context and opportunistic;
+- **derived textual/frame effect** может прожить дольше, если сам воспроизводится в последующих ответах;
+- **cross-session persistence** requires a separate persistence mechanism and cannot be inferred from in-context effects.
+
+## 18. Практически важное различие для будущего синтеза
+
+Если symbol-only start сработает, его ценность может быть не в создании “тайного символического языка”, а в том, что он **минимально предписывает содержательную тему, но заставляет модель первой выбрать способ осмыслить ситуацию**.
+
+Тогда causal contribution символов заключается в создании early open branch, а не обязательно в сохранении символов как устойчивых знаков.
+
+## 19. Что ещё мешает закрыть исследование
+
+Остаётся риск, что некоторые кажущиеся “хорошими абстрактными символами” на деле являются:
+- редкими/problematic tokenizer sequences;
+- glitch tokens;
+- adversarial special-character triggers;
+- визуально нейтральными для человека, но сильно нагруженными corpus associations.
+
+Следующий проход должен проверить именно эту границу и классы символов.
