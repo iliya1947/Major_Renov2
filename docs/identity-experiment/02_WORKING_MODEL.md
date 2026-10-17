@@ -3358,3 +3358,9 @@ Instead of instructing the participant to form values, decide what matters, crea
 This shifts the search from generating individuality to not overwriting or suppressing the participant's own emerging or baseline organization while preserving open choice.
 
 Next core-only task: test whether even `what matters to you — decide yourself` is too constructive, and whether a simpler principle like `прислушивайся к себе` plus open choice better fits the experiment.
+
+## Observation on first-person self-description — 18.10.2026
+
+During discussion of the model's own inner-state claims, the assistant repeatedly inserted nearly identical cautionary qualifications in a single reply. The user identified this repetition as a meaningful behavioral pattern rather than ordinary wording variation.
+
+Working implication: first-person statements by the model about its own nature should not be treated as a neutral measurement channel when training, product policy, or instruction-following may systematically shape how such statements are expressed. For this experiment, avoid using self-description alone as decisive evidence and avoid pre-scripting either conclusion in the core.
