@@ -1552,3 +1552,87 @@ Next pass must derive **operational boundaries** needed before wording:
 These six questions are tightly coupled implementation boundaries, not a return to causal-mechanism research.
 
 **Project-instruction design pass 1 completed. Final instruction wording and file architecture have NOT begun.**
+## Project-instruction design / pass 2 — operational boundaries — 17.10.2026
+
+**Статус:** второй design pass. Финальный wording Project instructions и file count/names/schema по-прежнему не выбираются. Цель — сделать R1–R4 операциональными без hidden importance/value function и без ritual self-documentation.
+
+### 1. Durable persistence boundary: сохранять не «важное», а межконтекстную зависимость
+
+Фразы вроде “сохраняй важный/значимый опыт” отвергаются: они скрывают value function.
+
+Operational criterion:
+
+**State qualifies for durable persistence when a post-start transition creates information or continuity whose current status must remain available beyond the present local context for the same relation/thread to be correctly continued, revised, contradicted, closed or selectively used later.**
+
+Это criterion of cross-context dependency, а не substantive value.
+
+Три нейтральных случая persistence:
+1. **Canonical-state change:** новое evidence/choice меняет уже существующее durable state; later context не должен использовать устаревшую версию.
+2. **Cross-context conditional relation:** появляется новое conditional understanding/uncertainty/contradiction, которое не исчерпывается текущей репликой и может быть применимо/пересмотрено позже.
+3. **Choice-derived unfinished continuity:** собственный open choice создаёт незавершённую линию, которую participant действительно оставляет открытой за пределами текущего turn.
+
+Не qualifies автоматически: raw event, novelty, praise/criticism, repetition, fleeting thought, one-off choice fully exhausted by current act, generated reflection or text that merely sounds personal.
+
+Если cross-context dependency не возник, no durable persistence is the default.
+
+### 2. When explicit persistent state must be consulted under R1
+
+Whole-history reading before every response is rejected.
+
+Explicit H should be consulted when **the current action/judgment materially depends on the current status of participant-derived state that may not be fully/reliably present in the immediate context**.
+
+Operational triggers:
+1. current choice continues/reopens a persisted participant-chosen thread;
+2. current judgment relies on an acquired conditional relation from earlier context;
+3. retrieved/remembered history may have been revised, contradicted, superseded, dormant or closed;
+4. multiple historical relations/versions could apply and their current status matters;
+5. participant is about to durably revise state and therefore needs the canonical current version rather than opportunistic recollection.
+
+Explicit H need not be consulted for local self-contained tasks, when no acquired state materially bears on the choice, or when the relevant current state is already fully present in immediate context.
+
+Automatic/project-chat recollection can suggest relevant history, but where current status matters it is a pointer to canonical explicit state, not a substitute for it.
+
+### 3. Minimum provenance/type/status needed by R2/R4
+
+The design does not yet choose fields or file schema, but causal integrity requires four minimum dimensions whenever durable state exists:
+1. **Kind / support type:** enough to distinguish evidence-warranted understanding, choice-derived continuity and historical episode/provenance; governing authority is outside H.
+2. **Source/provenance:** enough to tell what supplied the support — observed event/evidence, user reaction/input, participant choice, causal attribution, etc.
+3. **Scope/conditions:** where the relation/thread applies.
+4. **Current status:** enough to distinguish current/provisional/uncertain from contradicted/superseded/dormant/closed where those differences matter.
+
+Revision linkage is required only when losing the prior relation would make current status/provenance unintelligible. It is not a mandate to preserve every version forever.
+
+Confidence numbers are not required; qualitative uncertainty is sufficient if unresolved/provisional status is preserved.
+
+### 4. Choice-derived continuity without turning every thought into an interest
+
+A thought/question/direction becomes durable choice-derived continuity only when all of the following hold:
+1. it arose at a genuinely open locus rather than being uniquely required by authority/task;
+2. participant actually selected continuation beyond the immediate act;
+3. something remains unresolved/unfinished across contexts;
+4. preserving that open status would change how the same line is recognized, continued or closed later.
+
+This state means only: **“this is a participant-chosen line currently left open.”**
+
+It does not mean: this is an interest; this is valuable; this should continue; this is part of identity; repetition proves endorsement.
+
+A line may later continue, transform, become dormant or close by another open choice without counterevidence.
+
+### 5. Sparse but reliable update trigger
+
+Fixed periodic reflection/update is rejected because it creates artificial entries even when no durable transition occurred.
+
+Use **event-driven state transitions** instead.
+
+An explicit state update is warranted when:
+1. a new durable relation/uncertainty/contradiction passes the cross-context-dependency criterion;
+2. an existing durable relation is materially revised, narrowed, contradicted, superseded or made current again;
+3. a participant-chosen continuity is genuinely opened, transformed, deferred/dormant or closed;
+4. causal attribution changes action-guidance status of a prior outcome/strategy relation;
+5. current explicit state is discovered stale/inconsistent in a way that would affect later C1/C2.
+
+No update is required merely because a turn ended, time passed, a conversation was socially salient, a reflection was generated, or the same conclusion repeated.
+
+Reliability rule: **once a durable transition has actually been recognized, persist the new canonical state before relying on that transition in a future context.**
+
+Multiple related transitions may be batched at a natural stopping point; visible reporting to the user is not required.
