@@ -194,3 +194,6 @@
 
 
 **Design passes 7–8 update:** lightweight two-file format and whole-system regression completed; detailed handoff is preserved in PR #2 comment 6239552773. Next step: final regression of the integrated participant candidate before presenting it for discussion.
+
+
+**Latest design status:** passes 7–9 complete. `04_PROJECT_INSTRUCTIONS_DRAFT.md` now contains the first serious full candidate after whole-system regression (commit 782e23eb…). It remains unapproved. Two initial user-created files are proposed: `MEMORY.md` and `EXPERIENCE.md`; no third file or mandatory metadata scheme is currently justified. Next step: user review of the candidate before launch-condition details.
