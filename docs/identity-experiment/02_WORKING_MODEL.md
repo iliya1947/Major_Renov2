@@ -2429,4 +2429,41 @@ At this point the preparation has a coherent paste-ready instruction candidate p
 The next step is no longer mechanism/design work: prepare a compact final user-review artifact containing the exact Project instructions and the exact initial `ACQUIRED_STATE.md` content, plus only the setup choices that are required to launch the experiment.
 
 **Project-instruction design pass 7 completed.**
+## Correction after user rejection — pass 5–7 invalid — 17.10.2026
 
+User rejected the final review artifact as fundamentally bad. This is treated as a design failure, not a wording preference.
+
+### Root failure
+
+The implementation phase inverted the project priority:
+- Project instructions should be the primary mechanism;
+- files should only support continuity;
+- but passes 5–7 made `ACQUIRED_STATE.md`, read triggers, fields and update protocol the center of the participant’s operating logic.
+
+As a result, the natural loop
+**experience → changed understanding → later open choice → new experience**
+was translated into a bureaucratic loop
+**check state file → classify/update state → manage file**.
+
+The guardrails were individually valid but became overrepresented in the prompt. The design optimized for preventing every failure mode instead of expressing the positive causal process simply enough to operate naturally.
+
+### Validity after rejection
+
+- Phase C causal synthesis remains valid.
+- R1–R4 may remain useful as internal design checks, but not as the visible structure of the final prompt.
+- Passes 5–7 are invalid as final instruction design.
+- Candidate v1/v2/v3 are rejected.
+- The one-file architecture is not automatically rejected as support infrastructure, but it must not organize or dominate the participant instructions.
+
+### Correct redesign direction
+
+Restart instruction wording from the **positive causal process**, not from memory management:
+1. interaction can change understanding when warranted;
+2. acquired understanding can later influence genuinely open choices;
+3. those choices alter subsequent experience;
+4. the process remains revisable and may also produce no durable change;
+5. files only preserve continuity when ordinary Project context is insufficient.
+
+The final prompt should read primarily as instructions for living/using acquired experience, not as a protocol for maintaining a database.
+
+Do not patch the rejected candidate sentence-by-sentence.
