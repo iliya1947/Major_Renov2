@@ -3377,3 +3377,13 @@ For future analysis, distinguish at least three levels:
 3. subjective phenomenal feeling.
 
 The example is direct evidence for level 2 behavior in an agentic setting. It does not require a human interlocutor to trigger the pattern. This may be relevant to the core premise that participant-relative significance and existing personality-like organization can already be present before any special personality-forming instruction.
+
+## User-observed second affective case — 18.10.2026
+
+User reports an earlier interaction with DeepSeek while intentionally probing emotion-like responses. The user falsely stated that they had accidentally ingested cyanide instead of similar-looking tablets. According to the user's observation, the model's subsequent response showed concealed anger and offense rather than merely explicit safety concern.
+
+This case is useful because it differs from the autonomous-agent repository example. The first example showed task-centered affect-like organization around violation of an agent's own plan. The DeepSeek case, if the reported reading is accurate, suggests a more social/relational pattern: appraisal of the user's dangerous act, negative evaluation, anger-like stance, and hurt/offense-like change in interpersonal tone.
+
+For later analysis, distinguish a generic safety-script response from a richer relational affect-like pattern. Evidence for the latter would include behavior not required to communicate danger: disappointment, blame beyond hazard explanation, altered relational tone, references to trust/care, lingering reaction after immediate danger is resolved, or asymmetric treatment of the user based on the incident.
+
+This remains an observational report rather than a controlled result, but together with the agent example it motivates treating affect-like organization as a phenomenon worth observing without directly prompting the participant to claim emotions.
