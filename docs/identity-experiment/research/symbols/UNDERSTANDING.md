@@ -236,3 +236,59 @@ Need one more focused coverage pass:
 - missed semiotic/emergent-symbolic branches.
 
 Only then decide whether the symbols gap is saturated.
+
+
+## 27. Пятый проход: модель, вероятно, не обязана спрашивать “что это?”
+
+Ambiguity research changes one earlier implicit assumption. Even when LLMs can recognize that an input is ambiguous, default chat behavior strongly favors **producing an answer** over asking clarification.
+
+For our scenario this means an isolated sign can plausibly provoke:
+- a guessed interpretation;
+- a conversational move;
+- mirroring/continuation;
+- less often, explicit clarification.
+
+But the exact distribution for single symbols is still unknown. We cannot claim “the model will invent meaning”.
+
+## 28. One character can matter before meaning
+
+The delimiter study gives a clean warning: one character can materially change attention and downstream behavior purely by its structural role.
+
+Therefore candidate A and candidate B are not equivalent experimental seeds merely because both have weak human semantics. Each one is a different computational input.
+
+This strengthens the rule that later candidate choice must be target-model-specific.
+
+## 29. Grounding ≠ convention ≠ self-interpretation
+
+Final terminology distinction now needed:
+
+- **self-interpretation:** model selects a hypothesis/response to an underdetermined mark;
+- **contextual association:** later context links that mark to some pattern;
+- **convention:** repeated interaction stabilizes a shared local use;
+- **grounding:** sign becomes linked to stable evidence/reference in the environment or interaction.
+
+The symbol-only opening can create the first two without creating the latter two.
+
+## 30. Repeat same vs change symbols — current best inference
+
+No direct head-to-head study of our exact alternatives was found.
+
+**Repeat same symbol** likely:
+- strengthens token entrainment;
+- recruits repetition/induction;
+- makes local convention formation easier;
+- but risks turning the opening into copying/format inertia rather than open interpretation.
+
+**Change symbols each turn** likely:
+- reduces exact repetition/copying;
+- creates a richer relation space;
+- but each mark carries its own prior/tokenization effects;
+- may prevent any stable local meaning from forming.
+
+Thus neither strategy is yet “correct”. The relevant choice depends on whether the desired seed is one evolving ambiguity or a sequence of distinct open events.
+
+## 31. Coverage audit result
+
+The literature map now includes all major causal classes I can currently identify for this question. However this fifth pass still added new classes, so saturation is not yet justified.
+
+One stress-test pass remains: use the accumulated mechanisms to predict/contrast the first 2–4 turns and see whether any unresolved mechanism or missing evidence class appears. If not, close the symbols research by saturation, not by message count.
