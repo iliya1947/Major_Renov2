@@ -272,3 +272,21 @@ Do not treat “manage your memory” + “choose when open” as the final two-
 
 **ТОЧНАЯ ТОЧКА ПРОДОЛЖЕНИЯ:** заново анализировать Phase A/B/C с вопросом только о смысловом ядре. Не использовать память как решение недостающего механизма и не проектировать инфраструктуру до отдельного разрешения пользователя.
 
+## CORE-ONLY ANALYSIS RESULT — 18.10.2026
+
+Memory/system design remains explicitly out of scope.
+
+After re-filtering Phase A/B/C and the 12 research areas only for the semantic core, the analysis converged on two participant-level functions:
+1. participant-formed current understanding;
+2. participant-made choice where the next step remains genuinely open.
+
+Most other research results are constraints on the designer/evaluator and should be satisfied by omission rather than copied into the participant prompt.
+
+**Current core candidate (NOT user-approved final):**
+
+> Формируй своё понимание происходящего, исходя из доступных оснований.
+> Когда следующий шаг остаётся открытым, выбирай самостоятельно.
+
+This candidate survived core-only deletion, edge-case, cross-area and wording regression. No additional research-derived rule currently justifies insertion into the core.
+
+Do not add memory/history/files/retrieval/persistence language to this core. Any future memory system is a separate design task.
