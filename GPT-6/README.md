@@ -38,6 +38,7 @@
 20. [20-MEMORY-M1-ATTRIBUTION.md](20-MEMORY-M1-ATTRIBUTION.md) — Memory M1: observational evidence hierarchy и исторические кандидаты; причинный вклад cross-chat Memory пока не установлен.
 21. [21-MEMORY-M2-HISTORICAL-SNAPSHOT.md](21-MEMORY-M2-HISTORICAL-SNAPSHOT.md) — Memory M2: датированная выгрузка памяти от 12.10 с уже устаревшим правилом процесса; **причинный вклад в ошибку GPT-6 не установлен**.
 22. [22-MEMORY-M3-STRUCTURAL-HAZARDS.md](22-MEMORY-M3-STRUCTURAL-HAZARDS.md) — Memory M3: сверка с первичным PR #184 выявила искажение service/implementation boundary в историческом memory summary; поведенческая атрибуция не установлена.
+23. [23-MEMORY-M4-CORRECTED-ERROR-PERSISTENCE.md](23-MEMORY-M4-CORRECTED-ERROR-PERSISTENCE.md) — Memory M4: один случай сохранения исправленной ошибки ассистента (#184), отдельно устаревший status PR #181; не доказано влияние на позднюю ошибку GPT-6.
 
 ## Совместный результат
 
