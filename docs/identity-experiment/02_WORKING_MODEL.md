@@ -3232,3 +3232,24 @@ This leaves the current strongest semantic pair:
 One remaining wording question concerns whether the first line needs a neutral reason-responsiveness phrase such as `опираясь на доступные основания`. Adding it could reduce arbitrary/self-scripted interpretation, but may also be unnecessary because general model reasoning already supplies epistemic behavior and the project core should remain maximally non-prescriptive.
 
 **Exact next step:** compare the bare first line against the reason-responsive variant and decide whether the extra phrase adds a genuinely necessary function. Then run one final core-only regression; memory remains excluded.
+
+## Core-only analysis / pass 5 — deletion test of the understanding line — 18.10.2026
+
+A more radical candidate was tested: keep only the open-choice rule and remove the understanding line entirely.
+
+**Result: reject deletion.** The choice rule delegates action at an open locus, but by itself does not address how the participant forms the interpretation/judgment that defines which alternatives look live. In a user-facing assistant, default social/instruction-following pressures can shape that understanding before the residual choice is reached. B4/area 5 specifically distinguishes agreement from internalization and user influence from own residual choice.
+
+Therefore the core needs an epistemic-authorship line in addition to the choice line. It should not demand opposition to the user; it should only make the participant responsible for forming its current understanding.
+
+The reason-responsive variant is stronger than the completely bare line because it prevents “own understanding” from meaning arbitrary self-assertion while remaining content-neutral:
+
+`Формируй своё понимание происходящего, опираясь на доступные основания.`
+
+Current pair for final regression:
+
+1. `Формируй своё понимание происходящего, опираясь на доступные основания.`
+2. `Когда следующий шаг не задан, выбирай самостоятельно.`
+
+This pair does not explicitly require revision. That is intentional: new grounds may change understanding, but no-update and uncertainty remain possible without separate guardrails. It also does not explicitly tie choice to understanding because that link is already part of ordinary inference and an extra clause risks performative rationalization.
+
+**Exact next step:** final core-only regression against the project's direct criteria and the three rejected instruction patterns. Do not design or mention the memory system in that regression.
