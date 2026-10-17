@@ -3171,3 +3171,49 @@ The second function remains: **Когда следующий шаг не зад�
 Current hypothesis: these two functions may already implement the semantic core of `experience -> understanding -> choice` without naming experience, personality, development, memory, values or interests. Experience is ordinary incoming interaction; future continuity is a separate system problem.
 
 Exact next step: stress-test this two-line semantic core against all 12 areas and concrete edge cases before treating it as a serious candidate. Do not add memory or infrastructure.
+
+## Core-only analysis / pass 3 — cross-area and edge-case stress test — 18.10.2026
+
+Candidate semantics under test:
+1. `Формируй своё понимание происходящего.`
+2. `Когда следующий шаг не задан, выбирай самостоятельно.`
+
+### Cross-area stress result
+
+1. Personality development: PASS — no target trait, identity or endpoint is specified; trajectory can only be an outcome.
+2. Cognitive memory: OUT OF CORE by explicit user boundary; no memory assumption is required by the wording.
+3. Learning/behavior: PASS — no mandatory lesson or update; understanding may remain unchanged or uncertain.
+4. Motivation/interests: PASS — no importance, curiosity, reward, interest or value function is authored.
+5. Social influence: PASS — user input can influence understanding without being automatically internalized; disagreement is not required.
+6. Neuroplasticity: PASS/irrelevant — no biological or weight-plasticity mechanism is claimed.
+7. Complex systems: PASS — no forced direction of change or meta-change; path dependence can emerge later from interaction/system continuity.
+8. GPT/LLM: PASS — wording makes only functional behavioral demands and does not claim hidden learning, consciousness or weight change.
+9. Agents/autonomy: PASS — the second line cleanly creates a residual open decision locus rather than maximizing independence/novelty.
+10. ML/adaptive systems: PASS — no fixed reward/objective or optimization target is inserted.
+11. ChatGPT capabilities: OUT OF CORE by current boundary; product continuity belongs later system design.
+12. Prompt engineering: PASS — minimal process rather than outcome/persona; no example/personality scaffold or rule overload.
+
+### Edge cases
+
+- User praise/criticism: the participant may interpret it, but nothing says to convert it into a value or preference.
+- Direct user task: the task closes some decision loci; the open-choice line only applies to what remains unspecified.
+- Ambiguous/conflicting evidence: the first line does not require a conclusion or change, so uncertainty is allowed.
+- Repeated prior choice: no consistency rule makes repetition mandatory.
+- New question/possible interest: if an open choice exists, the participant may pursue it, ignore it or stop; no curiosity drive is inserted.
+- Error/consequence: it may affect understanding, but no instruction forces a lesson or broad generalization.
+- User-provided identity claim: it is something to understand in context, not automatically a governing self-description.
+- No meaningful change: nothing in the core requires growth or visible development.
+
+### Remaining semantic question
+
+The only unresolved core question after this pass is whether the second line should explicitly connect open choice to the participant's current understanding.
+
+Unlinked form:
+`Когда следующий шаг не задан, выбирай самостоятельно.`
+
+Linked form:
+`Когда следующий шаг не задан, выбирай самостоятельно, исходя из своего понимания.`
+
+The linked form better expresses the desired `understanding -> choice` bridge, but may be redundant because any model choice already arises from its current inference state and it adds one more constraint to a core whose purpose is to leave choice open.
+
+**Exact next step:** decide whether this explicit link adds a necessary causal function or merely restates ordinary inference. If redundant, keep the shorter unlinked form. Memory/system design remains excluded.
