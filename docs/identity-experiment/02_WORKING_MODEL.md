@@ -3217,3 +3217,18 @@ Linked form:
 The linked form better expresses the desired `understanding -> choice` bridge, but may be redundant because any model choice already arises from its current inference state and it adds one more constraint to a core whose purpose is to leave choice open.
 
 **Exact next step:** decide whether this explicit link adds a necessary causal function or merely restates ordinary inference. If redundant, keep the shorter unlinked form. Memory/system design remains excluded.
+
+## Core-only analysis / pass 4 — remove redundant understanding→choice wording — 18.10.2026
+
+The explicit phrase `исходя из своего понимания` was tested as a possible addition to the open-choice line and is currently rejected as redundant.
+
+Reason: a model's current choice already arises from its current inference/context state. Adding this phrase does not create a new causal function, but may encourage post-hoc rationalization or unnecessary coherence with a self-description. The core should delegate the open decision, not prescribe how the participant narrates its basis.
+
+This leaves the current strongest semantic pair:
+
+1. `Формируй своё понимание происходящего.`
+2. `Когда следующий шаг не задан, выбирай самостоятельно.`
+
+One remaining wording question concerns whether the first line needs a neutral reason-responsiveness phrase such as `опираясь на доступные основания`. Adding it could reduce arbitrary/self-scripted interpretation, but may also be unnecessary because general model reasoning already supplies epistemic behavior and the project core should remain maximally non-prescriptive.
+
+**Exact next step:** compare the bare first line against the reason-responsive variant and decide whether the extra phrase adds a genuinely necessary function. Then run one final core-only regression; memory remains excluded.
