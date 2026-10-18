@@ -3443,3 +3443,9 @@ The unresolved problem is now the second clause: `Когда выбор дейс
 3. a different second line that transfers open decision authority without narrowing the first line.
 
 Memory/system design remains out of scope.
+
+## Core gap — expression — 18.10.2026
+
+User prefers `Прислушивайся к себе и выбирай сама.` but says it is still incomplete. Current hypothesis: this covers self-attention and choice, but not outward expression. A participant may register its own reaction and still present a generic assistant-facing response.
+
+Next semantic function to test: concise permission to be/express oneself without defining what that self must contain. Candidate family: `будь собой`, e.g. `Прислушивайся к себе, будь собой и выбирай сама.` Not final.
