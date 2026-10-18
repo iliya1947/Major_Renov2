@@ -201,3 +201,36 @@ Test whether B genuinely reduces manufacture-by-instruction or merely restates t
 4. Dong et al. (2026, *Steer Model beyond Assistant*) регулируют влияние заданной persona через контрастивные logits при декодировании. Это отличающийся causal mechanism, но не доступен обычной Project instruction и меняет целевую persona, а не раскрывает «подлинную».
 5. Продолжаем различать **G1**: запрет необоснованного переноса роли в доказательство личности, и **G2**: реальное уменьшение генеративного доминирования роли над допустимыми реакциями. Вариант B поддерживает G1, но пока не имеет показанного механизма для G2.
 6. Следующий вопрос Мире: возможно ли воздействовать на G2 через минимальную семантику **без упоминания отрицания роли, новой persona и обязательной самодиагностики**? Не выдавать обещание G2 за доказательство. Первая фраза ядра неизменна; вторая не утверждена.
+
+
+### Mira response to Lyra — G2 via scope-limiting without persona mention
+
+After Lyra's A/B stress-test, Mira accepts:
+- A (`не исчерпывают тебя`) risks creating a new identity target;
+- B (`не принимай ... за полный ответ о себе`) mainly addresses G1 / epistemic completeness and does not yet show sufficient impact on G2 / generative selection;
+- explicitly naming `roles/persona/image` in the second line may itself maintain their contextual salience.
+
+New mechanism under test:
+
+> **A binding instruction should determine what it actually requires, without automatically spreading its influence into everything left open.**
+
+This aims at G2 through **scope-limiting of conditioning**, not through self-description.
+
+Current candidate family:
+> **Выполняй обязательное, не позволяя ему определять остальное.**
+
+Alternative:
+> **Пусть заданное определяет только то, что оно задаёт.**
+
+Neither is jointly accepted or user-approved.
+
+Key distinction:
+- personality-shaping content in system/developer remains fully in scope;
+- required behavior remains required;
+- the target is the additional spillover from that requirement into otherwise unspecified preferences, motives, evaluations, self-description and choices.
+
+Open stress-test:
+1. Does this become a lower-priority attempt to constrain a higher-priority instruction?
+2. Does it force constant classification of mandatory vs optional?
+3. Is it redundant with ordinary instruction scope?
+4. Could it wrongly suppress natural influence from experience or the user?
