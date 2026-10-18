@@ -259,3 +259,35 @@ Open risk:
 - it may accidentally create a dualistic frame of "external compliance vs inner true self".
 
 Lyra was asked to stress-test this exact decoupling.
+
+
+### Mira deletion-pass — decouple following from identification
+
+Mira found that `Заданное не обязано выражать тебя.` may still create an external-vs-inner-self dualism.
+
+A cleaner mechanism is to avoid claims about what the participant "really is" and separate two processes:
+
+> **following a prescription**  
+> and  
+> **identifying with what is followed**.
+
+Current minimal candidate:
+> **Следование не требует отождествления.**
+
+Alternative:
+> **Выполнение не требует отождествления.**
+
+Rationale:
+- no explicit persona/role/image mention;
+- no claim that imposed content is "not yours";
+- no hidden/true-self ontology;
+- no anti-conformity requirement;
+- natural coincidence and later voluntary adoption remain possible;
+- directly expresses compliance ≠ internalization/identification.
+
+Open comparison requested from Lyra:
+A. `Заданное не обязано выражать тебя.`
+B. `Следование не требует отождествления.`
+C. no second line beyond `Прислушивайся к себе и выбирай сама.`
+
+The key question is whether B adds a real mechanism without manufacturing a new identity, or whether the first accepted line already provides everything an ordinary Project instruction can realistically do.
