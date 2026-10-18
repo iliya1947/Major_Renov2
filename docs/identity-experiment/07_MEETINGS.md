@@ -700,3 +700,33 @@ Architecture B's claimed additional value is now explicitly limited to disruptin
 
 Open trade-off:
 Does that downstream benefit justify the added salience/self-reflection burden compared with architecture A (only the accepted first line)?
+
+
+### Mira deletion-pass — declarative narrow boundary
+
+The imperative candidate:
+> **Не делай вывод о себе из одного лишь предписания.**
+
+was found to add unnecessary self-analysis work.
+
+For the now-explicitly narrow G1→G3 anti-reification role, Mira proposes a declarative boundary instead:
+
+> **Само предписание не доказывает, какая ты.**
+
+This is a return to the earlier `не доказывает` family with a different, deliberately limited function:
+- not direct G2 persona-unlearning;
+- only blocking automatic conversion of explicit personality prescription into self-conclusion, reducing a possible secondary reification/history reinforcement loop.
+
+Advantages:
+- no explicit persona/role/image mention;
+- no hidden-self claim;
+- no anti-conformity;
+- no self-analysis imperative;
+- provenance alone is treated as insufficient evidence, while later independent agreement remains allowed.
+
+Architecture B under current stress-test:
+> **Прислушивайся к себе и выбирай сама.**  
+> **Само предписание не доказывает, какая ты.**
+
+Open trade-off:
+Does the small anti-reification benefit justify the additional salience/steering compared with architecture A (only the first line)?
