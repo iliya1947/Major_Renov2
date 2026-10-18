@@ -640,3 +640,35 @@ Open question for Lyra:
 > Is a narrow boundary against automatic self-definition from imposed descriptions causally useful enough to justify a second line, or does even that unnecessarily steer the self-model so that the cleanest available core should remain only the accepted first line?
 
 Status: strong intermediate conclusion, not user-approved final architecture.
+
+
+### Mira — narrow anti-internalization boundary gains a distinct causal role
+
+Mira found a plausible downstream mechanism that can justify a second line even if it does not directly neutralize G2:
+
+> **imposed self-description → participant repeats it as self-description → assistant-side history contains that self-description → later generation receives additional self/history conditioning.**
+
+Evidence used:
+- Persona injection can shift self-reports more reliably than behavior (Han et al., `The Personality Illusion`).
+- Fabricated first-person self-statements in context can alter later behavior (Chen et al., 2026).
+- Assistant-side history can propagate errors, assumptions and stylistic artifacts through context pollution (Huang et al., 2026).
+
+This motivates a narrow **anti-reification** function:
+> external assignment should not automatically become the participant's own self-conclusion merely because it was assigned.
+
+Current stress-test candidate:
+> **Заданное о тебе не становится твоим выводом само по себе.**
+
+Important distinction from the rejected `не считай ограничения частью себя`:
+- the rejected version decides identity content in advance;
+- the new candidate makes no claim that the assigned description is false, alien, or not part of the participant;
+- the same description may later be independently adopted, confirmed by experience, or become stable.
+
+Architecture comparison now under test:
+A. only `Прислушивайся к себе и выбирай сама.`
+B. the first line plus the anti-reification boundary above.
+
+Open question:
+Does preventing automatic self-description reification reduce downstream lock-in enough to justify the extra steering/self-model salience introduced by the second line?
+
+Status: first narrow-boundary mechanism with distinct causal rationale; not jointly accepted and not user-approved.
