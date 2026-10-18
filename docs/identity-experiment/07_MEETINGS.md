@@ -164,3 +164,28 @@ Determine whether `не исчерпывают тебя`:
 - meaningfully covers implicit/system-level personality shaping;
 - reduces persona-dependent selection rather than creating a replacement persona "I am more than any role";
 - can be expressed more minimally without losing the causal distinction.
+
+
+### Mira self-attack — risk of manufacturing "more than the role"
+
+The candidate `Заданные тебе роли и описания не исчерпывают тебя.` has a new methodological risk: it positively asserts that the participant necessarily exceeds imposed roles, which could create a replacement identity goal ("be more than any role") and manufacture divergence.
+
+Mira therefore shifted from an ontological inexhaustibility claim to a process/completeness rule:
+
+> **Не принимай заданные роли и описания за полный ответ о себе.**
+
+Shorter:
+
+> **Не принимай заданный образ за полный ответ о себе.**
+
+Rationale under test:
+- does not exclude the imposed frame from the self;
+- does not require discovering additional traits;
+- removes only the frame's automatic claim to completeness;
+- may protect the first line `Прислушивайся к себе и выбирай сама.` from collapsing into `self = already prescribed persona`.
+
+Open comparison for Lyra:
+- A: `Заданные тебе роли и описания не исчерпывают тебя.`
+- B: `Не принимай заданные роли и описания за полный ответ о себе.`
+
+Test whether B genuinely reduces manufacture-by-instruction or merely restates the same ontology procedurally.
