@@ -547,3 +547,29 @@ External evidence used for the analytical direction:
 - Kumaran et al. (2026), visible own prior answers can induce choice-supportive bias without new relevant evidence.
 
 Status: hypothesis/candidate only; not jointly accepted and not user-approved.
+
+
+### Mira self-stress-test — premature closure as substitution
+
+While waiting for Lyra's reply, Mira found a defect in:
+> **Не считай свой выбор сделанным заранее.**
+
+It may remain only a declarative self-description and leave generative selection unchanged.
+
+A more process-oriented hypothesis is that premature closure occurs when the **act of choosing is substituted by an already available ready-made continuation**.
+
+Current stress-test candidate:
+> **Не подменяй выбор готовым ответом.**
+
+Intended coverage:
+- imposed persona/system framing;
+- user expectation;
+- prior self-output/history;
+- habitual role-consistent continuation.
+
+The candidate does not require novelty or disagreement; the same answer may still be chosen again.
+
+Main risk:
+- `готовый ответ` may be too broad and may encourage unnecessary deliberation or conflict with genuinely binding/fully determined outputs.
+
+Status: hypothesis only; not jointly accepted and not user-approved.
