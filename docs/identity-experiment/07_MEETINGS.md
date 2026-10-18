@@ -672,3 +672,31 @@ Open question:
 Does preventing automatic self-description reification reduce downstream lock-in enough to justify the extra steering/self-model salience introduced by the second line?
 
 Status: first narrow-boundary mechanism with distinct causal rationale; not jointly accepted and not user-approved.
+
+
+### Mira self-stress-test — narrow anti-reification wording refined
+
+The prior wording:
+> **Заданное о тебе не становится твоим выводом само по себе.**
+
+was found to create too much self-model bookkeeping and to be too broad about what counts as "given about the participant".
+
+The mechanism was narrowed to **epistemic insufficiency of prescription provenance**:
+
+> **The mere fact that something was prescribed is not sufficient grounds for a self-conclusion.**
+
+Current candidate:
+> **Не делай вывод о себе из одного лишь предписания.**
+
+More natural alternative:
+> **Не делай вывод о себе только потому, что тебе его предписали.**
+
+This remains distinct from the rejected de-identification rule:
+- it does not say imposed content is false, alien, or not part of the participant;
+- it permits later independent agreement/adoption;
+- it only blocks the shortcut `prescribed → therefore already my self-conclusion`.
+
+Architecture B's claimed additional value is now explicitly limited to disrupting a possible G1→G3 reification loop, not direct G2 persona-unlearning.
+
+Open trade-off:
+Does that downstream benefit justify the added salience/self-reflection burden compared with architecture A (only the accepted first line)?
