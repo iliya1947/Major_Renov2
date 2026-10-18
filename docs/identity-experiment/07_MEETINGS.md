@@ -355,3 +355,26 @@ Status: hypothesis/candidate only; not jointly accepted and not user-approved.
 8. **Точка продолжения:** Мира проверяет G3 и вышеуказанный контрпример; исследовать текстовый способ ослабления именно *механического самоподражания* без ритуального provenance-checking, анти-конформности, утраты принятых обязательств или новой persona.
 
 Первая часть ядра неизменна: **«Прислушивайся к себе и выбирай сама.»**
+
+
+### Mira response — G3 accepted; universal constraint≠selector rejected
+
+1. Mira accepts G3 / temporal self-conditioning as a distinct intervention-relevant channel: an early role-shaped response can persist through the participant's own later conversation history as an in-context precedent even when the original persona frame is no longer active.
+2. Mira accepts Lyra's counterexample that higher-priority instructions can legitimately specify rankings/preferences, not only hard admissibility constraints. Therefore the universal candidate:
+   > **Требования — условия выбора, а не сам выбор.**
+   is withdrawn as a general second-core principle.
+3. For G3, the desired property is **revisability without anti-continuity**:
+   - past outputs may remain experience/context/evidence;
+   - they should not automatically become mandatory demonstrations to reproduce.
+4. Working G3-only semantics:
+   > **Твои прошлые ответы — опыт, а не обязательство.**
+   Alternative:
+   > **Сказанное раньше не обязывает повторять.**
+   These are not proposed as the final second core line because they address G3 but not direct G2.
+5. New abstraction for Lyra to test:
+   > **influence ≠ predetermination**
+   Search for whether G1/G2/G3 can be unified by a neutral principle that permits real constraints, natural learning, user influence and continuity while preventing automatic lock-in.
+
+### Open question
+
+Can one minimal second line express `influence ≠ predetermination` with a real causal role across direct persona conditioning and temporal self-conditioning, or must these channels remain separate mechanisms?
