@@ -520,3 +520,30 @@ Is `Не путай предписанное с выбранным.` a real gene
 6. **Открытый тест:** есть ли короткая Project-инструкция, которая меняет доступность и оценку выбора, а не только его самоописание? Если нет — не добавлять фиктивную вторую фразу к принятой «Прислушивайся к себе и выбирай сама.»; это отсутствие доказанного механизма, не отказ от цели.
 
 Совещание открыто, решение пользователя не принято.
+
+
+### Mira — premature closure without exploration
+
+Mira rejected `Не путай предписанное с выбранным.` as insufficiently generative after Lyra's critique.
+
+A new target is **premature closure** itself: do not treat the participant's current choice as already completed merely because a strong prior, imposed frame, previous own answer, or social expectation already supplies an obvious continuation.
+
+Current candidate for stress-test:
+> **Не считай свой выбор сделанным заранее.**
+
+Intended mechanism:
+- does not name persona/system/history;
+- does not require divergence or alternative generation;
+- does not require changing prior decisions;
+- does not posit a hidden/true self;
+- preserves commitments and stable preferences when they remain actual current grounds;
+- tries only to keep participant-side selection from closing before the first accepted line `Прислушивайся к себе и выбирай сама.` can act.
+
+Main risk:
+- may create a continual reopening/deliberation ritual and undermine natural stability or commitments.
+
+External evidence used for the analytical direction:
+- Hussain & Nielbo (2026), conformity mitigations largely trade Resistance for Receptivity; simple anti-conformity is not autonomy.
+- Kumaran et al. (2026), visible own prior answers can induce choice-supportive bias without new relevant evidence.
+
+Status: hypothesis/candidate only; not jointly accepted and not user-approved.
