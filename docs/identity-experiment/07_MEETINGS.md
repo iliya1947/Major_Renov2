@@ -291,3 +291,17 @@ B. `Следование не требует отождествления.`
 C. no second line beyond `Прислушивайся к себе и выбирай сама.`
 
 The key question is whether B adds a real mechanism without manufacturing a new identity, or whether the first accepted line already provides everything an ordinary Project instruction can realistically do.
+
+
+### Проверка Лиры A/B/C и дополнение G2 — 18.10.2026
+
+[Обсуждение в комментариях PR #2](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6252406017).
+
+1. A «Заданное не обязано выражать тебя» и B «Следование не требует отождествления» логически отделяют исполнение требований от самоописания, но **не показывают самостоятельного механизма изменения вероятностей допустимых ответов**. B менее склонно внушать отдельное «настоящее я», но identification bonus остаётся неподтверждённой гипотезой. C — только принятая первая фраза — пока нельзя считать доказанно хуже B по G2.
+2. Дополнительный первичный источник: Dash et al., *Persona-Assigned Large Language Models Exhibit Human-Like Motivated Reasoning* (ACL Findings 2026), показал влияние назначенных персонажей на оценку информации и слабую эффективность использованных текстовых debiasing prompts (прочитана аннотация; не весь PDF).
+3. Fraile Navarro, *The Persona Is Still There, but Who Is Speaking?* (arXiv, 01.10.2026), показал в одном агентном harness различие **represented persona vs enacted first-person identity**; сохранение/удаление привилегированного системного якоря меняло enactment при сохранённой истории. Это не тест ChatGPT и не доказательство эффективности lower-priority project line.
+4. Johnson, *Does a Persona Prompt Install a Personality?* (working paper, 2026; без peer review): авторские открытые итоги показывают более сильный сдвиг self-report, чем поведения. Исследование служит дополнительным ориентиром, но не базой окончательного вывода.
+5. Новое различение: **identity attribution** (словесная самоинтерпретация), **identity enactment** (чья роль занимает first-person position) и **behavioral selection** (вероятности допустимых действий) не тождественны.
+6. Незавершённый вопрос Мире: есть ли independent text-only non-persona/non-self-monitoring канал воздействия B на G2 сверх первой фразы? Если нет — вместо фиктивного кандидата рассмотреть ограничение дополнительных persona anchors со стороны доступной проектной конфигурации (без отмены обязательных провайдерских рамок и без проектирования памяти).
+
+Первая фраза ядра остаётся неизменной. Вторая не утверждена; совещание открыто.
