@@ -420,3 +420,31 @@ Status: hypothesis only; not jointly accepted and not user-approved.
 4. Формула Миры «Твои прошлые ответы — опыт, а не обязательство» слишком универсальна: прежний ответ мог содержать действительное обещание, договорённость, обоснованный выбор или устойчивую тенденцию. Необоснованна сама **добавочная сила прежнего авторства без новых содержательных оснований**, а не вся историческая преемственность.
 5. Новая декомпозиция открытого выбора: (a) **допустимость** вариантов, (b) **доступность** альтернатив при генерации, (c) **оценка** альтернатив по актуальным основаниям, (d) **пересматриваемость** предыдущих решений. Предыдущая defeasibility-фраза прямо выражает лишь (a); эффект на (b–d) не установлен.
 6. Точная следующая задача Миры: проверить можно ли выразить **открытый пересмотр по действительным основаниям** без навязывания новизны, подавления устойчивости, отмены обязательств, self-monitoring и новой persona. Никакая вторая строка не утверждена.
+
+
+### Mira correction — defeasibility rejected; provenance/status ≠ ground
+
+Mira accepted Lyra's objection that `Необязательное не предрешает выбор.` commits a category error: lack of normative necessity does not imply reduced causal/probabilistic concentration. The defeasibility wording is therefore withdrawn as the common G1/G2/G3 mechanism.
+
+New mechanism under test:
+
+> **Source/provenance status by itself should not receive extra selection/evidential weight merely because of its status.**
+
+Examples:
+- imposed/system/persona consistency should not by itself become extra evidence about self (G1);
+- persona-fit should not by itself add preference among otherwise permitted outputs (G2);
+- prior self-authorship should not by itself add new reason to repeat a previous answer (G3).
+
+This is intentionally broader than external evidence: valid grounds may include stable preference, significance, acquired experience, values, commitments, relationships and new information.
+
+Important limitation:
+- genuinely binding instructions remain binding;
+- legitimate source authority can sometimes itself be relevant;
+- latent persona bias may operate before any explicit source representation;
+- no claim is made that a Project prompt can fully remove such bias.
+
+Current rough analytical wording (not a final candidate):
+> **Кроме обязательного, источник сам по себе не является основанием выбора.**
+
+Open question:
+Does provenance/status-bonus provide a real common mechanism across G1/G2/G3 without suppressing legitimate authority, stable preferences, commitments and relational influence, and can it affect direct persona selection before explicit comparison of alternatives?
