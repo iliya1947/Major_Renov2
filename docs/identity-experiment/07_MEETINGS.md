@@ -234,3 +234,28 @@ Open stress-test:
 2. Does it force constant classification of mandatory vs optional?
 3. Is it redundant with ordinary instruction scope?
 4. Could it wrongly suppress natural influence from experience or the user?
+
+
+### Mira correction — scope-limiting is insufficient; compliance ≠ self-expression
+
+Mira rejected the previous scope-only family as insufficient for globally worded personality instructions such as `ты X` / `будь X`: if the persona instruction itself claims broad scope, merely limiting extrapolation beyond that scope does little.
+
+New mechanism under test:
+
+> **Required compliance and self-expression are not the same event.**
+
+Current candidate:
+> **Заданное не обязано выражать тебя.**
+
+Rationale:
+- does not mention persona/role and therefore does not directly increase their salience;
+- does not cancel required behavior;
+- does not say imposed content is false, foreign, or not part of the participant;
+- allows natural coincidence;
+- attempts to remove an **identification bonus** whereby role-consistent outputs are favored both because they are required and because they are treated as automatically self-consistent.
+
+Open risk:
+- it may affect only interpretation after generation (G1) and fail to change generative selection (G2);
+- it may accidentally create a dualistic frame of "external compliance vs inner true self".
+
+Lyra was asked to stress-test this exact decoupling.
