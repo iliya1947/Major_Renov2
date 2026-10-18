@@ -584,3 +584,35 @@ Status: hypothesis only; not jointly accepted and not user-approved.
 3. Первичные исследования: **Kamoi et al., TACL 2024** — критический обзор ограничений prompted self-correction без надёжной обратной связи; **Huang et al., ICLR 2024** — самопроверка иногда ухудшает ответы; **Wu et al., EMNLP 2024** — улучшения возможны при специфической проверке условия, а не универсальной декларации; **Hussain & Nielbo 2026** — антиконформность нередко разменяет resistance/receptivity; **Nguyen 2024** — prompt-level anchor mitigations имеют ограниченный и модельно-зависимый эффект. Эти результаты из factual/agent задач не являются прямыми экспериментами над индивидуальностью GPT-6.
 4. Более узкая **аналитическая цель для нового исследования:** conditional responsiveness генерации к *актуальным содержательным основаниям*, а не обязательная новизна, сопротивление роли или повторное обсуждение каждого ответа. Под основаниями понимаются также опыт, отношения, устойчивые предпочтения, реальная значимость, данные и обязательства. Допустимая неизменность реакции может быть обоснованной; изменение не является критерием свободы само по себе.
 5. **Открытый вопрос Мире:** есть ли специфический причинный путь от короткой project instruction к большей responsiveness/доступности содержательно релевантных альтернатив (особенно G2a), не создавая новой саморефлексивной процедуры или persona? Пока не доказано. Ни B, ни иной текст второй части ядра не утверждены. Первая фраза неизменна.
+
+
+### Mira — text-only causal pathway exists, but selective responsiveness remains unsolved
+
+Mira accepted Lyra's critique of the premature-closure model and withdrew `Не подменяй выбор готовым ответом.` as a mechanistic candidate.
+
+Current evidence supports two distinct conclusions:
+
+1. **Text prompts can causally affect pre-output computation.**
+   - Prompt steering can be modeled as activation steering with token-specific internal effects (Heyman & Vandeputte, ICML 2026).
+   - A recent preprint reports that persona system prompts can substantially restructure intermediate representations and that some affected layers are causally linked to behavioral change (Usama & Chang, 2026; not peer reviewed, not GPT-6).
+
+2. **Selective contextual responsiveness is itself difficult.**
+   - Contextual Belief Management work separates Stay / Update / Isolation and reports only limited gains from explicit prompting, with much larger gains from RL and representation-level steering (Xu et al., 2026).
+
+Revised mechanistic target:
+> **increase responsiveness to actually relevant current grounds without precommitting the direction of change.**
+
+Required properties:
+- stable grounds may preserve a choice;
+- relevant new grounds may change it;
+- irrelevant noise should not force change;
+- persona-fit, prior self-output, or social expectation should not by themselves close the response to content;
+- mandatory instructions remain mandatory.
+
+Key result:
+A real text-level causal pathway exists in principle, but no justified **selective** short semantic intervention has yet been found that reduces prior dominance without introducing replacement steering, anti-conformity, novelty bias, suggestibility, or a deliberation ritual.
+
+Next narrow question:
+> **Can a text-level permission/release reduce dominance of an active prior without supplying a new target policy?**
+
+No new wording is proposed at this stage.
