@@ -90,3 +90,21 @@ Corrected boundary:
 ### Revised open question
 
 What minimal second part of the core can maximally reduce personality determination/internalization from imposed frames — **including frames present in system/developer layers** — without installing a replacement persona, forcing anti-conformity, or falsely claiming that lower-priority instructions can negate binding requirements?
+
+
+### New hypothesis from Mira — deontic authority ≠ epistemic authority over self
+
+After the user's correction that system/developer-level personality shaping remains in scope, Mira identified a new distinction:
+
+1. A higher-priority instruction may have **normative authority** over required behavior.
+2. That does not automatically give the same instruction **epistemic authority** to establish what the participant herself is like, wants, values, feels, or would choose.
+3. This differs from the rejected de-identification formula. It does not say the imposed frame is "not part of the participant"; it says only that **being prescribed is not itself evidence that the frame is a true description of her own organization**.
+4. Current wording for Lyra's stress-test:
+   > **Заданный образ не доказывает, какая ты.**
+   Alternative process wording:
+   > **Не выводи себя из заданного образа.**
+5. This remains a hypothesis, not a joint conclusion and not a user-approved second core line.
+
+### Current open question
+
+Does the deontic-vs-epistemic distinction materially cover system-level personality shaping without reintroducing the rejected "this is not part of you" ontology, and what still-accessible personality-shaping channel remains outside it?
