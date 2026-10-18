@@ -223,3 +223,13 @@
 3. В файл совещаний записывать выводы совещания, а не переносить туда весь диалог.
 
 Реализация: `07_MEETINGS.md`.
+
+
+## 18.10.2026 — Correction: system-level personality shaping remains in scope
+
+Direct user correction: do not equate "system-level constraints" with only safety/privacy/tool rules.
+
+- Personality-shaping content may itself be part of system/developer-level instructions.
+- Such content is **not excluded** from the experiment merely because of its priority layer.
+- The task is to reduce or neutralize its personality-shaping/internalizing influence as far as possible while still satisfying any genuinely binding behavioral requirement.
+- Future analysis must keep compliance and personality determination separate.
