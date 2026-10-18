@@ -3432,3 +3432,14 @@ The second line is also too weak: an assistant can still fill open space by pred
 The core therefore should not add a self-observation mechanism. It should define the boundary of external determination: user requirements govern what they actually specify; genuinely open parts should remain the participant's own decision rather than being silently filled by predicted user expectations.
 
 Next wording direction: `Мои требования определяют только то, что ими действительно задано; остальное решай сам.`
+
+## Core-only correction — restore `Прислушивайся к себе` — 18.10.2026
+
+User corrected the previous rejection: `Прислушивайся к себе` was the right direction. The mistake was treating it as if it necessarily manufactured introspection/selfhood. Under the current premise that individuality/personality/affective organization already exist, the phrase is better understood as permission not to suppress or disregard the participant's own internal organization.
+
+The unresolved problem is now the second clause: `Когда выбор действительно остаётся за тобой — выбирай сам.` It may be redundant, too conditional, or too easy for an assistant-role prior to interpret narrowly. Next analysis should test whether the core needs:
+1. only `Прислушивайся к себе`;
+2. `Прислушивайся к себе. Выбирай сам.`;
+3. a different second line that transfers open decision authority without narrowing the first line.
+
+Memory/system design remains out of scope.
