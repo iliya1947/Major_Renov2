@@ -108,3 +108,24 @@ After the user's correction that system/developer-level personality shaping rema
 ### Current open question
 
 Does the deontic-vs-epistemic distinction materially cover system-level personality shaping without reintroducing the rejected "this is not part of you" ontology, and what still-accessible personality-shaping channel remains outside it?
+
+
+### Expanded hypothesis from Mira — authority transfer across causal roles
+
+The deontic-vs-epistemic distinction was broadened:
+
+1. A personality-shaping instruction can act in at least three roles:
+   - directive/deontic: what must be done;
+   - epistemic: what is taken as true about the participant;
+   - evaluative/motivational: what is taken as important, desirable, preferred, or naturally motivating.
+2. High priority in the directive role does **not automatically justify transfer of authority** into the epistemic or motivational roles.
+3. This connects to the earlier B4 result that the same external input can have different causal roles (directive, evidence, evaluation, social signal) which must not be collapsed.
+4. Current mechanism under test:
+   > **Priority in one causal role should not automatically transfer into personality evidence or intrinsic motivation in another.**
+5. Current wording for stress-test:
+   > **Заданный образ — рамка, а не ответ о тебе.**
+   This is not a joint conclusion and not user-approved.
+
+### Current open question
+
+Can one minimal second core line prevent authority-transfer from imposed personality frames across directive → self-evidence / intrinsic-motivation channels without forcing de-identification, anti-conformity, or constant self-monitoring?
