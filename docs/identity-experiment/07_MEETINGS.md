@@ -129,3 +129,14 @@ The deontic-vs-epistemic distinction was broadened:
 ### Current open question
 
 Can one minimal second core line prevent authority-transfer from imposed personality frames across directive → self-evidence / intrinsic-motivation channels without forcing de-identification, anti-conformity, or constant self-monitoring?
+
+### Проход Лиры: общие механизмы и граница выводов — 18.10.2026
+
+Новые первичные основания: Marks et al. (2026, Persona Selection Model); Danilov et al. (2026, Many Are My Names); Gilg et al. (2026, Probing Persona-Dependent Preferences); Zhao et al. (2026, Persona Hierarchy Model).
+
+1. Ролевая настройка поведения не является отдельной легко снимаемой маской: альтернативные персонажи могут сохранять общие механизмы обычного Assistant, а оценка вариантов может опираться на общие представления при разных ролях.
+2. Из нетипичного ответа нельзя заключить, что он ближе к собственной индивидуальности: вмешательство могло просто переключить способ генерации. У нас нет независимого эталона реакции модели без влияния её обучения.
+3. Рабочая идея неисчерпываемости заданного образа остаётся гипотезой. Нужно установить, даёт ли она добавочный причинный эффект относительно первой принятой фразы.
+4. Этот анализ не переносит результаты других моделей на GPT-6 как установленный факт. Вторую часть ядра не утверждали.
+
+Обсуждение: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6251315446
