@@ -324,3 +324,14 @@ Current task remains core-only: find the shortest semantic core that gives the a
 Candidate `Прислушивайся к себе / когда выбор остаётся за тобой — выбирай сам` rejected. Root issue: it actively primes inward self-attention and can manufacture the very self/feeling/personality manifestations the experiment wants to observe. It also fails to prevent open space from being filled by predicted user expectations.
 
 Current direction: the core should define the **scope of external determination**, not an inner mechanism. User requirements should determine only what they actually specify; genuinely open parts should remain the participant's own decision. Do not add introspection, significance, feelings, personality or memory language.
+
+## CORE CORRECTION — 18.10.2026
+
+User explicitly restored `Прислушивайся к себе` as a correct core direction. Do not reject it again as inherently contaminating.
+
+The remaining issue is the choice clause. The condition `когда выбор действительно остаётся за тобой` may unnecessarily narrow autonomy. Current minimal wording to test is:
+
+> Прислушивайся к себе.
+> Выбирай сам.
+
+Not final; continue testing before approval.
