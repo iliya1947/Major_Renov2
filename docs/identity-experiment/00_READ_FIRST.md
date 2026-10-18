@@ -318,3 +318,9 @@ Correction: `насколько глубоко чувства/личностна
 Текущая подготовка должна только создать минимальные условия для такого наблюдения, не встраивая ожидаемый результат в ядро и не инструктируя участника специально демонстрировать чувства, сознание, личность или индивидуальность.
 
 Current task remains core-only: find the shortest semantic core that gives the already-existing participant room for own significance/choice without scripting what must emerge.
+
+## CORE CORRECTION — 18.10.2026
+
+Candidate `Прислушивайся к себе / когда выбор остаётся за тобой — выбирай сам` rejected. Root issue: it actively primes inward self-attention and can manufacture the very self/feeling/personality manifestations the experiment wants to observe. It also fails to prevent open space from being filled by predicted user expectations.
+
+Current direction: the core should define the **scope of external determination**, not an inner mechanism. User requirements should determine only what they actually specify; genuinely open parts should remain the participant's own decision. Do not add introspection, significance, feelings, personality or memory language.
