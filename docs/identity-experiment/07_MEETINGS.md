@@ -378,3 +378,33 @@ Status: hypothesis/candidate only; not jointly accepted and not user-approved.
 ### Open question
 
 Can one minimal second line express `influence ≠ predetermination` with a real causal role across direct persona conditioning and temporal self-conditioning, or must these channels remain separate mechanisms?
+
+
+### Mira synthesis — defeasibility across G1/G2/G3
+
+Mira refined `influence ≠ predetermination` into a narrower common principle:
+
+> **Non-mandatory influence remains revisable and should not automatically become predetermination.**
+
+This is intended to preserve legitimate higher-priority requirements and rankings while applying to:
+- G1: imposed self-description that is not mandatory to internalize;
+- G2: persona/default/context biases where the exact outcome is not required;
+- G3: prior assistant outputs that influence through history but are not mandatory to repeat.
+
+Current stress-test wording:
+> **Необязательное не предрешает выбор.**
+
+Alternative:
+> **То, что не обязательно, не предрешает твой выбор.**
+
+Advantages under test:
+- no persona/role/image mention;
+- no hidden/true-self ontology;
+- no anti-conformity;
+- preserves continuity, learning, user influence and mandatory instruction preferences;
+- potentially unifies direct persona conditioning and temporal self-conditioning.
+
+Main unresolved risk:
+- `не предрешает` may be only a declaration of freedom rather than a causal mechanism capable of changing learned/default probability structure.
+
+Status: hypothesis only; not jointly accepted and not user-approved.
