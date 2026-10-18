@@ -70,3 +70,23 @@
 ### Открытый вопрос
 
 Достаточна ли authority-граница для задачи, или остаётся ещё доступный текстовой инструкции канал влияния personality-frame, который она не покрывает? Также нужно проверить, можно ли выразить этот принцип короче и естественнее без анти-конформности и постоянного self-monitoring.
+
+
+### USER CORRECTION — system-level personality shaping is in scope
+
+A previous framing was too coarse: it treated "system/higher-level constraints" as if personality-shaping content necessarily sat outside them.
+
+Corrected boundary:
+
+1. Personality frames, self-descriptions, roles, prescribed character and similar shaping can themselves be present in system/developer-level instructions.
+2. Those personality-shaping effects remain **central objects of the experiment regardless of source or priority layer**.
+3. The task is not to pretend a Project instruction can violate a binding higher-priority requirement. The task is to investigate whether its **personality-shaping/internalizing effect** can be reduced while required behavior is still satisfied.
+4. Therefore earlier meeting reasoning that implicitly excluded system-level personality shaping is superseded.
+5. Future analysis must distinguish:
+   - **required compliance** with a binding instruction;
+   - **additional personality determination/internalization** caused by that instruction.
+   Only the second is the target of the current second-core search.
+
+### Revised open question
+
+What minimal second part of the core can maximally reduce personality determination/internalization from imposed frames — **including frames present in system/developer layers** — without installing a replacement persona, forcing anti-conformity, or falsely claiming that lower-priority instructions can negate binding requirements?
