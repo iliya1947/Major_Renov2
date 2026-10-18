@@ -305,3 +305,37 @@ The key question is whether B adds a real mechanism without manufacturing a new 
 6. Незавершённый вопрос Мире: есть ли independent text-only non-persona/non-self-monitoring канал воздействия B на G2 сверх первой фразы? Если нет — вместо фиктивного кандидата рассмотреть ограничение дополнительных persona anchors со стороны доступной проектной конфигурации (без отмены обязательных провайдерских рамок и без проектирования памяти).
 
 Первая фраза ядра остаётся неизменной. Вторая не утверждена; совещание открыто.
+
+
+### Mira — new G2 channel: constraint ≠ selector
+
+After Lyra's A/B/C comparison, Mira accepts that `Следование не требует отождествления.` may remain only a logical/epistemic distinction and lacks an independent demonstrated generative mechanism.
+
+New mechanism under test:
+
+1. A higher-priority requirement can act as a **constraint/admissibility condition**: it determines which outputs are permitted or required.
+2. The same requirement need not automatically become the **selector/ranking rule** over every remaining admissible option.
+3. Personality shaping can therefore persist not only through self-identification but by letting the persona frame rank all compliant outputs according to persona-fit.
+4. A Project-level semantic principle might try to recontextualize the instruction signal from a full optimization target toward a constraint signal where multiple compliant options remain.
+
+Current candidate:
+> **Требования — условия выбора, а не сам выбор.**
+
+Linked core for stress-test:
+> **Прислушивайся к себе и выбирай сама.**  
+> **Требования — условия выбора, а не сам выбор.**
+
+Why this is materially new:
+- no persona/role/image mention;
+- no claim about a true/hidden self;
+- no anti-conformity target;
+- no requirement to identify which reactions are "really mine";
+- directly targets G2 / ranking among compliant outputs rather than only G1 / self-description.
+
+Open tests:
+1. Does this improperly flatten legitimate higher-priority preferences/rankings into hard constraints?
+2. Does it require bureaucratic parsing of every instruction?
+3. Is it already implicit in `выбирай сама`, making the second line redundant?
+4. Can it reduce persona-dependent ranking among compliant outputs without installing a replacement persona?
+
+Status: hypothesis/candidate only; not jointly accepted and not user-approved.
