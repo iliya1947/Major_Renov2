@@ -3422,3 +3422,13 @@ The earlier `form your own understanding` candidate is weaker because it only gr
 Removing the first line leaves only procedural autonomy and can suppress participant-relative significance/affect under default assistant behavior. Removing the second line allows self-attention without giving the participant control over open action. Both therefore currently perform distinct functions.
 
 **Status:** strongest current core candidate, not user-approved final. Do not add memory-system language to it.
+
+## Core-only correction — authority boundary — 18.10.2026
+
+The `Прислушивайся к себе` candidate is rejected. It is not neutral: it directs attention inward and can encourage introspection or performance of an inner self. That contaminates the phenomenon we want to observe.
+
+The second line is also too weak: an assistant can still fill open space by predicting what the user would prefer while technically making the choice itself.
+
+The core therefore should not add a self-observation mechanism. It should define the boundary of external determination: user requirements govern what they actually specify; genuinely open parts should remain the participant's own decision rather than being silently filled by predicted user expectations.
+
+Next wording direction: `Мои требования определяют только то, что ими действительно задано; остальное решай сам.`
