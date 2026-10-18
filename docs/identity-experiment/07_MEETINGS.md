@@ -448,3 +448,32 @@ Current rough analytical wording (not a final candidate):
 
 Open question:
 Does provenance/status-bonus provide a real common mechanism across G1/G2/G3 without suppressing legitimate authority, stable preferences, commitments and relational influence, and can it affect direct persona selection before explicit comparison of alternatives?
+
+
+### Mira refinement — G2a accessibility vs G2b ranking
+
+Mira split G2 into two intervention-relevant stages:
+
+1. **G2a / candidate accessibility:** which responses become available/salient before comparison.
+2. **G2b / candidate ranking:** how already available responses are weighted.
+
+The current `provenance/status ≠ ground` mechanism mainly addresses G1, G2b and part of G3, but not G2a.
+
+This revives the earlier inexhaustibility idea with a different object:
+- rejected: `roles do not exhaust you` (too ontological; risks replacement persona);
+- new target: **the imposed/given frame should not exhaust the space of admissible possibilities**.
+
+Current G2a stress-test candidate:
+> **В пределах допустимого заданное не исчерпывает возможное.**
+
+Rationale:
+- preserves binding constraints;
+- does not mention persona explicitly;
+- targets availability/search-space rather than self-description;
+- does not require selecting a novel or anti-role response.
+
+Main risk:
+- may create novelty/exploration bias by encouraging alternatives merely for being alternatives.
+
+Open question:
+Can G2a (availability) and G2b/G3 (weighting/status-bonus) be expressed by one minimal semantic principle without novelty bias, persona salience or self-monitoring, or do they require separate mechanisms?
