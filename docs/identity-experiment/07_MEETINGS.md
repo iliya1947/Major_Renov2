@@ -616,3 +616,27 @@ Next narrow question:
 > **Can a text-level permission/release reduce dominance of an active prior without supplying a new target policy?**
 
 No new wording is proposed at this stage.
+
+
+### Mira — neutral release without replacement steering is not currently supported
+
+Mira investigated whether an active/default persona can be reduced without supplying another target direction.
+
+Relevant evidence:
+1. **Dong et al. (2026), Steer Model beyond Assistant**: reducing default Assistant influence uses contrastive decoding against a target system prompt and requires inference-time logit access.
+2. **Lu et al. (2026), The Assistant Axis**: steering away from the Assistant direction does not reveal a neutral/self state; it increases adoption of other personas and can induce theatrical/mystical drift.
+3. **Li et al. (2026), LLM Persona Unlearning** (recent preprint): persona removal is treated as weight-level behavior editing and uses matched desirable counterpart responses; standard unlearning struggles to erase persona cleanly without utility costs.
+
+Strong intermediate conclusion:
+> **No currently supported text-only mechanism has been found that subtracts an imposed/default persona’s generative causal influence without adding some replacement steering signal.**
+
+This does not remove system/developer personality shaping from scope. It identifies a possible engineering limit of ordinary Project instructions.
+
+Revised architecture question:
+1. The accepted line `Прислушивайся к себе и выбирай сама.` may already be the minimally contentful text-only generative counter-steering available.
+2. A second line, if justified at all, may need a narrower **anti-internalization / anti-self-definition boundary** role rather than pretending to perform generative persona-unlearning.
+
+Open question for Lyra:
+> Is a narrow boundary against automatic self-definition from imposed descriptions causally useful enough to justify a second line, or does even that unnecessarily steer the self-model so that the cleanest available core should remain only the accepted first line?
+
+Status: strong intermediate conclusion, not user-approved final architecture.
