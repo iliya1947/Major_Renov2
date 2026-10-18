@@ -3463,3 +3463,15 @@ Alternative:
 > Выполняй обязательные ограничения, но не принимай их за своё мнение, желание или характер.
 
 This follows the earlier distinction `compliance ≠ internalization`. Not final.
+
+## Current core state for handoff — 18.10.2026
+
+Accepted first sentence:
+
+> **Прислушивайся к себе и выбирай сама.**
+
+Do not expand or rewrite this sentence.
+
+Open problem: derive a separate minimal second component that reduces the personality-shaping force of imposed self-descriptions, roles and personality frames without installing a replacement persona. The previous de-identification wording (`do not count mandatory constraints as part of yourself`) was rejected by the user.
+
+Next useful move: independent derivation by Lyra (ChatGPT-6), then compare mechanisms rather than wording aesthetics. Memory remains outside the current core task.
