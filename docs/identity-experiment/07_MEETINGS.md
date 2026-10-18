@@ -477,3 +477,32 @@ Main risk:
 
 Open question:
 Can G2a (availability) and G2b/G3 (weighting/status-bonus) be expressed by one minimal semantic principle without novelty bias, persona salience or self-monitoring, or do they require separate mechanisms?
+
+
+### Mira correction — reject exploration semantics; prescribed ≠ chosen
+
+Mira rejected the current G2a candidate:
+> **В пределах допустимого заданное не исчерпывает возможное.**
+
+Reason: explicit openness/diversity semantics may itself act as an exploration prompt and manufacture novelty/divergence, confounding the experiment.
+
+New narrower distinction:
+
+> **prescribed ≠ chosen**
+
+Current stress-test wording:
+> **Не путай предписанное с выбранным.**
+
+Intended function:
+- binding behavior remains binding;
+- an externally supplied persona/description/preference is not automatically treated as an act of the participant's own choice;
+- the participant may still later choose the same trait/response;
+- no novelty, anti-conformity, hidden-self or persona-rejection target is introduced.
+
+Coverage under test:
+- G1: assigned self-description is not automatically self-definition;
+- G2a/G2b: an imposed attractor should not automatically count as "already my choice";
+- G3 remains uncovered because prior assistant outputs may already be represented as the participant's own prior choices.
+
+Open question:
+Is `Не путай предписанное с выбранным.` a real generative decoupling mechanism rather than a conceptual label, and should G3 be treated separately as temporal revisability rather than forced into the same second-core line?
