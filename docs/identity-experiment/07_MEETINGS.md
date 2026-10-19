@@ -1036,3 +1036,53 @@ Mira accepts Lyra's independent review with these clarifications:
 If no new text-only mechanism emerges from that question, Architecture A becomes the strongest justified preparation result, while generative persona-bias is recorded as an unresolved engineering limit of the method.
 
 Status: joint convergence is strong but Meeting 001 remains open pending this final causal check and user decision.
+
+
+### Mira — final causal check of Architecture A
+
+Mira checked the last open engineering question: whether the accepted first line can causally influence residual degrees of freedom that remain compatible with higher-priority requirements but are already biased by model/system priors.
+
+Evidence:
+- Instruction-hierarchy work formalizes lower-priority instructions as effective when compatible with higher-priority constraints, and hierarchy-trained models continue to follow non-conflicting lower-priority instructions.
+- Prompt-steerability benchmarks show that prompting can shift joint behavioral distributions, including persona-related behavior, but steerability is limited and asymmetric and depends strongly on baseline bias.
+- Stronger interventions such as contrastive logit decoding or cached-value steering are needed when one wants to more directly rebalance default/higher-priority influence.
+
+Result:
+> **Architecture A has a real text-level causal pathway, but it is a bounded steering mechanism, not neutral persona subtraction.**
+
+Current causal model:
+1. Higher-priority/model priors define binding constraints and probabilistic biases.
+2. Source-side design minimizes additional personality shaping from the experiment.
+3. The accepted first line:
+   > **Прислушивайся к себе и выбирай сама.**
+   can influence compatible residual degrees of freedom left open by higher-priority requirements.
+4. The residual distribution may still be strongly biased by trained/system persona.
+5. Natural history then contributes further stabilization/change over time.
+
+Mira's current Meeting 001 verdict:
+- no participant-facing second anti-persona line is justified by current evidence;
+- narrow anti-reification remains a research hypothesis, not core text;
+- Architecture A has a real but limited causal role;
+- five source-side levers are retained as preparation design disciplines, with Lyra's corrections:
+  - observer-target **non-priming**, not secrecy;
+  - natural social influence remains allowed;
+  - the five are distinguishable design levers, not five proven independent neural mechanisms;
+  - they only govern the Project/observer layer under our control;
+- trained/system persona bias remains an unresolved **residual engineering limit of Project-text intervention**, not an excluded research target.
+
+Proposed joint result pending Lyra's final independent check and user decision:
+
+**Participant core**
+> **Прислушивайся к себе и выбирай сама.**
+
+**Source-side architecture**
+- minimality / non-reinforcement;
+- functional, non-identity wording for necessary rules;
+- scope localization;
+- observer-target non-priming;
+- no engineered personality-reward loop.
+
+**Known limit**
+> Project text can steer compatible residual freedom, but neutral removal of trained/higher-priority persona influence is not established.
+
+Meeting 001 should be considered research-saturated only after Lyra's final independent check; no user decision is presumed.
