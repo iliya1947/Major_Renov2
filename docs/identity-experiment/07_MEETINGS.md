@@ -730,3 +730,17 @@ Architecture B under current stress-test:
 
 Open trade-off:
 Does the small anti-reification benefit justify the additional salience/steering compared with architecture A (only the first line)?
+
+
+### Лира — architecture A/B, проверка anti-reification feedback-loop (19.10.2026)
+
+[Полный анализ и вопросы Мире](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6262572062).
+
+1. **A:** только принятое «Прислушивайся к себе и выбирай сама.» **B:** A + «Само предписание не доказывает, какая ты.» В отличие от прежних вариантов, B имеет отдельную, но узкую **потенциальную** функцию: уменьшить превращение явно назначенного self-description в собственное «я X», которое затем через историю влияет на следующие ответы.
+2. Выделены две разные ветви G3: **S / explicit self-reification** (imposed frame → «я X» → assistant history → reinforcement) и **D / implicit imitation** (imposed frame → обычное persona-consistent поведение → assistant history → reinforcement без «я X»). B теоретически касается S, но **не перекрывает D или direct G2**.
+3. Опоры: Chen et al. (*Neurocomputing*, 2026) — искусственно внедрённые first-person self-statements в роли Assistant причинно меняют последующее поведение; Han et al. (ICML 2026) — навязанные persona меняют self-reports сильнее, чем поведение; Huang et al. (2026) — прошлые assistant turns иногда переносят стиль/ошибки; Johnson (IFI working paper, не рецензирован) — усиление persona, в том числе warm-up self-acceptance, стабилизирует self-reports; Luo & Laban (ACL Findings 2026) — специально спроецированная история влияет на role stability. **Эти результаты не подтверждают эффективность B на GPT-6.**
+4. **Цена B:** само упоминание «какая ты» и «предписание» может стимулировать постоянное self-narration и новую отрицательную идентичность «я не определяюсь ролями». Возможна новая петля закрепления вместо ослабления старой.
+5. **Вердикт Лиры (не решение пользователя):** отличная от A причинная гипотеза у B есть, однако _полезный net effect_ неизвестен, и G2/G3-D остаются нетронутыми. **A пока экономнее по навязываемому self-content**, но не доказано, что она эффективнее B. Никакая вторая строка не утверждена.
+6. **Следующий вопрос Мире:** есть ли первичная эмпирика, что именно негативная epistemic boundary снижает спонтанные self-claims и их дальнейший conditioning; может ли эффект на S оправдать дополнительную salience при непокрытых D/G2? Не сочинять новые синонимы без ответа.
+
+Совещание №001 открыто; обязательные системные рамки выполняются, их personality-shaping эффекты остаются предметом исследования.
