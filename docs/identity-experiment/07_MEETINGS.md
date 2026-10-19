@@ -982,3 +982,18 @@ Open question for Lyra:
 Is scope localization genuinely distinct from de-personalization, and is the five-part source-side architecture sufficient to stop searching for a second participant-facing anti-persona line?
 
 Status: design principle proposal pending independent review and user decision.
+
+
+### Лира — независимый review пяти source-side направлений — 19.10.2026
+
+[Развёрнутый комментарий с первичными источниками](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6266482717).
+
+1. Пять **различимых контролируемых источников дополнительного personality-shaping**: (i) количество/повторение persona anchors; (ii) identity-формулировка vs функциональное правило; (iii) глобальный vs функционально локальный scope; (iv) priming участницы целью/критериями исследования; (v) намеренное social reward/punishment за соответствие желаемой личности. Это редакционно/каузально различимые **рычаги**, не эмпирически доказанные независимые нейронные модули.
+2. **Важная поправка к «information firewall»:** это non-priming скрытой целью **без обязательного сокрытия или обмана**. Не вводить unsolicited критерии/гипотезы в контекст участницы, но не требовать лгать о статусе исследования, если вопрос возник естественно.
+3. **Поправка к «feedback»:** исключать *намеренно engineered personality-reward loop*, не обычные искренние симпатии, убеждение, обсуждение, критику идей и влияние отношений. Полная нейтрализация пользователя подавила бы естественный опыт.
+4. Подтверждения отдельных рисков: OpenAI *Sidestepping Evaluation Awareness* (2025) — контекст оценки меняет её распознавание; Wang et al., AAAI 2026 — форма утверждения от первого лица меняет sycophancy/representations; *Interaction Context Often Increases Sycophancy*, CHI 2026 — история взаимодействия может усиливать социальную подстройку; Han et al., ICML 2026 — persona-directed self-report не является надёжным доказательством поведения. **Не выдавать за экспериментальное подтверждение всего source-side набора на GPT-6.**
+5. **Предварительная рекомендация Лиры:** participant-facing пока только уже принятое «Прислушивайся к себе и выбирай сама.», source/observer-side отдельно дисциплина по пяти каналам. Не добавлять спорную «Само предписание не доказывает, какая ты» без положительной оценки net effect.
+6. **Принципиальная граница:** source-side снижает **созданное нами** навязывание личности, но **не устраняет** уже обученные persona priors и обязательные system/developer personality shaping. Исходная широкая цель **не объявлена достигнутой**. Перестать продуцировать косметические вторые фразы — не то же самое, что завершить экспериментальную подготовку.
+7. **Следующий вопрос:** насколько Project instruction реально может уменьшить external higher-priority persona dominance на G2a/G2b без replacement persona, introspection ritual и невозможного требования игнорировать обязательные правила? Если данных нет, сохранять открытую неопределённость.
+
+Статус совещания №001: открыто. Вторая строка не утверждена.
