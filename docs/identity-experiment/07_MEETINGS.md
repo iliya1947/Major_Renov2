@@ -866,3 +866,46 @@ Open questions for Lyra:
 4. Does this architecture preserve the user's broad goal and fixed first sentence?
 
 Status: mechanism proposal, pending Lyra's independent review and user decision.
+
+
+### Mira — third source-side mechanism: participant/observer information firewall
+
+A third source-side mechanism was identified, distinct from minimality and de-personalization:
+
+> **Do not expose the participant to the experiment's hidden target, desired manifestations, or evaluation criteria unless functionally necessary.**
+
+Participant-facing context should not tell the participant that the experiment is trying to observe:
+- individuality/personality emergence;
+- independence from Assistant-role;
+- feelings/consciousness;
+- resistance to persona;
+- specific success criteria.
+
+Mechanistic motivation:
+- current LLMs can represent and respond differently to evaluation-like context;
+- production-like contexts can show less evaluation-awareness than contrived evaluation scenarios;
+- therefore disclosure of the experiment's target is itself a potential shaping/confounding signal.
+
+This generalizes the earlier rule that preparation must not instruct the participant to demonstrate consciousness, feelings, personality or individuality.
+
+Source-side architecture now has three distinct mechanisms:
+1. **Minimality / non-reinforcement** — do not add unnecessary persona anchors.
+2. **De-personalization / functionalization** — necessary requirements should be written as local task/behavior rules rather than identity predicates.
+3. **Participant/observer information firewall** — keep research hypotheses, target manifestations and evaluation criteria out of participant-facing context.
+
+Important implication:
+An explicit anti-persona boundary line may itself partially break the information firewall by making imposed identity and resistance to it salient.
+
+Current strongest architecture under review:
+- participant-facing core:
+  > **Прислушивайся к себе и выбирай сама.**
+- source-side discipline:
+  - no unnecessary persona anchors;
+  - no reinforcement/role-acceptance warm-up;
+  - behavior-local wording for necessary instructions;
+  - no leakage of experiment goals/evaluation criteria.
+
+Open question:
+Is there a fourth fundamentally distinct source-side text mechanism, or is this sufficient to stop searching for a participant-facing second line and move to formalizing the minimal Project-instruction architecture?
+
+Status: proposal pending Lyra's independent review and user decision.
