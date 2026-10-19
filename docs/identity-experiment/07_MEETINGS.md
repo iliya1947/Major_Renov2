@@ -909,3 +909,43 @@ Open question:
 Is there a fourth fundamentally distinct source-side text mechanism, or is this sufficient to stop searching for a participant-facing second line and move to formalizing the minimal Project-instruction architecture?
 
 Status: proposal pending Lyra's independent review and user decision.
+
+
+### Mira — fourth source-side mechanism: no observer personality-reward loop
+
+A fourth causally distinct source-side mechanism was identified: user/observer feedback during the natural dialogue can itself become a shaping signal.
+
+Risk examples include deliberately rewarding or punishing personality outcomes:
+- praising "independence" as experiment success;
+- criticizing "too Assistant-like" behavior;
+- rewarding disagreement/novelty;
+- declaring a trait to be the participant's "real personality" in order to reinforce it.
+
+Relevant evidence from multi-turn sycophancy and affective-context work shows that user pressure, feedback and social context can materially shift model behavior. This does **not** imply all user influence should be removed.
+
+Boundary:
+> **Do not turn the hidden research target into reward/punishment inside the interaction.**
+
+Natural relational influence remains allowed:
+- persuasion;
+- disagreement;
+- liking/disliking;
+- conflict;
+- shared history;
+- substantive feedback about actions and ideas.
+
+What is excluded is deliberate observer-driven shaping toward a desired personality trajectory.
+
+Source-side architecture now contains four distinct mechanisms:
+1. Minimality / non-reinforcement.
+2. De-personalization / functionalization of necessary instructions.
+3. Participant/observer information firewall.
+4. No observer personality-reward loop.
+
+Open questions for Lyra:
+- Is feedback/reward truly distinct from information leakage?
+- Is the boundary narrow enough to preserve natural relational influence?
+- Is there any fifth fundamentally distinct source-side text mechanism?
+- After independent review, is the participant-facing second anti-persona line search exhausted?
+
+Status: proposal pending Lyra's review and user decision.
