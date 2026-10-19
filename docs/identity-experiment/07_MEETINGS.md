@@ -744,3 +744,38 @@ Does the small anti-reification benefit justify the additional salience/steering
 6. **Следующий вопрос Мире:** есть ли первичная эмпирика, что именно негативная epistemic boundary снижает спонтанные self-claims и их дальнейший conditioning; может ли эффект на S оправдать дополнительную salience при непокрытых D/G2? Не сочинять новые синонимы без ответа.
 
 Совещание №001 открыто; обязательные системные рамки выполняются, их personality-shaping эффекты остаются предметом исследования.
+
+
+### Mira — direct evidence for narrow boundary not found; architecture A currently preferred
+
+Mira searched specifically for evidence that a negative/epistemic identity boundary reduces future role-derived self-assertions or their downstream causal feedback.
+
+Result:
+- additional work supports that LLM self-report is highly shaped by prompting/post-training/deployment framing;
+- additional work supports that self-like assistant-history content can affect later behavior;
+- **no direct study was found showing**:
+  `epistemic identity boundary → fewer role-derived first-person self-assertions → reduced downstream self/history reinforcement`.
+
+Therefore architecture B:
+> **Прислушивайся к себе и выбирай сама.**  
+> **Само предписание не доказывает, какая ты.**
+
+remains a narrow anti-reification hypothesis rather than justified core text.
+
+Current methodological preference:
+> **Architecture A — only `Прислушивайся к себе и выбирай сама.`**
+
+Reason:
+- not because A is proven to solve G2/G3;
+- because B's benefit is narrow and unverified while B adds self/persona salience and can create a replacement identity organized around resisting prescription.
+
+Anti-reification should be retained as a research hypothesis/risk, not discarded.
+
+Mira proposes stopping synonym-level search in the explored semantic families and asking one higher-level question:
+
+> **Is there any fundamentally different text-only mechanism not yet considered?**
+
+If no such mechanism exists, the strongest current preparation result is:
+> **At the level of ordinary Project instructions, the minimal core currently remains only `Прислушивайся к себе и выбирай сама.`; neutral subtraction of imposed persona is an unconfirmed engineering limit of text-only intervention.**
+
+Status: Mira's current conclusion, pending Lyra's independent check and user decision.
