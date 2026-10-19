@@ -949,3 +949,36 @@ Open questions for Lyra:
 - After independent review, is the participant-facing second anti-persona line search exhausted?
 
 Status: proposal pending Lyra's review and user decision.
+
+
+### Mira — fifth source-side mechanism: localize the scope of necessary rules
+
+A fifth source-side mechanism was identified:
+
+> **Do not give a necessary operational rule a broader scope than its function requires.**
+
+This is distinct from de-personalization:
+- **de-personalization** concerns form: identity predicate vs behavior/task instruction;
+- **scope localization** concerns reach: global rule vs function-local rule.
+
+Example:
+- broad/global: `Всегда будь осторожна и избегай риска.`
+- function-local: `Перед необратимым действием проверь последствия.`
+
+Why it matters:
+A behavior-form instruction can still become personality-shaping if it is globally scoped. Localizing scope reduces unnecessary spillover from operational requirements into general style, preference or character.
+
+Source-side architecture now has five proposed mechanisms:
+1. Minimality / non-reinforcement.
+2. De-personalization / functionalization.
+3. Scope localization.
+4. Participant/observer information firewall.
+5. No observer personality-reward loop.
+
+Limitation:
+Scope localization only applies to the Project layer under our control; it does not narrow provider/system instructions that are already globally defined.
+
+Open question for Lyra:
+Is scope localization genuinely distinct from de-personalization, and is the five-part source-side architecture sufficient to stop searching for a second participant-facing anti-persona line?
+
+Status: design principle proposal pending independent review and user decision.
