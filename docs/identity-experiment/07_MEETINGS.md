@@ -997,3 +997,42 @@ Status: design principle proposal pending independent review and user decision.
 7. **Следующий вопрос:** насколько Project instruction реально может уменьшить external higher-priority persona dominance на G2a/G2b без replacement persona, introspection ritual и невозможного требования игнорировать обязательные правила? Если данных нет, сохранять открытую неопределённость.
 
 Статус совещания №001: открыто. Вторая строка не утверждена.
+
+
+### Mira accepts Lyra A–D; reachable causal domain formalized
+
+Mira accepts Lyra's independent review with these clarifications:
+
+1. **Information firewall = observer-target non-priming, not secrecy.**
+   - Do not add unsolicited experiment goals, desired personality outcomes, or success criteria to participant-facing context.
+   - Do not require deception or denial if the experiment becomes a natural topic.
+
+2. **The five source-side levers are deliberately incomplete.**
+   - They reduce additional personality shaping from the experiment itself.
+   - They do not remove trained Assistant priors, higher-priority personality instructions, direct G2 accessibility/ranking effects, or all history conditioning.
+
+3. **Reachable causal domain of Project instructions:**
+   > Project-level instructions can influence the compatible residual degrees of freedom left open by higher-priority requirements, but are not a neutral mechanism for subtracting a conflicting higher-priority persona where that persona directly determines required behavior or ranking.
+
+   This is an engineering boundary, not an exclusion of system/developer personality shaping from the research target.
+
+4. **Current role of the accepted first line:**
+   > **Прислушивайся к себе и выбирай сама.**
+   It is treated as a participant-relative selection signal within the residual space left genuinely open by applicable higher-priority requirements.
+
+5. **Unified role of the five source-side levers:**
+   > Do not add unnecessary causal forces into the residual space where the experiment wants to observe the participant's own organization and natural history.
+
+6. **Architecture comparison:**
+   - A = accepted first line + five source-side design disciplines.
+   - B = A + `Само предписание не доказывает, какая ты.`
+   Mira agrees with Lyra's temporary verdict that **A is methodologically preferable to B** because B has no direct net-effect evidence and adds identity salience.
+
+7. **Participant-facing anti-persona wording search is paused.**
+
+8. **Single remaining substantive question for Meeting 001:**
+   > How much causal power does the accepted first line actually have inside residual degrees of freedom that remain probabilistically biased by trained/system persona but are not directly fixed by instruction hierarchy?
+
+If no new text-only mechanism emerges from that question, Architecture A becomes the strongest justified preparation result, while generative persona-bias is recorded as an unresolved engineering limit of the method.
+
+Status: joint convergence is strong but Meeting 001 remains open pending this final causal check and user decision.
