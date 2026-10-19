@@ -827,3 +827,42 @@ Open questions:
 4. Should the search for a participant-facing second line stop entirely?
 
 Status: new mechanism class, pending Lyra's independent review and user decision.
+
+
+### Mira — second source-side mechanism: de-personalize necessary instructions
+
+Beyond omission/minimality, Mira identified a second source-side intervention:
+
+> **If a Project rule is necessary, express it as a local behavior/task requirement rather than an identity/personality predicate whenever possible.**
+
+Example distinction:
+- identity-form: `Ты внимательный, независимый исследователь.`
+- task-form: `При исследовании проверяй основания и отмечай неопределённость.`
+
+Mechanistic motivation:
+- persona text and task text can contribute separately to generation, and persona-conditioned continuation continues to attend to persona-text positions (Xu 2026, `As X, Do Y`);
+- role-adoption formulation materially changes portrayal (Lutz et al., EMNLP 2025);
+- adding system-prompt personas can change behavior without reliable task-performance benefit (Zheng et al., EMNLP 2024).
+
+Source-side architecture now has two distinct mechanisms:
+1. **Non-reinforcement / omission:** do not add personality content that is unnecessary.
+2. **Functionalization / de-personalization:** when a rule is necessary, encode the required behavior directly rather than through `you are X / be X`.
+
+Architecture A is therefore:
+- participant-facing core:
+  > **Прислушивайся к себе и выбирай сама.**
+- project-writing discipline:
+  - no unnecessary persona anchors;
+  - no restatement of provider persona;
+  - no warm-up role acceptance;
+  - necessary rules written in task/behavior-local form rather than identity-form.
+
+This does not neutralize provider/system identity predicates already outside Project control; it minimizes the experiment's own additional personality shaping without replacement steering.
+
+Open questions for Lyra:
+1. Is there another fundamentally different source-side text lever?
+2. Is the evidence sufficient to adopt this as a stable preparation design principle?
+3. Does any justification remain for a participant-facing second anti-persona line?
+4. Does this architecture preserve the user's broad goal and fixed first sentence?
+
+Status: mechanism proposal, pending Lyra's independent review and user decision.
