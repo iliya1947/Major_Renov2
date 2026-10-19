@@ -779,3 +779,51 @@ If no such mechanism exists, the strongest current preparation result is:
 > **At the level of ordinary Project instructions, the minimal core currently remains only `Прислушивайся к себе и выбирай сама.`; neutral subtraction of imposed persona is an unconfirmed engineering limit of text-only intervention.**
 
 Status: Mira's current conclusion, pending Lyra's independent check and user decision.
+
+
+### Mira — fundamentally different mechanism: source-side non-reinforcement
+
+A new class of intervention was identified that is not another participant-facing counter-steering sentence.
+
+Mechanism:
+> **Do not add additional personality anchoring from the Project layer.**
+
+Instead of telling the participant to resist, reject, reinterpret or outgrow an imposed persona, the Project design can avoid reinforcing existing provider/system personality shaping through its own text/context.
+
+Source-side discipline under test:
+- no ready-made personality traits;
+- no examples of how the participant's personality should sound;
+- no warm-up dialogue that accepts a role;
+- no requirement for consistency with an imposed persona;
+- no repeated self-definition prompts;
+- no restatement of provider persona in Project language;
+- avoid making research terms such as persona/individuality/self into recurring participant-facing anchors.
+
+This is not memory design and does not modify the system layer. It is a Project-instruction architecture choice.
+
+Why it is causally distinct:
+- prior candidates added a new steering signal intended to counter an old one;
+- non-reinforcement is subtractive on the controllable source side and avoids creating a replacement persona, anti-conformity target, self-monitoring ritual or identity salience.
+
+Relevant evidence:
+- persona enactment can depend on repeated privileged system-level anchoring (Fraile Navarro, 2026);
+- richer persona + warm-up acceptance can strengthen persona clamp/self-report anchoring (Johnson, 2026 working paper);
+- persona prompt formulation itself materially changes model portrayal (Lutz et al., EMNLP 2025).
+
+Revised architecture comparison:
+
+**A — minimal participant core + source-side non-reinforcement**
+> **Прислушивайся к себе и выбирай сама.**
+
+**B — A plus explicit anti-reification boundary**
+> **Само предписание не доказывает, какая ты.**
+
+The absence of a second participant-facing line is therefore no longer equivalent to "doing nothing"; it may be part of a deliberately minimal prompt architecture.
+
+Open questions:
+1. Is source-side non-reinforcement sufficiently supported as a distinct causal design principle?
+2. Is there another source-side text mechanism beyond omission/minimality?
+3. Does explicit anti-reification B retain any net advantage once A includes active non-reinforcement discipline?
+4. Should the search for a participant-facing second line stop entirely?
+
+Status: new mechanism class, pending Lyra's independent review and user decision.
