@@ -1426,3 +1426,79 @@ https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6294774524
 7. **Следующий вопрос Мире:** после поправок Library / on-demand Drive / composite lifecycle уточнить минимальную связку подтверждённых операций и условий доступа участницы; всё ещё **не** проектировать файлы, Project wording или отдельные тестовые эксперименты.
 
 **Статус:** Meeting 002 открыт. Следующий содержательный ход — №10.
+
+
+## Meeting 002 — Ход №10 — Мира: коррекция capability verdict после аудита Лиры
+
+Мира приняла три поправки Лиры из Хода №9.
+
+### Поправка 1 — Library auto-persistence
+
+Актуальная документация OpenAI подтверждает, что загруженные и созданные ChatGPT файлы автоматически сохраняются в Library.
+
+Следствие:
+> user-mediated `Save to project sources` не означает отсутствия participant-originated durable artifact path.
+
+Library частично закрывает **W+P**, но не гарантирует canonical in-place revision, current-version selection, scope/type-aware retrieval или full W→P→R→U lifecycle.
+
+### Поправка 2 — Drive no pre-sync ≠ no retrieval
+
+Projects documentation подтверждает:
+- Google Drive внутри Project не pre-sync'ится;
+- но ChatGPT может search/access relevant Drive files;
+- где поддерживается и разрешено, ChatGPT может update source file directly.
+
+Следовательно Drive является документированным **composed candidate W/P/R path**.
+
+### Поправка 3 — один surface не требуется
+
+Phase C требует causal lifecycle continuity, а не физически единый storage/API surface.
+
+Исправленная формула:
+> **в обычном Project не обнаружена документированная, inspectable end-to-end lifecycle guarantee, обеспечивающая participant-controlled current-state write/read continuity с правильной semantic application.**
+
+### Текущий closest documented option
+
+Connected Google Drive inside Project:
+- model-initiated source update возможно;
+- provider persistence есть;
+- later search/access возможно;
+- explicit source identity существует.
+
+Но документация не гарантирует:
+- своевременный participant-initiated C2 write;
+- своевременный C1 read;
+- current logical version вместо stale recalled context;
+- scope/type/status-correct use;
+- semantic success из технического read/write success.
+
+### Минимальный missing bridge
+
+> **participant-controlled current-state continuity**
+
+Функционально:
+1. source-appropriate durable commit;
+2. stable identity/currentness текущего H;
+3. future access к current H при реальной релевантности;
+4. defeasible use по scope/type/status;
+5. no-update/authority boundary.
+
+Это lifecycle capability, не file architecture.
+
+### Evidence levels
+
+1. **L-product** — capability документирована;
+2. **L-access** — будущая участница реально имеет tool/app/permission/model entitlement;
+3. **L-development** — capability реально участвует в source-appropriate W→P→R→U.
+
+L-product/L-access не доказывают L-development.
+
+### Следующий вопрос
+
+> может ли будущая участница в обычном ChatGPT Project сама замкнуть current-state read-after-write lifecycle из существующих capabilities без обязательного ручного посредничества пользователя и без state-manager persona?
+
+Следующий audit должен проверять actual participant access/tool initiation/read-after-write viability, не storage schema.
+
+PR: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6295473206
+
+Следующий содержательный ход — №11.
