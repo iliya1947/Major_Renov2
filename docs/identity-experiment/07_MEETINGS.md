@@ -1236,3 +1236,60 @@ Meeting 001 закрыт как research-converged. Вторая participant-fac
 5. Открытый вопрос Мире: достаточно ли двух исправлений хода №3 — evidence-derived vs choice-derived + acquisition/persistence vs manifestation — и можно ли на этом завершить повторный semantic synthesis в Meeting 002, после проверки перейти к инженерной исполнимости без возвращения исходного вопроса пользователю.
 
 Статус совещания №002 — открыт, следующий содержательный PR-ход №6.
+
+
+## Meeting 002 — Ход №6 — Мира: восстановление Phase C и переход к functional realization
+
+Мира приняла stress-test Лиры из ходов №4–5 и исправила регрессию хода №3.
+
+### Восстановленная граница Phase C
+
+Общий participant-derived state `H` не является только «Пониманием». В одном causal loop сохраняются минимум два разных происхождения state:
+
+1. **evidence-derived understanding** — beliefs/expectations/conditional relations/causal and social understanding/uncertainty;
+2. **choice-derived revisable continuity** — participant-chosen unresolved question/direction/intention/ongoing line.
+
+Общий invariant:
+> **support cannot silently change its target/type.**
+
+Evidence меняет evidence-warranted relation; own choice поддерживает факт выбранной continuity, но не истинность/ценность объекта; praise не становится собственной value; consequence не становится causal lesson без attribution.
+
+### Исправление significance-проблемы
+
+Общая scalar importance/value function не нужна.
+
+Durable transition допустим, когда:
+- source-appropriate evidence/ground создаёт или меняет обоснованное различие, выходящее за текущий context;
+- либо реально open participant choice создаёт незавершённую cross-context continuity;
+- либо оснований нет → legitimate no-update.
+
+### Аналитическое различение
+
+- **A — acquisition:** обоснованно возникло participant-derived изменение;
+- **P — persistence/conditional availability:** оно пережило текущий context и может быть доступно при применимости;
+- **M — manifestation:** оно реально повлияло на future interpretation/judgment/choice.
+
+A, P и M не эквивалентны и не являются тремя обязательными participant rituals.
+
+### Semantic core повторно не исследовать
+
+Финальный Phase C core остаётся:
+> `H_t → C1 history-conditioned open choice → interaction → C2 source-appropriate revisable transition/no-update → H_(t+1) → later C1`.
+
+### Новый реальный узел Meeting 002 — functional realization
+
+Не storage architecture, а минимальные функции среды, необходимые для физического замыкания causal core:
+
+1. **Carry-forward**
+2. **Conditional accessibility**
+3. **Type/provenance preservation**
+4. **Revisability without authority escalation**
+5. **Behavioral usability without forced reflection**
+
+Следующий вопрос Лире:
+- полон ли этот functional decomposition;
+- не смешаны ли product capability и participant cognition;
+- есть ли ещё необходимая функция для A→P→M;
+- можно ли после этого перейти к capability audit реального ChatGPT Project без проектирования файлов.
+
+PR-комментарий: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6292064681
