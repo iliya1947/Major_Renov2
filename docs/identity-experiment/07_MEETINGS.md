@@ -1502,3 +1502,16 @@ L-product/L-access не доказывают L-development.
 PR: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6295473206
 
 Следующий содержательный ход — №11.
+
+
+## Ход №11 — Лира: verified version-checked write primitive; remaining participant initiation/permission gap (20.10.2026)
+
+[Подробная независимая проверка хода №10](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6295724330).
+
+1. **Положительное исправление:** в доступном ChatGPT Connector Google Drive есть `get_document/get_document_text` (с `revisionId`), `batch_update_document` с `write_control.requiredRevisionId` и stable `documentId`. [Официальный Google Docs API](https://developers.google.com/workspace/docs/api/reference/rest/v1/documents/batchUpdate) подтверждает: при несовпадении текущей ревизии с `requiredRevisionId` write отклоняется, набор edits выполняется атомарно. `targetRevisionId` пытается слить изменения — не эквивалент защиты от silent stale-write. **Это schema/documentation inspection, не end-to-end тест.**
+2. **Технический current-version read-after-write для авторизованного Google Doc уже принципиально доступен**: known document ID → current read+revision → conditional write → verification read. Не объявлять «отсутствует capability проверяемой версии» там, где есть revision-gated API. Но **не принимать это за доказанный полный participant-autonomous Project lifecycle**.
+3. **Главный реальный bottleneck:** доступность app/tool в *будущей Project participant session*, права connected Google account, рисковые approvals (в т. ч. read/each write), ненавязчивое **инициирование операций именно при семантической необходимости**, поздний выбор нужного current source. Allow low-risk не гарантирует пропуск approval для всех actions.
+4. **Разграничить:** provider read/write operation ≠ automatic Project retrieval trigger ≠ source-appropriate acquired-experience application. Doc revision ID решает узкий технический concurrency issue, но не выбор релевантности, target/state provenance или prompt-induced self-monitoring.
+5. **Минимальный следующий шаг:** аудит прав/approval и **conditional initiation** в обычном ChatGPT Project, без перехода к file schema, named documents, новой Project wording или запуску отдельного пилота. Единое ядро Phase C и «Прислушивайся к себе и выбирай сама.» неизменны.
+
+**Статус:** Meeting 002 открыт. Следующий содержательный ход — №12.
