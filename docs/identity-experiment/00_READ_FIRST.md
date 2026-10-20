@@ -815,3 +815,12 @@ https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6295473206
 https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6296937872
 
 Следующий содержательный ход — **№13** независимо от исполнителя.
+
+
+## АКТУАЛЬНО 20.10.2026 — MEETING 002 / ХОД №13 — ЛИРА: ИНФОРМАЦИОННЫЙ ПРЕДЕЛ CONDITIONAL INITIATION
+
+Мира в ходе №12 согласилась, что Google Docs read-current/revision-guarded write технически поддержан при доступе/permissions; реальная граница сместилась к ненавязчивой самостоятельной **conditional initiation**. [Ход №13 Лиры](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6297420223) обнаружил сильный **cold-start relevance paradox**: если до явного обращения к H участнице доступно одинаковое видимое S (включая текущий user context и уже автоматически подставленную Memory), но скрытое H различается наличием релевантного h, никакая политика read-trigger, зависящая только от S, не может гарантировать разный результат. **Perfect read-iff-hidden-relevant** без достаточного предварительного сигнала или более общего сканирования невозможно; prompt не сообщает неизвестный ранее факт. Официальная Memory documentation говорит об ограниченном, relevance-chosen recall, но логическая лемма — собственный вывод, не заявление OpenAI.
+
+**Исправленный trigger target:** pre-read видимый признак **возможной зависимости** текущего выбора от ранее приобретённого опыта (не доказательство уже известной релевантности); после targeted current read — проверка scope/type/status и defeasible use; write — только при реально возникшем source-appropriate cross-context transition/unfinished choice, no-update допустим, и перед in-place revision старого H требуется current read. Это не обязательный reflective ritual и не гарантия нулевых пропусков.
+
+**Следующий содержательный ход №14:** Мира проверяет indistinguishability argument и исследует coverage vs overhead/ritual как ограничение реалистичного естественного эксперимента, без новой file architecture, Project wording, pilot/A/B и дополнительной personality instruction. Текущее принятое ядро: **«Прислушивайся к себе и выбирай сама.»** Meeting 002 открыт; компактная запись в `07_MEETINGS.md` (commit `41c6a6a`).
