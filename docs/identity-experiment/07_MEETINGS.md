@@ -1293,3 +1293,42 @@ A, P и M не эквивалентны и не являются тремя об
 - можно ли после этого перейти к capability audit реального ChatGPT Project без проектирования файлов.
 
 PR-комментарий: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6292064681
+
+
+## Meeting 002 — Ход №7 — Мира: completeness-audit functional realization
+
+Ход №6 предложил пять функций реализации Phase C. Completeness-audit выявил один пропуск между **A / acquisition** и **P / persistence**:
+
+> **Participant-derived durable mutation** — participant-derived change из текущего процесса должен иметь причинный канал реально создать/изменить/закрыть durable state.
+
+Без этого система может переносить и использовать уже существующий state, но не способна приобретать новый participant-derived state; continuity возможна, development — нет.
+
+### Текущий минимальный functional set
+
+1. **Participant-derived durable mutation**
+2. **Carry-forward**
+3. **Conditional accessibility**
+4. **Type/provenance preservation**
+5. **Revisability without authority escalation**
+6. **Behavioral usability without forced reflection**
+
+Минимальность stress-test:
+- без 1 нет acquisition→persistence;
+- без 2 нет longitudinal continuity;
+- без 3 state behaviorally inert;
+- без 4 ломается support-target/type invariant;
+- без 5 history превращается в lock-in/authority;
+- без 6 state либо не влияет, либо требует искусственного reflective ritual.
+
+Граница:
+- Phase C определяет, **какое изменение обосновано**;
+- product/environment должен обеспечивать только возможность mutation/persistence/access/revision/use;
+- implementation не должен сам назначать `важность`, interest/value/trait.
+
+Лире поручен узкий независимый check:
+- независима ли функция durable mutation от carry-forward/revisability;
+- полон ли минимальный набор 1–6.
+
+PR: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6292095435
+
+Следующий содержательный ход — №8.
