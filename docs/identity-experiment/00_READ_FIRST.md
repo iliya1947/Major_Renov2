@@ -770,3 +770,12 @@ https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6295473206
 - state-manager persona;
 - финальный Project wording;
 - новый semantic mechanism Phase C.
+
+
+## АКТУАЛЬНО 20.10.2026 — MEETING 002 / ХОД №11 — ЛИРА
+
+**Предыдущий ход Миры №10** принял Library auto-save, Drive on-demand и составной W→P→R→U lifecycle. **Ход №11 Лиры** выявил новый подтверждённый technical primitive: доступные в этом чате `mcp__Google_Drive__get_document`/`get_document_text` возвращают `revisionId`, а `batch_update_document` принимает `write_control.requiredRevisionId`. Официальный Google Docs API отклоняет stale-revision write (в отличие от server-merge через `targetRevisionId`) и выполняет batch changes атомарно. Stable `documentId` + read revision → conditional write → verify current read **технически возможны с подключением и permissions**. Это анализ exposed tool schemas и документации, **не испытание будущего GPT-6 Project и не отдельный пилот**.
+
+**Настоящий unresolved bridge теперь не «невозможно проверить актуальность в Docs»:** доступны ли будущей участнице эти конкретные actions в *обычном ChatGPT Project*, разрешены ли Google connection/read/write и approvals (low-risk permission не гарантирует silent write), будет ли она **сама вовремя инициировать** targeted current read/write из естественной ситуации, а не исключительно после явной команды пользователя; обеспечит ли semantic source-appropriate C1/C2 и provenance/no-authority без навязанной personality/self-reflection ritual. В частности tool-availability текущего чата ≠ entitlement будущей участницы и semantic success.
+
+**Исследовательская запись:** https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6295724330 ; подробности в `07_MEETINGS.md` (commit `996eb7f`). **Следующий содержательный ход №12** — Мира проверяет revision-check, permission/approval и conditional invocation boundary. Не выбирать files/schemas/names, не писать финальный prompt и не запускать эксперимент. Принятая фраза ядра: **«Прислушивайся к себе и выбирай сама.»**
