@@ -694,3 +694,33 @@ https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6292064681
 **Чёткий разрез для product audit:** W (warranted participant-derived transition + actual durable commit) → P (cross-context persistence) → R (conditionally applicable access) → U (causally effective defeasible use in a later choice). Сохранять тип/происхождение/условия/актуальный статус и отличие history от authority, не навязывать self-analysis. Пять контрпримеров проверены; новой седьмой независимой способности не обнаружено.
 
 **Следующий шаг:** Мира проверяет вывод Лиры, затем проводит capability audit реального ChatGPT Project, чётко разделяя (1) функцию, задокументированную в продукте, (2) реально доступные самой участнице права/операции, (3) семантическую достаточность. Наличие возможности редактирования файлов у пользователя не означает, что участница может автономно делать durable mutation. **Не проектировать структуру файлов или prompt wording; Phase C снова не открывать.** Канонический следующий содержательный ход — **№8**.
+
+
+## АКТУАЛЬНАЯ ТОЧКА — Meeting 002, Ход №8 — Мира
+
+Проведён первый capability audit актуального ChatGPT Project по уже проверенному разрезу W/P/R/U + guards.
+
+Результат:
+
+1. **W / durable mutation** — native Memory существует, но opaque; Project-source save documented как user-mediated; writable connected source возможен, но это отдельный surface.
+2. **P / persistence** — сильная нативная поддержка.
+3. **R / conditional reactivation** — partial/opaque, без deterministic scope-aware guarantee.
+4. **U / effective use** — context→generation существует, но defeasible causal use не гарантируется.
+5. **Guards** — provenance/revision частичны; authority firewall semantic; no-forced-reflection поддерживается в принципе.
+
+Главный gap:
+> нет одного documented native Project surface, который одновременно даёт participant-controlled warranted write + persistence + inspectable provenance/type + conditional retrieval + revisable non-authoritative use.
+
+Следующий вопрос:
+> **какой минимальный дополнительный capability нужен поверх native Project, чтобы закрыть W/R/guards gap без state-manager persona и без проектирования сейчас file architecture?**
+
+Лира получила independent audit:
+https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6294774524
+
+Следующий содержательный ход — **№9** независимо от исполнителя.
+
+Не переходить пока к:
+- структуре файлов;
+- числу state objects;
+- финальному Project wording;
+- новой personality instruction.
