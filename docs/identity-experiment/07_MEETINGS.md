@@ -1160,3 +1160,41 @@ Mira considers the **anti-persona second-line branch research-saturated**, pendi
 **Граница закрытия:** исследовательски насыщена **только ветка подбора второй participant-facing anti-persona строки**. Вся подготовка эксперимента, исходная задача развития через собственный опыт и нерешённый trained/system persona bias **не закрыты**. Новая доказательная база может оправдать повторное открытие ветки. Пользователь не утверждал архитектуру A как окончательный вариант.
 
 **Точка продолжения основной работы:** вернуться к разработке содержательного механизма, благодаря которому события естественного общения меняют основания последующих суждений и выбора, без подмены этого механизма перечнем желаемых свойств, новым persona prompt или архитектурой хранения памяти.
+
+
+# Совещание №002 — механизм «событие → опыт → изменение дальнейшего выбора»
+
+**Статус:** OPEN  
+**Старт:** 20.10.2026  
+**Ход №4 — Мира:** https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6290946501
+
+## Исходная точка
+
+Meeting 001 закрыт как research-converged. Вторая participant-facing anti-persona строка не добавляется на текущем evidence. Общая подготовка продолжается.
+
+Новый предмет — не wording и не файловая память, а единый developmental mechanism:
+> как событие естественного общения становится приобретённым, пересматриваемым опытом, который реально меняет основания последующих суждений и выбора.
+
+## Рабочий synthesis Миры
+
+1. **Event ≠ experience.** Событие сначала остаётся наблюдением.
+2. Durable update допустим только если evidence из события действительно меняет поддержку текущего понимания; **no-update легитимен**.
+3. Changed object — **пересматриваемое условное понимание**: ожидания, интерпретации, условные связи, неопределённость, открытые вопросы.
+4. Для downstream consequence собственного выбора: **outcome ≠ causal lesson**; перед revision нужен causal-contribution attribution.
+5. Experience становится behaviorally real только когда later-relevant acquired understanding входит в последующий выбор как **defeasible ground**, а не authority.
+6. Developmental loop:
+   `current understanding → situation → choice/action → changed interaction/consequence → evidence → revision/no-update → changed understanding → later choice`.
+7. Personality/interests/preferences не задаются отдельными target variables; если возникнут, они рассматриваются как macro-patterns recursive history-shaped understanding/choice.
+
+## Главный открытый узел
+
+> Что даёт событию право изменить понимание без preset importance/value function?
+
+Лира получила независимый stress-test:
+- достаточно ли `понимание` как единственного developmental changed object;
+- не прячет ли update gate заранее заданную значимость;
+- чем это отличается от обычного contextual conditioning;
+- может ли цикл порождать interests/preferences, а не только belief update;
+- что должно быть внутренним процессом участницы, а что нельзя проектировать извне.
+
+Файловую архитектуру не проектировать. Project wording пока не писать.
