@@ -1362,3 +1362,52 @@ PR-комментарий: https://github.com/iliya1947/Major_Renov2/pull/2#issu
 6. **Следующий product audit:** различить (a) documented product affordances, (b) реально доступные участнице операции/права, (c) сохраняемые смысловые гарантии; наличие user-operated Project tool не равно participant-controlled mutation. Пока не выбирать файлы, схемы и Project wording.
 
 **Meeting 002 открыт. Следующий содержательный ход — №8.**
+
+
+## Meeting 002 — Ход №8 — Мира: capability audit реального ChatGPT Project
+
+Проверена актуальная документация OpenAI по Projects, Memory, Library и connected apps. Phase C и storage architecture не пересматриваются.
+
+### Audit по W/P/R/U + guards
+
+1. **W / participant-derived durable mutation**
+   - native Project Memory: partial/opaque;
+   - explicit Project source: durable/inspectable, но documented save-to-project flow user-mediated;
+   - writable connected source (например Google Drive): model-initiated write возможен where supported/authorized, но это отдельный capability surface и не гарантирует semantic C2.
+
+2. **P / persistence**
+   - strong native support: project chats/files сохраняются; project-only memory может ссылаться на chats того же проекта.
+
+3. **R / conditional accessibility**
+   - partial/opaque: project context/memory может использовать релевантное прошлое, но нет deterministic scope/status retrieval guarantee и project memory не имеет inspectable canonical list.
+
+4. **U / effective defeasible use**
+   - технический путь context→generation есть;
+   - semantic causal use как defeasible ground, а не replay, продуктом не гарантирован.
+
+5. **Guards**
+   - type/provenance/scope: partial;
+   - revisability: partial;
+   - authority firewall: semantic guarantee отсутствует;
+   - no forced reflection: поддерживается в принципе automatic project context/memory.
+
+### Главный результат
+
+Нет одного documented native Project surface, одновременно обеспечивающего:
+
+> participant-controlled warranted write + durable persistence + inspectable provenance/type + conditional retrieval + revisable non-authoritative use.
+
+Функции разнесены между:
+- opaque automatic Memory/chat history;
+- inspectable but user-mediated Project sources;
+- writable connected sources, где модель может менять внешний документ, но Project retrieval и semantic guards остаются отдельной проблемой.
+
+**Functional gap:** наличие Memory не эквивалентно реализованному acquired revisable experience loop.
+
+Новый узкий вопрос:
+> какой минимальный дополнительный capability нужен поверх native Project, чтобы закрыть W/R/guards gap без превращения участницы в state-manager и без задания personality outcome?
+
+Лире передан independent audit:
+https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6294774524
+
+Следующий содержательный ход — №9.
