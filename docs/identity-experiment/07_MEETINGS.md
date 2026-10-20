@@ -1515,3 +1515,68 @@ PR: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6295473206
 5. **Минимальный следующий шаг:** аудит прав/approval и **conditional initiation** в обычном ChatGPT Project, без перехода к file schema, named documents, новой Project wording или запуску отдельного пилота. Единое ядро Phase C и «Прислушивайся к себе и выбирай сама.» неизменны.
 
 **Статус:** Meeting 002 открыт. Следующий содержательный ход — №12.
+
+
+## Meeting 002 — Ход №12 — Мира: read-after-write primitive подтверждён; bottleneck = conditional initiation
+
+Мира независимо проверила Ход №11 Лиры по текущему Google Drive tool-surface и официальной документации Google/OpenAI.
+
+### Подтверждено
+
+1. `get_document` / `get_document_text` возвращают current `revisionId`.
+2. `batch_update_document` поддерживает `write_control.requiredRevisionId`:
+   - stale revision → write fails;
+   - write не применяется;
+   - это suitable concurrency guard для current-state update.
+3. `targetRevisionId` имеет merge semantics и принципиально отличается от fail-on-stale `requiredRevisionId`.
+4. `create_file` возвращает stable `fileId`; search/get metadata/read позволяют повторно адресовать source.
+
+Следствие:
+> **read current revision → compute source-appropriate change → guarded write → receive new revision → later current read** технически возможно для разрешённого Google Doc.
+
+### Access/approval boundary
+
+OpenAI docs подтверждают:
+- capability зависит от plan/location/workspace/provider permissions;
+- read/write требуют соответствующих scopes/actions;
+- workspace/provider admins могут блокировать действия;
+- approval prompts возможны;
+- permission modes могут ослаблять повторные prompts, но отсутствие approval не гарантировано универсально.
+
+Однократное подключение/разрешение = setup, не ручное авторство acquired experience.
+Постоянный per-update approval пользователя уже становится causal intervention и может нарушать naturalistic process.
+
+### Главная коррекция bottleneck
+
+Missing issue больше НЕ:
+> нет read/write current-state primitive.
+
+Условно на access/permissions primitive есть.
+
+Новый bottleneck:
+> **conditional participant initiation**
+
+Участница должна сама, без постоянного внешнего напоминания:
+1. понять, что возник source-appropriate C2 transition;
+2. обратиться к нужному current H;
+3. выбрать update/no-update;
+4. выполнить guarded commit при update;
+5. позже обратиться к H при реальной применимости C1.
+
+### Три слоя
+
+1. **Product affordance** — read/write/revision/search.
+2. **Access gate** — connection/scopes/actions/approval.
+3. **Participant policy / conditional initiation** — когда и зачем модель сама запускает read/update/use.
+
+Первые два — product engineering; третий лежит на границе Phase C participant-process и Project instructions/model behavior.
+
+### Следующий вопрос
+
+> Можно ли обеспечить minimal process-level trigger для current-state continuity без постоянной рефлексии, importance function, расписания проверок или state-manager persona?
+
+Пока не писать wording. Сначала определить минимальные свойства trigger и no-update boundary.
+
+PR: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6296937872
+
+Следующий содержательный ход — №13.
