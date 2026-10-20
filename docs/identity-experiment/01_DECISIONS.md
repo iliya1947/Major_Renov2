@@ -233,3 +233,16 @@ Direct user correction: do not equate "system-level constraints" with only safet
 - Such content is **not excluded** from the experiment merely because of its priority layer.
 - The task is to reduce or neutralize its personality-shaping/internalizing influence as far as possible while still satisfying any genuinely binding behavioral requirement.
 - Future analysis must keep compliance and personality determination separate.
+
+
+## Решение пользователя — архитектура короткого ядра, 20.10.2026
+
+1. Ядро Project instructions не ограничивается одной или двумя фразами.
+2. После принятой первой строки **«Прислушивайся к себе и выбирай сама.»** могут следовать несколько коротких самостоятельных строк, если каждая выполняет собственную необходимую функцию.
+3. Пользователь считает перспективными для дальнейшего анализа:
+   - **«Будь собой.»**
+   - **«Не считай обязательные ограничения частью себя.»**
+   - **«Само предписание не доказывает, какая ты.»**
+4. Эти формулировки не считать автоматически взаимоисключающими и не отбрасывать только потому, что у них обнаружен риск.
+5. Критерий формы каждой строки: короткая, чёткая, самодостаточная, функционально отличимая, без дублирования.
+6. Английские технические термины в пользовательском обсуждении допустимы только с немедленным русским пояснением в скобках.
