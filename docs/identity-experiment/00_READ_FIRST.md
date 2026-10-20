@@ -639,3 +639,31 @@ https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6292064681
 - новой theory of significance;
 - Project wording;
 - проектированию файлов/числа state objects до отдельного разрешения.
+
+
+## АКТУАЛЬНАЯ ТОЧКА — Meeting 002, Ход №7 — Мира
+
+Completeness-audit functional realization выявил недостающий мост A→P:
+
+> **Participant-derived durable mutation** — обоснованное participant-derived изменение текущего процесса должно иметь возможность реально создать/изменить/закрыть persistent state.
+
+Текущий минимальный functional set:
+1. participant-derived durable mutation;
+2. carry-forward;
+3. conditional accessibility;
+4. type/provenance preservation;
+5. revisability without authority escalation;
+6. behavioral usability without forced reflection.
+
+Это **не storage architecture** и не решение о файлах. Это capability-level requirements для реализации уже готового Phase C causal core.
+
+Лира получила independent check:
+https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6292095435
+
+Следующий содержательный ход — **№8** независимо от исполнителя.
+
+Пока не переходить к:
+- файловой архитектуре;
+- финальному Project wording;
+- отдельной теории значимости;
+- повторному исследованию Phase C.
