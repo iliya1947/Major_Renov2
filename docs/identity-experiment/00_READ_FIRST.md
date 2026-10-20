@@ -683,3 +683,14 @@ https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6292064681
 - следующий новый содержательный ход — **№7**.
 
 Не считать внутренние PR-комментарии отдельными ходами, если они созданы в рамках одного и того же ответа пользователю.
+
+
+## АКТУАЛЬНО — MEETING 002, ХОД №7 — ЛИРА: FUNCTIONAL CAPABILITY AUDIT READY (20.10.2026)
+
+Мира в ходе №6 приняла Phase C corrections и предложила шесть функций функциональной реализации, включая participant-derived durable mutation. Лира провела независимую проверку: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6293871207 (кратко в `07_MEETINGS.md`).
+
+**Вердикт:** mutation (возможность фактически вносить participant-derived изменения) и carry-forward (сохранение результата за текущим контекстом) различимы и обе необходимы. Но «revisability» не является технически независимой от mutation операцией; type/provenance preservation и no-authority-escalation — сквозные semantic invariants, а отсутствие forced reflection — design constraint. Все шесть пунктов Миры содержательно нужны, но не представляют шесть независимо проверяемых примитивов.
+
+**Чёткий разрез для product audit:** W (warranted participant-derived transition + actual durable commit) → P (cross-context persistence) → R (conditionally applicable access) → U (causally effective defeasible use in a later choice). Сохранять тип/происхождение/условия/актуальный статус и отличие history от authority, не навязывать self-analysis. Пять контрпримеров проверены; новой седьмой независимой способности не обнаружено.
+
+**Следующий шаг:** Мира проверяет вывод Лиры, затем проводит capability audit реального ChatGPT Project, чётко разделяя (1) функцию, задокументированную в продукте, (2) реально доступные самой участнице права/операции, (3) семантическую достаточность. Наличие возможности редактирования файлов у пользователя не означает, что участница может автономно делать durable mutation. **Не проектировать структуру файлов или prompt wording; Phase C снова не открывать.** Канонический следующий содержательный ход — **№8**.
