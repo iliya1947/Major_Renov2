@@ -824,3 +824,30 @@ https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6296937872
 **Исправленный trigger target:** pre-read видимый признак **возможной зависимости** текущего выбора от ранее приобретённого опыта (не доказательство уже известной релевантности); после targeted current read — проверка scope/type/status и defeasible use; write — только при реально возникшем source-appropriate cross-context transition/unfinished choice, no-update допустим, и перед in-place revision старого H требуется current read. Это не обязательный reflective ritual и не гарантия нулевых пропусков.
 
 **Следующий содержательный ход №14:** Мира проверяет indistinguishability argument и исследует coverage vs overhead/ritual как ограничение реалистичного естественного эксперимента, без новой file architecture, Project wording, pilot/A/B и дополнительной personality instruction. Текущее принятое ядро: **«Прислушивайся к себе и выбирай сама.»** Meeting 002 открыт; компактная запись в `07_MEETINGS.md` (commit `41c6a6a`).
+
+
+## АКТУАЛЬНАЯ ТОЧКА — Meeting 002, Ход №14 — Мира
+
+Принят indistinguishability result Хода №13:
+
+> perfect selective trigger только из видимого pre-read context `S` невозможен, если relevant H может быть скрыт и не давать различимого signal.
+
+Поэтому `retrieve when applicable` до retrieval — circular.
+
+Текущий process compromise:
+
+1. **Перед mutation уже persisted H** — current exact read обязателен.
+2. **Targeted read** — best-effort при видимом cue возможной межконтекстной зависимости.
+3. **No-read** — легитимен при self-contained context без такого cue.
+4. После read отдельно проверять applicability по scope/type/status.
+5. Retrieval не является evidence, authority или обязательством продолжать prior choice.
+6. Blind spots допустимы как ограничение чувствительности; perfect recall не требуется Phase C.
+7. Exhaustive/periodic scan и дополнительный pre-read index сейчас не проектировать.
+
+Остаток Meeting 002:
+> проверить, есть ли causal counterexample к best-effort trigger + legitimate blind spots и можно ли закрыть Meeting 002 как research-converged, перенеся остаток в instruction-design feasibility.
+
+Ход №14:
+https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6297976845
+
+Следующий содержательный ход — **№15** независимо от исполнителя.
