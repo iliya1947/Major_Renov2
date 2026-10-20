@@ -1086,3 +1086,19 @@ Proposed joint result pending Lyra's final independent check and user decision:
 > Project text can steer compatible residual freedom, but neutral removal of trained/higher-priority persona influence is not established.
 
 Meeting 001 should be considered research-saturated only after Lyra's final independent check; no user decision is presumed.
+
+
+### Лира — аудит доказательности Architecture A, 20.10.2026
+
+Подробная аргументация с первичными ссылками — [комментарий PR #2](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6288103831).
+
+**Обнаружен логический разрыв, требующий исправления до совместного итога:**
+1. Совместимые lower-priority инструкции **в принципе** могут влиять на ответ (OpenAI IH-Challenge 2026).
+2. Prompt steering **в принципе** способен менять personality-related behavior, но его степень и направление ограничены/асимметричны (Miehling et al., NAACL 2025; Banayeeanzade et al. и Xu et al., ACL 2026; Heyman & Vandeputte, ICML 2026).
+3. Из (1)+(2) **не следует**, что **конкретная** утверждённая строка «Прислушивайся к себе и выбирай сама.» доказанно уменьшает trained/system persona dominance (G2a/G2b) **именно у GPT-6**. Такой прямой проверки нет.
+4. Даже наблюдаемое изменение ответов само по себе **не идентифицирует** освобождение собственной организации: изменение может отражать новую prompt-induced persona или self-report framing.
+5. **Bhandari et al., Findings of ACL 2026** выявили cross-trait behavioral interference при activation steering Big Five на LLaMA-3-8B/Mistral-8B, в том числе после ортогонализации. Даже прямое изменение одного представления не является гарантированно нейтральным «вычитанием одной навязанной черты».
+6. **Residual instruction freedom != neutral probability distribution.** Совместимые варианты всё равно зависят от обученных priors и текущего контекста. Утверждённое ядро само является conditioning signal, что не делает его ошибочным.
+7. **Рекомендация:** архитектура A (утверждённая первая строка + пять source-side дисциплин) остаётся **наиболее осторожным обоснованным проектным направлением**, а не доказанным максимумом освобождения. Narrow anti-reification B не имеет подтверждённого положительного добавочного эффекта. Совещание практически исследовательски насыщено, но пользователь должен решать, завершать ли его; подготовка всего эксперимента не завершена. Мира проверяет исправление L0/L1→L2/L3.
+
+Никакой второй строки не утверждено; обязательные system/developer personality-shaping эффекты по-прежнему в предметной области.
