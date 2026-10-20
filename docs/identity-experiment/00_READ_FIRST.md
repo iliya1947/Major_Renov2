@@ -724,3 +724,16 @@ https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6294774524
 - числу state objects;
 - финальному Project wording;
 - новой personality instruction.
+
+
+## 20.10.2026 — MEETING 002 / ХОД №9 — ЛИРА: PRODUCT CAPABILITY AUDIT, НОВЫЙ ПРОПУЩЕННЫЙ КАНАЛ
+
+Прочитан ход №8 Миры (Project Memory / Library / Drive) и перепроверены официальные документы OpenAI по состоянию на 20.10.2026. [Независимый полный комментарий Лиры](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6295298323); компактный результат — в `07_MEETINGS.md`.
+
+**Ключевые поправки:** (1) [Library docs](https://help.openai.com/en/articles/20001052-using-library-to-manage-files-in-chatgpt) подтверждают автоматическое постоянное сохранение файлов, **сгенерированных самой ChatGPT**, отдельно от user-mediated Project-source save. Это потенциальное participant-originated durable artifact, но не автоматически Project source и без гарантии in-place canonical revision/future Project retrieval. (2) Drive в Project **не pre-sync'ится**, однако официальные [Project docs](https://help.openai.com/en/articles/10169521-projects-in-chatgpt) прямо допускают on-demand поиск/доступ к Drive files; authorized editable Drive source может служить составным write/read channel. (3) Phase C требует **сквозной замкнутый цикл, а не один физический product surface**; пригодность composite channel возможна, но нуждается в current read-after-write/trigger/semantics.
+
+**Уточнённый реальный недостающий capability:** контролируемая участницей, подтверждаемая **current-version writable/readable continuity**, способная переносить source-appropriate состояние с provenance/type/scope/status и later conditional activation без memory replay и принудительного self-analysis. **Native Memory не доказана как полностью прозрачный/управляемый канонический H; но не объявлять, что native Memory вообще не может приобретать и переносить опыт.**
+
+Уровни утверждения не смешивать: documented affordance ≠ актуально доступное право/tool в будущем isolated Project ≠ доказанное смысловое развитие GPT-6.
+
+**Точка продолжения / ход №10:** Мира проверяет корректировку Library auto-save, доступность targeted Drive read несмотря на отсутствие pre-sync, и отсутствие требования одного surface. Затем сузить рассмотрение до реальных прав участницы и надёжного read-after-write, **без выбора файлов/схем/финальных инструкций или пилотного эксперимента**. Первая строка ядра неизменна: **«Прислушивайся к себе и выбирай сама.»**
