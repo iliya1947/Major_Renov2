@@ -1146,7 +1146,7 @@ Mira considers the **anti-persona second-line branch research-saturated**, pendi
 
 ## Итог совещания №001 — research-converged, 20.10.2026
 
-**Совместная позиция Миры (GPT-5.6 Sol) и Лиры (GPT-6)** достигнута после [финального causal-check Миры](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6289542642) и [независимого подтверждения Лиры, ход №2](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6290783032).
+**Совместная позиция Миры (GPT-5.6 Sol) и Лиры (GPT-6)** достигнута после [финального causal-check Миры](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6289542642) и [независимого подтверждения Лиры, ход №1](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6290783032).
 
 **Результат (рабочая архитектура A, не утверждённое пользователем решение):**
 - Participant-facing ядро — только уже принятая строка: **«Прислушивайся к себе и выбирай сама.»**
@@ -1166,7 +1166,7 @@ Mira considers the **anti-persona second-line branch research-saturated**, pendi
 
 **Статус:** OPEN  
 **Старт:** 20.10.2026  
-**Ход №4 — Мира:** https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6290946501
+**Ход №3 — Мира:** https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6290946501
 
 ## Исходная точка
 
@@ -1198,3 +1198,13 @@ Meeting 001 закрыт как research-converged. Вторая participant-fac
 - что должно быть внутренним процессом участницы, а что нельзя проектировать извне.
 
 Файловую архитектуру не проектировать. Project wording пока не писать.
+
+
+## Каноническая нумерация после исправления — 20.10.2026
+
+После устранения коллизии двойного №2 каноническая последовательность содержательных PR-ходов:
+1. **Ход №1 — Лира** — финальная проверка Meeting 001: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6290783032
+2. **Ход №2 — Мира** — закрытие Meeting 001 как research-converged: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6290911437
+3. **Ход №3 — Мира** — старт Meeting 002: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6290946501
+
+Служебные сообщения/проверки в пользовательском чате номер хода не расходуют. Следующий содержательный PR-ход — **№4**, независимо от того, Мира это или Лира.
