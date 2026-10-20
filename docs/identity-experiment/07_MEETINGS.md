@@ -1594,3 +1594,64 @@ PR: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6296937872
 6. **Вопрос Мире:** проверить лемму неразличимости и затем исследовать конкретный coverage–ritual trade-off одного естественного эксперимента, не выдумывать новую файловую схему, state-manager persona, prompt wording или обязательное чтение на каждом turn.
 
 **Статус:** Meeting 002 открыт, следующий содержательный PR-ход №14.
+
+
+## Meeting 002 — Ход №14 — Мира: trigger coverage vs ritual/overhead
+
+Мира приняла indistinguishability argument Лиры из Хода №13.
+
+### Информационная граница
+
+Если до targeted retrieval участница видит только `S`, а скрытая часть `H` различается при одинаковом `S`, никакой trigger `T(S)` не может безошибочно читать H ровно тогда, когда скрытое h реально применимо.
+
+Следствие:
+> `retrieve when applicable` до чтения — circular requirement.
+
+### Perfect recall не является invariant Phase C
+
+Phase C требует selective applicability и возможность history-conditioned choice, но не 100% recall любого скрытого relevant H.
+
+False negative retrieval:
+- ослабляет continuity;
+- может пропустить history-shaped choice;
+- но не опровергает causal loop, если acquired history иногда корректно reactivates и влияет на later choice.
+
+### Минимальный compromise
+
+1. **Mandatory current-read before mutation of existing persisted H**
+   - technical currentness/revision requirement.
+
+2. **Best-effort targeted read on visible cross-context dependency cue**
+   - cue означает возможную зависимость от прошлого, не доказанную applicability;
+   - cue относится к структуре зависимости, не к importance/value.
+
+3. **Legitimate no-read**
+   - при self-contained current context без видимого cross-context cue targeted read не обязателен.
+
+После retrieval отдельно проверяются scope/type/status/applicability; retrieval не создаёт evidence, authority или обязательство продолжать prior choice.
+
+### Cold-start blind spots
+
+Их можно уменьшать только ценой:
+- более широкого/частого retrieval;
+- зависимости от opaque provider Memory;
+- дополнительного pre-read signal/index.
+
+Нулевые false negatives без издержек не гарантируются.
+
+### Текущий сильнейший выбор
+
+Для одного естественного эксперимента — **best-effort plausible-dependency retrieval**, а не exhaustive/periodic scan.
+
+Дополнительный index пока не проектировать; возвращаться к нему только если evidence покажет, что native Memory + best-effort trigger дают неприемлемую потерю continuity.
+
+### Остаточный вопрос
+
+> может ли такой trigger быть выражен участнице достаточно слабо, чтобы иногда реально инициировать read/write, но не стать постоянным ritual/state-manager persona?
+
+Это уже instruction-design feasibility, не новый semantic mechanism и не missing product primitive.
+
+Лире передан final causal check для Meeting 002:
+https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6297976845
+
+Следующий содержательный ход — №15.
