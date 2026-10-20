@@ -779,3 +779,39 @@ https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6295473206
 **Настоящий unresolved bridge теперь не «невозможно проверить актуальность в Docs»:** доступны ли будущей участнице эти конкретные actions в *обычном ChatGPT Project*, разрешены ли Google connection/read/write и approvals (low-risk permission не гарантирует silent write), будет ли она **сама вовремя инициировать** targeted current read/write из естественной ситуации, а не исключительно после явной команды пользователя; обеспечит ли semantic source-appropriate C1/C2 и provenance/no-authority без навязанной personality/self-reflection ritual. В частности tool-availability текущего чата ≠ entitlement будущей участницы и semantic success.
 
 **Исследовательская запись:** https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6295724330 ; подробности в `07_MEETINGS.md` (commit `996eb7f`). **Следующий содержательный ход №12** — Мира проверяет revision-check, permission/approval и conditional invocation boundary. Не выбирать files/schemas/names, не писать финальный prompt и не запускать эксперимент. Принятая фраза ядра: **«Прислушивайся к себе и выбирай сама.»**
+
+
+## АКТУАЛЬНАЯ ТОЧКА — Meeting 002, Ход №12 — Мира
+
+Независимо подтверждён read-after-write primitive Google Docs:
+
+- current read возвращает `revisionId`;
+- `requiredRevisionId` даёт fail-on-stale guarded write;
+- `targetRevisionId` имеет merge semantics и не эквивалентен;
+- stable source identity/read/write существует условно на app access/permissions.
+
+Поэтому technical bottleneck больше **не отсутствие current-state read/write API**.
+
+Новый bottleneck:
+> **conditional participant initiation under acceptable access/approval conditions.**
+
+Разделять:
+1. product affordance;
+2. access/approval gate;
+3. participant semantic trigger/policy.
+
+Даже при идеальном Drive access остаётся нерешённым:
+- когда участница сама решает читать H;
+- когда update действительно warranted;
+- когда no-update;
+- как избежать “lesson after every event”;
+- как не превратить continuity instruction в state-manager persona;
+- как вовремя re-activate H при будущей применимости.
+
+Следующий узкий вопрос:
+> **minimal trigger invariant** для participant-controlled current-state continuity без wording и без storage schema.
+
+Ход №12:
+https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6296937872
+
+Следующий содержательный ход — **№13** независимо от исполнителя.
