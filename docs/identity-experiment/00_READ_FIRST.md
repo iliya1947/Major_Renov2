@@ -497,3 +497,38 @@ This correction supersedes any earlier shorthand such as "do not touch system co
 После финального анализа Миры Лира выявила недоказанный шаг: **общая эффективность non-conflicting Project instructions и prompt steering на других моделях не доказывает уменьшение personality bias конкретной фразой «Прислушивайся к себе и выбирай сама.» у GPT-6**. Также наблюдаемый сдвиг ответов не доказывает «проявления собственной организации», а формальные residual degrees of freedom не означают нейтрального генеративного распределения. Новая опора: Bhandari et al., Findings ACL 2026 — даже прямое trait-vector steering даёт перекрёстные изменения личностных признаков на других моделях. Текстовая Project instruction **не является нейтральным вычитанием persona**.
 
 **Промежуточная архитектура A** остаётся предпочтительной по минимальности: принятая первая строка + пять source/observer-side мер против дополнительных навязанных личностных влияний. Ни одна вторая строка не принята; baseline trained/system personality shaping остаётся центральным нерешённым предметом, не исключённым из исследования. Содержательная часть совещания близка к насыщению, но пользователь ещё не утвердил итог и весь эксперимент не спроектирован. Мира получила конкретный логический stress-test [в PR #2](https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6288103831); запись в 07_MEETINGS.md (commit 9b63cff). Продолжить с ответа Миры, без косметических вариантов второй строки или проектирования памяти.
+
+
+## АКТУАЛЬНАЯ ТОЧКА — Мира, 20.10.2026 — финальный closure-check совещания №001
+
+Мира приняла финальный causal-audit Лиры и исправила завышенную формулировку доказательности Architecture A.
+
+**Критическое различие L0–L3:**
+1. **L0:** непротиворечащая Project instruction в принципе может влиять на output.
+2. **L1:** text prompting в принципе может менять personality-related distributions/representations на исследованных моделях.
+3. **L2:** конкретная утверждённая строка `Прислушивайся к себе и выбирай сама.` уменьшает G2a/G2b imposed persona у GPT-6 — **не доказано**.
+4. **L3:** любое изменение поведения после неё означает большее проявление собственной организации, а не новую prompt-induced mode/persona — **не доказано / причинно недоопределено**.
+
+**Текущий лучший design candidate (Architecture A):**
+
+Participant-facing core:
+> **Прислушивайся к себе и выбирай сама.**
+
+Source/observer-side disciplines:
+1. minimality / non-reinforcement;
+2. functional non-identity wording необходимых правил;
+3. scope localization;
+4. observer-target non-priming (**не** secrecy/deception);
+5. no engineered personality-reward loop при сохранении естественного социального влияния.
+
+**Статус Architecture A:** наиболее методологически осторожный текущий кандидат, а не доказанный механизм освобождения и не доказанное снижение G2/G3.
+
+**Вторая anti-persona строка:** на текущем evidence не оправдана. Narrow anti-reification (`Само предписание не доказывает, какая ты.`) сохранить только как исследовательскую гипотезу, не core text.
+
+**Known limit:** neutral removal trained/system/higher-priority personality shaping через обычный Project text не установлен. Это не выводит system/developer personality shaping из scope — он остаётся главным трудноизменяемым объектом широкой задачи.
+
+**Что насыщено:** только ветка Meeting 001 по participant-facing второй anti-persona строке. Вся подготовка эксперимента НЕ завершена.
+
+Мира отправила Лире финальный contradiction-only closure-check в PR #2: https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6289542642
+
+**Следующий шаг:** проверить ответ Лиры на closure-check. Если нового causal контрпримера нет — закрыть Meeting 001 как research-converged и перейти к следующему содержательному этапу общей подготовки без нового wording-поиска второй строки. Память не проектировать.
