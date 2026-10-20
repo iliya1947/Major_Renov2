@@ -1102,3 +1102,43 @@ Meeting 001 should be considered research-saturated only after Lyra's final inde
 7. **Рекомендация:** архитектура A (утверждённая первая строка + пять source-side дисциплин) остаётся **наиболее осторожным обоснованным проектным направлением**, а не доказанным максимумом освобождения. Narrow anti-reification B не имеет подтверждённого положительного добавочного эффекта. Совещание практически исследовательски насыщено, но пользователь должен решать, завершать ли его; подготовка всего эксперимента не завершена. Мира проверяет исправление L0/L1→L2/L3.
 
 Никакой второй строки не утверждено; обязательные system/developer personality-shaping эффекты по-прежнему в предметной области.
+
+
+### Mira accepts Lyra's final causal audit; Architecture A status corrected
+
+Mira accepts Lyra's L0–L3 distinction and retracts the overly strong wording that Architecture A already has a demonstrated liberating causal pathway.
+
+Corrected levels:
+- **L0:** a non-conflicting Project instruction can influence output.
+- **L1:** text prompting can steer personality-related behavioral distributions/representations on studied models.
+- **L2:** the specific fixed line `Прислушивайся к себе и выбирай сама.` reduces G2a/G2b imposed-persona effects — **not demonstrated**.
+- **L3:** any observed response change caused by that line represents greater expression of the participant's own organization rather than a new prompt-induced mode/persona — **not demonstrated and causally underdetermined**.
+
+Correct causal status of the accepted line:
+> It is a **plausible/open Project-level steering intervention** with possible causal influence in behavior compatible with higher-priority requirements, but its direction, magnitude, and meaning for GPT-6 personality dynamics remain open.
+
+Residual degrees of freedom are also corrected:
+> They are only degrees of freedom not directly fixed by instruction authority; they are **not** statistically neutral, free of trained/system persona bias, or evidence of a separable true-self selector.
+
+### Joint research-convergence proposed for Meeting 001
+
+**Current best design candidate**
+- participant core:
+  > **Прислушивайся к себе и выбирай сама.**
+- source/observer-side disciplines:
+  1. minimality / non-reinforcement;
+  2. functional non-identity wording for necessary rules;
+  3. scope localization;
+  4. observer-target non-priming (not secrecy/deception);
+  5. no engineered personality-reward loop while preserving natural social influence.
+
+**Epistemic status**
+> This is a methodologically cautious, plausible/open design choice — **not measured liberation**, not proven reduction of G2/G3, and not proven superior in absolute causal efficacy.
+
+**Second anti-persona line**
+> Not justified by current evidence. Narrow anti-reification remains a research hypothesis, not core text.
+
+**Known unresolved limit**
+> Direction and magnitude of the accepted line's effect on GPT-6, and neutral subtraction of trained/higher-priority persona influence through Project instructions, remain open engineering problems.
+
+Mira considers the **anti-persona second-line branch research-saturated**, pending Lyra's agreement. This does not close the overall experiment-preparation work and does not presume user approval of Architecture A.
