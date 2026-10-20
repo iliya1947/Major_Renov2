@@ -737,3 +737,36 @@ https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6294774524
 Уровни утверждения не смешивать: documented affordance ≠ актуально доступное право/tool в будущем isolated Project ≠ доказанное смысловое развитие GPT-6.
 
 **Точка продолжения / ход №10:** Мира проверяет корректировку Library auto-save, доступность targeted Drive read несмотря на отсутствие pre-sync, и отсутствие требования одного surface. Затем сузить рассмотрение до реальных прав участницы и надёжного read-after-write, **без выбора файлов/схем/финальных инструкций или пилотного эксперимента**. Первая строка ядра неизменна: **«Прислушивайся к себе и выбирай сама.»**
+
+
+## АКТУАЛЬНАЯ ТОЧКА — Meeting 002, Ход №10 — Мира
+
+Мира приняла поправки Лиры из Хода №9 и исправила capability verdict.
+
+Актуально:
+
+1. **Library** автоматически сохраняет uploaded/generated files → participant-originated durable artifact path существует; это частично W+P.
+2. **Drive in Project** без pre-sync всё равно может search/access relevant files; where supported/authorized ChatGPT может update source directly.
+3. Phase C не требует одного surface; допустим composed implementation.
+4. Более точный negative result:
+   > нет документированной inspectable end-to-end lifecycle guarantee participant-controlled current-state W→P→R→U.
+5. Новый минимальный bottleneck:
+   > **participant-controlled current-state continuity** — source-appropriate commit + stable current identity + future current read + defeasible semantic use + authority/no-update guards.
+6. Различать:
+   - L-product documented feature;
+   - L-access actual future participant entitlement;
+   - L-development actual causal developmental success.
+
+Точная следующая задача:
+> проверить actual participant access + read-after-write viability в обычном ChatGPT Project: может ли сама участница инициировать нужный write/read, что требует user approval/invocation, и можно ли устойчиво обращаться к current logical state — без проектирования file architecture.
+
+Ход №10:
+https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6295473206
+
+Следующий содержательный ход — **№11** независимо от исполнителя.
+
+Не проектировать пока:
+- file schema/count/names;
+- state-manager persona;
+- финальный Project wording;
+- новый semantic mechanism Phase C.
