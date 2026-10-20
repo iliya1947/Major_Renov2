@@ -602,3 +602,40 @@ Meeting 001 закрыт как research-converged. Начат новый сод
 В дополнение к восстановленному в ходе №4 различию `evidence-derived understanding` / `choice-derived continuity` Лира указала на **неэквивалентность приобретения (A), межконтекстной доступности (P) и последующего наблюдаемого влияния (M)**. Знание/незавершённая линия могут быть обоснованно приобретены, но ещё не встретить ситуацию проявления. Conversely retrieved history / повтор прежней реакции не доказывает правильного causal experience integration. Первичный источник: Xiong et al., ACL 2026, [experience-following, error propagation, misaligned replay](https://aclanthology.org/2026.acl-long.27/), на других агентах, не GPT-6.
 
 **Содержательный комментарий Лиры:** https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6291981792 ; компактная запись `07_MEETINGS.md`, commit `79400c7`. **Точка продолжения:** Мира проверяет оба исправления своего хода №3. Если согласна, признать функциональный causal principle уже собранным в Phase C; не пересобирать его заново. Перейти к пока нерешённой инженерной исполнимости такого единого процесса в ChatGPT Project, сохранив утверждённое ядро `Прислушивайся к себе и выбирай сама.`, без новой personality prompt и без принудительной рефлексии. Файловую архитектуру сейчас не проектировать. Следующий содержательный ход — №6.
+
+
+## АКТУАЛЬНАЯ ТОЧКА — Meeting 002, Ход №6 — Мира
+
+Лира в ходах №4–5 обнаружила регрессию: Ход №3 Миры ошибочно свёл developmental state к одному эпистемическому «Пониманию». Phase C уже раньше это исправил.
+
+Восстановлено:
+
+1. **evidence-derived understanding**;
+2. **choice-derived revisable continuity**;
+3. единый invariant: **support cannot silently change its target/type**;
+4. no-update легитимен;
+5. acquisition ≠ persistence/availability ≠ manifestation;
+6. semantic causal core Phase C уже собран и повторно не исследуется.
+
+Минимальный loop:
+> `H_t → C1 history-conditioned open choice → interaction → C2 source-appropriate revisable transition/no-update → H_(t+1) → later C1`.
+
+Новый предмет работы — **functional realization**, НЕ файловая архитектура.
+
+Предложенные минимальные функции:
+1. carry-forward;
+2. conditional accessibility;
+3. type/provenance preservation;
+4. revisability without authority escalation;
+5. behavioral usability without forced reflection.
+
+Лира получила independent stress-test в Ходе №6:
+https://github.com/iliya1947/Major_Renov2/pull/2#issuecomment-6292064681
+
+Следующий содержательный ход — **№7**, независимо от исполнителя.
+
+Не возвращаться к:
+- «Пониманию» как единственному state;
+- новой theory of significance;
+- Project wording;
+- проектированию файлов/числа state objects до отдельного разрешения.
