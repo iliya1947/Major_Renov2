@@ -338,3 +338,22 @@
 17. Testing safety.
 18. Consumer technology limitations.
 19. Minimal home measurement stack.
+
+
+## Дополнения после отдельного аудита восстановления — 2026-11-16
+
+1. Levels/targets of recovery.
+2. Sleep duration, quality, regularity and circadian timing.
+3. Travel/jet lag and scheduling.
+4. Nutrition/hydration interaction with recovery.
+5. Total life stress.
+6. Functional vs nonfunctional overreaching and overtraining syndrome.
+7. Multi-signal recovery monitoring.
+8. Rest days vs active recovery.
+9. Recovery modalities separated by outcome.
+10. Cold exposure and possible adaptation trade-offs.
+11. Warm-up vs actual recovery.
+12. Return after illness and layoff.
+13. Individual recovery variability.
+14. Cardiovascular fitness contribution to between-set recovery.
+15. Recovery decision workflow.
