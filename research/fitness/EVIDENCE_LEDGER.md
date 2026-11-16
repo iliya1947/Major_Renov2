@@ -21,3 +21,13 @@
 4. Для изменяемых рекомендаций указывать дату/версию.
 5. Если вывод — практическая эвристика, так и маркировать.
 6. Персональное решение не считать научным фактом.
+
+
+| RES02-01 | Дизайн исследования должен соответствовать типу вопроса; универсальной иерархии для всех вопросов нет. | RES-02 | GRADE Book; Cochrane Handbook | HIGH | Сначала question type, затем design. | Прямо применимо ко всему проекту. | ACCEPTED |
+| RES02-02 | Для causal effects назначенной intervention randomized designs обычно снижают confounding относительно non-randomized intervention studies, но randomization не устраняет другие bias. | RES-02 | Cochrane Ch3, Ch24 | HIGH | Для training-effect questions RCT обычно core evidence. | Прямо применимо. | ACCEPTED |
+| RES02-03 | Rare/long-term harms могут не выявляться в небольших/коротких RCT; cohort/case-control/registry evidence может быть необходима. | RES-02 | Cochrane Ch19, Ch24 | HIGH | Safety evidence path отличается от efficacy. | Применимо к медицинской ветке. | ACCEPTED |
+| RES02-04 | Crossover design подходит для temporary/reversible effects, но становится неподходящим при persistent carryover/long-term adaptation. | RES-02 | Cochrane Ch23 | HIGH | Acute caffeine/warm-up ≠ chronic hypertrophy design. | Прямо применимо. | ACCEPTED |
+| RES02-05 | Cross-sectional studies полезны для prevalence/association, но обычно не устанавливают temporal order и причинность. | RES-02 | NCBI epidemiology reference; study-design review | HIGH | Не превращать cross-sectional associations в training prescriptions. | Прямо применимо. | ACCEPTED |
+| RES02-06 | Diagnostic accuracy, prognosis/exposure и qualitative/implementation questions требуют соответствующих нерандомизированных/qualitative designs. | RES-02 | GRADE Book; Cochrane QES guidance | HIGH | Правильный design зависит от estimand/question. | Прямо применимо. | ACCEPTED |
+| RES02-07 | Название design само по себе не гарантирует качество; для NRSI важны конкретные design features и confounding control. | RES-02 | Cochrane Ch24 | HIGH | Оценивать реальный design, а не label. | Прямо применимо. | ACCEPTED |
+| RES02-08 | Project design-selection algorithm — практическая эвристика, основанная на Cochrane/GRADE, а не универсальный опубликованный алгоритм. | RES-02 | Derived | PRACTICAL_HEURISTIC | Ускоряет выбор evidence path. | Специально для проекта. | ACTIVE |
