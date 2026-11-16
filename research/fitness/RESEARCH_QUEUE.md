@@ -3,43 +3,26 @@
 ## Сейчас
 
 1. **Stage 2 — deep research.**
-2. RESEARCHING: RES-21 — network meta-analysis.
-3. Затем RES-22 — individual response / responder methodology.
-4. Затем RES-23...RES-29 по `RESEARCH_ORDER.md`.
-5. После достаточного methodological foundation — ANA → PHY → NEU → BIO → MEC.
+2. RESEARCHING: **ANA-01 — анатомическая терминология, плоскости, оси и движения.**
+3. Затем ANA-02 — ткани опорно-двигательной системы.
+4. Затем ANA-03...ANA-15 по `RESEARCH_ORDER.md`.
+5. После завершения ANA → PHY → NEU → BIO → MEC.
 
 ## Правила Stage 2
 
 1. Один topic ID может занимать несколько исследовательских проходов.
 2. Не закрывать topic, пока остаются существенные неопределённости для практики.
-3. Использовать `RESEARCH_TEMPLATE.md` и `EVIDENCE_POLICY.md`.
-4. Проверенные claims → `EVIDENCE_LEDGER.md`.
-5. Full synthesis → `findings/<AREA>/<TOPIC_ID>.md`.
-6. Contradictions/open issues → `OPEN_QUESTIONS.md`.
-7. Персональную программу пока не строить.
+3. До поиска заполнять `QUESTION_CARD.md`.
+4. Использовать `RESEARCH_TEMPLATE.md` и `EVIDENCE_POLICY.md`.
+5. Проверенные claims → `EVIDENCE_LEDGER.md`.
+6. Full synthesis → `findings/<AREA>/<TOPIC_ID>.md`.
+7. Contradictions/open issues → `OPEN_QUESTIONS.md`.
+8. Персональную программу пока не строить.
 
 ## Завершено
 
 1. Stage 0A — first-pass audits.
 2. Stage 0B — architecture audit + area 16.
 3. Stage 1 — normalized canonical knowledge tree v1.0.
-4. RES-01 — question formulation / PICO(T): CLOSED_FOR_PRACTICE v1.0.
-5. RES-02 — study designs: CLOSED_FOR_PRACTICE v1.0.
-6. RES-03 — randomization/allocation/blinding: CLOSED_FOR_PRACTICE v1.0.
-7. RES-04 — risk-of-bias domains: CLOSED_FOR_PRACTICE v1.0.
-8. RES-05 — confounding/causal inference: CLOSED_FOR_PRACTICE v1.0.
-9. RES-06 — sampling/external validity: CLOSED_FOR_PRACTICE v1.0.
-10. RES-07 — power/multiplicity: CLOSED_FOR_PRACTICE v1.0.
-11. RES-08 — descriptive/inferential statistics: CLOSED_FOR_PRACTICE v1.0.
-12. RES-09 — effect sizes/uncertainty: CLOSED_FOR_PRACTICE v1.0.
-13. RES-10 — missing data/dropout: CLOSED_FOR_PRACTICE v1.0.
-14. RES-11 — reliability/validity/responsiveness: CLOSED_FOR_PRACTICE v1.0.
-15. RES-12 — exercise measurement pitfalls: CLOSED_FOR_PRACTICE v1.0.
-16. RES-13 — acute proxies: CLOSED_FOR_PRACTICE v1.0.
-17. RES-14 — acute vs chronic inference: CLOSED_FOR_PRACTICE v1.0.
-18. RES-15 — systematic reviews: CLOSED_FOR_PRACTICE v1.0.
-19. RES-16 — meta-analysis: CLOSED_FOR_PRACTICE v1.0.
-20. RES-17 — heterogeneity: CLOSED_FOR_PRACTICE v1.0.
-21. RES-18 — publication/reporting bias: CLOSED_FOR_PRACTICE v1.0.
-22. RES-19 — GRADE/certainty: CLOSED_FOR_PRACTICE v1.0.
-23. RES-20 — guideline appraisal: CLOSED_FOR_PRACTICE v1.0.
+4. **RES-01…RES-29 — методологическая область полностью исследована и синтезирована, v1.0.**
+5. Созданы `QUESTION_CARD.md`, `DECISION_CARD.md`, `SOURCE_STATUS_LOG.md`.
