@@ -100,3 +100,48 @@
 2. проверить названия и границы областей;
 3. убедиться, что RAW inventory ничего не потерял;
 4. затем перейти к Stage 1 — дедупликация и нормализация.
+
+
+## Cross-file pass — результат
+
+Проверены headings всех 16 областей.
+
+### Повторяющиеся темы, которые являются корректными multi-level overlaps
+
+- fatigue;
+- pain;
+- exercise selection;
+- motor learning/cueing;
+- readiness;
+- adherence;
+- individual response;
+- recovery;
+- nutrition/recovery;
+- strength/hypertrophy;
+- ROM/mobility;
+- safety;
+- ADHD;
+- limited equipment;
+- body composition;
+- sleep.
+
+Для них создан `TOPIC_OWNERSHIP.md`, задающий canonical home и dependent cross-references.
+
+### Новых крупных обязательных областей после cross-file pass не найдено
+
+Профессиональная crosswalk NSCA + ACSM после добавления area 16 закрывается без очевидной крупной дыры для задачи Ильи.
+
+### Что сознательно НЕ превращено в отдельные области
+
+1. Injury prevention — cross-domain.
+2. Endurance training — пока nested in GPP + bioenergetics + programming.
+3. Special populations — conditional branches.
+4. Facility/legal administration — conditional professional topics.
+5. Health outcomes — nested in GPP.
+6. Behavior-change theories — nested in psychology/adherence.
+
+### Stage 0B status
+
+**COMPLETE for architecture.**
+
+Следующий этап: Stage 1 — дедупликация и нормализация, с сохранением raw inventory как неизменяемой страховочной базы.
