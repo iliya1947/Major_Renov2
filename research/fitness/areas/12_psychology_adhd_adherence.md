@@ -450,3 +450,25 @@ For every training workflow ask:
 17. clinical mental-health boundary.
 
 NSCA Essentials 5th Edition treats motivation, attention/focus, arousal/stress, psychological techniques and mental health as core performance-psychology topics. General physical-activity maintenance research repeatedly identifies enjoyment, integration into routine, flexibility, support, competence/self-efficacy and progress feedback as relevant. Adult ADHD-specific evidence is much thinner: qualitative research documents executive/time-management/focus barriers and individualized facilitators, while a 2026 scoping review concludes that routine/habit research in ADHD remains limited, especially in adults.
+
+
+## Stage 0B addition — модели изменения поведения и counseling
+
+Профессиональный crosswalk ACSM показал, что исходный behavioral block слишком сильно опирался на SDT и практические эвристики. Дополнительно исследовать:
+
+1. Social Cognitive Theory.
+2. Transtheoretical Model.
+3. Health Belief Model.
+4. Theory of Planned Behavior.
+5. Social Ecological Model.
+6. Cognitive Evaluation Theory — в связи с SDT.
+7. Motivational interviewing.
+8. Health coaching.
+9. Readiness for change.
+10. Barrier self-efficacy.
+11. Relapse prevention.
+12. Affect/mood/emotion in adherence.
+13. Health literacy and communication.
+14. Сравнение predictive/intervention value моделей, а не коллекционирование теорий.
+
+Эти модели не предполагаются одинаково полезными; каждая требует отдельной проверки доказательств.
