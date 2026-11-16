@@ -13,7 +13,7 @@
 
 ## 2. Текущий этап
 
-**Этап 1 — очистка и нормализация карты после завершённого Stage 0B.**
+**Этап 2 — системное глубокое исследование. Stage 1 normalization завершён (v1.0).**
 
 До завершения этого этапа:
 - не составлять финальную тренировочную программу;
@@ -250,3 +250,18 @@
 Stage 0B: **COMPLETE**.
 
 Следующий этап: **Stage 1 — очистка и нормализация**.
+
+
+## 11. Stage 1 — результат
+
+1. Создано `NORMALIZED_KNOWLEDGE_TREE.md`.
+2. Всем canonical topics назначены стабильные IDs: MED/ANA/PHY/NEU/BIO/MEC/PRO/TEC/TST/REC/NUT/PSY/RES/IND/GPP/COA.
+3. Создан `NORMALIZATION_LOG.md`.
+4. Raw inventory сохранён без очистки как контрольная база.
+5. Создан `RESEARCH_ORDER.md` с dependency-based очередностью.
+6. Многослойные overlaps сохраняются через `TOPIC_OWNERSHIP.md`, а не удаляются как ложные дубли.
+
+Stage 1: **COMPLETE v1.0**.
+
+Следующий этап: **Stage 2 — deep research**.
+Старт: RES (методология), затем biological/mechanical foundation.
