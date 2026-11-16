@@ -215,8 +215,9 @@ Stage 2 продолжается.
 1. Stage 2 **перезапущен** после слишком крупного марафонного прохода.
 2. Старые RES/ANA findings = legacy reconnaissance drafts до повторной валидации.
 3. Текущая область: **13 — методология исследований**.
-4. Текущая тема: **RES-01**.
-5. Текущий pass: **PASS-01 — scope and question framing**.
+4. **RES-01 закрыт: `CLOSED_FOR_PRACTICE` после PASS-16.**
+5. Следующая тема: **RES-02 — study designs**.
+6. Следующий микро-проход: **RES-02/PASS-01 — scope and study-design taxonomy revalidation**.
 
 
 ## 9. Зафиксированный общий план
@@ -234,7 +235,7 @@ Stage 2 продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 1 — дедупликация и нормализация с опорой на `TOPIC_OWNERSHIP.md`.
+Ближайшая задача: Stage 2 — granular revalidation темы **RES-02** с опорой на `RESEARCH_ORDER.md`.
 
 
 ## 10. Stage 0B — результат
@@ -271,9 +272,9 @@ Stage 1: **COMPLETE v1.0**.
 Старт: RES (методология), затем biological/mechanical foundation.
 
 
-## 12. Stage 2 milestone — methodology v1.0
+## 12. Superseded Stage 2 milestone — methodology v1.0 (legacy, invalidated by restart)
 
-1. Глубоко исследованы и синтезированы **RES-01…RES-29**.
+1. Исторически было отмечено, что **RES-01…RES-29** исследованы и синтезированы; этот milestone **не является текущим статусом** после Stage 2 restart.
 2. Методологический фундамент теперь покрывает:
    - формулировку вопросов;
    - design selection;
@@ -292,9 +293,9 @@ Stage 1: **COMPLETE v1.0**.
    - `QUESTION_CARD.md`;
    - `DECISION_CARD.md`;
    - `SOURCE_STATUS_LOG.md`.
-4. Area 13: **RESEARCH_COMPLETE + SYNTHESIZED v1.0**.
+4. Исторический статус Area 13: **RESEARCH_COMPLETE + SYNTHESIZED v1.0** — **superseded**. Текущий статус области остаётся `RESEARCHING` до revalidation RES-02…RES-29.
 
-Следующий домен: **ANA — anatomy**.
+Следующее действие по текущему restart: **RES-02**, не ANA.
 
 
 ## 13. Размер исследовательского прохода
