@@ -216,8 +216,9 @@ Stage 2 продолжается.
 2. Старые RES/ANA findings = legacy reconnaissance drafts до повторной валидации.
 3. Текущая область: **13 — методология исследований**.
 4. **RES-01 закрыт: `CLOSED_FOR_PRACTICE` после PASS-16.**
-5. Следующая тема: **RES-02 — study designs**.
-6. Следующий микро-проход: **RES-02/PASS-01 — scope and study-design taxonomy revalidation**.
+5. Текущая тема: **RES-02 — study designs (`RESEARCHING`)**.
+6. `PASS-01…PASS-06B` завершены.
+7. Следующий микро-проход: **RES-02/PASS-06C — mechanistic study structures**.
 
 
 ## 9. Зафиксированный общий план
