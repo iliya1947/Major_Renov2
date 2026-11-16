@@ -504,7 +504,7 @@ Concordant results across designs with unrelated biases can increase confidence,
 
 ## 30. Sources
 
-1. Cochrane Handbook Chapter 25: Assessing risk of bias in a non-randomized study (ROBINS-I), current Handbook version 6.5.  
+1. Cochrane Handbook Chapter 25: Assessing risk of bias in a non-randomized study (ROBINS-I), current Handbook version 6.5.1 (2026).1 (2026).  
    https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-25
 
 2. Hernán MA, Robins JM. Causal Inference: What If. Latest online version available via official author page.  
