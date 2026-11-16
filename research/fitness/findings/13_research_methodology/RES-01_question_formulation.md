@@ -1,6 +1,8 @@
 # RES-01 — Формулировка исследовательского вопроса / PICO(T)
 
-Статус: **CLOSED_FOR_PRACTICE v1.0**  
+> Этот файл — legacy synthesis предыдущего марафонного прохода. Его conclusions не считаются заново подтверждёнными до завершения granular revalidation + gap/audit. См. `../../STAGE2_RESTART.md`.
+
+Статус: **LEGACY DRAFT — REVALIDATION IN PROGRESS**  
 Дата: 2026-11-16  
 Область: 13 — Методология исследований
 
