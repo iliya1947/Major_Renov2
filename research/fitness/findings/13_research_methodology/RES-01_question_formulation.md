@@ -1,6 +1,6 @@
 # RES-01 — Формулировка исследовательского вопроса
 
-Статус: **REVALIDATED SYNTHESIS — pending final post-implementation closure audit**  
+Статус: **CLOSED_FOR_PRACTICE — REVALIDATED SYNTHESIS**  
 Дата synthesis: 2026-11-16  
 Область: 13 — Методология исследований
 
@@ -650,16 +650,16 @@ They operationalize established principles but are not represented as external u
 
 ---
 
-## 26. Current closure state
+## 26. Closure state
 
 Content coverage audit: **PASSED**.  
 Modular Question Card: **IMPLEMENTED**.  
 Search Concept Card: **IMPLEMENTED**.  
 Question ↔ Search handoff: **VERIFIED**.  
-Final synthesis: **IMPLEMENTED in this file**.
+Final synthesis: **IMPLEMENTED**.  
+Post-implementation consistency audit: **PASSED**.
 
-Remaining:
-1. short post-implementation consistency audit;
-2. update canonical status/queue;
-3. only then assign `CLOSED_FOR_PRACTICE`.
+Status: **CLOSED_FOR_PRACTICE**.
+
+This closure means RES-01 is sufficiently complete for project use. It does not imply that adjacent methodology topics RES-02…RES-29 are revalidated or closed.
 
