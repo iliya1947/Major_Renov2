@@ -6,7 +6,7 @@
 2. **RES-01 — CLOSED_FOR_PRACTICE.**
 3. RESEARCHING next: **RES-02 — study designs.**
 4. RES-01 PASS-01…PASS-16 завершены: granular revalidation → gap audits → architecture → synthesis → closure audit.
-5. RES-02/PASS-01…PASS-04 завершены. PASS-04 выявил отдельный structural gap. Следующий микро-проход: **RES-02/PASS-05A — self-controlled observational designs: case-crossover and self-controlled case series**.
+5. RES-02/PASS-01…PASS-05A завершены. Self-controlled observational gap закрыт на taxonomy level. Следующий микро-проход: **RES-02/PASS-05B — descriptive and frequency study structures: prevalence studies, case series and case reports**.
 
 ## Правила Stage 2 после restart
 
