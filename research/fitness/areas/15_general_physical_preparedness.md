@@ -390,3 +390,44 @@ Possible staged logic, to be evidence-tested later:
 15. staged expansion from arm priority.
 
 ACSM's August 2026 roundtable now defines five interconnected fitness components: cardiorespiratory fitness, muscular fitness, body composition, flexibility and neuromotor fitness, retiring the old strict health/performance split. Current 2026 concurrent-training umbrella evidence indicates that in healthy/recreationally trained populations, combined resistance and endurance training can improve aerobic and strength-related outcomes without a general large penalty to strength, hypertrophy or power compared with resistance training alone, though context and highly trained populations still require caution.
+
+
+## Stage 0B addition — health outcomes физической активности
+
+Отдельная крупная область не создаётся, но GPP должна включать вопрос, **зачем** поддерживать широкую физическую подготовленность помимо внешнего вида/силы.
+
+Исследовать:
+
+1. All-cause mortality associations/intervention implications.
+2. Cardiovascular health.
+3. Blood pressure.
+4. Glucose regulation/metabolic health.
+5. Lipids.
+6. Body composition.
+7. Bone health.
+8. Musculoskeletal function.
+9. Functional independence.
+10. Mental-health outcomes.
+11. Sleep outcomes.
+12. Cognitive/brain-health outcomes.
+13. Dose-response of physical activity.
+14. Sedentary behavior independent of formal exercise.
+15. Minimum public-health dose vs additional benefit.
+16. Differences between observational associations and causal intervention evidence.
+
+## Stage 0B addition — conditioning methods
+
+1. Low-intensity steady-state work.
+2. Moderate continuous training.
+3. Tempo/threshold-type work.
+4. Aerobic interval training.
+5. High-intensity interval training.
+6. Sprint interval training.
+7. Circuit conditioning.
+8. Mixed-modal conditioning.
+9. Work:rest structures.
+10. Modality selection.
+11. Progression.
+12. Fatigue cost.
+13. Compatibility with strength/hypertrophy priority.
+14. Which methods are unnecessary for Ilya's actual goals.
