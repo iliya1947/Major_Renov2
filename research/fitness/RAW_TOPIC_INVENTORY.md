@@ -489,3 +489,33 @@
 18. Minimal complete long-term program.
 19. Staged expansion from current arm priority.
 20. Whole-system monitoring without trying to maximize every component.
+
+
+## Stage 0B — архитектурные дополнения 2026-11-16
+
+### Новая крупная область
+
+1. Коучинг и проведение тренировочной сессии.
+2. Pre-session readiness check.
+3. Exercise instruction and demonstration.
+4. Real-time observation/cueing/feedback.
+5. Session modification hierarchy.
+6. Client-centered communication.
+7. Motivational interviewing as coaching tool.
+8. ADHD-aware communication.
+9. Remote/AI coaching limitations.
+10. Session documentation.
+11. Scope of practice and referral.
+12. Professional ethics.
+13. Privacy/data handling.
+14. Risk management and emergency procedures.
+15. Conditional facility/organization topics.
+
+### Дополнения существующих областей
+
+1. Behavior-change models beyond SDT.
+2. Health coaching.
+3. Health outcomes of physical activity.
+4. Exercise epidemiology/dose-response.
+5. Detailed conditioning methods.
+6. Injury prevention explicitly treated as cross-domain rather than single isolated topic.
