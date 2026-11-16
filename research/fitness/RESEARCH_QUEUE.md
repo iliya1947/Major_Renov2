@@ -4,7 +4,7 @@
 
 1. **Stage 2 — RESTARTED.**
 2. RESEARCHING: **RES-01 — формулировка исследовательского вопроса.**
-3. PASS-01…PASS-06 завершены. Следующий микро-проход: **RES-01/PASS-07A — stakeholder and end-user involvement in question formulation**.
+3. PASS-01…PASS-07A завершены. Следующий микро-проход: **RES-01/PASS-07B — equity, diversity, context and applicability at question-framing stage**.
 4. После завершения всех passes RES-01 → отдельный gap/audit pass → новый synthesis.
 5. Затем RES-02 и далее по `RESEARCH_ORDER.md`.
 
