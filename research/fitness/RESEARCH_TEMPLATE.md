@@ -2,6 +2,24 @@
 
 Использовать как стандартный каркас при системной проработке каждой темы.
 
+## 0. Question Card
+
+До поиска заполнить `QUESTION_CARD.md`:
+- decision;
+- question type;
+- population/context;
+- intervention/exposure/phenomenon;
+- comparator;
+- critical outcomes;
+- secondary outcomes/harms;
+- time;
+- eligible evidence designs;
+- planned moderators/grouping;
+- applicability constraints;
+- closure criterion.
+
+Существенные scope changes после начала поиска документировать.
+
 ## 1. Тема
 
 Название.
