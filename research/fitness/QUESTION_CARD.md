@@ -15,7 +15,7 @@
 5. Заполнить только соответствующий conditional module.
 6. Добавить нужные cross-cutting modules.
 7. Пройти Review Necessity / FINER Gate.
-8. Только затем строить отдельный `SEARCH_CONCEPT_CARD`.
+8. Только затем строить отдельный `SEARCH_CONCEPT_CARD.md`.
 
 Не заполнять все модули механически.
 
@@ -742,7 +742,7 @@ Complete before a major deep-review stream.
 
 If viability status permits evidence search:
 
-1. Create/link a separate `SEARCH_CONCEPT_CARD`.
+1. Create/link a separate `SEARCH_CONCEPT_CARD.md`.
 2. Keep scientific eligibility distinct from searchable concepts.
 3. Record which eligibility concepts are intentionally omitted from the search.
 4. Do not let search results silently redefine the question.
@@ -768,4 +768,4 @@ Before executing a major search:
 - [ ] Review Necessity / FINER Gate is complete.
 - [ ] Research route is assigned.
 - [ ] Closure criterion is explicit.
-- [ ] Search Concept Card is still downstream and separate.
+- [ ] `SEARCH_CONCEPT_CARD.md` is still downstream and separate.
