@@ -4,7 +4,7 @@
 
 1. **Stage 2 — RESTARTED.**
 2. RESEARCHING: **RES-01 — формулировка исследовательского вопроса.**
-3. PASS-01…PASS-12B завершены. Следующий микро-проход: **RES-01/PASS-13 — final closure audit before modular Question Card and synthesis**.
+3. PASS-01…PASS-13 завершены. Final closure audit: **CONTENT_COVERAGE_AUDIT_PASSED**, но RES-01 ещё RESEARCHING до реализации архитектуры и synthesis. Следующий микро-проход: **RES-01/PASS-14A — build modular QUESTION_CARD architecture**.
 4. После завершения всех passes RES-01 → отдельный gap/audit pass → новый synthesis.
 5. Затем RES-02 и далее по `RESEARCH_ORDER.md`.
 
