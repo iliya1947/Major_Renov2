@@ -6,7 +6,7 @@
 2. **RES-01 — CLOSED_FOR_PRACTICE.**
 3. RESEARCHING next: **RES-02 — study designs.**
 4. RES-01 PASS-01…PASS-16 завершены: granular revalidation → gap audits → architecture → synthesis → closure audit.
-5. RES-02/PASS-01…PASS-06A завершены. Diagnostic/measurement branches покрыты на taxonomy level. Следующий микро-проход: **RES-02/PASS-06B — prognosis and prediction study structures: overall prognosis, prognostic-factor and prediction-model studies**.
+5. RES-02/PASS-01…PASS-06B завершены. Diagnostic/measurement и prognosis/prediction branches покрыты на taxonomy level. Следующий микро-проход: **RES-02/PASS-06C — mechanistic study structures: human experimental physiology, laboratory mechanistic studies, mediation/pathway evidence, animal/in-vitro translational evidence and limits of mechanistic inference**.
 
 ## Правила Stage 2 после restart
 
