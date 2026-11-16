@@ -3,10 +3,10 @@
 ## Сейчас
 
 1. **Stage 2 — RESTARTED.**
-2. RESEARCHING: **RES-01 — формулировка исследовательского вопроса.**
-3. PASS-01…PASS-15 завершены. Final RES-01 synthesis реализован; closure status ещё не присвоен. Следующий микро-проход: **RES-01/PASS-16 — post-implementation consistency audit and closure decision**.
-4. После завершения всех passes RES-01 → отдельный gap/audit pass → новый synthesis.
-5. Затем RES-02 и далее по `RESEARCH_ORDER.md`.
+2. **RES-01 — CLOSED_FOR_PRACTICE.**
+3. RESEARCHING next: **RES-02 — study designs.**
+4. RES-01 PASS-01…PASS-16 завершены: granular revalidation → gap audits → architecture → synthesis → closure audit.
+5. Следующий микро-проход: **RES-02/PASS-01 — scope and study-design taxonomy revalidation**.
 
 ## Правила Stage 2 после restart
 
