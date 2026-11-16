@@ -386,3 +386,31 @@
 23. Eating disorders/disordered eating boundary.
 24. Nutrition tracking and false precision.
 25. Minimal practical nutrition system for later personalization.
+
+
+## Дополнения после отдельного аудита психологии, СДВГ и приверженности — 2026-11-16
+
+1. Intention–behavior gap and action initiation.
+2. Self-Determination Theory: autonomy, competence, relatedness.
+3. Self-efficacy/perceived competence.
+4. Outcome/performance/process goals.
+5. Implementation intentions and coping plans.
+6. Routine vs habit and automaticity.
+7. Reinforcement/reward architecture.
+8. Enjoyment/affect as adherence variables.
+9. Social and environmental determinants.
+10. Lapse/re-entry rather than all-or-nothing failure.
+11. Adherence measurement.
+12. ADHD executive-function barriers relevant to exercise.
+13. ADHD delay/reward/time-processing constructs.
+14. Adult ADHD physical-activity barriers/facilitators.
+15. Evidence limits for routines/habits in adult ADHD.
+16. Candidate ADHD-friendly program principles requiring personal testing.
+17. Minimum viable session as testable hypothesis.
+18. Choice architecture.
+19. Feedback architecture.
+20. Controlled novelty/variation.
+21. Friction audit.
+22. Individual behavioral N-of-1 testing.
+23. Explicit list of unsupported assumptions to avoid.
+24. Clinical mental-health boundary.
