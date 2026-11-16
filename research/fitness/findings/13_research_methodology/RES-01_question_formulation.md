@@ -25,7 +25,7 @@ Cochrane прямо рассматривает формулировку вопр
 **Исследовательский вопрос должен быть сформулирован до систематического поиска и оценки результатов.**
 
 Основания:
-- Cochrane Handbook v6.5, Chapter 2: well-formulated questions guide eligibility, search, data collection, synthesis and presentation.
+- Cochrane Handbook v6.5.1 (2026), Chapter 2: well-formulated questions guide eligibility, search, data collection, synthesis and presentation.
 - Chapter 3: PICO and study-design eligibility should be pre-specified; grouping decisions should по возможности приниматься независимо от знания результатов включённых исследований.
 - NSCA current CSCS content outline explicitly includes PICOT as the approach to asking answerable questions.
 
@@ -436,7 +436,7 @@ Acute / weeks / months / long-term / follow-up.
 
 ## 15. Источники
 
-1. Cochrane Handbook for Systematic Reviews of Interventions, Version 6.5 (2024), Chapter 2: Determining the scope of the review and the questions it will address.  
+1. Cochrane Handbook for Systematic Reviews of Interventions, Version 6.5.1 (2026), Chapter 2: Determining the scope of the review and the questions it will address.  
    https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-02
 
 2. Cochrane Handbook, Chapter 3: Defining the criteria for including studies and how they will be grouped for the synthesis.  
