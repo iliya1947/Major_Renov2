@@ -13,7 +13,7 @@
 | № | Область | Аудит карты | Исследование | Синтез | Применение |
 |---|---|---|---|---|---|
 | 01 | Медицина и безопасность | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 02 | Анатомия | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
+| 02 | Анатомия | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 03 | Общая и мышечная физиология | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 04 | Нейрофизиология и моторное обучение | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 05 | Биоэнергетика | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
