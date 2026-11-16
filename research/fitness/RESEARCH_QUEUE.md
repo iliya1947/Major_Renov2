@@ -4,7 +4,7 @@
 
 1. **Stage 2 — RESTARTED.**
 2. RESEARCHING: **RES-01 — формулировка исследовательского вопроса.**
-3. PASS-01…PASS-08 завершены. Gap audit: RES-01 пока НЕ готов к synthesis. Следующий микро-проход: **RES-01/PASS-09A — scoping/mapping questions: PCC and objective-question alignment**.
+3. PASS-01…PASS-09A завершены. Следующий микро-проход: **RES-01/PASS-09B — prevalence/incidence question framing using current JBI-endorsed methodology**.
 4. После завершения всех passes RES-01 → отдельный gap/audit pass → новый synthesis.
 5. Затем RES-02 и далее по `RESEARCH_ORDER.md`.
 
