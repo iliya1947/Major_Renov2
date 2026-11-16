@@ -4,7 +4,7 @@
 
 1. **Stage 2 — RESTARTED.**
 2. RESEARCHING: **RES-01 — формулировка исследовательского вопроса.**
-3. Текущий микро-проход: **RES-01/PASS-01 — scope and question framing**.
+3. PASS-01 завершён. Следующий микро-проход: **RES-01/PASS-02 — PICO components and eligibility logic**.
 4. После завершения всех passes RES-01 → отдельный gap/audit pass → новый synthesis.
 5. Затем RES-02 и далее по `RESEARCH_ORDER.md`.
 
