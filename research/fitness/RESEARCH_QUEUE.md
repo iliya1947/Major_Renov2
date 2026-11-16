@@ -6,7 +6,7 @@
 2. **RES-01 — CLOSED_FOR_PRACTICE.**
 3. RESEARCHING next: **RES-02 — study designs.**
 4. RES-01 PASS-01…PASS-16 завершены: granular revalidation → gap audits → architecture → synthesis → closure audit.
-5. RES-02/PASS-01…PASS-02 завершены. Следующий микро-проход: **RES-02/PASS-03 — non-randomized intervention and quasi-experimental design families**.
+5. RES-02/PASS-01…PASS-03 завершены. Следующий микро-проход: **RES-02/PASS-04 — observational analytic design families: cohort, case-control, analytical cross-sectional and ecological/aggregate structures**.
 
 ## Правила Stage 2 после restart
 
