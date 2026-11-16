@@ -3,9 +3,9 @@
 ## Сейчас
 
 1. **Stage 2 — deep research.**
-2. RESEARCHING: RES-03 — randomization, allocation and blinding.
-3. Затем RES-04 — bias domains.
-4. Затем RES-05...RES-29 по `RESEARCH_ORDER.md`.
+2. RESEARCHING: RES-06 — sampling and external validity.
+3. Затем RES-07 — power, Type I/II error and multiplicity.
+4. Затем RES-08...RES-29 по `RESEARCH_ORDER.md`.
 5. После достаточного methodological foundation — ANA → PHY → NEU → BIO → MEC.
 
 ## Правила Stage 2
@@ -25,3 +25,6 @@
 3. Stage 1 — normalized canonical knowledge tree v1.0.
 4. RES-01 — question formulation / PICO(T): CLOSED_FOR_PRACTICE v1.0.
 5. RES-02 — study designs: CLOSED_FOR_PRACTICE v1.0.
+6. RES-03 — randomization/allocation/blinding: CLOSED_FOR_PRACTICE v1.0.
+7. RES-04 — risk-of-bias domains: CLOSED_FOR_PRACTICE v1.0.
+8. RES-05 — confounding/causal inference: CLOSED_FOR_PRACTICE v1.0.
