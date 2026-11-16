@@ -14,8 +14,8 @@
 |---|---|---|---|---|---|
 | 01 | Медицина и безопасность | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 02 | Анатомия | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 03 | Общая и мышечная физиология | AUDITING | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 04 | Нейрофизиология и моторное обучение | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
+| 03 | Общая и мышечная физиология | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
+| 04 | Нейрофизиология и моторное обучение | AUDITING | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 05 | Биоэнергетика | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 06 | Биомеханика | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 07 | Программирование тренировок | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
