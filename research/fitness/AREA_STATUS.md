@@ -19,8 +19,8 @@
 | 05 | Биоэнергетика | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 06 | Биомеханика | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 07 | Программирование тренировок | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 08 | Техника и выбор упражнений | AUDITING | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 09 | Тестирование и мониторинг | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
+| 08 | Техника и выбор упражнений | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
+| 09 | Тестирование и мониторинг | AUDITING | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 10 | Восстановление | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 11 | Питание и добавки | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 12 | Психология, СДВГ и приверженность | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
