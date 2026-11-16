@@ -74,6 +74,12 @@ PR: #5 — «Исследование физической подготовки:
 - `QUESTION_CARD.md`  
   Обязательная формулировка вопроса до поиска: type/PICO(T)/outcomes/design/applicability/closure.
 
+- `DECISION_CARD.md`  
+  Обязательный Evidence-to-Decision шлюз перед значимой персональной рекомендацией.
+
+- `SOURCE_STATUS_LOG.md`  
+  Corrections/retractions/expressions of concern и влияние на зависимые выводы.
+
 - `EVIDENCE_LEDGER.md`  
   Реестр ключевых проверяемых выводов, их источников, уверенности и применимости.
 
