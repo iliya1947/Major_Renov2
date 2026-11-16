@@ -3,9 +3,9 @@
 ## Сейчас
 
 1. **Stage 2 — deep research.**
-2. RESEARCHING: **ANA-01 — анатомическая терминология, плоскости, оси и движения.**
-3. Затем ANA-02 — ткани опорно-двигательной системы.
-4. Затем ANA-03...ANA-15 по `RESEARCH_ORDER.md`.
+2. RESEARCHING: **ANA-07 — туловище и позвоночная мускулатура.**
+3. Затем ANA-08 — таз и тазобедренный сустав.
+4. Затем ANA-09…ANA-15 по `RESEARCH_ORDER.md`.
 5. После завершения ANA → PHY → NEU → BIO → MEC.
 
 ## Правила Stage 2
@@ -25,4 +25,5 @@
 2. Stage 0B — architecture audit + area 16.
 3. Stage 1 — normalized canonical knowledge tree v1.0.
 4. **RES-01…RES-29 — методологическая область полностью исследована и синтезирована, v1.0.**
+5. ANA-01…ANA-06 — anatomical terminology, tissues, axial skeleton, shoulder, arm/elbow, forearm/wrist/hand: CLOSED_FOR_PRACTICE v1.0.
 5. Созданы `QUESTION_CARD.md`, `DECISION_CARD.md`, `SOURCE_STATUS_LOG.md`.
