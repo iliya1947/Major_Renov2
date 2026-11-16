@@ -465,3 +465,27 @@
 18. ADHD and limited-equipment personalization.
 19. Future personal-assessment protocol.
 20. Formal decision documentation.
+
+
+## Дополнения после отдельного аудита общей физической подготовки — 2026-11-16
+
+1. Physical activity vs exercise vs training vs sedentary behavior.
+2. ACSM 2026 five-component fitness framework.
+3. Muscular fitness = strength, endurance and power.
+4. Aerobic training variables/prescription.
+5. Public-health activity targets vs performance optimization.
+6. Anaerobic power/capacity.
+7. Neuromotor fitness.
+8. Body composition as fitness component.
+9. Work capacity.
+10. Detailed concurrent-training variables.
+11. Sequencing/interference management.
+12. Trunk/core functions without mystification.
+13. Upper/lower body long-term balance.
+14. Bone-loading component.
+15. Sedentary behavior/NEAT.
+16. Recreation/physical hobbies as useful activity.
+17. General preparation vs specialization.
+18. Minimal complete long-term program.
+19. Staged expansion from current arm priority.
+20. Whole-system monitoring without trying to maximize every component.
