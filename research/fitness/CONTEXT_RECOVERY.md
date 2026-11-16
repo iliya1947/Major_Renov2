@@ -115,11 +115,11 @@ Scope следующего PASS:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06A_diagnostic_measurement_designs.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B_prognosis_prediction_designs.md`
 
 и затем начать новый файл:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C_...`
 
 ---
 
