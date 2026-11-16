@@ -1,6 +1,6 @@
 # Methodology findings — RES-01…RES-29
 
-Статус: **COMPLETE v1.0 — 2026-11-16**
+Статус: **LEGACY DRAFT SET — REVALIDATION IN PROGRESS**
 
 ## Навигация
 
@@ -45,3 +45,11 @@
 ## Next
 
 Deep research: **ANA-01**.
+
+
+## Restart notice
+
+С 2026-11-16 прежние RES-01…RES-29 считаются разведочными черновиками.  
+Их прежние `CLOSED_FOR_PRACTICE` markers superseded by `STAGE2_RESTART.md`.
+
+Revalidation starts from **RES-01** with granular passes + mandatory gap/audit pass.
