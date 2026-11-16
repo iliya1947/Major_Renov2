@@ -25,7 +25,7 @@
 | 11 | Питание и добавки | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 12 | Психология, СДВГ и приверженность | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 13 | Методология исследований | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 14 | Индивидуализация и принятие решений | AUDITING | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 15 | Общая физическая подготовка | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
+| 14 | Индивидуализация и принятие решений | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
+| 15 | Общая физическая подготовка | AUDITING | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 
 Обновлять после каждого завершённого аудита или смены этапа.
