@@ -28,4 +28,6 @@
 | 14 | Индивидуализация и принятие решений | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 15 | Общая физическая подготовка | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 
+| 16 | Коучинг, реализация и профессиональная практика | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
+
 Обновлять после каждого завершённого аудита или смены этапа.
