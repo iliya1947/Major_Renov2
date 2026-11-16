@@ -441,3 +441,27 @@
 21. Evidence hierarchy by question rather than one universal ladder.
 22. Evidence-to-decision framework.
 23. Version/update/retraction handling.
+
+
+## Дополнения после отдельного аудита индивидуализации и принятия решений — 2026-11-16
+
+1. What exactly can be individualized.
+2. Baseline, goal and constraint hierarchies.
+3. Group evidence vs personal response.
+4. Response uncertainty and measurement noise.
+5. Dose titration.
+6. Exercise-fit framework.
+7. Time/complexity budget.
+8. Personalization vs autoregulation.
+9. Predefined decision thresholds.
+10. Rules for changing load, volume, exercise or nothing.
+11. Diagnostic sequence for lack of progress.
+12. Personal evidence loop.
+13. N-of-1 logic.
+14. Prediction vs adaptive personalization.
+15. Personalization hierarchy.
+16. Minimum viable effective program.
+17. Escalation and de-escalation ladders.
+18. ADHD and limited-equipment personalization.
+19. Future personal-assessment protocol.
+20. Formal decision documentation.
