@@ -315,3 +315,26 @@
 13. Critical evaluation of “high-risk/bad exercise” claims.
 14. Exercise substitution logic.
 15. Systematic technique-evaluation workflow.
+
+
+## Дополнения после отдельного аудита тестирования и мониторинга — 2026-11-16
+
+1. Formal test-selection framework.
+2. Standardization and familiarization.
+3. Learning effects in testing.
+4. Strength/endurance/power/velocity test categories.
+5. ROM/mobility and neuromotor assessment.
+6. Cardiorespiratory assessment boundaries.
+7. Body-composition method-specific errors.
+8. Arm-specific circumference protocol.
+9. Technical-performance monitoring.
+10. Daily readiness and training-load monitoring.
+11. Adherence monitoring as separate signal.
+12. SEM, CV, MDC and responsiveness.
+13. Biological variability vs measurement error.
+14. Trend-analysis and interpretation hierarchy.
+15. N-of-1 experimentation framework.
+16. Monitoring frequency.
+17. Testing safety.
+18. Consumer technology limitations.
+19. Minimal home measurement stack.
