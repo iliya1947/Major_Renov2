@@ -6,7 +6,12 @@
 
 | ID | Вывод | Область | Источник(и) | Уровень уверенности | Практическое значение | Применимость к Илье | Статус |
 |---|---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — | — |
+| RES01-01 | Хорошо сформулированный вопрос должен предшествовать eligibility/search/synthesis и направляет весь evidence review. | RES-01 | Cochrane Handbook v6.5 Ch2 | HIGH | Не начинать тему с произвольного поиска. | Прямо применимо ко всему проекту. | ACCEPTED |
+| RES01-02 | Для intervention-effect questions PICO является стандартным каркасом; NSCA в exercise science использует PICOT, отдельно фиксируя время. | RES-01 | Cochrane Ch2–3; NSCA Certification Handbook effective 2025-10-01 | HIGH | Уточнять population/intervention/comparator/outcome/time до поиска. | Прямо применимо. | ACCEPTED |
+| RES01-03 | Outcome должен быть заранее приоритизирован по важности; benefits и harms нельзя оценивать односторонне. | RES-01 | Cochrane Ch2–3 | HIGH | Не подменять target outcome удобным proxy. | Прямо применимо. | ACCEPTED |
+| RES01-04 | Study design и структура вопроса должны соответствовать типу вопроса; intervention, diagnostic, prognostic/exposure и qualitative вопросы требуют разных evidence paths. | RES-01 | GRADE Book; Cochrane Handbooks | HIGH | Не строить одну универсальную “лестницу исследований”. | Прямо применимо. | ACCEPTED |
+| RES01-05 | Существенные изменения scope/grouping после начала review допустимы при обосновании, но должны быть явно задокументированы. | RES-01 | Cochrane Ch3 | HIGH | Любое post-hoc изменение вопроса фиксировать. | Прямо применимо. | ACCEPTED |
+| RES01-06 | Обязательная Question Card и тест “Decision before evidence” — инженерная реализация методологии проекта, а не отдельный опубликованный стандарт. | RES-01 | Derived from Cochrane/GRADE/NSCA | PRACTICAL_HEURISTIC | Уменьшает research drift и post-hoc rationalization. | Специально создано для этого проекта. | ACTIVE |
 
 ## Правила
 
