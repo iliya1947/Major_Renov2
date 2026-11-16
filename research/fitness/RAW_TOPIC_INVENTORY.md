@@ -250,3 +250,26 @@
 15. Aerobic capacity/economy.
 16. Mitochondrial biogenesis.
 17. Metabolic training adaptations and detraining.
+
+
+## Дополнения после отдельного аудита биомеханики — 2026-11-16
+
+1. Полная кинематика: displacement, linear/angular velocity и acceleration.
+2. Полная кинетика: external/internal forces и joint moments.
+3. Newton's laws и vector mechanics.
+4. Lever classes и mechanical advantage.
+5. Center of mass, line of gravity, base of support, center of pressure.
+6. Tissue stress/strain: tension, compression, shear, bending, torsion.
+7. Viscoelastic mechanics.
+8. Muscle–tendon mechanics.
+9. Resistance sources beyond free weights.
+10. External resistance curves vs internal strength curves.
+11. Sticking regions and mechanical dead spots.
+12. Whole-body joint biomechanics.
+13. Anthropometry/scaling effects.
+14. Velocity, inertia and ballistic movement.
+15. External/internal mechanical work and power.
+16. Systematic exercise mechanical analysis.
+17. Mechanical progression with limited equipment.
+18. Biomechanical measurement/modeling limits.
+19. Distinction between mechanical load and injury diagnosis.
