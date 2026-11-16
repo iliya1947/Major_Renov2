@@ -296,3 +296,22 @@
 17. Adherence as a programming variable.
 18. Program evaluation/change control.
 19. Temporary specialization blocks.
+
+
+## Дополнения после отдельного аудита техники и выбора упражнений — 2026-11-16
+
+1. Criteria for acceptable repetitions.
+2. Taxonomy of compensations.
+3. Exercise-specific technical failure.
+4. Breathing and bracing.
+5. Technique by resistance modality.
+6. Spotting and safe-failure strategies.
+7. Equipment setup/ergonomics.
+8. Formal progression/regression methods.
+9. Arm-specific exercise families.
+10. Fundamental whole-body movement families.
+11. Cueing/instruction link to technique.
+12. Pain/discomfort decision points.
+13. Critical evaluation of “high-risk/bad exercise” claims.
+14. Exercise substitution logic.
+15. Systematic technique-evaluation workflow.
