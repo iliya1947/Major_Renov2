@@ -197,3 +197,35 @@
 23. Physiological time course of detraining/retraining.
 24. Muscle memory и её возможные клеточные механизмы.
 25. Inter- и intra-individual variability физиологического ответа.
+
+
+## Дополнения после отдельного аудита нейрофизиологии и моторного обучения — 2026-11-16
+
+1. CNS/PNS и autonomic nervous system в контексте тренировки.
+2. Motor-unit recruitment threshold, size principle и derecruitment.
+3. Neural drive и voluntary activation.
+4. Muscle spindle, GTO, visual/vestibular/cutaneous sensory feedback.
+5. Stretch reflex и reciprocal inhibition.
+6. Sensorimotor integration.
+7. Neural mechanisms of rate of force development.
+8. Neural adaptations to strength training.
+9. Bilateral deficit/facilitation.
+10. Neuromuscular fatigue.
+11. Feedforward vs feedback motor control.
+12. Movement synergies, stability и functional variability.
+13. Balance/neuromotor fitness.
+14. Performance vs learning.
+15. Retention, transfer, generalization и automaticity.
+16. Explicit vs implicit learning.
+17. Constraints-based learning.
+18. Distributed/massed, blocked/random, constant/variable practice.
+19. Contextual interference.
+20. Internal/external attentional focus.
+21. Knowledge of results vs knowledge of performance.
+22. Feedback frequency, faded/bandwidth/self-controlled feedback.
+23. Cue design и cognitive overload.
+24. Demonstration, modeling и video feedback.
+25. Error diagnosis and correction.
+26. Neuroplasticity, consolidation и interference.
+27. Arousal/stress effects on motor performance.
+28. Motor learning under fatigue.
