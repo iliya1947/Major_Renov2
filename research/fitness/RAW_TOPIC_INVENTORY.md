@@ -273,3 +273,26 @@
 17. Mechanical progression with limited equipment.
 18. Biomechanical measurement/modeling limits.
 19. Distinction between mechanical load and injury diagnosis.
+
+
+## Дополнения после отдельного аудита программирования тренировок — 2026-11-16
+
+1. Program architecture: session/microcycle/mesocycle/macrocycle.
+2. Total-body, splits и specialization structures.
+3. Formal exercise-order logic.
+4. Load prescription: %1RM, RM, RPE, RIR, velocity.
+5. Multiple definitions of training volume.
+6. Proximity to failure as separate variable.
+7. Tempo and intended/actual velocity.
+8. ROM as programming variable.
+9. Set organization: straight sets, supersets, circuits, clusters, rest-pause, drop sets.
+10. Progression models including double progression.
+11. Preset autoregulation decision rules.
+12. Planned exercise variation/rotation.
+13. Fatigue-management workflow.
+14. Plateau verification/diagnosis.
+15. Maintenance dose and return after breaks.
+16. Home-training constraints.
+17. Adherence as a programming variable.
+18. Program evaluation/change control.
+19. Temporary specialization blocks.
