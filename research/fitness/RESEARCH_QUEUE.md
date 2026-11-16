@@ -3,9 +3,9 @@
 ## Сейчас
 
 1. **Stage 2 — deep research.**
-2. RESEARCHING: RES-15 — systematic reviews.
-3. Затем RES-16 — meta-analysis.
-4. Затем RES-17...RES-29 по `RESEARCH_ORDER.md`.
+2. RESEARCHING: RES-21 — network meta-analysis.
+3. Затем RES-22 — individual response / responder methodology.
+4. Затем RES-23...RES-29 по `RESEARCH_ORDER.md`.
 5. После достаточного methodological foundation — ANA → PHY → NEU → BIO → MEC.
 
 ## Правила Stage 2
@@ -37,3 +37,9 @@
 15. RES-12 — exercise measurement pitfalls: CLOSED_FOR_PRACTICE v1.0.
 16. RES-13 — acute proxies: CLOSED_FOR_PRACTICE v1.0.
 17. RES-14 — acute vs chronic inference: CLOSED_FOR_PRACTICE v1.0.
+18. RES-15 — systematic reviews: CLOSED_FOR_PRACTICE v1.0.
+19. RES-16 — meta-analysis: CLOSED_FOR_PRACTICE v1.0.
+20. RES-17 — heterogeneity: CLOSED_FOR_PRACTICE v1.0.
+21. RES-18 — publication/reporting bias: CLOSED_FOR_PRACTICE v1.0.
+22. RES-19 — GRADE/certainty: CLOSED_FOR_PRACTICE v1.0.
+23. RES-20 — guideline appraisal: CLOSED_FOR_PRACTICE v1.0.
