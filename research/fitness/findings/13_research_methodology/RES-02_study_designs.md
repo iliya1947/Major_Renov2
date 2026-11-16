@@ -1,6 +1,8 @@
 # RES-02 — Дизайны исследований и какие вопросы они способны решать
 
-Статус: **CLOSED_FOR_PRACTICE v1.0**  
+> Этот файл — legacy synthesis предыдущего марафонного прохода. Его conclusions не считаются заново подтверждёнными до granular revalidation + gap/audit + нового synthesis.
+
+Статус: **LEGACY DRAFT — REVALIDATION IN PROGRESS**  
 Дата: 2026-11-16  
 Область: 13 — Методология исследований
 
