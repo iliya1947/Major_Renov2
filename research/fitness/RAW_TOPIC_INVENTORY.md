@@ -357,3 +357,32 @@
 13. Individual recovery variability.
 14. Cardiovascular fitness contribution to between-set recovery.
 15. Recovery decision workflow.
+
+
+## Дополнения после отдельного аудита питания и эргогенных средств — 2026-11-16
+
+1. RMR/TDEE/NEAT and calorie-estimation limits.
+2. Energy availability and REDs as distinct from ordinary energy balance.
+3. Nutrition for muscle gain/recomposition.
+4. Nutrition for fat loss while preserving lean mass.
+5. Detailed protein quality/distribution/timing questions.
+6. Detailed carbohydrate availability/glycogen/timing questions.
+7. Dietary fat and essential fatty acids.
+8. Fiber/GI tolerance.
+9. Broader micronutrient/deficiency framework.
+10. Hydration and electrolyte decision rules.
+11. Meal timing and session-specific nutrition.
+12. Dietary-pattern adequacy.
+13. Food quality, cost, convenience and ADHD meal friction.
+14. Appetite behavior and stimulant-medication boundary.
+15. Supplement evaluation framework.
+16. Creatine-specific questions.
+17. Caffeine-specific questions and sleep/stimulant interactions.
+18. Beta-alanine, nitrate and sodium bicarbonate.
+19. Broader supplement inventory requiring separate evidence review.
+20. Performance-enhancing drugs/hormones as risk-recognition boundary.
+21. Supplement quality/regulation/contamination.
+22. Alcohol and training/recovery.
+23. Eating disorders/disordered eating boundary.
+24. Nutrition tracking and false precision.
+25. Minimal practical nutrition system for later personalization.
