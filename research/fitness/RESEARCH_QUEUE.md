@@ -4,7 +4,7 @@
 
 1. **Stage 2 — RESTARTED.**
 2. RESEARCHING: **RES-01 — формулировка исследовательского вопроса.**
-3. PASS-01…PASS-14A завершены. Modular QUESTION_CARD v2.0 реализован. Следующий микро-проход: **RES-01/PASS-14B — build standalone SEARCH_CONCEPT_CARD and verify handoff**.
+3. PASS-01…PASS-14B завершены. QUESTION_CARD ↔ SEARCH_CONCEPT_CARD handoff реализован и проверен. Следующий микро-проход: **RES-01/PASS-15 — final synthesis of question-formulation methodology and canonical rules**.
 4. После завершения всех passes RES-01 → отдельный gap/audit pass → новый synthesis.
 5. Затем RES-02 и далее по `RESEARCH_ORDER.md`.
 
