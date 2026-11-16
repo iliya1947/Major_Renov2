@@ -414,3 +414,30 @@
 22. Individual behavioral N-of-1 testing.
 23. Explicit list of unsupported assumptions to avoid.
 24. Clinical mental-health boundary.
+
+
+## Дополнения после отдельного аудита методологии исследований — 2026-11-16
+
+1. PICOT and question-type matching.
+2. Randomization, allocation concealment and analysis populations.
+3. Blinding limitations in exercise trials.
+4. Formal bias domains.
+5. Confounders, mediators, moderators, colliders and causal inference.
+6. Power, Type I/II error and multiplicity.
+7. Missing data/dropout.
+8. Detailed validity/reliability/responsiveness.
+9. Exercise-science-specific measurement issues.
+10. EMG/mechanistic proxy limitations.
+11. Acute vs chronic outcome logic.
+12. Systematic-review methods.
+13. Fixed/random effects, prediction intervals and meta-analysis caveats.
+14. Clinical/methodological/statistical heterogeneity.
+15. Publication/selective-reporting bias.
+16. GRADE-style certainty of evidence.
+17. Guideline/position-stand appraisal.
+18. Network meta-analysis caveats.
+19. Individual-response/responder methodology.
+20. Dose-response inference.
+21. Evidence hierarchy by question rather than one universal ladder.
+22. Evidence-to-decision framework.
+23. Version/update/retraction handling.
