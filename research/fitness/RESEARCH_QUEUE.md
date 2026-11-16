@@ -3,9 +3,9 @@
 ## Сейчас
 
 1. **Stage 2 — deep research.**
-2. RESEARCHING: RES-08 — descriptive and inferential statistics.
-3. Затем RES-09 — effect sizes and uncertainty.
-4. Затем RES-10...RES-29 по `RESEARCH_ORDER.md`.
+2. RESEARCHING: RES-15 — systematic reviews.
+3. Затем RES-16 — meta-analysis.
+4. Затем RES-17...RES-29 по `RESEARCH_ORDER.md`.
 5. После достаточного methodological foundation — ANA → PHY → NEU → BIO → MEC.
 
 ## Правила Stage 2
@@ -30,3 +30,10 @@
 8. RES-05 — confounding/causal inference: CLOSED_FOR_PRACTICE v1.0.
 9. RES-06 — sampling/external validity: CLOSED_FOR_PRACTICE v1.0.
 10. RES-07 — power/multiplicity: CLOSED_FOR_PRACTICE v1.0.
+11. RES-08 — descriptive/inferential statistics: CLOSED_FOR_PRACTICE v1.0.
+12. RES-09 — effect sizes/uncertainty: CLOSED_FOR_PRACTICE v1.0.
+13. RES-10 — missing data/dropout: CLOSED_FOR_PRACTICE v1.0.
+14. RES-11 — reliability/validity/responsiveness: CLOSED_FOR_PRACTICE v1.0.
+15. RES-12 — exercise measurement pitfalls: CLOSED_FOR_PRACTICE v1.0.
+16. RES-13 — acute proxies: CLOSED_FOR_PRACTICE v1.0.
+17. RES-14 — acute vs chronic inference: CLOSED_FOR_PRACTICE v1.0.
