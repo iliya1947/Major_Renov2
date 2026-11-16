@@ -4,7 +4,7 @@
 
 1. **Stage 2 — RESTARTED.**
 2. RESEARCHING: **RES-01 — формулировка исследовательского вопроса.**
-3. PASS-01…PASS-11 завершены. Second gap audit: RES-01 ещё НЕ готов к synthesis. Следующий микро-проход: **RES-01/PASS-12A — effect-modification and predictors-of-treatment-effect question framing**.
+3. PASS-01…PASS-12A завершены. Следующий микро-проход: **RES-01/PASS-12B — question viability: FINER, duplication, answerability and review necessity**.
 4. После завершения всех passes RES-01 → отдельный gap/audit pass → новый synthesis.
 5. Затем RES-02 и далее по `RESEARCH_ORDER.md`.
 
