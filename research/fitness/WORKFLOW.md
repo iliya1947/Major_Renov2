@@ -210,9 +210,12 @@
 
 ## 8. Текущее следующее действие
 
-Продолжить **Этап 0A**: системный аудит всех областей на пропуски.
+Stage 2 продолжается.
 
-Начать с области 02 — анатомия, затем двигаться по очереди, фиксируя состояние в `AREA_STATUS.md` и `RESEARCH_QUEUE.md`.
+1. Методология исследований: **RES-01…RES-29 COMPLETE v1.0**.
+2. Текущая область: **02 — анатомия**.
+3. Текущая тема: **ANA-01 — анатомическая терминология, плоскости, оси и движения**.
+4. После ANA: PHY → NEU → BIO → MEC согласно `RESEARCH_ORDER.md`.
 
 
 ## 9. Зафиксированный общий план
@@ -265,3 +268,29 @@ Stage 1: **COMPLETE v1.0**.
 
 Следующий этап: **Stage 2 — deep research**.
 Старт: RES (методология), затем biological/mechanical foundation.
+
+
+## 12. Stage 2 milestone — methodology v1.0
+
+1. Глубоко исследованы и синтезированы **RES-01…RES-29**.
+2. Методологический фундамент теперь покрывает:
+   - формулировку вопросов;
+   - design selection;
+   - bias/causal inference;
+   - statistics/effect sizes;
+   - measurement;
+   - acute proxies;
+   - systematic review/meta-analysis;
+   - heterogeneity/publication bias;
+   - GRADE/guidelines;
+   - individual response/dose-response;
+   - N-of-1;
+   - Evidence-to-Decision;
+   - versioning/retractions.
+3. Созданы:
+   - `QUESTION_CARD.md`;
+   - `DECISION_CARD.md`;
+   - `SOURCE_STATUS_LOG.md`.
+4. Area 13: **RESEARCH_COMPLETE + SYNTHESIZED v1.0**.
+
+Следующий домен: **ANA — anatomy**.
