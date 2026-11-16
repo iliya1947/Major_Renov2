@@ -14,7 +14,7 @@
 | № | Область | Аудит карты | Исследование | Синтез | Применение |
 |---|---|---|---|---|---|
 | 01 | Медицина и безопасность | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 02 | Анатомия | MAP_READY | RESEARCHING | NOT_STARTED | NOT_STARTED |
+| 02 | Анатомия | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 03 | Общая и мышечная физиология | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 04 | Нейрофизиология и моторное обучение | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 05 | Биоэнергетика | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
@@ -25,7 +25,7 @@
 | 10 | Восстановление | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 11 | Питание и добавки | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 12 | Психология, СДВГ и приверженность | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 13 | Методология исследований | MAP_READY | RESEARCH_COMPLETE | SYNTHESIZED | NOT_STARTED |
+| 13 | Методология исследований | MAP_READY | RESEARCHING | NOT_STARTED | NOT_STARTED |
 | 14 | Индивидуализация и принятие решений | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 15 | Общая физическая подготовка | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 
