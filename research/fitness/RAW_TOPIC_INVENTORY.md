@@ -168,3 +168,32 @@
 18. Возрастные и половые структурные различия.
 19. Активная/пассивная недостаточность многосуставных мышц как функционально-анатомическая тема.
 20. Разграничение структурной анатомии, физиологии, биомеханики и клинической патологии.
+
+
+## Дополнения после отдельного аудита физиологии — 2026-11-16
+
+1. Клеточная организация скелетной мышцы.
+2. Excitation–contraction coupling и кальциевая регуляция.
+3. Cross-bridge cycle.
+4. Типы волокон и пластичность мышечного фенотипа.
+5. Острая физиологическая реакция на силовую нагрузку.
+6. Chronic skeletal-muscle adaptations beyond size.
+7. Muscle protein synthesis/breakdown и net protein balance.
+8. Mechanotransduction.
+9. Ribosomal biogenesis.
+10. Satellite cells и myonuclear accretion.
+11. Extracellular matrix remodeling.
+12. Rate of force development и мощность.
+13. Exercise-induced muscle damage.
+14. DOMS и repeated-bout effect.
+15. Костная физиология и ремоделирование.
+16. Cardiovascular exercise physiology.
+17. Respiratory exercise physiology.
+18. Endocrine exercise physiology.
+19. Immune/inflammatory exercise physiology.
+20. Integrated/network physiology.
+21. Environmental exercise physiology.
+22. Recovery physiology.
+23. Physiological time course of detraining/retraining.
+24. Muscle memory и её возможные клеточные механизмы.
+25. Inter- и intra-individual variability физиологического ответа.
