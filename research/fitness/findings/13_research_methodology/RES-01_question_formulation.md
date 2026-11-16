@@ -1,476 +1,665 @@
-# RES-01 — Формулировка исследовательского вопроса / PICO(T)
+# RES-01 — Формулировка исследовательского вопроса
 
-> Этот файл — legacy synthesis предыдущего марафонного прохода. Его conclusions не считаются заново подтверждёнными до завершения granular revalidation + gap/audit. См. `../../STAGE2_RESTART.md`.
-
-Статус: **LEGACY DRAFT — REVALIDATION IN PROGRESS**  
-Дата: 2026-11-16  
+Статус: **REVALIDATED SYNTHESIS — pending final post-implementation closure audit**  
+Дата synthesis: 2026-11-16  
 Область: 13 — Методология исследований
 
-## 1. Зачем эта тема нужна
+## 1. Назначение
 
-До поиска исследований нужно точно определить, **какой вопрос мы пытаемся решить и какое решение изменится от ответа**.
+RES-01 определяет, **какой научный вопрос задаётся до поиска evidence, какой тип evidence способен на него ответить и какой downstream decision изменится от ответа**.
 
-Плохо сформулированный вопрос создаёт систематические ошибки ещё до оценки качества исследований:
-- поиск становится хаотичным;
-- критерии включения меняются постфактум;
-- удобные outcomes получают больший вес;
-- разные популяции/дозы/сравнения смешиваются;
-- механизм подменяет клинический/тренировочный результат;
-- результат исследования может быть корректным, но не отвечать нашему вопросу.
+Каноническая последовательность проекта:
 
-Cochrane прямо рассматривает формулировку вопроса как исходный шаг, который определяет eligibility criteria, поиск, сбор данных, синтез и представление результатов.
+`Decision/use`
+→ `Primary objective`
+→ `Primary question`
+→ scientific question type
+→ question-specific eligibility
+→ applicability / stakeholder / equity / logic-model checks when relevant
+→ FINER / Review Necessity Gate
+→ research route
+→ `SEARCH_CONCEPT_CARD.md`
+→ retrieval
+→ later screening / appraisal / synthesis.
 
-## 2. Основной установленный принцип
+Search terms не определяют вопрос постфактум.
 
-### HIGH
+---
 
-**Исследовательский вопрос должен быть сформулирован до систематического поиска и оценки результатов.**
+## 2. Главные правила
 
-Основания:
-- Cochrane Handbook v6.5.1 (2026), Chapter 2: well-formulated questions guide eligibility, search, data collection, synthesis and presentation.
-- Chapter 3: PICO and study-design eligibility should be pre-specified; grouping decisions should по возможности приниматься независимо от знания результатов включённых исследований.
-- NSCA current CSCS content outline explicitly includes PICOT as the approach to asking answerable questions.
+1. **Вопрос формулируется до систематического поиска.**
+2. **Question type определяется до выбора study design.**
+3. **Eligibility и search query — разные объекты.**
+4. **Review question, synthesis question и study question могут различаться по ширине.**
+5. **Broad question не означает, что все studies можно объединить в один pooled effect.**
+6. **Primary objective должен быть один и явный; secondary/subquestions добавляются только когда они реально нужны.**
+7. **Critical outcomes / target phenomenon задаются до просмотра результатов.**
+8. **Benefits, harms и burden рассматриваются вместе, когда они decision-relevant.**
+9. **Time задаётся в нужной форме: intervention/exposure duration, outcome horizon, follow-up/risk horizon и calendar/reference period не смешиваются.**
+10. **Substantive scope changes после начала поиска логируются и проверяются на result-driven bias.**
+11. **Scientific question не сужается автоматически под текущий equipment/application context, если это разрушает general evidence layer.**
+12. **Application to target user оценивается отдельно от internal validity и общей evidence base.**
 
-Практический вывод для проекта:
-> Ни одна тема Stage 2 не начинается со «что говорит интернет про X».  
-> Сначала создаётся Question Card.
+---
 
-## 3. PICO и PICOT
+## 3. Intervention-effect questions
 
-### P — Population / Participants / Problem
+Для causal/comparative вопросов используется PICO/PICOT-логика с требуемой точностью только там, где variation может изменить decision или interpretation.
 
-Нужно определить, **для кого** ожидается применимость ответа.
+### Population
+Определяет scientific target, а не просто sample, который случайно встретился в literature.
 
-Для exercise science обычно важны:
-- возраст;
-- пол, если есть основания ожидать effect modification;
-- тренировочный статус;
-- здоровье/патология;
-- baseline strength/fitness;
-- тип активности;
-- setting;
-- иногда energy status или другие релевантные характеристики.
-
-Population должна быть:
-- достаточно узкой, чтобы исследования отвечали сопоставимому вопросу;
-- достаточно широкой, чтобы не отсечь релевантные данные без причины.
-
-Нельзя автоматически переносить:
-- elite athletes → detrained adults;
-- untrained participants → advanced lifters;
-- rehabilitation populations → healthy adults;
-- acute laboratory sample → long-term home-training context.
-
-### I — Intervention
-
-Нужно операционализировать **что именно делается**.
-
-Для тренировок недостаточно написать «силовые тренировки». Возможные обязательные параметры:
-- exercise/mode;
-- load/intensity;
-- sets/reps;
-- proximity to failure;
+### Intervention
+Название недостаточно. Когда decision зависит от деталей, операционализируются:
+- dose/load;
 - frequency;
-- session/week volume;
-- ROM;
-- tempo/velocity;
-- duration of intervention;
+- duration;
+- delivery;
 - supervision;
-- co-interventions.
+- progression;
+- co-interventions;
+- другие materially relevant компоненты.
 
-Если два исследования называют intervention одинаково, но dose сильно различается, они могут отвечать разным вопросам.
+### Comparator
+Должен представлять реальную decision alternative.
 
-### C — Comparator
+### Outcome
+Outcome priority:
+1. critical;
+2. important;
+3. exploratory/mechanistic;
+4. harms/burden.
 
-Comparator — **относительно чего оценивается эффект**.
+Outcome обычно **не должен автоматически быть eligibility criterion** только потому, что он critical: иначе возникает риск outcome-reporting bias.
 
-Возможные comparators:
-- no training;
-- usual activity;
-- другая нагрузка;
-- другая частота;
-- другое упражнение;
-- matched-volume condition;
-- matched-effort condition;
-- baseline/within-subject comparison, если дизайн это допускает.
+### Time
+Отдельно различаются:
+- intervention duration;
+- outcome time horizon.
 
-Без ясного comparator вопрос «что лучше?» часто бессодержателен.
-
-### O — Outcomes
-
-Outcome должен соответствовать реальной цели.
-
-Примеры разных outcomes:
-- maximal strength;
-- hypertrophy;
-- muscle thickness;
-- lean mass;
-- power;
-- muscular endurance;
-- adherence;
-- pain/adverse events;
-- sleep;
-- subjective enjoyment.
-
-Критически важно не подменять outcome proxy-показателем:
-- EMG ≠ hypertrophy;
-- acute lactate ≠ long-term muscle growth;
-- acute MPS ≠ автоматически chronic hypertrophy;
-- soreness ≠ training effectiveness.
-
-Cochrane рекомендует заранее определять **важные** outcomes и учитывать benefits и harms.
-
-### T — Time
-
-NSCA использует PICOT, явно добавляя Time.
-
-GRADE отмечает, что time часто уже встроено в intervention/outcome, но отдельная фиксация времени практически полезна.
-
-Для exercise science time может означать:
-- duration of intervention;
-- follow-up;
-- acute response window;
-- washout in crossover study;
-- detraining period.
-
-Разница между:
-- acute response after one session;
-- 4-week adaptation;
-- 12-week adaptation;
-- long-term maintenance
-может полностью изменить смысл вывода.
-
-## 4. PICO(T) не надо насильно использовать для любого вопроса
-
-PICO особенно естественен для вопросов об эффектах intervention.
-
-Но наш проект содержит разные типы вопросов:
-
-### 4.1 Intervention/effect
-Пример структуры:
-- у кого;
-- какая training strategy;
-- против какой;
-- какой outcome;
-- за какой период.
-
-Это классический PICO(T).
-
-### 4.2 Harm/safety
-Нужны:
+### Estimand
+Для exact target treatment effect фиксируются:
+- treatment A/B;
 - population;
-- exposure/intervention;
-- adverse outcome;
-- time;
-- comparator, если доступен.
+- variable + time;
+- intercurrent events;
+- strategy for each;
+- population summary;
+- adherence definition;
+- primary/secondary estimands.
 
-Для редких harms RCT может быть неподходящим источником.
+Assignment/program-policy effect, hypothetical/full-adherence effect и observed-completer contrast не считаются взаимозаменяемыми.
 
-### 4.3 Exposure/risk
-Например:
-- sleep deprivation;
-- low energy availability;
-- heat exposure.
+---
 
-Здесь «I» логичнее мыслить как Exposure.
+## 4. Harm / safety
 
-### 4.4 Prognostic/predictive
-Вопрос:
-- предсказывает ли baseline characteristic будущий outcome?
+`Harm/safety` — **cross-cutting domain**, а не один универсальный framework.
 
-Здесь нужен predictor + population + outcome + time, а не искусственное «intervention vs control».
+Маршрут определяется claim:
 
-### 4.5 Diagnostic/measurement
-Вопрос:
-- насколько хорошо test/measure отражает целевой construct или выявляет состояние?
+1. comparative harm effect → Intervention Effect;
+2. frequency of harm → Frequency;
+3. causal risk → Exposure/Etiology;
+4. prognosis after event/condition → Prognosis;
+5. stop/referral/professional guidance → Textual/Policy.
 
-Нужны:
-- index test;
-- reference standard;
-- population;
-- target condition/construct.
+Редкие или long-latency harms могут требовать non-randomized evidence.
 
-### 4.6 Mechanistic
-Вопрос:
-- какой механизм связывает stimulus и response?
+Отсутствие reported adverse events не равно доказанной безопасности.
 
-Нужны:
-- system;
-- perturbation;
-- mechanism/intermediate variables;
-- outcome;
-- ограничения causal inference.
+---
 
-Механистический ответ не должен автоматически превращаться в recommendation.
+## 5. Diagnostic accuracy
 
-### 4.7 Qualitative / implementation / adherence
-Вопросы:
-- какие barriers/facilitators сообщают люди?
-- почему intervention не выполняется?
-- как реализуется программа?
+Для diagnostic questions фиксируются:
 
-Здесь могут быть важнее:
-- population;
-- phenomenon;
-- context;
-- experience/process,
-чем искусственный comparator.
+1. participants/target population;
+2. index test;
+3. target condition;
+4. reference standard;
+5. intended role;
+6. thresholds;
+7. setting/pathway;
+8. target accuracy measures.
 
-### Практический вывод
+`Reference standard` не следует автоматически называть `gold standard`.
 
-**Question type определяется раньше study design.**  
-После этого выбираются designs, способные ответить именно на такой вопрос.
+---
 
-## 5. Review question vs synthesis question vs study question
+## 6. Measurement-property questions
 
-Cochrane различает:
+Project framework: **C-P-I-MP-U** — внутренний engineering framework, не внешний universal standard.
 
-1. **Review PICO** — общий scope и eligibility.
-2. **PICO конкретного synthesis** — точное сравнение, которое синтезируется.
-3. **PICO включённого исследования** — что реально изучалось в конкретной работе.
+1. Construct
+2. Population
+3. Instrument/protocol
+4. Measurement property
+5. Intended use/context
 
-Это важно для нас.
+Construct != instrument.
 
-Пример логики:
-- общий вопрос может быть «как proximity to failure влияет на hypertrophy?»;
-- отдельный synthesis может сравнивать 0–1 RIR vs ≥3 RIR при matched volume;
-- отдельные studies могут использовать разные loads, populations и definitions of failure.
+Нужно различать intended use:
+- group-level comparison;
+- individual monitoring/progress;
+- screening/classification;
+- другие uses.
 
-Нельзя считать, что широкая тема автоматически означает, что все studies можно свалить в один эффект.
+---
 
-## 6. Outcomes: заранее, но не как ловушка eligibility
+## 7. Prognosis and prediction
 
-В Cochrane intervention reviews outcomes обычно **не используют как основной eligibility criterion**: иначе study может быть исключено просто потому, что конкретный outcome не опубликован, что усиливает outcome-reporting bias.
+Различаются:
 
-Для нашего проекта правило:
+1. overall prognosis;
+2. prognostic factor;
+3. prediction model.
 
-1. Outcomes фиксируются заранее как цель synthesis.
-2. Мы ищем studies подходящего intervention/comparison/design.
-3. Нельзя автоматически исключать study только потому, что авторы не сообщили удобный для нас outcome, если оно иначе релевантно вопросу.
-4. Отсутствие outcome data само по себе является информацией о доступности evidence.
-5. Для узких вопросов, где measurement конкретного outcome является сущностью вопроса, исключение может быть оправдано и должно быть объяснено.
+Для framing используется explicit PICOTS-like logic:
+- Population;
+- Index factor/model;
+- Comparator if relevant;
+- Outcome;
+- Timing;
+- Setting.
 
-## 7. Broad vs narrow question
+Timing включает:
+- startpoint;
+- prediction horizon.
 
-Слишком широкий вопрос:
-- повышает heterogeneity;
-- смешивает разные populations/interventions;
-- делает практический ответ расплывчатым.
+**Prognostic factor != predictor of treatment effect.**
 
-Слишком узкий:
-- может оставить почти пустую evidence base;
-- снизить generalizability;
-- создать ложную точность.
+---
 
-Практический принцип:
-**ширина вопроса определяется решением, которое нужно принять.**
+## 8. Effect modification / predictors of treatment effect
 
-Если decision:
-> «Нужен ли вообще resistance training для hypertrophy?»
-вопрос может быть широким.
+Canonical question:
 
-Если decision:
-> «Как прогрессировать с фиксированными 6 кг, когда 15 повторов уже лёгкие?»
-нужен гораздо более узкий вопрос.
+> Does the effect of A versus B on O at T differ according to modifier M?
 
-## 8. Outcome priority
+Обязателен явный treatment contrast.
 
-Для каждого вопроса outcomes делятся на:
+Modifier types:
+1. participant baseline;
+2. intervention characteristic;
+3. context;
+4. methodological/study characteristic.
 
-1. **Critical** — непосредственно меняют решение.
-2. **Important** — важны, но не определяют решение в одиночку.
-3. **Exploratory/mechanistic** — помогают понять механизм.
-4. **Harms/burden** — нежелательные эффекты, fatigue, pain, time, adherence cost.
+Для person-level personalization предпочтительны baseline/pre-treatment modifiers.
 
-Для training decisions нельзя оценивать только benefit.
+Не допускается:
+- выводить interaction из того, что subgroup A significant, subgroup B non-significant;
+- считать raw pre/post response variability доказательством true treatment-response heterogeneity;
+- автоматически превращать prognostic factor в treatment-selection rule.
 
-Например, две программы могут дать одинаковую hypertrophy, но различаться:
-- по fatigue;
-- времени;
-- боли;
-- adherence;
-- equipment requirements.
+До сильного personalization claim нужны:
+- pre-specified rationale;
+- direct interaction evidence;
+- preferably within-study participant-level evidence;
+- replication/consistency;
+- sensible scale/cut-points;
+- practical magnitude;
+- credibility assessment.
 
-Тогда practical decision различается даже при одинаковом primary outcome.
+Effect modification и baseline-risk-driven absolute benefit differences — разные вещи.
 
-## 9. Pre-specification и post-hoc изменения
+---
 
-Cochrane допускает, что по ходу review могут обнаружиться важные различия, которых не было видно заранее. Но изменения нужно документировать.
+## 9. Exposure / etiology / causal risk
 
-Для нашего проекта:
+Используется PEO или PECO в зависимости от того, нужен ли explicit contrast.
 
-### Разрешено
-- уточнить definition;
-- добавить важный subgroup/comparison;
-- расширить source type, если исходный design не отвечает harm/long-term question;
-- изменить grouping при объективной причине.
-
-### Нельзя делать молча
-- менять outcome, потому что первоначальный не дал красивого результата;
-- менять comparator после просмотра effect sizes;
-- исключать неудобную population постфактум;
-- менять threshold под найденные данные.
-
-Все substantive изменения → `DECISIONS.md` или finding changelog.
-
-## 10. Question Card — обязательный протокол проекта
-
-Перед глубоким поиском по каждому topic ID заполнять:
-
-### A. ID и тема
-Например: `PHY-07`.
-
-### B. Decision
-Какое практическое решение должен информировать ответ?
-
-Если decision отсутствует, возможно, вопрос исследуется как фундаментальный mechanism. Это указывается явно.
-
-### C. Question type
-Одно или несколько:
-- intervention/effect;
-- harm/safety;
-- mechanism;
-- exposure/risk;
-- prognosis/prediction;
-- diagnostic/measurement;
-- qualitative/implementation.
-
-### D. Population/context
-Кому/где должен быть применим ответ?
-
-### E. Intervention / exposure / phenomenon
-Что именно изучается?
-
-### F. Comparator
-Если comparator имеет смысл.
-
-### G. Critical outcomes
-Что реально определит ответ?
-
-### H. Important secondary outcomes / harms
-Что может изменить practical choice?
-
-### I. Time
-Acute / weeks / months / long-term / follow-up.
-
-### J. Eligible evidence designs
-Какие designs способны ответить этому типу вопроса?
-
-### K. Planned grouping / moderators
-Например:
-- trained vs untrained;
-- high vs low load;
-- supervised vs home;
-- male/female only if evidence/relevance justifies;
-- matched vs unmatched volume.
-
-### L. Applicability constraints
-Что сделает study indirect для Ильи?
-
-### M. Stop/closure criterion
-Что нужно узнать, чтобы topic был `CLOSED_FOR_PRACTICE`, даже если академически литература бесконечна?
-
-## 11. Специальное правило для нашего проекта: “Decision before evidence”
-
-До поиска формулируется:
-
-> **Если результат окажется A — что мы сделаем? Если B — что изменится?**
-
-Если никакой возможный ответ не меняет:
-- программу;
-- безопасность;
-- interpretation;
+Нужно определить:
+- exposure identity;
+- dose/intensity;
+- duration;
+- frequency/pattern;
+- timing/window;
+- route/mode;
 - measurement;
-- research priority,
+- context;
+- temporality;
+- important confounder classes.
 
-то глубокий поиск может иметь низкий practical priority.
+Association/risk factor != cause automatically.
 
-Это не означает, что фундаментальная наука бесполезна. Для foundational topics decision может быть:
-> «какая causal model будет использоваться при интерпретации последующих intervention studies».
+Arbitrary dichotomization continuous exposure следует избегать.
 
-## 12. Что считать достаточной формулировкой
+---
 
-Вопрос готов к поиску, если:
+## 10. Mechanistic questions
 
-1. ясно, какой тип вопроса;
-2. ясно, какой outcome важен;
-3. population/context не неопределённо широки;
-4. intervention/exposure конкретизированы настолько, насколько требует decision;
-5. comparator указан или осознанно не нужен;
-6. timeframe задан, если он меняет смысл;
-7. известно, какие study designs релевантны;
-8. заранее известны ключевые grouping/moderators;
-9. можно объяснить, что сделает evidence direct vs indirect;
-10. можно объяснить, какой ответ изменит решение.
+Project framework: **MEC-Q** — внутренний, не universal standard.
 
-## 13. Практические следствия для дальнейшего исследования
+Фиксируются:
+1. phenomenon/outcome;
+2. input/intervention/exposure;
+3. target system;
+4. entities/components;
+5. hypothesized links;
+6. organization/sequence;
+7. critical uncertain links;
+8. perturbation/prediction;
+9. model/context;
+10. competing/counteracting mechanisms;
+11. practical claim;
+12. explanation-vs-efficacy boundary.
 
-С этого момента:
+Mechanistic evidence может объяснять и генерировать predictions, но не заменяет direct efficacy/outcome evidence.
 
-1. Каждый `findings/<AREA>/<TOPIC>.md` начинается с Question Card.
-2. Search terms выводятся из question concepts, а не наоборот.
-3. Outcomes фиксируются до просмотра результатов.
-4. Acute/mechanistic evidence не подменяет chronic outcome evidence.
-5. Study design выбирается по типу вопроса.
-6. Изменения scope документируются.
-7. В `EVIDENCE_LEDGER.md` заносится только claim, который отвечает заранее определённому вопросу.
-8. Applicability to Ilya оценивается отдельно от internal validity.
+Animal/cell evidence не переносится автоматически на human practical magnitude.
 
-## 14. Уровень уверенности
+---
 
-### HIGH
-- well-formulated question before search;
-- pre-specification;
-- PICO for intervention-effect questions;
-- important/critical outcomes and harms;
-- alignment between question, eligibility, synthesis and search;
-- documentation of post-hoc changes.
+## 11. Qualitative questions
 
-### HIGH/MODERATE
-- PICOT as practical extension for exercise science: NSCA explicitly uses PICOT; GRADE notes time can often be embedded in PICO, so separate T is useful but not conceptually mandatory.
+PICo — useful/default framework, но не универсально обязательный.
 
-### PRACTICAL_HEURISTIC
-- mandatory project Question Card;
-- “Decision before evidence” test;
-- closure criterion for each topic.
+Обычно задаются:
+- participants;
+- phenomenon of interest;
+- context;
+- perspective/actor where relevant;
+- experience/meaning/process.
 
-Эти heuristics являются нашей инженерной реализацией established methodology, а не отдельными опубликованными universal standards.
+Qualitative synthesis не должна автоматически сводиться к barrier/facilitator checklist.
 
-## 15. Источники
+---
 
-1. Cochrane Handbook for Systematic Reviews of Interventions, Version 6.5.1 (2026), Chapter 2: Determining the scope of the review and the questions it will address.  
-   https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-02
+## 12. Implementation questions
 
-2. Cochrane Handbook, Chapter 3: Defining the criteria for including studies and how they will be grouped for the synthesis.  
-   https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-03
+Различаются три класса:
 
-3. Cochrane Handbook, Chapter 4: Searching for and selecting studies.  
-   https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-04
+### A. Determinants
+Что помогает/мешает implementation?
 
-4. GRADE Book, official current resource, Principles for assessing certainty of interventions (modified 2025-08-21).  
-   https://book.gradepro.org/guideline/principles-for-assessing-the-certainty-of-interventions
+Project framework: **ID-CAP**:
+- Innovation;
+- Determinant question;
+- Context;
+- Actors;
+- Phase.
 
-5. GRADE Book — Overview of the GRADE approach / question-type specific evidence.  
-   https://book.gradepro.org/guideline/overview-of-the-grade-approach
+### B. Implementation outcomes
+Как хорошо innovation реализуется?
 
-6. GRADE Evidence-to-Decision framework — question formulation.  
-   https://book.gradepro.org/guideline/introduction-to-the-evidence-to-decision-frameworks
+Project framework: **IO-CARP**:
+- Innovation/referent;
+- Outcome;
+- Context;
+- Actor/unit;
+- Reference/comparator/threshold;
+- Phase/time.
 
-7. NSCA Certification Handbook, effective 2025-10-01, CSCS Detailed Content Outline: Scientific Research and Statistics — PICOT approach to asking answerable questions.  
-   https://www.nsca.com/globalassets/certification/certification-pdfs/nsca-certification-handbook.pdf
+Implementation outcomes не являются синонимами:
+- acceptability;
+- adoption;
+- appropriateness;
+- feasibility;
+- fidelity;
+- implementation cost;
+- penetration;
+- sustainability.
 
-8. PRISMA 2020 checklist / EQUATOR Network — explicit objectives/questions and pre-specified eligibility reporting.  
-   https://equator-network.org/reporting-guidelines/prisma/prisma-checklist.html
+### C. Implementation-strategy effect
+Causal question:
+> Does strategy X improve implementation outcome Y vs Z/usual implementation?
 
-## 16. Что ещё не относится к RES-01
+Маршрут → Intervention Effect + implementation outcome.
 
-Следующие темы исследуются отдельно:
-- RES-02 study designs;
-- RES-03 randomization/allocation/blinding;
-- RES-04 bias;
-- RES-05 causal inference;
-- RES-15/16 systematic reviews/meta-analysis;
-- RES-19 certainty/GRADE;
-- RES-28 evidence-to-decision.
+---
 
-RES-01 закрывает **формулировку вопроса**, а не всю методологию.
+## 13. Scoping / evidence mapping
+
+Используется, когда objective:
+- map evidence types;
+- clarify concepts/definitions;
+- map methods;
+- identify factors/characteristics;
+- prepare a focused review;
+- identify knowledge gaps.
+
+Default framework: **PCC**:
+- Population;
+- Concept;
+- Context.
+
+PCC может быть адаптирован, если objective требует иного.
+
+Canonical chain:
+`objective → question → PCC → eligibility → charting`.
+
+Scoping map не заменяет focused effectiveness/safety review.
+
+В текущем single-reviewer project допустимы **scoping-style evidence reconnaissance using JBI PCC principles**, но без claims о formal JBI-compliant scoping review, если нет independent duplicate screening/extraction.
+
+---
+
+## 14. Frequency questions
+
+Current methodology authority:
+**JBI endorsement → PERSyst**.
+
+Legacy `CoCoPop` сохраняется только как historical mnemonic.
+
+Различаются:
+1. point prevalence;
+2. period prevalence;
+3. cumulative incidence;
+4. incidence rate/person-time.
+
+Нужно определить:
+- target condition/event;
+- case definition;
+- target population;
+- denominator / at-risk population;
+- frequency estimand;
+- calendar/reference time;
+- risk/follow-up horizon;
+- context/geography;
+- structural comparability.
+
+Frequency estimate не отвечает автоматически на causal question.
+
+---
+
+## 15. Mixed-methods questions
+
+Mixed methods оправдан только когда **integration itself** нужна для decision/understanding.
+
+### Convergent integrated
+Quantitative + qualitative evidence отвечают на один broad phenomenon/question.
+
+### Convergent segregated
+Есть separate linked quantitative + qualitative questions; syntheses идут отдельно, затем integration.
+
+Current JBI operational guidance в основном сосредоточена на convergent approaches.
+
+Sequential/other MMSR → dedicated current-methodology check.
+
+Mixed-methods primary study само по себе не делает review mixed-methods.
+
+---
+
+## 16. Textual / policy / expert evidence
+
+Различаются:
+1. narrative;
+2. expert opinion;
+3. policy/consensus guideline.
+
+Подход нужен для claims типа:
+- normative;
+- procedural;
+- policy;
+- expert rationale;
+- narrative/experiential.
+
+Guideline recommendation != empirical proof of efficacy.
+
+Textual stream и empirical effect stream сохраняются отдельно до decision synthesis, если нужны оба.
+
+Version/jurisdiction/superseded status для policy/guideline sources обязательны.
+
+---
+
+## 17. Complex interventions and logic models
+
+Intervention complexity рассматривается как dimensional.
+
+Logic model/programme theory нужен, когда без него теряются:
+- components/functions;
+- mechanisms;
+- implementation;
+- context;
+- proximal/intermediate/distal outcomes;
+- unintended pathways;
+- key uncertainties.
+
+Не каждый node становится review question.
+
+Logic model помогает:
+- lump/split interventions;
+- distinguish form vs function;
+- distinguish theory failure vs implementation failure;
+- route different uncertainties into different question modules.
+
+Pre-synthesis model может обновляться post-synthesis, но version changes логируются.
+
+---
+
+## 18. Stakeholder / end-user input
+
+Stakeholders помогают определить:
+- relevance;
+- outcomes;
+- comparisons;
+- burdens;
+- context;
+- decision priorities.
+
+Они **не определяют empirical truth**.
+
+Project rule:
+> Values choose/weight the decision problem; evidence constrains the answer.
+
+Для single-target-user decision project direct end-user input допустим как primary user perspective.
+
+Не называть informal direct user input:
+- formal PPI;
+- consensus;
+- Delphi;
+- representative stakeholder panel.
+
+Sensitive personal details не хранятся в public research repository.
+
+---
+
+## 19. Applicability and equity
+
+Разделять:
+
+### Applicability
+Переносимость evidence на target population/context/application.
+
+### Equity
+Избежимые/несправедливые различия в access, burden, opportunity или distribution of effects.
+
+### Heterogeneity
+Просто различия между groups/studies.
+
+PROGRESS-Plus используется как equity lens, а не механический subgroup checklist.
+
+Underrepresentation означает uncertain applicability/evidence gap, а не доказательство равенства или различия effects.
+
+---
+
+## 20. Review necessity / FINER
+
+До major deep-review stream вопрос проходит:
+
+1. Feasible
+2. Interesting / important
+3. Novel
+4. Ethical
+5. Relevant
+
+Дополнительно отдельно оценивается **answerability**.
+
+Preliminary scan проверяет:
+- existing reviews;
+- ongoing reviews;
+- search dates;
+- applicability;
+- methodological credibility;
+- exact remaining gap.
+
+Project routing statuses:
+
+1. `PROCEED_FOCUSED`
+2. `USE_EXISTING_SYNTHESIS`
+3. `UPDATE_OR_SUPPLEMENT`
+4. `SCOPING_FIRST`
+5. `EVIDENCE_GAP`
+6. `DEFER_LOW_VALUE`
+7. `REFRAME`
+
+Наличие review не означает автоматически STOP.
+Возраст review сам по себе не определяет outdated status.
+
+`No direct studies` → evidence gap, не `no effect`.
+
+---
+
+## 21. Search translation
+
+Canonical separation:
+
+`QUESTION_CARD.md`
+→ что scientifically спрашивается.
+
+`SEARCH_CONCEPT_CARD.md`
+→ как потенциально eligible evidence будет retrieved.
+
+Rules:
+
+1. Eligibility concepts != mandatory search blocks.
+2. Use smallest sufficient concept set.
+3. Controlled vocabulary + free text.
+4. OR within concept; AND between concepts.
+5. Comparator и outcome часто не должны быть mandatory blocks.
+6. Avoid NOT unless false-negative risk tested.
+7. Prefer validated design filters where appropriate.
+8. Arbitrary date limits need substantive justification.
+9. Translate logic, not raw syntax, between databases.
+10. Known-item testing is diagnostic, not proof of completeness.
+11. Do not overfit to known studies.
+12. Different evidence streams may need separate searches.
+13. Exact source/interface/date/query/limits must be recorded.
+14. Search vocabulary may evolve without changing scope.
+15. Scientific scope change returns upstream to Question Card + viability gate.
+
+Current project wording:
+**PRESS-based self-audit — NOT independently peer reviewed**
+unless independent peer review actually occurs.
+
+---
+
+## 22. Canonical operational artifacts
+
+### `QUESTION_CARD.md` v2.0
+Modular router containing:
+- Core;
+- conditional scientific modules;
+- cross-cutting modules;
+- FINER/Review Necessity Gate;
+- search handoff.
+
+### `SEARCH_CONCEPT_CARD.md` v1.0
+Separate retrieval implementation card:
+- inherited eligibility concepts;
+- actual search blocks;
+- omitted concepts;
+- vocabulary;
+- Boolean structure;
+- filters/limits;
+- exact source/interface/query/date;
+- pilot checks;
+- known-item checks;
+- change log;
+- PRESS-based self-audit.
+
+These two artifacts are now the authoritative operational implementation of RES-01.
+
+---
+
+## 23. What RES-01 does NOT cover
+
+RES-01 does not close:
+- study-design validity;
+- randomization/blinding;
+- risk of bias;
+- causal-adjustment methods;
+- statistics;
+- missing data;
+- measurement validity execution;
+- systematic-review execution;
+- meta-analysis;
+- certainty/GRADE;
+- guideline appraisal;
+- N-of-1 execution;
+- Evidence-to-Decision;
+- updating/versioning.
+
+Those remain separate RES topics.
+
+---
+
+## 24. Source hierarchy used in revalidation
+
+Primary/current methodology sources included:
+
+1. Cochrane Handbook current release/change log and relevant chapters:
+   - Ch 1–4;
+   - Ch 10;
+   - Ch 16–17;
+   - Ch III/IV;
+   - prognosis/DTA/QES handbooks.
+2. Cochrane MECIR.
+3. JBI Manual current online edition.
+4. PERSyst via current JBI endorsement for prevalence/cumulative incidence.
+5. COSMIN for measurement-property review framing.
+6. ICH E9(R1) + FDA guidance for estimand concepts, used with explicit transferability caveat.
+7. PRESS guideline for search-strategy review.
+8. MRC 2021 complex-intervention framework.
+9. Supporting peer-reviewed methodology where official manuals did not fully cover a point.
+
+Version rule:
+record overall manual release and chapter-level update/citation separately when they differ.
+
+---
+
+## 25. Confidence / status
+
+### Established external methodology — HIGH
+- question before search;
+- question-type-specific framing;
+- eligibility alignment;
+- outcome/time prespecification;
+- benefits + harms;
+- estimands for exact target effects;
+- stakeholder relevance;
+- applicability/equity consideration where material;
+- search downstream of question;
+- transparent scope changes;
+- effect-modifier prespecification;
+- FINER/review necessity.
+
+### Project operationalizations
+Explicitly project-specific:
+- C-P-I-MP-U;
+- MEC-Q;
+- ID-CAP;
+- IO-CARP;
+- modular Question Card router;
+- project viability statuses;
+- Search Concept Card implementation.
+
+They operationalize established principles but are not represented as external universal standards.
+
+---
+
+## 26. Current closure state
+
+Content coverage audit: **PASSED**.  
+Modular Question Card: **IMPLEMENTED**.  
+Search Concept Card: **IMPLEMENTED**.  
+Question ↔ Search handoff: **VERIFIED**.  
+Final synthesis: **IMPLEMENTED in this file**.
+
+Remaining:
+1. short post-implementation consistency audit;
+2. update canonical status/queue;
+3. only then assign `CLOSED_FOR_PRACTICE`.
+
