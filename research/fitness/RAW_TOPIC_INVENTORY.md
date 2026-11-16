@@ -229,3 +229,24 @@
 26. Neuroplasticity, consolidation и interference.
 27. Arousal/stress effects on motor performance.
 28. Motor learning under fatigue.
+
+
+## Дополнения после отдельного аудита биоэнергетики — 2026-11-16
+
+1. ATP turnover и coupling reactions.
+2. Creatine kinase и adenylate kinase.
+3. Детальная glycolysis и pyruvate metabolism.
+4. Lactate production, oxidation, clearance и shuttle.
+5. Acid-base physiology и buffering.
+6. TCA cycle, ETC и oxidative phosphorylation.
+7. Macronutrient metabolism: carbohydrate/fat/protein.
+8. Metabolic flexibility.
+9. Oxygen deficit и oxygen uptake kinetics.
+10. EPOC.
+11. Substrate depletion/repletion beyond PCr.
+12. Metabolic limiting factors.
+13. Resistance-training-specific bioenergetics.
+14. Anaerobic power vs anaerobic capacity.
+15. Aerobic capacity/economy.
+16. Mitochondrial biogenesis.
+17. Metabolic training adaptations and detraining.
