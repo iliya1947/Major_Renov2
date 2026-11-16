@@ -3,9 +3,9 @@
 ## Сейчас
 
 1. **Stage 2 — deep research.**
-2. RESEARCHING: RES-06 — sampling and external validity.
-3. Затем RES-07 — power, Type I/II error and multiplicity.
-4. Затем RES-08...RES-29 по `RESEARCH_ORDER.md`.
+2. RESEARCHING: RES-08 — descriptive and inferential statistics.
+3. Затем RES-09 — effect sizes and uncertainty.
+4. Затем RES-10...RES-29 по `RESEARCH_ORDER.md`.
 5. После достаточного methodological foundation — ANA → PHY → NEU → BIO → MEC.
 
 ## Правила Stage 2
@@ -28,3 +28,5 @@
 6. RES-03 — randomization/allocation/blinding: CLOSED_FOR_PRACTICE v1.0.
 7. RES-04 — risk-of-bias domains: CLOSED_FOR_PRACTICE v1.0.
 8. RES-05 — confounding/causal inference: CLOSED_FOR_PRACTICE v1.0.
+9. RES-06 — sampling/external validity: CLOSED_FOR_PRACTICE v1.0.
+10. RES-07 — power/multiplicity: CLOSED_FOR_PRACTICE v1.0.
