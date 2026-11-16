@@ -4,7 +4,7 @@
 
 1. **Stage 2 — RESTARTED.**
 2. RESEARCHING: **RES-01 — формулировка исследовательского вопроса.**
-3. PASS-01…PASS-04 + PASS-05A/05B завершены. Следующий микро-проход: **RES-01/PASS-05C — qualitative and implementation question framing**.
+3. PASS-01…PASS-04 + PASS-05A/05B/05C завершены. Следующий микро-проход: **RES-01/PASS-06 — translating questions into search concepts**.
 4. После завершения всех passes RES-01 → отдельный gap/audit pass → новый synthesis.
 5. Затем RES-02 и далее по `RESEARCH_ORDER.md`.
 
