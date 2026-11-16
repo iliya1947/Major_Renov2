@@ -71,36 +71,33 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-04` — observational analytic designs;
   - `PASS-05A` — self-controlled observational designs;
   - `PASS-05B` — descriptive/frequency designs;
-  - `PASS-06A` — diagnostic accuracy + measurement-property study structures.
+  - `PASS-06A` — diagnostic accuracy + measurement-property study structures;
+  - `PASS-06B` — prognosis + prediction study structures.
 
 Последний содержательный PASS:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06A_diagnostic_measurement_designs.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B_prognosis_prediction_designs.md`
 
-Commit PASS-06A:
+Commit PASS-06B:
 
-`4b06de5a87c35c21b295ce6b86b6ee7be304e0b1`
-
-Последний сохранённый research-queue state перед созданием этого handoff-файла:
-
-`d9e208f6724058a42059bedf07abe7724c62e702`
+`3f6fe06f0949754b69cc58f7b24a29285bc74cec`
 
 ### Следующая задача
 
-**RES-02 / PASS-06B — prognosis and prediction study structures**
+**RES-02 / PASS-06C — mechanistic study structures**
 
 Scope следующего PASS:
 
-1. overall prognosis studies;
-2. prognostic-factor studies;
-3. prediction-model studies;
-4. различие prognosis / prognostic factor / prediction model;
-5. prediction ≠ causal explanation;
-6. model development / derivation;
-7. internal validation;
-8. external validation;
-9. model updating, если это требуется на taxonomy level;
-10. project structural records и practical classification rules;
+1. human experimental physiology;
+2. laboratory mechanistic studies;
+3. mediation/pathway evidence;
+4. acute mechanistic perturbation structures;
+5. animal/in-vivo translational evidence;
+6. in-vitro/ex-vivo mechanistic evidence;
+7. mechanistic triangulation;
+8. граница mechanism evidence vs intervention-effect evidence;
+9. limits of mechanistic inference and acute→chronic extrapolation;
+10. project structural records and taxonomy rules;
 11. unresolved gaps → следующий PASS.
 
 ---
