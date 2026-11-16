@@ -22,8 +22,8 @@
 | 08 | Техника и выбор упражнений | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 09 | Тестирование и мониторинг | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 10 | Восстановление | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 11 | Питание и добавки | AUDITING | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 12 | Психология, СДВГ и приверженность | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
+| 11 | Питание и добавки | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
+| 12 | Психология, СДВГ и приверженность | AUDITING | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 13 | Методология исследований | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 14 | Индивидуализация и принятие решений | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 15 | Общая физическая подготовка | NOT_AUDITED | NOT_STARTED | NOT_STARTED | NOT_STARTED |
