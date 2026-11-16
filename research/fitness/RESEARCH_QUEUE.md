@@ -1,38 +1,25 @@
 # Очередь исследования
 
-Этот файл — рабочий backlog.
-
 ## Сейчас
 
-1. **Stage 1 — дедупликация и нормализация.**
-2. Использовать `TOPIC_OWNERSHIP.md` для определения canonical home пересекающихся тем.
-3. Не изменять/не сокращать `RAW_TOPIC_INVENTORY.md`: это страховочная исходная база.
-4. Построить нормализованное дерево: область → тема → подтема → исследовательские вопросы.
-5. Проверить дерево на потерю тем сравнением с raw inventory.
+1. **Stage 2 — deep research.**
+2. RESEARCHING: RES-01 — formulation of research questions / PICOT.
+3. Затем RES-02 — study designs and what they can answer.
+4. Затем RES-03...RES-29 по `RESEARCH_ORDER.md`.
+5. После достаточного methodological foundation — ANA → PHY → NEU → BIO → MEC.
 
-## После Stage 1
+## Правила Stage 2
 
-1. Приоритизировать research order по зависимостям.
-2. Начать Stage 2 — глубокое исследование.
+1. Один topic ID может занимать несколько исследовательских проходов.
+2. Не закрывать topic, пока остаются существенные неопределённости для практики.
 3. Использовать `RESEARCH_TEMPLATE.md` и `EVIDENCE_POLICY.md`.
-4. Заполнять `EVIDENCE_LEDGER.md`.
-5. Персональная оценка и программа — только после достаточной исследовательской базы.
-
-## Правила очереди
-
-1. Новые задачи записывать сюда.
-2. BLOCKER имеет приоритет.
-3. Завершённые этапы не удалять бесследно.
-4. Не начинать персональную программу из незакрытых предположений.
+4. Проверенные claims → `EVIDENCE_LEDGER.md`.
+5. Full synthesis → `findings/<AREA>/<TOPIC_ID>.md`.
+6. Contradictions/open issues → `OPEN_QUESTIONS.md`.
+7. Персональную программу пока не строить.
 
 ## Завершено
 
-1. Создан сырой инвентарь тем.
-2. Создана файловая инфраструктура PR.
-3. Проведён отдельный аудит областей 01–15.
-4. Stage 0B добавил area 16 — coaching/implementation/professional practice.
-5. Area 12 расширена behavior-change models.
-6. Area 15 расширена health outcomes/conditioning.
-7. Выполнен cross-file pass всех 16 областей.
-8. Создана карта canonical ownership пересекающихся тем.
-9. Stage 0B architecture audit завершён.
+1. Stage 0A — first-pass audits.
+2. Stage 0B — architecture audit + area 16.
+3. Stage 1 — normalized canonical knowledge tree v1.0.
