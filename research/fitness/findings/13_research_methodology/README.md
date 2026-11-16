@@ -1,10 +1,10 @@
 # Methodology findings — RES-01…RES-29
 
-Статус: **LEGACY DRAFT SET — REVALIDATION IN PROGRESS**
+Статус: **MIXED — RES-01 REVALIDATED SYNTHESIS (pending closure audit); RES-02…RES-29 LEGACY DRAFTS pending granular revalidation**
 
 ## Навигация
 
-1. RES-01 — Question formulation / PICO(T)
+1. RES-01 — Question formulation / modular question routing — **REVALIDATED SYNTHESIS, pending closure audit**
 2. RES-02 — Study designs
 3. RES-03 — Randomization / concealment / blinding
 4. RES-04 — Risk of bias
@@ -44,7 +44,7 @@
 
 ## Next
 
-Deep research: **ANA-01**.
+Stage 2 restart sequence: finish RES-01 closure audit, then continue **RES-02** according to `RESEARCH_ORDER.md`.
 
 
 ## Restart notice
@@ -52,4 +52,4 @@ Deep research: **ANA-01**.
 С 2026-11-16 прежние RES-01…RES-29 считаются разведочными черновиками.  
 Их прежние `CLOSED_FOR_PRACTICE` markers superseded by `STAGE2_RESTART.md`.
 
-Revalidation starts from **RES-01** with granular passes + mandatory gap/audit pass.
+Revalidation started from **RES-01** with granular passes + mandatory gap/audit passes. RES-01 synthesis has now been rebuilt; RES-02…RES-29 remain legacy until separately revalidated.
