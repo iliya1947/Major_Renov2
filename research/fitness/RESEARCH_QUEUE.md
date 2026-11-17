@@ -79,7 +79,9 @@
 44. SCED/N-of-1 blocker подтверждён как закрытый, но audit выявил новый blocking randomized-design gap: **sequential-randomization experimental designs — SMART / micro-randomized trial (MRT), with Hybrid Experimental Design crosswalk**. Это не тот же самый `adaptive trial design`, который уже покрыт PASS-02.
 45. Завершён **PASS-06C9 — sequential-randomization experimental structures for adaptive/digital interventions**.
 46. Blocking SMART/MRT/HED gap из PASS-06C8 закрыт на taxonomy-level; detailed optimization/statistical methods остаются deferred.
-47. Следующий микро-проход: **RES-02/PASS-06C10 — final mechanistic-branch closure/gap audit after PASS-06C9: re-read PASS-06C1…C9 plus relevant randomized/quasi-experimental/observational/prediction/measurement boundaries; verify no remaining human experimental, sequential-randomization, single-case, mediation, biomarker/omics, nonhuman/translational, digital/adaptive or exercise-specific design-family blocker remains; decide whether mechanistic structural synthesis is finally permitted**.
+47. Завершён **PASS-06C10 — final mechanistic-branch closure/gap audit after PASS-06C9**.
+48. Final audit не выявил remaining blocking mechanistic design-family gaps; **mechanistic structural synthesis разрешён**, но ещё не выполнен. Отдельно отмечен interference/spillover randomized-design crosswalk как кандидат для later RES-02 overall randomized/causal audit, не blocker C-branch.
+49. Следующий микро-проход: **RES-02/PASS-06C11 — mechanistic-branch structural synthesis: compress PASS-06C1…C10 into a canonical nonredundant matrix covering scientific purpose, model system, experimental/observational structure, perturbation logic, target engagement, mediation/pathway evidence, single-case/sequential-randomization structures, biomarker/omics evidence, nonhuman translation, necessity/sufficiency wording, mechanism-vs-effect boundaries, fitness examples, and deferred ownership**.
 
 ## Правила Stage 2 после restart
 
