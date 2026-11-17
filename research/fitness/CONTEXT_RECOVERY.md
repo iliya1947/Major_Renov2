@@ -137,33 +137,35 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D28_appreciative_inquiry_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D29_oral_history_primary_research_structures.md`
 
-Commit PASS-06D28:
+Commit PASS-06D29:
 
-`11b9b24e50fd3501569aa8a105b64aaa91ac1003`
+`cfa2d34326b045fd840eb869f58f5ad235579452`
 
-PASS-06D28 established Appreciative Inquiry as a distinct Cooperrider/Srivastva-derived generative inquiry-and-change methodology. Its historical roots are action research/organizational development and social-constructionist/sociorationalist thinking; modern positive psychology is an adjacent later influence rather than its origin. The classic cycle is Discovery→Dream→Design→Destiny, with Define a later common fifth D. The original five named principles are constructionist, simultaneity, poetic, anticipatory and positive; inquiry itself can function as change. Strengths-based framing does not require suppression of problems, and positivity/shadow, dissent and power asymmetry are explicit quality risks. Applied literature commonly uses partial/modified cycles, so studies require a fidelity profile rather than binary classification. AI can coexist with thematic analysis, mixed methods or quasi-experimental evaluation and is not intrinsically qualitative-only. Direct sport/physical-activity evidence includes physical-literacy collaboration and British Sailing Team research involving coaches, S&C, physiologists, physiotherapists and elite athletes. The Appreciative Inquiry blocker from PASS-06D24 is closed at taxonomy level. Two D24 blockers remain. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D29 established Oral History as a distinct historical/interpretive methodology rather than a generic retrospective qualitative interview. Current OHA architecture treats scholarly oral history as a research-informed recorded in-depth interview whose recording is preserved, made accessible under agreed conditions, and interpreted; Oral History therefore produces both a current research output and a durable primary source. The core lifecycle is preparation→interviewing→preservation→access. Narrator agency, interviewer–narrator co-creation, memory as evidence/meaning, factual verification/corroboration, narrator review/release, rights/restrictions, metadata/provenance and future reuse are methodology-level concerns. Original recording and transcript are not evidentially identical. Oral History is separated from narrative inquiry, life history, oral tradition, journalism and testimony alone. Sport/physical-culture applications are mature, including archive-silence work and judo coaching/athlete genealogy. Exact copyright/IRB rules remain jurisdiction-specific. The Oral History blocker from PASS-06D24 is closed at taxonomy level. One D24 blocker remains. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D29 — Oral History primary-research structures**
+**RES-02 / PASS-06D30 — Interpretive Interactionism study structures**
 
 Scope следующего micro-pass:
 
-1. Oral History Association standards;
-2. narrator/interviewer relationship;
-3. historical purpose and contextualization;
-4. memory as evidence and meaning;
-5. recorded testimony as primary source;
-6. preparation/interview/preservation/access lifecycle;
-7. release/rights/restrictions;
-8. transcript vs recording;
-9. factual verification/corroboration;
-10. archiving and future reuse ethics;
-11. boundary with narrative inquiry, life history and generic qualitative interviewing;
-12. sport/physical-culture applications;
-13. unresolved gaps → next blocker pass.
+1. Denzin lineage;
+2. symbolic-interactionist, phenomenological and hermeneutic roots;
+3. epiphany as analytic object;
+4. interactional/lived experience and biography;
+5. thick description / thick interpretation;
+6. bracketing;
+7. deconstruction;
+8. capture;
+9. construction;
+10. contextualization;
+11. personal trouble ↔ public/institutional structure;
+12. boundary with phenomenology, narrative inquiry, grounded theory and critical inquiry;
+13. quality/claim limits;
+14. health/fitness applications;
+15. unresolved gaps → repeat final qualitative-branch gap audit.
 
 ---
 
@@ -180,11 +182,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D28_appreciative_inquiry_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D29_oral_history_primary_research_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D29_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D30_...`
 
 ---
 
