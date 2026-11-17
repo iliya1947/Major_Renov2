@@ -113,30 +113,32 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B1` — prognosis core taxonomy and longitudinal structure;
   - `PASS-06B2` — longitudinal cohort structures for prognosis;
   - `PASS-06B3` — routine-care data sources for prognosis;
-  - `PASS-06B4` — outcome-dependent sampling in prognosis.
+  - `PASS-06B4` — outcome-dependent sampling in prognosis;
+  - `PASS-06B5` — prediction-model development study structures.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B4_outcome_dependent_sampling.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B5_prediction_model_development.md`
 
-Commit PASS-06B4:
+Commit PASS-06B5:
 
-`7ce15e91feba1eee2c2e2ef76f699fba85334ca0`
+`2ac5c248b7f7af3d090bfa17b15407ae5ab8a690`
 
 ### Следующая задача
 
-**RES-02 / PASS-06B5 — prediction-model development study structures**
+**RES-02 / PASS-06B6 — internal validation structures**
 
 Scope следующего micro-pass:
 
-1. candidate predictor set;
-2. predictor availability at startpoint;
-3. development dataset architecture;
-4. model fitting vs model specification;
-5. apparent performance;
-6. development vs evaluation boundary;
-7. overfitting/optimism at taxonomy level;
-8. unresolved gaps → следующий micro-pass.
+1. apparent performance vs internal validation;
+2. bootstrap;
+3. cross-validation;
+4. repeated CV;
+5. nested CV;
+6. random split-sample approaches;
+7. optimism correction;
+8. internal validation vs external evaluation boundary;
+9. unresolved gaps → следующий micro-pass.
 
 ---
 
@@ -153,11 +155,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B4_outcome_dependent_sampling.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B5_prediction_model_development.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B5_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B6_...`
 
 ---
 
