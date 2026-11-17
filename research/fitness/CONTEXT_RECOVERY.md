@@ -137,31 +137,34 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C9_sequential_randomization_adaptive_interventions.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C10_final_mechanistic_branch_closure_audit.md`
 
-Commit PASS-06C9:
+Commit PASS-06C10:
 
-`f06993b470b0cab97a09b52cd1155166748b94b1`
+`fe8c394e0fc67ea06f3840b781d74f9294f9d1a4`
 
-Sequential-randomization taxonomy gap закрыт: SMART, MRT, JITAI, HED и adaptive-trial/adaptive-intervention boundary. Mechanistic synthesis пока не разрешён: нужен final closure/gap audit.
+Final mechanistic closure audit не выявил remaining blocking design-family gaps. Mechanistic structural synthesis разрешён, но ещё не выполнен.
 
 ### Следующая задача
 
-**RES-02 / PASS-06C10 — final mechanistic-branch closure/gap audit after PASS-06C9**
+**RES-02 / PASS-06C11 — mechanistic-branch structural synthesis**
 
 Scope следующего micro-pass:
 
-1. re-read PASS-06C1…C9;
-2. verify sequential-randomization closure;
-3. recheck N-of-1/SCED crosswalk;
-4. recheck adaptive trial vs adaptive intervention distinction;
-5. recheck target engagement vs mediation;
-6. recheck biomarker/omics vs causal mechanism;
-7. recheck nonhuman/computational translation;
-8. search remaining human experimental design families;
-9. search digital/adaptive/fitness-specific omissions;
-10. separate later statistical/RoB topics from true RES-02 blockers;
-11. decide whether mechanistic structural synthesis is finally permitted.
+1. synthesize PASS-06C1…C10 without duplication;
+2. canonical mechanistic-purpose taxonomy;
+3. model-system axis;
+4. underlying experimental/observational design axis;
+5. perturbation logic;
+6. target engagement vs biomarker response;
+7. mediation/pathway layer;
+8. N-of-1/SCED and SMART/MRT/HED crosswalk;
+9. nonhuman/computational translation;
+10. necessity/sufficiency wording;
+11. mechanism vs efficacy/effectiveness/prediction/measurement boundaries;
+12. fitness/exercise examples;
+13. preserve deferred ownership and interference/spillover handoff;
+14. define next RES-02 branch after mechanistic synthesis.
 
 ---
 
@@ -178,11 +181,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C9_sequential_randomization_adaptive_interventions.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C10_final_mechanistic_branch_closure_audit.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C10_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C11_...`
 
 ---
 
