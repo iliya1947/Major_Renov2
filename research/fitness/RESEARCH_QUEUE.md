@@ -75,7 +75,9 @@
 40. Audit выявил один blocking design-family gap перед mechanistic synthesis: **N-of-1 / broader single-case experimental designs (SCED) for mechanistic/experimental physiology**. Detailed N-of-1 methodology остаётся owned by RES-27; taxonomy-level design classification закрывается здесь.
 41. Завершён **PASS-06C7 — N-of-1 and single-case experimental structures for mechanistic/physiology research**.
 42. Blocking SCED/N-of-1 gap из PASS-06C6 закрыт на taxonomy-level; detailed N-of-1 methods остаются owned by RES-27.
-43. Следующий микро-проход: **RES-02/PASS-06C8 — repeat mechanistic-branch closure/gap audit after PASS-06C7: recheck PASS-06C1…C7 plus randomized/quasi-experimental/observational/prediction/measurement boundaries; verify no remaining mechanism-evidence design family, SCED crosswalk, target-engagement/mediation/translation contradiction or exercise-specific blocker remains; decide whether mechanistic structural synthesis is finally permitted**.
+43. Завершён **PASS-06C8 — repeat mechanistic-branch closure/gap audit after PASS-06C7**.
+44. SCED/N-of-1 blocker подтверждён как закрытый, но audit выявил новый blocking randomized-design gap: **sequential-randomization experimental designs — SMART / micro-randomized trial (MRT), with Hybrid Experimental Design crosswalk**. Это не тот же самый `adaptive trial design`, который уже покрыт PASS-02.
+45. Следующий микро-проход: **RES-02/PASS-06C9 — sequential-randomization experimental structures for adaptive/digital interventions: SMART vs micro-randomized trial (MRT), distinction from ordinary adaptive trial design and response-adaptive randomization, repeated decision points, tailoring variables, availability, proximal vs distal outcomes, time-varying moderation, MRT vs N-of-1/SCED/crossover, Hybrid Experimental Designs (SMART–MRT/factorial hybrids), mechanism/mediation boundary, physical-activity/fitness applications, and taxonomy-level ownership of detailed optimization statistics**.
 
 ## Правила Stage 2 после restart
 
