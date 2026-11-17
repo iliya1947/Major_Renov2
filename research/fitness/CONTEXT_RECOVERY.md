@@ -131,36 +131,37 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B19` — multiple-outcome, composite and joint-risk prediction structures;
   - `PASS-06B20` — diagnostic outcome-dependent sampling and absolute-probability recovery;
   - `PASS-06B21` — repeat final prediction-branch gap audit after PASS-06B18…B20;
-  - `PASS-06B22` — current continuous-value prediction and estimation equations.
+  - `PASS-06B22` — current continuous-value prediction and estimation equations;
+  - `PASS-06B23` — final prediction-branch closure/gap audit after PASS-06B22.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B22_current_continuous_value_prediction.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B23_final_prediction_branch_closure_audit.md`
 
-Commit PASS-06B22:
+Commit PASS-06B23:
 
-`01cfe3623c7b08a7456e4c3ad1294031f45e4123`
+`ab9d8ef7a5623dfd9c88d1ec78d2bc430a048ab0`
 
-Blocking gap из PASS-06B21 закрыт на taxonomy-level. Synthesis пока не разрешён: нужен финальный closure/gap audit.
+PASS-06B23 не выявил новых blocking prediction-design gaps. Prediction-branch structural synthesis теперь разрешён, но ещё не выполнен.
 
 ### Следующая задача
 
-**RES-02 / PASS-06B23 — final prediction-branch closure/gap audit after PASS-06B22**
+**RES-02 / PASS-06B24 — prediction-branch structural synthesis**
 
 Scope следующего micro-pass:
 
-1. recheck PASS-06A + PASS-06B1…B22;
-2. verify current diagnostic prediction coverage:
-   - binary current condition;
-   - multicategory/ordinal current outcome;
-   - current continuous-value estimation;
-3. verify future prognosis and continuous/binary/time-to-event coverage;
-4. verify complex-event and multiple-outcome coverage;
-5. verify dynamic prediction / treatment / lifecycle / sampling crosswalks;
-6. verify measurement-property/DTA boundaries;
-7. check source-version changes and unsupported overreach;
-8. identify any remaining true RES-02 design-family gap;
-9. decide whether prediction-branch synthesis is finally permitted.
+1. synthesize PASS-06B1…B23 without duplication;
+2. build canonical prediction-purpose taxonomy;
+3. build target-time and outcome-architecture matrix;
+4. build data-source/sampling crosswalk;
+5. build model lifecycle matrix;
+6. build performance-target matrix;
+7. integrate factual/counterfactual and treatment-effect boundary;
+8. integrate static/dynamic vs continual-model-updating distinction;
+9. integrate diagnostic prediction / DTA / measurement-property boundaries;
+10. add fitness/exercise examples;
+11. preserve explicit limitations and later-deferred statistical/appraisal topics;
+12. define next RES-02 branch after prediction synthesis.
 
 ---
 
@@ -177,11 +178,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B22_current_continuous_value_prediction.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B23_final_prediction_branch_closure_audit.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B23_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B24_...`
 
 ---
 
