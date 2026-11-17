@@ -137,34 +137,35 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E7_mixed_methods_sampling_integration_meta_inference_quality_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E8_final_mixed_methods_branch_gap_audit_after_E1_E7.md`
 
-Commit PASS-06E7:
+Commit PASS-06E8:
 
-`ad38b6099160841b96444ea1bb7e928711067333`
+`6c5bf19af6bf5a50718788236d9220b23f85544c`
 
-PASS-06E7 completed the cross-cutting mixed-methods sampling/integration/meta-inference/quality synthesis. Mixed-method quality is now represented through four distinct layers: component-strand quality; integration quality; meta-inference quality; reporting transparency. Sampling relationships are explicitly classified as identical, nested, parallel/separate or multilevel and constrain permissible integration granularity. Connecting/building/merging/embedding remain the canonical integration operations; joint displays are optional analytic/reporting tools; data transformation, crossover analysis and following-a-thread are integration techniques rather than study designs. Productive discordance is separated from methodological incoherence. Meta-inference function is stored separately from fit category. MMAT, MMIQF, PCORI, JARS-Mixed and GRAMMS are explicitly separated by purpose; current MMAT public version remains 2018 and GRAMMS 2.0 is not treated as finalized. AI-assisted integration is routed as a tooling/provenance layer with mandatory human return-to-source verification; AI output alone is not a validated meta-inference. The mixed-methods branch is now RESEARCHING pending one final gap audit.
+PASS-06E8 completed the final mixed-methods branch gap audit after E1–E7. Fresh 2024–2026 sport/exercise/rehabilitation stress testing found **NO NEW MIXED-METHODS METHODOLOGY-LEVEL BLOCKER**. The branch retains exactly three basic integration designs: CONVERGENT, EXPLANATORY_SEQUENTIAL and EXPLORATORY_SEQUENTIAL. Embedded/nested remains a structural relationship; multistage/multiphase, case-study, intervention and participatory remain advanced parent/framework structures; transformative/critical, Indigenous, implementation, HEI and systems remain overlays. Mixed-method experimental labels remain quantitative causal parent design + MMR integration. Q Methodology remains a standalone methodology-level route despite current 2026 arguments for Q as inherently hybrid mixed methodology; Realist Evaluation remains a standalone method-neutral evaluation route. Delphi/NGT remain consensus architectures. DBR and newly explicit Design Science Research remain neighboring design/development methodology handoffs rather than MMR core designs. HCD, Intervention Mapping and Implementation Mapping remain framework overlays/neighboring routes. Current recursive/full-integration IMMTA/CDP 2.0 literature is retained as an emerging integration/metaparadigm watchlist, not a new basic design. A nonblocking reporting-layer omission was closed by adding rehabilitation-specific **MMR-RHS**. Mixed-methods branch status is now **READY FOR STRUCTURAL SYNTHESIS**.
 
 ### Следующая задача
 
-**RES-02 / PASS-06E8 — final mixed-methods branch gap audit after E1–E7**
+**RES-02 / PASS-06E9 — mixed-methods branch structural synthesis**
 
 Scope следующего micro-pass:
 
-1. reopen the full E1–E7 branch;
-2. fresh 2024–2026 sport/exercise/rehab mixed-method literature scan;
-3. retest completeness of CONVERGENT / EXPLANATORY / EXPLORATORY basic designs;
-4. retest EMBEDDED / MULTISTAGE / CASE / INTERVENTION / PARTICIPATORY boundaries;
-5. retest transformative/critical, HEI, implementation and systems overlays;
-6. retest Q Methodology and Realist Evaluation handoffs;
-7. test qualiquantitative and mixed-method experiments;
-8. test Delphi/NGT and consensus architectures;
-9. test Design-Based Research / HCD / intervention mapping;
-10. test realist mixed methods and systems modelling;
-11. test AI-mediated mixed methods;
-12. contradiction audit;
-13. either identify new blocker(s) or authorize mixed-method structural synthesis;
-14. STOP after saved audit.
+1. consolidate E1–E8 into one canonical layered router;
+2. basic designs;
+3. advanced/structural frameworks;
+4. strand/sample architecture;
+5. integration mechanisms;
+6. integration granularity;
+7. divergence and meta-inference;
+8. quality architecture;
+9. reporting layer including MMR-RHS;
+10. AI provenance;
+11. neighboring-methodology handoffs;
+12. claim limits;
+13. canonical extraction schema;
+14. contradiction closure;
+15. STOP after saved synthesis.
 
 ---
 
@@ -181,11 +182,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E7_mixed_methods_sampling_integration_meta_inference_quality_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E8_final_mixed_methods_branch_gap_audit_after_E1_E7.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E8_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E9_...`
 
 ---
 
