@@ -139,7 +139,10 @@
 104. Завершён **PASS-06D18 — institutional ethnography study structures**.
 105. Зафиксирована institutional-ethnography taxonomy: standpoint as epistemic starting point; problematic/disjuncture; broad work/work-knowledge concept; local vs extra-local/translocal coordination; texts/text activation/intertextual hierarchy; ruling relations as distributed administrative/managerial/professional/discursive coordination; iterative tracing of actors/texts/sites; mapping/explication output; IE ≠ ethnography-in-an-institution/critical ethnography/case study/discourse analysis; institutional explanation ≠ causal-effect estimate.
 106. Blocker institutional ethnography из PASS-06D14 закрыт на taxonomy-level. Qualitative branch остаётся **RESEARCHING**.
-107. Следующий микро-проход: **RES-02/PASS-06D19 — Situational Analysis study structures: Clarke's postmodern/constructivist grounded-theory extension, situation as analytic unit, messy/ordered situational maps, social worlds/arenas maps, positional maps, human/nonhuman actants, discourse/materiality, boundary with GT and case study, claim limits and fitness/rehabilitation applications**.
+107. Завершён **PASS-06D19 — Situational Analysis study structures**.
+108. Зафиксирована Situational Analysis taxonomy: Clarke-derived GT extension; situation as fundamental analytic unit; conditions treated as constitutive rather than background; messy/ordered situational maps + relational analysis; social worlds/arenas maps; positional maps of positions rather than persons; positions not taken/silences; human/nonhuman/material/discursive elements; coding/memoing/theoretical sampling retained from GT; SA ≠ conventional GT/case study/ethnography/institutional ethnography/generic situational assessment; relational map ≠ causal graph.
+109. Blocker Situational Analysis из PASS-06D14 закрыт на taxonomy-level. Qualitative branch остаётся **RESEARCHING**.
+110. Следующий микро-проход: **RES-02/PASS-06D20 — Dimensional Analysis study structures: Schatzman's GT-derived methodology, dimensionalization, designation/differentiation/integration, explanatory matrix, perspective selection, context/conditions/process/consequences, boundary with Straussian GT and generic dimensional coding, claim limits and fitness/rehabilitation applications**.
 
 ## Правила Stage 2 после restart
 
