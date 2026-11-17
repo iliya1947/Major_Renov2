@@ -101,7 +101,10 @@
 66. Завершён **PASS-06D6 — qualitative description, interpretive description and generic qualitative study structures**.
 67. Зафиксирована descriptive/generic taxonomy: Sandelowski QD как legitimate low-inference methodology; low-inference ≠ interpretation-free; Interpretive Description как distinct applied methodology; generic qualitative допускается только при явной methodological congruence; methodology-unclear не чинится автоматически до generic; exploratory = purpose, TA/content analysis = analysis layer, не parent design.
 68. Qualitative branch остаётся **RESEARCHING**.
-69. Следующий микро-проход: **RES-02/PASS-06D7 — narrative inquiry and narrative-study structures: story/temporality/identity target, narrative vs interview distinction, individual vs collective narratives, major analytic traditions, longitudinal narrative logic, claim limits and fitness/exercise applications**.
+69. Завершён **PASS-06D7 — narrative inquiry and narrative-study structures**.
+70. Зафиксирована narrative taxonomy: story/temporality/identity as scientific target; story-in-interview ≠ narrative design; Clandinin/Connelly temporality-sociality-place architecture; thematic/structural/dialogic-performance narrative-analysis families; plot/turning points/tellability/co-construction; individual, collective and cultural/master narrative levels; longitudinal narrative change separated from objective event change; narrative causality separated from causal identification.
+71. Qualitative branch остаётся **RESEARCHING**.
+72. Следующий микро-проход: **RES-02/PASS-06D8 — participatory, action-research and co-design primary-study structures: participation as governance vs data collection, PAR/CBPR/action research cycles, co-design/co-production boundaries, researcher-participant roles, power and ownership, embedded evaluation, claim limits and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
