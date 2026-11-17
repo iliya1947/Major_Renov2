@@ -9,8 +9,9 @@
 5. RES-02/PASS-01…PASS-06A завершены и остаются текущей валидной базой. Прежний широкий `PASS-06B_prognosis_prediction_designs.md` по решению пользователя **SUPERSEDED** и не считается закрытием prognosis/prediction branch.
 6. Новая granular revalidation PASS-06B начата. Завершены:
    - **PASS-06B1 — prognosis core taxonomy and longitudinal structure**;
-   - **PASS-06B2 — longitudinal cohort structures for prognosis**.
-7. Следующий микро-проход: **RES-02/PASS-06B3 — routine-care data sources for prognosis: EHR, registries, administrative databases, data-source-vs-design distinction, startpoint emulation, measurement heterogeneity, missingness and source-population definition**.
+   - **PASS-06B2 — longitudinal cohort structures for prognosis**;
+   - **PASS-06B3 — routine-care data sources for prognosis**.
+7. Следующий микро-проход: **RES-02/PASS-06B4 — outcome-dependent sampling in prognosis: nested case-control, case-cohort and nested class-balanced designs; sampling fractions, recoverability of absolute risk, and limits of non-nested sampling**.
 
 ## Правила Stage 2 после restart
 
