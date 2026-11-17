@@ -137,33 +137,36 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E5_embedded_intervention_mixed_methods_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E6_multistage_advanced_mixed_methods_frameworks.md`
 
-Commit PASS-06E5:
+Commit PASS-06E6:
 
-`498e26a3cccb28c0c7ec78948bd55bf4827217c7`
+`f1b3d2f9793ab0b1f1f406cc74945c74b17f2b4c`
 
-PASS-06E5 resolved the embedded/intervention mixed-methods taxonomy. Embedded/nested is now treated primarily as a structural relationship inside a dominant trial/program rather than as a fourth equal core integration design. A nested qualitative study is not automatically mixed methods: true embedded mixed methods requires intentional QUAL–QUAN integration and an integrated inference. The structural EMBEDDED relation can coexist with CONVERGENT, EXPLANATORY_SEQUENTIAL, EXPLORATORY_SEQUENTIAL or later MULTISTAGE integration. Process evaluation remains a purpose architecture centered on implementation, mechanisms of impact and context; fidelity, dose, reach, participant/provider response, adaptation, contamination, unintended consequences and measurement reactivity are separate fields. Real-time process feedback during definitive trials is treated as a potential intervention/trial-integrity issue. Process/outcome integration must be demonstrated rather than inferred from nesting. Hybrid effectiveness-implementation Type I/II/III is now a separate design axis from mixed methods; current PCORI 2026 HEI-1/HEI-2 standards were incorporated. Current IPRehab-LBP, CANFit, HERO, FEMuR III, STRENGTH and PRO-HIIT studies verify direct rehabilitation/exercise/PE relevance; ENERGISED and TeleCaRe verify the embedded-QUAL-without-automatic-mixed-methods boundary. Mixed-methods branch remains RESEARCHING.
+PASS-06E6 resolved advanced mixed-methods frameworks. The project keeps only CONVERGENT, EXPLANATORY_SEQUENTIAL and EXPLORATORY_SEQUENTIAL as basic integration designs. MULTISTAGE/MULTIPHASE, CASE_STUDY_FRAMEWORK, INTERVENTION_FRAMEWORK and PARTICIPATORY_FRAMEWORK are represented as larger parent/advanced structures that contain one or more basic integration patterns; EMBEDDED/NESTED remains a structural relation from E5. Multistage work requires explicit cross-phase dependency/integration and separate phase-level vs program-level meta-inference; PROGRAM_ID/STUDY_ID/PHASE_ID and phase-bridge provenance are now required. Case-study mixed methods preserves case boundaries and direction of nesting. Transformative/critical, implementation-science, HEI and systems-science labels are stored as separate overlays. Q Methodology is confirmed as a standalone methodology-level route with constitutive Q-sort + by-person factor-analysis + interpretive architecture, not a generic basic mixed-method design. Realist Evaluation is confirmed as a standalone theory-driven, method-neutral evaluation route that may use qualitative, quantitative or mixed methods. Current sport/exercise/rehab relevance was verified through MotiStyleSport, a four-phase participatory PA program, an adolescent participatory intervention, a stroke-rehabilitation multiple-case protocol, PA systems research, current PA realist evaluation, and current Q-methodology studies in swimmers, rehabilitation and physical education. Mixed-methods branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06E6 — Multistage/advanced mixed-methods frameworks**
+**RES-02 / PASS-06E7 — mixed-methods sampling, integration, meta-inference and quality synthesis**
 
 Scope следующего micro-pass:
 
-1. multiphase/multistage program architecture;
-2. mixed-methods case study;
-3. participatory/transformative frameworks;
-4. implementation and systems overlays;
-5. sequential combinations of exploratory→trial→process→explanatory phases;
-6. program-level integration across studies;
-7. single-study vs research-program boundary;
-8. phase-level vs program-level meta-inference;
-9. Q Methodology boundary;
-10. realist mixed-methods boundary;
-11. direct sport/exercise/rehabilitation applications;
-12. claim limits;
-13. STOP after saved PASS.
+1. sample relationships across strands/phases;
+2. purposeful + probability sampling combinations;
+3. integration at design/sampling/data/analysis/interpretation;
+4. connecting/building/merging/embedding;
+5. joint displays;
+6. data transformation;
+7. following-a-thread / crossover analysis;
+8. integration granularity;
+9. divergence;
+10. meta-inference quality;
+11. legitimation/validity frameworks;
+12. MMAT/JARS/GRAMMS/PCORI distinctions;
+13. mixed-methods-specific bias;
+14. AI-assisted integration provenance;
+15. canonical branch-wide extraction router;
+16. STOP after saved PASS.
 
 ---
 
@@ -180,11 +183,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E5_embedded_intervention_mixed_methods_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E6_multistage_advanced_mixed_methods_frameworks.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E6_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E7_...`
 
 ---
 
