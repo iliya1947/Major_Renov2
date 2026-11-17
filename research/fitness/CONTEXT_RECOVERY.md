@@ -137,32 +137,33 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C1_mechanistic_explanatory_scope_taxonomy.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C2_human_experimental_mechanistic_perturbation.md`
 
-Commit PASS-06C1:
+Commit PASS-06C2:
 
-`9e1a6fd29e1c5d4a333eb6103f44f2f33d1c11a0`
+`0dbee8a353466e40c9e9d121d688b3b0dcb3257c`
 
-Mechanistic/explanatory scope taxonomy established. Mechanistic branch remains RESEARCHING.
+Human experimental mechanistic perturbation taxonomy established. Mechanistic branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06C2 — human experimental mechanistic perturbation studies**
+**RES-02 / PASS-06C3 — causal mediation and pathway study structures**
 
 Scope следующего micro-pass:
 
-1. current NIH BESH vs mechanistic-clinical-trial distinction;
-2. intervention/manipulation as experimental probe;
-3. target engagement;
-4. parallel/crossover/within-person/factorial mechanistic structures;
-5. randomized vs nonrandomized perturbation;
-6. dose/challenge perturbation logic;
-7. blockade / inhibition / rescue logic;
-8. necessity vs sufficiency claims;
-9. acute human physiology examples;
-10. measurement and timing requirements;
-11. what each perturbation structure can/cannot establish;
-12. unresolved gaps → next mechanistic micro-pass.
+1. mediator vs biomarker/target/moderator;
+2. temporal ordering A → M → Y;
+3. randomized vs observational mediation;
+4. total / direct / indirect effects at taxonomy level;
+5. mediator-outcome confounding;
+6. exposure-induced mediator-outcome confounding;
+7. why randomized A does not randomize M;
+8. measurement error in mediator/outcome;
+9. multiple and serial mediators;
+10. longitudinal/time-varying mediation;
+11. why simple covariate adjustment for M is not causal mediation;
+12. fitness/exercise examples;
+13. unresolved gaps → next mechanistic micro-pass.
 
 ---
 
@@ -179,11 +180,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C1_mechanistic_explanatory_scope_taxonomy.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C2_human_experimental_mechanistic_perturbation.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C2_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C3_...`
 
 ---
 
