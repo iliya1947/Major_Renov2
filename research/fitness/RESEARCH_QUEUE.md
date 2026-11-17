@@ -13,8 +13,9 @@
    - **PASS-06B3 — routine-care data sources for prognosis**;
    - **PASS-06B4 — outcome-dependent sampling in prognosis**;
    - **PASS-06B5 — prediction-model development study structures**;
-   - **PASS-06B6 — internal validation structures**.
-7. Следующий микро-проход: **RES-02/PASS-06B7 — internal-external and external validation structures: clustered IECV, temporal/geographical/setting external validation, reproducibility vs transportability, independence of validation data, and repeated validation across heterogeneous settings**.
+   - **PASS-06B6 — internal validation structures**;
+   - **PASS-06B7 — internal-external and external validation structures**.
+7. Следующий микро-проход: **RES-02/PASS-06B8 — model recalibration, updating and extension structures: validation-before-update sequence, intercept/baseline-hazard recalibration, coefficient updating, adding predictors, version identity, and revalidation requirements**.
 
 ## Правила Stage 2 после restart
 
