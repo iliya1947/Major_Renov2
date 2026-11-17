@@ -71,7 +71,9 @@
 36. Observational biomarker/omics taxonomy закрыта на текущем уровне: biomarker roles, cross-sectional/longitudinal evidence, reverse causation, prospective biospecimens, high-dimensional discovery, multiplicity/replication, batch/preanalytics, annotation uncertainty, pathway/network inference, triangulation и MR/IV boundary.
 37. Завершён **PASS-06C5 — nonhuman and translational mechanistic models**.
 38. Nonhuman/translational taxonomy закрыта на текущем уровне: animal, primary-cell/cell-line, ex vivo, organoid/MPS, genetic/pharmacologic perturbation, computational V&V, model validity, species/tissue/dose/timescale translation и exercise-specific extrapolation.
-39. Следующий микро-проход: **RES-02/PASS-06C6 — mechanistic-branch integration and gap audit: re-read PASS-06C1…C5 plus relevant PASS-02/03/04/06A/06B boundaries; test for missing mechanism-evidence families, contradictions, overclaimed necessity/sufficiency/mediation/translation, unresolved human experimental structures, surrogate/target-validation gaps, and decide whether mechanistic synthesis is permitted or additional blocking passes are required**.
+39. Завершён **PASS-06C6 — mechanistic-branch integration and gap audit**.
+40. Audit выявил один blocking design-family gap перед mechanistic synthesis: **N-of-1 / broader single-case experimental designs (SCED) for mechanistic/experimental physiology**. Detailed N-of-1 methodology остаётся owned by RES-27; taxonomy-level design classification закрывается здесь.
+41. Следующий микро-проход: **RES-02/PASS-06C7 — N-of-1 and single-case experimental structures for mechanistic/physiology research: randomized multi-crossover N-of-1, withdrawal/reversal, multiple-baseline, alternating-treatment and changing-criterion structures; individual vs population estimands; repeated outcome measurement; onset/offset/washout/carryover; autocorrelation/time trends at taxonomy level; mechanistic target/mediator measurement; exercise/fitness use cases; and explicit ownership boundary with detailed RES-27 N-of-1 methodology**.
 
 ## Правила Stage 2 после restart
 
