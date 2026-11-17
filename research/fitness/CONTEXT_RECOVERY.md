@@ -137,40 +137,37 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D35_indigenous_decolonizing_methodology_routing_sport_PA.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D36_participatory_video_study_structures.md`
 
-Commit PASS-06D35:
+Commit PASS-06D36:
 
-`99c8614618a9d23ea16e34e7ee9d9d2ca9f3258b`
+`f3c543d5a9e2bbc5489b482b90224b0a0ec46798`
 
-PASS-06D35 closed the fourth D31 blocker at routing/taxonomy level. Indigenous/decolonizing research cannot be represented as one universal atomic qualitative design. The project now uses a cross-cutting routing architecture: specific Indigenous people/Nation/community → locally legitimate ontology/epistemology/axiology → self-determination/Indigenous authority → relational accountability → community-defined priorities/benefit → culturally legitimate methodology/methods → Indigenous knowledge/custodian rights → Indigenous Data Sovereignty/Governance → separately classified empirical study design → community-specific inference limits. Indigenous methodology can govern qualitative, quantitative and mixed designs; the 2022 Ironbark PA study directly verifies longitudinal quantitative outcomes within Indigenous methodology. Kaupapa Māori is retained as Māori-specific methodology; yarning level is classified from author declaration + enacted architecture; Dadirri is explicitly place/custodian-specific; Talking Circles are not universalized. Current Australian requirements were updated through AIATSIS 2020, NHMRC Indigenous guidance 2018 (still current), National Statement 2025 (in effect 2026-06-23), and refreshed NHMRC IREC 2026 including data sovereignty/governance. Direct Māori rugby/haka, Aboriginal sport history, running-group, Elders’ strength/balance and 2025 PA-program examples were verified. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D36 closed the fifth D31 blocker at taxonomy level. Participatory Video is confirmed as a distinct participatory-visual methodology/process family whose defining object is not the finished video but the enacted participatory process. Current extended architecture is routed through group formation/building → group-level reflection → peer videoing/sense-making → community-level video dialogue/mobilisation → external engagement. Recording↔playback cycles, participant media capability, meaningful topic/message authority, editorial/final-cut decision rights, community screening and staged consent/ownership governance are core fields. The pass explicitly separates internal reflective footage from public dissemination, participant/co-researcher roles from filmed contributors/third parties, and legal ownership from practical/ethical control. Current 2026 evidence also confirms that film roles can create new intra-group power and exclusion even in strongly participatory projects. PV is distinct from Photovoice, documentary filmmaking, digital storytelling, generic video elicitation and videography, while it can be nested within PAR/CBPR/evaluation. Direct PA relevance is verified through NU-BIG: women in difficult life situations co-created a long-duration video to evaluate perceived long-term effects of a physical-activity programme, with initial insecurity/support needs followed by media-literacy, confidence and critical-awareness gains. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D36 — Participatory Video**
+**RES-02 / PASS-06D37 — A/r/tography / specific arts-based inquiry structures**
 
 Scope следующего micro-pass:
 
-1. participatory-video lineage;
-2. group formation / trust;
-3. participant media literacy;
-4. camera/video ownership and participant control;
-5. peer video production;
-6. collective viewing/reflexive sense-making;
-7. community-level video dialogue;
-8. external audience/action pathway;
-9. facilitator role and power;
-10. authorship/editorial control;
-11. moving-image/process consent;
-12. identifiable third parties;
-13. ownership/storage/reuse of footage;
-14. boundary with Photovoice;
-15. boundary with documentary filmmaking;
-16. boundary with digital storytelling;
-17. boundary with generic video elicitation;
-18. physical-activity/community-program applications;
-19. claim limits;
-20. unresolved gaps → next blocker pass.
+1. artist/researcher/teacher identity architecture;
+2. living inquiry;
+3. art-making as knowledge production;
+4. renderings;
+5. rhizomatic/relational ontology;
+6. embodied/material inquiry;
+7. data/method boundary;
+8. representation and audience co-meaning-making;
+9. ethics;
+10. boundary with broad arts-based research;
+11. boundary with arts-informed research;
+12. boundary with performance ethnography;
+13. boundary with autoethnography;
+14. boundary with research-creation;
+15. direct sport/exercise/leisure applications;
+16. claim limits;
+17. unresolved gaps → next blocker pass.
 
 ---
 
@@ -187,11 +184,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D35_indigenous_decolonizing_methodology_routing_sport_PA.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D36_participatory_video_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D36_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D37_...`
 
 ---
 
