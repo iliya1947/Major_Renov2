@@ -137,31 +137,36 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D45_qualitative_branch_structural_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E1_mixed_methods_primary_study_structures_scope_taxonomy.md`
 
-Commit PASS-06D45:
+Commit PASS-06E1:
 
-`4ec5cecfe208331ad46500c11715bf6e48096f59`
+`055effaac3259c29bfb33d236ecf1d69a84bd32c`
 
-PASS-06D45 structurally synthesized the complete D1–D44 qualitative branch. The key correction is that the D44 “38 family/routing items” are not treated as 38 equal atomic designs. The canonical qualitative router is now layered: parent empirical context → scientific purpose → parent methodology → cross-cutting paradigm/governance → structural modifiers → sampling/adequacy → data-generation methods → analysis → representation → quality/reflexivity/ethics. Parent methodologies, cross-cutting Indigenous/PQI routes, longitudinal/nested architectures, methods, analyses and representational forms are explicitly separated. Hybrid routing rules preserve combinations such as longitudinal IPA + photo elicitation; CBPR + Photovoice; Narrative Inquiry + CNF portraiture; Ethnography + Rhythmanalysis; A/r/tography + posthuman orientation; Indigenous methodology + separate empirical design. The branch integrates claim limits, sampling/adequacy, quality/ethics, visual/video distinctions, self-as-researcher distinctions and a canonical 42-field minimum extraction record. No synthesis-level contradiction remains after explicit layer separation. Qualitative branch status is now **SYNTHESIZED FOR RES-02 STRUCTURAL USE** with no currently known blocking qualitative taxonomy gaps. RES-02 overall remains RESEARCHING.
+PASS-06E1 opened the mixed-methods branch and established the core taxonomy. Mixed methods is represented as a cross-component integration family, not one atomic design: quantitative parent design + qualitative parent methodology + rationale for mixing + timing + priority + dependency + sampling relationship + integration architecture + integration technique + meta-inference + component-specific and mixed-methods-specific quality. Intentional QUAL–QUAN integration is the defining feature; simple coexistence of quantitative and qualitative material is insufficient. Three stable core integration architectures are recognized: CONVERGENT, EXPLANATORY_SEQUENTIAL (QUAN→QUAL), and EXPLORATORY_SEQUENTIAL (QUAL→QUAN). Embedded/nested mixed methods is a major fourth route requiring dedicated resolution because current literature uses heterogeneous nomenclature. Connecting, building, merging and embedding are retained as integration mechanisms; joint displays are integration tools rather than mandatory quality criteria. Current 2026 PCORI standards, current APA JARS-Mixed, NIH/OBSSR guidance, Fetters/Curry/Creswell integration architecture and current sport/exercise/rehabilitation examples were checked. Mixed-methods branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06E1 — mixed-methods primary-study structures: scope and taxonomy**
+**RES-02 / PASS-06E2 — Convergent mixed-methods structures**
 
 Scope следующего micro-pass:
 
-1. define mixed methods by intentional qualitative–quantitative integration rather than coexistence;
-2. distinguish convergent, explanatory-sequential, exploratory-sequential and embedded architectures;
-3. timing / priority / dependence of components;
-4. integration at design, sampling, data collection, analysis and interpretation;
-5. joint displays and other integration techniques;
-6. mixed methods vs multi-method;
-7. preserve parent quantitative and qualitative designs separately;
-8. claim limits;
-9. direct sport/exercise/rehabilitation applications;
-10. identify minimum mixed-methods subfamilies requiring deeper passes;
-11. STOP after saved PASS.
+1. concurrent/parallel timing;
+2. strand independence before integration;
+3. merging at data/results level;
+4. same vs different samples;
+5. priority/weighting;
+6. comparison/confirmation/complementarity/expansion/discordance;
+7. joint-display architectures;
+8. case-by-case integration;
+9. data transformation;
+10. integrated meta-inference;
+11. divergence handling;
+12. boundary with parallel multimethod / triangulation-only studies;
+13. quantitative/qualitative quality preservation;
+14. direct sport/exercise/rehabilitation applications;
+15. claim limits;
+16. STOP after saved PASS.
 
 ---
 
@@ -178,11 +183,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D45_qualitative_branch_structural_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E1_mixed_methods_primary_study_structures_scope_taxonomy.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E1_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E2_...`
 
 ---
 
