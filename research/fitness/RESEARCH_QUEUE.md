@@ -11,8 +11,9 @@
    - **PASS-06B1 — prognosis core taxonomy and longitudinal structure**;
    - **PASS-06B2 — longitudinal cohort structures for prognosis**;
    - **PASS-06B3 — routine-care data sources for prognosis**;
-   - **PASS-06B4 — outcome-dependent sampling in prognosis**.
-7. Следующий микро-проход: **RES-02/PASS-06B5 — prediction-model development study structures: candidate predictors, model fitting vs model specification, apparent performance, development-dataset architecture, and the boundary between development and evaluation**.
+   - **PASS-06B4 — outcome-dependent sampling in prognosis**;
+   - **PASS-06B5 — prediction-model development study structures**.
+7. Следующий микро-проход: **RES-02/PASS-06B6 — internal validation structures: apparent performance vs resampling-based internal validation, bootstrap, cross-validation, repeated/nested CV, split-sample approaches, optimism correction and the boundary between internal validation and external evaluation**.
 
 ## Правила Stage 2 после restart
 
