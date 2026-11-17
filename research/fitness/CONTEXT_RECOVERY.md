@@ -137,38 +137,40 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D34_collective_memory_work_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D35_indigenous_decolonizing_methodology_routing_sport_PA.md`
 
-Commit PASS-06D34:
+Commit PASS-06D35:
 
-`8380feba728b984a5c24f9c4bb99a24e6761f4a4`
+`99c8614618a9d23ea16e34e7ee9d9d2ca9f3258b`
 
-PASS-06D34 closed the third D31 blocker at taxonomy level. Collective Memory Work (CMW) is confirmed as a distinct feminist-rooted, group- and text-based, participatory/praxis-oriented qualitative methodology family. CMW means a collective working with individual memories, not research on collective/cultural memory. Its canonical architecture is: shared problematic/trigger → participant-researcher group → short self-generated memory-scenes → collective textual scrutiny of language, contradiction, absences, socialisation and power → recursive rewriting/reanalysis → connection to theory and possible expanded capacity for action. Classic Haugian third-person writing is retained as a lineage-specific distancing technique, but current sport/PA methodology explicitly permits first- or third-person memory writing, so grammar is not treated as an absolute validity criterion. Memory is treated as constructed and analytically meaningful rather than as a perfect historical recording. CMW is distinct from narrative inquiry, focus groups, oral history, memory studies, collaborative autoethnography, generic participatory research/PAR and therapy. Direct sport/PA evidence is established, including childhood sport/play, gendered bodily regulation and current PQI-informed CMW work. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D35 closed the fourth D31 blocker at routing/taxonomy level. Indigenous/decolonizing research cannot be represented as one universal atomic qualitative design. The project now uses a cross-cutting routing architecture: specific Indigenous people/Nation/community → locally legitimate ontology/epistemology/axiology → self-determination/Indigenous authority → relational accountability → community-defined priorities/benefit → culturally legitimate methodology/methods → Indigenous knowledge/custodian rights → Indigenous Data Sovereignty/Governance → separately classified empirical study design → community-specific inference limits. Indigenous methodology can govern qualitative, quantitative and mixed designs; the 2022 Ironbark PA study directly verifies longitudinal quantitative outcomes within Indigenous methodology. Kaupapa Māori is retained as Māori-specific methodology; yarning level is classified from author declaration + enacted architecture; Dadirri is explicitly place/custodian-specific; Talking Circles are not universalized. Current Australian requirements were updated through AIATSIS 2020, NHMRC Indigenous guidance 2018 (still current), National Statement 2025 (in effect 2026-06-23), and refreshed NHMRC IREC 2026 including data sovereignty/governance. Direct Māori rugby/haka, Aboriginal sport history, running-group, Elders’ strength/balance and 2025 PA-program examples were verified. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D35 — Indigenous/decolonizing research-methodology routing and sport/physical-activity structures**
+**RES-02 / PASS-06D36 — Participatory Video**
 
 Scope следующего micro-pass:
 
-1. Indigenous methodology vs Indigenous method;
-2. community/nation-specific ontology, epistemology and axiology;
-3. relational accountability;
-4. sovereignty and research governance;
-5. Indigenous data sovereignty / stewardship;
-6. ownership/control/access/possession issues;
-7. Kaupapa Māori methodology architecture;
-8. Māori sport/rugby exemplars;
-9. Aboriginal/Torres Strait Islander research-methodology architecture;
-10. yarning as method/approach within appropriate methodology;
-11. Dadirri / Talking Circles boundary;
-12. no pan-Indigenous universal design;
-13. ethics / community agreements / benefit;
-14. boundary with PAR/CBPR;
-15. boundary with generic cultural adaptation;
-16. sport / physical-activity exemplars;
-17. claim limits;
-18. unresolved gaps → next blocker pass.
+1. participatory-video lineage;
+2. group formation / trust;
+3. participant media literacy;
+4. camera/video ownership and participant control;
+5. peer video production;
+6. collective viewing/reflexive sense-making;
+7. community-level video dialogue;
+8. external audience/action pathway;
+9. facilitator role and power;
+10. authorship/editorial control;
+11. moving-image/process consent;
+12. identifiable third parties;
+13. ownership/storage/reuse of footage;
+14. boundary with Photovoice;
+15. boundary with documentary filmmaking;
+16. boundary with digital storytelling;
+17. boundary with generic video elicitation;
+18. physical-activity/community-program applications;
+19. claim limits;
+20. unresolved gaps → next blocker pass.
 
 ---
 
@@ -185,11 +187,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D34_collective_memory_work_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D35_indigenous_decolonizing_methodology_routing_sport_PA.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D35_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D36_...`
 
 ---
 
