@@ -137,31 +137,43 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D41_portraiture_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D42_repeat_final_qualitative_gap_audit_after_D40_D41.md`
 
-Commit PASS-06D41:
+Commit PASS-06D42:
 
-`bf1327352b4cf3ffdebd246315708c09542b79e7`
+`f27a19fffbbea8a7557a10946357023f998cce36`
 
-PASS-06D41 closed the second and final D39 blocker at taxonomy level. Portraiture is confirmed as an independent qualitative methodology developed by Sara Lawrence-Lightfoot, with canonical architecture: systematic empirical engagement + search for goodness/strength without romanticization + context + participant/researcher voice relation + relationship as knowledge-producing + emergent-theme synthesis + aesthetic whole + explicit portraitist positionality + authenticity/resonance + critical-generous interpretation. Five core elements are context, voice, relationship, emergent themes and aesthetic whole. Repetitive refrains, resonant metaphors, cultural/institutional rituals, triangulation and revealing/dissonant patterns are retained as established analytic modes rather than a rigid algorithm. Full Portraiture is separated from portrait/CNF representational layers and hybrid uses. Direct sport relevance is verified through the 2026 Finnish sport Narrative Inquiry + CNF portraiture paper; the 2017 climber study verifies phenomenological portraiture. Broad current peer-reviewed coaching-specific full-Portraiture corpus remains insufficiently verified. Both D39 blockers are now closed, but qualitative structural synthesis remains NOT AUTHORIZED pending a new repeat final gap audit.
+PASS-06D42 repeated the qualitative branch gap audit after D40–D41. Both D39 blockers remain closed, but a fresh 2025–2026 sport/health/methodology scan found one new independent methodology-level blocker: **Lefebvrean Rhythmanalysis / rhythmanalytical inquiry**. It cannot be reconstructed adequately from longitudinal qualitative, ethnographic, sensory/carnal or phenomenological routes because its primary scientific object is the embodied relational organization of time/place/energy through rhythms. Current direct sport relevance is verified through 2025 coaching rhythmanalysis and 2026 surfing rhythmanalysis; current health relevance is verified through 2025 dementia-care ward rhythmanalysis; a 2026 Organizational Research Methods paper explicitly develops rhythmanalysis as a research method. Rapid Ethnography/RAP, Microethnography, Digital/Netnography, Critical/Sensory ethnography, go-along/running interviews, Listening Guide, EBCD, trauma-informed research, Physical Cultural Studies/critical-disability/feminist/queer orientations, audio-visual inquiry, participatory mapping, critical realism and cultural semiotics were re-tested and remain routable without new parent families. Qualitative branch remains RESEARCHING; structural synthesis remains NOT AUTHORIZED.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D42 — repeat final qualitative branch gap audit after D40–D41**
+**RES-02 / PASS-06D43 — Lefebvrean Rhythmanalysis study structures**
 
 Scope следующего micro-pass:
 
-1. reopen D39–D41;
-2. recheck all previously discovered blocker families;
-3. fresh broad external scan of current sport/exercise/health qualitative methodology;
-4. retest visual/digital/arts/practice-based candidates;
-5. retest current Indigenous named methodologies;
-6. retest critical/posthuman/hybrid routes;
-7. test VRE/PV/ethnography boundaries;
-8. test Portraiture/narrative/arts boundaries;
-9. identify any remaining methodology-level blocker;
-10. either create next blocker queue or authorize qualitative structural synthesis;
-11. STOP after saved audit.
+1. Lefebvre/Régulier lineage;
+2. rhythm as relation of time/place/energy;
+3. cyclical vs linear rhythm;
+4. polyrhythmia;
+5. eurhythmia;
+6. arrhythmia;
+7. repetition/difference;
+8. body of the rhythmanalyst;
+9. engagement/detachment and inside/outside;
+10. rhythm sensing/documentation;
+11. embodied fieldwork;
+12. observation/interview/visual/audio possibilities;
+13. vignettes/creative representation;
+14. methodology vs orientation vs analytic-method debate;
+15. boundary with longitudinal qualitative inquiry;
+16. boundary with ethnography;
+17. boundary with sensory/carnal ethnography;
+18. boundary with phenomenology;
+19. boundary with PQI/new materialism;
+20. direct coaching/surfing/health applications;
+21. claim limits;
+22. project routing decision;
+23. handoff to another repeat final qualitative gap audit.
 
 ---
 
@@ -178,11 +190,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D41_portraiture_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D42_repeat_final_qualitative_gap_audit_after_D40_D41.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D42_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D43_...`
 
 ---
 
