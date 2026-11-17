@@ -118,31 +118,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B6` — internal validation structures;
   - `PASS-06B7` — internal-external and external validation structures;
   - `PASS-06B8` — model recalibration, updating and extension structures;
-  - `PASS-06B9` — prediction-model impact and utility study structures.
+  - `PASS-06B9` — prediction-model impact and utility study structures;
+  - `PASS-06B10` — prediction-performance estimand architecture.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B9_prediction_model_impact_utility.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B10_prediction_performance_estimands.md`
 
-Commit PASS-06B9:
+Commit PASS-06B10:
 
-`e699645d481f52838f9bc78e1ac8d96ddf9ac4f2`
+`d0d213f01489365c98e807687b80f55cde7fdd37`
 
 ### Следующая задача
 
-**RES-02 / PASS-06B10 — prediction-performance estimand architecture**
+**RES-02 / PASS-06B11 — prediction under treatment and management**
 
 Scope следующего micro-pass:
 
-1. discrimination;
-2. calibration;
-3. overall performance;
-4. absolute-risk scale;
-5. horizon-specific performance;
-6. decision utility as a separate estimand layer;
-7. mapping of performance targets to development/internal/external validation;
-8. structural boundaries without detailed statistics;
-9. unresolved gaps → next micro-pass.
+1. prognosis under heterogeneous interventions;
+2. treatment as predictor/context;
+3. baseline treatment status vs post-startpoint treatment;
+4. treatment paradox / treatment-drop-in;
+5. model-guided treatment feedback;
+6. prediction target under observed care vs no-treatment/counterfactual target;
+7. boundary ordinary prognostic prediction vs treatment-effect prediction;
+8. unresolved gaps → next micro-pass.
 
 ---
 
@@ -159,11 +159,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B9_prediction_model_impact_utility.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B10_prediction_performance_estimands.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B10_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B11_...`
 
 ---
 
