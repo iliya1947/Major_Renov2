@@ -137,34 +137,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C6_mechanistic_integration_gap_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C7_n_of_1_single_case_experimental_structures.md`
 
-Commit PASS-06C6:
+Commit PASS-06C7:
 
-`5f9279e2d191e1a191ec47e31bb7a4e64f4b464c`
+`3ab70106f83420664995dee29c99b2f29fa90d68`
 
-Mechanistic integration audit завершён; synthesis пока не разрешён. Blocking gap: N-of-1 / broader SCED structures for mechanistic/experimental physiology.
+Blocking N-of-1/SCED taxonomy gap из PASS-06C6 закрыт. Mechanistic synthesis пока не разрешён: нужен repeat closure/gap audit.
 
 ### Следующая задача
 
-**RES-02 / PASS-06C7 — N-of-1 and single-case experimental structures for mechanistic/physiology research**
+**RES-02 / PASS-06C8 — repeat mechanistic-branch closure/gap audit after PASS-06C7**
 
 Scope следующего micro-pass:
 
-1. define N-of-1 vs broader SCED;
-2. randomized multi-crossover N-of-1;
-3. withdrawal/reversal designs;
-4. multiple-baseline designs;
-5. alternating-treatment designs;
-6. changing-criterion/intensity designs;
-7. individual vs population estimands;
-8. repeated measurement / temporal dependence;
-9. onset/offset / washout / carryover;
-10. mechanistic target/mediator measurement inside SCED;
-11. exercise/fitness physiology use cases;
-12. taxonomy-level relation to ordinary crossover and self-controlled observational designs;
-13. explicit ownership boundary: detailed methods remain RES-27;
-14. unresolved gaps → repeat mechanistic closure audit.
+1. re-read PASS-06C1…C7;
+2. verify N-of-1/SCED crosswalk closure;
+3. recheck randomized/quasi-experimental/observational boundaries;
+4. recheck target engagement vs mediation;
+5. recheck biomarker/omics vs causal mechanism;
+6. recheck nonhuman/computational translation;
+7. recheck surrogate/target-validation ownership;
+8. search for any remaining human mechanistic design family;
+9. search for fitness/exercise-specific omissions;
+10. separate later statistical/RoB topics from true RES-02 blockers;
+11. decide whether mechanistic structural synthesis is finally permitted.
 
 ---
 
@@ -181,11 +178,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C6_mechanistic_integration_gap_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C7_n_of_1_single_case_experimental_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C7_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C8_...`
 
 ---
 
