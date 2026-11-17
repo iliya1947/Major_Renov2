@@ -127,38 +127,38 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B15` — competing risks / recurrent events / multistate prediction;
   - `PASS-06B16` — post-deployment lifecycle and continual updating;
   - `PASS-06B17` — final prediction-branch gap audit after B14–B16;
-  - `PASS-06B18` — multicategory and ordinal prediction-model structures.
+  - `PASS-06B18` — multicategory and ordinal prediction-model structures;
+  - `PASS-06B19` — multiple-outcome, composite and joint-risk prediction structures.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B18_multicategory_ordinal_prediction.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B19_multiple_outcome_composite_joint_risk.md`
 
-Commit PASS-06B18:
+Commit PASS-06B19:
 
-`974432ba85f212014e26590190a3abda6db40c5e`
+`bd2c952e129cb469378c35be899ddb97fcfc9046`
 
-Остаются два blocking gaps перед repeat final audit:
+Остался один blocking gap перед repeat final audit:
 
-1. multiple-outcome / composite / joint-outcome prediction;
-2. outcome-dependent sampling specifically for diagnostic probability models.
+1. outcome-dependent sampling specifically for diagnostic probability models.
 
 ### Следующая задача
 
-**RES-02 / PASS-06B19 — multiple-outcome, composite and joint-risk prediction structures**
+**RES-02 / PASS-06B20 — diagnostic outcome-dependent sampling and absolute-probability recovery**
 
 Scope следующего micro-pass:
 
-1. single-outcome vs multiple-outcome prediction;
-2. marginal risk for each outcome;
-3. composite endpoints;
-4. joint outcome combinations;
-5. co-occurring vs competing outcomes;
-6. outcome dependence/correlation;
-7. conditional-independence pitfalls;
-8. calibration/discrimination/overall performance for multiple outcomes;
-9. decision-utility implications;
-10. boundaries with multicategory and multistate prediction;
-11. unresolved gaps → next micro-pass.
+1. one-gate vs two-gate diagnostic sampling;
+2. nested vs non-nested case-control diagnostic model development;
+3. deliberate class balancing;
+4. target-condition prevalence/base rate;
+5. known sampling fractions and prevalence recovery;
+6. weighting/recalibration of absolute diagnostic probabilities;
+7. discrimination vs calibration under enrichment;
+8. PPV/NPV and threshold utility;
+9. representative external validation;
+10. relation to DTA spectrum effects;
+11. unresolved gaps → repeat final audit.
 
 ---
 
@@ -175,11 +175,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B18_multicategory_ordinal_prediction.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B19_multiple_outcome_composite_joint_risk.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B19_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B20_...`
 
 ---
 
