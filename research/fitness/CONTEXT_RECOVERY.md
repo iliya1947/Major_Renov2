@@ -137,32 +137,27 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D12_reflexivity_trustworthiness_quality_architectures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D13_nested_qualitative_trial_cohort_process_structures.md`
 
-Commit PASS-06D12:
+Commit PASS-06D13:
 
-`aea6d192505009dd75f6a64ddc4bacbae69b83d5`
+`4cedc07716fbaf2d5427e8948bf55a03bda81f1f`
 
-PASS-06D12 established a cross-family qualitative quality architecture centered on methodological integrity rather than checklist compliance. Credibility, transferability, dependability and confirmability remain useful but non-exclusive concepts. Reflexivity is separated from positionality and bias-elimination claims; triangulation is not truth-by-agreement; member checking is optional and purpose-dependent; negative cases, rival explanations, audit trails and peer debriefing are methodology-routed tools. Intercoder reliability is explicitly non-universal and should not be imposed on reflexive thematic analysis. JARS–Qual, SRQR and COREQ are reporting frameworks rather than automatic quality scores. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D13 established nested/embedded qualitative work as a separate component layer under a parent trial/cohort/feasibility/development design. Qualitative components do not inherit randomization. Before/during/after trial roles, dynamic feasibility refinement, definitive-trial contamination risk, trial-conduct qualitative research, process evaluation, outcome/arm/site/trajectory sampling and qual–quant integration are now explicit. Perceived/experienced mechanisms are separated from causal mediation. “Embedded in an RCT” does not automatically mean mixed methods; intentional integration is required. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D13 — qualitative components nested within trials, cohorts, intervention-development and process-evaluation structures**
+**RES-02 / PASS-06D14 — qualitative-branch comprehensive gap audit after PASS-06D1…D13**
 
 Scope следующего micro-pass:
 
-1. parent-design vs qualitative-component identity;
-2. embedded vs parallel qualitative components;
-3. sampling from trial arms/sites/outcome trajectories;
-4. timing before/during/after intervention;
-5. intervention-development qualitative work;
-6. process-evaluation qualitative components;
-7. mechanism/implementation interpretation;
-8. integration with quantitative parent-study findings;
-9. longitudinal nested qualitative components;
-10. causal-inference boundaries;
-11. fitness/exercise applications;
-12. unresolved gaps → next qualitative micro-pass.
+1. audit all qualitative methodology/design families already covered;
+2. inspect flagged adjacent families;
+3. distinguish blocking missing methodology families from analysis methods, subtypes and cross-cutting metadata;
+4. identify any required additional granular passes;
+5. check unresolved boundaries from D1–D13;
+6. decide whether qualitative structural synthesis is authorized;
+7. if not authorized, define exact blocking next pass(es).
 
 ---
 
@@ -179,11 +174,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D12_reflexivity_trustworthiness_quality_architectures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D13_nested_qualitative_trial_cohort_process_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D13_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D14_...`
 
 ---
 
