@@ -137,33 +137,32 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C2_human_experimental_mechanistic_perturbation.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C3_causal_mediation_pathway_structures.md`
 
-Commit PASS-06C2:
+Commit PASS-06C3:
 
-`0dbee8a353466e40c9e9d121d688b3b0dcb3257c`
+`b05690f205ac9b13edf377ddc33670d9e1e8c8aa`
 
-Human experimental mechanistic perturbation taxonomy established. Mechanistic branch remains RESEARCHING.
+Causal mediation/pathway taxonomy established. Mechanistic branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06C3 — causal mediation and pathway study structures**
+**RES-02 / PASS-06C4 — observational mechanistic / biomarker / omics study structures**
 
 Scope следующего micro-pass:
 
-1. mediator vs biomarker/target/moderator;
-2. temporal ordering A → M → Y;
-3. randomized vs observational mediation;
-4. total / direct / indirect effects at taxonomy level;
-5. mediator-outcome confounding;
-6. exposure-induced mediator-outcome confounding;
-7. why randomized A does not randomize M;
-8. measurement error in mediator/outcome;
-9. multiple and serial mediators;
-10. longitudinal/time-varying mediation;
-11. why simple covariate adjustment for M is not causal mediation;
-12. fitness/exercise examples;
-13. unresolved gaps → next mechanistic micro-pass.
+1. descriptive biomarker/pathway evidence;
+2. cross-sectional vs longitudinal biomarker structures;
+3. temporality and reverse causation;
+4. molecular epidemiology as evidence source, not one design;
+5. high-dimensional omics discovery;
+6. multiplicity / overfitting / replication at taxonomy level;
+7. pathway enrichment/network inference boundaries;
+8. biomarker association vs mechanistic confirmation;
+9. triangulation with perturbation evidence;
+10. boundary with Mendelian randomization/IV/causal designs;
+11. fitness/exercise examples;
+12. unresolved gaps → next mechanistic micro-pass.
 
 ---
 
@@ -180,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C2_human_experimental_mechanistic_perturbation.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C3_causal_mediation_pathway_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C3_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C4_...`
 
 ---
 
