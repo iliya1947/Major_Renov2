@@ -7,8 +7,10 @@
 3. RESEARCHING next: **RES-02 — study designs.**
 4. RES-01 PASS-01…PASS-16 завершены: granular revalidation → gap audits → architecture → synthesis → closure audit.
 5. RES-02/PASS-01…PASS-06A завершены и остаются текущей валидной базой. Прежний широкий `PASS-06B_prognosis_prediction_designs.md` по решению пользователя **SUPERSEDED** и не считается закрытием prognosis/prediction branch.
-6. Новая granular revalidation PASS-06B начата. Завершён **PASS-06B1 — prognosis core taxonomy and longitudinal structure**.
-7. Следующий микро-проход: **RES-02/PASS-06B2 — longitudinal cohort structures for prognosis: prospective cohort, retrospective cohort, startpoint reconstruction, predictor timing, follow-up and reuse of randomized-trial data**.
+6. Новая granular revalidation PASS-06B начата. Завершены:
+   - **PASS-06B1 — prognosis core taxonomy and longitudinal structure**;
+   - **PASS-06B2 — longitudinal cohort structures for prognosis**.
+7. Следующий микро-проход: **RES-02/PASS-06B3 — routine-care data sources for prognosis: EHR, registries, administrative databases, data-source-vs-design distinction, startpoint emulation, measurement heterogeneity, missingness and source-population definition**.
 
 ## Правила Stage 2 после restart
 
