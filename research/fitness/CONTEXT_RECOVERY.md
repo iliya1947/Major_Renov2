@@ -137,32 +137,33 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D9_discourse_conversation_language_centered_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D10_longitudinal_qualitative_study_structures.md`
 
-Commit PASS-06D9:
+Commit PASS-06D10:
 
-`18d805538a696386f5de637bbcfaddabd17150d7`
+`68aa615abd9930013b7f2ff7e91ee644bba2b44e`
 
-PASS-06D9 established a language-centered qualitative taxonomy. Conversation Analysis is now separated from broader discourse analysis and defined through turn-taking, sequence organization, repair, action formation, participant orientation and fine-grained interactional transcription. Discursive Psychology, Critical Discursive Psychology, Foucauldian Discourse Analysis and Critical Discourse Analysis remain separate routes with different micro/macro inferential targets. Interpretative repertoires, subject positions, ideological dilemmas, discourse/power and naturalistic-vs-elicited data distinctions are explicit. Language-centered claims are separated from private-belief, prevalence and causal-effect claims. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D10 established longitudinal qualitative research as a temporal architecture layered on top of a parent qualitative methodology. Repeated interviews alone are insufficient: strong LQR requires a longitudinal question, time-structured/repeated data and explicit analysis of change/continuity. Prospective vs retrospective/quasi-longitudinal designs, recurrent cross-sectional vs trajectory analyses, fixed-clock vs event-contingent timing, entities followed through time, attrition/missing waves and embedded trial/process-evaluation components are now explicit. Temporal ordering strengthens process interpretation but does not establish causal effects. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D10 — longitudinal qualitative study structures across methodologies**
+**RES-02 / PASS-06D11 — qualitative sampling and data-sufficiency cross-family synthesis**
 
 Scope следующего micro-pass:
 
-1. prospective vs retrospective qualitative temporality;
-2. repeat-interview structures;
-3. qualitative panel/cohort structures;
-4. serial cross-sectional vs genuinely longitudinal qualitative research;
-5. trajectory, process, transition and change analysis;
-6. within-person/case change vs cross-time group themes;
-7. attrition and changing samples;
-8. event-contingent / diary / repeated-observation structures;
-9. longitudinal qualitative components embedded in trials/cohorts;
-10. what longitudinal qualitative evidence can and cannot establish;
-11. fitness/exercise applications;
-12. unresolved gaps → next qualitative micro-pass.
+1. purposive sampling strategies;
+2. criterion sampling;
+3. maximum-variation and homogeneous sampling;
+4. extreme/deviant/critical/typical cases;
+5. snowball/chain referral and convenience recruitment;
+6. theoretical sampling boundary;
+7. case/site/event/time sampling;
+8. sample-size justification;
+9. saturation variants;
+10. information power;
+11. negative/deviant cases;
+12. methodology-specific adequacy;
+13. unresolved gaps → next qualitative micro-pass.
 
 ---
 
@@ -179,11 +180,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D9_discourse_conversation_language_centered_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D10_longitudinal_qualitative_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D10_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D11_...`
 
 ---
 
