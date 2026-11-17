@@ -137,29 +137,29 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D5_case_study_primary_research_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D6_qualitative_description_interpretive_description_generic_structures.md`
 
-Commit PASS-06D5:
+Commit PASS-06D6:
 
-`955cb912c6898561104a1ddfdf3222c85c533059`
+`b7d08bf7c232374a0f5aacb2a6dd57595c450e7f`
 
-PASS-06D5 established case-study research as a bounded real-world case architecture rather than a synonym for small-N or qualitative research. Case and participant are separate units; single/multiple and holistic/embedded structures are explicit; case studies may use qualitative, quantitative or integrated mixed evidence. Multiple-case designs can use literal/theoretical replication logic; within-case analysis remains distinct from cross-case synthesis; analytic generalization is separated from statistical population generalization. Boundaries with clinical case reports, N-of-1/SCED, case-control, ethnography, process evaluation and implementation science are explicit. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D6 established Sandelowski Qualitative Description as a legitimate low-inference methodology rather than a residual label; low-inference is explicitly separated from interpretation-free analysis. Interpretive Description is preserved as a distinct applied methodology oriented toward practice-relevant conceptual interpretation. Generic qualitative research is accepted only when its epistemic stance, researcher position, analytic lens and methodological congruence are explicit; under-specified methodology is not silently repaired into generic qualitative. Thematic/content analysis remain analysis layers rather than parent designs. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D6 — qualitative description, interpretive description and generic qualitative study structures**
+**RES-02 / PASS-06D7 — narrative inquiry and narrative-study structures**
 
 Scope следующего micro-pass:
 
-1. Sandelowski qualitative description and low-inference descriptive purpose;
-2. interpretive description as a distinct applied methodology;
-3. generic/descriptive qualitative labels;
-4. thematic/content analysis as analysis rather than parent design;
-5. sampling and data-adequacy alignment;
-6. descriptive vs interpretive claim limits;
-7. boundary with phenomenology;
-8. boundary with grounded theory;
-9. boundary with case study;
+1. narrative inquiry scientific target: story, temporality, identity and meaning;
+2. narrative vs interview distinction;
+3. individual vs collective/cultural narratives;
+4. major narrative-analysis traditions at taxonomy level;
+5. chronology/emplotment/turning-point logic;
+6. longitudinal narrative structures;
+7. researcher co-construction/reflexivity;
+8. narrative sampling/data sources;
+9. what narrative evidence can and cannot establish;
 10. fitness/exercise applications;
 11. unresolved gaps → next qualitative micro-pass.
 
@@ -178,11 +178,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D5_case_study_primary_research_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D6_qualitative_description_interpretive_description_generic_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D6_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D7_...`
 
 ---
 
