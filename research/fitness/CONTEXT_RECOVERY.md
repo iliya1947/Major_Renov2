@@ -111,31 +111,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - Новая granular revalidation prognosis/prediction начата.
 - Завершены:
   - `PASS-06B1` — prognosis core taxonomy and longitudinal structure;
-  - `PASS-06B2` — longitudinal cohort structures for prognosis.
+  - `PASS-06B2` — longitudinal cohort structures for prognosis;
+  - `PASS-06B3` — routine-care data sources for prognosis.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B2_longitudinal_cohort_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B3_routine_care_data_sources.md`
 
-Commit PASS-06B2:
+Commit PASS-06B3:
 
-`18a5456018e66b6959f6ec567c9637ee5d61d403`
+`3b187249ced9392a7830363be42931ba305670b2`
 
 ### Следующая задача
 
-**RES-02 / PASS-06B3 — routine-care data sources for prognosis**
+**RES-02 / PASS-06B4 — outcome-dependent sampling in prognosis**
 
 Scope следующего micro-pass:
 
-1. EHR data;
-2. disease/administrative registries;
-3. routine-care datasets as data sources rather than complete design labels;
-4. source-population definition;
-5. startpoint emulation/reconstruction;
-6. predictor/outcome measurement heterogeneity;
-7. missingness and unavailable variables;
-8. data linkage / longitudinal patient journey;
-9. unresolved gaps → следующий micro-pass.
+1. nested case-control;
+2. case-cohort;
+3. nested class-balanced sampling;
+4. sampling fractions;
+5. recovery of source outcome distribution;
+6. when absolute risk can/cannot be estimated;
+7. non-nested case-control / class-balanced limits;
+8. unresolved gaps → следующий micro-pass.
 
 ---
 
@@ -152,11 +152,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B2_longitudinal_cohort_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B3_routine_care_data_sources.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B3_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B4_...`
 
 ---
 
