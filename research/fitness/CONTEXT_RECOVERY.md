@@ -137,34 +137,37 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D32_self_study_of_practice_SSTEP_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D33_duoethnography_study_structures.md`
 
-Commit PASS-06D32:
+Commit PASS-06D33:
 
-`1d376638747210bbdf1d9c13313de21112bcc3a5`
+`b0593734031d9daf18745f2e1747f986c3b27efe`
 
-PASS-06D32 closed the first D31 blocker at taxonomy level. Self-Study of Practice / S-STEP is confirmed as a distinct practitioner-centred qualitative methodology family: practitioner self-in-practice is the scientific object; the inquiry is self-initiated/self-focused and improvement/professional-learning oriented; meaningful interaction/collaborative criticality, systematic transparent inquiry, multiple primarily qualitative sources, concrete exemplars and a public professional-knowledge contribution form the core architecture. LaBoskey's five characteristics and Samaras' Five Foci were retained as complementary quality architectures. Critical friendship is a dominant mechanism but the taxonomy requires meaningful critical interaction rather than the literal label in every study. S-STEP is distinct from reflective practice, autoethnography, action research, heuristic inquiry and self-experiment/N-of-1, while hybrids are allowed and must preserve parent/method layers. Direct PETE, coaching, physical-literacy and adapted-physical-activity relevance is verified; rehabilitation-professions education relevance is verified, while a strong current direct clinical-rehabilitation S-STEP corpus was not verified. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D33 closed the second D31 blocker at taxonomy level. Duoethnography is confirmed as a distinct collaborative/dialogic qualitative methodology family: researchers are simultaneously researcher-participants/sites of inquiry; situated life histories are deliberately juxtaposed; polyvocal dialogue and difference are constitutive analytic resources; interrogation/disruption of prior meanings and reconceptualization/praxis form the core scientific logic; universal truths are not the target. Dialogue can generate and analyze meaning simultaneously, while multiple data forms and formal coding/thematic-analysis layers may be nested. Trust, safe dialogical space, power asymmetry, ongoing consent/confidentiality and implicated third parties are methodology-level concerns. The boundary with collaborative autoethnography is genuinely overlapping, so project routing uses architecture rather than headcount alone. Direct 2025 physical-activity/fitness-tracker evidence verifies use with running, cycling, swimming, strength training and chronic-health/self-tracking questions. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D33 — Duoethnography**
+**RES-02 / PASS-06D34 — Collective Memory Work**
 
 Scope следующего micro-pass:
 
-1. Norris/Sawyer lineage;
-2. researchers as sites of inquiry;
-3. juxtaposition rather than merged consensus;
-4. dialogic/polyvocal architecture;
-5. difference as analytic resource;
-6. reconceptualization/change;
-7. data/dialogue/representation architecture;
-8. ethics, trust and safe dialogic space;
-9. boundary with collaborative autoethnography;
-10. boundary with narrative inquiry;
-11. boundary with dialogic inquiry/focus groups;
-12. direct physical-activity / fitness-tracker exemplar;
-13. claim limits;
-14. unresolved gaps → next blocker pass.
+1. Haug/feminist lineage;
+2. collective researcher-participant architecture;
+3. written-memory generation;
+4. scene-specific / memory-writing rules;
+5. collective textual scrutiny;
+6. recursive group analysis;
+7. socialization, power and subjectification;
+8. researcher–researched boundary;
+9. process variants;
+10. digital/online CMW;
+11. boundary with narrative inquiry;
+12. boundary with focus groups;
+13. boundary with oral history / memory studies;
+14. boundary with participatory research;
+15. sport / physical-activity application;
+16. claim limits;
+17. unresolved gaps → next blocker pass.
 
 ---
 
@@ -181,11 +184,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D31_repeat_final_qualitative_branch_gap_audit_after_D25_D30.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D33_duoethnography_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D32_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D34_...`
 
 ---
 
