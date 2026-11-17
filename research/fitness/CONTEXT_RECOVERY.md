@@ -137,31 +137,32 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D14_qualitative_branch_comprehensive_gap_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D15_phenomenography_study_structures.md`
 
-Commit PASS-06D14:
+Commit PASS-06D15:
 
-`9923aadf0acc9aa64dfd8ac8f13de90835878d78`
+`acffe713aaced9858e9c5024d988c190334ee8a1`
 
-PASS-06D14 performed the required comprehensive qualitative-branch gap audit after D1–D13. Structural synthesis is **NOT AUTHORIZED**. Nine methodology-level blockers remain: phenomenography; standalone hermeneutic inquiry; autoethnography; institutional ethnography; Situational Analysis; Dimensional Analysis; Critical Incident Technique; Photovoice/participatory visual methodology; and ethnomethodology beyond Conversation Analysis. Framework analysis, rapid qualitative approaches, digital/sensory/critical ethnographic variants, broad arts-based methods, secondary qualitative analysis, AI-assisted analysis and reporting standards were classified as non-blocking analysis/subtype/cross-cutting/tooling/provenance layers. Realist evaluation, Design-Based Research and Human-Centered Design were handed off to later overall RES-02 audit because they are cross-method evaluation/development architectures. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D15 established phenomenography as a distinct qualitative methodology rather than a phenomenology variant. Its canonical target is qualitative variation in ways of experiencing/understanding one phenomenon from a second-order perspective. Conceptions are relational; referential and structural aspects are separated; categories of description are collective analytic products rather than fixed participant types; categories and their logical relationships form a parsimonious outcome space. Hierarchical inclusion is common but not automatically imposed. Sampling should expose relevant variation, and phenomenographic categories do not estimate population prevalence or causal effects. The phenomenography blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D15 — phenomenography study structures**
+**RES-02 / PASS-06D16 — standalone hermeneutic inquiry structures**
 
 Scope следующего micro-pass:
 
-1. phenomenography scientific target;
-2. first-order vs second-order perspective;
-3. variation in ways of experiencing/understanding;
-4. categories of description;
-5. outcome space;
-6. sampling for variation;
-7. data-generation and analysis architecture;
-8. phenomenography vs phenomenology;
-9. claim limits;
-10. fitness/exercise applications;
-11. unresolved gaps → next blocker pass.
+1. philosophical/Gadamerian hermeneutic inquiry beyond hermeneutic phenomenology;
+2. pre-understanding/prejudice;
+3. hermeneutic circle;
+4. dialogue/text as interpretive object;
+5. fusion of horizons;
+6. sampling/data generation;
+7. iterative interpretive analysis;
+8. reflexivity/trustworthiness specific to hermeneutic inquiry;
+9. boundary with hermeneutic phenomenology, narrative and discourse approaches;
+10. claim limits;
+11. health/fitness applications;
+12. unresolved gaps → next blocker pass.
 
 ---
 
@@ -178,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D14_qualitative_branch_comprehensive_gap_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D15_phenomenography_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D15_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D16_...`
 
 ---
 
