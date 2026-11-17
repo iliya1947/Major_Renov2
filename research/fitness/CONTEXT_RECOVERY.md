@@ -137,35 +137,33 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D27_cooperative_inquiry_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D28_appreciative_inquiry_study_structures.md`
 
-Commit PASS-06D27:
+Commit PASS-06D28:
 
-`37c57a5131c63b126109d534d98b2382d88da17d`
+`11b9b24e50fd3501569aa8a105b64aaa91ac1003`
 
-PASS-06D27 established Heron/Reason Co-operative Inquiry as a distinct participatory action-oriented qualitative methodology rather than a generic focus group or PAR label. All inquiry members ideally function as both co-researchers and co-subjects. CI's extended epistemology distinguishes experiential, presentational, propositional and practical knowing, with practical knowing a legitimate primary outcome. The method uses repeated four-phase action–reflection cycles, and divergence as well as convergence can strengthen inquiry. Authentic collaboration, facilitation/power, critical subjectivity, research cycling, management of unaware projection and consensus collusion are methodology-specific quality concerns. CI is separated from generic action research, PAR/CBPR, co-design, co-production, PPI, CQR and heuristic inquiry. Direct current rehabilitation relevance is established through a 2026 national rehabilitation-hospital study, wheelchair/community-mobility work and rehabilitation protocols; a strong current full-CI sport/exercise-performance exemplar was not verified. The Co-operative Inquiry blocker from PASS-06D24 is closed at taxonomy level. Three D24 blockers remain. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D28 established Appreciative Inquiry as a distinct Cooperrider/Srivastva-derived generative inquiry-and-change methodology. Its historical roots are action research/organizational development and social-constructionist/sociorationalist thinking; modern positive psychology is an adjacent later influence rather than its origin. The classic cycle is Discovery→Dream→Design→Destiny, with Define a later common fifth D. The original five named principles are constructionist, simultaneity, poetic, anticipatory and positive; inquiry itself can function as change. Strengths-based framing does not require suppression of problems, and positivity/shadow, dissent and power asymmetry are explicit quality risks. Applied literature commonly uses partial/modified cycles, so studies require a fidelity profile rather than binary classification. AI can coexist with thematic analysis, mixed methods or quasi-experimental evaluation and is not intrinsically qualitative-only. Direct sport/physical-activity evidence includes physical-literacy collaboration and British Sailing Team research involving coaches, S&C, physiologists, physiotherapists and elite athletes. The Appreciative Inquiry blocker from PASS-06D24 is closed at taxonomy level. Two D24 blockers remain. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D28 — Appreciative Inquiry study structures**
+**RES-02 / PASS-06D29 — Oral History primary-research structures**
 
 Scope следующего micro-pass:
 
-1. Cooperrider/Srivastva lineage;
-2. constructionist/generative strengths-based logic;
-3. affirmative topic choice;
-4. Discovery;
-5. Dream;
-6. Design;
-7. Destiny/Delivery;
-8. 5D variants;
-9. simultaneity/poetic/anticipatory/positive principles;
-10. inquiry–change simultaneity;
-11. participation and power;
-12. quality/action claims;
-13. boundary with action research, co-design and positive psychology;
-14. sport/physical-activity applications;
-15. unresolved gaps → next blocker pass.
+1. Oral History Association standards;
+2. narrator/interviewer relationship;
+3. historical purpose and contextualization;
+4. memory as evidence and meaning;
+5. recorded testimony as primary source;
+6. preparation/interview/preservation/access lifecycle;
+7. release/rights/restrictions;
+8. transcript vs recording;
+9. factual verification/corroboration;
+10. archiving and future reuse ethics;
+11. boundary with narrative inquiry, life history and generic qualitative interviewing;
+12. sport/physical-culture applications;
+13. unresolved gaps → next blocker pass.
 
 ---
 
@@ -182,11 +180,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D27_cooperative_inquiry_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D28_appreciative_inquiry_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D28_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D29_...`
 
 ---
 
