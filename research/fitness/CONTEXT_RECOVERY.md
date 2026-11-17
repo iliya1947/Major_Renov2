@@ -137,35 +137,34 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D31_repeat_final_qualitative_branch_gap_audit_after_D25_D30.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D32_self_study_of_practice_SSTEP_structures.md`
 
-Commit PASS-06D31:
+Commit PASS-06D32:
 
-`9cb3ee73587356746b29a56123ab9473597e4d14`
+`1d376638747210bbdf1d9c13313de21112bcc3a5`
 
-PASS-06D31 repeated the qualitative-branch gap audit after D25–D30. All six D24 blockers are confirmed closed, but structural synthesis is **NOT AUTHORIZED** because seven additional methodology-level gaps were found: Self-Study of Practice/S-STEP; Duoethnography; Collective Memory Work; Indigenous/decolonizing research-methodology routing; Participatory Video; A/r/tography; and Post-Qualitative Inquiry. All have direct or near-direct sport/physical-activity relevance. Broad arts-based research remains a heterogeneous non-atomic umbrella; collaborative autoethnography remains a D17 subtype; yarning/Dadirri/Talking Circles must not be homogenized into one universal design; affective inquiry and diffractive analysis are routed under the future PQI pass; Deliberative Dialogue is handed off to later deliberation/knowledge-translation/consensus audit; Q methodology remains a mixed/hybrid handoff. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D32 closed the first D31 blocker at taxonomy level. Self-Study of Practice / S-STEP is confirmed as a distinct practitioner-centred qualitative methodology family: practitioner self-in-practice is the scientific object; the inquiry is self-initiated/self-focused and improvement/professional-learning oriented; meaningful interaction/collaborative criticality, systematic transparent inquiry, multiple primarily qualitative sources, concrete exemplars and a public professional-knowledge contribution form the core architecture. LaBoskey's five characteristics and Samaras' Five Foci were retained as complementary quality architectures. Critical friendship is a dominant mechanism but the taxonomy requires meaningful critical interaction rather than the literal label in every study. S-STEP is distinct from reflective practice, autoethnography, action research, heuristic inquiry and self-experiment/N-of-1, while hybrids are allowed and must preserve parent/method layers. Direct PETE, coaching, physical-literacy and adapted-physical-activity relevance is verified; rehabilitation-professions education relevance is verified, while a strong current direct clinical-rehabilitation S-STEP corpus was not verified. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D32 — Self-Study of Practice / S-STEP**
+**RES-02 / PASS-06D33 — Duoethnography**
 
 Scope следующего micro-pass:
 
-1. self-study / S-STEP lineage;
-2. practitioner self-in-practice as scientific object;
-3. self-initiated inquiry;
-4. improvement/professional-learning purpose;
-5. public knowledge contribution;
-6. LaBoskey/Samaras/Ovens-Fletcher quality architecture;
-7. critical friendship;
-8. collaboration and multiple perspectives;
-9. multiple data sources and validation;
-10. boundary with reflective practice;
-11. boundary with autoethnography;
-12. boundary with action research and heuristic inquiry;
-13. sport/PE/coaching/rehabilitation applications;
-14. claim limits;
-15. unresolved gaps → next blocker pass.
+1. Norris/Sawyer lineage;
+2. researchers as sites of inquiry;
+3. juxtaposition rather than merged consensus;
+4. dialogic/polyvocal architecture;
+5. difference as analytic resource;
+6. reconceptualization/change;
+7. data/dialogue/representation architecture;
+8. ethics, trust and safe dialogic space;
+9. boundary with collaborative autoethnography;
+10. boundary with narrative inquiry;
+11. boundary with dialogic inquiry/focus groups;
+12. direct physical-activity / fitness-tracker exemplar;
+13. claim limits;
+14. unresolved gaps → next blocker pass.
 
 ---
 
