@@ -137,33 +137,32 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D18_institutional_ethnography_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D19_situational_analysis_study_structures.md`
 
-Commit PASS-06D18:
+Commit PASS-06D19:
 
-`13f6b3c6bb65ce6e4ecd970e4b6ef1abf27b4445`
+`605b99ba5a6d37e7d93f17ae98ef040f39d0935d`
 
-PASS-06D18 established institutional ethnography as a distinct qualitative methodology rather than ethnography performed inside an institution. IE begins from a standpoint and problematic in people's everyday actualities, follows broad work/work-knowledge, and traces local activity outward through activated texts and distributed ruling relations into extra-local/translocal coordination. Interviews, observation/shadowing and documents are methods; mapping/explication of how work is socially organized is the key analytic product. Conventional/focused/critical/organizational ethnography, case study and discourse analysis remain separate routes. A direct older-adult group-exercise example demonstrates local class practices being coordinated through certification guidelines, training curricula and age/ability discourses. The institutional-ethnography blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D19 established Clarke-derived Situational Analysis as a distinct GT-derived qualitative methodology. The situation is the fundamental analytic unit and contextual conditions are treated as constitutive elements. Messy/ordered situational maps, relational analysis, social worlds/arenas maps and positional maps have separate analytic roles. Positional maps represent positions rather than persons and explicitly examine positions not taken/silences. Human, nonhuman, material, discursive, institutional and historical elements can coexist in one situational ecology. Coding, memoing and theoretical sampling remain GT inheritances, but SA differs from conventional process-centered GT. It must also be separated from case study, ethnography, institutional ethnography, discourse analysis and generic “situational assessment.” Direct physical-therapy/rehabilitation examples confirm applied relevance. The Situational Analysis blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D19 — Situational Analysis study structures**
+**RES-02 / PASS-06D20 — Dimensional Analysis study structures**
 
 Scope следующего micro-pass:
 
-1. Clarke's postmodern/constructivist grounded-theory extension;
-2. situation as analytic unit;
-3. messy and ordered situational maps;
-4. social worlds/arenas maps;
-5. positional maps;
-6. human and nonhuman actants/elements;
-7. discourse/materiality;
-8. relation to memoing/coding;
-9. boundary with grounded theory;
-10. boundary with case study and actor-network-like mapping;
-11. claim limits;
-12. fitness/rehabilitation applications;
-13. unresolved gaps → next blocker pass.
+1. Schatzman's GT-derived methodology;
+2. dimensionalization;
+3. designation / differentiation / integration;
+4. explanatory matrix;
+5. perspective selection;
+6. context / conditions / processes / consequences;
+7. sampling and analytic iteration;
+8. boundary with Straussian grounded theory;
+9. boundary between full Dimensional Analysis and generic dimensional coding;
+10. claim limits;
+11. fitness/rehabilitation applications;
+12. unresolved gaps → next blocker pass.
 
 ---
 
@@ -180,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D18_institutional_ethnography_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D19_situational_analysis_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D19_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D20_...`
 
 ---
 
