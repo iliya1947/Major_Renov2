@@ -18,8 +18,9 @@
    - **PASS-06B8 — model recalibration, updating and extension structures**;
    - **PASS-06B9 — prediction-model impact and utility study structures**;
    - **PASS-06B10 — prediction-performance estimand architecture**;
-   - **PASS-06B11 — prediction under treatment and management**.
-7. Следующий микро-проход: **RES-02/PASS-06B12 — dynamic and landmark prediction structures: repeated prediction times, time-updated predictors, landmarking, joint-model/dynamic prediction at taxonomy level, changing horizons, and the boundary between dynamic factual prediction and counterfactual treatment strategies**.
+   - **PASS-06B11 — prediction under treatment and management**;
+   - **PASS-06B12 — dynamic and landmark prediction structures**.
+7. Следующий микро-проход: **RES-02/PASS-06B13 — prediction-branch integration audit: diagnostic vs prognostic prediction, static vs dynamic, factual vs counterfactual, treatment-effect boundary, model-development/evaluation/update/impact phases, and detection of taxonomy gaps or contradictions across PASS-06A and PASS-06B1…B12**.
 
 ## Правила Stage 2 после restart
 
