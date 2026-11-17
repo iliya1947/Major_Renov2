@@ -1053,7 +1053,7 @@ For each diagnostic prediction-model study, record:
 
 # Practical rules produced by PASS-06B14
 
-1. Diagnostic prediction estimates the probability that a target condition is present at the prediction moment.
+1. In the binary diagnostic subset covered by this PASS, diagnostic prediction estimates the probability that a target condition is present at the prediction moment. Current Cochrane terminology also includes diagnostic/current-outcome models that estimate a current continuous value; that broader branch is handled separately in PASS-06B22.
 2. Prognostic prediction estimates a future outcome; time is the primary diagnostic-vs-prognostic boundary.
 3. A short reference-standard verification delay does not automatically make a diagnostic study prognostic.
 4. A diagnostic prediction model combines multiple predictors into one individual prediction function.
