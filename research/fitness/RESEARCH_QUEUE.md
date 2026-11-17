@@ -65,7 +65,9 @@
 30. Mechanistic branch остаётся RESEARCHING; выделены отдельные deep branches: human experimental perturbation, causal mediation/pathway, observational biomarker/omics mechanism evidence, nonhuman/translational models.
 31. Завершён **PASS-06C2 — human experimental mechanistic perturbation studies**.
 32. Human perturbation taxonomy закрыта на текущем уровне: BESH/mechanistic-trial boundary, intervention-as-probe, target engagement, randomized/nonrandomized structures, crossover/parallel/within-person/factorial, challenge/dose/blockade/activation/rescue и condition-specific necessity/sufficiency-like claims.
-33. Следующий микро-проход: **RES-02/PASS-06C3 — causal mediation and pathway study structures: mediator definition and temporal ordering, randomized vs observational mediation, total/direct/indirect effects at taxonomy level, mediator-outcome confounding, exposure-induced mediator-outcome confounding, measurement error, multiple/serial mediators, longitudinal mediation, and why simple “adjust for mediator” regression does not automatically identify a causal mechanism**.
+33. Завершён **PASS-06C3 — causal mediation and pathway study structures**.
+34. Causal mediation taxonomy закрыта на текущем уровне: mediator roles, temporal ordering, randomized vs observational mediation, total/direct/indirect estimands, controlled/natural/interventional effects, mediator-outcome confounding, exposure-induced confounding, measurement error, multiple/serial/longitudinal mediation.
+35. Следующий микро-проход: **RES-02/PASS-06C4 — observational mechanistic, biomarker and omics study structures: descriptive pathway evidence, cross-sectional vs longitudinal biomarker evidence, molecular epidemiology, temporality/reverse causation, high-dimensional omics discovery, multiplicity/replication, causal-vs-correlational interpretation, and boundary with Mendelian randomization/other causal designs without duplicating later causal-inference topics**.
 
 ## Правила Stage 2 после restart
 
