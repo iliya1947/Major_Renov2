@@ -130,7 +130,10 @@
 95. Завершён **PASS-06D15 — phenomenography study structures**.
 96. Зафиксирована phenomenography taxonomy: second-order perspective; variation in ways of experiencing/understanding one phenomenon; conceptions as relational; referential vs structural aspects; categories of description as collective analytic products rather than participant types; outcome space with distinct/logically related/parsimonious categories; hierarchy common but not mechanically imposed; sampling for variation; phenomenography ≠ phenomenology/QD/GT/TA; conception-frequency ≠ prevalence.
 97. Blocker phenomenography из PASS-06D14 закрыт на taxonomy-level. Qualitative branch остаётся **RESEARCHING**.
-98. Следующий микро-проход: **RES-02/PASS-06D16 — standalone hermeneutic inquiry structures: Gadamerian/philosophical hermeneutics beyond hermeneutic phenomenology, pre-understanding, hermeneutic circle, dialogue/text, fusion of horizons, sampling/data/analysis architecture, claim limits and health/fitness applications**.
+98. Завершён **PASS-06D16 — standalone hermeneutic inquiry structures**.
+99. Зафиксирована standalone hermeneutic taxonomy: Gadamerian philosophical hermeneutics отделена от hermeneutic phenomenology; Gadamer philosophy ≠ fixed empirical recipe; Fleming et al. five-step approach = later Gadamerian-based adaptation; pre-understanding/prejudice as necessary interpretive starting point; hermeneutic circle as whole–part movement; dialogue/question–answer; fusion of horizons as transformed, provisional understanding rather than consensus/final truth; DORR quality dimensions Depth/Openness/Resonance/Reflexivity; hermeneutic claims ≠ prevalence/causal inference.
+100. Blocker standalone hermeneutic inquiry из PASS-06D14 закрыт на taxonomy-level. Qualitative branch остаётся **RESEARCHING**.
+101. Следующий микро-проход: **RES-02/PASS-06D17 — autoethnography study structures: researcher-as-participant/data source, self–culture analytic link, evocative vs analytic autoethnography, autobiographical/field materials, relational ethics, vulnerability/representation, claim limits and sport/exercise applications**.
 
 ## Правила Stage 2 после restart
 
