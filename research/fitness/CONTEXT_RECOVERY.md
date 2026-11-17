@@ -137,34 +137,32 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C10_final_mechanistic_branch_closure_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C11_mechanistic_branch_structural_synthesis.md`
 
-Commit PASS-06C10:
+Commit PASS-06C11:
 
-`fe8c394e0fc67ea06f3840b781d74f9294f9d1a4`
+`188db35f5ed5443142e8205550094c5af68bba47`
 
-Final mechanistic closure audit не выявил remaining blocking design-family gaps. Mechanistic structural synthesis разрешён, но ещё не выполнен.
+Mechanistic branch SYNTHESIZED FOR RES-02 STRUCTURAL USE. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06C11 — mechanistic-branch structural synthesis**
+**RES-02 / PASS-06D1 — qualitative primary-study structures: scope and taxonomy**
 
 Scope следующего micro-pass:
 
-1. synthesize PASS-06C1…C10 without duplication;
-2. canonical mechanistic-purpose taxonomy;
-3. model-system axis;
-4. underlying experimental/observational design axis;
-5. perturbation logic;
-6. target engagement vs biomarker response;
-7. mediation/pathway layer;
-8. N-of-1/SCED and SMART/MRT/HED crosswalk;
-9. nonhuman/computational translation;
-10. necessity/sufficiency wording;
-11. mechanism vs efficacy/effectiveness/prediction/measurement boundaries;
-12. fitness/exercise examples;
-13. preserve deferred ownership and interference/spillover handoff;
-14. define next RES-02 branch after mechanistic synthesis.
+1. define qualitative scientific purpose vs method;
+2. map major qualitative design families at taxonomy level;
+3. distinguish interviews / focus groups / observation as data-collection methods, not designs;
+4. sampling strategies and information-power/saturation concepts at taxonomy level;
+5. context/reflexivity/researcher-role metadata;
+6. phenomenology / grounded theory / ethnography / qualitative description / case-study boundaries where supported;
+7. qualitative content analysis / thematic analysis as analysis methods vs designs;
+8. boundary with mixed methods;
+9. boundary with content-validity / instrument-development studies;
+10. boundary with implementation/process studies;
+11. fitness/exercise examples;
+12. unresolved gaps → next qualitative micro-pass.
 
 ---
 
@@ -181,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C10_final_mechanistic_branch_closure_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C11_mechanistic_branch_structural_synthesis.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C11_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D1_...`
 
 ---
 
