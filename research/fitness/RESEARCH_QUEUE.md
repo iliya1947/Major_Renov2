@@ -19,8 +19,13 @@
    - **PASS-06B9 — prediction-model impact and utility study structures**;
    - **PASS-06B10 — prediction-performance estimand architecture**;
    - **PASS-06B11 — prediction under treatment and management**;
-   - **PASS-06B12 — dynamic and landmark prediction structures**.
-7. Следующий микро-проход: **RES-02/PASS-06B13 — prediction-branch integration audit: diagnostic vs prognostic prediction, static vs dynamic, factual vs counterfactual, treatment-effect boundary, model-development/evaluation/update/impact phases, and detection of taxonomy gaps or contradictions across PASS-06A and PASS-06B1…B12**.
+   - **PASS-06B12 — dynamic and landmark prediction structures**;
+   - **PASS-06B13 — prediction-branch integration audit**.
+7. Аудит выявил три blocking gaps перед synthesis:
+   - diagnostic prediction models vs DTA;
+   - competing risks / recurrent events / multistate prediction;
+   - continual/online updating and post-deployment lifecycle.
+8. Следующий микро-проход: **RES-02/PASS-06B14 — diagnostic prediction models vs diagnostic test accuracy: current-condition multivariable probability models, development/evaluation lifecycle, reference-standard relation, calibration/discrimination vs threshold accuracy, and overlap/boundary with DTA**.
 
 ## Правила Stage 2 после restart
 
