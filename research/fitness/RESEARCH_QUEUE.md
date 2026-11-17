@@ -174,8 +174,12 @@
 139. Blocker Oral History из PASS-06D24 закрыт на taxonomy-level.
 140. Завершён **PASS-06D30 — Interpretive Interactionism study structures**.
 141. Зафиксирована Interpretive Interactionism taxonomy: Denzin-derived methodology linking consequential biographical/interactional experience to social/institutional/public context; four epiphany types = major, cumulative, minor/illuminative, relived; full interpretive process = framing question → deconstruction → capture → bracketing → construction → contextualization, while some applied papers count only the last five as phases; thick description + thick interpretation; researcher subjectivity/intersubjectivity/representation as methodology-level; full II ≠ epiphany typology alone; II ≠ symbolic interactionism as theory/phenomenology/narrative/GT/generic critical inquiry/case study/autoethnography; critical/post-structural II retained as a variant; epiphany/private-public linkage ≠ prevalence or causal effect.
-142. Все 6 blockers из PASS-06D24 теперь закрыты taxonomy-level passes D25–D30. Qualitative branch остаётся **RESEARCHING** до repeat final gap audit.
-143. Следующий микро-проход: **RES-02/PASS-06D31 — repeat final qualitative-branch gap audit after PASS-06D25…D30: re-audit the entire qualitative taxonomy after the second blocker wave; revisit newly exposed adjacent candidates; distinguish any remaining parent methodologies from subtypes/analysis/tooling layers; determine whether qualitative structural synthesis is finally authorized**.
+142. Все 6 blockers из PASS-06D24 закрыты taxonomy-level passes D25–D30.
+143. Завершён **PASS-06D31 — repeat final qualitative-branch gap audit after PASS-06D25…D30**.
+144. Repeat audit: **QUALITATIVE STRUCTURAL SYNTHESIS NOT AUTHORIZED**. Найдены 7 новых blockers: Self-Study of Practice / S-STEP; Duoethnography; Collective Memory Work; Indigenous/decolonizing research-methodology routing; Participatory Video; A/r/tography; Post-Qualitative Inquiry.
+145. Broad arts-based research остаётся heterogeneous non-atomic umbrella; collaborative autoethnography остаётся D17 subtype; yarning/Dadirri/Talking Circles не универсализируются как один parent design; affective inquiry/diffractive analysis routed under future PQI pass; Deliberative Dialogue handed off to later deliberation/KT/consensus audit; Q methodology remains mixed/hybrid handoff.
+146. Qualitative branch остаётся **RESEARCHING**.
+147. Следующий микро-проход: **RES-02/PASS-06D32 — Self-Study of Practice / Self-Study of Teaching and Teacher Education Practice (S-STEP): practitioner self-in-practice as scientific object; LaBoskey/Samaras/Ovens-Fletcher lineage; self-initiated/improvement/public-knowledge criteria; critical friendship; multiple data sources; collaboration; validation/quality; boundary with reflective practice, autoethnography, action research and heuristic inquiry; sport/PE/coaching/rehabilitation applications**.
 
 ## Правила Stage 2 после restart
 
