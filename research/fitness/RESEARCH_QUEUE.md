@@ -63,7 +63,9 @@
 28. Prediction/prognosis branch теперь **SYNTHESIZED for RES-02 structural use**; новых blocking design-family gaps после PASS-06B23 не было. `RES-02` в целом остаётся RESEARCHING.
 29. Завершён **PASS-06C1 — mechanistic/explanatory study structures: scope and taxonomy**.
 30. Mechanistic branch остаётся RESEARCHING; выделены отдельные deep branches: human experimental perturbation, causal mediation/pathway, observational biomarker/omics mechanism evidence, nonhuman/translational models.
-31. Следующий микро-проход: **RES-02/PASS-06C2 — human experimental mechanistic perturbation studies: BESH vs mechanistic clinical trial, intervention-as-probe logic, target engagement, randomized/nonrandomized human physiology experiments, crossover/within-person/parallel/factorial structures, dose/challenge/blockade/rescue logic, and what each can/cannot establish about necessity/sufficiency/mechanism**.
+31. Завершён **PASS-06C2 — human experimental mechanistic perturbation studies**.
+32. Human perturbation taxonomy закрыта на текущем уровне: BESH/mechanistic-trial boundary, intervention-as-probe, target engagement, randomized/nonrandomized structures, crossover/parallel/within-person/factorial, challenge/dose/blockade/activation/rescue и condition-specific necessity/sufficiency-like claims.
+33. Следующий микро-проход: **RES-02/PASS-06C3 — causal mediation and pathway study structures: mediator definition and temporal ordering, randomized vs observational mediation, total/direct/indirect effects at taxonomy level, mediator-outcome confounding, exposure-induced mediator-outcome confounding, measurement error, multiple/serial mediators, longitudinal mediation, and why simple “adjust for mediator” regression does not automatically identify a causal mechanism**.
 
 ## Правила Stage 2 после restart
 
