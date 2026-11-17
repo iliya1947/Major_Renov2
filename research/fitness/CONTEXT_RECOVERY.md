@@ -109,30 +109,33 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06A` — diagnostic accuracy + measurement-property study structures.
 - Прежний широкий `PASS-06B_prognosis_prediction_designs.md` по явному решению пользователя **SUPERSEDED FOR CURRENT REVALIDATION** и сохраняется только как исторический материал.
 - Новая granular revalidation prognosis/prediction начата.
-- Завершён `PASS-06B1` — prognosis core taxonomy and longitudinal structure.
+- Завершены:
+  - `PASS-06B1` — prognosis core taxonomy and longitudinal structure;
+  - `PASS-06B2` — longitudinal cohort structures for prognosis.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B1_prognosis_core_taxonomy.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B2_longitudinal_cohort_structures.md`
 
-Commit PASS-06B1:
+Commit PASS-06B2:
 
-`d3f490607e1ff15f7f25c3b01e394849d51af23c`
+`18a5456018e66b6959f6ec567c9637ee5d61d403`
 
 ### Следующая задача
 
-**RES-02 / PASS-06B2 — longitudinal cohort structures for prognosis**
+**RES-02 / PASS-06B3 — routine-care data sources for prognosis**
 
 Scope следующего micro-pass:
 
-1. prospective cohort;
-2. retrospective/historical cohort;
-3. reconstructable startpoint;
-4. predictor timing relative to startpoint;
-5. follow-up and prediction horizon;
-6. reuse of randomized-trial participant data for prognosis;
-7. граница randomized intervention effect vs prognostic analysis;
-8. unresolved gaps → следующий micro-pass.
+1. EHR data;
+2. disease/administrative registries;
+3. routine-care datasets as data sources rather than complete design labels;
+4. source-population definition;
+5. startpoint emulation/reconstruction;
+6. predictor/outcome measurement heterogeneity;
+7. missingness and unavailable variables;
+8. data linkage / longitudinal patient journey;
+9. unresolved gaps → следующий micro-pass.
 
 ---
 
@@ -149,11 +152,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B1_prognosis_core_taxonomy.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B2_longitudinal_cohort_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B2_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B3_...`
 
 ---
 
