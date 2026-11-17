@@ -25,7 +25,11 @@
    - diagnostic prediction models vs DTA;
    - competing risks / recurrent events / multistate prediction;
    - continual/online updating and post-deployment lifecycle.
-8. Следующий микро-проход: **RES-02/PASS-06B14 — diagnostic prediction models vs diagnostic test accuracy: current-condition multivariable probability models, development/evaluation lifecycle, reference-standard relation, calibration/discrimination vs threshold accuracy, and overlap/boundary with DTA**.
+8. Завершён **PASS-06B14 — diagnostic prediction models vs diagnostic test accuracy**.
+9. Остаются два blocking gaps перед финальным audit/synthesis:
+   - competing risks / recurrent events / multistate prediction;
+   - continual/online updating and post-deployment lifecycle.
+10. Следующий микро-проход: **RES-02/PASS-06B15 — complex event outcome prediction: competing risks, recurrent events and multistate structures; what each predicts, how target estimands differ from ordinary first-event survival, and implications for development/validation at taxonomy level**.
 
 ## Правила Stage 2 после restart
 
