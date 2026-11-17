@@ -137,27 +137,35 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D30_interpretive_interactionism_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D31_repeat_final_qualitative_branch_gap_audit_after_D25_D30.md`
 
-Commit PASS-06D30:
+Commit PASS-06D31:
 
-`49b54a4c47430dc83fbb1f7413bc3bc61b9890ca`
+`9cb3ee73587356746b29a56123ab9473597e4d14`
 
-PASS-06D30 established Denzin-derived Interpretive Interactionism as a distinct qualitative methodology linking consequential biographical/interactional experiences to social, institutional and public contexts. The four canonical epiphany types are major, cumulative, minor/illuminative and relived. The full interpretive sequence is stored as framing the question → deconstruction → capture → bracketing → construction → contextualization; applied five-phase accounts usually count framing separately. II uses thick description and thick interpretation and treats researcher subjectivity, intersubjectivity and representation as methodology-level concerns. Epiphany typology alone is not full II. II is separated from symbolic interactionism as theory, phenomenology, narrative inquiry, grounded theory, generic critical inquiry, case study and autoethnography; critical/post-structural II remains a variant/orientation. Direct sport relevance is established through rugby spinal-cord-injury/identity research, while a strong 2024–2026 full-II sport or health exemplar was not verified. All six blockers from PASS-06D24 are now closed at taxonomy level. Qualitative branch remains RESEARCHING pending another repeat final gap audit. RES-02 overall remains RESEARCHING.
+PASS-06D31 repeated the qualitative-branch gap audit after D25–D30. All six D24 blockers are confirmed closed, but structural synthesis is **NOT AUTHORIZED** because seven additional methodology-level gaps were found: Self-Study of Practice/S-STEP; Duoethnography; Collective Memory Work; Indigenous/decolonizing research-methodology routing; Participatory Video; A/r/tography; and Post-Qualitative Inquiry. All have direct or near-direct sport/physical-activity relevance. Broad arts-based research remains a heterogeneous non-atomic umbrella; collaborative autoethnography remains a D17 subtype; yarning/Dadirri/Talking Circles must not be homogenized into one universal design; affective inquiry and diffractive analysis are routed under the future PQI pass; Deliberative Dialogue is handed off to later deliberation/knowledge-translation/consensus audit; Q methodology remains a mixed/hybrid handoff. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D31 — repeat final qualitative-branch gap audit after PASS-06D25…D30**
+**RES-02 / PASS-06D32 — Self-Study of Practice / S-STEP**
 
 Scope следующего micro-pass:
 
-1. re-audit all qualitative methodology/design families covered in D1–D30;
-2. verify closure of all D24 blockers;
-3. revisit candidate/watch-list methods exposed by D25–D30;
-4. distinguish any remaining parent methodologies from subtypes, analysis methods, data-generation modes and tooling layers;
-5. re-check direct fitness/exercise relevance;
-6. determine whether qualitative structural synthesis is finally authorized;
-7. if not, define exact next blocker pass(es).
+1. self-study / S-STEP lineage;
+2. practitioner self-in-practice as scientific object;
+3. self-initiated inquiry;
+4. improvement/professional-learning purpose;
+5. public knowledge contribution;
+6. LaBoskey/Samaras/Ovens-Fletcher quality architecture;
+7. critical friendship;
+8. collaboration and multiple perspectives;
+9. multiple data sources and validation;
+10. boundary with reflective practice;
+11. boundary with autoethnography;
+12. boundary with action research and heuristic inquiry;
+13. sport/PE/coaching/rehabilitation applications;
+14. claim limits;
+15. unresolved gaps → next blocker pass.
 
 ---
 
@@ -174,11 +182,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D30_interpretive_interactionism_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D31_repeat_final_qualitative_branch_gap_audit_after_D25_D30.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D31_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D32_...`
 
 ---
 
