@@ -227,8 +227,10 @@
 192. Exploratory-sequential taxonomy: QUAL analysis → result-driven BUILD of QUAN content → QUAN testing/prioritization/pilot → final integration. Three functional routes added: INSTRUMENT_MEASUREMENT_DEVELOPMENT, CONSTRUCT_DETERMINANT_TRANSLATION, INTERVENTION_PROGRAM_TOOL_DEVELOPMENT. Theme/code→construct/item/variable/component traceability required; content validity separated from psychometric structural validity; EFA/CFA do not constitute mixed integration. Different phase samples are acceptable with justified transition. Current MS tele-exercise, adolescent PA determinants, older-adult LTPA scale, stroke measurement and telerehab exemplars verified. Author-label/enacted-route discrepancy flag added.
 193. Завершён **PASS-06E5 — Embedded/intervention mixed-methods structures**.
 194. Embedded/nested resolved as a structural relationship rather than a fourth equal core integration design. True embedded mixed methods requires intentional QUAL–QUAN integration; embedded QUAL alone remains non-mixed. Embedded relation can coexist with convergent, explanatory, exploratory or multistage integration. Process evaluation retained as purpose architecture; fidelity/adaptation/dose/reach/context/contamination/reactivity and process-outcome integration explicitly routed. Hybrid effectiveness-implementation Type I/II/III added as a separate axis with current PCORI 2026 HEI standards. Current IPRehab-LBP, CANFit, HERO, FEMuR III, STRENGTH and PRO-HIIT exemplars verified.
-195. Mixed-methods branch = **RESEARCHING**.
-196. Следующий микро-проход: **RES-02/PASS-06E6 — Multistage/advanced mixed-methods frameworks**.
+195. Завершён **PASS-06E6 — Multistage/advanced mixed-methods frameworks**.
+196. Basic designs restricted to CONVERGENT / EXPLANATORY_SEQUENTIAL / EXPLORATORY_SEQUENTIAL. MULTISTAGE/MULTIPHASE, CASE_STUDY_FRAMEWORK, INTERVENTION_FRAMEWORK and PARTICIPATORY_FRAMEWORK are advanced parent structures; EMBEDDED/NESTED remains structural relation. Program/study/phase IDs, cross-phase bridge provenance and separate phase/program meta-inference added. Transformative/critical, implementation, HEI and systems science retained as overlays. Q Methodology routed as standalone methodology-level family; Realist Evaluation as standalone method-neutral evaluation family. Current sport/exercise/rehab examples verified.
+197. Mixed-methods branch = **RESEARCHING**.
+198. Следующий микро-проход: **RES-02/PASS-06E7 — mixed-methods sampling, integration, meta-inference and quality synthesis**.
 
 ## Правила Stage 2 после restart
 
