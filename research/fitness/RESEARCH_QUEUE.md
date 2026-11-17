@@ -92,7 +92,10 @@
 57. Завершён **PASS-06D3 — grounded theory study structures**.
 58. Зафиксирована GT taxonomy: theory/process-generation purpose; constant comparison; memoing; theoretical sampling; theoretical saturation; distinction of Glaserian, Straussian and constructivist/Charmaz variants; open–axial–selective coding recognized as Straussian rather than universal; full-GT design separated from GT-informed analysis.
 59. Qualitative branch остаётся **RESEARCHING**.
-60. Следующий микро-проход: **RES-02/PASS-06D4 — ethnography and focused-ethnography study structures: cultural/practice target, field immersion, participant observation, emic/etic interpretation, focused ethnography boundary, sampling/data sources, claim limits and fitness/exercise applications**.
+60. Завершён **PASS-06D4 — ethnography and focused-ethnography study structures**.
+61. Зафиксирована ethnography taxonomy: culture/shared-practice target; observation as method rather than design; participant observation historically central but not universally mandatory; focused ethnography not reducible to short duration; emic/etic as complementary analytic positions; site/event/time/actor sampling; thick description/context/reflexivity; strict boundary from prevalence/causal-effect claims.
+62. Qualitative branch остаётся **RESEARCHING**.
+63. Следующий микро-проход: **RES-02/PASS-06D5 — case-study primary research structures: bounded-case logic, single/multiple/embedded case designs, qualitative vs quantitative vs mixed case study, case selection, within-case/cross-case analysis, analytic generalization, boundary with case report/ethnography/process evaluation, and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
