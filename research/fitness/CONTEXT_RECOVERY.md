@@ -137,30 +137,30 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D1_qualitative_primary_study_structures_scope_taxonomy.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D2_phenomenology_lived_experience_structures.md`
 
-Commit PASS-06D1:
+Commit PASS-06D2:
 
-`ff72eace8773cfc72e3fece232d5d02676980352`
+`0a2be30fb473685bf113633ba9ebfc2f62797b90`
 
-PASS-06D1 established the qualitative primary-study taxonomy: qualitative purpose is separated from approach/methodology, sampling, collection, analysis, reflexivity/context and data-adequacy logic; interviews/focus groups/observation are collection methods rather than atomic designs; mixed methods, content-validity/instrument-development and process-evaluation boundaries are explicit. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D2 established phenomenology as a lived-experience methodology family with explicit separation of descriptive and interpretive/hermeneutic routes. IPA is preserved as a distinct idiographic interpretive methodology with case-by-case analysis and double-hermeneutic logic. Direct lived-experience eligibility, data-source roles, adequacy logic, longitudinal phenomenology and claim limits are explicit. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D2 — phenomenology and lived-experience study structures**
+**RES-02 / PASS-06D3 — grounded theory study structures**
 
 Scope следующего micro-pass:
 
-1. phenomenology as scientific/methodological family;
-2. descriptive vs interpretive/hermeneutic phenomenology;
-3. Interpretative Phenomenological Analysis (IPA) boundary;
-4. sampling and lived-experience eligibility logic;
-5. interview/diary/observation and other data-source roles;
-6. analysis alignment with the claimed phenomenological approach;
-7. reflexivity and researcher interpretation;
-8. data adequacy / sample-size claims;
-9. what phenomenological evidence can and cannot establish;
-10. fitness/exercise examples;
+1. grounded theory scientific target: process/theory generation;
+2. Glaserian / Straussian / constructivist variants;
+3. constant-comparative logic;
+4. theoretical sampling vs generic purposive sampling;
+5. coding/category development architecture;
+6. theoretical saturation / sufficiency / conceptual depth;
+7. memoing and iterative collection-analysis relationship;
+8. what counts as a grounded theory vs thematic model;
+9. what grounded-theory evidence can and cannot establish;
+10. fitness/exercise applications;
 11. unresolved gaps → next qualitative micro-pass.
 
 ---
@@ -178,11 +178,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C11_mechanistic_branch_structural_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D2_phenomenology_lived_experience_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D1_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D3_...`
 
 ---
 
