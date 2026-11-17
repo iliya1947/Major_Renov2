@@ -137,35 +137,36 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D24_repeat_final_qualitative_branch_gap_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D25_consensual_qualitative_research_structures.md`
 
-Commit PASS-06D24:
+Commit PASS-06D25:
 
-`fcac1c6136c8c76d0876b2a5b61613bab567d03e`
+`963eb39d4aeb01cbadf563653bbef4ab4d406fca`
 
-PASS-06D24 repeated the qualitative-branch gap audit after D15–D23. All nine D14 blockers are confirmed closed, but structural synthesis is **NOT AUTHORIZED** because six new methodology-level blockers were found: Consensual Qualitative Research (CQR); Moustakas heuristic inquiry; Co-operative Inquiry; Appreciative Inquiry; Oral History; and Interpretive Interactionism. Five already have direct exercise/physiotherapy/sport relevance; Interpretive Interactionism has established health-methodology relevance but no strong current sport/exercise exemplar was confirmed. Linguistic ethnography, MCA, multimodal interaction analysis, interactional sociolinguistics, rhetorical/visual discourse analysis, critical ethnography, life history/BNIM, multi-centre qualitative architecture and previously identified workflow/analysis/tooling layers remain non-blocking. Q methodology and structured consensus methods are handed off to later overall RES-02 mixed/hybrid/consensus audit. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D25 established Consensual Qualitative Research (CQR) as a distinct Hill-derived qualitative methodology rather than generic team coding. CQR is predominantly constructivist with explicit postpositivist elements and uses open-ended comparable case data, domains, core ideas, cross-analysis, multiple analysts reaching genuine consensus, and an auditor. Consensus/auditing are methodology-specific core features here rather than universal qualitative quality rituals. General/typical/variant/rare labels describe representation across analyzed cases and do not estimate population prevalence. CQR-M adapts the method to larger samples of brief/simple qualitative data; CQR-C adapts it to intensive case/process research and should preserve the parent case-study layer. Direct 2026 exercise-science and Paralympic examples plus sport-injury/athletic-training literature confirm fitness relevance. The CQR blocker from PASS-06D24 is closed at taxonomy level. Five D24 blockers remain. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D25 — Consensual Qualitative Research (CQR)**
+**RES-02 / PASS-06D26 — Moustakas heuristic inquiry study structures**
 
 Scope следующего micro-pass:
 
-1. CQR philosophical architecture;
-2. sample/case logic;
-3. research-team consensus;
-4. biases/expectations;
-5. domains;
-6. core ideas;
-7. cross-analysis;
-8. auditor role;
-9. general/typical/variant frequency labels;
-10. CQR-M / CQR-C variants;
-11. member-checking boundary;
-12. quality criteria;
-13. frequency vs prevalence;
-14. exercise/sport applications;
-15. unresolved gaps → next blocker pass.
+1. Moustakas lineage and philosophical positioning;
+2. researcher personal experience as an essential inquiry condition;
+3. tacit knowing;
+4. intuition;
+5. indwelling;
+6. initial engagement;
+7. immersion;
+8. incubation;
+9. illumination;
+10. explication;
+11. creative synthesis;
+12. participant/co-researcher sampling and data generation;
+13. individual and composite depictions;
+14. boundary with phenomenology, autoethnography and narrative inquiry;
+15. quality/claim limits and physiotherapy/exercise applications;
+16. unresolved gaps → next blocker pass.
 
 ---
 
@@ -182,11 +183,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D24_repeat_final_qualitative_branch_gap_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D25_consensual_qualitative_research_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D25_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D26_...`
 
 ---
 
