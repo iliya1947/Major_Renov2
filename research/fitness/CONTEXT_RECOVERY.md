@@ -137,35 +137,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D44_repeat_final_qualitative_gap_audit_after_D43.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D45_qualitative_branch_structural_synthesis.md`
 
-Commit PASS-06D44:
+Commit PASS-06D45:
 
-`dc7f9feaa59d7eb11c789366c15db95639818570`
+`4ec5cecfe208331ad46500c11715bf6e48096f59`
 
-PASS-06D44 completed a fresh repeat qualitative gap audit after D43. No new methodology-level blocker was found in the scoped 2025–2026 sport/exercise/health scan. The current SAGE Handbook of Qualitative Research in Sport and Physical Culture (2025), current/latest QRSEH 2026 methods, and adjacent current health/rehabilitation methodology were stress-tested against the D1–D43 taxonomy. Ideal-Type Analysis remains an analysis method; CLEA is an AI-enabled longitudinal/ecological qualitative data-generation method; Tree of Life is a therapeutic/narrative intervention methodology rather than the research design evaluating it; psychocartographic work remains a spatial/mapping + theoretical framework watchlist item; participatory systems mapping/theory construction remains an overall RES-02 systems-science handoff. Rhythmanalysis closed the last unreconstructable qualitative gap. A stopping rule is now explicit: new blockers require stable lineage, distinct scientific object, distinctive architecture, non-reconstructability, RES-02 relevance, and more than one-off naming. Qualitative branch is now **RESEARCH COMPLETE AT GRANULAR TAXONOMY STAGE** and **QUALITATIVE STRUCTURAL SYNTHESIS IS AUTHORIZED**. RES-02 overall remains RESEARCHING.
+PASS-06D45 structurally synthesized the complete D1–D44 qualitative branch. The key correction is that the D44 “38 family/routing items” are not treated as 38 equal atomic designs. The canonical qualitative router is now layered: parent empirical context → scientific purpose → parent methodology → cross-cutting paradigm/governance → structural modifiers → sampling/adequacy → data-generation methods → analysis → representation → quality/reflexivity/ethics. Parent methodologies, cross-cutting Indigenous/PQI routes, longitudinal/nested architectures, methods, analyses and representational forms are explicitly separated. Hybrid routing rules preserve combinations such as longitudinal IPA + photo elicitation; CBPR + Photovoice; Narrative Inquiry + CNF portraiture; Ethnography + Rhythmanalysis; A/r/tography + posthuman orientation; Indigenous methodology + separate empirical design. The branch integrates claim limits, sampling/adequacy, quality/ethics, visual/video distinctions, self-as-researcher distinctions and a canonical 42-field minimum extraction record. No synthesis-level contradiction remains after explicit layer separation. Qualitative branch status is now **SYNTHESIZED FOR RES-02 STRUCTURAL USE** with no currently known blocking qualitative taxonomy gaps. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D45 — qualitative branch structural synthesis**
+**RES-02 / PASS-06E1 — mixed-methods primary-study structures: scope and taxonomy**
 
 Scope следующего micro-pass:
 
-1. consolidate D1–D44 qualitative findings;
-2. build parent-family hierarchy;
-3. separate methodology vs orientation vs temporal architecture vs method vs analysis vs representation;
-4. integrate hybrid routing rules;
-5. integrate claim-limit matrix;
-6. integrate sport/exercise/health applicability;
-7. integrate ethics/quality cross-cutting fields;
-8. preserve Indigenous community-specific routing;
-9. preserve strict-PQI vs hybrid routes;
-10. preserve VRE/PV/visual distinctions;
-11. preserve Portraiture/a/r/tography/arts distinctions;
-12. preserve longitudinal vs Rhythmanalysis distinction;
-13. create compact canonical qualitative taxonomy for later RES-02 synthesis;
-14. identify any synthesis-level contradictions;
-15. STOP after saved synthesis.
+1. define mixed methods by intentional qualitative–quantitative integration rather than coexistence;
+2. distinguish convergent, explanatory-sequential, exploratory-sequential and embedded architectures;
+3. timing / priority / dependence of components;
+4. integration at design, sampling, data collection, analysis and interpretation;
+5. joint displays and other integration techniques;
+6. mixed methods vs multi-method;
+7. preserve parent quantitative and qualitative designs separately;
+8. claim limits;
+9. direct sport/exercise/rehabilitation applications;
+10. identify minimum mixed-methods subfamilies requiring deeper passes;
+11. STOP after saved PASS.
 
 ---
 
@@ -182,11 +178,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D44_repeat_final_qualitative_gap_audit_after_D43.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D45_qualitative_branch_structural_synthesis.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D45_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E1_...`
 
 ---
 
