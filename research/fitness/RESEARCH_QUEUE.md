@@ -83,7 +83,10 @@
 48. Final audit не выявил remaining blocking mechanistic design-family gaps; **mechanistic structural synthesis разрешён**, но ещё не выполнен. Отдельно отмечен interference/spillover randomized-design crosswalk как кандидат для later RES-02 overall randomized/causal audit, не blocker C-branch.
 49. Завершён **PASS-06C11 — mechanistic-branch structural synthesis**.
 50. Mechanistic branch теперь **SYNTHESIZED FOR RES-02 STRUCTURAL USE**; remaining blocking mechanistic design-family gaps отсутствуют. `RES-02` в целом остаётся RESEARCHING. Interference/spillover randomized designs сохранены как handoff для later overall RES-02 randomized/causal audit.
-51. Следующий микро-проход: **RES-02/PASS-06D1 — qualitative primary-study structures: scope and taxonomy; distinguish qualitative scientific purpose from data-collection method alone; map major qualitative design families, interviews/focus groups/observation as methods rather than designs, sampling/information-power/saturation concepts at taxonomy level, reflexivity/context, and boundaries with mixed methods, content-validity research and implementation/process studies**.
+51. Завершён **PASS-06D1 — qualitative primary-study structures: scope and taxonomy**.
+52. Зафиксирована canonical qualitative architecture: scientific purpose + methodology/approach + sampling + data collection + analysis + context/reflexivity + adequacy/stopping logic + parent-study/integration layer. Interviews/focus groups/observation классифицируются как collection methods, а не atomic designs; saturation признан methodology-dependent; mixed methods требует intentional qual–quant integration; content-validity и process-evaluation purpose отделены от qualitative design.
+53. Qualitative branch остаётся **RESEARCHING**; synthesis пока не разрешён.
+54. Следующий микро-проход: **RES-02/PASS-06D2 — phenomenology and lived-experience study structures: descriptive vs interpretive/hermeneutic phenomenology, IPA boundary, sampling/data sources, analysis alignment, claim limits and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
