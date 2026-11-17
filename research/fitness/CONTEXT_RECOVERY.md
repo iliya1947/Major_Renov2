@@ -137,36 +137,37 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E2_convergent_mixed_methods_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E3_explanatory_sequential_mixed_methods_structures.md`
 
-Commit PASS-06E2:
+Commit PASS-06E3:
 
-`26842d659fce3696ad6473e2325708248eaf0b50`
+`fece6357feed331fa83d6955c3d6a309793bed46`
 
-PASS-06E2 established the deep convergent mixed-methods taxonomy. Canonical architecture: QUAL and QUAN planned in the same/overlapping study phase → strand-specific analysis → explicit commensurable integration target → merging/comparison/transformation → fit assessment → meta-inference. Approximate concurrency is sufficient; exact simultaneity is not required. Same participants and equal sample sizes are not required, but sample/unit relationship determines valid integration granularity: person-level, subgroup-level, domain/program-level or whole-study. Different stakeholder samples can support program-level convergence/complementarity but not individual concordance. Merging, narrative weaving, joint displays, case-by-case analysis and data transformation are distinguished. Fit is normalized as confirmation/convergence, complementarity, expansion or discordance while preserving author terminology. Discordance must be diagnosed rather than suppressed. Current 2026 HIMT RCT, heart-failure exercise adherence, long-COVID rehabilitation implementation and SCI exercise-app studies verify direct exercise/rehab relevance. Mixed-methods branch remains RESEARCHING.
+PASS-06E3 established the deep explanatory-sequential mixed-methods taxonomy. Canonical architecture: QUAN collection/analysis → identify results requiring explanation → connect and/or build the QUAL phase → QUAL collection/analysis → merge → explanatory meta-inference. Chronology alone is insufficient: the QUAL phase must materially depend on completed QUAN findings. Two useful variants are retained: follow-up explanations and case selection. Connecting and building are separated; participant-selection and interview-question joint displays can make between-phase integration explicit. Sampling routes include typical, maximum-variation, extreme/high-low, deviant/discrepant and model-concordant/model-discordant cases. Same-pool QUAN→QUAL linkage supports person-level explanation; different stakeholder samples can support domain/program-level explanation, but claim granularity cannot exceed linkage granularity. Current stroke rehab, hemorrhagic-stroke adherence, inpatient rehabilitation RMBD, physiotherapy education, VR physical education and talent-development studies verify direct field relevance. QUAL evidence can contextualize mechanism/mediation hypotheses but does not itself establish causal mediation. Mixed-methods branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06E3 — Explanatory sequential mixed-methods structures**
+**RES-02 / PASS-06E4 — Exploratory sequential mixed-methods structures**
 
 Scope следующего micro-pass:
 
-1. QUAN→QUAL dependency;
-2. connecting;
-3. outcome/extreme/deviant-case sampling;
-4. maximum-variation sampling from quantitative results;
-5. interview-guide building;
-6. explaining null/heterogeneous/unexpected effects;
-7. individual record linkage;
-8. timing;
-9. priority;
-10. explanatory joint displays;
-11. integrated meta-inference;
-12. boundary with post-hoc qualitative follow-up / merely sequential multimethod;
-13. trial/process-evaluation applications;
-14. causal-language limits;
-15. direct sport/exercise/rehabilitation examples;
-16. STOP after saved PASS.
+1. QUAL→QUAN dependency;
+2. building from qualitative categories/themes;
+3. item/scale development;
+4. variable construction;
+5. determinant mapping;
+6. instrument development/validation;
+7. intervention/component development;
+8. digital-tool development;
+9. translation of qualitative constructs into quantitative variables;
+10. content-validity bridge;
+11. pilot testing;
+12. sample transition;
+13. exploratory-to-confirmatory boundary;
+14. joint displays;
+15. claim limits;
+16. direct sport/exercise/rehabilitation applications;
+17. STOP after saved PASS.
 
 ---
 
@@ -183,11 +184,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E2_convergent_mixed_methods_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E3_explanatory_sequential_mixed_methods_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E3_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E4_...`
 
 ---
 
