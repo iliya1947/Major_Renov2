@@ -244,7 +244,11 @@
 209. Q Methodology routed as a standalone parent methodology: concourse → Q-set/Q-sample → P-set → condition of instruction → Q-sort → intercorrelation → by-person factor/component extraction → retention/rotation → defining Q-sorts → factor arrays → distinguishing/consensus statements → interpretive viewpoint construction. Post-sort qualitative material is an interpretive support layer, not a reason to flatten Q into generic mixed methods.
 210. Hard pseudo-standards rejected: no universal Q-set/P-set size, mandatory forced grid, universally superior extraction method, single factor-retention rule or mandatory rotation strategy. Choices must be explicit, justified and reported. Factor size ≠ prevalence; factor array ≠ participant; repeated/pre-post Q ≠ causal intervention design without an appropriate parent design. Longitudinal Q remains a family of analysis architectures rather than one standardized design.
 211. Q Methodology = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
-212. Следующий микро-проход: **RES-02/PASS-06F3 — Realist Evaluation standalone evaluation structures**.
+212. Завершён **PASS-06F3 — Realist Evaluation standalone evaluation structures**.
+213. Realist Evaluation routed as a standalone theory-driven evaluation methodology: realist explanatory question → Initial Programme Theory → theory-driven sampling/data collection → CMOCs → deductive/inductive/abductive/retroductive analysis → negative/cross-case testing → refined programme theory. Method-neutrality retained; qualitative, quantitative and mixed evidence preserve their parent design identities.
+214. Realist mechanism kept distinct from intervention component, statistical mediator and biological mechanism. Resource + reasoning/response retained as a useful operational decomposition but not universalized. FULL_REALIST_EVALUATION separated from REALIST_INFORMED work; realist review/synthesis remains an evidence-synthesis route; process evaluation is a purpose architecture that may use realist methodology. RAMESES II reporting and quality standards retained as reporting/quality layers.
+215. Realist Evaluation = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
+216. Следующий микро-проход: **RES-02/PASS-06F4 — Design-Based Research (DBR) study structures**.
 
 ## Правила Stage 2 после restart
 
