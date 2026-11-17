@@ -137,32 +137,32 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D17_autoethnography_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D18_institutional_ethnography_study_structures.md`
 
-Commit PASS-06D17:
+Commit PASS-06D18:
 
-`7a2719b5800375ab1465900950caf9aff75b174e`
+`13f6b3c6bb65ce6e4ecd970e4b6ef1abf27b4445`
 
-PASS-06D17 established autoethnography as a distinct qualitative methodology family in which researcher experience is substantive empirical material used to understand culture/social life. The self–culture analytic link is constitutive; autobiography/memoir, ordinary reflexivity and insider ethnography are separate. Evocative AE and Anderson-style analytic AE have different goals, with the latter requiring complete membership, analytic reflexivity, visible self, dialogue beyond self and theoretical analysis. Collaborative and other named variants are preserved as subtype metadata. Memory is treated as reconstructive; contemporaneous records can strengthen chronology. Relational ethics, implicated others, internal confidentiality and ongoing consent are structural concerns. Reader resonance/theoretical contribution are separated from population prevalence and causal inference. The autoethnography blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D18 established institutional ethnography as a distinct qualitative methodology rather than ethnography performed inside an institution. IE begins from a standpoint and problematic in people's everyday actualities, follows broad work/work-knowledge, and traces local activity outward through activated texts and distributed ruling relations into extra-local/translocal coordination. Interviews, observation/shadowing and documents are methods; mapping/explication of how work is socially organized is the key analytic product. Conventional/focused/critical/organizational ethnography, case study and discourse analysis remain separate routes. A direct older-adult group-exercise example demonstrates local class practices being coordinated through certification guidelines, training curricula and age/ability discourses. The institutional-ethnography blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D18 — institutional ethnography study structures**
+**RES-02 / PASS-06D19 — Situational Analysis study structures**
 
 Scope следующего micro-pass:
 
-1. standpoint / starting point;
-2. problematic;
-3. work/work knowledge;
-4. institutional/ruling relations;
-5. text-mediated coordination;
-6. local-to-translocal mapping;
-7. sampling/data-generation architecture;
-8. interview/observation/document roles;
-9. boundary with conventional ethnography;
-10. boundary with critical ethnography and case study;
+1. Clarke's postmodern/constructivist grounded-theory extension;
+2. situation as analytic unit;
+3. messy and ordered situational maps;
+4. social worlds/arenas maps;
+5. positional maps;
+6. human and nonhuman actants/elements;
+7. discourse/materiality;
+8. relation to memoing/coding;
+9. boundary with grounded theory;
+10. boundary with case study and actor-network-like mapping;
 11. claim limits;
-12. fitness/exercise applications;
+12. fitness/rehabilitation applications;
 13. unresolved gaps → next blocker pass.
 
 ---
@@ -180,11 +180,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D17_autoethnography_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D18_institutional_ethnography_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D18_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D19_...`
 
 ---
 
