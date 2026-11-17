@@ -223,8 +223,10 @@
 188. Convergent taxonomy: approximately concurrent QUAL || QUAN → strand-specific analysis → explicit integration target → merging/comparison/transformation → fit assessment → meta-inference. Same participants/equal N/equal priority are not required. Sample/unit relationship now determines integration granularity (person/subgroup/domain/whole-study). Narrative weaving, joint displays, case-by-case analysis and data transformation distinguished; fit normalized as confirmation, complementarity, expansion or discordance; discordance requires diagnosis. Current HIMT, HF exercise adherence, long-COVID rehabilitation and SCI exercise-app exemplars verified.
 189. Завершён **PASS-06E3 — Explanatory sequential mixed-methods structures**.
 190. Explanatory-sequential taxonomy: QUAN analysis → result-driven connecting/building → QUAL follow-up → final merging/meta-inference. Chronology alone is insufficient; dependency is required. Follow-up-explanations and case-selection variants separated. Typical/maximum-variation/extreme/deviant/model-profile sampling routes added; same-pool linkage enables person-level explanation, while different stakeholder pools support domain/program explanation only. Qualitative explanation does not prove causal mediation/mechanism. Current stroke rehab, inpatient rehab, physiotherapy education, PE and sport talent-development examples verified.
-191. Mixed-methods branch = **RESEARCHING**.
-192. Следующий микро-проход: **RES-02/PASS-06E4 — Exploratory sequential mixed-methods structures**.
+191. Завершён **PASS-06E4 — Exploratory sequential mixed-methods structures**.
+192. Exploratory-sequential taxonomy: QUAL analysis → result-driven BUILD of QUAN content → QUAN testing/prioritization/pilot → final integration. Three functional routes added: INSTRUMENT_MEASUREMENT_DEVELOPMENT, CONSTRUCT_DETERMINANT_TRANSLATION, INTERVENTION_PROGRAM_TOOL_DEVELOPMENT. Theme/code→construct/item/variable/component traceability required; content validity separated from psychometric structural validity; EFA/CFA do not constitute mixed integration. Different phase samples are acceptable with justified transition. Current MS tele-exercise, adolescent PA determinants, older-adult LTPA scale, stroke measurement and telerehab exemplars verified. Author-label/enacted-route discrepancy flag added.
+193. Mixed-methods branch = **RESEARCHING**.
+194. Следующий микро-проход: **RES-02/PASS-06E5 — Embedded/intervention mixed-methods structures**.
 
 ## Правила Stage 2 после restart
 
