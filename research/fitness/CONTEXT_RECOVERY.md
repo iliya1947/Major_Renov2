@@ -137,27 +137,35 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D23_ethnomethodology_beyond_conversation_analysis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D24_repeat_final_qualitative_branch_gap_audit.md`
 
-Commit PASS-06D23:
+Commit PASS-06D24:
 
-`4e746b8a12fcfc9513d58fc6740e1b3426a527c6`
+`fcac1c6136c8c76d0876b2a5b61613bab567d03e`
 
-PASS-06D23 established Garfinkel-derived ethnomethodology as a distinct qualitative methodology broader than Conversation Analysis. Its canonical target is members' practical methods for producing recognizable social order. Accountability, indexicality, ethnomethodological reflexivity and the documentary method are explicit; breaching experiments are optional demonstrations rather than defining or randomized experiments. Ethnomethodological indifference and the unique-adequacy requirement distinguish appraisal, while workplace/instructed-action studies extend beyond talk to embodied, material and technological practices. EM is separated from conventional ethnography, phenomenology, discourse analysis and institutional ethnography. Direct health and sport examples include acute nursing work, interprofessional meetings, football coaching and powerlifting. All nine blockers identified in PASS-06D14 have now received dedicated taxonomy-level passes D15–D23. Qualitative branch remains RESEARCHING pending a repeat final gap audit. RES-02 overall remains RESEARCHING.
+PASS-06D24 repeated the qualitative-branch gap audit after D15–D23. All nine D14 blockers are confirmed closed, but structural synthesis is **NOT AUTHORIZED** because six new methodology-level blockers were found: Consensual Qualitative Research (CQR); Moustakas heuristic inquiry; Co-operative Inquiry; Appreciative Inquiry; Oral History; and Interpretive Interactionism. Five already have direct exercise/physiotherapy/sport relevance; Interpretive Interactionism has established health-methodology relevance but no strong current sport/exercise exemplar was confirmed. Linguistic ethnography, MCA, multimodal interaction analysis, interactional sociolinguistics, rhetorical/visual discourse analysis, critical ethnography, life history/BNIM, multi-centre qualitative architecture and previously identified workflow/analysis/tooling layers remain non-blocking. Q methodology and structured consensus methods are handed off to later overall RES-02 mixed/hybrid/consensus audit. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D24 — repeat final qualitative-branch gap audit after PASS-06D15…D23**
+**RES-02 / PASS-06D25 — Consensual Qualitative Research (CQR)**
 
 Scope следующего micro-pass:
 
-1. re-audit all qualitative methodology/design families covered in D1–D23;
-2. verify closure of all nine D14 blockers;
-3. revisit D9/D14 adjacent-candidate watch-lists;
-4. distinguish any newly exposed parent methodology blockers from analysis methods/subtypes/cross-cutting layers;
-5. re-check fitness/exercise relevance;
-6. determine whether qualitative structural synthesis is authorized;
-7. if not authorized, define exact new blocking pass(es).
+1. CQR philosophical architecture;
+2. sample/case logic;
+3. research-team consensus;
+4. biases/expectations;
+5. domains;
+6. core ideas;
+7. cross-analysis;
+8. auditor role;
+9. general/typical/variant frequency labels;
+10. CQR-M / CQR-C variants;
+11. member-checking boundary;
+12. quality criteria;
+13. frequency vs prevalence;
+14. exercise/sport applications;
+15. unresolved gaps → next blocker pass.
 
 ---
 
@@ -174,11 +182,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D23_ethnomethodology_beyond_conversation_analysis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D24_repeat_final_qualitative_branch_gap_audit.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D24_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D25_...`
 
 ---
 
