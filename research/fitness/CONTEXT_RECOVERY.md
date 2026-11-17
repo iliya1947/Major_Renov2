@@ -137,34 +137,34 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D26_moustakas_heuristic_inquiry_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D27_cooperative_inquiry_study_structures.md`
 
-Commit PASS-06D26:
+Commit PASS-06D27:
 
-`48ab3f5eadcb0369c60cc183fda47578f7aa45cc`
+`37c57a5131c63b126109d534d98b2382d88da17d`
 
-PASS-06D26 established Moustakas-derived heuristic inquiry as a distinct phenomenologically oriented methodology. Canonical heuristic inquiry requires the primary researcher to have direct lived experience of the phenomenon; the researcher's autobiographical experience is an analytic/data resource rather than only positionality. Seven heuristic processes are distinguished from six canonical phases: initial engagement, immersion, incubation, illumination, explication and creative synthesis; validation is stored separately while preserving author-specific seven-phase adaptations. Co-researchers should also have direct experience, but the label does not imply PAR/CBPR governance. Individual depictions, composite depictions, exemplary portraits and creative synthesis form recognizable representation layers. Heuristic inquiry is separated from descriptive/hermeneutic phenomenology, IPA, autoethnography, narrative inquiry, arts-based inquiry, generic reflexive qualitative work and self-study hybrids. Current physiotherapy research provides strong direct application; sport/coaching examples are established. The heuristic-inquiry blocker from PASS-06D24 is closed at taxonomy level. Four D24 blockers remain. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D27 established Heron/Reason Co-operative Inquiry as a distinct participatory action-oriented qualitative methodology rather than a generic focus group or PAR label. All inquiry members ideally function as both co-researchers and co-subjects. CI's extended epistemology distinguishes experiential, presentational, propositional and practical knowing, with practical knowing a legitimate primary outcome. The method uses repeated four-phase action–reflection cycles, and divergence as well as convergence can strengthen inquiry. Authentic collaboration, facilitation/power, critical subjectivity, research cycling, management of unaware projection and consensus collusion are methodology-specific quality concerns. CI is separated from generic action research, PAR/CBPR, co-design, co-production, PPI, CQR and heuristic inquiry. Direct current rehabilitation relevance is established through a 2026 national rehabilitation-hospital study, wheelchair/community-mobility work and rehabilitation protocols; a strong current full-CI sport/exercise-performance exemplar was not verified. The Co-operative Inquiry blocker from PASS-06D24 is closed at taxonomy level. Three D24 blockers remain. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D27 — Co-operative Inquiry study structures**
+**RES-02 / PASS-06D28 — Appreciative Inquiry study structures**
 
 Scope следующего micro-pass:
 
-1. Heron/Reason participatory inquiry paradigm;
-2. participants as co-researchers/co-subjects;
-3. experiential knowing;
-4. presentational knowing;
-5. propositional knowing;
-6. practical knowing;
-7. action–reflection inquiry cycles;
-8. authentic collaboration / divergence;
-9. facilitation and power;
-10. validity procedures;
-11. boundary with PAR/CBPR/action research;
-12. boundary with focus groups/consultation;
-13. claim limits;
-14. rehabilitation/exercise applications;
+1. Cooperrider/Srivastva lineage;
+2. constructionist/generative strengths-based logic;
+3. affirmative topic choice;
+4. Discovery;
+5. Dream;
+6. Design;
+7. Destiny/Delivery;
+8. 5D variants;
+9. simultaneity/poetic/anticipatory/positive principles;
+10. inquiry–change simultaneity;
+11. participation and power;
+12. quality/action claims;
+13. boundary with action research, co-design and positive psychology;
+14. sport/physical-activity applications;
 15. unresolved gaps → next blocker pass.
 
 ---
@@ -182,11 +182,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D26_moustakas_heuristic_inquiry_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D27_cooperative_inquiry_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D27_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D28_...`
 
 ---
 
