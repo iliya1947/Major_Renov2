@@ -137,42 +137,41 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F2_Q_Methodology_standalone_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F3_Realist_Evaluation_standalone_evaluation_structures.md`
 
-Commit PASS-06F2:
+Commit PASS-06F3:
 
-`9d409ef6265015656d37fe303d3231c255736573`
+`6232d795d266544db56321014398dee7a855f917`
 
-PASS-06F2 established Q Methodology as a standalone methodology-level route for RES-02. Canonical architecture = concourse → Q-set/Q-sample → P-set → condition of instruction → Q-sort → intercorrelation of Q-sorts → by-person factor/component extraction → retention/rotation → defining Q-sorts → factor arrays → distinguishing/consensus statements → interpretive viewpoint construction, with post-sort qualitative material as an interpretive support layer. No universal Q-set/P-set size, forced-grid requirement, extraction method, retention rule or rotation strategy is treated as a hard standard; these choices must be explicit, justified and reported. Factor size is not viewpoint prevalence, factor arrays are reconstructed configurations rather than participants, and repeated/pre-post Q does not create causal identification without an appropriate parent design. Q taxonomy = ESTABLISHED FOR RES-02 STRUCTURAL USE; F-branch remains RESEARCHING.
+PASS-06F3 established Realist Evaluation as a standalone theory-driven evaluation methodology. Canonical architecture = realist explanatory question → Initial Programme Theory → theory-driven sampling/data collection → context–mechanism–outcome configurations → deductive/inductive/abductive/retroductive analysis → negative-case and cross-case testing → refined programme theory. Realist mechanism is kept distinct from intervention components, statistical mediators and biological mechanisms; resource + reasoning/response is retained as a useful operational decomposition without being universalized. FULL_REALIST_EVALUATION is separated from REALIST_INFORMED work; realist review/synthesis remains evidence-synthesis methodology; process evaluation is a purpose layer that can use realist methodology. Quantitative/RCT evidence retains its parent inferential identity. RAMESES II reporting and quality standards are retained as reporting/quality layers. Realist Evaluation taxonomy = ESTABLISHED FOR RES-02 STRUCTURAL USE; F-branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06F3 — Realist Evaluation standalone evaluation structures**
+**RES-02 / PASS-06F4 — Design-Based Research (DBR) study structures**
 
 Scope следующего micro-pass:
 
-1. realist ontology / generative causation;
-2. programme theory;
-3. initial programme theory development;
-4. context;
-5. mechanism;
-6. outcome;
-7. CMOC construction;
-8. realist interviewing;
-9. purposive/theoretical sampling;
-10. data source pluralism;
-11. analysis and retroduction;
-12. theory testing/refinement;
-13. negative/disconfirming cases;
-14. embedded quantitative evidence;
-15. Realist Evaluation vs realist review/synthesis;
-16. Realist Evaluation vs process evaluation;
-17. realist mechanism vs statistical mediation;
-18. causal-claim limits;
-19. implementation/rehabilitation/sport relevance;
-20. RAMESES II reporting;
-21. quality/provenance;
-22. STOP after saved PASS.
+1. DBR lineage and scientific purpose;
+2. authentic/naturalistic context;
+3. problem/practice grounding;
+4. theory-informed design;
+5. design intervention / designed artifact;
+6. iterative cycles;
+7. collaboration/stakeholder roles;
+8. analysis–design–implementation–redesign loop;
+9. formative vs summative evaluation;
+10. design principles / design knowledge;
+11. local utility vs theoretical contribution;
+12. DBR vs educational design research;
+13. DBR vs action research;
+14. DBR vs HCD/co-design;
+15. DBR vs DSR;
+16. DBR vs ordinary pilot/iterative intervention development;
+17. embedded qualitative/quantitative/mixed designs;
+18. causal-effect claim limits;
+19. sport/exercise/rehabilitation relevance;
+20. quality/reporting/provenance;
+21. STOP after saved PASS.
 
 ---
 
@@ -189,11 +188,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F2_Q_Methodology_standalone_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F3_Realist_Evaluation_standalone_evaluation_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F3_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F4_...`
 
 ---
 
