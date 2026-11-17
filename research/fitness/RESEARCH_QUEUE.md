@@ -98,7 +98,10 @@
 63. Завершён **PASS-06D5 — case-study primary research structures**.
 64. Зафиксирована case-study taxonomy: bounded-case logic; case ≠ participant; single/multiple and holistic/embedded structures; qualitative/quantitative/mixed evidence; replication logic for multiple-case selection; within-case before/cross-case synthesis; analytic generalization distinct from statistical generalization; strict boundaries with clinical case report, N-of-1/SCED, case-control, ethnography and process evaluation.
 65. Qualitative branch остаётся **RESEARCHING**.
-66. Следующий микро-проход: **RES-02/PASS-06D6 — qualitative description, interpretive description and generic qualitative study structures: low-inference descriptive purpose, Sandelowski qualitative description, interpretive description boundary, generic/descriptive thematic studies, sampling/analysis alignment, claim limits and fitness/exercise applications**.
+66. Завершён **PASS-06D6 — qualitative description, interpretive description and generic qualitative study structures**.
+67. Зафиксирована descriptive/generic taxonomy: Sandelowski QD как legitimate low-inference methodology; low-inference ≠ interpretation-free; Interpretive Description как distinct applied methodology; generic qualitative допускается только при явной methodological congruence; methodology-unclear не чинится автоматически до generic; exploratory = purpose, TA/content analysis = analysis layer, не parent design.
+68. Qualitative branch остаётся **RESEARCHING**.
+69. Следующий микро-проход: **RES-02/PASS-06D7 — narrative inquiry and narrative-study structures: story/temporality/identity target, narrative vs interview distinction, individual vs collective narratives, major analytic traditions, longitudinal narrative logic, claim limits and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
