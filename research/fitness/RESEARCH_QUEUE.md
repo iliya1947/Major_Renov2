@@ -183,9 +183,12 @@
 148. D31 blocker **Self-Study of Practice / S-STEP CLOSED AT TAXONOMY LEVEL**.
 149. Завершён **PASS-06D33 — Duoethnography study structures**.
 150. Зафиксирована Duoethnography taxonomy: Norris/Sawyer lineage; researchers as participant-sites of inquiry; life-as-curriculum; deliberate juxtaposition; polyvocal dialogue; difference as analytic resource; interrogation/disruption of prior meanings; reconceptualization/praxis; contextual rather than universal claims; data-generation and meaning-making can be intertwined; multiple data/analysis layers permitted; trust, power, safe dialogic space and ongoing relational ethics are methodology-level. Boundary with collaborative autoethnography remains genuinely overlapping and is routed by architecture, not author count. Direct 2025 Garmin/chronic-health exemplar verifies running/cycling/swimming/strength-training relevance.
-151. D31 blocker **Duoethnography CLOSED AT TAXONOMY LEVEL**; remaining D31 blockers = 5.
-152. Qualitative branch остаётся **RESEARCHING**.
-153. Следующий микро-проход: **RES-02/PASS-06D34 — Collective Memory Work: Haug/feminist lineage; written memories; collective textual scrutiny; recursive group analysis; socialization/power/subjectification; researcher–researched boundary; digital/online variants; boundaries with narrative inquiry, focus groups, oral history/memory studies and participatory research; sport/physical-activity application; claim limits**.
+151. D31 blocker **Duoethnography CLOSED AT TAXONOMY LEVEL**.
+152. Завершён **PASS-06D34 — Collective Memory Work study structures**.
+153. Зафиксирована CMW taxonomy: Haug/Frauenformen feminist-Marxist lineage; collective work with individual memory-scenes rather than cultural collective memory; participant-researcher group; shared problematic/trigger; short scene-specific memory writing; classic third-person distancing as lineage technique but not absolute modern requirement; collective textual scrutiny; recursive rewriting/reanalysis; contradictions/language/socialisation/power as analytic targets; theory↔experience; praxis/action-potence; online variants; ethics, hierarchy and publication/authorship power; explicit separation from narrative inquiry, focus groups, oral history, memory studies, CAE, PAR and therapy. Direct sport/PA evidence and current PQI-informed CMW verified.
+154. D31 blocker **Collective Memory Work CLOSED AT TAXONOMY LEVEL**; remaining D31 blockers = 4.
+155. Qualitative branch остаётся **RESEARCHING**.
+156. Следующий микро-проход: **RES-02/PASS-06D35 — Indigenous/decolonizing research-methodology routing and sport/physical-activity structures: methodology vs method; community/nation-specific ontology/epistemology/axiology; relational accountability; sovereignty/governance/data stewardship; Kaupapa Māori; Aboriginal/Torres Strait Islander approaches and yarning; Dadirri/Talking Circles boundary; ethics/community agreements; boundaries with PAR/CBPR and generic cultural adaptation; sport/PA exemplars; claim limits**.
 
 ## Правила Stage 2 после restart
 
