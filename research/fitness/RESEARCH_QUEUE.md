@@ -69,7 +69,9 @@
 34. Causal mediation taxonomy закрыта на текущем уровне: mediator roles, temporal ordering, randomized vs observational mediation, total/direct/indirect estimands, controlled/natural/interventional effects, mediator-outcome confounding, exposure-induced confounding, measurement error, multiple/serial/longitudinal mediation.
 35. Завершён **PASS-06C4 — observational mechanistic, biomarker and omics study structures**.
 36. Observational biomarker/omics taxonomy закрыта на текущем уровне: biomarker roles, cross-sectional/longitudinal evidence, reverse causation, prospective biospecimens, high-dimensional discovery, multiplicity/replication, batch/preanalytics, annotation uncertainty, pathway/network inference, triangulation и MR/IV boundary.
-37. Следующий микро-проход: **RES-02/PASS-06C5 — nonhuman and translational mechanistic models: animal, in vitro, ex vivo, organoid/tissue and computational model systems; genetic/pharmacologic perturbation; model validity; species/tissue/dose/timescale translation; human extrapolation; convergent mechanistic evidence; and boundaries between strong internal mechanistic specificity and external validity to human exercise/training**.
+37. Завершён **PASS-06C5 — nonhuman and translational mechanistic models**.
+38. Nonhuman/translational taxonomy закрыта на текущем уровне: animal, primary-cell/cell-line, ex vivo, organoid/MPS, genetic/pharmacologic perturbation, computational V&V, model validity, species/tissue/dose/timescale translation и exercise-specific extrapolation.
+39. Следующий микро-проход: **RES-02/PASS-06C6 — mechanistic-branch integration and gap audit: re-read PASS-06C1…C5 plus relevant PASS-02/03/04/06A/06B boundaries; test for missing mechanism-evidence families, contradictions, overclaimed necessity/sufficiency/mediation/translation, unresolved human experimental structures, surrogate/target-validation gaps, and decide whether mechanistic synthesis is permitted or additional blocking passes are required**.
 
 ## Правила Stage 2 после restart
 
