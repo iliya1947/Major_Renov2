@@ -252,7 +252,11 @@
 217. DBR/EDR routed as a **parent design-research architecture/genre**, not one atomic empirical design. Core = authentic practical problem → theory/evidence-informed design → iterative analysis/exploration, design/construction, evaluation/reflection → evidence-triggered redesign → dual outputs: maturing intervention + theoretical/design knowledge. Conjecture mapping retained as an optional traceability technique.
 218. Terminology conflict resolved without flattening: classical DBR literature often calls DBR a methodology/paradigm, while current McKenney/Reeves EDR explicitly calls it a research genre and not a methodology. Project preserves author terminology and uses **DBR_EDR_PARENT_ARCHITECTURE**. Embedded QUAL/QUAN/MMR/RCT designs retain their own inferential identities. DBR separated from Action Research, HCD/co-design, DSR, ordinary pilot development and fixed-product evaluation.
 219. DBR/EDR = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
-220. Следующий микро-проход: **RES-02/PASS-06F5 — Design Science Research (DSR) study structures**.
+220. Завершён **PASS-06F5 — Design Science Research (DSR) study structures**.
+221. DSR routed as a parent design-science research paradigm/methodological architecture: relevant problem → knowledge grounding → purposeful artifact → build/evaluate search → demonstration → claim-matched evaluation → reusable design knowledge. Classic constructs/models/methods/instantiations retained while allowing broader modern artifact types and design-theory contributions.
+222. Hevner seven guidelines, relevance–rigor–design cycles and Peffers DSRM retained as complementary architectures. Evaluation explicitly treated as multi-episode: FEDS formative/summative + artificial/naturalistic; current MEDS 2026 added for evaluation-program planning; Design Science Validity Framework 2025 adds criterion/causal/context claim-validation routing. DSR kept distinct from ordinary engineering, DBR/EDR, HCD/UCD, generic MMR and causal-effect designs.
+223. DSR = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
+224. Следующий микро-проход: **RES-02/PASS-06F6 — HCD/UCD/co-design/Person-Based Approach boundary and study structures**.
 
 ## Правила Stage 2 после restart
 
