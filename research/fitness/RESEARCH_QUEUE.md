@@ -17,8 +17,9 @@
    - **PASS-06B7 — internal-external and external validation structures**;
    - **PASS-06B8 — model recalibration, updating and extension structures**;
    - **PASS-06B9 — prediction-model impact and utility study structures**;
-   - **PASS-06B10 — prediction-performance estimand architecture**.
-7. Следующий микро-проход: **RES-02/PASS-06B11 — prediction under treatment and management: baseline prognosis under heterogeneous interventions, treatment as predictor/context, treatment paradox, model-guided treatment feedback, and the boundary between ordinary prognostic prediction and counterfactual treatment-effect prediction**.
+   - **PASS-06B10 — prediction-performance estimand architecture**;
+   - **PASS-06B11 — prediction under treatment and management**.
+7. Следующий микро-проход: **RES-02/PASS-06B12 — dynamic and landmark prediction structures: repeated prediction times, time-updated predictors, landmarking, joint-model/dynamic prediction at taxonomy level, changing horizons, and the boundary between dynamic factual prediction and counterfactual treatment strategies**.
 
 ## Правила Stage 2 после restart
 
