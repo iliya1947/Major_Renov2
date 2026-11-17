@@ -137,32 +137,32 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C3_causal_mediation_pathway_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C4_observational_biomarker_omics_structures.md`
 
-Commit PASS-06C3:
+Commit PASS-06C4:
 
-`b05690f205ac9b13edf377ddc33670d9e1e8c8aa`
+`3e212ce9ce508d56ab6018d3e49e1cbed2ce53c3`
 
-Causal mediation/pathway taxonomy established. Mechanistic branch remains RESEARCHING.
+Observational mechanistic / biomarker / omics taxonomy established. Mechanistic branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06C4 — observational mechanistic / biomarker / omics study structures**
+**RES-02 / PASS-06C5 — nonhuman and translational mechanistic models**
 
 Scope следующего micro-pass:
 
-1. descriptive biomarker/pathway evidence;
-2. cross-sectional vs longitudinal biomarker structures;
-3. temporality and reverse causation;
-4. molecular epidemiology as evidence source, not one design;
-5. high-dimensional omics discovery;
-6. multiplicity / overfitting / replication at taxonomy level;
-7. pathway enrichment/network inference boundaries;
-8. biomarker association vs mechanistic confirmation;
-9. triangulation with perturbation evidence;
-10. boundary with Mendelian randomization/IV/causal designs;
-11. fitness/exercise examples;
-12. unresolved gaps → next mechanistic micro-pass.
+1. animal model mechanistic structures;
+2. in vitro / ex vivo / organoid / tissue models;
+3. genetic perturbation / knockout / knockdown / overexpression;
+4. pharmacologic perturbation in nonhuman models;
+5. computational/simulation mechanism models;
+6. model-system validity;
+7. species / tissue / dose / timescale translation;
+8. necessity/sufficiency and rescue in nonhuman systems;
+9. external validity to human exercise/training;
+10. convergent evidence across model systems;
+11. what nonhuman evidence can/cannot establish;
+12. unresolved gaps → mechanistic integration audit.
 
 ---
 
@@ -179,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C3_causal_mediation_pathway_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C4_observational_biomarker_omics_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C4_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C5_...`
 
 ---
 
