@@ -137,36 +137,35 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D25_consensual_qualitative_research_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D26_moustakas_heuristic_inquiry_structures.md`
 
-Commit PASS-06D25:
+Commit PASS-06D26:
 
-`963eb39d4aeb01cbadf563653bbef4ab4d406fca`
+`48ab3f5eadcb0369c60cc183fda47578f7aa45cc`
 
-PASS-06D25 established Consensual Qualitative Research (CQR) as a distinct Hill-derived qualitative methodology rather than generic team coding. CQR is predominantly constructivist with explicit postpositivist elements and uses open-ended comparable case data, domains, core ideas, cross-analysis, multiple analysts reaching genuine consensus, and an auditor. Consensus/auditing are methodology-specific core features here rather than universal qualitative quality rituals. General/typical/variant/rare labels describe representation across analyzed cases and do not estimate population prevalence. CQR-M adapts the method to larger samples of brief/simple qualitative data; CQR-C adapts it to intensive case/process research and should preserve the parent case-study layer. Direct 2026 exercise-science and Paralympic examples plus sport-injury/athletic-training literature confirm fitness relevance. The CQR blocker from PASS-06D24 is closed at taxonomy level. Five D24 blockers remain. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D26 established Moustakas-derived heuristic inquiry as a distinct phenomenologically oriented methodology. Canonical heuristic inquiry requires the primary researcher to have direct lived experience of the phenomenon; the researcher's autobiographical experience is an analytic/data resource rather than only positionality. Seven heuristic processes are distinguished from six canonical phases: initial engagement, immersion, incubation, illumination, explication and creative synthesis; validation is stored separately while preserving author-specific seven-phase adaptations. Co-researchers should also have direct experience, but the label does not imply PAR/CBPR governance. Individual depictions, composite depictions, exemplary portraits and creative synthesis form recognizable representation layers. Heuristic inquiry is separated from descriptive/hermeneutic phenomenology, IPA, autoethnography, narrative inquiry, arts-based inquiry, generic reflexive qualitative work and self-study hybrids. Current physiotherapy research provides strong direct application; sport/coaching examples are established. The heuristic-inquiry blocker from PASS-06D24 is closed at taxonomy level. Four D24 blockers remain. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D26 — Moustakas heuristic inquiry study structures**
+**RES-02 / PASS-06D27 — Co-operative Inquiry study structures**
 
 Scope следующего micro-pass:
 
-1. Moustakas lineage and philosophical positioning;
-2. researcher personal experience as an essential inquiry condition;
-3. tacit knowing;
-4. intuition;
-5. indwelling;
-6. initial engagement;
-7. immersion;
-8. incubation;
-9. illumination;
-10. explication;
-11. creative synthesis;
-12. participant/co-researcher sampling and data generation;
-13. individual and composite depictions;
-14. boundary with phenomenology, autoethnography and narrative inquiry;
-15. quality/claim limits and physiotherapy/exercise applications;
-16. unresolved gaps → next blocker pass.
+1. Heron/Reason participatory inquiry paradigm;
+2. participants as co-researchers/co-subjects;
+3. experiential knowing;
+4. presentational knowing;
+5. propositional knowing;
+6. practical knowing;
+7. action–reflection inquiry cycles;
+8. authentic collaboration / divergence;
+9. facilitation and power;
+10. validity procedures;
+11. boundary with PAR/CBPR/action research;
+12. boundary with focus groups/consultation;
+13. claim limits;
+14. rehabilitation/exercise applications;
+15. unresolved gaps → next blocker pass.
 
 ---
 
@@ -183,11 +182,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D25_consensual_qualitative_research_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D26_moustakas_heuristic_inquiry_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D26_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D27_...`
 
 ---
 
