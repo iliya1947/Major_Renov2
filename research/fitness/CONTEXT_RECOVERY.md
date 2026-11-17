@@ -137,35 +137,35 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E8_final_mixed_methods_branch_gap_audit_after_E1_E7.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E9_mixed_methods_branch_structural_synthesis.md`
 
-Commit PASS-06E8:
+Commit PASS-06E9:
 
-`6c5bf19af6bf5a50718788236d9220b23f85544c`
+`b96e2ba0f9053e243f2051102b5bf44e79396766`
 
-PASS-06E8 completed the final mixed-methods branch gap audit after E1–E7. Fresh 2024–2026 sport/exercise/rehabilitation stress testing found **NO NEW MIXED-METHODS METHODOLOGY-LEVEL BLOCKER**. The branch retains exactly three basic integration designs: CONVERGENT, EXPLANATORY_SEQUENTIAL and EXPLORATORY_SEQUENTIAL. Embedded/nested remains a structural relationship; multistage/multiphase, case-study, intervention and participatory remain advanced parent/framework structures; transformative/critical, Indigenous, implementation, HEI and systems remain overlays. Mixed-method experimental labels remain quantitative causal parent design + MMR integration. Q Methodology remains a standalone methodology-level route despite current 2026 arguments for Q as inherently hybrid mixed methodology; Realist Evaluation remains a standalone method-neutral evaluation route. Delphi/NGT remain consensus architectures. DBR and newly explicit Design Science Research remain neighboring design/development methodology handoffs rather than MMR core designs. HCD, Intervention Mapping and Implementation Mapping remain framework overlays/neighboring routes. Current recursive/full-integration IMMTA/CDP 2.0 literature is retained as an emerging integration/metaparadigm watchlist, not a new basic design. A nonblocking reporting-layer omission was closed by adding rehabilitation-specific **MMR-RHS**. Mixed-methods branch status is now **READY FOR STRUCTURAL SYNTHESIS**.
+PASS-06E9 structurally synthesized the complete E1–E8 mixed-methods branch. Mixed methods is now represented as an integration layer rather than one atomic study design: scientific/empirical parent context → quantitative parent design + qualitative parent methodology → basic mixed-method route → structural/advanced framework → overlays → timing/priority/dependency → sample relationship → integration mechanics → integration granularity/fit/divergence → meta-inference → quality/reporting/provenance. Exactly three basic routes remain: CONVERGENT, EXPLANATORY_SEQUENTIAL and EXPLORATORY_SEQUENTIAL. EMBEDDED/NESTED is structural; MULTISTAGE/MULTIPHASE, CASE_STUDY, INTERVENTION and PARTICIPATORY are advanced frameworks. Transformative/critical, Indigenous, implementation, HEI, systems, HCD/co-design and recursive/full-integration are cross-cutting overlays. Q Methodology, Realist Evaluation, DBR, DSR, Delphi/NGT/consensus and Intervention/Implementation Mapping remain neighboring standalone/framework handoffs. Sampling, connecting/building/merging/embedding, joint displays, transformation, divergence, meta-inference, MMAT/MMIQF/PCORI/JARS/GRAMMS/MMR-RHS and AI provenance are consolidated into a 158-field project extraction router. Known blocking mixed-method design-family gaps = **NONE**. Mixed-methods branch = **SYNTHESIZED FOR RES-02 STRUCTURAL USE**. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06E9 — mixed-methods branch structural synthesis**
+**RES-02 / PASS-06F1 — neighboring cross-method design/evaluation/development families: scope and taxonomy**
 
 Scope следующего micro-pass:
 
-1. consolidate E1–E8 into one canonical layered router;
-2. basic designs;
-3. advanced/structural frameworks;
-4. strand/sample architecture;
-5. integration mechanisms;
-6. integration granularity;
-7. divergence and meta-inference;
-8. quality architecture;
-9. reporting layer including MMR-RHS;
-10. AI provenance;
-11. neighboring-methodology handoffs;
-12. claim limits;
-13. canonical extraction schema;
-14. contradiction closure;
-15. STOP after saved synthesis.
+1. Q Methodology;
+2. Realist Evaluation;
+3. Design-Based Research;
+4. Design Science Research;
+5. Human-Centered / User-Centered Design;
+6. Delphi;
+7. Nominal Group Technique;
+8. structured consensus architectures;
+9. Intervention Mapping;
+10. Implementation Mapping;
+11. systems modelling / system mapping;
+12. Theory Construction Methodology;
+13. distinguish parent methodology vs framework vs method;
+14. identify candidates requiring dedicated deep passes;
+15. STOP after saved PASS.
 
 ---
 
@@ -182,11 +182,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E8_final_mixed_methods_branch_gap_audit_after_E1_E7.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E9_mixed_methods_branch_structural_synthesis.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E9_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F1_...`
 
 ---
 
