@@ -137,43 +137,28 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D42_repeat_final_qualitative_gap_audit_after_D40_D41.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D43_lefebvrean_rhythmanalysis_study_structures.md`
 
-Commit PASS-06D42:
+Commit PASS-06D43:
 
-`f27a19fffbbea8a7557a10946357023f998cce36`
+`94e0e8c72cd5ef77b7c8a4a519b6ab6b40297604`
 
-PASS-06D42 repeated the qualitative branch gap audit after D40–D41. Both D39 blockers remain closed, but a fresh 2025–2026 sport/health/methodology scan found one new independent methodology-level blocker: **Lefebvrean Rhythmanalysis / rhythmanalytical inquiry**. It cannot be reconstructed adequately from longitudinal qualitative, ethnographic, sensory/carnal or phenomenological routes because its primary scientific object is the embodied relational organization of time/place/energy through rhythms. Current direct sport relevance is verified through 2025 coaching rhythmanalysis and 2026 surfing rhythmanalysis; current health relevance is verified through 2025 dementia-care ward rhythmanalysis; a 2026 Organizational Research Methods paper explicitly develops rhythmanalysis as a research method. Rapid Ethnography/RAP, Microethnography, Digital/Netnography, Critical/Sensory ethnography, go-along/running interviews, Listening Guide, EBCD, trauma-informed research, Physical Cultural Studies/critical-disability/feminist/queer orientations, audio-visual inquiry, participatory mapping, critical realism and cultural semiotics were re-tested and remain routable without new parent families. Qualitative branch remains RESEARCHING; structural synthesis remains NOT AUTHORIZED.
+PASS-06D43 closed the D42 blocker at routing/taxonomy level. Lefebvrean Rhythmanalysis is confirmed as a distinct rhythm-centred methodology/analytic routing family rather than one rigid procedural design. Canonical architecture: Lefebvre/Régulier lineage; rhythm as time-place-energy relation; repetition+difference; linear/cyclical interaction; polyrhythmia; eurhythmia/arrhythmia/optional isorhythmia; dressage and dominating/dominated rhythms where relevant; embodied rhythmanalyst; inside/outside engagement; plural empirical methods; contextual/political rhythm claims. Three routes are now used: FULL_RHYTHMANALYTICAL_INQUIRY; RHYTHMANALYSIS_INFORMED_HYBRID; RHYTHMANALYSIS_ANALYTIC_ORIENTATION. Current 2025 coaching, 2026 surfing and 2025 dementia-care studies verify direct sport/health relevance, while 2026 methodology papers verify active methodological maturation. Rhythmanalysis remains distinct from longitudinal qualitative inquiry, ethnography, sensory/carnal ethnography, phenomenology and PQI/posthuman routing. Qualitative branch remains RESEARCHING; structural synthesis remains NOT AUTHORIZED pending another repeat final gap audit.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D43 — Lefebvrean Rhythmanalysis study structures**
+**RES-02 / PASS-06D44 — repeat final qualitative branch gap audit after D43**
 
 Scope следующего micro-pass:
 
-1. Lefebvre/Régulier lineage;
-2. rhythm as relation of time/place/energy;
-3. cyclical vs linear rhythm;
-4. polyrhythmia;
-5. eurhythmia;
-6. arrhythmia;
-7. repetition/difference;
-8. body of the rhythmanalyst;
-9. engagement/detachment and inside/outside;
-10. rhythm sensing/documentation;
-11. embodied fieldwork;
-12. observation/interview/visual/audio possibilities;
-13. vignettes/creative representation;
-14. methodology vs orientation vs analytic-method debate;
-15. boundary with longitudinal qualitative inquiry;
-16. boundary with ethnography;
-17. boundary with sensory/carnal ethnography;
-18. boundary with phenomenology;
-19. boundary with PQI/new materialism;
-20. direct coaching/surfing/health applications;
-21. claim limits;
-22. project routing decision;
-23. handoff to another repeat final qualitative gap audit.
+1. reopen D42–D43;
+2. re-scan current sport/exercise/health qualitative methodology;
+3. specifically test temporal/spatial/embodied candidates now that rhythmanalysis is represented;
+4. re-test all recent non-blockers for new evidence;
+5. inspect cross-cutting taxonomy for contradictions;
+6. test whether qualitative parent/routing families are now representable without information loss;
+7. either identify new blocker(s) or authorize qualitative structural synthesis;
+8. STOP after saved audit.
 
 ---
 
@@ -190,11 +175,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D42_repeat_final_qualitative_gap_audit_after_D40_D41.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D43_lefebvrean_rhythmanalysis_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D43_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D44_...`
 
 ---
 
