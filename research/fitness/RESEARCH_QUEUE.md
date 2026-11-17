@@ -207,8 +207,11 @@
 172. Завершён **PASS-06D41 — Portraiture study structures**.
 173. Зафиксирована Portraiture taxonomy: systematic empirical engagement + goodness/strength without romanticization + context + voice + relationship + emergent themes + aesthetic whole + portraitist positionality + authenticity/resonance. Full Lawrence-Lightfoot Portraiture separated from portrait/CNF representational layers and hybrids; recursive analytic modes include refrains, metaphors, cultural/institutional rituals, triangulation and dissonant patterns. Direct 2026 Finnish sport CNF portraiture and 2017 phenomenological climber portraiture verified.
 174. D39 blocker **Portraiture CLOSED AT TAXONOMY LEVEL**; remaining D39 blockers = 0.
-175. Qualitative branch остаётся **RESEARCHING**; structural synthesis **NOT AUTHORIZED** pending repeat final gap audit.
-176. Следующий микро-проход: **RES-02/PASS-06D42 — repeat final qualitative branch gap audit after D40–D41**.
+175. Завершён **PASS-06D42 — repeat final qualitative branch gap audit after D40–D41**.
+176. Fresh 2025–2026 scan выявил **1 новый blocker — Lefebvrean Rhythmanalysis / rhythmanalytical inquiry**. Scientific object = embodied relational organization of time/place/energy through rhythms; current direct evidence includes 2025 football-coaching rhythmanalysis, 2026 surfing rhythmanalysis, 2025 dementia-care ward rhythmanalysis and 2026 explicit organizational-methodology development. Rapid Ethnography/RAP, Microethnography, Digital/Netnography, Critical/Sensory ethnography, go-along/running interviews, Listening Guide, EBCD, trauma-informed research, Physical Cultural Studies/critical-disability/feminist/queer orientations, audio-visual inquiry, participatory mapping, critical realism and cultural semiotics re-tested as routable/non-blocking layers.
+177. Qualitative branch остаётся **RESEARCHING**; structural synthesis **NOT AUTHORIZED**.
+178. Следующий микро-проход: **RES-02/PASS-06D43 — Lefebvrean Rhythmanalysis study structures**.
+179. После D43: ещё один repeat final qualitative gap audit before any synthesis.
 
 ## Правила Stage 2 после restart
 
