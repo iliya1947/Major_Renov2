@@ -137,31 +137,32 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D8_participatory_action_codesign_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D9_discourse_conversation_language_centered_structures.md`
 
-Commit PASS-06D8:
+Commit PASS-06D9:
 
-`2445fc9c2c059ff1f867caec658d37b281ba3e80`
+`18d805538a696386f5de637bbcfaddabd17150d7`
 
-PASS-06D8 established participatory research as a governance/knowledge-production architecture layered on top of a parent design. Research participant is explicitly separated from research partner; participation/involvement/engagement are distinct. Action research, PAR, CBPR, co-design and co-production now have separate routing rules based on iterative action, community partnership, decision rights, power, ownership and actual influence. Co-designed intervention development is explicitly separated from evidence of intervention efficacy. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D9 established a language-centered qualitative taxonomy. Conversation Analysis is now separated from broader discourse analysis and defined through turn-taking, sequence organization, repair, action formation, participant orientation and fine-grained interactional transcription. Discursive Psychology, Critical Discursive Psychology, Foucauldian Discourse Analysis and Critical Discourse Analysis remain separate routes with different micro/macro inferential targets. Interpretative repertoires, subject positions, ideological dilemmas, discourse/power and naturalistic-vs-elicited data distinctions are explicit. Language-centered claims are separated from private-belief, prevalence and causal-effect claims. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D9 — discourse, conversation and language-centered qualitative structures**
+**RES-02 / PASS-06D10 — longitudinal qualitative study structures across methodologies**
 
 Scope следующего micro-pass:
 
-1. discourse/language as the scientific object rather than a transparent report of experience;
-2. major discourse-analysis families at taxonomy level;
-3. conversation analysis;
-4. naturally occurring interaction vs elicited interview data;
-5. turn-taking, sequence organization and repair;
-6. critical discourse / power-ideology approaches;
-7. discursive psychology boundary;
-8. transcription/data-detail requirements;
-9. what language-centered evidence can and cannot establish;
-10. fitness/exercise applications;
-11. unresolved gaps → next qualitative micro-pass.
+1. prospective vs retrospective qualitative temporality;
+2. repeat-interview structures;
+3. qualitative panel/cohort structures;
+4. serial cross-sectional vs genuinely longitudinal qualitative research;
+5. trajectory, process, transition and change analysis;
+6. within-person/case change vs cross-time group themes;
+7. attrition and changing samples;
+8. event-contingent / diary / repeated-observation structures;
+9. longitudinal qualitative components embedded in trials/cohorts;
+10. what longitudinal qualitative evidence can and cannot establish;
+11. fitness/exercise applications;
+12. unresolved gaps → next qualitative micro-pass.
 
 ---
 
@@ -178,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D8_participatory_action_codesign_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D9_discourse_conversation_language_centered_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D9_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D10_...`
 
 ---
 
