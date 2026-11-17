@@ -137,30 +137,41 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D38_post_qualitative_posthuman_new_materialist_routing.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D39_repeat_final_qualitative_gap_audit_after_D32_D38.md`
 
-Commit PASS-06D38:
+Commit PASS-06D39:
 
-`26d473f51cde9232a9629af35e87496265683783`
+`3009610d1276dcbecfc1a6abd389d961e0e4e777`
 
-PASS-06D38 closed the final D31 blocker at routing/taxonomy level. Post-Qualitative Inquiry / posthuman-new-materialist inquiry is not represented as one atomic qualitative design. The project now uses three routes: STRICT_PQI; PQI_INFORMED_HYBRID; POSTHUMAN_NEW_MATERIALIST_ORIENTATION. Strict St. Pierre PQI explicitly refuses pre-existing humanist social-science methodology and begins from poststructural/posthuman onto-epistemology; broader current sport/health/psychology literature also contains postqualitative-informed hybrids that retain named methodologies. Human/nonhuman/material/discursive relations, concept-first inquiry, data/analysis/representation reconfiguration and response-ability are core routing fields. Diffraction, assemblage thinking, affective inquiry, thinking-with-theory and “un-methods” are stored as analytic/conceptual practices rather than parent designs. Situational Analysis, discourse analysis, a/r/tography and CMW remain distinct and may carry a postqualitative/posthuman orientation. Direct PA evidence is verified through Beggan 2023 intergenerational app/diffractive inquiry and Beggan 2024 behaviour-to-birdsong/refrain work. The current 2025 sport/health/PE volume verifies an active plural field. All seven D31 blockers are now closed, but qualitative structural synthesis remains NOT AUTHORIZED pending a new repeat gap audit. RES-02 overall remains RESEARCHING.
+PASS-06D39 repeated the qualitative branch gap audit after D32–D38. All seven D31 blockers remain closed, but the fresh 2026 sport/health/methodology scan found two new independent methodology-level blockers, so structural synthesis remains NOT AUTHORIZED. New blocker 1: Video-Reflexive Ethnography (VRE), with a distinct iterative architecture of ethnographic familiarisation → in-situ video capture/selection → collaborative reflexive sessions, plus current core principles of collaboration, care, reflexivity and exnovation; direct physiotherapy relevance is verified. New blocker 2: Lawrence-Lightfoot Portraiture, with its own context → voice → relationship → emergent themes → aesthetic whole architecture and current direct sport use, which cannot be fully represented by narrative inquiry + generic arts-based metadata alone. Digital Storytelling, body mapping, Rich Picture Building, mobile/running interviews, carnal sociology, critical realism, cultural semiotics, current EM/CA developments, Wiisokotaatiwin and creative nonfiction were re-tested and remain routable without new universal parent families. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D39 — repeat final qualitative branch gap audit after D32–D38**
+**RES-02 / PASS-06D40 — Video-Reflexive Ethnography study structures**
 
 Scope следующего micro-pass:
 
-1. reopen D31;
-2. reopen D32–D38;
-3. repeat broad external methodology scan;
-4. test whether any independent methodology-level blockers remain;
-5. re-test previous non-blockers and handoffs;
-6. re-test sport/exercise/health direct relevance;
-7. inspect hybrid/cross-cutting routing for contradictions;
-8. verify whether all qualitative parent families/routing layers are representable without information loss;
-9. either identify new blocker(s) or authorize qualitative structural synthesis;
-10. STOP after saved audit.
+1. Iedema/Mesman/Carroll lineage;
+2. three-phase VRE architecture;
+3. ethnographic familiarisation/contextualisation;
+4. in-situ video capture;
+5. clip selection;
+6. collaborative reflexive sessions;
+7. exnovation;
+8. collaboration;
+9. care;
+10. reflexivity;
+11. potentiation/liminalisation;
+12. practice-improvement relationship;
+13. participant/practitioner roles and power;
+14. consent/video ethics/identifiability;
+15. boundary with video ethnography;
+16. boundary with video elicitation / stimulated recall;
+17. boundary with Participatory Video;
+18. boundary with reflective practice;
+19. physiotherapy/rehabilitation/health applications;
+20. claim limits;
+21. unresolved gaps → Portraiture pass.
 
 ---
 
@@ -177,11 +188,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D38_post_qualitative_posthuman_new_materialist_routing.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D39_repeat_final_qualitative_gap_audit_after_D32_D38.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D39_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D40_...`
 
 ---
 
