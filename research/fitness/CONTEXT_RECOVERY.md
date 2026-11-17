@@ -137,27 +137,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D13_nested_qualitative_trial_cohort_process_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D14_qualitative_branch_comprehensive_gap_audit.md`
 
-Commit PASS-06D13:
+Commit PASS-06D14:
 
-`4cedc07716fbaf2d5427e8948bf55a03bda81f1f`
+`9923aadf0acc9aa64dfd8ac8f13de90835878d78`
 
-PASS-06D13 established nested/embedded qualitative work as a separate component layer under a parent trial/cohort/feasibility/development design. Qualitative components do not inherit randomization. Before/during/after trial roles, dynamic feasibility refinement, definitive-trial contamination risk, trial-conduct qualitative research, process evaluation, outcome/arm/site/trajectory sampling and qual–quant integration are now explicit. Perceived/experienced mechanisms are separated from causal mediation. “Embedded in an RCT” does not automatically mean mixed methods; intentional integration is required. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D14 performed the required comprehensive qualitative-branch gap audit after D1–D13. Structural synthesis is **NOT AUTHORIZED**. Nine methodology-level blockers remain: phenomenography; standalone hermeneutic inquiry; autoethnography; institutional ethnography; Situational Analysis; Dimensional Analysis; Critical Incident Technique; Photovoice/participatory visual methodology; and ethnomethodology beyond Conversation Analysis. Framework analysis, rapid qualitative approaches, digital/sensory/critical ethnographic variants, broad arts-based methods, secondary qualitative analysis, AI-assisted analysis and reporting standards were classified as non-blocking analysis/subtype/cross-cutting/tooling/provenance layers. Realist evaluation, Design-Based Research and Human-Centered Design were handed off to later overall RES-02 audit because they are cross-method evaluation/development architectures. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D14 — qualitative-branch comprehensive gap audit after PASS-06D1…D13**
+**RES-02 / PASS-06D15 — phenomenography study structures**
 
 Scope следующего micro-pass:
 
-1. audit all qualitative methodology/design families already covered;
-2. inspect flagged adjacent families;
-3. distinguish blocking missing methodology families from analysis methods, subtypes and cross-cutting metadata;
-4. identify any required additional granular passes;
-5. check unresolved boundaries from D1–D13;
-6. decide whether qualitative structural synthesis is authorized;
-7. if not authorized, define exact blocking next pass(es).
+1. phenomenography scientific target;
+2. first-order vs second-order perspective;
+3. variation in ways of experiencing/understanding;
+4. categories of description;
+5. outcome space;
+6. sampling for variation;
+7. data-generation and analysis architecture;
+8. phenomenography vs phenomenology;
+9. claim limits;
+10. fitness/exercise applications;
+11. unresolved gaps → next blocker pass.
 
 ---
 
@@ -174,11 +178,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D13_nested_qualitative_trial_cohort_process_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D14_qualitative_branch_comprehensive_gap_audit.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D14_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D15_...`
 
 ---
 
