@@ -40,7 +40,11 @@
    - multicategory / ordinal prediction outcomes;
    - multiple-outcome / composite / joint-outcome prediction;
    - outcome-dependent sampling specifically for diagnostic probability models.
-15. Следующий микро-проход: **RES-02/PASS-06B18 — multicategory and ordinal prediction-model structures: nominal vs ordinal targets, coherent category probabilities, multinomial/ordinal model families at taxonomy level, category-specific calibration/discrimination, internal/external validation, updating, and boundaries with binary, multistate and multiple-outcome prediction**.
+15. Завершён **PASS-06B18 — multicategory and ordinal prediction-model structures**.
+16. Остаются два blocking gaps перед repeat final audit:
+   - multiple-outcome / composite / joint-outcome prediction;
+   - outcome-dependent sampling specifically for diagnostic probability models.
+17. Следующий микро-проход: **RES-02/PASS-06B19 — multiple-outcome, composite and joint-risk prediction structures: single vs multiple outcome targets, marginal risks, composite endpoints, joint outcome combinations, outcome dependence, competing-vs-co-occurring outcomes, calibration/performance and decision-utility implications**.
 
 ## Правила Stage 2 после restart
 
