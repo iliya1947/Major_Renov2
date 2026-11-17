@@ -248,7 +248,11 @@
 213. Realist Evaluation routed as a standalone theory-driven evaluation methodology: realist explanatory question → Initial Programme Theory → theory-driven sampling/data collection → CMOCs → deductive/inductive/abductive/retroductive analysis → negative/cross-case testing → refined programme theory. Method-neutrality retained; qualitative, quantitative and mixed evidence preserve their parent design identities.
 214. Realist mechanism kept distinct from intervention component, statistical mediator and biological mechanism. Resource + reasoning/response retained as a useful operational decomposition but not universalized. FULL_REALIST_EVALUATION separated from REALIST_INFORMED work; realist review/synthesis remains an evidence-synthesis route; process evaluation is a purpose architecture that may use realist methodology. RAMESES II reporting and quality standards retained as reporting/quality layers.
 215. Realist Evaluation = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
-216. Следующий микро-проход: **RES-02/PASS-06F4 — Design-Based Research (DBR) study structures**.
+216. Завершён **PASS-06F4 — Design-Based Research (DBR) study structures**.
+217. DBR/EDR routed as a **parent design-research architecture/genre**, not one atomic empirical design. Core = authentic practical problem → theory/evidence-informed design → iterative analysis/exploration, design/construction, evaluation/reflection → evidence-triggered redesign → dual outputs: maturing intervention + theoretical/design knowledge. Conjecture mapping retained as an optional traceability technique.
+218. Terminology conflict resolved without flattening: classical DBR literature often calls DBR a methodology/paradigm, while current McKenney/Reeves EDR explicitly calls it a research genre and not a methodology. Project preserves author terminology and uses **DBR_EDR_PARENT_ARCHITECTURE**. Embedded QUAL/QUAN/MMR/RCT designs retain their own inferential identities. DBR separated from Action Research, HCD/co-design, DSR, ordinary pilot development and fixed-product evaluation.
+219. DBR/EDR = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
+220. Следующий микро-проход: **RES-02/PASS-06F5 — Design Science Research (DSR) study structures**.
 
 ## Правила Stage 2 после restart
 
