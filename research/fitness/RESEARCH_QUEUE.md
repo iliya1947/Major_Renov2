@@ -89,7 +89,10 @@
 54. Завершён **PASS-06D2 — phenomenology and lived-experience study structures**.
 55. Зафиксирована phenomenology taxonomy: descriptive vs interpretive/hermeneutic routes; IPA как отдельная idiographic interpretive methodology; direct lived-experience eligibility; interviews/data sources отделены от design; fixed universal N rejected; saturation не считается универсальным обязательным критерием; phenomenological claims ограничены experiential/meaning inference и не подменяют prevalence/causal-effect evidence.
 56. Qualitative branch остаётся **RESEARCHING**.
-57. Следующий микро-проход: **RES-02/PASS-06D3 — grounded theory study structures: Glaserian/Straussian/constructivist variants, process/theory target, constant comparison, theoretical sampling, saturation/sufficiency, coding architecture, theory claims, and fitness/exercise applications**.
+57. Завершён **PASS-06D3 — grounded theory study structures**.
+58. Зафиксирована GT taxonomy: theory/process-generation purpose; constant comparison; memoing; theoretical sampling; theoretical saturation; distinction of Glaserian, Straussian and constructivist/Charmaz variants; open–axial–selective coding recognized as Straussian rather than universal; full-GT design separated from GT-informed analysis.
+59. Qualitative branch остаётся **RESEARCHING**.
+60. Следующий микро-проход: **RES-02/PASS-06D4 — ethnography and focused-ethnography study structures: cultural/practice target, field immersion, participant observation, emic/etic interpretation, focused ethnography boundary, sampling/data sources, claim limits and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
