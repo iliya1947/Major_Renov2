@@ -137,31 +137,35 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C7_n_of_1_single_case_experimental_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C8_repeat_mechanistic_closure_gap_audit.md`
 
-Commit PASS-06C7:
+Commit PASS-06C8:
 
-`3ab70106f83420664995dee29c99b2f29fa90d68`
+`ad9794ba514b7576894325d53984d771d75b71da`
 
-Blocking N-of-1/SCED taxonomy gap из PASS-06C6 закрыт. Mechanistic synthesis пока не разрешён: нужен repeat closure/gap audit.
+Repeat audit подтвердил closure N-of-1/SCED gap, но выявил новый blocking gap: sequential-randomization experimental designs (SMART / MRT, HED crosswalk). Mechanistic synthesis пока не разрешён.
 
 ### Следующая задача
 
-**RES-02 / PASS-06C8 — repeat mechanistic-branch closure/gap audit after PASS-06C7**
+**RES-02 / PASS-06C9 — sequential-randomization experimental structures for adaptive/digital interventions**
 
 Scope следующего micro-pass:
 
-1. re-read PASS-06C1…C7;
-2. verify N-of-1/SCED crosswalk closure;
-3. recheck randomized/quasi-experimental/observational boundaries;
-4. recheck target engagement vs mediation;
-5. recheck biomarker/omics vs causal mechanism;
-6. recheck nonhuman/computational translation;
-7. recheck surrogate/target-validation ownership;
-8. search for any remaining human mechanistic design family;
-9. search for fitness/exercise-specific omissions;
-10. separate later statistical/RoB topics from true RES-02 blockers;
-11. decide whether mechanistic structural synthesis is finally permitted.
+1. define sequential-randomization family;
+2. SMART structure and adaptive interventions;
+3. MRT structure and JITAIs;
+4. distinguish adaptive intervention from adaptive trial design;
+5. distinguish sequential randomization from response-adaptive randomization;
+6. decision points / tailoring variables / availability;
+7. proximal vs distal outcomes;
+8. time-varying moderation and mechanism relevance;
+9. MRT vs N-of-1 / SCED / ordinary crossover;
+10. SMART vs MRT timescales;
+11. Hybrid Experimental Designs / SMART–MRT / factorial hybrids;
+12. physical-activity / fitness use cases;
+13. mechanism vs mediation boundary;
+14. defer detailed optimization statistics to later methods topics;
+15. unresolved gaps → final mechanistic closure audit.
 
 ---
 
@@ -178,11 +182,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C7_n_of_1_single_case_experimental_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C8_repeat_mechanistic_closure_gap_audit.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C8_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C9_...`
 
 ---
 
