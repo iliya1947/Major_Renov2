@@ -137,32 +137,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D4_ethnography_focused_ethnography_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D5_case_study_primary_research_structures.md`
 
-Commit PASS-06D4:
+Commit PASS-06D5:
 
-`f6acfbcbce1679ebb4af30ef62dbbcdd05b34531`
+`955cb912c6898561104a1ddfdf3222c85c533059`
 
-PASS-06D4 established ethnography as a methodology for shared practices, meanings and social organization in context. Observation remains a method rather than the design itself; participant observation is historically central but not treated as universally mandatory after current ethnographic-interview methodology review. Focused ethnography is not classified by short duration alone; the conventional/focused split is handled as a difference in scope, epistemic expectations and fieldwork organization rather than a rigid time threshold. Emic/etic interpretation, site/event/time sampling, thick description, reflexivity and transferability boundaries are explicit. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D5 established case-study research as a bounded real-world case architecture rather than a synonym for small-N or qualitative research. Case and participant are separate units; single/multiple and holistic/embedded structures are explicit; case studies may use qualitative, quantitative or integrated mixed evidence. Multiple-case designs can use literal/theoretical replication logic; within-case analysis remains distinct from cross-case synthesis; analytic generalization is separated from statistical population generalization. Boundaries with clinical case reports, N-of-1/SCED, case-control, ethnography, process evaluation and implementation science are explicit. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D5 — case-study primary research structures**
+**RES-02 / PASS-06D6 — qualitative description, interpretive description and generic qualitative study structures**
 
 Scope следующего micro-pass:
 
-1. bounded-case logic;
-2. single-case vs multiple-case designs;
-3. embedded vs holistic case structures;
-4. qualitative vs quantitative vs mixed case study;
-5. case/site selection logic;
-6. within-case and cross-case analysis;
-7. analytic/theoretical generalization vs statistical generalization;
-8. boundary with clinical case report;
-9. boundary with ethnography;
-10. boundary with process evaluation / implementation studies;
-11. fitness/exercise applications;
-12. unresolved gaps → next qualitative micro-pass.
+1. Sandelowski qualitative description and low-inference descriptive purpose;
+2. interpretive description as a distinct applied methodology;
+3. generic/descriptive qualitative labels;
+4. thematic/content analysis as analysis rather than parent design;
+5. sampling and data-adequacy alignment;
+6. descriptive vs interpretive claim limits;
+7. boundary with phenomenology;
+8. boundary with grounded theory;
+9. boundary with case study;
+10. fitness/exercise applications;
+11. unresolved gaps → next qualitative micro-pass.
 
 ---
 
@@ -179,11 +178,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D4_ethnography_focused_ethnography_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D5_case_study_primary_research_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D5_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D6_...`
 
 ---
 
