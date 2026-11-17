@@ -123,24 +123,24 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B11` — prediction under treatment and management;
   - `PASS-06B12` — dynamic and landmark prediction structures;
   - `PASS-06B13` — prediction-branch integration audit;
-  - `PASS-06B14` — diagnostic prediction models vs diagnostic test accuracy.
+  - `PASS-06B14` — diagnostic prediction models vs diagnostic test accuracy;
+  - `PASS-06B15` — competing risks / recurrent events / multistate prediction.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B14_diagnostic_prediction_vs_DTA.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B15_complex_event_outcome_prediction.md`
 
-Commit PASS-06B14:
+Commit PASS-06B15:
 
-`129c36f91af916daa075ac1a457e124fa6a999f6`
+`c127cdc22f5c1548750d682961eea8745a5e8eb6`
 
-Остаются два blocking gaps перед final prediction-branch audit/synthesis:
+Остался один blocking gap перед final prediction-branch audit/synthesis:
 
-1. competing risks / recurrent events / multistate prediction;
-2. continual/online updating and post-deployment lifecycle.
+1. continual/online updating and post-deployment lifecycle.
 
 ### Следующая задача
 
-**RES-02 / PASS-06B15 — complex event outcome prediction**
+**RES-02 / PASS-06B16 — post-deployment lifecycle and continual updating**
 
 Scope следующего micro-pass:
 
@@ -170,11 +170,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B14_diagnostic_prediction_vs_DTA.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B15_complex_event_outcome_prediction.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B15_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B16_...`
 
 ---
 
