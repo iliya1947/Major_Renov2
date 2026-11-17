@@ -73,7 +73,9 @@
 38. Nonhuman/translational taxonomy закрыта на текущем уровне: animal, primary-cell/cell-line, ex vivo, organoid/MPS, genetic/pharmacologic perturbation, computational V&V, model validity, species/tissue/dose/timescale translation и exercise-specific extrapolation.
 39. Завершён **PASS-06C6 — mechanistic-branch integration and gap audit**.
 40. Audit выявил один blocking design-family gap перед mechanistic synthesis: **N-of-1 / broader single-case experimental designs (SCED) for mechanistic/experimental physiology**. Detailed N-of-1 methodology остаётся owned by RES-27; taxonomy-level design classification закрывается здесь.
-41. Следующий микро-проход: **RES-02/PASS-06C7 — N-of-1 and single-case experimental structures for mechanistic/physiology research: randomized multi-crossover N-of-1, withdrawal/reversal, multiple-baseline, alternating-treatment and changing-criterion structures; individual vs population estimands; repeated outcome measurement; onset/offset/washout/carryover; autocorrelation/time trends at taxonomy level; mechanistic target/mediator measurement; exercise/fitness use cases; and explicit ownership boundary with detailed RES-27 N-of-1 methodology**.
+41. Завершён **PASS-06C7 — N-of-1 and single-case experimental structures for mechanistic/physiology research**.
+42. Blocking SCED/N-of-1 gap из PASS-06C6 закрыт на taxonomy-level; detailed N-of-1 methods остаются owned by RES-27.
+43. Следующий микро-проход: **RES-02/PASS-06C8 — repeat mechanistic-branch closure/gap audit after PASS-06C7: recheck PASS-06C1…C7 plus randomized/quasi-experimental/observational/prediction/measurement boundaries; verify no remaining mechanism-evidence design family, SCED crosswalk, target-engagement/mediation/translation contradiction or exercise-specific blocker remains; decide whether mechanistic structural synthesis is finally permitted**.
 
 ## Правила Stage 2 после restart
 
