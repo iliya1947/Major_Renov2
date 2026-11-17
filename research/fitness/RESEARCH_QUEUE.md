@@ -221,8 +221,10 @@
 186. Mixed methods зафиксирован как cross-component integration family, а не atomic design. Defining feature = intentional QUAL–QUAN integration. Core routes: CONVERGENT, EXPLANATORY_SEQUENTIAL (QUAN→QUAL), EXPLORATORY_SEQUENTIAL (QUAL→QUAN); embedded/nested architecture retained as major unresolved route. Connecting/building/merging/embedding integration mechanisms, timing/priority/dependency/sampling relations, meta-inference and divergence handling added to canonical router.
 187. Завершён **PASS-06E2 — Convergent mixed-methods structures**.
 188. Convergent taxonomy: approximately concurrent QUAL || QUAN → strand-specific analysis → explicit integration target → merging/comparison/transformation → fit assessment → meta-inference. Same participants/equal N/equal priority are not required. Sample/unit relationship now determines integration granularity (person/subgroup/domain/whole-study). Narrative weaving, joint displays, case-by-case analysis and data transformation distinguished; fit normalized as confirmation, complementarity, expansion or discordance; discordance requires diagnosis. Current HIMT, HF exercise adherence, long-COVID rehabilitation and SCI exercise-app exemplars verified.
-189. Mixed-methods branch = **RESEARCHING**.
-190. Следующий микро-проход: **RES-02/PASS-06E3 — Explanatory sequential mixed-methods structures**.
+189. Завершён **PASS-06E3 — Explanatory sequential mixed-methods structures**.
+190. Explanatory-sequential taxonomy: QUAN analysis → result-driven connecting/building → QUAL follow-up → final merging/meta-inference. Chronology alone is insufficient; dependency is required. Follow-up-explanations and case-selection variants separated. Typical/maximum-variation/extreme/deviant/model-profile sampling routes added; same-pool linkage enables person-level explanation, while different stakeholder pools support domain/program explanation only. Qualitative explanation does not prove causal mediation/mechanism. Current stroke rehab, inpatient rehab, physiotherapy education, PE and sport talent-development examples verified.
+191. Mixed-methods branch = **RESEARCHING**.
+192. Следующий микро-проход: **RES-02/PASS-06E4 — Exploratory sequential mixed-methods structures**.
 
 ## Правила Stage 2 после restart
 
