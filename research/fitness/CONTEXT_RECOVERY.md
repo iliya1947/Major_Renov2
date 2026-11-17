@@ -137,32 +137,33 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D19_situational_analysis_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D20_dimensional_analysis_study_structures.md`
 
-Commit PASS-06D19:
+Commit PASS-06D20:
 
-`605b99ba5a6d37e7d93f17ae98ef040f39d0935d`
+`880f40b6209d9e41cbd0f1fa4f6e5bccda5e2c88`
 
-PASS-06D19 established Clarke-derived Situational Analysis as a distinct GT-derived qualitative methodology. The situation is the fundamental analytic unit and contextual conditions are treated as constitutive elements. Messy/ordered situational maps, relational analysis, social worlds/arenas maps and positional maps have separate analytic roles. Positional maps represent positions rather than persons and explicitly examine positions not taken/silences. Human, nonhuman, material, discursive, institutional and historical elements can coexist in one situational ecology. Coding, memoing and theoretical sampling remain GT inheritances, but SA differs from conventional process-centered GT. It must also be separated from case study, ethnography, institutional ethnography, discourse analysis and generic “situational assessment.” Direct physical-therapy/rehabilitation examples confirm applied relevance. The Situational Analysis blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D20 established Schatzman-derived Dimensional Analysis as a distinct grounded-theory methodology. DA is grounded in symbolic interactionism/natural analysis and systematically dimensionalizes data before selecting an explanatory perspective. A useful canonical progression is designation → differentiation → integration/reintegration. The explanatory matrix organizes perspective, context, conditions, processes/actions and consequences; those roles are relative to the selected perspective and are not causal estimands. Constant comparison, memoing and theoretical sampling remain GT functions. Current methodology explicitly distinguishes portable dimensionalization as an analytic technique from full DA methodology, and dimensional concept analysis of literature is a separate application layer. Direct physiotherapy, mobility and rehabilitation examples confirm applied relevance. The Dimensional Analysis blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D20 — Dimensional Analysis study structures**
+**RES-02 / PASS-06D21 — Critical Incident Technique study structures**
 
 Scope следующего micro-pass:
 
-1. Schatzman's GT-derived methodology;
-2. dimensionalization;
-3. designation / differentiation / integration;
-4. explanatory matrix;
-5. perspective selection;
-6. context / conditions / processes / consequences;
-7. sampling and analytic iteration;
-8. boundary with Straussian grounded theory;
-9. boundary between full Dimensional Analysis and generic dimensional coding;
-10. claim limits;
-11. fitness/rehabilitation applications;
-12. unresolved gaps → next blocker pass.
+1. Flanagan-derived CIT architecture;
+2. incident/event as analytic unit;
+3. criticality/significance criteria;
+4. helpful/hindering/effective-ineffective incidents;
+5. elicitation, recall and specificity;
+6. incident description/context/action/outcome;
+7. category development;
+8. frequency-count boundary;
+9. qualitative adaptations;
+10. boundary with generic interviews, event-history/narrative methods and process evaluation;
+11. claim limits;
+12. physical-activity/exercise applications;
+13. unresolved gaps → next blocker pass.
 
 ---
 
@@ -179,11 +180,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D19_situational_analysis_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D20_dimensional_analysis_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D20_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D21_...`
 
 ---
 
