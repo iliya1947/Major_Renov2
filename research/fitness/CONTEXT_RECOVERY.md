@@ -137,33 +137,27 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D22_photovoice_participatory_visual_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D23_ethnomethodology_beyond_conversation_analysis.md`
 
-Commit PASS-06D22:
+Commit PASS-06D23:
 
-`ed281663ba9fb7b1da8a0d9a6eb2eb10ea84d2e4`
+`4e746b8a12fcfc9513d58fc6740e1b3426a527c6`
 
-PASS-06D22 established Photovoice as a distinct participatory visual methodology / CBPR-PAR strategy rather than participant photography alone. Its foundational Wang/Burris goals are documentation/reflection, critical dialogue/knowledge and reaching decision-makers. Selecting, contextualizing and codifying form the canonical participatory-analysis architecture; SHOWED/SHOWeD is a common but adaptable/nonmandatory dialogue scaffold. Participant voice/decision rights, action intent, stakeholder reach and achieved impact are stored separately as fidelity dimensions because applied studies frequently implement only part of the canonical process. Photovoice is separated from photo-elicitation, generic visual methods and full CBPR governance. Visual ethics require separate attention to third-party consent, privacy of people/places, representation, image ownership/use rights and public/online dissemination. Direct physical-activity/exercise examples confirm relevance to youth obesity prevention, neighbourhood activity environments, older-adult PA/social participation and COPD-related experience. The Photovoice blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D23 established Garfinkel-derived ethnomethodology as a distinct qualitative methodology broader than Conversation Analysis. Its canonical target is members' practical methods for producing recognizable social order. Accountability, indexicality, ethnomethodological reflexivity and the documentary method are explicit; breaching experiments are optional demonstrations rather than defining or randomized experiments. Ethnomethodological indifference and the unique-adequacy requirement distinguish appraisal, while workplace/instructed-action studies extend beyond talk to embodied, material and technological practices. EM is separated from conventional ethnography, phenomenology, discourse analysis and institutional ethnography. Direct health and sport examples include acute nursing work, interprofessional meetings, football coaching and powerlifting. All nine blockers identified in PASS-06D14 have now received dedicated taxonomy-level passes D15–D23. Qualitative branch remains RESEARCHING pending a repeat final gap audit. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D23 — ethnomethodology beyond Conversation Analysis**
+**RES-02 / PASS-06D24 — repeat final qualitative-branch gap audit after PASS-06D15…D23**
 
 Scope следующего micro-pass:
 
-1. Garfinkel-derived ethnomethodology;
-2. members' methods;
-3. accountability;
-4. indexicality;
-5. ethnomethodological reflexivity;
-6. documentary method of interpretation;
-7. breaching / ethnomethodological experiments;
-8. practical action / workplace studies;
-9. relation to Conversation Analysis;
-10. boundary with ethnography and discourse analysis;
-11. claim limits;
-12. health/fitness applications;
-13. unresolved gaps → repeat qualitative-branch final gap audit.
+1. re-audit all qualitative methodology/design families covered in D1–D23;
+2. verify closure of all nine D14 blockers;
+3. revisit D9/D14 adjacent-candidate watch-lists;
+4. distinguish any newly exposed parent methodology blockers from analysis methods/subtypes/cross-cutting layers;
+5. re-check fitness/exercise relevance;
+6. determine whether qualitative structural synthesis is authorized;
+7. if not authorized, define exact new blocking pass(es).
 
 ---
 
@@ -180,11 +174,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D22_photovoice_participatory_visual_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D23_ethnomethodology_beyond_conversation_analysis.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D23_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D24_...`
 
 ---
 
