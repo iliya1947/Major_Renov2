@@ -233,8 +233,11 @@
 198. Mixed-method quality synthesized into four layers: strand quality, integration quality, meta-inference quality, reporting transparency. Sampling relationships fixed as identical/nested/parallel/multilevel and linked to integration granularity. Connecting/building/merging/embedding retained; joint displays optional; transformation/crossover/following-a-thread routed as techniques. Productive discordance separated from incoherence; meta-inference function separated from fit. MMAT/MMIQF/PCORI/JARS/GRAMMS purposes separated; current MMAT=2018, GRAMMS 2.0 not treated as finalized. AI integration routed as tooling/provenance with human return-to-source verification.
 199. Завершён **PASS-06E8 — final mixed-methods branch gap audit after E1–E7**.
 200. Fresh 2024–2026 sport/exercise/rehab audit found **NO NEW MIXED-METHODS METHODOLOGY-LEVEL BLOCKER**. Basic designs remain CONVERGENT / EXPLANATORY_SEQUENTIAL / EXPLORATORY_SEQUENTIAL. Embedded, multistage, case/intervention/participatory, transformative/critical, implementation/HEI/systems boundaries remain stable. Q Methodology and Realist Evaluation standalone handoffs remain stable. DBR and newly explicit Design Science Research are neighboring design/development handoffs; Delphi/NGT are consensus routes; HCD and Intervention/Implementation Mapping are frameworks. IMMTA/CDP 2.0 retained as emerging integration watchlist. Rehabilitation-specific MMR-RHS added to reporting layer.
-201. Mixed-methods branch = **READY FOR STRUCTURAL SYNTHESIS**.
-202. Следующий микро-проход: **RES-02/PASS-06E9 — mixed-methods branch structural synthesis**.
+201. Завершён **PASS-06E9 — mixed-methods branch structural synthesis**.
+202. Mixed-methods branch consolidated into one layered router: parent empirical context → QUAN/QUAL parent identities → basic route → structural/advanced framework → overlays → timing/priority/dependency → sampling → integration mechanics → granularity/fit/divergence → meta-inference → quality/reporting/provenance. Exactly three basic routes remain; embedded resolved as structural; advanced/overlay/neighboring families preserved without flattening. Canonical extraction schema expanded to 158 project fields. Known blocking mixed-method gaps = **NONE**.
+203. Mixed-methods branch = **SYNTHESIZED FOR RES-02 STRUCTURAL USE**.
+204. RES-02 overall remains **RESEARCHING**.
+205. Следующий микро-проход: **RES-02/PASS-06F1 — neighboring cross-method design/evaluation/development families: scope and taxonomy**.
 
 ## Правила Stage 2 после restart
 
