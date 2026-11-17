@@ -137,32 +137,33 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D16_standalone_hermeneutic_inquiry_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D17_autoethnography_study_structures.md`
 
-Commit PASS-06D16:
+Commit PASS-06D17:
 
-`cd2a9add3794dcc7315e64589111ecb0eff51bd2`
+`7a2719b5800375ab1465900950caf9aff75b174e`
 
-PASS-06D16 established standalone philosophical/Gadamerian hermeneutic inquiry as a distinct interpretive route when phenomenology is not the parent methodology. Gadamer supplied a philosophy of understanding rather than a fixed empirical recipe; Fleming et al.'s five-step procedure is a later Gadamerian-based adaptation. Pre-understanding/prejudice, hermeneutic whole–part movement, dialogue/question–answer, historically situated horizons and fusion of horizons as provisional transformed understanding are now explicit. Current DORR quality criteria provide a hermeneutically coherent Depth/Openness/Resonance/Reflexivity crosscheck. Direct physiotherapy/exercise-prescription studies confirm fitness relevance. The standalone hermeneutic blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D17 established autoethnography as a distinct qualitative methodology family in which researcher experience is substantive empirical material used to understand culture/social life. The self–culture analytic link is constitutive; autobiography/memoir, ordinary reflexivity and insider ethnography are separate. Evocative AE and Anderson-style analytic AE have different goals, with the latter requiring complete membership, analytic reflexivity, visible self, dialogue beyond self and theoretical analysis. Collaborative and other named variants are preserved as subtype metadata. Memory is treated as reconstructive; contemporaneous records can strengthen chronology. Relational ethics, implicated others, internal confidentiality and ongoing consent are structural concerns. Reader resonance/theoretical contribution are separated from population prevalence and causal inference. The autoethnography blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D17 — autoethnography study structures**
+**RES-02 / PASS-06D18 — institutional ethnography study structures**
 
 Scope следующего micro-pass:
 
-1. researcher-as-participant/data source;
-2. self–culture analytic link;
-3. evocative vs analytic autoethnography;
-4. autobiographical/field/embodied materials;
-5. insider position and reflexivity;
-6. relational ethics and representation of others;
-7. vulnerability and selective disclosure;
-8. analytic vs evocative claim architecture;
-9. boundary with autobiography, narrative inquiry and ethnography;
-10. quality/credibility;
-11. sport/exercise applications;
-12. unresolved gaps → next blocker pass.
+1. standpoint / starting point;
+2. problematic;
+3. work/work knowledge;
+4. institutional/ruling relations;
+5. text-mediated coordination;
+6. local-to-translocal mapping;
+7. sampling/data-generation architecture;
+8. interview/observation/document roles;
+9. boundary with conventional ethnography;
+10. boundary with critical ethnography and case study;
+11. claim limits;
+12. fitness/exercise applications;
+13. unresolved gaps → next blocker pass.
 
 ---
 
@@ -179,11 +180,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D16_standalone_hermeneutic_inquiry_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D17_autoethnography_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D17_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D18_...`
 
 ---
 
