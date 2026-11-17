@@ -119,29 +119,30 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B7` — internal-external and external validation structures;
   - `PASS-06B8` — model recalibration, updating and extension structures;
   - `PASS-06B9` — prediction-model impact and utility study structures;
-  - `PASS-06B10` — prediction-performance estimand architecture.
+  - `PASS-06B10` — prediction-performance estimand architecture;
+  - `PASS-06B11` — prediction under treatment and management.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B10_prediction_performance_estimands.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B11_prediction_under_treatment.md`
 
-Commit PASS-06B10:
+Commit PASS-06B11:
 
-`d0d213f01489365c98e807687b80f55cde7fdd37`
+`6ff8b19c2a5823529682c57dce268442ae6b9cbf`
 
 ### Следующая задача
 
-**RES-02 / PASS-06B11 — prediction under treatment and management**
+**RES-02 / PASS-06B12 — dynamic and landmark prediction structures**
 
 Scope следующего micro-pass:
 
-1. prognosis under heterogeneous interventions;
-2. treatment as predictor/context;
-3. baseline treatment status vs post-startpoint treatment;
-4. treatment paradox / treatment-drop-in;
-5. model-guided treatment feedback;
-6. prediction target under observed care vs no-treatment/counterfactual target;
-7. boundary ordinary prognostic prediction vs treatment-effect prediction;
+1. repeated prediction times;
+2. time-updated predictors;
+3. landmark prediction;
+4. joint-model/dynamic prediction at taxonomy level;
+5. changing horizons;
+6. prediction-startpoint renewal;
+7. dynamic factual prediction vs counterfactual treatment strategies;
 8. unresolved gaps → next micro-pass.
 
 ---
@@ -159,11 +160,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B10_prediction_performance_estimands.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B11_prediction_under_treatment.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B11_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B12_...`
 
 ---
 
