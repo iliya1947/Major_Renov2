@@ -14,8 +14,9 @@
    - **PASS-06B4 — outcome-dependent sampling in prognosis**;
    - **PASS-06B5 — prediction-model development study structures**;
    - **PASS-06B6 — internal validation structures**;
-   - **PASS-06B7 — internal-external and external validation structures**.
-7. Следующий микро-проход: **RES-02/PASS-06B8 — model recalibration, updating and extension structures: validation-before-update sequence, intercept/baseline-hazard recalibration, coefficient updating, adding predictors, version identity, and revalidation requirements**.
+   - **PASS-06B7 — internal-external and external validation structures**;
+   - **PASS-06B8 — model recalibration, updating and extension structures**.
+7. Следующий микро-проход: **RES-02/PASS-06B9 — prediction-model impact and utility study structures: statistical performance vs decision utility vs actual outcome impact, model-guided strategy trials, randomized/cluster impact designs, before-after alternatives, and the boundary between prediction evidence and intervention evidence**.
 
 ## Правила Stage 2 после restart
 
