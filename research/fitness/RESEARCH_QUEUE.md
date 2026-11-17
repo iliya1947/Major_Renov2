@@ -199,8 +199,11 @@
 164. Завершён **PASS-06D38 — Post-Qualitative Inquiry / posthuman-new-materialist inquiry routing**.
 165. Зафиксирован cross-cutting PQI/posthuman routing layer: STRICT_PQI vs PQI_INFORMED_HYBRID vs POSTHUMAN_NEW_MATERIALIST_ORIENTATION; strict St. Pierre PQI refuses pre-existing humanist methodology; broader current sport/health/psychology field permits postqualitative-informed hybrids. Human/nonhuman/material/discursive entanglement, posthuman subject, concept-first inquiry, data/analysis/representation reconfiguration and response-ability retained as routing fields. Diffraction, assemblage thinking, affective inquiry, thinking-with-theory and un-methods are analytic/conceptual practices rather than parent designs. SA, discourse analysis, a/r/tography and CMW remain distinct but can carry PQI/posthuman orientation. Beggan 2023/2024 direct PA applications and current 2025 sport/health/PE field synthesis verified.
 166. D31 blocker **Post-Qualitative Inquiry CLOSED AT ROUTING/TAXONOMY LEVEL**; all D31 blockers = 0 remaining.
-167. Qualitative branch остаётся **RESEARCHING**; structural synthesis **NOT AUTHORIZED** pending repeat gap audit.
-168. Следующий микро-проход: **RES-02/PASS-06D39 — repeat final qualitative branch gap audit after D32–D38: reopen D31/D32–D38, repeat broad external scan, re-test blockers/non-blockers/handoffs and sport/health relevance, inspect hybrid-routing contradictions; either identify new blocker(s) or authorize qualitative structural synthesis**.
+167. Завершён **PASS-06D39 — repeat final qualitative branch gap audit after D32–D38**.
+168. Fresh 2026 sport/health/methodology scan выявил **2 новых blockers**: **Video-Reflexive Ethnography (VRE)** и **Portraiture (Lawrence-Lightfoot tradition)**. VRE требует отдельной taxonomy из-за ethnographic familiarisation → in-situ video → reflexive-session loop и principles collaboration/care/reflexivity/exnovation; direct physiotherapy relevance verified. Portraiture требует отдельной taxonomy из-за context/voice/relationship/emergent themes/aesthetic whole architecture и текущего sport use. Digital Storytelling, body mapping, Rich Picture Building, mobile/running interviews, carnal sociology, critical realism, cultural semiotics, current EM/CA, Wiisokotaatiwin и creative nonfiction re-tested as non-blocking/routable layers.
+169. Qualitative branch остаётся **RESEARCHING**; structural synthesis **NOT AUTHORIZED**.
+170. Следующий микро-проход: **RES-02/PASS-06D40 — Video-Reflexive Ethnography study structures**.
+171. После D40: **PASS-06D41 — Portraiture**, затем новый repeat gap audit before any synthesis.
 
 ## Правила Stage 2 после restart
 
