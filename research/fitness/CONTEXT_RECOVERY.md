@@ -137,30 +137,30 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D20_dimensional_analysis_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D21_critical_incident_technique_study_structures.md`
 
-Commit PASS-06D20:
+Commit PASS-06D21:
 
-`880f40b6209d9e41cbd0f1fa4f6e5bccda5e2c88`
+`1e79a06f30b6a813b2d4d718dd46a510024d3192`
 
-PASS-06D20 established Schatzman-derived Dimensional Analysis as a distinct grounded-theory methodology. DA is grounded in symbolic interactionism/natural analysis and systematically dimensionalizes data before selecting an explanatory perspective. A useful canonical progression is designation → differentiation → integration/reintegration. The explanatory matrix organizes perspective, context, conditions, processes/actions and consequences; those roles are relative to the selected perspective and are not causal estimands. Constant comparison, memoing and theoretical sampling remain GT functions. Current methodology explicitly distinguishes portable dimensionalization as an analytic technique from full DA methodology, and dimensional concept analysis of literature is a separate application layer. Direct physiotherapy, mobility and rehabilitation examples confirm applied relevance. The Dimensional Analysis blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D21 established Critical Incident Technique as an incident-centered qualitative methodology family with a Flanagan-derived five-stage architecture. Criticality is defined relative to an explicit aim and does not imply catastrophe. Participant and incident counts are separate; modern CIT can use observer reports, interviews, surveys, written reports, observation and prospective/retrospective capture. Retrospective incidents remain vulnerable to reconstructive memory. Incident extraction and category development are central, while incident frequencies and participation rates describe the elicited corpus rather than population prevalence. Enhanced CIT is a named adaptation with helping/hindering incidents, possible wish-list items and nine methodology-specific credibility checks. CIT is separated from generic interviews, narrative/turning-point research, event-history methods, adverse-event reporting, process evaluation, GT and generic TA. Direct physical-activity/sport applications confirm relevance to PA change, process evaluation, anxiety and sport emotional labor. The CIT blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D21 — Critical Incident Technique study structures**
+**RES-02 / PASS-06D22 — Photovoice / participatory visual study structures**
 
 Scope следующего micro-pass:
 
-1. Flanagan-derived CIT architecture;
-2. incident/event as analytic unit;
-3. criticality/significance criteria;
-4. helpful/hindering/effective-ineffective incidents;
-5. elicitation, recall and specificity;
-6. incident description/context/action/outcome;
-7. category development;
-8. frequency-count boundary;
-9. qualitative adaptations;
-10. boundary with generic interviews, event-history/narrative methods and process evaluation;
+1. participant-generated photography;
+2. photovoice scientific/participatory purpose;
+3. image–narrative relation;
+4. CBPR/PAR roots;
+5. SHOWED and alternative dialogue structures;
+6. individual vs group interpretation;
+7. collective action / stakeholder dissemination;
+8. visual consent/privacy/third-party ethics;
+9. image ownership/copyright and representation;
+10. boundary with photo-elicitation and generic visual methods;
 11. claim limits;
 12. physical-activity/exercise applications;
 13. unresolved gaps → next blocker pass.
@@ -180,11 +180,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D20_dimensional_analysis_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D21_critical_incident_technique_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D21_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D22_...`
 
 ---
 
