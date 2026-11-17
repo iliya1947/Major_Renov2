@@ -130,43 +130,37 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B18` — multicategory and ordinal prediction-model structures;
   - `PASS-06B19` — multiple-outcome, composite and joint-risk prediction structures;
   - `PASS-06B20` — diagnostic outcome-dependent sampling and absolute-probability recovery;
-  - `PASS-06B21` — repeat final prediction-branch gap audit after PASS-06B18…B20.
+  - `PASS-06B21` — repeat final prediction-branch gap audit after PASS-06B18…B20;
+  - `PASS-06B22` — current continuous-value prediction and estimation equations.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B21_repeat_final_prediction_branch_gap_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B22_current_continuous_value_prediction.md`
 
-Commit PASS-06B21:
+Commit PASS-06B22:
 
-`9d2a9a5fd4178a00d6057cd3f9ce5f8205a39236`
+`01cfe3623c7b08a7456e4c3ad1294031f45e4123`
 
-Audit correction commit:
-
-`1fee7526eaa1122879bb55240de959954ce63d0e` — clarified binary scope of PASS-06B14.
-
-Repeat audit выявил один новый blocking gap перед synthesis:
-
-1. current continuous-value diagnostic prediction / estimation equations and their boundary with measurement-property / criterion-validity studies.
+Blocking gap из PASS-06B21 закрыт на taxonomy-level. Synthesis пока не разрешён: нужен финальный closure/gap audit.
 
 ### Следующая задача
 
-**RES-02 / PASS-06B22 — current continuous-value prediction and estimation equations**
+**RES-02 / PASS-06B23 — final prediction-branch closure/gap audit after PASS-06B22**
 
 Scope следующего micro-pass:
 
-1. current continuous-value prediction definition;
-2. cross-sectional current-outcome T0 architecture;
-3. boundary with future continuous prognosis;
-4. prediction equation vs direct measurement/instrument;
-5. boundary with criterion-validity/method-comparison studies;
-6. criterion/reference measurement and its measurement error;
-7. development / internal / IECV / external validation;
-8. calibration-in-the-large / slope / curve;
-9. RMSE / MAE / R² / individual prediction error at taxonomy level;
-10. why correlation alone and agreement alone are insufficient;
-11. population/device/protocol transportability;
-12. VO₂max / body-composition / 1RM examples;
-13. unresolved gaps → final audit.
+1. recheck PASS-06A + PASS-06B1…B22;
+2. verify current diagnostic prediction coverage:
+   - binary current condition;
+   - multicategory/ordinal current outcome;
+   - current continuous-value estimation;
+3. verify future prognosis and continuous/binary/time-to-event coverage;
+4. verify complex-event and multiple-outcome coverage;
+5. verify dynamic prediction / treatment / lifecycle / sampling crosswalks;
+6. verify measurement-property/DTA boundaries;
+7. check source-version changes and unsupported overreach;
+8. identify any remaining true RES-02 design-family gap;
+9. decide whether prediction-branch synthesis is finally permitted.
 
 ---
 
@@ -183,11 +177,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B21_repeat_final_prediction_branch_gap_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B22_current_continuous_value_prediction.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B22_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B23_...`
 
 ---
 
