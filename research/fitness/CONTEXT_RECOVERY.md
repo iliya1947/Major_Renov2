@@ -115,30 +115,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B3` — routine-care data sources for prognosis;
   - `PASS-06B4` — outcome-dependent sampling in prognosis;
   - `PASS-06B5` — prediction-model development study structures;
-  - `PASS-06B6` — internal validation structures.
+  - `PASS-06B6` — internal validation structures;
+  - `PASS-06B7` — internal-external and external validation structures.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B6_internal_validation_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B7_internal_external_external_validation.md`
 
-Commit PASS-06B6:
+Commit PASS-06B7:
 
-`7e295629116c38e824e76a534e46db2b6f0940f4`
+`9435885ebaea1c21326ae1b725f643a9729bcffe`
 
 ### Следующая задача
 
-**RES-02 / PASS-06B7 — internal-external and external validation structures**
+**RES-02 / PASS-06B8 — model recalibration, updating and extension structures**
 
 Scope следующего micro-pass:
 
-1. clustered internal-external cross-validation;
-2. ordinary random CV vs IECV;
-3. temporal external validation;
-4. geographical/site external validation;
-5. setting/population external validation;
-6. reproducibility vs transportability;
-7. independence of validation data;
-8. repeated validation across heterogeneous settings;
+1. validate-before-update sequence;
+2. intercept / baseline-hazard recalibration;
+3. calibration-slope / coefficient updating;
+4. re-estimation of predictor effects;
+5. adding predictors / model extension;
+6. model-version identity;
+7. updated-model performance vs validation performance;
+8. revalidation requirements;
 9. unresolved gaps → следующий micro-pass.
 
 ---
@@ -156,11 +157,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B6_internal_validation_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B7_internal_external_external_validation.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B7_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B8_...`
 
 ---
 
