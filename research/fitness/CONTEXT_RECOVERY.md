@@ -137,36 +137,34 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E6_multistage_advanced_mixed_methods_frameworks.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E7_mixed_methods_sampling_integration_meta_inference_quality_synthesis.md`
 
-Commit PASS-06E6:
+Commit PASS-06E7:
 
-`f1b3d2f9793ab0b1f1f406cc74945c74b17f2b4c`
+`ad38b6099160841b96444ea1bb7e928711067333`
 
-PASS-06E6 resolved advanced mixed-methods frameworks. The project keeps only CONVERGENT, EXPLANATORY_SEQUENTIAL and EXPLORATORY_SEQUENTIAL as basic integration designs. MULTISTAGE/MULTIPHASE, CASE_STUDY_FRAMEWORK, INTERVENTION_FRAMEWORK and PARTICIPATORY_FRAMEWORK are represented as larger parent/advanced structures that contain one or more basic integration patterns; EMBEDDED/NESTED remains a structural relation from E5. Multistage work requires explicit cross-phase dependency/integration and separate phase-level vs program-level meta-inference; PROGRAM_ID/STUDY_ID/PHASE_ID and phase-bridge provenance are now required. Case-study mixed methods preserves case boundaries and direction of nesting. Transformative/critical, implementation-science, HEI and systems-science labels are stored as separate overlays. Q Methodology is confirmed as a standalone methodology-level route with constitutive Q-sort + by-person factor-analysis + interpretive architecture, not a generic basic mixed-method design. Realist Evaluation is confirmed as a standalone theory-driven, method-neutral evaluation route that may use qualitative, quantitative or mixed methods. Current sport/exercise/rehab relevance was verified through MotiStyleSport, a four-phase participatory PA program, an adolescent participatory intervention, a stroke-rehabilitation multiple-case protocol, PA systems research, current PA realist evaluation, and current Q-methodology studies in swimmers, rehabilitation and physical education. Mixed-methods branch remains RESEARCHING.
+PASS-06E7 completed the cross-cutting mixed-methods sampling/integration/meta-inference/quality synthesis. Mixed-method quality is now represented through four distinct layers: component-strand quality; integration quality; meta-inference quality; reporting transparency. Sampling relationships are explicitly classified as identical, nested, parallel/separate or multilevel and constrain permissible integration granularity. Connecting/building/merging/embedding remain the canonical integration operations; joint displays are optional analytic/reporting tools; data transformation, crossover analysis and following-a-thread are integration techniques rather than study designs. Productive discordance is separated from methodological incoherence. Meta-inference function is stored separately from fit category. MMAT, MMIQF, PCORI, JARS-Mixed and GRAMMS are explicitly separated by purpose; current MMAT public version remains 2018 and GRAMMS 2.0 is not treated as finalized. AI-assisted integration is routed as a tooling/provenance layer with mandatory human return-to-source verification; AI output alone is not a validated meta-inference. The mixed-methods branch is now RESEARCHING pending one final gap audit.
 
 ### Следующая задача
 
-**RES-02 / PASS-06E7 — mixed-methods sampling, integration, meta-inference and quality synthesis**
+**RES-02 / PASS-06E8 — final mixed-methods branch gap audit after E1–E7**
 
 Scope следующего micro-pass:
 
-1. sample relationships across strands/phases;
-2. purposeful + probability sampling combinations;
-3. integration at design/sampling/data/analysis/interpretation;
-4. connecting/building/merging/embedding;
-5. joint displays;
-6. data transformation;
-7. following-a-thread / crossover analysis;
-8. integration granularity;
-9. divergence;
-10. meta-inference quality;
-11. legitimation/validity frameworks;
-12. MMAT/JARS/GRAMMS/PCORI distinctions;
-13. mixed-methods-specific bias;
-14. AI-assisted integration provenance;
-15. canonical branch-wide extraction router;
-16. STOP after saved PASS.
+1. reopen the full E1–E7 branch;
+2. fresh 2024–2026 sport/exercise/rehab mixed-method literature scan;
+3. retest completeness of CONVERGENT / EXPLANATORY / EXPLORATORY basic designs;
+4. retest EMBEDDED / MULTISTAGE / CASE / INTERVENTION / PARTICIPATORY boundaries;
+5. retest transformative/critical, HEI, implementation and systems overlays;
+6. retest Q Methodology and Realist Evaluation handoffs;
+7. test qualiquantitative and mixed-method experiments;
+8. test Delphi/NGT and consensus architectures;
+9. test Design-Based Research / HCD / intervention mapping;
+10. test realist mixed methods and systems modelling;
+11. test AI-mediated mixed methods;
+12. contradiction audit;
+13. either identify new blocker(s) or authorize mixed-method structural synthesis;
+14. STOP after saved audit.
 
 ---
 
@@ -183,11 +181,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E6_multistage_advanced_mixed_methods_frameworks.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E7_mixed_methods_sampling_integration_meta_inference_quality_synthesis.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E7_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E8_...`
 
 ---
 
