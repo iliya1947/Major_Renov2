@@ -137,35 +137,35 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E1_mixed_methods_primary_study_structures_scope_taxonomy.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E2_convergent_mixed_methods_structures.md`
 
-Commit PASS-06E1:
+Commit PASS-06E2:
 
-`055effaac3259c29bfb33d236ecf1d69a84bd32c`
+`26842d659fce3696ad6473e2325708248eaf0b50`
 
-PASS-06E1 opened the mixed-methods branch and established the core taxonomy. Mixed methods is represented as a cross-component integration family, not one atomic design: quantitative parent design + qualitative parent methodology + rationale for mixing + timing + priority + dependency + sampling relationship + integration architecture + integration technique + meta-inference + component-specific and mixed-methods-specific quality. Intentional QUAL–QUAN integration is the defining feature; simple coexistence of quantitative and qualitative material is insufficient. Three stable core integration architectures are recognized: CONVERGENT, EXPLANATORY_SEQUENTIAL (QUAN→QUAL), and EXPLORATORY_SEQUENTIAL (QUAL→QUAN). Embedded/nested mixed methods is a major fourth route requiring dedicated resolution because current literature uses heterogeneous nomenclature. Connecting, building, merging and embedding are retained as integration mechanisms; joint displays are integration tools rather than mandatory quality criteria. Current 2026 PCORI standards, current APA JARS-Mixed, NIH/OBSSR guidance, Fetters/Curry/Creswell integration architecture and current sport/exercise/rehabilitation examples were checked. Mixed-methods branch remains RESEARCHING.
+PASS-06E2 established the deep convergent mixed-methods taxonomy. Canonical architecture: QUAL and QUAN planned in the same/overlapping study phase → strand-specific analysis → explicit commensurable integration target → merging/comparison/transformation → fit assessment → meta-inference. Approximate concurrency is sufficient; exact simultaneity is not required. Same participants and equal sample sizes are not required, but sample/unit relationship determines valid integration granularity: person-level, subgroup-level, domain/program-level or whole-study. Different stakeholder samples can support program-level convergence/complementarity but not individual concordance. Merging, narrative weaving, joint displays, case-by-case analysis and data transformation are distinguished. Fit is normalized as confirmation/convergence, complementarity, expansion or discordance while preserving author terminology. Discordance must be diagnosed rather than suppressed. Current 2026 HIMT RCT, heart-failure exercise adherence, long-COVID rehabilitation implementation and SCI exercise-app studies verify direct exercise/rehab relevance. Mixed-methods branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06E2 — Convergent mixed-methods structures**
+**RES-02 / PASS-06E3 — Explanatory sequential mixed-methods structures**
 
 Scope следующего micro-pass:
 
-1. concurrent/parallel timing;
-2. strand independence before integration;
-3. merging at data/results level;
-4. same vs different samples;
-5. priority/weighting;
-6. comparison/confirmation/complementarity/expansion/discordance;
-7. joint-display architectures;
-8. case-by-case integration;
-9. data transformation;
-10. integrated meta-inference;
-11. divergence handling;
-12. boundary with parallel multimethod / triangulation-only studies;
-13. quantitative/qualitative quality preservation;
-14. direct sport/exercise/rehabilitation applications;
-15. claim limits;
+1. QUAN→QUAL dependency;
+2. connecting;
+3. outcome/extreme/deviant-case sampling;
+4. maximum-variation sampling from quantitative results;
+5. interview-guide building;
+6. explaining null/heterogeneous/unexpected effects;
+7. individual record linkage;
+8. timing;
+9. priority;
+10. explanatory joint displays;
+11. integrated meta-inference;
+12. boundary with post-hoc qualitative follow-up / merely sequential multimethod;
+13. trial/process-evaluation applications;
+14. causal-language limits;
+15. direct sport/exercise/rehabilitation examples;
 16. STOP after saved PASS.
 
 ---
@@ -183,11 +183,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E1_mixed_methods_primary_study_structures_scope_taxonomy.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E2_convergent_mixed_methods_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E2_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E3_...`
 
 ---
 
