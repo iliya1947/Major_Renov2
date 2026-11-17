@@ -91,7 +91,7 @@ and within evaluation:
 - internal validation;
 - external validation.
 
-Current source wording describes PROBAST+AI as an updated/direct extension of PROBAST-2019 and says that it **may replace PROBAST-2019**. The project should avoid the stronger absolute wording "definitely replaces".
+Current PROBAST+AI article uses mixed-strength replacement wording: its summary/usage sections say **“extends and replaces” / “supersedes PROBAST-2019”**, while the Discussion says it **“may replace PROBAST-2019”**. The project therefore treats PROBAST+AI as the current updated/direct extension and operational successor without pretending the paper uses only one verb.
 
 ---
 
@@ -629,11 +629,11 @@ PASS-06B5 previously stated:
 
 > PROBAST+AI extends/replaces PROBAST-2019.
 
-Current source wording is more cautious.
+Current source wording is internally mixed across sections.
 
-Correct wording:
+Correct project wording:
 
-> **PROBAST+AI is the 2025 updated/direct extension of PROBAST-2019; the authors state that PROBAST+AI may replace PROBAST-2019.**
+> **PROBAST+AI is the current 2025 updated/direct extension and operational successor to PROBAST-2019; the article uses both “extends and replaces” / “supersedes” and “may replace” wording in different sections.**
 
 This correction is applied as part of this audit.
 
