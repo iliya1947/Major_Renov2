@@ -137,37 +137,36 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E3_explanatory_sequential_mixed_methods_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E4_exploratory_sequential_mixed_methods_structures.md`
 
-Commit PASS-06E3:
+Commit PASS-06E4:
 
-`fece6357feed331fa83d6955c3d6a309793bed46`
+`6f34d62f2485a6768faae8a0246c2fd4b6eea8f9`
 
-PASS-06E3 established the deep explanatory-sequential mixed-methods taxonomy. Canonical architecture: QUAN collection/analysis → identify results requiring explanation → connect and/or build the QUAL phase → QUAL collection/analysis → merge → explanatory meta-inference. Chronology alone is insufficient: the QUAL phase must materially depend on completed QUAN findings. Two useful variants are retained: follow-up explanations and case selection. Connecting and building are separated; participant-selection and interview-question joint displays can make between-phase integration explicit. Sampling routes include typical, maximum-variation, extreme/high-low, deviant/discrepant and model-concordant/model-discordant cases. Same-pool QUAN→QUAL linkage supports person-level explanation; different stakeholder samples can support domain/program-level explanation, but claim granularity cannot exceed linkage granularity. Current stroke rehab, hemorrhagic-stroke adherence, inpatient rehabilitation RMBD, physiotherapy education, VR physical education and talent-development studies verify direct field relevance. QUAL evidence can contextualize mechanism/mediation hypotheses but does not itself establish causal mediation. Mixed-methods branch remains RESEARCHING.
+PASS-06E4 established the deep exploratory-sequential mixed-methods taxonomy. Canonical architecture: QUAL collection/analysis → derive constructs/categories/needs/components → BUILD the QUAN phase → QUAN collection/analysis → merge/refine → developmental/validation meta-inference. QUAL→QUAN chronology alone is insufficient; the second phase must materially depend on qualitative findings. Three functional subroutes are now explicit: INSTRUMENT_MEASUREMENT_DEVELOPMENT, CONSTRUCT_DETERMINANT_TRANSLATION and INTERVENTION_PROGRAM_TOOL_DEVELOPMENT. Traceability from theme/code/quote to construct/item/variable/component is a core field. Content validity is separated from psychometric structural validity; current COSMIN relevance/comprehensiveness/comprehensibility architecture is retained. EFA/CFA/IRT/Rasch are quantitative measurement analyses, not mixed-method integration. Different samples across phases are acceptable when the transition is justified. Current MS tele-exercise, adolescent PA determinants, older-adult LTPA scale, stroke instrument-development and stroke telerehabilitation studies verify direct field relevance. A current Paralympic pressure-ulcer paper demonstrates an author-label/enacted-route discrepancy: labeled exploratory sequential but described as QUAN→QUAL explanatory follow-up. Mixed-methods branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06E4 — Exploratory sequential mixed-methods structures**
+**RES-02 / PASS-06E5 — Embedded/intervention mixed-methods structures**
 
 Scope следующего micro-pass:
 
-1. QUAL→QUAN dependency;
-2. building from qualitative categories/themes;
-3. item/scale development;
-4. variable construction;
-5. determinant mapping;
-6. instrument development/validation;
-7. intervention/component development;
-8. digital-tool development;
-9. translation of qualitative constructs into quantitative variables;
-10. content-validity bridge;
-11. pilot testing;
-12. sample transition;
-13. exploratory-to-confirmatory boundary;
-14. joint displays;
+1. dominant/subordinate strand architecture;
+2. embedded vs nested vs concurrent/sequential integration;
+3. trial + qualitative process component;
+4. intervention-development vs intervention-evaluation embedding;
+5. pre/during/post intervention timing;
+6. process evaluation;
+7. implementation/fidelity/context/participant response;
+8. integration with trial outcomes;
+9. contamination/reactivity;
+10. arm/site/outcome-based qualitative sampling;
+11. intervention adaptation;
+12. embedded qualitative component vs true embedded mixed methods;
+13. hybrid effectiveness-implementation boundary;
+14. direct sport/exercise/rehabilitation applications;
 15. claim limits;
-16. direct sport/exercise/rehabilitation applications;
-17. STOP after saved PASS.
+16. STOP after saved PASS.
 
 ---
 
@@ -184,11 +183,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E3_explanatory_sequential_mixed_methods_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E4_exploratory_sequential_mixed_methods_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E4_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06E5_...`
 
 ---
 
