@@ -128,37 +128,33 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B16` — post-deployment lifecycle and continual updating;
   - `PASS-06B17` — final prediction-branch gap audit after B14–B16;
   - `PASS-06B18` — multicategory and ordinal prediction-model structures;
-  - `PASS-06B19` — multiple-outcome, composite and joint-risk prediction structures.
+  - `PASS-06B19` — multiple-outcome, composite and joint-risk prediction structures;
+  - `PASS-06B20` — diagnostic outcome-dependent sampling and absolute-probability recovery.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B19_multiple_outcome_composite_joint_risk.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B20_diagnostic_outcome_dependent_sampling.md`
 
-Commit PASS-06B19:
+Commit PASS-06B20:
 
-`bd2c952e129cb469378c35be899ddb97fcfc9046`
+`6a2dfc719868023a88f89fe3d180f82fc01663b5`
 
-Остался один blocking gap перед repeat final audit:
-
-1. outcome-dependent sampling specifically for diagnostic probability models.
+Все три blocking gaps из PASS-06B17 теперь закрыты отдельными taxonomy-level passes. Synthesis пока не разрешён: нужен repeat final gap audit.
 
 ### Следующая задача
 
-**RES-02 / PASS-06B20 — diagnostic outcome-dependent sampling and absolute-probability recovery**
+**RES-02 / PASS-06B21 — repeat final prediction-branch gap audit after PASS-06B18…B20**
 
 Scope следующего micro-pass:
 
-1. one-gate vs two-gate diagnostic sampling;
-2. nested vs non-nested case-control diagnostic model development;
-3. deliberate class balancing;
-4. target-condition prevalence/base rate;
-5. known sampling fractions and prevalence recovery;
-6. weighting/recalibration of absolute diagnostic probabilities;
-7. discrimination vs calibration under enrichment;
-8. PPV/NPV and threshold utility;
-9. representative external validation;
-10. relation to DTA spectrum effects;
-11. unresolved gaps → repeat final audit.
+1. recheck PASS-06A + PASS-06B1…B20;
+2. search for unresolved prediction study-design families;
+3. check diagnostic/prognostic cross-framework transfers;
+4. check contradictions after B18–B20;
+5. verify current source/tool versions;
+6. check fitness/exercise-specific omissions;
+7. separate later statistical/RoB topics from true RES-02 gaps;
+8. decide whether prediction-branch synthesis is finally permitted.
 
 ---
 
@@ -175,11 +171,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B19_multiple_outcome_composite_joint_risk.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B20_diagnostic_outcome_dependent_sampling.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B20_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B21_...`
 
 ---
 
