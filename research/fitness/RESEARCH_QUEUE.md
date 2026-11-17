@@ -86,7 +86,10 @@
 51. Завершён **PASS-06D1 — qualitative primary-study structures: scope and taxonomy**.
 52. Зафиксирована canonical qualitative architecture: scientific purpose + methodology/approach + sampling + data collection + analysis + context/reflexivity + adequacy/stopping logic + parent-study/integration layer. Interviews/focus groups/observation классифицируются как collection methods, а не atomic designs; saturation признан methodology-dependent; mixed methods требует intentional qual–quant integration; content-validity и process-evaluation purpose отделены от qualitative design.
 53. Qualitative branch остаётся **RESEARCHING**; synthesis пока не разрешён.
-54. Следующий микро-проход: **RES-02/PASS-06D2 — phenomenology and lived-experience study structures: descriptive vs interpretive/hermeneutic phenomenology, IPA boundary, sampling/data sources, analysis alignment, claim limits and fitness/exercise applications**.
+54. Завершён **PASS-06D2 — phenomenology and lived-experience study structures**.
+55. Зафиксирована phenomenology taxonomy: descriptive vs interpretive/hermeneutic routes; IPA как отдельная idiographic interpretive methodology; direct lived-experience eligibility; interviews/data sources отделены от design; fixed universal N rejected; saturation не считается универсальным обязательным критерием; phenomenological claims ограничены experiential/meaning inference и не подменяют prevalence/causal-effect evidence.
+56. Qualitative branch остаётся **RESEARCHING**.
+57. Следующий микро-проход: **RES-02/PASS-06D3 — grounded theory study structures: Glaserian/Straussian/constructivist variants, process/theory target, constant comparison, theoretical sampling, saturation/sufficiency, coding architecture, theory claims, and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
