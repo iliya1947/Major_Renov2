@@ -127,7 +127,10 @@
 92. Framework Method, rapid qualitative approaches, netnography/digital ethnography, sensory/critical/multi-sited ethnography, broad arts-based methods, photo-elicitation, story completion, secondary qualitative analysis, AI-assisted analysis and reporting standards классифицированы как analysis/subtype/cross-cutting/data-provenance/tooling/reporting layers, а не current parent-design blockers.
 93. Realist evaluation, Design-Based Research и Human-Centered Design переданы в later overall RES-02 gap audit как cross-method evaluation/development architectures.
 94. Qualitative branch остаётся **RESEARCHING**.
-95. Следующий микро-проход: **RES-02/PASS-06D15 — phenomenography study structures: second-order perspective, variation in ways of experiencing/understanding, categories of description, outcome space, sampling for variation, phenomenography vs phenomenology, claim limits and fitness/exercise applications**.
+95. Завершён **PASS-06D15 — phenomenography study structures**.
+96. Зафиксирована phenomenography taxonomy: second-order perspective; variation in ways of experiencing/understanding one phenomenon; conceptions as relational; referential vs structural aspects; categories of description as collective analytic products rather than participant types; outcome space with distinct/logically related/parsimonious categories; hierarchy common but not mechanically imposed; sampling for variation; phenomenography ≠ phenomenology/QD/GT/TA; conception-frequency ≠ prevalence.
+97. Blocker phenomenography из PASS-06D14 закрыт на taxonomy-level. Qualitative branch остаётся **RESEARCHING**.
+98. Следующий микро-проход: **RES-02/PASS-06D16 — standalone hermeneutic inquiry structures: Gadamerian/philosophical hermeneutics beyond hermeneutic phenomenology, pre-understanding, hermeneutic circle, dialogue/text, fusion of horizons, sampling/data/analysis architecture, claim limits and health/fitness applications**.
 
 ## Правила Stage 2 после restart
 
