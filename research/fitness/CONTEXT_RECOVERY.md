@@ -137,37 +137,38 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D33_duoethnography_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D34_collective_memory_work_structures.md`
 
-Commit PASS-06D33:
+Commit PASS-06D34:
 
-`b0593734031d9daf18745f2e1747f986c3b27efe`
+`8380feba728b984a5c24f9c4bb99a24e6761f4a4`
 
-PASS-06D33 closed the second D31 blocker at taxonomy level. Duoethnography is confirmed as a distinct collaborative/dialogic qualitative methodology family: researchers are simultaneously researcher-participants/sites of inquiry; situated life histories are deliberately juxtaposed; polyvocal dialogue and difference are constitutive analytic resources; interrogation/disruption of prior meanings and reconceptualization/praxis form the core scientific logic; universal truths are not the target. Dialogue can generate and analyze meaning simultaneously, while multiple data forms and formal coding/thematic-analysis layers may be nested. Trust, safe dialogical space, power asymmetry, ongoing consent/confidentiality and implicated third parties are methodology-level concerns. The boundary with collaborative autoethnography is genuinely overlapping, so project routing uses architecture rather than headcount alone. Direct 2025 physical-activity/fitness-tracker evidence verifies use with running, cycling, swimming, strength training and chronic-health/self-tracking questions. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D34 closed the third D31 blocker at taxonomy level. Collective Memory Work (CMW) is confirmed as a distinct feminist-rooted, group- and text-based, participatory/praxis-oriented qualitative methodology family. CMW means a collective working with individual memories, not research on collective/cultural memory. Its canonical architecture is: shared problematic/trigger → participant-researcher group → short self-generated memory-scenes → collective textual scrutiny of language, contradiction, absences, socialisation and power → recursive rewriting/reanalysis → connection to theory and possible expanded capacity for action. Classic Haugian third-person writing is retained as a lineage-specific distancing technique, but current sport/PA methodology explicitly permits first- or third-person memory writing, so grammar is not treated as an absolute validity criterion. Memory is treated as constructed and analytically meaningful rather than as a perfect historical recording. CMW is distinct from narrative inquiry, focus groups, oral history, memory studies, collaborative autoethnography, generic participatory research/PAR and therapy. Direct sport/PA evidence is established, including childhood sport/play, gendered bodily regulation and current PQI-informed CMW work. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D34 — Collective Memory Work**
+**RES-02 / PASS-06D35 — Indigenous/decolonizing research-methodology routing and sport/physical-activity structures**
 
 Scope следующего micro-pass:
 
-1. Haug/feminist lineage;
-2. collective researcher-participant architecture;
-3. written-memory generation;
-4. scene-specific / memory-writing rules;
-5. collective textual scrutiny;
-6. recursive group analysis;
-7. socialization, power and subjectification;
-8. researcher–researched boundary;
-9. process variants;
-10. digital/online CMW;
-11. boundary with narrative inquiry;
-12. boundary with focus groups;
-13. boundary with oral history / memory studies;
-14. boundary with participatory research;
-15. sport / physical-activity application;
-16. claim limits;
-17. unresolved gaps → next blocker pass.
+1. Indigenous methodology vs Indigenous method;
+2. community/nation-specific ontology, epistemology and axiology;
+3. relational accountability;
+4. sovereignty and research governance;
+5. Indigenous data sovereignty / stewardship;
+6. ownership/control/access/possession issues;
+7. Kaupapa Māori methodology architecture;
+8. Māori sport/rugby exemplars;
+9. Aboriginal/Torres Strait Islander research-methodology architecture;
+10. yarning as method/approach within appropriate methodology;
+11. Dadirri / Talking Circles boundary;
+12. no pan-Indigenous universal design;
+13. ethics / community agreements / benefit;
+14. boundary with PAR/CBPR;
+15. boundary with generic cultural adaptation;
+16. sport / physical-activity exemplars;
+17. claim limits;
+18. unresolved gaps → next blocker pass.
 
 ---
 
@@ -184,11 +185,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D33_duoethnography_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D34_collective_memory_work_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D34_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D35_...`
 
 ---
 
