@@ -110,7 +110,10 @@
 75. Завершён **PASS-06D9 — discourse, conversation and language-centered qualitative structures**.
 76. Зафиксирована language/discourse taxonomy: discourse-as-object; CA как distinct interactional methodology; turn-taking/sequence/repair/action formation; naturally occurring vs elicited data; Jeffersonian-style transcription requirements; DP/CDP/FDA/CDA separated; interpretative repertoires/subject positions/ideological dilemmas distinguished from themes; discourse claims separated from private-belief, prevalence and causal-effect claims.
 77. Qualitative branch остаётся **RESEARCHING**.
-78. Следующий микро-проход: **RES-02/PASS-06D10 — longitudinal qualitative study structures across methodologies: prospective vs retrospective qualitative temporality, repeat-interview/panel/cohort structures, trajectory/process/change analysis, attrition and changing samples, serial vs longitudinal distinction, embedded longitudinal qualitative components, claim limits and fitness/exercise applications**.
+78. Завершён **PASS-06D10 — longitudinal qualitative study structures across methodologies**.
+79. Зафиксирована longitudinal qualitative taxonomy: longitudinal question + repeated/time-structured data + explicit change/continuity analysis; repeated interviewing alone insufficient; prospective vs retrospective/quasi-longitudinal structures separated; entities followed can be persons/dyads/groups/settings; recurrent cross-sectional vs trajectory analysis separated; fixed-clock vs event-contingent timing; attrition/missing waves; embedded trial/process-evaluation longitudinal components; temporal ordering does not establish causal effect.
+80. Qualitative branch остаётся **RESEARCHING**.
+81. Следующий микро-проход: **RES-02/PASS-06D11 — qualitative sampling and data-sufficiency cross-family synthesis: purposive strategies, theoretical sampling, criterion/maximum-variation/homogeneous/extreme/critical/snowball/convenience recruitment, case/site/event sampling, sample-size justification, saturation variants, information power, negative cases and methodology-specific adequacy**.
 
 ## Правила Stage 2 после restart
 
