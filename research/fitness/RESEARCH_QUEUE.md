@@ -136,7 +136,10 @@
 101. Завершён **PASS-06D17 — autoethnography study structures**.
 102. Зафиксирована autoethnography taxonomy: researcher-as-participant/data source; constitutive self–culture analytic link; autobiography/memoir/reflexivity/insider ethnography boundaries; evocative vs Anderson-style analytic AE; collaborative and other named variants; memory/contemporaneous-record distinction; relational ethics, implicated others and internal confidentiality; variant-specific quality criteria; reader resonance/theoretical contribution ≠ population generalization or causal inference.
 103. Blocker autoethnography из PASS-06D14 закрыт на taxonomy-level. Qualitative branch остаётся **RESEARCHING**.
-104. Следующий микро-проход: **RES-02/PASS-06D18 — institutional ethnography study structures: standpoint/problematic, work knowledge, text-mediated coordination, ruling relations, local-to-translocal mapping, sampling/data architecture, boundary with conventional/critical ethnography and case study, claim limits and fitness/exercise applications**.
+104. Завершён **PASS-06D18 — institutional ethnography study structures**.
+105. Зафиксирована institutional-ethnography taxonomy: standpoint as epistemic starting point; problematic/disjuncture; broad work/work-knowledge concept; local vs extra-local/translocal coordination; texts/text activation/intertextual hierarchy; ruling relations as distributed administrative/managerial/professional/discursive coordination; iterative tracing of actors/texts/sites; mapping/explication output; IE ≠ ethnography-in-an-institution/critical ethnography/case study/discourse analysis; institutional explanation ≠ causal-effect estimate.
+106. Blocker institutional ethnography из PASS-06D14 закрыт на taxonomy-level. Qualitative branch остаётся **RESEARCHING**.
+107. Следующий микро-проход: **RES-02/PASS-06D19 — Situational Analysis study structures: Clarke's postmodern/constructivist grounded-theory extension, situation as analytic unit, messy/ordered situational maps, social worlds/arenas maps, positional maps, human/nonhuman actants, discourse/materiality, boundary with GT and case study, claim limits and fitness/rehabilitation applications**.
 
 ## Правила Stage 2 после restart
 
