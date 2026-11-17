@@ -44,7 +44,10 @@
 16. Остаются два blocking gaps перед repeat final audit:
    - multiple-outcome / composite / joint-outcome prediction;
    - outcome-dependent sampling specifically for diagnostic probability models.
-17. Следующий микро-проход: **RES-02/PASS-06B19 — multiple-outcome, composite and joint-risk prediction structures: single vs multiple outcome targets, marginal risks, composite endpoints, joint outcome combinations, outcome dependence, competing-vs-co-occurring outcomes, calibration/performance and decision-utility implications**.
+17. Завершён **PASS-06B19 — multiple-outcome, composite and joint-risk prediction structures**.
+18. Остался один blocking gap перед repeat final audit:
+   - outcome-dependent sampling specifically for diagnostic probability models.
+19. Следующий микро-проход: **RES-02/PASS-06B20 — diagnostic outcome-dependent sampling and absolute-probability recovery: one-gate vs two-gate diagnostic sampling, nested/non-nested case-control, class balancing, true prevalence, sampling-fraction weighting/recalibration, discrimination vs calibration, PPV/NPV and representative external validation**.
 
 ## Правила Stage 2 после restart
 
