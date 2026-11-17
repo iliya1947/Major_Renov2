@@ -112,29 +112,30 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - Завершены:
   - `PASS-06B1` — prognosis core taxonomy and longitudinal structure;
   - `PASS-06B2` — longitudinal cohort structures for prognosis;
-  - `PASS-06B3` — routine-care data sources for prognosis.
+  - `PASS-06B3` — routine-care data sources for prognosis;
+  - `PASS-06B4` — outcome-dependent sampling in prognosis.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B3_routine_care_data_sources.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B4_outcome_dependent_sampling.md`
 
-Commit PASS-06B3:
+Commit PASS-06B4:
 
-`3b187249ced9392a7830363be42931ba305670b2`
+`7ce15e91feba1eee2c2e2ef76f699fba85334ca0`
 
 ### Следующая задача
 
-**RES-02 / PASS-06B4 — outcome-dependent sampling in prognosis**
+**RES-02 / PASS-06B5 — prediction-model development study structures**
 
 Scope следующего micro-pass:
 
-1. nested case-control;
-2. case-cohort;
-3. nested class-balanced sampling;
-4. sampling fractions;
-5. recovery of source outcome distribution;
-6. when absolute risk can/cannot be estimated;
-7. non-nested case-control / class-balanced limits;
+1. candidate predictor set;
+2. predictor availability at startpoint;
+3. development dataset architecture;
+4. model fitting vs model specification;
+5. apparent performance;
+6. development vs evaluation boundary;
+7. overfitting/optimism at taxonomy level;
 8. unresolved gaps → следующий micro-pass.
 
 ---
@@ -152,11 +153,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B3_routine_care_data_sources.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B4_outcome_dependent_sampling.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B4_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B5_...`
 
 ---
 
