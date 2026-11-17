@@ -137,35 +137,27 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D29_oral_history_primary_research_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D30_interpretive_interactionism_study_structures.md`
 
-Commit PASS-06D29:
+Commit PASS-06D30:
 
-`cfa2d34326b045fd840eb869f58f5ad235579452`
+`49b54a4c47430dc83fbb1f7413bc3bc61b9890ca`
 
-PASS-06D29 established Oral History as a distinct historical/interpretive methodology rather than a generic retrospective qualitative interview. Current OHA architecture treats scholarly oral history as a research-informed recorded in-depth interview whose recording is preserved, made accessible under agreed conditions, and interpreted; Oral History therefore produces both a current research output and a durable primary source. The core lifecycle is preparation→interviewing→preservation→access. Narrator agency, interviewer–narrator co-creation, memory as evidence/meaning, factual verification/corroboration, narrator review/release, rights/restrictions, metadata/provenance and future reuse are methodology-level concerns. Original recording and transcript are not evidentially identical. Oral History is separated from narrative inquiry, life history, oral tradition, journalism and testimony alone. Sport/physical-culture applications are mature, including archive-silence work and judo coaching/athlete genealogy. Exact copyright/IRB rules remain jurisdiction-specific. The Oral History blocker from PASS-06D24 is closed at taxonomy level. One D24 blocker remains. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D30 established Denzin-derived Interpretive Interactionism as a distinct qualitative methodology linking consequential biographical/interactional experiences to social, institutional and public contexts. The four canonical epiphany types are major, cumulative, minor/illuminative and relived. The full interpretive sequence is stored as framing the question → deconstruction → capture → bracketing → construction → contextualization; applied five-phase accounts usually count framing separately. II uses thick description and thick interpretation and treats researcher subjectivity, intersubjectivity and representation as methodology-level concerns. Epiphany typology alone is not full II. II is separated from symbolic interactionism as theory, phenomenology, narrative inquiry, grounded theory, generic critical inquiry, case study and autoethnography; critical/post-structural II remains a variant/orientation. Direct sport relevance is established through rugby spinal-cord-injury/identity research, while a strong 2024–2026 full-II sport or health exemplar was not verified. All six blockers from PASS-06D24 are now closed at taxonomy level. Qualitative branch remains RESEARCHING pending another repeat final gap audit. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D30 — Interpretive Interactionism study structures**
+**RES-02 / PASS-06D31 — repeat final qualitative-branch gap audit after PASS-06D25…D30**
 
 Scope следующего micro-pass:
 
-1. Denzin lineage;
-2. symbolic-interactionist, phenomenological and hermeneutic roots;
-3. epiphany as analytic object;
-4. interactional/lived experience and biography;
-5. thick description / thick interpretation;
-6. bracketing;
-7. deconstruction;
-8. capture;
-9. construction;
-10. contextualization;
-11. personal trouble ↔ public/institutional structure;
-12. boundary with phenomenology, narrative inquiry, grounded theory and critical inquiry;
-13. quality/claim limits;
-14. health/fitness applications;
-15. unresolved gaps → repeat final qualitative-branch gap audit.
+1. re-audit all qualitative methodology/design families covered in D1–D30;
+2. verify closure of all D24 blockers;
+3. revisit candidate/watch-list methods exposed by D25–D30;
+4. distinguish any remaining parent methodologies from subtypes, analysis methods, data-generation modes and tooling layers;
+5. re-check direct fitness/exercise relevance;
+6. determine whether qualitative structural synthesis is finally authorized;
+7. if not, define exact next blocker pass(es).
 
 ---
 
@@ -182,11 +174,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D29_oral_history_primary_research_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D30_interpretive_interactionism_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D30_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D31_...`
 
 ---
 
