@@ -137,35 +137,39 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E9_mixed_methods_branch_structural_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F1_neighboring_cross_method_design_evaluation_development_families_scope_taxonomy.md`
 
-Commit PASS-06E9:
+Commit PASS-06F1:
 
-`b96e2ba0f9053e243f2051102b5bf44e79396766`
+`8712be31c1d84dfae5d579fd6b38f9f09c64eb08`
 
-PASS-06E9 structurally synthesized the complete E1–E8 mixed-methods branch. Mixed methods is now represented as an integration layer rather than one atomic study design: scientific/empirical parent context → quantitative parent design + qualitative parent methodology → basic mixed-method route → structural/advanced framework → overlays → timing/priority/dependency → sample relationship → integration mechanics → integration granularity/fit/divergence → meta-inference → quality/reporting/provenance. Exactly three basic routes remain: CONVERGENT, EXPLANATORY_SEQUENTIAL and EXPLORATORY_SEQUENTIAL. EMBEDDED/NESTED is structural; MULTISTAGE/MULTIPHASE, CASE_STUDY, INTERVENTION and PARTICIPATORY are advanced frameworks. Transformative/critical, Indigenous, implementation, HEI, systems, HCD/co-design and recursive/full-integration are cross-cutting overlays. Q Methodology, Realist Evaluation, DBR, DSR, Delphi/NGT/consensus and Intervention/Implementation Mapping remain neighboring standalone/framework handoffs. Sampling, connecting/building/merging/embedding, joint displays, transformation, divergence, meta-inference, MMAT/MMIQF/PCORI/JARS/GRAMMS/MMR-RHS and AI provenance are consolidated into a 158-field project extraction router. Known blocking mixed-method design-family gaps = **NONE**. Mixed-methods branch = **SYNTHESIZED FOR RES-02 STRUCTURAL USE**. RES-02 overall remains RESEARCHING.
+PASS-06F1 established the F-branch taxonomy for neighboring cross-method families. Q Methodology, Realist Evaluation, DBR, DSR and TCM are retained as methodology-level routes; HCD/UCD, Intervention Mapping and Implementation Mapping are design/development/implementation frameworks; Delphi, NGT and RAND/UCLA-like routes are structured consensus methods/architectures; systems modelling/system mapping is a heterogeneous method family rather than one atomic design. The scope scan also identified MRC complex-intervention framework, MOST, ORBIT, 6SQuID, Person-Based Approach and BCW/COM-B as additional intervention-development framework routes that must not be flattened into mixed methods or HCD. F-branch remains RESEARCHING and requires dedicated deep passes.
 
 ### Следующая задача
 
-**RES-02 / PASS-06F1 — neighboring cross-method design/evaluation/development families: scope and taxonomy**
+**RES-02 / PASS-06F2 — Q Methodology standalone study structures**
 
 Scope следующего micro-pass:
 
-1. Q Methodology;
-2. Realist Evaluation;
-3. Design-Based Research;
-4. Design Science Research;
-5. Human-Centered / User-Centered Design;
-6. Delphi;
-7. Nominal Group Technique;
-8. structured consensus architectures;
-9. Intervention Mapping;
-10. Implementation Mapping;
-11. systems modelling / system mapping;
-12. Theory Construction Methodology;
-13. distinguish parent methodology vs framework vs method;
-14. identify candidates requiring dedicated deep passes;
-15. STOP after saved PASS.
+1. concourse construction;
+2. Q-set / Q-sample construction and coverage;
+3. P-set / participant sampling logic;
+4. Q-sort administration;
+5. forced vs free distribution;
+6. correlation matrix and by-person factor analysis;
+7. factor extraction and retention;
+8. rotation and defining sorts;
+9. factor arrays / z-scores;
+10. distinguishing and consensus statements;
+11. post-sort qualitative material;
+12. interpretation / viewpoint construction;
+13. longitudinal / pre-post Q variants;
+14. sample-size and generalization boundaries;
+15. prevalence boundary;
+16. author classification vs enacted project classification;
+17. sport/exercise/rehabilitation applications;
+18. quality/reporting/provenance;
+19. STOP after saved PASS.
 
 ---
 
@@ -182,11 +186,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06E9_mixed_methods_branch_structural_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F1_neighboring_cross_method_design_evaluation_development_families_scope_taxonomy.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F1_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F2_...`
 
 ---
 
