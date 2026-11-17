@@ -107,7 +107,10 @@
 72. Завершён **PASS-06D8 — participatory, action-research and co-design primary-study structures**.
 73. Зафиксирована participatory/governance taxonomy: research participant ≠ research partner; participation/involvement/engagement separated; action research = iterative plan–act–observe–reflect cycles; PAR adds participatory/power/transformation commitments; CBPR requires community partnership and shared governance; co-design requires substantive design influence; co-production usually broader shared power/responsibility; participatory architecture sits on top of parent qual/quant/trial/mixed design; co-design does not establish efficacy.
 74. Qualitative branch остаётся **RESEARCHING**.
-75. Следующий микро-проход: **RES-02/PASS-06D9 — discourse, conversation and language-centered qualitative structures: discourse-as-object vs reports of experience, discourse analysis families, conversation analysis, interactional sequence/turn-taking, critical discourse approaches, data-source requirements, claim limits and fitness/exercise applications**.
+75. Завершён **PASS-06D9 — discourse, conversation and language-centered qualitative structures**.
+76. Зафиксирована language/discourse taxonomy: discourse-as-object; CA как distinct interactional methodology; turn-taking/sequence/repair/action formation; naturally occurring vs elicited data; Jeffersonian-style transcription requirements; DP/CDP/FDA/CDA separated; interpretative repertoires/subject positions/ideological dilemmas distinguished from themes; discourse claims separated from private-belief, prevalence and causal-effect claims.
+77. Qualitative branch остаётся **RESEARCHING**.
+78. Следующий микро-проход: **RES-02/PASS-06D10 — longitudinal qualitative study structures across methodologies: prospective vs retrospective qualitative temporality, repeat-interview/panel/cohort structures, trajectory/process/change analysis, attrition and changing samples, serial vs longitudinal distinction, embedded longitudinal qualitative components, claim limits and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
