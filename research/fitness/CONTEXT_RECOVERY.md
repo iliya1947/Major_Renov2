@@ -137,41 +137,43 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F3_Realist_Evaluation_standalone_evaluation_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F4_Design_Based_Research_study_structures.md`
 
-Commit PASS-06F3:
+Commit PASS-06F4:
 
-`6232d795d266544db56321014398dee7a855f917`
+`249888e84738e27c9aa36545ab326a185825bdd2`
 
-PASS-06F3 established Realist Evaluation as a standalone theory-driven evaluation methodology. Canonical architecture = realist explanatory question → Initial Programme Theory → theory-driven sampling/data collection → context–mechanism–outcome configurations → deductive/inductive/abductive/retroductive analysis → negative-case and cross-case testing → refined programme theory. Realist mechanism is kept distinct from intervention components, statistical mediators and biological mechanisms; resource + reasoning/response is retained as a useful operational decomposition without being universalized. FULL_REALIST_EVALUATION is separated from REALIST_INFORMED work; realist review/synthesis remains evidence-synthesis methodology; process evaluation is a purpose layer that can use realist methodology. Quantitative/RCT evidence retains its parent inferential identity. RAMESES II reporting and quality standards are retained as reporting/quality layers. Realist Evaluation taxonomy = ESTABLISHED FOR RES-02 STRUCTURAL USE; F-branch remains RESEARCHING.
+PASS-06F4 established DBR/EDR as a parent design-research architecture/genre rather than one atomic empirical design. Core architecture = authentic practical problem → theory/evidence-informed design → iterative analysis/exploration, design/construction and evaluation/reflection cycles → evidence-triggered redesign → dual outputs of a maturing intervention and theoretical/design knowledge. Conjecture mapping is retained as a useful optional traceability technique linking design features → mediating processes → outcomes. DBR/EDR is separated from Action Research, HCD/co-design, DSR, ordinary pilot development, generic evaluation, mixed methods and RCT/effectiveness designs; embedded empirical designs retain their own inferential rules. Important terminology correction: classical DBR literature often calls DBR a methodology/paradigm, while McKenney/Reeves explicitly call EDR a research genre and not a methodology; project routing preserves author terminology and uses DBR_EDR_PARENT_ARCHITECTURE. DBR/EDR taxonomy = ESTABLISHED FOR RES-02 STRUCTURAL USE; F-branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06F4 — Design-Based Research (DBR) study structures**
+**RES-02 / PASS-06F5 — Design Science Research (DSR) study structures**
 
 Scope следующего micro-pass:
 
-1. DBR lineage and scientific purpose;
-2. authentic/naturalistic context;
-3. problem/practice grounding;
-4. theory-informed design;
-5. design intervention / designed artifact;
-6. iterative cycles;
-7. collaboration/stakeholder roles;
-8. analysis–design–implementation–redesign loop;
-9. formative vs summative evaluation;
-10. design principles / design knowledge;
-11. local utility vs theoretical contribution;
-12. DBR vs educational design research;
-13. DBR vs action research;
-14. DBR vs HCD/co-design;
-15. DBR vs DSR;
-16. DBR vs ordinary pilot/iterative intervention development;
-17. embedded qualitative/quantitative/mixed designs;
-18. causal-effect claim limits;
-19. sport/exercise/rehabilitation relevance;
-20. quality/reporting/provenance;
-21. STOP after saved PASS.
+1. DSR lineage;
+2. artifact ontology;
+3. constructs/models/methods/instantiations;
+4. problem relevance;
+5. design-science knowledge contribution;
+6. Hevner rigor/relevance/design cycles;
+7. Peffers DSRM;
+8. problem identification;
+9. objectives;
+10. design/development;
+11. demonstration;
+12. evaluation;
+13. communication;
+14. artifact evaluation strategies;
+15. ex ante vs ex post evaluation;
+16. utility/quality/efficacy boundaries;
+17. DSR vs ordinary engineering/software development;
+18. DSR vs DBR;
+19. DSR vs HCD;
+20. embedded empirical designs;
+21. health/exercise/digital rehabilitation relevance;
+22. quality/reporting/provenance;
+23. STOP after saved PASS.
 
 ---
 
@@ -188,11 +190,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F3_Realist_Evaluation_standalone_evaluation_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F4_Design_Based_Research_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F4_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F5_...`
 
 ---
 
