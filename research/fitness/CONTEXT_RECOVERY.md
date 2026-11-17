@@ -137,43 +137,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D40_video_reflexive_ethnography_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D41_portraiture_study_structures.md`
 
-Commit PASS-06D40:
+Commit PASS-06D41:
 
-`faedb4538299318750f285ea287548bea325c1c2`
+`bf1327352b4cf3ffdebd246315708c09542b79e7`
 
-PASS-06D40 closed the first D39 blocker at taxonomy level. Video-Reflexive Ethnography is confirmed as an independent qualitative/practice-improvement methodology rather than generic ethnography with video. Canonical architecture: ethnographic familiarisation/contextualisation → situated practice video → ethically governed clip selection/editing → participant/practitioner reflexive playback → collaborative interpretation → exnovation + collaboration + reflexivity + care → possible liminalisation/potentiation → local practice re-imagination/improvement. Clip selection is treated as a methodological/power node; reflexive sessions generate new empirical/interpretive material rather than only member-checking. Ongoing consent, clip-level approval, hierarchy-sensitive facilitation, identifiability and raw-footage governance are core fields. VRE is separated from video ethnography, video elicitation/stimulated recall, reflective practice, Participatory Video and generic QI. Direct physiotherapy relevance is verified through focused VRE with final-year pre-registration physiotherapy students. Local improvement/potentiation claims remain distinct from causal clinical-outcome claims. One D39 blocker remains: Portraiture. Qualitative branch remains RESEARCHING; structural synthesis remains NOT AUTHORIZED.
+PASS-06D41 closed the second and final D39 blocker at taxonomy level. Portraiture is confirmed as an independent qualitative methodology developed by Sara Lawrence-Lightfoot, with canonical architecture: systematic empirical engagement + search for goodness/strength without romanticization + context + participant/researcher voice relation + relationship as knowledge-producing + emergent-theme synthesis + aesthetic whole + explicit portraitist positionality + authenticity/resonance + critical-generous interpretation. Five core elements are context, voice, relationship, emergent themes and aesthetic whole. Repetitive refrains, resonant metaphors, cultural/institutional rituals, triangulation and revealing/dissonant patterns are retained as established analytic modes rather than a rigid algorithm. Full Portraiture is separated from portrait/CNF representational layers and hybrid uses. Direct sport relevance is verified through the 2026 Finnish sport Narrative Inquiry + CNF portraiture paper; the 2017 climber study verifies phenomenological portraiture. Broad current peer-reviewed coaching-specific full-Portraiture corpus remains insufficiently verified. Both D39 blockers are now closed, but qualitative structural synthesis remains NOT AUTHORIZED pending a new repeat final gap audit.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D41 — Portraiture study structures**
+**RES-02 / PASS-06D42 — repeat final qualitative branch gap audit after D40–D41**
 
 Scope следующего micro-pass:
 
-1. Lawrence-Lightfoot lineage;
-2. art/science integration;
-3. search for goodness/strength/complexity;
-4. context;
-5. voice;
-6. relationship;
-7. emergent themes;
-8. aesthetic whole;
-9. researcher as portraitist/instrument;
-10. empirical source architecture;
-11. portrait construction;
-12. authenticity/credibility;
-13. ethics;
-14. composite/creative-nonfiction boundary;
-15. boundary with narrative inquiry;
-16. boundary with phenomenology;
-17. boundary with ethnography;
-18. boundary with case study;
-19. boundary with a/r/tography;
-20. generic arts-based representation boundary;
-21. sport/outdoor/coaching applications;
-22. claim limits;
-23. handoff to repeat final qualitative gap audit.
+1. reopen D39–D41;
+2. recheck all previously discovered blocker families;
+3. fresh broad external scan of current sport/exercise/health qualitative methodology;
+4. retest visual/digital/arts/practice-based candidates;
+5. retest current Indigenous named methodologies;
+6. retest critical/posthuman/hybrid routes;
+7. test VRE/PV/ethnography boundaries;
+8. test Portraiture/narrative/arts boundaries;
+9. identify any remaining methodology-level blocker;
+10. either create next blocker queue or authorize qualitative structural synthesis;
+11. STOP after saved audit.
 
 ---
 
@@ -190,11 +178,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D40_video_reflexive_ethnography_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D41_portraiture_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D41_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D42_...`
 
 ---
 
