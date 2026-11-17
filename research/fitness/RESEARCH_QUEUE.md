@@ -122,7 +122,12 @@
 87. Завершён **PASS-06D13 — qualitative components nested within trials, cohorts, intervention-development and process-evaluation structures**.
 88. Зафиксирована nested/embedded qualitative architecture: parent design ≠ qualitative methodology; qualitative components do not inherit randomization; before/during/after trial functions separated; feasibility dynamic refinement distinguished from definitive-trial contamination risk; trial-conduct research separated from intervention process evaluation; process evaluation = implementation/mechanisms/context purpose layer; arm/outcome/trajectory/site/provider sampling rules; perceived mechanism ≠ causal mediation; nested qualitative ≠ automatically mixed methods; integration requires intentional design/analysis/interpretation linkage such as joint displays, triangulation protocols or following-a-thread.
 89. Qualitative branch остаётся **RESEARCHING**.
-90. Следующий микро-проход: **RES-02/PASS-06D14 — qualitative-branch comprehensive gap audit after PASS-06D1…D13: audit missing methodology/design families, distinguish blockers from analysis methods/subtypes/cross-cutting metadata, identify any required additional granular passes, and determine whether qualitative structural synthesis is authorized**.
+90. Завершён **PASS-06D14 — qualitative-branch comprehensive gap audit after PASS-06D1…D13**.
+91. Audit result: **QUALITATIVE STRUCTURAL SYNTHESIS NOT AUTHORIZED**. Найдены 9 methodology-level blockers: phenomenography; standalone hermeneutic inquiry; autoethnography; institutional ethnography; Situational Analysis; Dimensional Analysis; Critical Incident Technique; Photovoice/participatory visual methodology; ethnomethodology beyond Conversation Analysis.
+92. Framework Method, rapid qualitative approaches, netnography/digital ethnography, sensory/critical/multi-sited ethnography, broad arts-based methods, photo-elicitation, story completion, secondary qualitative analysis, AI-assisted analysis and reporting standards классифицированы как analysis/subtype/cross-cutting/data-provenance/tooling/reporting layers, а не current parent-design blockers.
+93. Realist evaluation, Design-Based Research и Human-Centered Design переданы в later overall RES-02 gap audit как cross-method evaluation/development architectures.
+94. Qualitative branch остаётся **RESEARCHING**.
+95. Следующий микро-проход: **RES-02/PASS-06D15 — phenomenography study structures: second-order perspective, variation in ways of experiencing/understanding, categories of description, outcome space, sampling for variation, phenomenography vs phenomenology, claim limits and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
