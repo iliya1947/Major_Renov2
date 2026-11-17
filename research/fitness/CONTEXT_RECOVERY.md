@@ -137,30 +137,32 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B24_prediction_branch_structural_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C1_mechanistic_explanatory_scope_taxonomy.md`
 
-Commit PASS-06B24:
+Commit PASS-06C1:
 
-`23b6ca54980c368eadd93c63b568728cf1cf4a26`
+`9e1a6fd29e1c5d4a333eb6103f44f2f33d1c11a0`
 
-Prediction/prognosis branch теперь SYNTHESIZED для структурного использования внутри RES-02. RES-02 в целом остаётся RESEARCHING.
+Mechanistic/explanatory scope taxonomy established. Mechanistic branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06C1 — mechanistic/explanatory study structures: scope and taxonomy**
+**RES-02 / PASS-06C2 — human experimental mechanistic perturbation studies**
 
 Scope следующего micro-pass:
 
-1. define mechanistic/explanatory scientific questions;
-2. distinguish mechanism from intervention effectiveness;
-3. distinguish mechanism from etiologic association/risk-factor questions;
-4. distinguish mediation from generic mechanism language;
-5. classify controlled physiology/lab experiments at taxonomy level;
-6. identify human vs translational/mechanistic evidence boundaries;
-7. distinguish descriptive biomarker/physiology studies from mechanistic inference;
-8. identify design families that need dedicated deeper passes;
-9. preserve causal-identification boundary;
-10. define next mechanistic micro-pass.
+1. current NIH BESH vs mechanistic-clinical-trial distinction;
+2. intervention/manipulation as experimental probe;
+3. target engagement;
+4. parallel/crossover/within-person/factorial mechanistic structures;
+5. randomized vs nonrandomized perturbation;
+6. dose/challenge perturbation logic;
+7. blockade / inhibition / rescue logic;
+8. necessity vs sufficiency claims;
+9. acute human physiology examples;
+10. measurement and timing requirements;
+11. what each perturbation structure can/cannot establish;
+12. unresolved gaps → next mechanistic micro-pass.
 
 ---
 
@@ -177,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B24_prediction_branch_structural_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C1_mechanistic_explanatory_scope_taxonomy.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C1_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C2_...`
 
 ---
 
