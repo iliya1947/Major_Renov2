@@ -35,7 +35,12 @@
    - PASS-06B14 — diagnostic prediction models vs DTA;
    - PASS-06B15 — complex event outcome prediction;
    - PASS-06B16 — post-deployment lifecycle and continual updating.
-13. Следующий микро-проход: **RES-02/PASS-06B17 — final prediction-branch gap audit after B14–B16: recheck PASS-06A + PASS-06B1…B16 for unresolved design-family gaps, contradictions, unsupported overreach, source-version changes and fitness-specific omissions; decide whether synthesis is now permitted or additional micro-passes are required**.
+13. Завершён **PASS-06B17 — final prediction-branch gap audit after B14–B16**.
+14. Audit выявил три новых blocking gaps перед synthesis:
+   - multicategory / ordinal prediction outcomes;
+   - multiple-outcome / composite / joint-outcome prediction;
+   - outcome-dependent sampling specifically for diagnostic probability models.
+15. Следующий микро-проход: **RES-02/PASS-06B18 — multicategory and ordinal prediction-model structures: nominal vs ordinal targets, coherent category probabilities, multinomial/ordinal model families at taxonomy level, category-specific calibration/discrimination, internal/external validation, updating, and boundaries with binary, multistate and multiple-outcome prediction**.
 
 ## Правила Stage 2 после restart
 
