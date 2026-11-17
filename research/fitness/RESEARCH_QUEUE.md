@@ -59,7 +59,9 @@
 24. Blocking gap из PASS-06B21 закрыт на taxonomy-level.
 25. Завершён **PASS-06B23 — final prediction-branch closure/gap audit after PASS-06B22**.
 26. Audit не выявил новых blocking prediction-design gaps; **prediction-branch structural synthesis разрешён**, но ещё не выполнен.
-27. Следующий микро-проход: **RES-02/PASS-06B24 — prediction-branch structural synthesis: compress PASS-06B1…B23 into one canonical nonredundant taxonomy / decision matrix covering purpose, target time, outcome architecture, data source/sampling, development-evaluation lifecycle, performance, treatment/causal boundary, dynamic/lifecycle structure, diagnostic/DTA/measurement boundaries, and fitness-specific examples; preserve limitations and deferred topics**.
+27. Завершён **PASS-06B24 — prediction-branch structural synthesis**.
+28. Prediction/prognosis branch теперь **SYNTHESIZED for RES-02 structural use**; новых blocking design-family gaps после PASS-06B23 не было. `RES-02` в целом остаётся RESEARCHING.
+29. Следующий микро-проход: **RES-02/PASS-06C1 — mechanistic/explanatory study structures: define scope and taxonomy; distinguish mechanism questions from intervention effectiveness, etiologic association, mediation, physiology experiments and purely descriptive studies; identify the minimum design families requiring deeper passes**.
 
 ## Правила Stage 2 после restart
 
