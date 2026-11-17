@@ -81,7 +81,9 @@
 46. Blocking SMART/MRT/HED gap из PASS-06C8 закрыт на taxonomy-level; detailed optimization/statistical methods остаются deferred.
 47. Завершён **PASS-06C10 — final mechanistic-branch closure/gap audit after PASS-06C9**.
 48. Final audit не выявил remaining blocking mechanistic design-family gaps; **mechanistic structural synthesis разрешён**, но ещё не выполнен. Отдельно отмечен interference/spillover randomized-design crosswalk как кандидат для later RES-02 overall randomized/causal audit, не blocker C-branch.
-49. Следующий микро-проход: **RES-02/PASS-06C11 — mechanistic-branch structural synthesis: compress PASS-06C1…C10 into a canonical nonredundant matrix covering scientific purpose, model system, experimental/observational structure, perturbation logic, target engagement, mediation/pathway evidence, single-case/sequential-randomization structures, biomarker/omics evidence, nonhuman translation, necessity/sufficiency wording, mechanism-vs-effect boundaries, fitness examples, and deferred ownership**.
+49. Завершён **PASS-06C11 — mechanistic-branch structural synthesis**.
+50. Mechanistic branch теперь **SYNTHESIZED FOR RES-02 STRUCTURAL USE**; remaining blocking mechanistic design-family gaps отсутствуют. `RES-02` в целом остаётся RESEARCHING. Interference/spillover randomized designs сохранены как handoff для later overall RES-02 randomized/causal audit.
+51. Следующий микро-проход: **RES-02/PASS-06D1 — qualitative primary-study structures: scope and taxonomy; distinguish qualitative scientific purpose from data-collection method alone; map major qualitative design families, interviews/focus groups/observation as methods rather than designs, sampling/information-power/saturation concepts at taxonomy level, reflexivity/context, and boundaries with mixed methods, content-validity research and implementation/process studies**.
 
 ## Правила Stage 2 после restart
 
