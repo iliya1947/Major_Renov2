@@ -137,37 +137,40 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D36_participatory_video_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D37_artography_specific_arts_based_inquiry_structures.md`
 
-Commit PASS-06D36:
+Commit PASS-06D37:
 
-`f3c543d5a9e2bbc5489b482b90224b0a0ec46798`
+`17904120461af3d4f3f124e12247b0e35e5a278d`
 
-PASS-06D36 closed the fifth D31 blocker at taxonomy level. Participatory Video is confirmed as a distinct participatory-visual methodology/process family whose defining object is not the finished video but the enacted participatory process. Current extended architecture is routed through group formation/building → group-level reflection → peer videoing/sense-making → community-level video dialogue/mobilisation → external engagement. Recording↔playback cycles, participant media capability, meaningful topic/message authority, editorial/final-cut decision rights, community screening and staged consent/ownership governance are core fields. The pass explicitly separates internal reflective footage from public dissemination, participant/co-researcher roles from filmed contributors/third parties, and legal ownership from practical/ethical control. Current 2026 evidence also confirms that film roles can create new intra-group power and exclusion even in strongly participatory projects. PV is distinct from Photovoice, documentary filmmaking, digital storytelling, generic video elicitation and videography, while it can be nested within PAR/CBPR/evaluation. Direct PA relevance is verified through NU-BIG: women in difficult life situations co-created a long-duration video to evaluate perceived long-term effects of a physical-activity programme, with initial insecurity/support needs followed by media-literacy, confidence and critical-awareness gains. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D37 closed the sixth D31 blocker at taxonomy level. A/r/tography is confirmed as a distinct arts-based/practice-based methodology family rather than a generic artistic representation layer. Canonical architecture: artist/researcher/teacher-pedagogue practices → living inquiry → relationality → art-making as knowledge production → art↔text/multimodal relation → embodied/material inquiry → renderings (contiguity, living inquiry, openings, metaphor/metonymy, reverberations, excess) as conceptual practices → emergent/rhizomatic becoming → audience/reader/viewer co-meaning possibilities. Renderings are not standardized methods or a six-item quality checklist. Formal artist/teacher credentials are not treated as mandatory; enacted roles/practices matter. Broad arts-based research remains a heterogeneous non-atomic umbrella. A/r/tography remains distinct from autoethnography, S-STEP, performance ethnography and broad research-creation; PQI/posthuman orientations may overlap but are not constitutive. Direct sport evidence is verified through the 2017 “slim to win” swimmer pilot and the current 2026 World Leisure Journal youth-sport future-imagining study; RAIT supports non-Arts participants. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D37 — A/r/tography / specific arts-based inquiry structures**
+**RES-02 / PASS-06D38 — Post-Qualitative Inquiry / posthuman-new-materialist inquiry routing**
 
 Scope следующего micro-pass:
 
-1. artist/researcher/teacher identity architecture;
-2. living inquiry;
-3. art-making as knowledge production;
-4. renderings;
-5. rhizomatic/relational ontology;
-6. embodied/material inquiry;
-7. data/method boundary;
-8. representation and audience co-meaning-making;
-9. ethics;
-10. boundary with broad arts-based research;
-11. boundary with arts-informed research;
-12. boundary with performance ethnography;
-13. boundary with autoethnography;
-14. boundary with research-creation;
-15. direct sport/exercise/leisure applications;
-16. claim limits;
-17. unresolved gaps → next blocker pass.
+1. post-qualitative lineage;
+2. critique of conventional qualitative methodology;
+3. ontology/epistemology vs atomic-design classification;
+4. decentered human subject;
+5. human/nonhuman/material assemblages;
+6. theory↔method↔data entanglement;
+7. thinking with theory / concepts;
+8. diffraction;
+9. new materialism / posthumanism;
+10. affective inquiry;
+11. un-methods;
+12. data/analysis/representation boundary;
+13. ethics;
+14. boundary with conventional qualitative methods;
+15. boundary with Situational Analysis;
+16. boundary with discourse analysis;
+17. boundary with a/r/tography;
+18. direct sport/health/physical-activity applications;
+19. claim limits;
+20. final blocker closure → repeat qualitative gap audit.
 
 ---
 
@@ -184,11 +187,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D36_participatory_video_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D37_artography_specific_arts_based_inquiry_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D37_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D38_...`
 
 ---
 
