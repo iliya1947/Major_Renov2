@@ -137,40 +137,30 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D37_artography_specific_arts_based_inquiry_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D38_post_qualitative_posthuman_new_materialist_routing.md`
 
-Commit PASS-06D37:
+Commit PASS-06D38:
 
-`17904120461af3d4f3f124e12247b0e35e5a278d`
+`26d473f51cde9232a9629af35e87496265683783`
 
-PASS-06D37 closed the sixth D31 blocker at taxonomy level. A/r/tography is confirmed as a distinct arts-based/practice-based methodology family rather than a generic artistic representation layer. Canonical architecture: artist/researcher/teacher-pedagogue practices → living inquiry → relationality → art-making as knowledge production → art↔text/multimodal relation → embodied/material inquiry → renderings (contiguity, living inquiry, openings, metaphor/metonymy, reverberations, excess) as conceptual practices → emergent/rhizomatic becoming → audience/reader/viewer co-meaning possibilities. Renderings are not standardized methods or a six-item quality checklist. Formal artist/teacher credentials are not treated as mandatory; enacted roles/practices matter. Broad arts-based research remains a heterogeneous non-atomic umbrella. A/r/tography remains distinct from autoethnography, S-STEP, performance ethnography and broad research-creation; PQI/posthuman orientations may overlap but are not constitutive. Direct sport evidence is verified through the 2017 “slim to win” swimmer pilot and the current 2026 World Leisure Journal youth-sport future-imagining study; RAIT supports non-Arts participants. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D38 closed the final D31 blocker at routing/taxonomy level. Post-Qualitative Inquiry / posthuman-new-materialist inquiry is not represented as one atomic qualitative design. The project now uses three routes: STRICT_PQI; PQI_INFORMED_HYBRID; POSTHUMAN_NEW_MATERIALIST_ORIENTATION. Strict St. Pierre PQI explicitly refuses pre-existing humanist social-science methodology and begins from poststructural/posthuman onto-epistemology; broader current sport/health/psychology literature also contains postqualitative-informed hybrids that retain named methodologies. Human/nonhuman/material/discursive relations, concept-first inquiry, data/analysis/representation reconfiguration and response-ability are core routing fields. Diffraction, assemblage thinking, affective inquiry, thinking-with-theory and “un-methods” are stored as analytic/conceptual practices rather than parent designs. Situational Analysis, discourse analysis, a/r/tography and CMW remain distinct and may carry a postqualitative/posthuman orientation. Direct PA evidence is verified through Beggan 2023 intergenerational app/diffractive inquiry and Beggan 2024 behaviour-to-birdsong/refrain work. The current 2025 sport/health/PE volume verifies an active plural field. All seven D31 blockers are now closed, but qualitative structural synthesis remains NOT AUTHORIZED pending a new repeat gap audit. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D38 — Post-Qualitative Inquiry / posthuman-new-materialist inquiry routing**
+**RES-02 / PASS-06D39 — repeat final qualitative branch gap audit after D32–D38**
 
 Scope следующего micro-pass:
 
-1. post-qualitative lineage;
-2. critique of conventional qualitative methodology;
-3. ontology/epistemology vs atomic-design classification;
-4. decentered human subject;
-5. human/nonhuman/material assemblages;
-6. theory↔method↔data entanglement;
-7. thinking with theory / concepts;
-8. diffraction;
-9. new materialism / posthumanism;
-10. affective inquiry;
-11. un-methods;
-12. data/analysis/representation boundary;
-13. ethics;
-14. boundary with conventional qualitative methods;
-15. boundary with Situational Analysis;
-16. boundary with discourse analysis;
-17. boundary with a/r/tography;
-18. direct sport/health/physical-activity applications;
-19. claim limits;
-20. final blocker closure → repeat qualitative gap audit.
+1. reopen D31;
+2. reopen D32–D38;
+3. repeat broad external methodology scan;
+4. test whether any independent methodology-level blockers remain;
+5. re-test previous non-blockers and handoffs;
+6. re-test sport/exercise/health direct relevance;
+7. inspect hybrid/cross-cutting routing for contradictions;
+8. verify whether all qualitative parent families/routing layers are representable without information loss;
+9. either identify new blocker(s) or authorize qualitative structural synthesis;
+10. STOP after saved audit.
 
 ---
 
@@ -187,11 +177,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D37_artography_specific_arts_based_inquiry_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D38_post_qualitative_posthuman_new_materialist_routing.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D38_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D39_...`
 
 ---
 
