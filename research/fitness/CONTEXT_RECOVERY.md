@@ -137,32 +137,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D7_narrative_inquiry_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D8_participatory_action_codesign_structures.md`
 
-Commit PASS-06D7:
+Commit PASS-06D8:
 
-`066853bc4d407d64ba14ab66c0ef19b90b9cfcfc`
+`2445fc9c2c059ff1f867caec658d37b281ba3e80`
 
-PASS-06D7 established narrative inquiry as a methodology family centered on story, temporality, identity and meaning. Narrative interview/data containing stories are explicitly separated from narrative methodology. The taxonomy now records Clandinin/Connelly temporality-sociality-place, thematic/structural/dialogic-performance analysis, plot/turning points, individual/collective/master narratives, tellability, researcher co-construction and longitudinal change in story. Narrative causality is separated from causal identification, and coherent narrative from factual verification. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D8 established participatory research as a governance/knowledge-production architecture layered on top of a parent design. Research participant is explicitly separated from research partner; participation/involvement/engagement are distinct. Action research, PAR, CBPR, co-design and co-production now have separate routing rules based on iterative action, community partnership, decision rights, power, ownership and actual influence. Co-designed intervention development is explicitly separated from evidence of intervention efficacy. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D8 — participatory, action-research and co-design primary-study structures**
+**RES-02 / PASS-06D9 — discourse, conversation and language-centered qualitative structures**
 
 Scope следующего micro-pass:
 
-1. participation as governance/knowledge-production vs merely being a participant;
-2. action research cycles;
-3. participatory action research (PAR);
-4. community-based participatory research (CBPR);
-5. co-design / experience-based co-design;
-6. co-production boundary;
-7. researcher-participant roles and power;
-8. ownership/authorship/decision rights;
-9. embedded evaluation and parent intervention/program design;
-10. what participatory evidence can and cannot establish;
-11. fitness/exercise applications;
-12. unresolved gaps → next qualitative micro-pass.
+1. discourse/language as the scientific object rather than a transparent report of experience;
+2. major discourse-analysis families at taxonomy level;
+3. conversation analysis;
+4. naturally occurring interaction vs elicited interview data;
+5. turn-taking, sequence organization and repair;
+6. critical discourse / power-ideology approaches;
+7. discursive psychology boundary;
+8. transcription/data-detail requirements;
+9. what language-centered evidence can and cannot establish;
+10. fitness/exercise applications;
+11. unresolved gaps → next qualitative micro-pass.
 
 ---
 
@@ -179,11 +178,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D7_narrative_inquiry_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D8_participatory_action_codesign_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D8_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D9_...`
 
 ---
 
