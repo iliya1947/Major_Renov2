@@ -125,32 +125,44 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B13` — prediction-branch integration audit;
   - `PASS-06B14` — diagnostic prediction models vs diagnostic test accuracy;
   - `PASS-06B15` — competing risks / recurrent events / multistate prediction;
-  - `PASS-06B16` — post-deployment lifecycle and continual updating.
+  - `PASS-06B16` — post-deployment lifecycle and continual updating;
+  - `PASS-06B17` — final prediction-branch gap audit after B14–B16.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B16_post_deployment_continual_updating.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B17_final_prediction_branch_gap_audit.md`
 
-Commit PASS-06B16:
+Commit PASS-06B17:
 
-`5f314884808ca8ac3871be9758ab9b59cc8db0f7`
+`eb6dcd17ccbf3101f9225de212e92ecab4aee99f`
 
-Все три blocking gaps из PASS-06B13 теперь закрыты отдельными taxonomy-level passes. Synthesis пока не разрешён: нужен новый final gap audit.
+Audit correction commits:
+
+- `20ab7a841b2b17c74c375c3e931ac1cae00a8696` — PROBAST+AI wording in PASS-06B5;
+- `058eb8b9404ca17d6b4a79fa0e382d49cba52ed6` — same clarification in PASS-06B13.
+
+PASS-06B17 выявил три новых blocking gaps перед synthesis:
+
+1. multicategory / ordinal prediction outcomes;
+2. multiple-outcome / composite / joint-outcome prediction;
+3. outcome-dependent sampling specifically for diagnostic probability models.
 
 ### Следующая задача
 
-**RES-02 / PASS-06B17 — final prediction-branch gap audit after B14–B16**
+**RES-02 / PASS-06B18 — multicategory and ordinal prediction-model structures**
 
 Scope следующего micro-pass:
 
-1. recheck PASS-06A + PASS-06B1…B16;
-2. search for unresolved study-design/prediction-family gaps;
-3. check contradictions across diagnostic/prognostic/dynamic/counterfactual/complex-event/lifecycle branches;
-4. verify current source/tool versions;
-5. identify unsupported overreach;
-6. check fitness/exercise-specific omissions;
-7. decide whether prediction-branch synthesis is permitted;
-8. if not, define only the next required micro-pass.
+1. nominal vs ordinal multicategory targets;
+2. coherent category-probability vectors;
+3. multinomial vs ordinal model families at taxonomy level;
+4. why separate dichotomized binary models can be incoherent;
+5. category-specific calibration;
+6. multicategory discrimination and overall performance;
+7. internal/external validation and updating;
+8. diagnostic/prognostic timing;
+9. boundaries with binary, multistate and multiple-outcome prediction;
+10. unresolved gaps → next micro-pass.
 
 ---
 
@@ -167,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B16_post_deployment_continual_updating.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B17_final_prediction_branch_gap_audit.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B17_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B18_...`
 
 ---
 
