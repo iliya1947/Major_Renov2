@@ -55,7 +55,9 @@
 21. Завершён **PASS-06B21 — repeat final prediction-branch gap audit after PASS-06B18…B20**.
 22. Repeat audit выявил один новый blocking gap перед synthesis:
    - current continuous-value diagnostic prediction / estimation equations and their boundary with measurement-property / criterion-validity studies.
-23. Следующий микро-проход: **RES-02/PASS-06B22 — current continuous-value prediction and estimation equations: cross-sectional diagnostic/current-outcome prediction, boundary with future continuous prognosis, prediction-equation development/validation, criterion/reference measurement, calibration/error/agreement, and boundary with measurement-property/criterion-validity studies using VO₂max/body-composition/1RM-style examples**.
+23. Завершён **PASS-06B22 — current continuous-value prediction and estimation equations**.
+24. Blocking gap из PASS-06B21 закрыт на taxonomy-level.
+25. Следующий микро-проход: **RES-02/PASS-06B23 — final prediction-branch closure/gap audit after PASS-06B22: verify that current binary/multicategory/continuous diagnostic prediction, future prognosis, complex-event outcomes, multiple outcomes, sampling, dynamic prediction, model lifecycle and measurement-boundary crosswalk are all represented without remaining blocking design-family gaps; decide whether prediction-branch synthesis is finally permitted**.
 
 ## Правила Stage 2 после restart
 
