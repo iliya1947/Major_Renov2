@@ -137,31 +137,32 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D3_grounded_theory_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D4_ethnography_focused_ethnography_structures.md`
 
-Commit PASS-06D3:
+Commit PASS-06D4:
 
-`6e524f76a0325e30c9d6e1521721099ed1c9687b`
+`f6acfbcbce1679ebb4af30ef62dbbcdd05b34531`
 
-PASS-06D3 established grounded theory as a theory/process-generating methodology family. The shared core now explicitly includes constant comparison, memoing, theoretical sampling, category refinement and theoretical integration, while Glaserian, Straussian and constructivist/Charmaz variants remain distinct. Open–axial–selective coding is classified as Straussian rather than universal. Full grounded-theory designs are separated from qualitative studies that merely borrow GT-informed coding. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D4 established ethnography as a methodology for shared practices, meanings and social organization in context. Observation remains a method rather than the design itself; participant observation is historically central but not treated as universally mandatory after current ethnographic-interview methodology review. Focused ethnography is not classified by short duration alone; the conventional/focused split is handled as a difference in scope, epistemic expectations and fieldwork organization rather than a rigid time threshold. Emic/etic interpretation, site/event/time sampling, thick description, reflexivity and transferability boundaries are explicit. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D4 — ethnography and focused-ethnography study structures**
+**RES-02 / PASS-06D5 — case-study primary research structures**
 
 Scope следующего micro-pass:
 
-1. ethnography scientific target: culture/shared practice in context;
-2. classic ethnography vs focused ethnography;
-3. field immersion and duration;
-4. participant vs non-participant observation;
-5. interviews/documents/field notes as complementary sources;
-6. emic vs etic interpretation;
-7. sampling and site/case selection;
-8. researcher role/reflexivity;
-9. what ethnographic evidence can and cannot establish;
-10. fitness/exercise applications;
-11. unresolved gaps → next qualitative micro-pass.
+1. bounded-case logic;
+2. single-case vs multiple-case designs;
+3. embedded vs holistic case structures;
+4. qualitative vs quantitative vs mixed case study;
+5. case/site selection logic;
+6. within-case and cross-case analysis;
+7. analytic/theoretical generalization vs statistical generalization;
+8. boundary with clinical case report;
+9. boundary with ethnography;
+10. boundary with process evaluation / implementation studies;
+11. fitness/exercise applications;
+12. unresolved gaps → next qualitative micro-pass.
 
 ---
 
@@ -178,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D3_grounded_theory_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D4_ethnography_focused_ethnography_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D4_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D5_...`
 
 ---
 
