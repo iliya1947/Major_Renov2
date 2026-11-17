@@ -137,43 +137,42 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F4_Design_Based_Research_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F5_Design_Science_Research_study_structures.md`
 
-Commit PASS-06F4:
+Commit PASS-06F5:
 
-`249888e84738e27c9aa36545ab326a185825bdd2`
+`9e2d1969ada9f81c00efe53413bc7499c385f3c6`
 
-PASS-06F4 established DBR/EDR as a parent design-research architecture/genre rather than one atomic empirical design. Core architecture = authentic practical problem → theory/evidence-informed design → iterative analysis/exploration, design/construction and evaluation/reflection cycles → evidence-triggered redesign → dual outputs of a maturing intervention and theoretical/design knowledge. Conjecture mapping is retained as a useful optional traceability technique linking design features → mediating processes → outcomes. DBR/EDR is separated from Action Research, HCD/co-design, DSR, ordinary pilot development, generic evaluation, mixed methods and RCT/effectiveness designs; embedded empirical designs retain their own inferential rules. Important terminology correction: classical DBR literature often calls DBR a methodology/paradigm, while McKenney/Reeves explicitly call EDR a research genre and not a methodology; project routing preserves author terminology and uses DBR_EDR_PARENT_ARCHITECTURE. DBR/EDR taxonomy = ESTABLISHED FOR RES-02 STRUCTURAL USE; F-branch remains RESEARCHING.
+PASS-06F5 established Design Science Research as a parent design-science research paradigm/methodological architecture. Canonical architecture = relevant problem → knowledge grounding → purposeful artifact → build/evaluate search → demonstration → claim-matched evaluation → reusable design knowledge. Artifact routing preserves the classic constructs/models/methods/instantiations lineage while allowing broader modern artifact types. Hevner seven guidelines, the relevance–rigor–design three-cycle view and Peffers DSRM six activities are retained as complementary high-level architectures. Evaluation is explicitly multi-episode: formative/summative and artificial/naturalistic (FEDS), with MEDS 2026 added as the current evaluation-program planning layer. The Design Science Validity Framework 2025 adds criterion/causal/context claim-validation routing. DSR is kept distinct from ordinary engineering/software development, DBR/EDR, HCD/UCD, generic mixed methods and causal-effect designs; embedded empirical designs retain their own inferential identity. DSR taxonomy = ESTABLISHED FOR RES-02 STRUCTURAL USE; F-branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06F5 — Design Science Research (DSR) study structures**
+**RES-02 / PASS-06F6 — HCD/UCD/co-design/Person-Based Approach boundary and study structures**
 
 Scope следующего micro-pass:
 
-1. DSR lineage;
-2. artifact ontology;
-3. constructs/models/methods/instantiations;
-4. problem relevance;
-5. design-science knowledge contribution;
-6. Hevner rigor/relevance/design cycles;
-7. Peffers DSRM;
-8. problem identification;
-9. objectives;
-10. design/development;
-11. demonstration;
-12. evaluation;
-13. communication;
-14. artifact evaluation strategies;
-15. ex ante vs ex post evaluation;
-16. utility/quality/efficacy boundaries;
-17. DSR vs ordinary engineering/software development;
-18. DSR vs DBR;
-19. DSR vs HCD;
-20. embedded empirical designs;
-21. health/exercise/digital rehabilitation relevance;
-22. quality/reporting/provenance;
-23. STOP after saved PASS.
+1. ISO HCD/UCD lineage;
+2. human-centred design principles/activities;
+3. context-of-use specification;
+4. user requirements;
+5. iterative design;
+6. prototyping;
+7. usability evaluation;
+8. participatory design;
+9. co-design;
+10. co-production boundary;
+11. design thinking boundary;
+12. Person-Based Approach;
+13. guiding principles;
+14. intervention-development role;
+15. HCD vs DSR;
+16. HCD vs DBR;
+17. HCD vs mixed methods;
+18. usability vs acceptability vs clinical/behavioral effectiveness;
+19. sport/exercise/rehabilitation applications;
+20. quality/reporting/provenance;
+21. identify whether co-design/PBA require separate deep follow-up;
+22. STOP after saved PASS.
 
 ---
 
@@ -190,11 +189,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F4_Design_Based_Research_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F5_Design_Science_Research_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F5_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6_...`
 
 ---
 
