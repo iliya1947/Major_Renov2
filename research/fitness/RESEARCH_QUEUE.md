@@ -201,9 +201,12 @@
 166. D31 blocker **Post-Qualitative Inquiry CLOSED AT ROUTING/TAXONOMY LEVEL**; all D31 blockers = 0 remaining.
 167. Завершён **PASS-06D39 — repeat final qualitative branch gap audit after D32–D38**.
 168. Fresh 2026 sport/health/methodology scan выявил **2 новых blockers**: **Video-Reflexive Ethnography (VRE)** и **Portraiture (Lawrence-Lightfoot tradition)**. VRE требует отдельной taxonomy из-за ethnographic familiarisation → in-situ video → reflexive-session loop и principles collaboration/care/reflexivity/exnovation; direct physiotherapy relevance verified. Portraiture требует отдельной taxonomy из-за context/voice/relationship/emergent themes/aesthetic whole architecture и текущего sport use. Digital Storytelling, body mapping, Rich Picture Building, mobile/running interviews, carnal sociology, critical realism, cultural semiotics, current EM/CA, Wiisokotaatiwin и creative nonfiction re-tested as non-blocking/routable layers.
-169. Qualitative branch остаётся **RESEARCHING**; structural synthesis **NOT AUTHORIZED**.
-170. Следующий микро-проход: **RES-02/PASS-06D40 — Video-Reflexive Ethnography study structures**.
-171. После D40: **PASS-06D41 — Portraiture**, затем новый repeat gap audit before any synthesis.
+169. Завершён **PASS-06D40 — Video-Reflexive Ethnography study structures**.
+170. Зафиксирована VRE taxonomy: ethnographic familiarisation/contextualisation → situated practice video → clip selection/editing → collaborative practitioner reflexive sessions → exnovation/collaboration/reflexivity/care → possible liminalisation/potentiation → local practice re-imagination. Clip selection/editing treated as a methodological/power node; ongoing staged consent, hierarchy-sensitive facilitation, identifiability and raw-footage governance are core fields. VRE separated from conventional/video ethnography, video elicitation/stimulated recall, reflective practice, Participatory Video and generic QI. Direct physiotherapy relevance verified.
+171. D39 blocker **Video-Reflexive Ethnography CLOSED AT TAXONOMY LEVEL**; remaining D39 blockers = 1.
+172. Qualitative branch остаётся **RESEARCHING**; structural synthesis **NOT AUTHORIZED**.
+173. Следующий микро-проход: **RES-02/PASS-06D41 — Portraiture study structures**.
+174. После D41: новый repeat final qualitative gap audit before any synthesis.
 
 ## Правила Stage 2 после restart
 
