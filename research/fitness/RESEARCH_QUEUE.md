@@ -236,8 +236,11 @@
 201. Завершён **PASS-06E9 — mixed-methods branch structural synthesis**.
 202. Mixed-methods branch consolidated into one layered router: parent empirical context → QUAN/QUAL parent identities → basic route → structural/advanced framework → overlays → timing/priority/dependency → sampling → integration mechanics → granularity/fit/divergence → meta-inference → quality/reporting/provenance. Exactly three basic routes remain; embedded resolved as structural; advanced/overlay/neighboring families preserved without flattening. Canonical extraction schema expanded to 158 project fields. Known blocking mixed-method gaps = **NONE**.
 203. Mixed-methods branch = **SYNTHESIZED FOR RES-02 STRUCTURAL USE**.
-204. RES-02 overall remains **RESEARCHING**.
-205. Следующий микро-проход: **RES-02/PASS-06F1 — neighboring cross-method design/evaluation/development families: scope and taxonomy**.
+204. Завершён **PASS-06F1 — neighboring cross-method design/evaluation/development families: scope and taxonomy**.
+205. F1 established a separate F-branch router: Q Methodology / Realist Evaluation / DBR / DSR / TCM are methodology-level routes; HCD/UCD / Intervention Mapping / Implementation Mapping are design-development-implementation frameworks; Delphi / NGT / RAND-UCLA-like routes are structured consensus methods/architectures; systems modelling/system mapping is a heterogeneous method family rather than one atomic design. Parent empirical designs remain separately coded.
+206. Scope scan expanded the neighboring development layer with **MRC complex-intervention framework, MOST, ORBIT, 6SQuID, Person-Based Approach and BCW/COM-B**. These are not silently absorbed into mixed methods, HCD or Intervention Mapping. Dedicated deep passes plus a later development-framework crosswalk are required.
+207. F-branch = **RESEARCHING**; structural synthesis is not authorized. RES-02 overall remains **RESEARCHING**.
+208. Следующий микро-проход: **RES-02/PASS-06F2 — Q Methodology standalone study structures**.
 
 ## Правила Stage 2 после restart
 
