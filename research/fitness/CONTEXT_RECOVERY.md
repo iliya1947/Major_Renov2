@@ -137,29 +137,29 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D2_phenomenology_lived_experience_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D3_grounded_theory_study_structures.md`
 
-Commit PASS-06D2:
+Commit PASS-06D3:
 
-`0a2be30fb473685bf113633ba9ebfc2f62797b90`
+`6e524f76a0325e30c9d6e1521721099ed1c9687b`
 
-PASS-06D2 established phenomenology as a lived-experience methodology family with explicit separation of descriptive and interpretive/hermeneutic routes. IPA is preserved as a distinct idiographic interpretive methodology with case-by-case analysis and double-hermeneutic logic. Direct lived-experience eligibility, data-source roles, adequacy logic, longitudinal phenomenology and claim limits are explicit. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D3 established grounded theory as a theory/process-generating methodology family. The shared core now explicitly includes constant comparison, memoing, theoretical sampling, category refinement and theoretical integration, while Glaserian, Straussian and constructivist/Charmaz variants remain distinct. Open–axial–selective coding is classified as Straussian rather than universal. Full grounded-theory designs are separated from qualitative studies that merely borrow GT-informed coding. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D3 — grounded theory study structures**
+**RES-02 / PASS-06D4 — ethnography and focused-ethnography study structures**
 
 Scope следующего micro-pass:
 
-1. grounded theory scientific target: process/theory generation;
-2. Glaserian / Straussian / constructivist variants;
-3. constant-comparative logic;
-4. theoretical sampling vs generic purposive sampling;
-5. coding/category development architecture;
-6. theoretical saturation / sufficiency / conceptual depth;
-7. memoing and iterative collection-analysis relationship;
-8. what counts as a grounded theory vs thematic model;
-9. what grounded-theory evidence can and cannot establish;
+1. ethnography scientific target: culture/shared practice in context;
+2. classic ethnography vs focused ethnography;
+3. field immersion and duration;
+4. participant vs non-participant observation;
+5. interviews/documents/field notes as complementary sources;
+6. emic vs etic interpretation;
+7. sampling and site/case selection;
+8. researcher role/reflexivity;
+9. what ethnographic evidence can and cannot establish;
 10. fitness/exercise applications;
 11. unresolved gaps → next qualitative micro-pass.
 
@@ -178,11 +178,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D2_phenomenology_lived_experience_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D3_grounded_theory_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D3_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D4_...`
 
 ---
 
