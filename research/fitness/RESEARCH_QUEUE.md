@@ -104,7 +104,10 @@
 69. Завершён **PASS-06D7 — narrative inquiry and narrative-study structures**.
 70. Зафиксирована narrative taxonomy: story/temporality/identity as scientific target; story-in-interview ≠ narrative design; Clandinin/Connelly temporality-sociality-place architecture; thematic/structural/dialogic-performance narrative-analysis families; plot/turning points/tellability/co-construction; individual, collective and cultural/master narrative levels; longitudinal narrative change separated from objective event change; narrative causality separated from causal identification.
 71. Qualitative branch остаётся **RESEARCHING**.
-72. Следующий микро-проход: **RES-02/PASS-06D8 — participatory, action-research and co-design primary-study structures: participation as governance vs data collection, PAR/CBPR/action research cycles, co-design/co-production boundaries, researcher-participant roles, power and ownership, embedded evaluation, claim limits and fitness/exercise applications**.
+72. Завершён **PASS-06D8 — participatory, action-research and co-design primary-study structures**.
+73. Зафиксирована participatory/governance taxonomy: research participant ≠ research partner; participation/involvement/engagement separated; action research = iterative plan–act–observe–reflect cycles; PAR adds participatory/power/transformation commitments; CBPR requires community partnership and shared governance; co-design requires substantive design influence; co-production usually broader shared power/responsibility; participatory architecture sits on top of parent qual/quant/trial/mixed design; co-design does not establish efficacy.
+74. Qualitative branch остаётся **RESEARCHING**.
+75. Следующий микро-проход: **RES-02/PASS-06D9 — discourse, conversation and language-centered qualitative structures: discourse-as-object vs reports of experience, discourse analysis families, conversation analysis, interactional sequence/turn-taking, critical discourse approaches, data-source requirements, claim limits and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
