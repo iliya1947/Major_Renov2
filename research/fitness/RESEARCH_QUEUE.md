@@ -133,7 +133,10 @@
 98. Завершён **PASS-06D16 — standalone hermeneutic inquiry structures**.
 99. Зафиксирована standalone hermeneutic taxonomy: Gadamerian philosophical hermeneutics отделена от hermeneutic phenomenology; Gadamer philosophy ≠ fixed empirical recipe; Fleming et al. five-step approach = later Gadamerian-based adaptation; pre-understanding/prejudice as necessary interpretive starting point; hermeneutic circle as whole–part movement; dialogue/question–answer; fusion of horizons as transformed, provisional understanding rather than consensus/final truth; DORR quality dimensions Depth/Openness/Resonance/Reflexivity; hermeneutic claims ≠ prevalence/causal inference.
 100. Blocker standalone hermeneutic inquiry из PASS-06D14 закрыт на taxonomy-level. Qualitative branch остаётся **RESEARCHING**.
-101. Следующий микро-проход: **RES-02/PASS-06D17 — autoethnography study structures: researcher-as-participant/data source, self–culture analytic link, evocative vs analytic autoethnography, autobiographical/field materials, relational ethics, vulnerability/representation, claim limits and sport/exercise applications**.
+101. Завершён **PASS-06D17 — autoethnography study structures**.
+102. Зафиксирована autoethnography taxonomy: researcher-as-participant/data source; constitutive self–culture analytic link; autobiography/memoir/reflexivity/insider ethnography boundaries; evocative vs Anderson-style analytic AE; collaborative and other named variants; memory/contemporaneous-record distinction; relational ethics, implicated others and internal confidentiality; variant-specific quality criteria; reader resonance/theoretical contribution ≠ population generalization or causal inference.
+103. Blocker autoethnography из PASS-06D14 закрыт на taxonomy-level. Qualitative branch остаётся **RESEARCHING**.
+104. Следующий микро-проход: **RES-02/PASS-06D18 — institutional ethnography study structures: standpoint/problematic, work knowledge, text-mediated coordination, ruling relations, local-to-translocal mapping, sampling/data architecture, boundary with conventional/critical ethnography and case study, claim limits and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
