@@ -30,9 +30,12 @@
    - competing risks / recurrent events / multistate prediction;
    - continual/online updating and post-deployment lifecycle.
 10. Завершён **PASS-06B15 — complex event outcome prediction**.
-11. Остался один blocking gap перед финальным prediction-branch audit:
-   - continual/online updating and post-deployment lifecycle.
-12. Следующий микро-проход: **RES-02/PASS-06B16 — post-deployment lifecycle and continual updating: monitoring-only fixed models, temporal drift, trigger-based recalibration, periodic batch updating, continual/online updating, model-version lineage, update-vs-evaluation data separation, and deployment feedback**.
+11. Завершён **PASS-06B16 — post-deployment lifecycle and continual updating**.
+12. Все три blocking gaps из PASS-06B13 получили отдельные taxonomy-level passes:
+   - PASS-06B14 — diagnostic prediction models vs DTA;
+   - PASS-06B15 — complex event outcome prediction;
+   - PASS-06B16 — post-deployment lifecycle and continual updating.
+13. Следующий микро-проход: **RES-02/PASS-06B17 — final prediction-branch gap audit after B14–B16: recheck PASS-06A + PASS-06B1…B16 for unresolved design-family gaps, contradictions, unsupported overreach, source-version changes and fitness-specific omissions; decide whether synthesis is now permitted or additional micro-passes are required**.
 
 ## Правила Stage 2 после restart
 
