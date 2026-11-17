@@ -137,30 +137,30 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D11_qualitative_sampling_data_sufficiency_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D12_reflexivity_trustworthiness_quality_architectures.md`
 
-Commit PASS-06D11:
+Commit PASS-06D12:
 
-`d334f1da9f49a14bf15d8e4315213b4b79db3426`
+`aea6d192505009dd75f6a64ddc4bacbae69b83d5`
 
-PASS-06D11 established a cross-family qualitative sampling and data-sufficiency architecture. Purposive sampling is treated as an umbrella requiring an explicit subtype/goal; criterion, maximum-variation, homogeneous, typical, intensity, extreme, critical and confirming/disconfirming strategies are separated. Selection is distinct from recruitment, and theoretical sampling requires emerging analysis to redirect data collection. Sampling units can be participants, cases, sites, events, times, interactions or materials. There is no universal qualitative N: saturation is methodology-dependent, code vs meaning saturation are distinct, and information power provides a non-statistical adequacy framework. Adequacy is evaluated at the level of the intended claim. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D12 established a cross-family qualitative quality architecture centered on methodological integrity rather than checklist compliance. Credibility, transferability, dependability and confirmability remain useful but non-exclusive concepts. Reflexivity is separated from positionality and bias-elimination claims; triangulation is not truth-by-agreement; member checking is optional and purpose-dependent; negative cases, rival explanations, audit trails and peer debriefing are methodology-routed tools. Intercoder reliability is explicitly non-universal and should not be imposed on reflexive thematic analysis. JARS–Qual, SRQR and COREQ are reporting frameworks rather than automatic quality scores. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D12 — reflexivity, trustworthiness and qualitative quality architectures**
+**RES-02 / PASS-06D13 — qualitative components nested within trials, cohorts, intervention-development and process-evaluation structures**
 
 Scope следующего micro-pass:
 
-1. credibility / dependability / confirmability / transferability;
-2. researcher positioning and reflexivity;
-3. reflexive journaling/memoing;
-4. triangulation types and limits;
-5. negative/deviant case analysis;
-6. member checking / member reflection boundary;
-7. audit trail / decision trail;
-8. peer debriefing;
-9. intercoder agreement / consensus boundaries;
-10. methodology-specific quality criteria;
+1. parent-design vs qualitative-component identity;
+2. embedded vs parallel qualitative components;
+3. sampling from trial arms/sites/outcome trajectories;
+4. timing before/during/after intervention;
+5. intervention-development qualitative work;
+6. process-evaluation qualitative components;
+7. mechanism/implementation interpretation;
+8. integration with quantitative parent-study findings;
+9. longitudinal nested qualitative components;
+10. causal-inference boundaries;
 11. fitness/exercise applications;
 12. unresolved gaps → next qualitative micro-pass.
 
@@ -179,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D11_qualitative_sampling_data_sufficiency_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D12_reflexivity_trustworthiness_quality_architectures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D12_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D13_...`
 
 ---
 
