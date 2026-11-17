@@ -137,31 +137,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D15_phenomenography_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D16_standalone_hermeneutic_inquiry_structures.md`
 
-Commit PASS-06D15:
+Commit PASS-06D16:
 
-`acffe713aaced9858e9c5024d988c190334ee8a1`
+`cd2a9add3794dcc7315e64589111ecb0eff51bd2`
 
-PASS-06D15 established phenomenography as a distinct qualitative methodology rather than a phenomenology variant. Its canonical target is qualitative variation in ways of experiencing/understanding one phenomenon from a second-order perspective. Conceptions are relational; referential and structural aspects are separated; categories of description are collective analytic products rather than fixed participant types; categories and their logical relationships form a parsimonious outcome space. Hierarchical inclusion is common but not automatically imposed. Sampling should expose relevant variation, and phenomenographic categories do not estimate population prevalence or causal effects. The phenomenography blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D16 established standalone philosophical/Gadamerian hermeneutic inquiry as a distinct interpretive route when phenomenology is not the parent methodology. Gadamer supplied a philosophy of understanding rather than a fixed empirical recipe; Fleming et al.'s five-step procedure is a later Gadamerian-based adaptation. Pre-understanding/prejudice, hermeneutic whole–part movement, dialogue/question–answer, historically situated horizons and fusion of horizons as provisional transformed understanding are now explicit. Current DORR quality criteria provide a hermeneutically coherent Depth/Openness/Resonance/Reflexivity crosscheck. Direct physiotherapy/exercise-prescription studies confirm fitness relevance. The standalone hermeneutic blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D16 — standalone hermeneutic inquiry structures**
+**RES-02 / PASS-06D17 — autoethnography study structures**
 
 Scope следующего micro-pass:
 
-1. philosophical/Gadamerian hermeneutic inquiry beyond hermeneutic phenomenology;
-2. pre-understanding/prejudice;
-3. hermeneutic circle;
-4. dialogue/text as interpretive object;
-5. fusion of horizons;
-6. sampling/data generation;
-7. iterative interpretive analysis;
-8. reflexivity/trustworthiness specific to hermeneutic inquiry;
-9. boundary with hermeneutic phenomenology, narrative and discourse approaches;
-10. claim limits;
-11. health/fitness applications;
+1. researcher-as-participant/data source;
+2. self–culture analytic link;
+3. evocative vs analytic autoethnography;
+4. autobiographical/field/embodied materials;
+5. insider position and reflexivity;
+6. relational ethics and representation of others;
+7. vulnerability and selective disclosure;
+8. analytic vs evocative claim architecture;
+9. boundary with autobiography, narrative inquiry and ethnography;
+10. quality/credibility;
+11. sport/exercise applications;
 12. unresolved gaps → next blocker pass.
 
 ---
@@ -179,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D15_phenomenography_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D16_standalone_hermeneutic_inquiry_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D16_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D17_...`
 
 ---
 
