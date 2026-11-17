@@ -137,32 +137,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C11_mechanistic_branch_structural_synthesis.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D1_qualitative_primary_study_structures_scope_taxonomy.md`
 
-Commit PASS-06C11:
+Commit PASS-06D1:
 
-`188db35f5ed5443142e8205550094c5af68bba47`
+`ff72eace8773cfc72e3fece232d5d02676980352`
 
-Mechanistic branch SYNTHESIZED FOR RES-02 STRUCTURAL USE. RES-02 overall remains RESEARCHING.
+PASS-06D1 established the qualitative primary-study taxonomy: qualitative purpose is separated from approach/methodology, sampling, collection, analysis, reflexivity/context and data-adequacy logic; interviews/focus groups/observation are collection methods rather than atomic designs; mixed methods, content-validity/instrument-development and process-evaluation boundaries are explicit. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D1 — qualitative primary-study structures: scope and taxonomy**
+**RES-02 / PASS-06D2 — phenomenology and lived-experience study structures**
 
 Scope следующего micro-pass:
 
-1. define qualitative scientific purpose vs method;
-2. map major qualitative design families at taxonomy level;
-3. distinguish interviews / focus groups / observation as data-collection methods, not designs;
-4. sampling strategies and information-power/saturation concepts at taxonomy level;
-5. context/reflexivity/researcher-role metadata;
-6. phenomenology / grounded theory / ethnography / qualitative description / case-study boundaries where supported;
-7. qualitative content analysis / thematic analysis as analysis methods vs designs;
-8. boundary with mixed methods;
-9. boundary with content-validity / instrument-development studies;
-10. boundary with implementation/process studies;
-11. fitness/exercise examples;
-12. unresolved gaps → next qualitative micro-pass.
+1. phenomenology as scientific/methodological family;
+2. descriptive vs interpretive/hermeneutic phenomenology;
+3. Interpretative Phenomenological Analysis (IPA) boundary;
+4. sampling and lived-experience eligibility logic;
+5. interview/diary/observation and other data-source roles;
+6. analysis alignment with the claimed phenomenological approach;
+7. reflexivity and researcher interpretation;
+8. data adequacy / sample-size claims;
+9. what phenomenological evidence can and cannot establish;
+10. fitness/exercise examples;
+11. unresolved gaps → next qualitative micro-pass.
 
 ---
 
