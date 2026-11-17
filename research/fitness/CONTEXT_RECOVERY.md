@@ -124,36 +124,33 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B12` — dynamic and landmark prediction structures;
   - `PASS-06B13` — prediction-branch integration audit;
   - `PASS-06B14` — diagnostic prediction models vs diagnostic test accuracy;
-  - `PASS-06B15` — competing risks / recurrent events / multistate prediction.
+  - `PASS-06B15` — competing risks / recurrent events / multistate prediction;
+  - `PASS-06B16` — post-deployment lifecycle and continual updating.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B15_complex_event_outcome_prediction.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B16_post_deployment_continual_updating.md`
 
-Commit PASS-06B15:
+Commit PASS-06B16:
 
-`c127cdc22f5c1548750d682961eea8745a5e8eb6`
+`5f314884808ca8ac3871be9758ab9b59cc8db0f7`
 
-Остался один blocking gap перед final prediction-branch audit/synthesis:
-
-1. continual/online updating and post-deployment lifecycle.
+Все три blocking gaps из PASS-06B13 теперь закрыты отдельными taxonomy-level passes. Synthesis пока не разрешён: нужен новый final gap audit.
 
 ### Следующая задача
 
-**RES-02 / PASS-06B16 — post-deployment lifecycle and continual updating**
+**RES-02 / PASS-06B17 — final prediction-branch gap audit after B14–B16**
 
 Scope следующего micro-pass:
 
-1. ordinary first-event survival as reference structure;
-2. competing risks;
-3. cause-specific vs cumulative-incidence targets at taxonomy level;
-4. recurrent events;
-5. event count/rate vs next-event vs gap-time targets;
-6. multistate transition prediction;
-7. repeated state transitions;
-8. implications for model development/validation/performance targets;
-9. fitness/exercise examples;
-10. unresolved gaps → next micro-pass.
+1. recheck PASS-06A + PASS-06B1…B16;
+2. search for unresolved study-design/prediction-family gaps;
+3. check contradictions across diagnostic/prognostic/dynamic/counterfactual/complex-event/lifecycle branches;
+4. verify current source/tool versions;
+5. identify unsupported overreach;
+6. check fitness/exercise-specific omissions;
+7. decide whether prediction-branch synthesis is permitted;
+8. if not, define only the next required micro-pass.
 
 ---
 
@@ -170,11 +167,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B15_complex_event_outcome_prediction.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B16_post_deployment_continual_updating.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B16_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B17_...`
 
 ---
 
