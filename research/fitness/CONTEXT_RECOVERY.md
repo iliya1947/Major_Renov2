@@ -116,30 +116,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B4` — outcome-dependent sampling in prognosis;
   - `PASS-06B5` — prediction-model development study structures;
   - `PASS-06B6` — internal validation structures;
-  - `PASS-06B7` — internal-external and external validation structures.
+  - `PASS-06B7` — internal-external and external validation structures;
+  - `PASS-06B8` — model recalibration, updating and extension structures.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B7_internal_external_external_validation.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B8_model_recalibration_updating_extension.md`
 
-Commit PASS-06B7:
+Commit PASS-06B8:
 
-`9435885ebaea1c21326ae1b725f643a9729bcffe`
+`57c27e01ea41666211ef4183cb2c46255a53252a`
 
 ### Следующая задача
 
-**RES-02 / PASS-06B8 — model recalibration, updating and extension structures**
+**RES-02 / PASS-06B9 — prediction-model impact and utility study structures**
 
 Scope следующего micro-pass:
 
-1. validate-before-update sequence;
-2. intercept / baseline-hazard recalibration;
-3. calibration-slope / coefficient updating;
-4. re-estimation of predictor effects;
-5. adding predictors / model extension;
-6. model-version identity;
-7. updated-model performance vs validation performance;
-8. revalidation requirements;
+1. statistical performance vs practical/clinical utility;
+2. potential utility vs actual outcome impact;
+3. model-guided decision strategy;
+4. randomized impact trial;
+5. cluster randomized impact design;
+6. stepped-wedge / before-after alternatives;
+7. intervention contamination and implementation;
+8. boundary between prediction evidence and intervention-effect evidence;
 9. unresolved gaps → следующий micro-pass.
 
 ---
@@ -157,11 +158,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B7_internal_external_external_validation.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B8_model_recalibration_updating_extension.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B8_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B9_...`
 
 ---
 
