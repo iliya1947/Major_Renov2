@@ -95,7 +95,10 @@
 60. Завершён **PASS-06D4 — ethnography and focused-ethnography study structures**.
 61. Зафиксирована ethnography taxonomy: culture/shared-practice target; observation as method rather than design; participant observation historically central but not universally mandatory; focused ethnography not reducible to short duration; emic/etic as complementary analytic positions; site/event/time/actor sampling; thick description/context/reflexivity; strict boundary from prevalence/causal-effect claims.
 62. Qualitative branch остаётся **RESEARCHING**.
-63. Следующий микро-проход: **RES-02/PASS-06D5 — case-study primary research structures: bounded-case logic, single/multiple/embedded case designs, qualitative vs quantitative vs mixed case study, case selection, within-case/cross-case analysis, analytic generalization, boundary with case report/ethnography/process evaluation, and fitness/exercise applications**.
+63. Завершён **PASS-06D5 — case-study primary research structures**.
+64. Зафиксирована case-study taxonomy: bounded-case logic; case ≠ participant; single/multiple and holistic/embedded structures; qualitative/quantitative/mixed evidence; replication logic for multiple-case selection; within-case before/cross-case synthesis; analytic generalization distinct from statistical generalization; strict boundaries with clinical case report, N-of-1/SCED, case-control, ethnography and process evaluation.
+65. Qualitative branch остаётся **RESEARCHING**.
+66. Следующий микро-проход: **RES-02/PASS-06D6 — qualitative description, interpretive description and generic qualitative study structures: low-inference descriptive purpose, Sandelowski qualitative description, interpretive description boundary, generic/descriptive thematic studies, sampling/analysis alignment, claim limits and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
