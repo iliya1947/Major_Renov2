@@ -132,36 +132,35 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B20` — diagnostic outcome-dependent sampling and absolute-probability recovery;
   - `PASS-06B21` — repeat final prediction-branch gap audit after PASS-06B18…B20;
   - `PASS-06B22` — current continuous-value prediction and estimation equations;
-  - `PASS-06B23` — final prediction-branch closure/gap audit after PASS-06B22.
+  - `PASS-06B23` — final prediction-branch closure/gap audit after PASS-06B22;
+  - `PASS-06B24` — prediction-branch structural synthesis.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B23_final_prediction_branch_closure_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B24_prediction_branch_structural_synthesis.md`
 
-Commit PASS-06B23:
+Commit PASS-06B24:
 
-`ab9d8ef7a5623dfd9c88d1ec78d2bc430a048ab0`
+`23b6ca54980c368eadd93c63b568728cf1cf4a26`
 
-PASS-06B23 не выявил новых blocking prediction-design gaps. Prediction-branch structural synthesis теперь разрешён, но ещё не выполнен.
+Prediction/prognosis branch теперь SYNTHESIZED для структурного использования внутри RES-02. RES-02 в целом остаётся RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06B24 — prediction-branch structural synthesis**
+**RES-02 / PASS-06C1 — mechanistic/explanatory study structures: scope and taxonomy**
 
 Scope следующего micro-pass:
 
-1. synthesize PASS-06B1…B23 without duplication;
-2. build canonical prediction-purpose taxonomy;
-3. build target-time and outcome-architecture matrix;
-4. build data-source/sampling crosswalk;
-5. build model lifecycle matrix;
-6. build performance-target matrix;
-7. integrate factual/counterfactual and treatment-effect boundary;
-8. integrate static/dynamic vs continual-model-updating distinction;
-9. integrate diagnostic prediction / DTA / measurement-property boundaries;
-10. add fitness/exercise examples;
-11. preserve explicit limitations and later-deferred statistical/appraisal topics;
-12. define next RES-02 branch after prediction synthesis.
+1. define mechanistic/explanatory scientific questions;
+2. distinguish mechanism from intervention effectiveness;
+3. distinguish mechanism from etiologic association/risk-factor questions;
+4. distinguish mediation from generic mechanism language;
+5. classify controlled physiology/lab experiments at taxonomy level;
+6. identify human vs translational/mechanistic evidence boundaries;
+7. distinguish descriptive biomarker/physiology studies from mechanistic inference;
+8. identify design families that need dedicated deeper passes;
+9. preserve causal-identification boundary;
+10. define next mechanistic micro-pass.
 
 ---
 
@@ -178,11 +177,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B23_final_prediction_branch_closure_audit.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B24_prediction_branch_structural_synthesis.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B24_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C1_...`
 
 ---
 
