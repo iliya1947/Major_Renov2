@@ -52,7 +52,10 @@
    - PASS-06B18 — multicategory / ordinal prediction;
    - PASS-06B19 — multiple-outcome / composite / joint-risk prediction;
    - PASS-06B20 — diagnostic outcome-dependent sampling and absolute-probability recovery.
-21. Следующий микро-проход: **RES-02/PASS-06B21 — repeat final prediction-branch gap audit after PASS-06B18…B20: recheck PASS-06A + PASS-06B1…B20 for remaining design-family omissions, contradictions, unsupported transfers between diagnostic/prognostic frameworks, source-version changes and fitness-specific gaps; decide whether prediction-branch synthesis is finally permitted**.
+21. Завершён **PASS-06B21 — repeat final prediction-branch gap audit after PASS-06B18…B20**.
+22. Repeat audit выявил один новый blocking gap перед synthesis:
+   - current continuous-value diagnostic prediction / estimation equations and their boundary with measurement-property / criterion-validity studies.
+23. Следующий микро-проход: **RES-02/PASS-06B22 — current continuous-value prediction and estimation equations: cross-sectional diagnostic/current-outcome prediction, boundary with future continuous prognosis, prediction-equation development/validation, criterion/reference measurement, calibration/error/agreement, and boundary with measurement-property/criterion-validity studies using VO₂max/body-composition/1RM-style examples**.
 
 ## Правила Stage 2 после restart
 
