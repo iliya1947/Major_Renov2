@@ -137,28 +137,35 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D43_lefebvrean_rhythmanalysis_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D44_repeat_final_qualitative_gap_audit_after_D43.md`
 
-Commit PASS-06D43:
+Commit PASS-06D44:
 
-`94e0e8c72cd5ef77b7c8a4a519b6ab6b40297604`
+`dc7f9feaa59d7eb11c789366c15db95639818570`
 
-PASS-06D43 closed the D42 blocker at routing/taxonomy level. Lefebvrean Rhythmanalysis is confirmed as a distinct rhythm-centred methodology/analytic routing family rather than one rigid procedural design. Canonical architecture: Lefebvre/Régulier lineage; rhythm as time-place-energy relation; repetition+difference; linear/cyclical interaction; polyrhythmia; eurhythmia/arrhythmia/optional isorhythmia; dressage and dominating/dominated rhythms where relevant; embodied rhythmanalyst; inside/outside engagement; plural empirical methods; contextual/political rhythm claims. Three routes are now used: FULL_RHYTHMANALYTICAL_INQUIRY; RHYTHMANALYSIS_INFORMED_HYBRID; RHYTHMANALYSIS_ANALYTIC_ORIENTATION. Current 2025 coaching, 2026 surfing and 2025 dementia-care studies verify direct sport/health relevance, while 2026 methodology papers verify active methodological maturation. Rhythmanalysis remains distinct from longitudinal qualitative inquiry, ethnography, sensory/carnal ethnography, phenomenology and PQI/posthuman routing. Qualitative branch remains RESEARCHING; structural synthesis remains NOT AUTHORIZED pending another repeat final gap audit.
+PASS-06D44 completed a fresh repeat qualitative gap audit after D43. No new methodology-level blocker was found in the scoped 2025–2026 sport/exercise/health scan. The current SAGE Handbook of Qualitative Research in Sport and Physical Culture (2025), current/latest QRSEH 2026 methods, and adjacent current health/rehabilitation methodology were stress-tested against the D1–D43 taxonomy. Ideal-Type Analysis remains an analysis method; CLEA is an AI-enabled longitudinal/ecological qualitative data-generation method; Tree of Life is a therapeutic/narrative intervention methodology rather than the research design evaluating it; psychocartographic work remains a spatial/mapping + theoretical framework watchlist item; participatory systems mapping/theory construction remains an overall RES-02 systems-science handoff. Rhythmanalysis closed the last unreconstructable qualitative gap. A stopping rule is now explicit: new blockers require stable lineage, distinct scientific object, distinctive architecture, non-reconstructability, RES-02 relevance, and more than one-off naming. Qualitative branch is now **RESEARCH COMPLETE AT GRANULAR TAXONOMY STAGE** and **QUALITATIVE STRUCTURAL SYNTHESIS IS AUTHORIZED**. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D44 — repeat final qualitative branch gap audit after D43**
+**RES-02 / PASS-06D45 — qualitative branch structural synthesis**
 
 Scope следующего micro-pass:
 
-1. reopen D42–D43;
-2. re-scan current sport/exercise/health qualitative methodology;
-3. specifically test temporal/spatial/embodied candidates now that rhythmanalysis is represented;
-4. re-test all recent non-blockers for new evidence;
-5. inspect cross-cutting taxonomy for contradictions;
-6. test whether qualitative parent/routing families are now representable without information loss;
-7. either identify new blocker(s) or authorize qualitative structural synthesis;
-8. STOP after saved audit.
+1. consolidate D1–D44 qualitative findings;
+2. build parent-family hierarchy;
+3. separate methodology vs orientation vs temporal architecture vs method vs analysis vs representation;
+4. integrate hybrid routing rules;
+5. integrate claim-limit matrix;
+6. integrate sport/exercise/health applicability;
+7. integrate ethics/quality cross-cutting fields;
+8. preserve Indigenous community-specific routing;
+9. preserve strict-PQI vs hybrid routes;
+10. preserve VRE/PV/visual distinctions;
+11. preserve Portraiture/a/r/tography/arts distinctions;
+12. preserve longitudinal vs Rhythmanalysis distinction;
+13. create compact canonical qualitative taxonomy for later RES-02 synthesis;
+14. identify any synthesis-level contradictions;
+15. STOP after saved synthesis.
 
 ---
 
@@ -175,11 +182,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D43_lefebvrean_rhythmanalysis_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D44_repeat_final_qualitative_gap_audit_after_D43.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D44_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D45_...`
 
 ---
 
