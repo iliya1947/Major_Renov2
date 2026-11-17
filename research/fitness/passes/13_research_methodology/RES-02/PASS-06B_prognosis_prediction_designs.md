@@ -1,5 +1,7 @@
 # RES-02 / PASS-06B — Prognosis and prediction study structures
 
+> **SUPERSEDED FOR CURRENT REVALIDATION (2026-11-17).** По явному решению пользователя рабочая точка возвращена к состоянию после PASS-06A. Этот прежний широкий PASS-06B сохраняется только как исторический материал и не считается авторитетным завершённым результатом. Новая revalidation идёт granular-блоками, начиная с `PASS-06B1_prognosis_core_taxonomy.md`.
+
 Статус: **COMPLETE PASS — topic remains RESEARCHING**  
 Дата: 2026-11-16  
 Topic: RES-02 — Study designs / what they answer
