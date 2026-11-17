@@ -240,7 +240,11 @@
 205. F1 established a separate F-branch router: Q Methodology / Realist Evaluation / DBR / DSR / TCM are methodology-level routes; HCD/UCD / Intervention Mapping / Implementation Mapping are design-development-implementation frameworks; Delphi / NGT / RAND-UCLA-like routes are structured consensus methods/architectures; systems modelling/system mapping is a heterogeneous method family rather than one atomic design. Parent empirical designs remain separately coded.
 206. Scope scan expanded the neighboring development layer with **MRC complex-intervention framework, MOST, ORBIT, 6SQuID, Person-Based Approach and BCW/COM-B**. These are not silently absorbed into mixed methods, HCD or Intervention Mapping. Dedicated deep passes plus a later development-framework crosswalk are required.
 207. F-branch = **RESEARCHING**; structural synthesis is not authorized. RES-02 overall remains **RESEARCHING**.
-208. Следующий микро-проход: **RES-02/PASS-06F2 — Q Methodology standalone study structures**.
+208. Завершён **PASS-06F2 — Q Methodology standalone study structures**.
+209. Q Methodology routed as a standalone parent methodology: concourse → Q-set/Q-sample → P-set → condition of instruction → Q-sort → intercorrelation → by-person factor/component extraction → retention/rotation → defining Q-sorts → factor arrays → distinguishing/consensus statements → interpretive viewpoint construction. Post-sort qualitative material is an interpretive support layer, not a reason to flatten Q into generic mixed methods.
+210. Hard pseudo-standards rejected: no universal Q-set/P-set size, mandatory forced grid, universally superior extraction method, single factor-retention rule or mandatory rotation strategy. Choices must be explicit, justified and reported. Factor size ≠ prevalence; factor array ≠ participant; repeated/pre-post Q ≠ causal intervention design without an appropriate parent design. Longitudinal Q remains a family of analysis architectures rather than one standardized design.
+211. Q Methodology = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
+212. Следующий микро-проход: **RES-02/PASS-06F3 — Realist Evaluation standalone evaluation structures**.
 
 ## Правила Stage 2 после restart
 
