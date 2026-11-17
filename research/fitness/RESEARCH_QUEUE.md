@@ -153,8 +153,12 @@
 118. Blocker Photovoice / participatory visual methodology из PASS-06D14 закрыт на taxonomy-level. Qualitative branch остаётся **RESEARCHING**.
 119. Завершён **PASS-06D23 — ethnomethodology beyond Conversation Analysis**.
 120. Зафиксирована ethnomethodology taxonomy: Garfinkel-derived members' methods and locally produced social order; accountability/indexicality/ethnomethodological reflexivity/documentary method; breaching as optional demonstration rather than defining or randomized experiment; ethnomethodological indifference; weak/strong unique-adequacy boundary; instructed action/workplace studies; naturally occurring/video/multimodal practical action; EM broader than CA and distinct from ethnography/phenomenology/discourse analysis/institutional ethnography; sequence/order claims ≠ prevalence or causal-effect estimates.
-121. Все 9 blockers из PASS-06D14 теперь закрыты отдельными taxonomy-level passes D15–D23. Qualitative branch остаётся **RESEARCHING** до repeat final gap audit.
-122. Следующий микро-проход: **RES-02/PASS-06D24 — repeat final qualitative-branch gap audit after PASS-06D15…D23: re-audit all methodology families and adjacent candidates, verify closure of all D14 blockers, identify any newly exposed blockers, and determine whether qualitative structural synthesis is authorized**.
+121. Все 9 blockers из PASS-06D14 закрыты отдельными taxonomy-level passes D15–D23.
+122. Завершён **PASS-06D24 — repeat final qualitative-branch gap audit after PASS-06D15…D23**.
+123. Repeat audit: **QUALITATIVE STRUCTURAL SYNTHESIS NOT AUTHORIZED**. Найдены 6 новых blockers: Consensual Qualitative Research (CQR); Moustakas heuristic inquiry; Co-operative Inquiry; Appreciative Inquiry; Oral History; Interpretive Interactionism.
+124. Linguistic ethnography, MCA, multimodal interaction analysis, interactional sociolinguistics, rhetorical psychology, visual/semiotic discourse analysis, critical ethnography, life history/BNIM, multi-centre qualitative architecture, rapid qualitative, Framework Method, thematic/content analysis, digital/sensory ethnographic variants and AI-assisted QDA классифицированы как hybrid/subtype/analysis/site/tooling/provenance layers, а не current blockers. Q methodology и structured consensus methods handed off to later overall RES-02 mixed/hybrid/consensus audit.
+125. Qualitative branch остаётся **RESEARCHING**.
+126. Следующий микро-проход: **RES-02/PASS-06D25 — Consensual Qualitative Research (CQR): philosophical architecture; domains/core ideas/cross-analysis; consensus team; auditor; category frequency labels; CQR-M/CQR-C variants; member-checking boundary; quality criteria; frequency vs prevalence; exercise/sport applications**.
 
 ## Правила Stage 2 после restart
 
