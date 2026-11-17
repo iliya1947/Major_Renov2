@@ -67,7 +67,9 @@
 32. Human perturbation taxonomy закрыта на текущем уровне: BESH/mechanistic-trial boundary, intervention-as-probe, target engagement, randomized/nonrandomized structures, crossover/parallel/within-person/factorial, challenge/dose/blockade/activation/rescue и condition-specific necessity/sufficiency-like claims.
 33. Завершён **PASS-06C3 — causal mediation and pathway study structures**.
 34. Causal mediation taxonomy закрыта на текущем уровне: mediator roles, temporal ordering, randomized vs observational mediation, total/direct/indirect estimands, controlled/natural/interventional effects, mediator-outcome confounding, exposure-induced confounding, measurement error, multiple/serial/longitudinal mediation.
-35. Следующий микро-проход: **RES-02/PASS-06C4 — observational mechanistic, biomarker and omics study structures: descriptive pathway evidence, cross-sectional vs longitudinal biomarker evidence, molecular epidemiology, temporality/reverse causation, high-dimensional omics discovery, multiplicity/replication, causal-vs-correlational interpretation, and boundary with Mendelian randomization/other causal designs without duplicating later causal-inference topics**.
+35. Завершён **PASS-06C4 — observational mechanistic, biomarker and omics study structures**.
+36. Observational biomarker/omics taxonomy закрыта на текущем уровне: biomarker roles, cross-sectional/longitudinal evidence, reverse causation, prospective biospecimens, high-dimensional discovery, multiplicity/replication, batch/preanalytics, annotation uncertainty, pathway/network inference, triangulation и MR/IV boundary.
+37. Следующий микро-проход: **RES-02/PASS-06C5 — nonhuman and translational mechanistic models: animal, in vitro, ex vivo, organoid/tissue and computational model systems; genetic/pharmacologic perturbation; model validity; species/tissue/dose/timescale translation; human extrapolation; convergent mechanistic evidence; and boundaries between strong internal mechanistic specificity and external validity to human exercise/training**.
 
 ## Правила Stage 2 после restart
 
