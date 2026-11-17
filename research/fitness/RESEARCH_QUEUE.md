@@ -217,8 +217,10 @@
 182. Завершён **PASS-06D45 — qualitative branch structural synthesis**.
 183. Qualitative branch converted from a flat family list into a layered canonical router: parent empirical context → scientific purpose → parent methodology → cross-cutting paradigm/governance → structural modifiers → sampling/adequacy → data-generation method → analysis → representation → quality/reflexivity/ethics. Hybrid-routing, claim-limit, sampling, quality/ethics, visual/video and self-as-researcher distinctions integrated; no synthesis-level contradiction remains.
 184. Qualitative branch = **SYNTHESIZED FOR RES-02 STRUCTURAL USE**; currently known blocking qualitative taxonomy gaps = **NONE**.
-185. RES-02 overall remains **RESEARCHING**.
-186. Следующий микро-проход: **RES-02/PASS-06E1 — mixed-methods primary-study structures: scope and taxonomy**.
+185. Завершён **PASS-06E1 — mixed-methods primary-study structures: scope and taxonomy**.
+186. Mixed methods зафиксирован как cross-component integration family, а не atomic design. Defining feature = intentional QUAL–QUAN integration. Core routes: CONVERGENT, EXPLANATORY_SEQUENTIAL (QUAN→QUAL), EXPLORATORY_SEQUENTIAL (QUAL→QUAN); embedded/nested architecture retained as major unresolved route. Connecting/building/merging/embedding integration mechanisms, timing/priority/dependency/sampling relations, meta-inference and divergence handling added to canonical router.
+187. Mixed-methods branch = **RESEARCHING**.
+188. Следующий микро-проход: **RES-02/PASS-06E2 — Convergent mixed-methods structures**.
 
 ## Правила Stage 2 после restart
 
