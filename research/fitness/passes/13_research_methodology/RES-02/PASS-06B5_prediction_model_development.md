@@ -115,7 +115,7 @@ Key structural guidance:
   - external validation performance;
 - apparent performance = performance estimated in the same data used for model development;
 - evaluation/test data should not overlap with data used for training/model selection/hyperparameter tuning;
-- PROBAST+AI extends/replaces PROBAST-2019.
+- PROBAST+AI is the 2025 updated/direct extension of PROBAST-2019; the authors state that PROBAST+AI **may replace PROBAST-2019**.
 
 https://www.bmj.com/content/388/bmj-2024-082505
 
