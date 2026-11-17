@@ -137,33 +137,33 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D21_critical_incident_technique_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D22_photovoice_participatory_visual_study_structures.md`
 
-Commit PASS-06D21:
+Commit PASS-06D22:
 
-`1e79a06f30b6a813b2d4d718dd46a510024d3192`
+`ed281663ba9fb7b1da8a0d9a6eb2eb10ea84d2e4`
 
-PASS-06D21 established Critical Incident Technique as an incident-centered qualitative methodology family with a Flanagan-derived five-stage architecture. Criticality is defined relative to an explicit aim and does not imply catastrophe. Participant and incident counts are separate; modern CIT can use observer reports, interviews, surveys, written reports, observation and prospective/retrospective capture. Retrospective incidents remain vulnerable to reconstructive memory. Incident extraction and category development are central, while incident frequencies and participation rates describe the elicited corpus rather than population prevalence. Enhanced CIT is a named adaptation with helping/hindering incidents, possible wish-list items and nine methodology-specific credibility checks. CIT is separated from generic interviews, narrative/turning-point research, event-history methods, adverse-event reporting, process evaluation, GT and generic TA. Direct physical-activity/sport applications confirm relevance to PA change, process evaluation, anxiety and sport emotional labor. The CIT blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D22 established Photovoice as a distinct participatory visual methodology / CBPR-PAR strategy rather than participant photography alone. Its foundational Wang/Burris goals are documentation/reflection, critical dialogue/knowledge and reaching decision-makers. Selecting, contextualizing and codifying form the canonical participatory-analysis architecture; SHOWED/SHOWeD is a common but adaptable/nonmandatory dialogue scaffold. Participant voice/decision rights, action intent, stakeholder reach and achieved impact are stored separately as fidelity dimensions because applied studies frequently implement only part of the canonical process. Photovoice is separated from photo-elicitation, generic visual methods and full CBPR governance. Visual ethics require separate attention to third-party consent, privacy of people/places, representation, image ownership/use rights and public/online dissemination. Direct physical-activity/exercise examples confirm relevance to youth obesity prevention, neighbourhood activity environments, older-adult PA/social participation and COPD-related experience. The Photovoice blocker from PASS-06D14 is closed at taxonomy level. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D22 — Photovoice / participatory visual study structures**
+**RES-02 / PASS-06D23 — ethnomethodology beyond Conversation Analysis**
 
 Scope следующего micro-pass:
 
-1. participant-generated photography;
-2. photovoice scientific/participatory purpose;
-3. image–narrative relation;
-4. CBPR/PAR roots;
-5. SHOWED and alternative dialogue structures;
-6. individual vs group interpretation;
-7. collective action / stakeholder dissemination;
-8. visual consent/privacy/third-party ethics;
-9. image ownership/copyright and representation;
-10. boundary with photo-elicitation and generic visual methods;
+1. Garfinkel-derived ethnomethodology;
+2. members' methods;
+3. accountability;
+4. indexicality;
+5. ethnomethodological reflexivity;
+6. documentary method of interpretation;
+7. breaching / ethnomethodological experiments;
+8. practical action / workplace studies;
+9. relation to Conversation Analysis;
+10. boundary with ethnography and discourse analysis;
 11. claim limits;
-12. physical-activity/exercise applications;
-13. unresolved gaps → next blocker pass.
+12. health/fitness applications;
+13. unresolved gaps → repeat qualitative-branch final gap audit.
 
 ---
 
@@ -180,11 +180,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D21_critical_incident_technique_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D22_photovoice_participatory_visual_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D22_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D23_...`
 
 ---
 
