@@ -113,7 +113,10 @@
 78. Завершён **PASS-06D10 — longitudinal qualitative study structures across methodologies**.
 79. Зафиксирована longitudinal qualitative taxonomy: longitudinal question + repeated/time-structured data + explicit change/continuity analysis; repeated interviewing alone insufficient; prospective vs retrospective/quasi-longitudinal structures separated; entities followed can be persons/dyads/groups/settings; recurrent cross-sectional vs trajectory analysis separated; fixed-clock vs event-contingent timing; attrition/missing waves; embedded trial/process-evaluation longitudinal components; temporal ordering does not establish causal effect.
 80. Qualitative branch остаётся **RESEARCHING**.
-81. Следующий микро-проход: **RES-02/PASS-06D11 — qualitative sampling and data-sufficiency cross-family synthesis: purposive strategies, theoretical sampling, criterion/maximum-variation/homogeneous/extreme/critical/snowball/convenience recruitment, case/site/event sampling, sample-size justification, saturation variants, information power, negative cases and methodology-specific adequacy**.
+81. Завершён **PASS-06D11 — qualitative sampling and data-sufficiency cross-family synthesis**.
+82. Зафиксирована cross-family sampling/adequacy architecture: purposive sampling as umbrella; criterion/maximum-variation/homogeneous/typical/intensity/extreme/critical/confirming-disconfirming strategies; selection ≠ recruitment; snowball/convenience boundaries; theoretical sampling requires emerging analysis; participant/case/site/event/time/material sampling separated; no universal qualitative N; code vs meaning saturation; saturation variants; information power; methodology-specific and claim-level adequacy.
+83. Qualitative branch остаётся **RESEARCHING**.
+84. Следующий микро-проход: **RES-02/PASS-06D12 — reflexivity, trustworthiness and qualitative quality architectures: credibility/dependability/confirmability/transferability, researcher positioning, reflexive journaling, triangulation, negative cases, member reflection/checking, audit trail, intercoder agreement boundaries, methodology-specific quality criteria and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
