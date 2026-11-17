@@ -209,9 +209,11 @@
 174. D39 blocker **Portraiture CLOSED AT TAXONOMY LEVEL**; remaining D39 blockers = 0.
 175. Завершён **PASS-06D42 — repeat final qualitative branch gap audit after D40–D41**.
 176. Fresh 2025–2026 scan выявил **1 новый blocker — Lefebvrean Rhythmanalysis / rhythmanalytical inquiry**. Scientific object = embodied relational organization of time/place/energy through rhythms; current direct evidence includes 2025 football-coaching rhythmanalysis, 2026 surfing rhythmanalysis, 2025 dementia-care ward rhythmanalysis and 2026 explicit organizational-methodology development. Rapid Ethnography/RAP, Microethnography, Digital/Netnography, Critical/Sensory ethnography, go-along/running interviews, Listening Guide, EBCD, trauma-informed research, Physical Cultural Studies/critical-disability/feminist/queer orientations, audio-visual inquiry, participatory mapping, critical realism and cultural semiotics re-tested as routable/non-blocking layers.
-177. Qualitative branch остаётся **RESEARCHING**; structural synthesis **NOT AUTHORIZED**.
-178. Следующий микро-проход: **RES-02/PASS-06D43 — Lefebvrean Rhythmanalysis study structures**.
-179. После D43: ещё один repeat final qualitative gap audit before any synthesis.
+177. Завершён **PASS-06D43 — Lefebvrean Rhythmanalysis study structures**.
+178. Зафиксирован rhythm-centred routing layer: FULL_RHYTHMANALYTICAL_INQUIRY vs RHYTHMANALYSIS_INFORMED_HYBRID vs RHYTHMANALYSIS_ANALYTIC_ORIENTATION. Core architecture includes time-place-energy relation, repetition+difference, linear/cyclical rhythms, polyrhythmia, eurhythmia/arrhythmia/optional isorhythmia, embodied researcher, inside/outside engagement and plural methods. Rhythmanalysis kept distinct from longitudinal qualitative inquiry, ethnography, sensory/carnal ethnography, phenomenology and PQI. Direct coaching/surfing/dementia-care relevance and 2026 methodology development verified.
+179. D42 blocker **Lefebvrean Rhythmanalysis CLOSED AT ROUTING/TAXONOMY LEVEL**; remaining D42 blockers = 0.
+180. Qualitative branch остаётся **RESEARCHING**; structural synthesis **NOT AUTHORIZED** pending repeat final gap audit.
+181. Следующий микро-проход: **RES-02/PASS-06D44 — repeat final qualitative branch gap audit after D43**.
 
 ## Правила Stage 2 после restart
 
