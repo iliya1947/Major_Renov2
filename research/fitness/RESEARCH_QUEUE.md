@@ -214,9 +214,11 @@
 179. D42 blocker **Lefebvrean Rhythmanalysis CLOSED AT ROUTING/TAXONOMY LEVEL**; remaining D42 blockers = 0.
 180. Завершён **PASS-06D44 — repeat final qualitative branch gap audit after D43**.
 181. Fresh current-field stress test across SAGE Handbook 2025, QRSEH 2026 and adjacent health/rehab methods found **NO NEW METHODOLOGY-LEVEL BLOCKER**. Ideal-Type Analysis = analysis method; CLEA = AI-enabled longitudinal/ecological data-generation method; Tree of Life = therapeutic intervention methodology; psychocartographic work = spatial/mapping + theoretical watchlist; participatory systems mapping/theory construction = later overall RES-02 systems handoff. Explicit stopping rule added to prevent false blocker proliferation.
-182. Qualitative branch = **RESEARCH COMPLETE AT GRANULAR TAXONOMY STAGE**.
-183. **QUALITATIVE STRUCTURAL SYNTHESIS AUTHORIZED**.
-184. Следующий микро-проход: **RES-02/PASS-06D45 — qualitative branch structural synthesis**.
+182. Завершён **PASS-06D45 — qualitative branch structural synthesis**.
+183. Qualitative branch converted from a flat family list into a layered canonical router: parent empirical context → scientific purpose → parent methodology → cross-cutting paradigm/governance → structural modifiers → sampling/adequacy → data-generation method → analysis → representation → quality/reflexivity/ethics. Hybrid-routing, claim-limit, sampling, quality/ethics, visual/video and self-as-researcher distinctions integrated; no synthesis-level contradiction remains.
+184. Qualitative branch = **SYNTHESIZED FOR RES-02 STRUCTURAL USE**; currently known blocking qualitative taxonomy gaps = **NONE**.
+185. RES-02 overall remains **RESEARCHING**.
+186. Следующий микро-проход: **RES-02/PASS-06E1 — mixed-methods primary-study structures: scope and taxonomy**.
 
 ## Правила Stage 2 после restart
 
