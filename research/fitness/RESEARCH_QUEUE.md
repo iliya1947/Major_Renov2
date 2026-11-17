@@ -229,8 +229,10 @@
 194. Embedded/nested resolved as a structural relationship rather than a fourth equal core integration design. True embedded mixed methods requires intentional QUAL–QUAN integration; embedded QUAL alone remains non-mixed. Embedded relation can coexist with convergent, explanatory, exploratory or multistage integration. Process evaluation retained as purpose architecture; fidelity/adaptation/dose/reach/context/contamination/reactivity and process-outcome integration explicitly routed. Hybrid effectiveness-implementation Type I/II/III added as a separate axis with current PCORI 2026 HEI standards. Current IPRehab-LBP, CANFit, HERO, FEMuR III, STRENGTH and PRO-HIIT exemplars verified.
 195. Завершён **PASS-06E6 — Multistage/advanced mixed-methods frameworks**.
 196. Basic designs restricted to CONVERGENT / EXPLANATORY_SEQUENTIAL / EXPLORATORY_SEQUENTIAL. MULTISTAGE/MULTIPHASE, CASE_STUDY_FRAMEWORK, INTERVENTION_FRAMEWORK and PARTICIPATORY_FRAMEWORK are advanced parent structures; EMBEDDED/NESTED remains structural relation. Program/study/phase IDs, cross-phase bridge provenance and separate phase/program meta-inference added. Transformative/critical, implementation, HEI and systems science retained as overlays. Q Methodology routed as standalone methodology-level family; Realist Evaluation as standalone method-neutral evaluation family. Current sport/exercise/rehab examples verified.
-197. Mixed-methods branch = **RESEARCHING**.
-198. Следующий микро-проход: **RES-02/PASS-06E7 — mixed-methods sampling, integration, meta-inference and quality synthesis**.
+197. Завершён **PASS-06E7 — mixed-methods sampling, integration, meta-inference and quality synthesis**.
+198. Mixed-method quality synthesized into four layers: strand quality, integration quality, meta-inference quality, reporting transparency. Sampling relationships fixed as identical/nested/parallel/multilevel and linked to integration granularity. Connecting/building/merging/embedding retained; joint displays optional; transformation/crossover/following-a-thread routed as techniques. Productive discordance separated from incoherence; meta-inference function separated from fit. MMAT/MMIQF/PCORI/JARS/GRAMMS purposes separated; current MMAT=2018, GRAMMS 2.0 not treated as finalized. AI integration routed as tooling/provenance with human return-to-source verification.
+199. Mixed-methods branch = **RESEARCHING PENDING FINAL GAP AUDIT**.
+200. Следующий микро-проход: **RES-02/PASS-06E8 — final mixed-methods branch gap audit after E1–E7**.
 
 ## Правила Stage 2 после restart
 
