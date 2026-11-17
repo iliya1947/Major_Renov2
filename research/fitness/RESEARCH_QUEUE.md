@@ -116,7 +116,10 @@
 81. Завершён **PASS-06D11 — qualitative sampling and data-sufficiency cross-family synthesis**.
 82. Зафиксирована cross-family sampling/adequacy architecture: purposive sampling as umbrella; criterion/maximum-variation/homogeneous/typical/intensity/extreme/critical/confirming-disconfirming strategies; selection ≠ recruitment; snowball/convenience boundaries; theoretical sampling requires emerging analysis; participant/case/site/event/time/material sampling separated; no universal qualitative N; code vs meaning saturation; saturation variants; information power; methodology-specific and claim-level adequacy.
 83. Qualitative branch остаётся **RESEARCHING**.
-84. Следующий микро-проход: **RES-02/PASS-06D12 — reflexivity, trustworthiness and qualitative quality architectures: credibility/dependability/confirmability/transferability, researcher positioning, reflexive journaling, triangulation, negative cases, member reflection/checking, audit trail, intercoder agreement boundaries, methodology-specific quality criteria and fitness/exercise applications**.
+84. Завершён **PASS-06D12 — reflexivity, trustworthiness and qualitative quality architectures**.
+85. Зафиксирована cross-family quality architecture: methodological integrity as main umbrella; credibility/transferability/dependability/confirmability retained as useful but non-exclusive; reflexivity ≠ biography or bias elimination; triangulation ≠ truth by agreement; member checking optional and purpose-dependent; negative cases/rival explanations/audit trails/peer debriefing routed by methodology; intercoder reliability explicitly non-universal and inappropriate as a reflexive-TA validity requirement; JARS/SRQR/COREQ treated as reporting frameworks rather than quality scores.
+86. Qualitative branch остаётся **RESEARCHING**.
+87. Следующий микро-проход: **RES-02/PASS-06D13 — qualitative components nested within trials, cohorts, intervention-development and process-evaluation structures: parent-design vs qualitative-component identity, sampling from trial arms/outcomes, timing, integration purpose, process/mechanism interpretation, intervention development, embedded vs parallel qualitative work, causal-inference boundaries and fitness/exercise applications**.
 
 ## Правила Stage 2 после restart
 
