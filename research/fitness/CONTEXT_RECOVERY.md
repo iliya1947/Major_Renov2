@@ -137,33 +137,32 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D10_longitudinal_qualitative_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D11_qualitative_sampling_data_sufficiency_synthesis.md`
 
-Commit PASS-06D10:
+Commit PASS-06D11:
 
-`68aa615abd9930013b7f2ff7e91ee644bba2b44e`
+`d334f1da9f49a14bf15d8e4315213b4b79db3426`
 
-PASS-06D10 established longitudinal qualitative research as a temporal architecture layered on top of a parent qualitative methodology. Repeated interviews alone are insufficient: strong LQR requires a longitudinal question, time-structured/repeated data and explicit analysis of change/continuity. Prospective vs retrospective/quasi-longitudinal designs, recurrent cross-sectional vs trajectory analyses, fixed-clock vs event-contingent timing, entities followed through time, attrition/missing waves and embedded trial/process-evaluation components are now explicit. Temporal ordering strengthens process interpretation but does not establish causal effects. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
+PASS-06D11 established a cross-family qualitative sampling and data-sufficiency architecture. Purposive sampling is treated as an umbrella requiring an explicit subtype/goal; criterion, maximum-variation, homogeneous, typical, intensity, extreme, critical and confirming/disconfirming strategies are separated. Selection is distinct from recruitment, and theoretical sampling requires emerging analysis to redirect data collection. Sampling units can be participants, cases, sites, events, times, interactions or materials. There is no universal qualitative N: saturation is methodology-dependent, code vs meaning saturation are distinct, and information power provides a non-statistical adequacy framework. Adequacy is evaluated at the level of the intended claim. Qualitative branch remains RESEARCHING. RES-02 overall remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06D11 — qualitative sampling and data-sufficiency cross-family synthesis**
+**RES-02 / PASS-06D12 — reflexivity, trustworthiness and qualitative quality architectures**
 
 Scope следующего micro-pass:
 
-1. purposive sampling strategies;
-2. criterion sampling;
-3. maximum-variation and homogeneous sampling;
-4. extreme/deviant/critical/typical cases;
-5. snowball/chain referral and convenience recruitment;
-6. theoretical sampling boundary;
-7. case/site/event/time sampling;
-8. sample-size justification;
-9. saturation variants;
-10. information power;
-11. negative/deviant cases;
-12. methodology-specific adequacy;
-13. unresolved gaps → next qualitative micro-pass.
+1. credibility / dependability / confirmability / transferability;
+2. researcher positioning and reflexivity;
+3. reflexive journaling/memoing;
+4. triangulation types and limits;
+5. negative/deviant case analysis;
+6. member checking / member reflection boundary;
+7. audit trail / decision trail;
+8. peer debriefing;
+9. intercoder agreement / consensus boundaries;
+10. methodology-specific quality criteria;
+11. fitness/exercise applications;
+12. unresolved gaps → next qualitative micro-pass.
 
 ---
 
@@ -180,11 +179,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D10_longitudinal_qualitative_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D11_qualitative_sampling_data_sufficiency_synthesis.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06D11_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06D12_...`
 
 ---
 
