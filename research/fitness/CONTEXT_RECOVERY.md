@@ -137,32 +137,31 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C4_observational_biomarker_omics_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C5_nonhuman_translational_mechanistic_models.md`
 
-Commit PASS-06C4:
+Commit PASS-06C5:
 
-`3e212ce9ce508d56ab6018d3e49e1cbed2ce53c3`
+`9003734b1e4b92e10452092923eaa2d235393a9e`
 
-Observational mechanistic / biomarker / omics taxonomy established. Mechanistic branch remains RESEARCHING.
+Nonhuman/translational mechanistic taxonomy established. Mechanistic branch remains RESEARCHING pending integration/gap audit.
 
 ### Следующая задача
 
-**RES-02 / PASS-06C5 — nonhuman and translational mechanistic models**
+**RES-02 / PASS-06C6 — mechanistic-branch integration and gap audit**
 
 Scope следующего micro-pass:
 
-1. animal model mechanistic structures;
-2. in vitro / ex vivo / organoid / tissue models;
-3. genetic perturbation / knockout / knockdown / overexpression;
-4. pharmacologic perturbation in nonhuman models;
-5. computational/simulation mechanism models;
-6. model-system validity;
-7. species / tissue / dose / timescale translation;
-8. necessity/sufficiency and rescue in nonhuman systems;
-9. external validity to human exercise/training;
-10. convergent evidence across model systems;
-11. what nonhuman evidence can/cannot establish;
-12. unresolved gaps → mechanistic integration audit.
+1. re-read PASS-06C1…C5;
+2. cross-check PASS-02/03/04/06A/06B boundaries;
+3. test for missing human mechanistic design families;
+4. test necessity/sufficiency claim consistency;
+5. test target-engagement vs mediation consistency;
+6. test observational/omics vs causal-design boundary;
+7. test animal/in-vitro/computational translation boundary;
+8. inspect surrogate/target-validation as possible blockers;
+9. identify exercise-specific omissions;
+10. separate later statistical/RoB topics from true RES-02 gaps;
+11. decide whether mechanistic synthesis is permitted.
 
 ---
 
@@ -179,11 +178,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C4_observational_biomarker_omics_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C5_nonhuman_translational_mechanistic_models.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06C5_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06C6_...`
 
 ---
 
