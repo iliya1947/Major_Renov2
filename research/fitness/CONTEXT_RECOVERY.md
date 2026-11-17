@@ -121,30 +121,41 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
   - `PASS-06B9` — prediction-model impact and utility study structures;
   - `PASS-06B10` — prediction-performance estimand architecture;
   - `PASS-06B11` — prediction under treatment and management;
-  - `PASS-06B12` — dynamic and landmark prediction structures.
+  - `PASS-06B12` — dynamic and landmark prediction structures;
+  - `PASS-06B13` — prediction-branch integration audit.
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B12_dynamic_landmark_prediction.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B13_prediction_branch_integration_audit.md`
 
-Commit PASS-06B12:
+Commit PASS-06B13:
 
-`87ce637d6a6163eb1f7fc0fffb4ff043a686314b`
+`481599546692610fdee0470b18312fd960882bbe`
+
+Audit correction commit:
+
+`7a1ea86364a34158b60cde5419cc34b7a805fefe`
+
+Аудит выявил три blocking gaps перед synthesis:
+
+1. diagnostic prediction models vs DTA;
+2. competing risks / recurrent events / multistate prediction;
+3. continual/online updating and post-deployment lifecycle.
 
 ### Следующая задача
 
-**RES-02 / PASS-06B13 — prediction-branch integration audit**
+**RES-02 / PASS-06B14 — diagnostic prediction models vs diagnostic test accuracy**
 
 Scope следующего micro-pass:
 
-1. diagnostic vs prognostic prediction;
-2. static vs dynamic prediction;
-3. factual vs counterfactual targets;
-4. prognostic risk vs treatment-effect prediction;
-5. development / internal validation / IECV / external validation / update / impact phases;
-6. cross-check PASS-06A and PASS-06B1…B12 for contradictions;
-7. identify unresolved taxonomy gaps;
-8. decide which gaps require additional micro-passes before synthesis.
+1. current-condition multivariable probability models;
+2. diagnostic prediction-model development/evaluation lifecycle;
+3. relation to reference standard;
+4. calibration/discrimination/overall fit;
+5. threshold accuracy and overlap with DTA;
+6. boundary diagnostic model vs single/multiple index test;
+7. applicability of B5–B10 lifecycle to diagnostic models;
+8. unresolved gaps → next micro-pass.
 
 ---
 
@@ -161,11 +172,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B12_dynamic_landmark_prediction.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B13_prediction_branch_integration_audit.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06B13_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06B14_...`
 
 ---
 
