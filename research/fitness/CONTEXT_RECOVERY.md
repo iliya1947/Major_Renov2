@@ -147,35 +147,20 @@ PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgem
 
 ### Следующая задача
 
-**RES-02 / PASS-06F8 — Nominal Group Technique + structured consensus / RAND-UCLA crosswalk**
+**Сначала — purpose-alignment / methodology-sufficiency audit. Предметный PASS-06F8 не запускать.**
 
-Scope следующего micro-pass:
+Цель ближайшего блока:
 
-1. classical NGT;
-2. idea-generation sequence;
-3. round-robin;
-4. clarification/discussion;
-5. ranking/voting;
-6. modified NGT;
-7. online/virtual NGT;
-8. panel size/group structure;
-9. facilitator role;
-10. anonymity boundary;
-11. NGT vs focus group;
-12. NGT vs Delphi;
-13. RAND/UCLA Appropriateness Method;
-14. appropriateness vs necessity;
-15. evidence review;
-16. 1–9 rating architecture;
-17. disagreement / IPRAS;
-18. discussion between rating rounds;
-19. NGT vs RAND/UCLA;
-20. consensus conferences;
-21. hybrid/formal consensus methods;
-22. ACCORD;
-23. sport/exercise/rehabilitation applications;
-24. quality/provenance;
-25. STOP after saved PASS.
+1. проверить текущую валидированную методологическую базу против функции Phase A из `RESEARCH_ORDER.md`;
+2. определить, какие оставшиеся RES gaps реально блокируют оценку fitness studies / meta-analyses / guidelines;
+3. всё, что не имеет конкретной downstream-зависимости, перевести в deferred/watchlist;
+4. согласовать `RESEARCH_QUEUE.md`, `WORKFLOW.md` и этот handoff с одним source-of-truth;
+5. только после этого определить следующий research PASS или переход по dependency order.
+
+Ключевой ограничитель Phase A:
+
+**RES существует для оценки и перевода fitness-доказательств в решения; exhaustive methodology taxonomy не является целью проекта.**
+
 
 ---
 
