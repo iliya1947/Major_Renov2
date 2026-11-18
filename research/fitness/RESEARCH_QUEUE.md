@@ -9,7 +9,9 @@
 - **ANA-01 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-01/PASS-01 core terminology revalidation completed 2026-11-18.
 - ANA-01/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT NEXT: **Phase B / ANA-02 — Levels / tissues of musculoskeletal structural organization.**
+- CURRENT: **Phase B / ANA-02 — Levels / tissues of musculoskeletal structural organization.**
+- ANA-02/PASS-01 structural-map revalidation completed 2026-11-18.
+- CURRENT NEXT: **ANA-02 closure audit / synthesis**. Do not start ANA-03 before ANA-02 closure.
 
 ## История текущего revalidation cycle
 
@@ -318,3 +320,9 @@
 247. TA2 remains current published IFAA/FIPAT Terminologia Anatomica on sources checked 2026-11-18; TA2.5 remains planned future publication.
 248. No terminology blocker remains for downstream anatomy/biomechanics; detailed 3D coordinate mechanics stays deferred to MEC/region-specific topics.
 249. Следующий один блок: **ANA-02 — Levels / tissues of musculoskeletal structural organization**.
+
+250. Завершён **ANA-02/PASS-01 — Musculoskeletal tissue structural map revalidation**.
+251. Bone, articular cartilage, capsule/synovium, tendon, ligament, MTJ, enthesis, aponeurosis, bursa, tendon sheath, retinaculum, meniscus/disc, labrum and intramuscular connective tissue revalidated at structural level.
+252. Current 2026 enthesis evidence supports graded fibrocartilaginous transitions and enthesis-organ concept; current MTJ literature preserves MTJ ≠ enthesis.
+253. Fascia terminology marked **CONTESTED**: named fasciae/septa retained; body-wide “fascial system” ontology not assumed; long-range fascial-chain claims deferred to dedicated biomechanics/evidence review.
+254. Следующий один блок: **ANA-02 closure audit / synthesis**.
