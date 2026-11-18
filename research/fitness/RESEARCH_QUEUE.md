@@ -18,7 +18,9 @@
 - **ANA-04 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-04/PASS-01 structural-functional revalidation completed 2026-11-18.
 - ANA-04/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT NEXT: **Phase B / ANA-05 — Arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces.**
+- CURRENT: **Phase B / ANA-05 — Arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces.**
+- ANA-05/PASS-01 structural-functional revalidation completed 2026-11-18.
+- CURRENT NEXT: **ANA-05 closure audit / synthesis**. Do not start ANA-06 before ANA-05 closure.
 
 ## История текущего revalidation cycle
 
@@ -363,3 +365,9 @@
 277. ANA-04 = **CLOSED_FOR_PRACTICE v2.0**.
 278. Long-head biceps shoulder/superior-labral relationship добавлен в EVIDENCE_LEDGER как отдельный downstream-relevant claim.
 279. Следующий один блок: **ANA-05 — Arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces**.
+
+280. Завершён **ANA-05/PASS-01 — Arm and elbow structural-functional revalidation**.
+281. Elbow multi-articulation model, collateral/annular systems, biceps/brachialis/brachioradialis, triceps/anconeus, coracobrachialis boundary and PRUJ+DRUJ rotation logic revalidated.
+282. Current 2026 PRUJ CT study added normal morphology variability; current 2025 bicipital-aponeurosis work reinforces distal biceps tendon+aponeurosis architecture.
+283. 2026 anconeus 3D compartmentalization retained as provisional functional detail, not a training rule.
+284. Следующий один блок: **ANA-05 closure audit / synthesis**.
