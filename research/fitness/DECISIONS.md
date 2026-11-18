@@ -74,3 +74,17 @@
 3. нерелевантные методологические ветки уходят в deferred/watchlist;
 4. PASS-06F8 не запускается автоматически;
 5. следующий блок — methodology-sufficiency audit, после которого определяется фактический следующий dependency.
+
+
+### Решение 10
+**Phase A methodology признана достаточной для перехода к substantive fitness research.**
+
+Причина: отдельный Methodology Sufficiency Audit показал, что revalidated RES-01/02, operational legacy RES-03…RES-29 и созданные project tools уже позволяют формулировать вопросы, оценивать primary studies, syntheses/guidelines, uncertainty, applicability и переводить evidence в последующие решения. Полная глубокая revalidation всей методологии до Phase B не даёт обязательной downstream-пользы и противоречит purpose gate.
+
+Основания: `AGENT.md`, `RESEARCH_ORDER.md`, `PHASE_A_METHODOLOGY_SUFFICIENCY_AUDIT.md`.
+
+Последствия:
+1. Phase B разблокирована.
+2. RES-03…RES-29 revalidate по конкретному methodological trigger.
+3. RES-02 F8 и дальнейшая exhaustive taxonomy deferred.
+4. Следующий research block — ANA-01.
