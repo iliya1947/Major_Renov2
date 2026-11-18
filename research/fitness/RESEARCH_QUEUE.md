@@ -261,7 +261,11 @@
 226. Person-Based Approach routed separately as a **health-intervention development approach/methodology** with evidence + theory + person-based qualitative research and Guiding Principles (USER_CONTEXT → DESIGN_OBJECTIVE → KEY_FEATURE). Design Thinking routed as a non-atomic innovation-process family.
 227. Co-design/participatory design/co-production routed as a **participatory design-process/governance layer** rather than inferred from user involvement alone. Current reviews show substantial definition heterogeneity and participant roles ranging from consultation to real shared design authority; EBCD/E2CD are specific sublineages. **Dedicated F6A governance/taxonomy blocker required.**
 228. HCD/UCD and PBA = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
-229. Следующий микро-проход: **RES-02/PASS-06F6A — co-design / participatory design / co-production / EBCD governance structures**.
+229. Завершён **PASS-06F6A — co-design / participatory design / co-production / EBCD governance structures**.
+230. Participatory-design governance blocker closed. Project now distinguishes research participation, consultation, PPI/involvement, co-design and co-production/shared governance by **enacted stages + decision rights + power + final authority**, not author label alone. Participatory Design = participatory design process/governance framework; co-design = collaborative design with material stakeholder influence; co-production = broader shared-power/shared-responsibility lifecycle mode.
+231. EBCD / accelerated EBCD / E2CD retained as specific health-service co-design lineages. PAR and CBPR remain broader parent participatory research/action architectures. Current quality/process layers added: 2026 co-design minimum standards, PROSECO process-evaluation framework, PRODUCES+ planning guidance; GRIPP2 remains PPI reporting. Deliberative Dialogue routed as a later consensus/KT method handoff, not a new participatory-design blocker.
+232. Participatory-design / co-design / co-production / EBCD = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
+233. Следующий микро-проход: **RES-02/PASS-06F7 — Delphi study structures**.
 
 ## Правила Stage 2 после restart
 
