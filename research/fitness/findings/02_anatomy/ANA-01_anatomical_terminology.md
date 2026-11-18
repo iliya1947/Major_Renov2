@@ -1,6 +1,6 @@
 # ANA-01 — Анатомическая терминология, положение, плоскости, оси и движения
 
-Статус: **CLOSED_FOR_PRACTICE v1.0**  
+Статус: **LEGACY v1.0 — REVALIDATION IN PROGRESS; use current ANA-01 passes/state**  
 Дата: 2026-11-16  
 Область: 02 — Анатомия
 
