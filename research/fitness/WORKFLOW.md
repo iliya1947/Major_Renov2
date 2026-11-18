@@ -219,11 +219,11 @@ Stage 2 / Phase B продолжается.
 5. ANA-03 = **CLOSED_FOR_PRACTICE v2.0**.
 6. ANA-04 = **CLOSED_FOR_PRACTICE v2.0**.
 7. ANA-05 = **CLOSED_FOR_PRACTICE v2.0**.
-8. ANA-05/PASS-01 content revalidation завершён.
-9. ANA-05/PASS-02 closure audit / synthesis завершён; blockers не найдены.
-10. Canonical ANA-05 finding обновлён до v2.0.
-11. Следующий один блок: **ANA-06 — forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces**.
-12. ANA-07 автоматически не запускать после ANA-06; сохраняется one block → state update → STOP.
+8. Текущая тема: **ANA-06 — forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces**.
+9. **ANA-06/PASS-01 — forearm-wrist-hand-grip revalidation** завершён 2026-11-18.
+10. Current updates: multi-component TFCC model, 2026 wrist-extensor grip-stabilization reference, palmar-interosseous count nuance.
+11. Следующий один блок: **ANA-06 closure audit / synthesis**.
+12. ANA-07 автоматически не запускать.
 
 ## 9. Зафиксированный общий план
 
@@ -240,7 +240,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-06 — forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces**.
+Ближайшая задача: Stage 2 / Phase B — **ANA-06 closure audit / synthesis**; затем STOP.
 
 
 ## 10. Stage 0B — результат
