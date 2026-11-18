@@ -179,9 +179,7 @@ PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgem
 
 `research/fitness/passes/13_research_methodology/RES-02/PASS-06F7_Delphi_study_structures.md`
 
-и затем продолжить granular revalidation новым файлом:
-
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F8_...`
+Затем **не открывать новый предметный PASS автоматически**. Сначала выполнить purpose-alignment / methodology-sufficiency audit, указанный в разделе «Следующая задача», и только по его результату определить дальнейший маршрут.
 
 ---
 
