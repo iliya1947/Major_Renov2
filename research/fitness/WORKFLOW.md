@@ -216,11 +216,12 @@ Stage 2 / Phase B продолжается.
 2. Текущая область: **02 — Anatomy**.
 3. ANA-01 = **CLOSED_FOR_PRACTICE v2.0**.
 4. ANA-02 = **CLOSED_FOR_PRACTICE v2.0**.
-5. Текущая тема: **ANA-03 — axial skeleton / vertebral column / thoracic cage structural foundation**.
-6. **ANA-03/PASS-01 — structural-foundation revalidation** завершён 2026-11-18.
-7. Current normal-variation evidence added for sagittal alignment and rib/costal-cartilage anatomy.
-8. Следующий один блок: **ANA-03 closure audit / synthesis**.
-9. ANA-04 автоматически не запускать.
+5. ANA-03 = **CLOSED_FOR_PRACTICE v2.0**.
+6. ANA-03/PASS-01 content revalidation завершён.
+7. ANA-03/PASS-02 closure audit / synthesis завершён; blockers не найдены.
+8. Canonical ANA-03 finding обновлён до v2.0.
+9. Следующий один блок: **ANA-04 — Shoulder complex**.
+10. ANA-05 автоматически не запускать после ANA-04; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -237,7 +238,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-03 closure audit / synthesis**; затем STOP.
+Ближайшая задача: Stage 2 / Phase B — **ANA-04 — Shoulder complex**.
 
 
 ## 10. Stage 0B — результат
