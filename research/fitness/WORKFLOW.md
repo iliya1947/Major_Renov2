@@ -214,24 +214,13 @@ Stage 2 / Phase B продолжается.
 
 1. Phase A methodology = **SUFFICIENT_FOR_NEXT_PHASE**.
 2. Текущая область: **02 — Anatomy**.
-3. ANA-01 = **CLOSED_FOR_PRACTICE v2.0**.
-4. ANA-02 = **CLOSED_FOR_PRACTICE v2.0**.
-5. ANA-03 = **CLOSED_FOR_PRACTICE v2.0**.
-6. ANA-04 = **CLOSED_FOR_PRACTICE v2.0**.
-7. ANA-05 = **CLOSED_FOR_PRACTICE v2.0**.
-8. ANA-06 = **CLOSED_FOR_PRACTICE v2.0**.
-9. ANA-07 = **CLOSED_FOR_PRACTICE v2.0**.
-10. ANA-08 = **CLOSED_FOR_PRACTICE v2.0**.
-11. ANA-09 = **CLOSED_FOR_PRACTICE v2.0**.
-12. ANA-10 = **CLOSED_FOR_PRACTICE v2.0**.
-13. ANA-11 = **CLOSED_FOR_PRACTICE v2.0**.
-14. ANA-12 = **CLOSED_FOR_PRACTICE v2.0**.
-15. ANA-13 = **CLOSED_FOR_PRACTICE v2.0**.
-16. ANA-13/PASS-01 content revalidation завершён.
-17. ANA-13/PASS-02 closure audit / synthesis завершён; exact area-map coverage 13/13.
-18. Первый canonical ANA-13 finding создан как v2.0.
-19. Следующий один блок: **ANA-14 — Surface anatomy / landmarks**.
-20. ANA-15 автоматически не запускать после ANA-14; сохраняется one block → state update → STOP.
+3. ANA-01…ANA-13 = **CLOSED_FOR_PRACTICE v2.0**.
+4. Текущая тема: **ANA-14 — Surface anatomy / landmarks**.
+5. **ANA-14/PASS-01 — surface anatomy and measurement-landmark revalidation** завершён 2026-11-18.
+6. Exact area-map coverage = **6/6 items** at content level; no legacy ANA-14 finding exists in current branch.
+7. Current updates: landmark vs proxy vs diagnosis separated; circumference protocols marked site-dependent; surface landmark vs internal joint center separated; palpation/marker/STA uncertainty preserved.
+8. Следующий один блок: **ANA-14 closure audit / synthesis**.
+9. ANA-15 автоматически не запускать.
 
 ## 9. Зафиксированный общий план
 
@@ -248,7 +237,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-14 — Surface anatomy / landmarks**.
+Ближайшая задача: Stage 2 / Phase B — **ANA-14 closure audit / synthesis**; затем STOP.
 
 
 ## 10. Stage 0B — результат
