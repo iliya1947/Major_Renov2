@@ -103,7 +103,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-04 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **ANA-05 — arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces**.
+Текущая тема: **ANA-05 — arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -153,38 +153,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-04/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-05/PASS-01_arm_elbow_structural_functional_revalidation.md`
 
-ANA-04 = **CLOSED_FOR_PRACTICE v2.0**.
+Commit PASS-01:
+
+`e33bb60170c5f908f74590e1be8f0ae7fec9b78d`
+
+ANA-05/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
 
 ### Следующая задача
 
-**Phase B / ANA-05 — Arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces.**
+**ANA-05 closure audit / synthesis.**
 
-Последние завершённые блоки:
+Последний завершённый блок:
 
-1. `research/fitness/passes/02_anatomy/ANA-04/PASS-01_shoulder_complex_structural_functional_revalidation.md`
-2. `research/fitness/passes/02_anatomy/ANA-04/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-05/PASS-01_arm_elbow_structural_functional_revalidation.md`
 
-ANA-04 status:
-**CLOSED_FOR_PRACTICE v2.0**.
+PASS-01 установил:
 
-Closure established:
+1. elbow region = humeroulnar + humeroradial + PRUJ articulations, а forearm rotation требует PRUJ + DRUJ;
+2. UCL/MCL, lateral collateral complex, annular ligament, capsule, bone and muscles jointly stabilize elbow;
+3. biceps = elbow flexor + supinator + shoulder-crossing biarticular muscle with distal tendon + bicipital-aponeurosis architecture;
+4. brachialis = ulna-inserting elbow flexor across forearm orientations;
+5. brachioradialis = radial-nerve elbow flexor with mid-prone relevance, not an isolated “hammer-curl muscle”;
+6. triceps = three-head elbow extensor; long head crosses shoulder;
+7. anconeus = extensor/stabilizer; 2026 internal compartmentalization evidence remains provisional;
+8. PRUJ morphology varies normally between individuals;
+9. grip/shoulder/elbow position changes anatomy/geometry but does not by itself establish the best exercise;
+10. no content blocker found, but closure requires a separate audit/synthesis.
 
-1. SC, AC and GH = true synovial joints; ST = functional articulation;
-2. clavicle = principal bony axial–appendicular bridge;
-3. scapula = mobile glenoid/orientation platform;
-4. labrum, capsule, GH ligaments and bursae are structurally distinguished;
-5. rotator cuff composition, attachments and movement/stabilization roles are covered;
-6. deltoid, major scapular and axiohumeral muscles are mapped at anatomy level;
-7. long-head biceps is explicitly retained as a shoulder-related structure;
-8. total arm elevation is distributed across GH + scapular + clavicular + thoracic motion;
-9. no universal scapulohumeral setting phase or constant ratio is encoded;
-10. normal morphology/kinematics variability is retained without pathology or technique inference;
-11. no project-relevant ANA-04 blocker remains.
-
-Следующий один блок: **ANA-05**. После него сохранить state и STOP.
+Следующий блок: **ANA-05 closure audit / synthesis**. Do not start ANA-06 in the same working block.
 
 ---
 
