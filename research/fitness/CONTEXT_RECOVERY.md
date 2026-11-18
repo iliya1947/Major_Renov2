@@ -123,7 +123,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-14 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **ANA-15 — Individual anatomy / anthropometry**.
+Последняя закрытая тема: **ANA-15 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-01 — Principles of adaptation**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -173,43 +175,47 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-15/PASS-01_individual_anatomy_anthropometry_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-15/PASS-02_closure_audit_and_synthesis.md`
 
-Commit PASS-01:
+ANA-15 = **CLOSED_FOR_PRACTICE v2.0**.
 
-`ac4152e2abb7cbe11000ee042c3f26768a3e80fe`
+Canonical finding:
 
-ANA-15/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+`research/fitness/findings/02_anatomy/ANA-15_individual_anatomy_anthropometry.md`
 
-Current branch note:
-**отдельного legacy ANA-15 finding-файла нет; canonical finding создаётся только после closure audit.**
+Anatomy state:
+**ANA-01…ANA-15 CLOSED_FOR_PRACTICE v2.0** for current project purpose.
 
 
 ### Следующая задача
 
-**ANA-15 closure audit / synthesis.**
+**Phase B / PHY-01 — Principles of adaptation.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-15/PASS-01_individual_anatomy_anthropometry_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-15/PASS-01_individual_anatomy_anthropometry_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-15/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-15 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. exact `areas/02_anatomy.md` Sections 18–19 coverage = **18/18 items** at content level;
-2. segment lengths, humerus/forearm ratio, femur/tibia ratio and trunk length can alter exercise geometry, but no single ratio uniquely determines technique;
-3. pelvic/shoulder breadth and individual joint geometry can change comfortable paths and clearances;
-4. femoral/acetabular version and related joint variables show wide healthy variation and method-dependent “normal” ranges;
-5. muscle attachment patterns and belly/tendon proportions vary normally, but variant anatomy does not by itself justify targeting or hypertrophy claims;
-6. carrying angle varies with group/side/measurement/elbow position and is not one fixed universal value;
-7. small right/left asymmetry can be normal; interpretation requires magnitude, reliability, symptoms and history;
-8. skeletal growth depends on physes/growth plates, and skeletal maturity is not one universal chronological age;
-9. aging changes average muscle/tendon/bone structure but exact phenotype is heterogeneous; not all proposed age-related tissue changes are universal;
-10. sex-related average structural differences exist, but overlap and population/allometry effects make demographic category an inadequate substitute for individual measurement;
-11. anatomy informs exercise options/geometry but does not prescribe one stance, grip or path;
-12. no content blocker found;
-13. no legacy ANA-15 finding exists in current branch, so closure should create `findings/02_anatomy/ANA-15_individual_anatomy_anthropometry.md` if audit passes.
+Anatomy status:
+**ANA-01…ANA-15 = CLOSED_FOR_PRACTICE v2.0** for current downstream fitness dependencies.
 
-Следующий блок: **ANA-15 closure audit / synthesis**. Do not start PHY-01 in the same working block.
+Closure established:
+
+1. exact Sections 18–19 coverage = **18/18 PASS**;
+2. anthropometry changes exercise geometry/options but no single ratio determines technique;
+3. healthy joint geometry varies and method-dependent “normal” values are preserved;
+4. attachment and muscle-belly/tendon proportions vary without automatic targeting/hypertrophy inference;
+5. carrying-angle and side-to-side asymmetry are variable and non-diagnostic by themselves;
+6. skeletal maturity is not one universal chronological age;
+7. age-related muscle/tendon/bone changes are heterogeneous rather than one inevitable phenotype;
+8. sex/population group differences are not substitutes for individual measurement;
+9. normal variation remains distinct from MED pathology;
+10. no project-relevant anatomy blocker remains.
+
+Следующий один блок: **PHY-01 — Principles of adaptation**. После него сохранить state и STOP.
 
 ---
 
@@ -225,9 +231,9 @@ PASS-01 установил:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-15/PASS-01_individual_anatomy_anthropometry_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-15/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **ANA-15 closure audit / synthesis** и остановиться перед PHY-01.
+Затем выполнить только записанный выше **PHY-01** и остановиться перед следующим блоком.
 
 ---
 
