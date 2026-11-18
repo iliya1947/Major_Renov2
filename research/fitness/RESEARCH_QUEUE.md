@@ -269,7 +269,7 @@
 234. Delphi routed as a structured iterative expert/stakeholder judgement family. Core project architecture = anonymity appropriate to variant + iteration + controlled feedback + statistical summary + opportunity to reconsider/re-rate. Classical, modified, e-/real-time and policy/dissensus variants retained; “modified Delphi” is not treated as one standardized design.
 235. Panel composition, anonymity level, item provenance, round structure, feedback, consensus/stability, attrition, stopping rules and dissensus are explicit extraction layers. No universal panel size, consensus threshold, stability metric or mandatory round count is encoded as a hard standard. CREDES = conduct/reporting guidance; ACCORD = broad consensus reporting; DELPHISTAR = Delphi-specific reporting; DCAT 2025 = provisional appraisal layer; 2026 cognitive-bias framework added as a bias-audit layer.
 236. Delphi = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
-237. Следующий микро-проход: **RES-02/PASS-06F8 — Nominal Group Technique + structured consensus / RAND-UCLA crosswalk**.
+237. **PASS-06F8 не запускать автоматически.** Следующий блок — purpose-alignment / methodology-sufficiency audit: проверить, какие remaining RES gaps реально нужны для оценки fitness evidence; нерелевантные taxonomy gaps перенести в deferred/watchlist.
 
 ## Правила Stage 2 после restart
 
