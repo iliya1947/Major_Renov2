@@ -68,9 +68,11 @@
 - PHY-03/PASS-01 fiber-types/phenotype content revalidation completed 2026-11-18.
 - PHY-03/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 5 coverage = **11/11 PASS** and no project-relevant blocker remains.
 - First canonical PHY-03 finding created as v2.0 because no legacy finding existed in the current branch.
-- **PHY-04 — RESEARCHING.**
-- PHY-04/PASS-01 contraction-modes content revalidation completed 2026-11-18; exact Section 4 coverage = **10/10 at content level**; force–length/force–velocity foundation also covered; closure audit/synthesis pending.
-- CURRENT NEXT: **PHY-04/PASS-02 — Closure audit and synthesis.**
+- **PHY-04 — CLOSED_FOR_PRACTICE v2.0.**
+- PHY-04/PASS-01 contraction-modes content revalidation completed 2026-11-18.
+- PHY-04/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 4 coverage = **10/10 PASS**; force–length/force–velocity foundation passed; no project-relevant blocker remains.
+- First canonical PHY-04 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **Phase B / PHY-05 — Acute response to resistance exercise.**
 
 ## История текущего revalidation cycle
 

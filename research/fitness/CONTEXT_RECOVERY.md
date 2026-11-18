@@ -131,7 +131,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-03 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-04 — Contraction modes — RESEARCHING**.
+Последняя закрытая тема: **PHY-04 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-05 — Acute response to resistance exercise**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -181,37 +183,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-04/PASS-01_contraction_modes_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-04/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-04/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-04 = **CLOSED_FOR_PRACTICE v2.0**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 4 = **10/10 at content level**;
-- normalized force–length / force–velocity foundation = covered.
+Canonical finding:
 
-PASS-01 established:
+`research/fitness/findings/03_physiology/PHY-04_contraction_modes.md`
 
-1. concentric = active shortening, eccentric = active lengthening, isometric = no intended gross length change;
-2. external joint behavior is not assumed to map perfectly to fascicle/tendon behavior;
-3. isokinetic is an apparatus-controlled constant-angular-velocity condition, not a fourth fundamental sarcomeric mechanism;
-4. force–velocity and force–length relations are explicit;
-5. eccentric force capacity is generally higher than concentric under matched maximal conditions, with exact ratios context dependent;
-6. eccentric work has lower intrinsic metabolic cost per unit force/work but can still carry high session recovery cost;
-7. fatigue is separated into metabolic/peripheral, neuromuscular and delayed damage-related components;
-8. novel/high-strain eccentric work can increase EIMD/DOMS, while repeated exposure produces strong repeated-bout protection;
-9. strength adaptation is mode/task specific;
-10. current evidence does not establish a universal eccentric/concentric/isometric hypertrophy hierarchy;
-11. isometric training has meaningful strength and hypertrophy utility with task/angle/length specificity;
-12. SSC remains an integrated MEC/NEU/TEC/PRO topic rather than a contraction-mode-only mechanism;
-13. acute mode responses are not used as chronic adaptation surrogates;
-14. no content-level blocker was found;
-15. canonical PHY-04 finding is deferred until closure audit.
+Closure established:
+
+1. exact `areas/03_physiology.md` Section 4 coverage = **10/10 PASS**;
+2. concentric/eccentric/isometric definitions are fixed with internal fascicle/MTU nuance;
+3. isokinetic is treated as an apparatus-controlled velocity condition rather than a separate sarcomeric mechanism;
+4. force–velocity and force–length foundations pass;
+5. eccentric force capacity is high but exact ratios are context dependent;
+6. eccentric intrinsic metabolic cost is low relative to force, without assuming universally low session recovery cost;
+7. fatigue is separated into metabolic/peripheral, neuromuscular and damage-related dimensions;
+8. eccentric EIMD/DOMS is novelty/dose dependent and repeated-bout protection is retained;
+9. strength adaptation is mode/task specific with incomplete cross-mode transfer;
+10. no universal eccentric/concentric/isometric hypertrophy hierarchy is claimed;
+11. accentuated eccentric loading is not treated as chronically superior merely because eccentric stimulus is larger;
+12. architectural adaptation uncertainty remains bounded;
+13. isometric training is retained as a legitimate strength/hypertrophy tool with task/angle specificity;
+14. SSC remains integrated MEC/NEU/TEC/PRO territory;
+15. acute contraction-mode responses are not used as chronic adaptation surrogates;
+16. no project-relevant blocker remains;
+17. first canonical PHY-04 finding was created at v2.0.
 
 ### Следующая задача
 
-**PHY-04/PASS-02 — Closure audit and synthesis.**
+**Phase B / PHY-05 — Acute response to resistance exercise.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-05 автоматически.
+После следующего одного блока сохранить state и STOP. Не открывать PHY-06 автоматически.
 
 ---
 
@@ -227,9 +231,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-04/PASS-01_contraction_modes_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-04/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-04/PASS-02 closure audit and synthesis** и остановиться перед PHY-05.
+Затем выполнить только записанный выше **PHY-05 — Acute response to resistance exercise** и остановиться перед следующим topic.
 
 ---
 
