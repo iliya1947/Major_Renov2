@@ -43,9 +43,11 @@
 - ANA-12/PASS-01 nervous-anatomy-of-movement revalidation completed 2026-11-18.
 - ANA-12/PASS-02 closure audit / synthesis completed 2026-11-18; exact area-map coverage 19/19 and no project-relevant blocker remains.
 - First canonical ANA-12 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT: **Phase B / ANA-13 — Базовая cardio-respiratory anatomy.**
-- ANA-13/PASS-01 basic cardio-respiratory anatomy revalidation completed 2026-11-18; exact area-map coverage 13/13 at content level and no legacy ANA-13 finding exists in current branch.
-- CURRENT NEXT: **ANA-13 closure audit / synthesis**. Do not start ANA-14 before ANA-13 closure.
+- **ANA-13 — CLOSED_FOR_PRACTICE v2.0.**
+- ANA-13/PASS-01 basic cardio-respiratory anatomy revalidation completed 2026-11-18.
+- ANA-13/PASS-02 closure audit / synthesis completed 2026-11-18; exact area-map coverage 13/13 and no project-relevant blocker remains.
+- First canonical ANA-13 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **Phase B / ANA-14 — Surface anatomy / landmarks.**
 
 ## История текущего revalidation cycle
 
@@ -498,3 +500,9 @@
 368. Diaphragm/thoracic-cage details cross-reference ANA-07/ANA-03 rather than duplicating ownership.
 369. No legacy ANA-13 finding exists in current branch; canonical finding will be created only if closure audit passes.
 370. Следующий один блок: **ANA-13 closure audit / synthesis**.
+
+371. Завершён **ANA-13/PASS-02 — Closure audit and synthesis**.
+372. Exact Sections 15–16 coverage = **13/13 PASS**; major limb vascular routes, capillary level, four-chamber/four-valve heart map, systemic/pulmonary/bronchial circulation and respiratory anatomy passed audit.
+373. ANA-13 = **CLOSED_FOR_PRACTICE v2.0**; first canonical `ANA-13_cardio_respiratory_anatomy.md` created because current branch had no legacy finding.
+374. Existing ledger ANA13-01…ANA13-06 is sufficient for closure; physiology/pathology remain deferred to PHY/BIO/MEC/MED/TST.
+375. Следующий один блок: **ANA-14 — Surface anatomy / landmarks**.
