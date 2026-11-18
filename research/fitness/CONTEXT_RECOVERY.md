@@ -137,46 +137,45 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6A_codesign_participatory_design_coproduction_EBCD_governance_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F7_Delphi_study_structures.md`
 
-Commit PASS-06F6A:
+Commit PASS-06F7:
 
-`39a3c367984fc5bbb3e2cc7d65b0fcdb89fcbb1b`
+`67381bd3ee501df8e12ab06c06b5f75966d3e751`
 
-PASS-06F6A closed the participatory-design governance blocker. Canonical routing now separates PPI, consultation, involvement/collaboration, co-design and co-production/shared governance by enacted stages, decision rights, power and final authority rather than author label alone. Participatory Design is stored as a participatory design process/governance framework; co-design as collaborative design with material stakeholder influence; co-production as broader shared-power/shared-responsibility work across substantial project stages. EBCD, accelerated EBCD and E2CD are preserved as specific health-service co-design lineages/subtypes. PAR and CBPR remain broader parent participatory research/action architectures rather than co-design synonyms. Current co-design quality layers include the 2026 minimum standards, PROSECO process evaluation and PRODUCES+ planning guidance; GRIPP2 remains PPI reporting only. No further participatory-design taxonomy blocker is currently identified. F-branch remains RESEARCHING.
+PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgement method family. Core project architecture = anonymity appropriate to variant + iteration + controlled feedback + statistical summary + explicit opportunity to reconsider/re-rate. Classical, modified, e-/real-time and policy/dissensus variants are retained without treating “modified Delphi” as one standardized design. Panel expertise/composition, anonymity level, item provenance, round structure, feedback, consensus/stability, attrition, stopping rules and dissensus are all explicit extraction layers. No universal panel size, consensus threshold, stability metric or mandatory round count is treated as a hard standard. CREDES remains conduct/reporting guidance, ACCORD broad consensus reporting, DELPHISTAR Delphi-specific reporting; DCAT 2025 is added as a provisional Delphi appraisal layer and the 2026 bias framework as a bias-audit layer. Delphi taxonomy = ESTABLISHED FOR RES-02 STRUCTURAL USE; F-branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06F7 — Delphi study structures**
+**RES-02 / PASS-06F8 — Nominal Group Technique + structured consensus / RAND-UCLA crosswalk**
 
 Scope следующего micro-pass:
 
-1. Delphi lineage and defining architecture;
-2. classical Delphi;
-3. modified Delphi;
-4. e-Delphi;
-5. policy/decision Delphi variants;
-6. panel composition and expertise;
-7. panel size;
-8. anonymity/quasi-anonymity;
-9. round structure;
-10. item generation;
-11. controlled feedback;
-12. re-rating;
-13. consensus definition;
-14. consensus thresholds;
-15. stability vs agreement;
-16. attrition;
-17. stopping rules;
-18. dissensus;
-19. Delphi vs survey;
-20. Delphi vs NGT;
-21. Delphi vs RAND/UCLA;
-22. CREDES;
-23. ACCORD reporting;
-24. sport/exercise/rehabilitation applications;
-25. quality/provenance;
-26. STOP after saved PASS.
+1. classical NGT;
+2. idea-generation sequence;
+3. round-robin;
+4. clarification/discussion;
+5. ranking/voting;
+6. modified NGT;
+7. online/virtual NGT;
+8. panel size/group structure;
+9. facilitator role;
+10. anonymity boundary;
+11. NGT vs focus group;
+12. NGT vs Delphi;
+13. RAND/UCLA Appropriateness Method;
+14. appropriateness vs necessity;
+15. evidence review;
+16. 1–9 rating architecture;
+17. disagreement / IPRAS;
+18. discussion between rating rounds;
+19. NGT vs RAND/UCLA;
+20. consensus conferences;
+21. hybrid/formal consensus methods;
+22. ACCORD;
+23. sport/exercise/rehabilitation applications;
+24. quality/provenance;
+25. STOP after saved PASS.
 
 ---
 
@@ -193,11 +192,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6A_codesign_participatory_design_coproduction_EBCD_governance_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F7_Delphi_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F7_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F8_...`
 
 ---
 
