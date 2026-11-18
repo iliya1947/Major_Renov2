@@ -151,7 +151,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-13 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-14 — Cardiovascular exercise physiology**.
+Текущая тема: **PHY-14 — Cardiovascular exercise physiology — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -201,39 +201,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-13/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-14/PASS-01_cardiovascular_exercise_physiology_revalidation.md`
 
-PHY-13 = **CLOSED_FOR_PRACTICE v2.0**.
+PHY-14/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Canonical finding:
+Exact content coverage:
+- `areas/03_physiology.md` Section 15 = **13/13 at content level**.
 
-`research/fitness/findings/03_physiology/PHY-13_bone_physiology.md`
+PASS-01 established:
 
-Closure established:
-
-1. exact `areas/03_physiology.md` Section 14 coverage = **10/10 PASS**;
-2. bone remodeling is retained as coupled osteoclast–osteoblast activity coordinated substantially by osteocytes;
-3. serum turnover markers are separated from direct cellular balance and whole-bone adaptation;
-4. osteocyte mechanotransduction is retained without translating molecular pathways into a direct human dose prescription;
-5. BMD is separated from geometry, microarchitecture, material quality and whole-bone strength;
-6. exercise effects are site specific and pooled BMD improvements are modest rather than universal;
-7. mechanical stimulus is multi-parameter: local magnitude, rate, distribution/direction, cycles/rest and novelty matter;
-8. external load/%1RM/jump height are not equated to local skeletal strain;
-9. resistance and impact loading are both osteogenic tools without one universal best modality;
-10. heavier RT is not assumed to produce proportionally greater BMD adaptation;
-11. acute bone-turnover responses are not treated as chronic structural surrogates;
-12. bone adaptation follows multiple clocks across markers, density, geometry and strength;
-13. aging modifies remodeling, matrix and mechanosensitivity rather than simply lowering BMD;
-14. low energy availability is retained as an independent negative modifier of bone biology, while short-term markers are not equated to chronic BMD loss;
-15. osteopenia/osteoporosis, fragility fracture and clinical bone-stress questions remain MED-owned;
-16. no project-relevant blocker remains;
-17. first canonical PHY-13 finding was created at v2.0.
+1. HR, stroke volume and cardiac output are separate constructs and Q = HR × SV;
+2. stroke-volume response to exercise is context dependent and a universal mid-intensity plateau is rejected;
+3. acute resistance exercise can substantially increase HR/Q/BP, with set duration, fatigue, active muscle mass and breathing/Valsalva materially influencing response;
+4. blood pressure and total peripheral resistance are retained as integrated systemic outcomes rather than local-vessel metrics;
+5. dynamic aerobic exercise increases cardiac output while active-muscle vasodilation generally lowers systemic vascular resistance;
+6. exercise blood-flow redistribution is graded and context dependent;
+7. venous return is multi-mechanistic: muscle/respiratory pumps, venous tone/valves, pressure gradients and blood volume interact;
+8. acute postexercise hypotension is separated from chronic BP adaptation;
+9. chronic RT can improve BP/selected vascular-hemodynamic outcomes without being equated to the endurance-training phenotype;
+10. chronic aerobic adaptation integrates blood/plasma-volume, SV/Qmax, vascular, capillary and oxidative changes;
+11. capillary density is separated from capillary-to-fiber ratio because fiber CSA changes affect density;
+12. RT-related capillarization is treated as less uniform than endurance capillarization and density-only inference is rejected;
+13. normal physiology is bounded from cardiovascular diagnosis/risk assessment in MED;
+14. exact Section 15 coverage = 13/13 at content level;
+15. no content-level blocker was found;
+16. canonical PHY-14 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**Phase B / PHY-14 — Cardiovascular exercise physiology.**
+**PHY-14/PASS-02 — Closure audit and synthesis.**
 
-После следующего одного блока сохранить state и STOP. Не открывать PHY-15 автоматически.
+После PASS-02 сохранить state и STOP. Не начинать PHY-15 автоматически.
 
 ---
 
@@ -249,9 +247,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-13/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-14/PASS-01_cardiovascular_exercise_physiology_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-14 — Cardiovascular exercise physiology** и остановиться перед следующим topic.
+Затем выполнить только записанный выше **PHY-14/PASS-02 closure audit and synthesis** и остановиться перед PHY-15.
 
 ---
 
