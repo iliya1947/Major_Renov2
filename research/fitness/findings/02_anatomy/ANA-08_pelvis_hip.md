@@ -1,612 +1,456 @@
 # ANA-08 — Таз и тазобедренный сустав
 
-Статус: **LEGACY v1.0 — REVALIDATION IN PROGRESS; use current ANA-08 passes/state**  
-Дата: 2026-11-16  
+Статус: **CLOSED_FOR_PRACTICE v2.0 — revalidated 2026-11-18**  
 Область: 02 — Анатомия
 
-## 0. Question Card
+## 0. Decision
 
-### Decision
-Создать полную карту pelvic ring, hip joint и основных мышц таза/бедра, необходимую для squat/hinge/lunge, whole-body balance и понимания multiarticular lower-limb anatomy.
+Создать structural-functional карту pelvic ring, hip joint и основных hip/thigh muscle systems для последующего анализа squat/hinge/lunge, hip ROM, lower-body training и individual stance decisions без:
 
-### Question type
-Foundational anatomy / functional anatomy.
+- zero-motion SIJ model;
+- capsule-as-three-independent-ligaments simplification;
+- one-muscle “glutes/adductors” simplification;
+- universal stance derived from atlas anatomy;
+- anatomy → pathology/technique overclaim.
 
-### Critical outcomes
-1. Pelvic ring and landmarks.
-2. SI joint/pubis.
-3. Acetabulum/femoral head-neck.
-4. Hip capsule/labrum/ligaments.
-5. Gluteal muscles.
-6. Iliopsoas.
-7. Adductors.
-8. Hamstrings.
-9. Deep external rotators.
-10. TFL/IT tract.
-11. Multiarticular muscles and pelvis–femur interaction.
+## 1. Pelvic ring
 
-### Closure criterion
-Можно анатомически объяснить основные hip movements и структуру pelvic load transfer без смешения с техникой приседа/тяги и без диагноза по форме таза.
-
----
-
-## 1. Bony pelvis
-
-Bony pelvis =:
-- right os coxae;
-- left os coxae;
+Bony pelvis:
+- right and left os coxae;
 - sacrum;
 - coccyx.
 
-Each os coxae forms from fused:
-1. ilium;
-2. ischium;
-3. pubis.
+Each os coxae:
+- ilium;
+- ischium;
+- pubis.
 
-These meet at acetabulum. citeturn652805search1turn652805search6
+Ring closure:
+- anterior → pubic symphysis;
+- posterior → paired SI joints.
 
-## 2. Pelvic ring
+Useful load-transfer chain:
 
-Anterior closure:
-- pubic symphysis.
+`spine → sacrum → SI interfaces / ilia → acetabula → femora`
 
-Posterior:
-- paired sacroiliac joints.
+Project rule:
 
-Thus pelvis is a ring transmitting load:
-`spine → sacrum → ilia → acetabula → femora`
+**pelvis is a load-transmitting ring, not two independent hip sockets.**
 
-Exact load paths depend on task and muscle force.
+## 2. Pelvic landmarks
 
-## 3. Important pelvic landmarks
-
-Ilium:
+### Ilium
 - iliac crest;
-- ASIS;
-- AIIS;
-- PSIS;
-- PIIS;
+- ASIS / AIIS;
+- PSIS / PIIS;
+- iliac fossa;
 - greater sciatic notch;
-- gluteal lines;
-- iliac fossa.
+- gluteal lines.
 
-Ischium:
+### Ischium
 - ischial spine;
-- lesser sciatic notch;
 - ischial tuberosity;
+- lesser sciatic notch;
 - ramus.
 
-Pubis:
+### Pubis
 - body;
 - superior/inferior rami;
 - pubic crest/tubercle;
 - pectineal line.
 
-Together pubis/ischium surround obturator foramen.
+These landmarks anchor major muscles/ligaments needed later.
 
-## 4. Sacroiliac joint
+## 3. Sacroiliac joint
 
-SI joint connects sacrum to ilium and is major axial→pelvic load-transfer interface. citeturn652805search8
-
-It has:
-- synovial/diarthrodial anterior portion;
-- strong ligamentous posterior complex.
-
-Motion is small compared with hip but not zero.
+SIJ:
+- connects sacrum to ilium;
+- major axial→pelvic load-transfer interface;
+- includes anterior synovial/cartilaginous articulation and strong posterior/interosseous ligamentous structures.
 
 Project rule:
-do not call SI “fused” in normal adult anatomy and do not infer dysfunction from minor asymmetry.
+
+**normal SIJ is highly constrained but not fused or motionless.**
+
+Current 2026 healthy biplane-radiography data support small measurable multiplanar gait motion.
+
+Exact ROM values are task/sample specific and are not universal cutoffs.
+
+## 4. SIJ normal variation
+
+Normal SIJ anatomy can vary in:
+- shape;
+- accessory facets;
+- symmetry;
+- imaging appearance.
+
+Project rule:
+
+**SIJ asymmetry/variant morphology alone does not diagnose dysfunction.**
 
 ## 5. Pubic symphysis
 
-Secondary cartilaginous joint between pubic bodies with fibrocartilaginous disc.
+- secondary cartilaginous joint;
+- fibrocartilaginous interpubic disc;
+- completes anterior pelvic ring;
+- allows small deformation/movement.
 
-Allows small movement/deformation and completes anterior pelvic ring.
-
-Not a freely mobile synovial joint.
+It is not a freely mobile synovial joint.
 
 ## 6. Hip joint
 
-Acetabulofemoral/femoroacetabular joint:
-- femoral head ↔ acetabulum;
+Femoral head ↔ acetabulum.
+
+Type:
 - synovial ball-and-socket;
 - multiaxial;
-- substantially deeper/congruent than GH joint. citeturn652805search14
+- relatively deep/congruent compared with GH joint.
 
 Movements:
 1. flexion/extension;
 2. abduction/adduction;
-3. medial/lateral rotation;
+3. internal/external rotation;
 4. circumduction.
 
-## 7. Acetabulum
+Project rule:
 
-Cup-shaped socket formed by:
-- ilium;
-- ischium;
-- pubis.
+**hip combines substantial mobility with strong osseous/capsulolabral stability.**
 
-Structures:
-- lunate articular surface;
-- acetabular fossa;
-- acetabular notch;
-- transverse acetabular ligament;
-- labrum.
+## 7. Acetabulum / labrum
 
-Acetabulum surrounds substantial portion of femoral head, contributing strong osseous stability.
+Acetabulum:
+- formed by ilium, ischium and pubis;
+- includes lunate articular surface, fossa, notch and transverse acetabular ligament.
 
-## 8. Acetabular labrum
+Labrum:
+- fibrocartilage-rich rim;
+- deepens/enlarges effective socket;
+- contributes to fluid/suction-seal behavior;
+- contributes to stability/load distribution.
 
-Fibrocartilaginous rim around acetabular margin.
+Labrum is part of integrated hip stability, not merely a passive rim.
 
-Functions:
-1. deepens socket;
-2. expands contact/seal;
-3. contributes to joint stability/load distribution.
+## 8. Femoral head / neck / proximal femur
 
-Current anatomical review estimates meaningful increases in articulating surface/socket volume, but exact percentages are descriptive averages rather than universal geometry. citeturn652805search14
+Relevant:
+- femoral head;
+- fovea capitis;
+- femoral neck;
+- greater/lesser trochanters;
+- intertrochanteric line/crest;
+- gluteal tuberosity.
 
-## 9. Femoral head and neck
+Femoral-neck geometry influences space and lever-arm relationships.
 
-Femoral head:
-- roughly spherical;
-- covered with articular cartilage except fovea.
+Exact neck-shaft/version mechanics → MEC/IND.
 
-Femoral neck connects head to shaft and permits limb clearance/moment arms.
+## 9. Hip capsule / ligaments
 
-Key proximal landmarks:
-- greater trochanter;
-- lesser trochanter;
-- intertrochanteric line;
-- intertrochanteric crest.
+Hip capsule is an integrated capsuloligamentous system including:
 
-Individual neck-shaft angle/version vary → ANA-15/MEC.
+- iliofemoral ligament;
+- pubofemoral ligament;
+- ischiofemoral ligament;
+- circumferential zona orbicularis fibers.
 
-## 10. Hip capsule
+Project rule:
 
-Fibrous capsule:
-- attaches around acetabular rim;
-- attaches to proximal femur around neck/intertrochanteric regions depending surface.
+**hip capsule ≠ three isolated ligament straps.**
 
-Capsular fibers include strong spiral ligament systems.
+Tension/restraint is position-dependent.
 
-Capsule tightens in extension and is comparatively looser in flexion.
+Ligamentum teres is a secondary structural/sensory/vascular contributor, not the main adult static stabilizer.
 
-This contributes to passive stability.
+## 10. Hip stability
 
-## 11. Major capsular ligaments
-
-1. **iliofemoral**;
-2. **pubofemoral**;
-3. **ischiofemoral**.
-
-These spiral around joint and limit extremes in position-dependent ways. citeturn652805search14
-
-Do not reduce each to one single “motion stopper”; tension changes with combined hip position.
-
-## 12. Ligament of head of femur
-
-Ligamentum teres attaches:
-- femoral fovea;
-- acetabular/transverse-ligament region.
-
-Carries a vascular contribution especially important earlier in life and contributes some structural/sensory role.
-
-It is not the primary adult hip stabilizer compared with bony/capsular system.
-
-## 13. Hip stability
-
-Static sources:
-- deep acetabulum;
+### Static
+- bony morphology/congruence;
 - labrum;
 - capsule;
-- ligaments.
+- major capsular ligaments;
+- zona orbicularis;
+- ligamentum teres as secondary contributor.
 
-Dynamic:
-- surrounding muscles.
+### Dynamic
+- periarticular muscles.
 
-Hip is mechanically stable yet mobile; “stable joint” does not mean low ROM.
+Canonical model:
 
-## 14. Gluteus maximus
+**bone + capsulolabral soft tissues + muscle.**
 
-Origin broadly:
+## 11. Femoral version / acetabular morphology
+
+Current evidence shows meaningful variation in:
+- femoral version;
+- acetabular version/orientation;
+- coverage/depth;
+- pelvic morphology.
+
+Reported “normal” femoral-version values materially depend on the measurement method/reference axes.
+
+Project rule:
+
+**there is no single atlas angle that defines one universally correct stance or hip ROM.**
+
+Also:
+
+**personal bone morphology cannot be reliably inferred from external appearance alone.**
+
+## 12. Gluteus maximus
+
+Broad origin:
 - posterior ilium;
-- sacrum/coccyx;
-- sacrotuberous ligament;
-- thoracolumbar/gluteal fascia.
-
-Insertion:
-1. gluteal tuberosity femur;
-2. iliotibial tract. citeturn652805search3
+- sacral/coccygeal region;
+- sacrotuberous/connective tissues;
+- gluteal fascia-related structures.
 
 Innervation:
 - inferior gluteal nerve.
 
-Broad functions:
+Broad roles:
 - hip extension;
-- lateral rotation;
-- assists pelvic/trunk control;
-- upper/lower fiber actions differ by position.
+- external-rotation contribution;
+- task-dependent pelvic/trunk control.
 
-## 15. Gluteus maximus and IT tract
+### Current distal-insertion nuance
 
-Superficial fibers contribute strongly to IT tract.
+A 2025 cadaveric re-evaluation found in that sample that the superior majority formed a strong distal tendon with predominant femoral gluteal-tuberosity attachment, while ITB connections were partial/accessory.
 
-Therefore glute max force can affect:
-- lateral thigh fascia;
-- knee/pelvic stabilization indirectly.
+Project rule:
 
-Do not model IT band as a freely shortening muscle.
+**do not encode “most gluteus maximus inserts primarily into ITB” as universal anatomy.**
 
-## 16. Gluteus medius
+Exact population generalization remains limited.
 
-Origin:
-- external ilium between gluteal lines.
+## 13. Gluteus medius / minimus
 
-Insertion:
-- greater trochanter with regionally distinct tendon attachments. citeturn652805search4
+Both are fan-shaped regional systems.
 
-Innervation:
-- superior gluteal nerve.
+### Gluteus medius
+- external ilium → greater trochanter;
+- superior gluteal nerve;
+- abduction and frontal-plane pelvis–femur control;
+- regional/angle-dependent rotational contributions.
 
-Broad:
-- hip abduction;
-- frontal-plane pelvic control in single-leg stance;
-- anterior/posterior fibers can contribute differently to rotation/flexion-extension depending position.
+### Gluteus minimus
+- deep to medius;
+- external ilium → anterior/lateral greater-trochanter region;
+- superior gluteal nerve;
+- abduction/stabilization with regional rotational contributions.
 
-## 17. Gluteus minimus
+Project rule:
 
-Deep to medius.
+**“side glutes” is an incomplete anatomical model.**
 
-Origin:
-- external ilium.
+## 14. Iliopsoas
 
-Insertion:
-- anterior/lateral greater trochanter region.
-
-Innervation:
-- superior gluteal nerve.
-
-Broad:
-- abduction;
-- pelvic stabilization;
-- medial-rotation/flexion contributions by fascicle/position. citeturn652805search7
-
-## 18. Gluteus medius/minimus are not simple “side glutes”
-
-Both have broad fan-shaped architecture.
-
-Different fascicles have different lines of action.
-
-Thus “abductor” is a major function label, not complete description.
-
-## 19. Tensor fasciae latae
-
-TFL:
-- proximal anterolateral thigh;
-- origin near ASIS/anterior iliac crest;
-- blends into IT tract.
-
-Innervation:
-- superior gluteal nerve.
-
-Broad:
-- flexion;
-- abduction;
-- medial rotation;
-- tensions lateral fascial system/pelvic support. citeturn889840search1
-
-## 20. Iliotibial tract
-
-IT tract:
-- thickened longitudinal lateral fascia lata;
-- receives gluteus maximus + TFL contributions;
-- inserts distally around Gerdy tubercle/proximal lateral tibia with additional fascial attachments. citeturn889840search0turn889840search6
-
-It is connective tissue, not a separate muscle.
-
-Claims about “stretching the IT band” require mechanical evidence, not anatomy alone.
-
-## 21. Iliopsoas complex
-
-Current 2026 StatPearls describes iliopsoas musculotendinous unit as:
+Core:
 - psoas major;
-- iliacus;
-- psoas minor often discussed with complex but does not share femoral insertion like major/iliacus. citeturn652805search0
+- iliacus.
 
-Psoas major:
-- lumbar vertebral bodies/transverse processes → lesser trochanter.
-
-Iliacus:
-- iliac fossa → joins tendon toward lesser trochanter.
-
-Innervation differs:
-- psoas branches lumbar plexus;
-- iliacus femoral nerve.
-
-## 22. Iliopsoas functions
-
-Primary:
-- hip flexion.
-
-Also:
-- external rotation contribution;
-- lumbar/hip stabilization depending fixed segment.
-
-Because psoas crosses lumbar spine and hip, it couples trunk/pelvis/femur.
-
-Do not infer that a “tight psoas” explains arbitrary posture/pain without assessment.
-
-## 23. Rectus femoris — hip boundary
-
-Quadriceps muscle rectus femoris originates from:
-- AIIS/supra-acetabular region,
-and crosses hip + knee.
-
-At hip:
-- flexion contribution.
-
-Detailed quadriceps → ANA-09.
-
-Important here because it is multiarticular and shoulder-like positional length issues have lower-limb analogue.
-
-## 24. Sartorius
-
-Origin:
-- ASIS.
-
-Insertion:
-- pes anserinus medial proximal tibia.
-
-Crosses hip and knee.
-
-Broad hip functions:
-- flexion;
-- abduction;
-- lateral rotation.
-
-Knee:
-- flexion, rotational contribution.
+Psoas minor may be discussed with the broader iliopsoas region but is variable and does not share the main femoral insertion.
 
 Innervation:
-- femoral nerve.
+- psoas major → direct lumbar-plexus branches;
+- iliacus → femoral nerve.
 
-## 25. Pectineus
+Broad role:
+- major hip flexion system;
+- lumbopelvic/hip stabilization depending fixed segment.
 
-Origin:
-- superior pubic/pectineal line.
+Project rule:
 
-Insertion:
-- pectineal line proximal femur.
+**“tight psoas” is not an anatomy-based diagnosis for arbitrary posture/pain.**
 
-Broad:
-- adduction;
-- flexion;
-- rotation contribution variable.
+## 15. Hip-boundary multiarticular muscles
 
-Innervation often femoral, sometimes obturator/accessory contributions.
+### Rectus femoris
+Crosses hip + knee:
+- hip flexion;
+- knee extension.
 
-## 26. Adductor group
+### Sartorius
+Crosses hip + knee:
+- hip flexion/abduction/external-rotation tendency;
+- knee flexion/rotation contribution.
 
-Major:
-1. adductor longus;
-2. adductor brevis;
-3. adductor magnus;
-4. gracilis;
-5. pectineus often included functionally;
-6. obturator externus contributes adduction/rotation.
+### Pectineus
+- hip adduction/flexion;
+- position-dependent rotational contribution;
+- innervation can vary.
 
-Most derive from pubis/ischium and attach along posterior/medial femur. citeturn442401search6turn442401search14
+Detailed knee/quadriceps anatomy → ANA-09.
 
-## 27. Adductor longus
+## 16. Adductor system
 
-Origin:
-- pubic body.
+Core:
+- adductor longus;
+- adductor brevis;
+- adductor magnus;
+- gracilis;
+- pectineus functionally;
+- obturator externus as related contributor.
 
-Insertion:
-- middle linea aspera.
-
-Innervation:
-- obturator nerve.
-
-Primary:
+Primary group label:
 - hip adduction.
 
-Also flexion/rotation contributions vary with hip position.
+But function is broader and angle-dependent.
 
-## 28. Adductor brevis
+Project rule:
 
-Origin:
-- body/inferior pubic ramus.
+**“adductors = inner-thigh adduction only” is incomplete.**
 
-Insertion:
-- pectineal/proximal linea-aspera region.
+## 17. Adductor magnus
 
-Innervation:
-- obturator nerve.
+Classic operational distinction:
 
-Primary:
-- adduction.
+- adductor portion;
+- hamstring portion.
 
-## 29. Adductor magnus — two functional/anatomical portions
+This remains useful because origins/insertions/innervation differ.
 
-### Adductor portion
-Origin:
-- inferior pubic/ischial ramus.
+Current 2026 cadaveric work further described:
+1. adductor minimus;
+2. superior adductor part;
+3. inferior adductor part;
+4. hamstring part.
 
-Insertion:
-- gluteal tuberosity/linea aspera/medial supracondylar line.
+Project rule:
 
-Innervation:
-- obturator nerve.
+**use the classic functional split operationally; treat the four-component refinement as limited current anatomy, not a universal exercise taxonomy.**
 
-### Hamstring portion
-Origin:
-- ischial tuberosity.
+## 18. Gracilis
 
-Insertion:
-- adductor tubercle.
-
-Innervation:
-- tibial division sciatic nerve.
-
-Functionally:
-- adduction broadly;
-- adductor portion can flex depending angle;
-- hamstring portion strongly extends hip. citeturn442401search6
-
-This is a major reason “adductors = inner-thigh adduction only” is incomplete.
-
-## 30. Gracilis
-
-Origin:
-- pubic body/inferior ramus.
-
-Insertion:
-- pes anserinus on tibia.
-
-Crosses hip and knee.
-
-Functions:
+- pubic origin;
+- pes-anserinus insertion;
+- crosses hip + knee;
 - hip adduction;
-- knee flexion;
-- medial rotation of leg when knee flexed.
-
-Innervation:
+- knee flexion / medial-rotation contribution;
 - obturator nerve.
 
-## 31. Hamstring complex
+## 19. Hamstrings
 
-Current 2026 source defines:
+Project group:
 1. biceps femoris long head;
 2. biceps femoris short head;
 3. semitendinosus;
-4. semimembranosus. citeturn442401search1
+4. semimembranosus.
 
-True biarticular hamstrings:
+Hip-crossing/biarticular:
 - BF long head;
 - semitendinosus;
 - semimembranosus.
 
-BF short head does **not** cross hip.
-
-## 32. Hamstring proximal origins
-
-Most:
-- ischial tuberosity.
-
-BF long head + semitendinosus share a proximal conjoint/aponeurotic relationship.
-
-Semimembranosus has distinct proximal tendon.
-
 BF short head:
-- posterior/lateral femur, linea aspera region.
+- originates on femur;
+- does **not** cross hip.
 
-## 33. Hamstring distal attachments
-
-### Biceps femoris
-- fibular head/lateral knee structures.
-
-### Semitendinosus
-- pes anserinus medial tibia.
-
-### Semimembranosus
-- posteromedial proximal tibia with expansions.
-
-Thus medial/lateral hamstrings have different rotational roles at knee.
-
-## 34. Hamstring innervation
-
-Most hamstrings:
-- tibial division sciatic nerve.
-
-BF short head:
-- common fibular division.
-
-This is an important exception.
-
-## 35. Hamstring functions
-
-Biarticular hamstrings:
+Broad roles of biarticular hamstrings:
 - hip extension;
 - knee flexion;
-- rotational contributions at flexed knee.
+- knee-rotation contribution.
 
-Because they cross both joints:
-hip flexion + knee extension lengthens them at both ends.
+Project rule:
 
-This later matters for hinge mechanics and length-dependent training.
+**“all hamstrings are biarticular” is false.**
 
-## 36. Deep external rotator group
+Tendon morphology varies between individuals.
 
-Classically six:
+## 20. Deep external rotators
+
+Classical group:
 1. piriformis;
 2. obturator internus;
 3. superior gemellus;
 4. inferior gemellus;
 5. obturator externus;
-6. quadratus femoris. citeturn442401search0turn442401search8
+6. quadratus femoris.
 
-They lie deep in posterior hip.
+Broad roles:
+- external rotation especially near neutral/extension;
+- posterior/deep hip stabilization;
+- position-dependent abduction/adduction contributions.
 
-Broad:
-- lateral rotation in neutral/extension;
-- stabilize femoral head;
-- some can abduct flexed hip.
+They are differentiated muscles, not six identical actuators.
 
-## 37. Piriformis
+## 21. Gemelli / obturator-internus system
 
-Origin:
-- anterior sacrum and associated structures.
+Superior/inferior gemelli:
+- distinct origins/innervation;
+- converge with obturator internus into a shared/conjoined insertional system.
 
-Insertion:
-- greater trochanter superior region.
+Current 2026 anatomy also documents morphology variants.
 
-Function changes with hip position:
-- lateral rotation in extension;
-- abduction contribution in flexion. citeturn442401search5
+Project rule:
 
-This illustrates why muscle action labels are joint-angle dependent.
+**shared insertion/synergy does not erase distinct muscle identity.**
 
-## 38. Obturator internus + gemelli
+## 22. Piriformis / obturator externus / quadratus femoris
 
-Obturator internus tendon + gemelli converge as closely linked complex near greater trochanter.
+### Piriformis
+Action changes with hip position:
+- external-rotation contribution in neutral/extension;
+- abduction contribution in flexion.
 
-2026 anatomy recognizes gemelli as distinct muscles with distinct origins/innervation despite shared insertional system. citeturn442401search0
+### Obturator externus
+- external rotation;
+- adduction/stability contribution.
 
-## 39. Quadratus femoris
+### Quadratus femoris
+- external rotation;
+- adduction/stability contribution.
 
-Origin:
-- ischial tuberosity region.
+Exact force roles → MEC.
 
-Insertion:
-- quadrate tubercle/intertrochanteric crest region.
+## 23. TFL / fascia lata / IT tract
 
-Innervation:
-- nerve to quadratus femoris.
+### TFL
+- ASIS/anterior iliac crest region → ITB/fascia lata;
+- superior gluteal nerve;
+- flexion/abduction/internal-rotation tendencies;
+- tensions lateral fascial system.
 
-Broad:
-- lateral rotation;
-- adduction/stabilization contribution.
+### IT tract
+- thickened lateral fascia lata;
+- connective tissue, not muscle;
+- receives proximal muscular/fascial connections;
+- distal attachment prominently includes Gerdy tubercle plus additional lateral-knee fascial relationships.
 
-## 40. Obturator externus
+Project rule:
 
-Origin:
-- external obturator membrane/bony margins.
+**ITB does not independently contract.**
 
-Insertion:
-- trochanteric fossa.
+“Stretching the IT band” requires mechanical evidence, not anatomy alone.
 
-Innervation:
-- obturator nerve.
+## 24. Gluteal / ITB relationship
 
-Broad:
-- lateral rotation;
-- adduction/stability.
+Recent anatomy indicates proximal gluteal–ITB relationships are more complex than a single insertion cartoon.
 
-## 41. Hip flexors are a group, not “the psoas”
+Project rule:
 
-Contributors include:
+**treat ITB as a regional fascial force-transmission structure; do not simplify all gluteal insertion into one band.**
+
+Detailed in-vivo tension/function → MEC.
+
+## 25. Multiarticular consequences
+
+Relevant hip-crossing multiarticular muscles:
+- rectus femoris;
+- sartorius;
+- gracilis;
+- BF long head;
+- semitendinosus;
+- semimembranosus.
+
+Their geometry depends on combinations of:
+- hip angle;
+- knee angle.
+
+This establishes exercise-position differences but does not establish hypertrophy superiority.
+
+## 26. Hip flexor/extensor/abductor/adductor systems
+
+### Flexion contributors
 - iliopsoas;
 - rectus femoris;
 - sartorius;
@@ -614,235 +458,178 @@ Contributors include:
 - pectineus;
 - adductors depending angle.
 
-Therefore “hip flexor tightness” is not one muscle diagnosis.
-
-## 42. Hip extensors are also distributed
-
-Major:
+### Extension contributors
 - gluteus maximus;
-- adductor magnus hamstring part;
-- hamstrings.
+- hamstrings;
+- adductor magnus posterior/hamstring region;
+- position-dependent additional contributors.
 
-Relative contribution changes with:
-- hip flexion angle;
-- knee angle;
-- task.
-
-Exact moment arms → MEC.
-
-## 43. Hip abduction/adduction
-
-Abductors:
-- glute med/min;
+### Abduction contributors
+- gluteus medius/minimus;
 - TFL;
-- upper glute max fibers depending angle;
-- deep rotator contributions in flexion.
+- regional gluteus maximus;
+- deep rotators in some flexed positions.
 
-Adductors:
+### Adduction contributors
 - adductor group;
 - gracilis;
 - pectineus;
-- some deep muscles depending position.
+- position-dependent deep structures.
 
-No one muscle group has one fixed action through all hip angles.
+Project rule:
 
-## 44. Single-leg pelvic control
+**muscle-action labels are summaries, not fixed laws across all hip angles.**
 
-When one foot supports body:
-hip abductors on stance side create/control frontal-plane pelvis-femur relationship.
+## 27. Pelvis–femur control / lumbopelvic coordination
 
-This is anatomical functional role.
+During single-leg support, stance-side hip abductors contribute to frontal-plane pelvis–femur control.
 
-A visible pelvic drop does not automatically diagnose “weak glute med”; pain, motor strategy and anatomy can contribute.
+But:
 
-## 45. Femoral anteversion/retroversion boundary
+**visible pelvic drop alone does not diagnose weak gluteus medius.**
 
-Femoral neck version varies among individuals.
-
-This influences:
-- comfortable hip rotation;
-- apparent foot/knee orientation;
-- joint ROM.
-
-Do not force identical stance/toe angle from atlas anatomy.
-
-Detailed individual anatomy → ANA-15/MEC.
-
-## 46. Acetabular orientation variation
-
-Acetabular version/inclination/depth vary.
-
-Thus available:
-- flexion;
-- rotation;
-- abduction
-can differ structurally.
-
-Anatomy alone cannot identify personal shape without imaging.
-
-## 47. Pelvic tilt terminology
-
-Pelvic movement relative to femur/spine:
-- anterior tilt;
-- posterior tilt;
+Pelvic movements:
+- anterior/posterior tilt;
 - lateral tilt;
 - axial rotation.
 
-These are gross segment motions, not hip-joint motions themselves.
+These are segment motions, not identical to hip-joint motion.
 
-Example:
-posterior pelvic tilt during deep squat can coexist with hip flexion.
+Lumbopelvic coordination is dynamic rather than a fixed gear ratio.
 
-Technique significance → MEC/TEC.
+## 28. Normal variation
 
-## 48. Lumbopelvic rhythm
+Relevant variation:
+- SIJ morphology/asymmetry;
+- femoral version;
+- acetabular orientation/coverage;
+- gluteus-maximus distal anatomy;
+- adductor-magnus internal architecture;
+- hamstring-tendon morphology;
+- gemelli/deep-rotator morphology;
+- TFL/ITB relationships.
 
-Trunk bending/hinging distributes motion between:
-- lumbar spine;
-- pelvis over femurs.
+Project rule:
 
-There is no universal fixed ratio.
+**atlas anatomy is modal, not identical in every person.**
 
-Project rule parallels scapulohumeral rhythm:
-dynamic coordination, not gear ratio.
+Variation alone ≠ pathology.
 
-## 49. Fascia lata
+## 29. Training-relevant structural consequences
 
-Deep fascia surrounding thigh.
+Anatomy supports later study of:
+1. squat/hinge/lunge mechanics;
+2. hip-flexor/extensor/adductor/abductor loading;
+3. knee-angle effects on biarticular muscles;
+4. stance/toe-angle individualization;
+5. single-leg pelvis–femur control.
 
-IT tract = thickened lateral specialization.
+But ANA-08 does not determine:
+- exact squat stance;
+- exact toe angle;
+- ideal depth;
+- exact muscle contribution;
+- best glute/adductor/hamstring exercise.
 
-Fascia receives contributions from:
-- TFL;
-- gluteus maximus.
+Those require MEC/TEC/PHY/IND.
 
-Do not describe fascia lata/ITB as independently contracting. citeturn889840search5
-
-## 50. Bursae
-
-Hip region includes numerous bursae, e.g.:
-- trochanteric;
-- iliopsoas;
-- ischial.
-
-They permit gliding between tissues.
-
-Anatomical presence ≠ bursitis.
-
-## 51. Neural map — minimum preview
-
-1. inferior gluteal → glute max;
-2. superior gluteal → glute med/min/TFL;
-3. femoral → iliacus, sartorius, rectus femoris;
-4. obturator → most adductors;
-5. sciatic/tibial → most hamstrings;
-6. common fibular division → BF short head;
-7. specific sacral branches → deep rotators.
-
-Detailed plexus → ANA-12.
-
-## 52. Multiarticular consequences
-
-Biarticular:
-- rectus femoris;
-- sartorius;
-- gracilis;
-- BF long/semitendinosus/semimembranosus.
-
-Their length depends on hip + knee simultaneously.
-
-This will matter later for:
-- squat;
-- hinge;
-- leg curl;
-- hip extension exercise selection.
-
-## 53. “Glutes” are not one muscle
-
-Glute max:
-- large extensor/rotator + ITB contribution.
-
-Glute med/min:
-- fan-shaped abductors/stabilizers with regional functions.
-
-Programming “glutes” without specifying target/function is too vague.
-
-## 54. “Adductors” are not just accessory muscles
-
-Adductor magnus especially can be a major hip extensor at flexed hip angles.
-
-Therefore squat/hinge anatomy includes adductors, not only “glutes + hamstrings”.
-
-Quantitative contribution → MEC/EMG/longitudinal evidence later.
-
-## 55. Project canonical hip model
-
-1. Pelvis is load-transmitting ring between spine and femora.
-2. Hip is deep ball-and-socket with strong capsuloligamentous stability.
-3. Glute max, med/min have distinct architectures/functions.
-4. Iliopsoas bridges lumbar spine/pelvis/femur.
-5. Adductor magnus has distinct adductor + hamstring portions.
-6. Hamstrings are mostly biarticular except BF short head.
-7. Deep rotators form a stabilization/rotation layer.
-8. TFL + glute max tension IT tract; ITB is fascia, not muscle.
-9. Hip muscle actions change with joint position.
-10. Pelvic/femoral anatomy varies enough that one universal squat stance cannot be derived from anatomy alone.
-
-## 56. Confidence
+## 30. Evidence / confidence
 
 ### HIGH
-- pelvic/hip bone and joint architecture;
-- major ligament/labrum anatomy;
-- main muscle attachments/innervation;
-- hamstring/adductor subdivisions;
-- IT tract/TFL basic anatomy.
+- pelvic-ring / hip-joint architecture;
+- SIJ highly constrained but nonzero normal motion;
+- capsulolabral stability system;
+- major hip muscle anatomy;
+- iliopsoas;
+- hamstring/adductor major regional distinctions;
+- ITB tissue identity;
+- substantial normal morphology variation.
 
-### MODERATE/HIGH
-- broad angle-dependent functional roles are well established, but exact moment arms/relative contribution require biomechanics.
+### MODERATE / SAMPLE-DEPENDENT
+- exact healthy SIJ motion values;
+- exact gluteus-maximus insertion proportions;
+- four-component adductor-magnus refinement;
+- detailed variant frequencies;
+- exact ITB in-vivo tension/function.
 
-## 57. Sources
+## 31. Sources checked in revalidation
 
 1. NCBI Bookshelf — Pelvis Bones.  
    https://www.ncbi.nlm.nih.gov/books/NBK545204/
 
-2. NCBI Bookshelf — Hip.  
+2. NCBI Bookshelf — Hip Joint.  
+   https://www.ncbi.nlm.nih.gov/books/NBK470555/
+
+3. NCBI Bookshelf — Hip.  
    https://www.ncbi.nlm.nih.gov/books/NBK526019/
 
-3. NCBI Bookshelf — Sacroiliac Joint.  
-   https://www.ncbi.nlm.nih.gov/books/NBK507801/
-
-4. NCBI Bookshelf — Iliopsoas Muscle, updated Jun 8 2026.  
+4. NCBI Bookshelf — Iliopsoas Muscle, updated 2026-06-08.  
    https://www.ncbi.nlm.nih.gov/books/NBK531508/
 
-5. NCBI Bookshelf — Gluteus Maximus.  
-   https://www.ncbi.nlm.nih.gov/books/NBK538193/
-
-6. NCBI Bookshelf — Gluteus Medius.  
-   https://www.ncbi.nlm.nih.gov/books/NBK557509/
-
-7. NCBI Bookshelf — Gluteus Minimus.  
-   https://www.ncbi.nlm.nih.gov/books/NBK556144/
-
-8. NCBI Bookshelf — Femoral Muscles / medial thigh.  
-   https://www.ncbi.nlm.nih.gov/books/NBK500008/  
-   https://www.ncbi.nlm.nih.gov/books/NBK534775/
-
-9. NCBI Bookshelf — Hamstring Muscle, updated Jan 31 2026.  
+5. NCBI Bookshelf — Hamstring Muscle, updated 2026-01-31.  
    https://www.ncbi.nlm.nih.gov/books/NBK546688/
 
-10. NCBI Bookshelf — Piriformis / Obturator / Gemelli.  
-    https://www.ncbi.nlm.nih.gov/books/NBK519497/  
-    https://www.ncbi.nlm.nih.gov/books/NBK589636/  
-    https://www.ncbi.nlm.nih.gov/books/NBK557420/
+6. NCBI Bookshelf — Gemelli Muscles, updated 2026-05-13.  
+   https://www.ncbi.nlm.nih.gov/books/NBK557420/
 
-11. NCBI Bookshelf — Tensor Fasciae Latae / Iliotibial Band.  
-    https://www.ncbi.nlm.nih.gov/books/NBK499870/  
-    https://www.ncbi.nlm.nih.gov/books/NBK537097/
+7. NCBI Bookshelf — Obturator Muscles.  
+   https://www.ncbi.nlm.nih.gov/books/NBK589636/
 
-## 58. Next dependencies
+8. NCBI Bookshelf — Tensor Fasciae Latae.  
+   https://www.ncbi.nlm.nih.gov/books/NBK499870/
 
-- ANA-09 knee;
-- ANA-11 muscle architecture;
-- ANA-12 nerves;
-- MEC hip/pelvis mechanics;
-- TEC squat/hinge/lunge.
+9. NCBI Bookshelf — Iliotibial Band.  
+   https://www.ncbi.nlm.nih.gov/books/NBK537097/
+
+10. Hip-capsule review. 2026. PMID 42400381.  
+    https://pubmed.ncbi.nlm.nih.gov/42400381/
+
+11. Xu W et al. Hip capsule review. 2025. PMID 40517560.  
+    https://pubmed.ncbi.nlm.nih.gov/40517560/
+
+12. Kuhn MZ et al. Healthy SIJ kinematics. 2026. PMID 42751931.  
+    https://pubmed.ncbi.nlm.nih.gov/42751931/
+
+13. SIJ anatomical variation review. 2025. PMID 40191940.  
+    https://pubmed.ncbi.nlm.nih.gov/40191940/
+
+14. Femoral-version scoping review. 2025. PMID 41019140.  
+    https://pubmed.ncbi.nlm.nih.gov/41019140/
+
+15. Acetabular orientation 3D study. PMID 41281458.  
+    https://pubmed.ncbi.nlm.nih.gov/41281458/
+
+16. Novais EN et al. 3D acetabular morphology. 2026. PMID 42859670.  
+    https://pubmed.ncbi.nlm.nih.gov/42859670/
+
+17. Anetai H et al. Gluteus maximus structural re-evaluation. 2025. PMID 40593049.  
+    https://pubmed.ncbi.nlm.nih.gov/40593049/
+
+18. Maguchi K et al. Adductor magnus architecture. 2026. PMID 42237686.  
+    https://pubmed.ncbi.nlm.nih.gov/42237686/
+
+19. Proximal semimembranosus anatomy. 2025. PMID 41195465.  
+    https://pubmed.ncbi.nlm.nih.gov/41195465/
+
+20. ITB anatomy. 2026. PMID 42616147.  
+    https://pubmed.ncbi.nlm.nih.gov/42616147/
+
+21. Gluteus medius–ITB connection. 2026. PMID 42545003.  
+    https://pubmed.ncbi.nlm.nih.gov/42545003/
+
+22. Gemelli variation study. 2026. PMID 42455141.  
+    https://pubmed.ncbi.nlm.nih.gov/42455141/
+
+## 32. Closure
+
+Closure audit:
+`passes/02_anatomy/ANA-08/PASS-02_closure_audit_and_synthesis.md`.
+
+Result:
+**no project-relevant blocker remains.**
+
+ANA-08 = **CLOSED_FOR_PRACTICE v2.0**.
+
+## 33. Next dependency
+
+**ANA-09 — Колено.**
