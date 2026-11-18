@@ -101,7 +101,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-03 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **ANA-04 — Shoulder complex**.
+Текущая тема: **ANA-04 — Shoulder complex**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -161,30 +161,26 @@ PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgem
 
 ### Следующая задача
 
-**Phase B / ANA-04 — Shoulder complex.**
+**ANA-04 closure audit / synthesis.**
 
-Последние завершённые блоки:
+Последний завершённый блок:
 
-1. `research/fitness/passes/02_anatomy/ANA-03/PASS-01_axial_skeleton_structural_foundation_revalidation.md`
-2. `research/fitness/passes/02_anatomy/ANA-03/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-04/PASS-01_shoulder_complex_structural_functional_revalidation.md`
 
-ANA-03 status:
-**CLOSED_FOR_PRACTICE v2.0**.
+PASS-01 установил:
 
-Closure established:
+1. SC, AC and GH = true synovial joints; ST = functional articulation;
+2. clavicle = principal bony axial–appendicular bridge; scapula = mobile glenoid/orientation platform;
+3. labrum, capsule, GH ligaments and bursae are structurally separated;
+4. rotator cuff = supraspinatus + infraspinatus + teres minor + subscapularis; cuff tendons blend with capsule and contribute movement + dynamic stabilization;
+5. deltoid, trapezius, serratus anterior, rhomboids, levator scapulae, pectoralis minor, pectoralis major, latissimus dorsi, teres major and boundary coracobrachialis roles are mapped at anatomy level;
+6. long-head biceps has a real shoulder/superior-labral relationship and is not anatomically elbow-only;
+7. total arm elevation is distributed across GH + scapular + clavicular + thoracic motion;
+8. 2025 systematic review rejects a universal setting phase and constant scapulohumeral ratio;
+9. normal morphology/kinematics variability is retained; no visually “correct” universal trajectory is inferred;
+10. no content blocker found, but closure requires a separate audit/synthesis.
 
-1. vertebral column = segmented load-bearing/mobile system;
-2. typical vertebra, 23-disc architecture, facets, major ligaments and motion-segment model are covered;
-3. normal sagittal curves are anatomical, not pathology labels;
-4. asymptomatic adults show substantial normal sagittal/spinopelvic variability;
-5. thoracic cage = thoracic vertebrae + ribs + costal cartilage + sternum;
-6. rib/costal-cartilage number, attachment and symmetry can vary normally;
-7. sacrum is the main spine–pelvis structural bridge;
-8. thoracic wall provides the surface for scapulothoracic motion;
-9. no one universal "perfect neutral" or atlas-symmetry requirement is encoded;
-10. no project-relevant ANA-03 blocker remains.
-
-Следующий один блок: **ANA-04 — Shoulder complex**. После него сохранить state и STOP.
+Следующий блок: **ANA-04 closure audit / synthesis**. Do not start ANA-05 in the same working block.
 
 ---
 
@@ -192,18 +188,17 @@ Closure established:
 
 Для быстрого восстановления:
 
-1. `RESEARCH_QUEUE.md` — проверить самый свежий next action.
-2. Последний завершённый PASS-файл — понять, что уже покрыто и какие gaps оставлены.
-3. `WORKFLOW.md` — только если нужно восстановить общий процесс/этап.
-4. `EVIDENCE_POLICY.md` — перед новым научным поиском.
-5. `RESEARCH_TEMPLATE.md` — каркас нового глубокого PASS.
-6. `PR_MAP.md` — если потеряна навигация по структуре PR.
+1. `AGENT.md` — operating contract and purpose gate.
+2. `RESEARCH_QUEUE.md` — самый свежий next action.
+3. Последний завершённый PASS текущей темы.
+4. `WORKFLOW.md` — общий процесс только при необходимости.
+5. `EVIDENCE_POLICY.md` / `RESEARCH_TEMPLATE.md` — перед новым научным блоком.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F7_Delphi_study_structures.md`
+`research/fitness/passes/02_anatomy/ANA-04/PASS-01_shoulder_complex_structural_functional_revalidation.md`
 
-Затем **не открывать новый предметный PASS автоматически**. Сначала выполнить purpose-alignment / methodology-sufficiency audit, указанный в разделе «Следующая задача», и только по его результату определить дальнейший маршрут.
+Затем выполнить только записанный выше **ANA-04 closure audit / synthesis** и остановиться перед ANA-05.
 
 ---
 
