@@ -92,7 +92,9 @@
 - PHY-09/PASS-01 power/RFD content revalidation completed 2026-11-18.
 - PHY-09/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 10 coverage = **8/8 PASS** and no project-relevant blocker remains.
 - First canonical PHY-09 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **Phase B / PHY-10 — Fatigue.**
+- **PHY-10 — RESEARCHING.**
+- PHY-10/PASS-01 fatigue content revalidation completed 2026-11-18; exact Section 11 coverage = **15/15 at content level**; closure audit/synthesis pending.
+- CURRENT NEXT: **PHY-10/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 

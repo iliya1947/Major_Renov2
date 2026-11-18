@@ -143,7 +143,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-09 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-10 — Fatigue**.
+Текущая тема: **PHY-10 — Fatigue — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -193,37 +193,41 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-09/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-10/PASS-01_fatigue_revalidation.md`
 
-PHY-09 = **CLOSED_FOR_PRACTICE v2.0**.
+PHY-10/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Canonical finding:
+Exact content coverage:
+- `areas/03_physiology.md` Section 11 = **15/15 at content level**.
 
-`research/fitness/findings/03_physiology/PHY-09_power_rfd.md`
+PASS-01 established:
 
-Closure established:
-
-1. exact `areas/03_physiology.md` Section 10 coverage = **8/8 PASS**;
-2. maximal strength, RFD and mechanical power are separate but related outcomes;
-3. peak power and mean power are distinct measurement constructs;
-4. external bar/load/joint velocity is separated from muscle-fascicle shortening velocity;
-5. reported watt values are recognized as exercise/device/phase/method dependent;
-6. load–power relation is task specific and no universal %1RM optimum is claimed;
-7. ACSM 2026 moderate-load/fast-concentric guidance is retained as broad chronic evidence, not a universal load rule;
-8. acute peak-power-maximizing load is not used as a chronic prescription surrogate;
-9. maximal strength is retained as a major force-side foundation of power;
-10. rapid neural activation, velocity capacity, architecture/MTU mechanics and task skill are retained as additional power determinants;
-11. power training is differentiated from maximal-strength training while preserving complementarity;
-12. power adaptation remains task/load/velocity specific;
-13. F–V profiling is descriptive/hypothesis-guiding rather than universally prescriptive;
-14. no project-relevant blocker remains;
-15. first canonical PHY-09 finding was created at v2.0.
+1. fatigue is an exercise/task-induced reduction in performance capacity and is separated from subjective tiredness and task failure;
+2. neuromuscular fatigue is an umbrella containing central and peripheral contributions;
+3. central fatigue is reduced voluntary neural drive/activation, with detailed mechanisms deferred to NEU;
+4. peripheral fatigue is a location class spanning membrane excitability, E–C coupling/Ca²⁺ handling, myofilament and cross-bridge mechanisms;
+5. central/peripheral contribution is task and measurement dependent, with no universal ratio;
+6. metabolic fatigue is not reduced to lactate;
+7. E–C coupling/Ca²⁺ handling is retained as an important peripheral mechanism family;
+8. substrate depletion is separated from metabolite accumulation and ionic disturbance;
+9. RT glycogen depletion is established, but is not treated as the sole immediate cause of short-set failure;
+10. Pi has strong fatigue relevance; severe acidosis/H⁺ can contribute context-dependently and lactate is not a universal fatigue toxin;
+11. K⁺/Na⁺/Cl⁻/Ca²⁺ disturbances are represented as interacting excitability mechanisms;
+12. reduced neural drive is one possible limiter rather than a universal endpoint;
+13. local/systemic and central/peripheral are distinct classification axes;
+14. accumulated fatigue is not modeled as literal accumulation of acute metabolites; its unique physiology remains uncertain;
+15. task dependency is canonical;
+16. fatigue reduces force/velocity/power and can alter movement strategy, without one universal fatigue technique;
+17. recovery kinetics are multidimensional and protocol specific;
+18. exact Section 11 coverage = 15/15 at content level;
+19. no content-level blocker was found;
+20. canonical PHY-10 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**Phase B / PHY-10 — Fatigue.**
+**PHY-10/PASS-02 — Closure audit and synthesis.**
 
-После следующего одного блока сохранить state и STOP. Не открывать PHY-11 автоматически.
+После PASS-02 сохранить state и STOP. Не начинать PHY-11 автоматически.
 
 ---
 
@@ -239,9 +243,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-09/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-10/PASS-01_fatigue_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-10 — Fatigue** и остановиться перед следующим topic.
+Затем выполнить только записанный выше **PHY-10/PASS-02 closure audit and synthesis** и остановиться перед PHY-11.
 
 ---
 
