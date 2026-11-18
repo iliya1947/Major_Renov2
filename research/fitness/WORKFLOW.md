@@ -262,8 +262,11 @@ Stage 2 / Phase B продолжается.
 48. NEU-01/PASS-01 nervous-system organization content revalidation завершён; exact Area 04 Section 1 coverage **12/12 at content level**.
 49. NEU-01/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 1 coverage **12/12 PASS**, no project-relevant blocker remains.
 50. First canonical NEU-01 finding created as v2.0.
-51. Следующий один блок: **NEU-02/PASS-01 — Motor units: recruitment/rate coding content revalidation**.
-52. NEU-03 автоматически не запускать после следующего блока; сохраняется one block → state update → STOP.
+51. NEU-02 = **RESEARCHING**.
+52. NEU-02/PASS-01 motor-units recruitment/rate-coding content revalidation завершён; exact Area 04 Section 2 coverage **12/12 at content level**.
+53. NEU-02 closure audit / synthesis ещё не выполнен; canonical finding ещё не создан.
+54. Следующий один блок: **NEU-02/PASS-02 — Closure audit and synthesis**.
+55. NEU-03 автоматически не запускать после PASS-02; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -280,7 +283,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **NEU-02/PASS-01 — Motor units: recruitment/rate coding content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **NEU-02/PASS-02 — Closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
