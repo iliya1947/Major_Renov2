@@ -240,11 +240,12 @@ Stage 2 / Phase B продолжается.
 26. PHY-16/PASS-01 endocrine/immune physiology content revalidation завершён; normalized Sections 17–18 coverage **18/18 at content level**.
 27. PHY-16/PASS-02 closure audit / synthesis завершён; normalized Sections 17–18 coverage **18/18 PASS**, no project-relevant blocker remains.
 28. First canonical PHY-16 finding created as v2.0.
-29. PHY-17 = **RESEARCHING**.
+29. PHY-17 = **CLOSED_FOR_PRACTICE v2.0**.
 30. PHY-17/PASS-01 integrated physiology content revalidation завершён; exact Section 19 coverage **8/8 at content level**.
-31. PHY-17 closure audit / synthesis ещё не выполнен; canonical finding ещё не создан.
-32. Следующий один блок: **PHY-17/PASS-02 — Closure audit and synthesis**.
-33. PHY-18 автоматически не запускать после PASS-02; сохраняется one block → state update → STOP.
+31. PHY-17/PASS-02 closure audit / synthesis завершён; exact Section 19 coverage **8/8 PASS**, no project-relevant blocker remains.
+32. First canonical PHY-17 finding created as v2.0.
+33. Следующий один блок: **PHY-18/PASS-01 — Detraining / retraining / muscle memory content revalidation**.
+34. PHY-19 автоматически не запускать после следующего блока; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -261,7 +262,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **PHY-17/PASS-02 — Closure audit and synthesis**.
+Ближайшая задача: Stage 2 / Phase B — **PHY-18/PASS-01 — Detraining / retraining / muscle memory content revalidation**.
 
 
 ## 10. Stage 0B — результат
