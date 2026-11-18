@@ -1,639 +1,441 @@
 # ANA-07 — Туловище: позвоночная мускулатура, брюшная стенка, диафрагма и тазовое дно
 
-Статус: **LEGACY v1.0 — REVALIDATION IN PROGRESS; use current ANA-07 passes/state**  
-Дата: 2026-11-16  
+Статус: **CLOSED_FOR_PRACTICE v2.0 — revalidated 2026-11-18**  
 Область: 02 — Анатомия
 
-## 0. Question Card
+## 0. Decision
 
-### Decision
-Создать структурно-функциональную карту мышц туловища, которые двигают и стабилизируют позвоночник/грудную клетку, формируют брюшную стенку, участвуют в дыхании и внутрибрюшном давлении.
+Создать structural-functional карту musculature/connective/pressure-boundary anatomy туловища, достаточную для later trunk biomechanics, bracing research and exercise technique без:
 
-### Question type
-Foundational anatomy / functional anatomy.
+- “core = one organ” simplification;
+- deep-muscle hierarchy;
+- fixed multifidus/TLF model where current anatomy is uncertain;
+- anatomy → technique/pathology overclaim.
 
-### Critical outcomes
-1. Intrinsic back muscles.
-2. Erector spinae.
-3. Transversospinalis/multifidus.
-4. Rectus abdominis.
-5. External/internal oblique.
-6. Transversus abdominis.
-7. Quadratus lumborum.
-8. Thoracolumbar fascia.
-9. Diaphragm.
-10. Pelvic floor.
-11. Structural integration without “core” mystification.
+Осевой skeletal foundation — vertebrae/discs/facets/major ligaments — уже закрыт в **ANA-03**.
 
-### Closure criterion
-Можно анатомически описать основные структуры, формирующие trunk motion/stiffness/respiratory pressure system, не приписывая одной мышце магическую “стабилизацию кора”.
+## 1. “Core” — project definition
 
----
+“Core” = functional training shorthand, not one anatomical structure.
 
-## 1. “Core” — не анатомический орган
+Relevant structures can include:
 
-Слово **core** удобно в тренировочной практике, но не соответствует одной отдельной anatomical structure.
-
-Для проекта trunk/core system включает:
 - vertebral column;
 - intrinsic back muscles;
 - abdominal wall;
-- quadratus lumborum;
+- QL;
 - diaphragm;
 - pelvic floor;
-- fascia/connective tissue;
-- hip/pelvic musculature depending task.
+- thoracolumbar/aponeurotic structures;
+- rib cage;
+- pelvis;
+- hip-linked structures depending task.
 
 Project rule:
-“core” всегда раскладывать на конкретную структуру/функцию.
 
-## 2. Intrinsic vs extrinsic back muscles
+**translate “core” into the actual structure/function being discussed.**
 
-### Extrinsic
-Связывают upper limb/ribs with trunk и участвуют в shoulder/respiratory functions.
+## 2. Intrinsic back-muscle system
 
-Examples:
-- trapezius;
-- latissimus;
-- rhomboids;
-- levator scapulae;
-- serratus posterior.
+Project-relevant intrinsic groups:
 
-### Intrinsic
-Развиваются/располагаются как собственная глубокая мускулатура позвоночника и преимущественно:
-- двигают позвоночник;
-- поддерживают posture;
-- контролируют сегменты.
+1. splenius;
+2. erector spinae;
+3. transversospinalis;
+4. small segmental muscles.
 
-Innervation:
-- posterior/dorsal rami spinal nerves.
+Predominant innervation:
+- dorsal rami.
 
-## 3. Superficial intrinsic layer — splenius
+Named muscle groups are preferred over one rigid superficial/intermediate/deep labeling taxonomy.
 
-Muscles:
-1. splenius capitis;
-2. splenius cervicis.
+## 3. Erector spinae
 
-Broad functions:
-- bilateral cervical/head extension;
-- unilateral ipsilateral rotation/lateral flexion.
+Three longitudinal systems:
 
-Для текущей силовой базы — второстепенно, но важны как часть posterior cervical/trunk continuum.
+1. iliocostalis;
+2. longissimus;
+3. spinalis.
 
-## 4. Erector spinae group
+Broad roles:
+- extension / eccentric control of flexion;
+- lateral-flexion contribution;
+- posture/load control;
+- region-dependent rotational contribution.
 
-Три longitudinal columns:
+Project rule:
 
-1. **iliocostalis** — lateral;
-2. **longissimus** — intermediate;
-3. **spinalis** — medial. citeturn333857search18
+**erector spinae ≠ one homogeneous “lower-back muscle”.**
 
-Extends from common broad lower attachment region toward:
-- ribs;
-- transverse processes;
-- spinous processes;
-- skull depending subdivision.
+Exact lift-specific force/activation → MEC/PHY.
 
-## 5. Erector spinae subdivisions
-
-Each column has regional parts.
-
-### Iliocostalis
-- lumborum;
-- thoracis;
-- cervicis.
-
-### Longissimus
-- thoracis;
-- cervicis;
-- capitis.
-
-### Spinalis
-- thoracis;
-- cervicis;
-- capitis descriptions vary/merge anatomically.
-
-Do not treat erector spinae as one homogeneous “lower-back muscle”.
-
-## 6. Erector spinae functions
-
-Broad:
-- bilateral spinal extension;
-- unilateral lateral flexion;
-- posture/load control.
-
-Rotation contribution varies by region/fascicle orientation.
-
-Exact force/EMG during lifts → MEC/PHY, not anatomy.
-
-## 7. Transversospinalis group
-
-Deep to erector spinae.
+## 4. Transversospinalis
 
 Includes:
+
 1. semispinalis;
 2. multifidus;
-3. rotatores. citeturn333857search14
+3. rotatores.
 
-Fiber direction broadly:
-transverse process → spinous process of superior vertebra(e).
-
-## 8. Multifidus
-
-Runs throughout spine, particularly developed in lumbar region.
-
-Fascicles span roughly:
-- 2–4 vertebral levels.
-
-Attachments arise from:
-- sacrum/ilium;
-- mammillary/transverse/articular processes depending region,
-to spinous processes above.
-
-Functions:
-- segmental control/stiffness;
+Broad roles:
 - extension;
-- contralateral rotation contribution.
+- rotational contribution;
+- segmental control;
+- posture/proprioceptive function.
 
-“Multifidus activates = spine safe” is not an anatomical law.
+Project rule:
 
-## 9. Rotatores
+**transversospinalis ≠ one generic “deep stabilizer”.**
 
-Small deep muscles, especially developed thoracic region.
+## 5. Lumbar multifidus — current model
 
-Span:
-- one or two segments.
+Lumbar multifidus is a major deep paraspinal structure with nonuniform, segmentally organized bundle architecture.
 
-Potential functions:
-- segmental rotation/stabilization;
-- proprioceptive role plausible due structure/innervation, but exact functional importance is beyond pure anatomy.
+Current 2026 anatomical work shows that exact bundle/origin-insertion architecture is more complex than a universal “fibers always span 2–4 levels” rule.
 
-## 10. Semispinalis
+Project rule:
 
-Spans more vertebral levels than multifidus/rotatores.
+**do not encode one rigid fascicle-span formula as exact lumbar-multifidus anatomy.**
 
-Regions:
-- thoracis;
-- cervicis;
-- capitis.
+High-confidence:
+- multifidus is part of transversospinalis;
+- it participates in spinal motion/control;
+- its bundle architecture is regionally/segmentally complex.
 
-Broad:
-- extension;
-- contralateral rotation.
+Bundle-specific exercise claims → later evidence.
 
-## 11. Small segmental muscles
+## 6. Small segmental muscles
 
-Include:
+Relevant low-priority structures include:
+
 - interspinales;
 - intertransversarii;
 - levatores costarum.
 
-Roles:
-- segmental motion/control;
-- proprioception;
-- rib movement depending structure.
+They contribute local motion/control and, depending structure, rib/spinal relationships.
 
-Low priority for exercise prescription but part of complete trunk anatomy.
+They are retained without expanding into unnecessary exercise taxonomy.
+
+## 7. Abdominal wall
+
+Major system:
+
+1. rectus abdominis;
+2. external oblique;
+3. internal oblique;
+4. transversus abdominis.
+
+Lateral wall from superficial to deep:
+
+1. EO;
+2. IO;
+3. TrA.
+
+These integrate through broad aponeuroses.
+
+Project rule:
+
+**abdominal wall = layered musculofascial/aponeurotic system, not isolated cylinders.**
+
+## 8. Rectus abdominis / sheath / linea alba
+
+Rectus abdominis:
+- paired vertical muscle;
+- pubic ↔ xiphoid/costal relationship;
+- interrupted by tendinous intersections.
+
+Broad roles:
+- trunk flexion;
+- abdominal-wall tension/compression;
+- forceful-expiration contribution.
+
+There is no separate anatomical “lower abs muscle”.
+
+### Rectus sheath
+Formed by abdominal-muscle aponeuroses.
+
+### Linea alba
+Midline aponeurotic/fibrous raphe connecting left/right abdominal wall.
+
+Project implication:
+
+**abdominal force transmission is distributed through aponeuroses and connective tissue, not muscle bellies alone.**
+
+## 9. External / internal oblique
+
+### External oblique
+Broad tendencies:
+- trunk flexion/compression;
+- contralateral-rotation contribution;
+- lateral-flexion contribution.
+
+### Internal oblique
+Broad tendencies:
+- trunk flexion/compression;
+- ipsilateral-rotation contribution;
+- lateral-flexion contribution.
+
+Fiber orientation gives action possibilities, not fixed activation ratios.
+
+## 10. Transversus abdominis
+
+Deepest principal lateral abdominal-wall muscle.
+
+Broad role:
+- abdominal-wall tension/compression;
+- contribution to pressure/stiffness system.
+
+Project rule:
+
+**TrA is not anatomically “the deep core” or the unique stabilizer.**
+
+Anatomy does not establish:
+- TrA-first timing;
+- universal weakness;
+- mandatory isolated pre-activation.
+
+## 11. Quadratus lumborum
+
+Broad attachment regions:
+
+- iliac crest;
+- 12th rib;
+- lumbar transverse processes.
+
+Current 2026 3D cadaveric work supports nonuniform multilayer organization including:
+
+- lumbocostal;
+- iliocostal;
+- iliolumbar layers;
+
+with layer-dependent neural heterogeneity.
+
+Project conclusion:
+
+**QL is not a one-vector muscle.**
+
+But exact exercise-specific layer specialization is not established from this cadaveric evidence.
 
 ## 12. Thoracolumbar fascia
 
-Complex multilayer connective-tissue system in posterior trunk.
+TLF = named regional connective-tissue structure related to:
 
-Related to:
 - erector spinae;
 - multifidus;
-- quadratus lumborum;
-- latissimus dorsi;
+- QL;
 - abdominal aponeuroses;
-- pelvic structures.
+- latissimus dorsi;
+- pelvis/sacral region.
+
+Current literature uses competing:
+- two-layer;
+- three-layer
+
+descriptions.
 
 Project rule:
-recognize it as a named regional force-transmitting/connective structure, **not** evidence for mystical whole-body “fascial chains”.
 
-## 13. Quadratus lumborum
+**TLF is real regional anatomy, but exact layer taxonomy is model-dependent.**
 
-Attachments:
-- iliac crest;
-- 12th rib;
-- transverse processes L1–L4. citeturn333857search2
+And:
 
-Its architecture is complex and layer-specific; 2026 micro-CT work further shows nonuniform neuroanatomical organization. citeturn333857search7
+**TLF continuity does not prove a universal whole-body fascial-chain training model.**
 
-Broad functions:
-- lateral flexion;
-- 12th-rib stabilization;
-- lumbopelvic control;
-- bilateral extension contribution depending task.
+## 13. Diaphragm
 
-Avoid one-vector simplification.
+Diaphragm:
+- dome-shaped musculotendinous thoracoabdominal partition;
+- principal inspiratory muscle;
+- fibers converge on central tendon.
 
-## 14. Abdominal wall layers
+Main attachment regions:
+- sternal;
+- costal;
+- lumbar/crural.
 
-Lateral wall from superficial → deep:
+Motor innervation:
+- phrenic nerves C3–C5.
 
-1. external oblique;
-2. internal oblique;
-3. transversus abdominis.
+It also contributes to abdominal-pressure generation during straining.
 
-Anterior/midline:
-4. rectus abdominis;
-5. pyramidalis variably present. citeturn333857search3turn333857search16
+## 14. Pressure-system structural model
 
-These muscles connect via broad aponeuroses rather than only narrow tendons.
+Useful anatomical boundary model:
 
-## 15. Rectus abdominis
+### Superior
+- diaphragm.
 
-Paired vertical muscle.
+### Anterolateral
+- abdominal wall.
 
-Origin:
-- pubic crest/symphysis region.
+### Posterior
+- vertebral column;
+- intrinsic back muscles;
+- QL;
+- TLF-related structures.
 
-Insertion:
-- xiphoid process;
-- costal cartilages ribs 5–7 region.
+### Inferior
+- pelvic floor.
 
-Interrupted by tendinous intersections.
+Project caution:
 
-Broad function:
-- trunk flexion;
-- posterior pelvic rotation contribution;
-- compress abdominal contents;
-- forceful expiration.
+**this is not a literal rigid sealed cylinder.**
 
-## 16. Rectus sheath
+Anatomy alone does not determine:
+- optimal IAP;
+- ideal breathing;
+- ideal brace;
+- spinal unloading magnitude.
 
-Rectus abdominis lies in rectus sheath formed from aponeuroses of:
-- external oblique;
-- internal oblique;
-- transversus abdominis. citeturn333857search10
+Those belong to PHY/MEC/TEC.
 
-Sheath arrangement differs above/below arcuate line.
+## 15. Pelvic floor
 
-This is an important example that abdominal muscles are structurally integrated through aponeurotic sheets.
-
-## 17. Linea alba
-
-Midline fibrous raphe created by interweaving abdominal aponeuroses.
-
-Extends:
-- xiphoid region → pubic symphysis.
-
-Separates paired rectus muscles and transmits tension between left/right abdominal wall.
-
-## 18. External oblique
-
-Origin:
-- external surfaces lower ribs.
-
-Fibers generally inferomedial.
-
-Insertion/aponeurosis:
-- linea alba;
-- iliac crest;
-- inguinal ligament-related structures.
-
-Broad functions:
-- bilateral trunk flexion/compression;
-- unilateral contralateral trunk rotation;
-- ipsilateral lateral flexion contribution.
-
-## 19. Internal oblique
-
-Origin:
-- thoracolumbar fascia;
-- iliac crest;
-- inguinal ligament region.
-
-Fibers broadly superomedial/anterior, with regional variation.
-
-Insertion:
-- lower ribs;
-- linea alba;
-- pubic region via aponeurosis/conjoint structures.
-
-Broad:
-- trunk flexion/compression;
-- ipsilateral rotation;
-- lateral flexion.
-
-## 20. Transversus abdominis
-
-Deepest principal lateral abdominal muscle.
-
-Origin:
-- lower costal cartilages;
-- thoracolumbar fascia;
-- iliac crest;
-- inguinal ligament.
-
-Fibers predominantly transverse.
-
-Insertion:
-- linea alba;
-- pubic/aponeurotic structures. citeturn333857search1
-
-Broad:
-- compresses abdominal contents;
-- contributes to abdominal-wall tension and trunk stiffness.
-
-It is not the only “deep core stabilizer”.
-
-## 21. Abdominal muscles are not independent cylinders
-
-EO, IO, TrA and rectus interact through:
-- shared aponeuroses;
-- linea alba;
-- rectus sheath;
-- thoracolumbar fascia;
-- rib/pelvic attachments.
-
-Thus trunk force transmission is distributed.
-
-## 22. Trunk rotation is coupled
-
-Classical functional pairing:
-- right external oblique + left internal oblique can contribute to left trunk rotation;
-- opposite pairing for right rotation.
-
-But exact recruitment depends on:
-- task;
-- posture;
-- resistance direction.
-
-Anatomy gives fiber orientation, not fixed activation percentages.
-
-## 23. Diaphragm
-
-Thoracic diaphragm:
-- musculotendinous partition between thoracic and abdominal cavities;
-- principal inspiratory muscle. citeturn333857search4
-
-Major attachment regions:
-1. sternal;
-2. costal;
-3. lumbar crura/arcuate structures.
-
-Fibers converge on central tendon.
-
-## 24. Diaphragmatic domes
-
-Right and left hemidiaphragm domes differ in height due underlying organs.
-
-During inspiration contraction:
-- central tendon descends;
-- thoracic volume increases.
-
-But diaphragm also interacts mechanically with abdominal pressure system.
-
-Detailed respiratory pressure mechanics → PHY/MEC.
-
-## 25. Diaphragm openings
-
-Major:
-1. caval opening;
-2. esophageal hiatus;
-3. aortic hiatus.
-
-Anatomical landmarks matter clinically more than in ordinary training, but confirm diaphragm is a perforated musculotendinous partition, not sealed piston.
-
-## 26. Diaphragm innervation
-
-Primary motor:
-- phrenic nerves, C3–C5.
-
-Sensory distribution includes phrenic and lower intercostal/peripheral contributions.
-
-This becomes relevant if discussing breathing dysfunction medically, not ordinary bracing.
-
-## 27. Intercostal muscles
-
-Layers include:
-- external intercostals;
-- internal intercostals;
-- innermost group.
-
-They contribute to:
-- rib-space structural support;
-- respiration depending phase/region.
-
-Together with diaphragm and accessory muscles, they move thoracic cage.
-
-## 28. Pelvic floor
-
-Pelvic floor is musculofascial complex forming inferior boundary of pelvis. citeturn333857search0
+Pelvic floor = inferior musculofascial pelvic boundary.
 
 Major muscular components:
-- levator ani complex;
+
+- levator ani;
 - coccygeus.
 
-Levator ani commonly subdivided:
-1. puborectalis;
-2. pubococcygeus/pubovisceral components;
-3. iliococcygeus.
+Levator ani commonly includes:
+- puborectalis;
+- pubococcygeus/pubovisceral components;
+- iliococcygeus.
 
-## 29. Pelvic floor functions
+Broad roles:
+- pelvic-viscera support;
+- continence;
+- evacuation coordination;
+- respiratory/pressure interaction;
+- lumbopelvic-stability contribution.
 
-Broad:
-1. support pelvic viscera;
-2. continence;
-3. defecation/micturition coordination;
-4. contributes to lumbopelvic stability;
-5. coordinated activity with respiration/abdominal wall.
+Project rule:
 
-2026 anatomical review notes both voluntary and involuntary activity linked with breathing and limb/trunk tasks. citeturn333857search6
+**pelvic floor is part of trunk pressure/support anatomy, but not every lifter automatically needs isolated pelvic-floor training.**
 
-## 30. Abdominal cavity pressure system
+## 16. Rib-cage / pelvis integration
 
-Structural boundaries relevant to pressure:
+Abdominal/trunk structures connect:
 
-- superior: diaphragm;
-- anterolateral: abdominal wall;
-- posterior: spine/QL/deep muscles/fascia;
-- inferior: pelvic floor.
-
-This provides anatomical basis for intra-abdominal pressure.
-
-But:
-exact pressure generation, “bracing” and load reduction → PHY/MEC/TEC.
-
-## 31. Bracing vs hollowing — anatomy boundary
-
-Anatomy can define muscles.
-
-It cannot alone conclude:
-- “draw belly in” is best;
-- “brace 360°” is always best;
-- TrA must activate first;
-- one technique protects spine universally.
-
-Those are motor-control/biomechanics questions.
-
-## 32. Diaphragm and pelvic floor are not optional “core extras”
-
-They form superior/inferior parts of pressure-containing trunk system.
-
-However ordinary strength training does not imply every person needs isolated diaphragm/pelvic floor exercises.
-
-Need depends on goal/pathology.
-
-## 33. Ribcage–pelvis relationship
-
-Abdominal muscles attach between:
-- ribs/thorax;
+- lower ribs/thorax;
+- vertebral column;
+- linea alba/aponeuroses;
 - pelvis;
-- linea alba/fascia.
+- posterior fascial structures.
 
-Therefore ribcage and pelvis orientation changes muscle length/geometry.
+Therefore rib-cage and pelvic orientation can change muscle geometry.
 
-This is anatomical basis for later bracing/posture analysis.
+Project rule:
 
-No one ribcage-pelvis alignment is assumed universally optimal.
+**anatomy does not define one universally optimal ribcage–pelvis position.**
 
-## 34. Trunk movements
+## 17. Trunk movement / force-production boundary
 
-Anatomical movement families:
+Trunk movement families:
+
 1. flexion;
 2. extension;
 3. lateral flexion;
 4. rotation.
 
-Real tasks combine them and include:
-- resisting motion;
-- transmitting force;
+Real tasks may combine motion with:
+- force transmission;
+- stiffness;
+- near-isometric contraction;
 - breathing.
 
-Thus “core exercise” may train anti-motion/stiffness even with little visible trunk movement.
+Visible ROM is not required for trunk muscles to produce force.
 
-## 35. Isometric trunk work
+Exact anti-motion/isometric mechanics → MEC.
 
-If external load creates trunk moment but visible motion is small:
-muscles can generate isometric/near-isometric force.
+## 18. Bracing / hollowing / “inner core” boundary
 
-This is physiological/biomechanical behavior, but anatomical architecture supports it.
+ANA-07 does **not** establish:
 
-Do not judge trunk work by visible ROM alone.
+- hollowing as universally superior;
+- “360° bracing” as universally superior;
+- TrA-first timing;
+- multifidus isolation as prerequisite;
+- one universally safe spine strategy.
 
-## 36. Cervical musculature boundary
+These are neurophysiology/biomechanics/outcome questions.
 
-Neck includes additional:
-- deep cervical flexors;
-- suboccipitals;
-- scalenes;
-- sternocleidomastoid.
+Project rule:
 
-Not deeply expanded because current fitness objective does not require detailed cervical specialization.
+**anatomical depth is not a hierarchy of training importance.**
 
-If later needed, anatomy map can branch.
+## 19. Neural map — minimum
 
-## 37. Iliopsoas boundary
+- intrinsic back muscles → dorsal rami;
+- abdominal wall → thoracoabdominal/lower intercostal + L1-related branches;
+- QL → T12/lumbar ventral-ramus contributions;
+- diaphragm → phrenic nerves;
+- pelvic floor → pudendal/sacral-plexus and autonomic contributions depending structure/function.
 
-Psoas major attaches lumbar spine to femur and therefore bridges trunk/hip.
+Detailed branch-level anatomy → ANA-12.
 
-Detailed treatment placed in ANA-08 hip/pelvis because its primary training role is hip flexion/hip-spine interaction.
+## 20. Normal variation
 
-## 38. Latissimus boundary
+Relevant variation includes:
 
-Latissimus links humerus to:
-- thoracolumbar fascia;
-- spine;
-- pelvis/ribs.
-
-Detailed shoulder role is ANA-04.
-
-This demonstrates arbitrary “body-part” compartments overlap structurally.
-
-## 39. Neural organization
-
-Intrinsic back:
-- dorsal rami.
-
-Abdominal wall:
-- thoracoabdominal nerves/intercostal branches.
-
-QL:
-- subcostal + lumbar plexus branches.
-
-Diaphragm:
-- phrenic.
-
-Pelvic floor:
-- pudendal/sacral plexus contributions plus autonomic integration.
-
-Detailed neuroanatomy → ANA-12.
-
-## 40. Surface anatomy
-
-Useful landmarks:
-- spinous processes;
-- iliac crests;
-- 12th rib;
-- costal margin;
-- linea alba;
-- rectus borders;
-- ASIS/PSIS later in pelvis.
-
-Surface appearance cannot prove deep-muscle activation.
-
-## 41. “Lower abs” anatomy
-
-Rectus abdominis is one continuous paired muscle with tendinous intersections and regional innervation/architecture.
-
-Exercises may create regional loading differences, but there is no separate anatomical “lower abs muscle”.
-
-Hypertrophy regionality → PHY/TEC.
-
-## 42. “Inner core” myth boundary
-
-TrA, multifidus, diaphragm and pelvic floor are important.
-
-But labeling them a separate universally weak “inner unit” that must be activated before larger muscles is not an anatomical fact.
-
-Any such training claim needs motor-control/outcome evidence.
-
-## 43. Anatomical variation
-
-Variation exists in:
+- spinalis development;
+- multifidus bundle architecture;
 - rectus intersections;
 - pyramidalis presence;
 - abdominal aponeuroses;
-- multifidus morphology;
-- QL layers;
-- pelvic floor architecture.
+- QL layer geometry;
+- TLF layer model;
+- pelvic-floor morphology.
 
-2026 QL research specifically demonstrates layer-dependent neural architecture. citeturn333857search7
+Project rule:
 
-## 44. Project canonical trunk model
+**atlas anatomy is modal, not identical in every person.**
 
-1. Spine is supported/moved by multiple layered intrinsic muscles.
-2. Erector spinae = three longitudinal columns, not one muscle.
-3. Transversospinalis = semispinalis/multifidus/rotatores.
-4. Abdominal wall = rectus + EO + IO + TrA integrated through aponeuroses.
-5. QL links pelvis–lumbar spine–12th rib.
-6. Diaphragm = principal inspiratory muscle and superior pressure boundary.
-7. Pelvic floor = inferior musculofascial boundary/support system.
-8. Thoracolumbar fascia integrates named regional structures but is not a mystical whole-body network.
-9. “Core” is a functional shorthand, not one anatomical unit.
-10. Anatomy does not prescribe one universal bracing/posture strategy.
+Variation alone ≠ dysfunction.
 
-## 45. Confidence
+## 21. Canonical project model
+
+1. “Core” is a shorthand, not an organ.
+2. Erector spinae = iliocostalis + longissimus + spinalis.
+3. Transversospinalis = semispinalis + multifidus + rotatores.
+4. Lumbar multifidus has complex, nonuniform bundle architecture.
+5. Abdominal wall = rectus + EO + IO + TrA integrated through aponeuroses.
+6. TrA is not the unique deep stabilizer.
+7. QL is structurally nonuniform.
+8. TLF is regional multilayer anatomy with model-dependent layer nomenclature.
+9. Diaphragm = principal inspiratory muscle + superior pressure boundary.
+10. Pelvic floor = inferior musculofascial support/pressure boundary.
+11. Pressure-“canister” is a useful boundary model, not a literal rigid cylinder.
+12. Anatomy does not prescribe one universal bracing/posture strategy.
+
+## 22. Evidence / confidence
 
 ### HIGH
-- intrinsic back muscle groups and general attachments;
-- abdominal-wall layers;
-- rectus sheath/linea alba;
-- QL attachments;
-- diaphragm and pelvic-floor major anatomy.
 
-### MODERATE
-- exact function of individual deep fascicles during specific lifts is task-dependent and deferred to biomechanics/neurophysiology.
+- erector-spinae / transversospinalis group organization;
+- predominant dorsal-rami innervation;
+- abdominal-wall layers/aponeurotic integration;
+- diaphragm major anatomy/respiratory role;
+- pelvic-floor major structural anatomy;
+- QL nonuniform structure;
+- TLF as named regional connective tissue;
+- “core” not being one anatomical organ.
 
-## 46. Sources
+### MODERATE / MODEL-DEPENDENT
 
-1. NCBI Bookshelf — Anatomy, Back, Muscles.  
-   https://www.ncbi.nlm.nih.gov/books/NBK537074/
+- exact lumbar-multifidus bundle taxonomy;
+- exact TLF layer nomenclature;
+- exact functional meaning of QL layer-specific neural organization;
+- task-specific role of individual deep fascicles.
 
-2. NCBI Bookshelf — Anatomy, Back.  
+## 23. Sources checked in revalidation
+
+1. NCBI Bookshelf — Anatomy, Back.  
    https://www.ncbi.nlm.nih.gov/books/NBK539746/
+
+2. NCBI Bookshelf — Anatomy, Back, Muscles.  
+   https://www.ncbi.nlm.nih.gov/books/NBK537074/
 
 3. NCBI Bookshelf — Anterolateral Abdominal Wall.  
    https://www.ncbi.nlm.nih.gov/books/NBK525975/
@@ -641,25 +443,40 @@ Variation exists in:
 4. NCBI Bookshelf — Anterolateral Abdominal Wall Muscles.  
    https://www.ncbi.nlm.nih.gov/books/NBK470334/
 
-5. NCBI Bookshelf — Rectus Sheath.  
-   https://www.ncbi.nlm.nih.gov/books/NBK537153/
+5. NCBI Bookshelf — Abdominal Wall.  
+   https://www.ncbi.nlm.nih.gov/books/NBK551649/
 
-6. NCBI Bookshelf — Quadratus Lumborum, updated Jul 17 2024.  
+6. NCBI Bookshelf — Quadratus Lumborum.  
    https://www.ncbi.nlm.nih.gov/books/NBK535407/
 
 7. NCBI Bookshelf — Thoracic Diaphragm.  
    https://www.ncbi.nlm.nih.gov/books/NBK519558/
 
-8. NCBI Bookshelf — Pelvic Floor, updated May 13 2026.  
+8. NCBI Bookshelf — Pelvic Floor, updated 2026-05-13.  
    https://www.ncbi.nlm.nih.gov/books/NBK482200/
 
-9. Lee HJ et al. Layer-specific neuroanatomical architecture of quadratus lumborum. Surg Radiol Anat. 2026. PMID 42457976.  
-   https://pubmed.ncbi.nlm.nih.gov/42457976/
+9. Harano T et al. Lumbar multifidus anatomical reappraisal. 2026. PMID 41665122.  
+   https://pubmed.ncbi.nlm.nih.gov/41665122/
 
-## 47. Next dependencies
+10. Lee HJ et al. QL layer-specific neuroanatomy. 2026. PMID 42457976.  
+    https://pubmed.ncbi.nlm.nih.gov/42457976/
 
-- ANA-08 pelvis/hip;
-- ANA-11 muscle architecture;
-- ANA-12 nerve anatomy;
-- PHY respiratory/trunk physiology;
-- MEC trunk/bracing mechanics.
+11. Histology of fascial planes systematic review. PMID 41345736.  
+    https://pubmed.ncbi.nlm.nih.gov/41345736/
+
+12. Ishikawa H et al. Posterior thoracolumbar fascia collagen bundles. PMID 41236078.  
+    https://pubmed.ncbi.nlm.nih.gov/41236078/
+
+## 24. Closure
+
+Closure audit:
+`passes/02_anatomy/ANA-07/PASS-02_closure_audit_and_synthesis.md`.
+
+Result:
+**no project-relevant blocker remains.**
+
+ANA-07 = **CLOSED_FOR_PRACTICE v2.0**.
+
+## 25. Next dependency
+
+**ANA-08 — Pelvis and hip.**
