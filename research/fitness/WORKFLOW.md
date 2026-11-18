@@ -220,11 +220,11 @@ Stage 2 / Phase B продолжается.
 6. ANA-04 = **CLOSED_FOR_PRACTICE v2.0**.
 7. ANA-05 = **CLOSED_FOR_PRACTICE v2.0**.
 8. ANA-06 = **CLOSED_FOR_PRACTICE v2.0**.
-9. ANA-06/PASS-01 content revalidation завершён.
-10. ANA-06/PASS-02 closure audit / synthesis завершён; blockers не найдены.
-11. Canonical ANA-06 finding обновлён до v2.0.
-12. Следующий один блок: **ANA-07 — trunk and spine musculature / abdominal wall / erector spinae / multifidus / diaphragm / pelvic-floor structural role**.
-13. ANA-08 автоматически не запускать после ANA-07; сохраняется one block → state update → STOP.
+9. Текущая тема: **ANA-07 — trunk and spine musculature / abdominal wall / erector spinae / multifidus / diaphragm / pelvic-floor structural role**.
+10. **ANA-07/PASS-01 — trunk-spine-musculature structural-functional revalidation** завершён 2026-11-18.
+11. Current updates: lumbar multifidus bundle model refined; QL multilayer anatomy added; TLF layer taxonomy kept model-dependent; diaphragm/pelvic-floor pressure-boundary anatomy preserved without technique claims.
+12. Следующий один блок: **ANA-07 closure audit / synthesis**.
+13. ANA-08 автоматически не запускать.
 
 ## 9. Зафиксированный общий план
 
@@ -241,7 +241,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-07 — trunk and spine musculature / abdominal wall / erector spinae / multifidus / diaphragm / pelvic-floor structural role**.
+Ближайшая задача: Stage 2 / Phase B — **ANA-07 closure audit / synthesis**; затем STOP.
 
 
 ## 10. Stage 0B — результат
