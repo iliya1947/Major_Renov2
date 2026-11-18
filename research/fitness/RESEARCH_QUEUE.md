@@ -27,7 +27,9 @@
 - **ANA-07 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-07/PASS-01 trunk-spine-musculature revalidation completed 2026-11-18.
 - ANA-07/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT NEXT: **Phase B / ANA-08 — Pelvis and hip.**
+- CURRENT: **Phase B / ANA-08 — Pelvis and hip.**
+- ANA-08/PASS-01 pelvis-hip structural-functional revalidation completed 2026-11-18.
+- CURRENT NEXT: **ANA-08 closure audit / synthesis**. Do not start ANA-09 before ANA-08 closure.
 
 ## История текущего revalidation cycle
 
@@ -408,3 +410,10 @@
 307. ANA-07 = **CLOSED_FOR_PRACTICE v2.0**.
 308. Multifidus/TLF model uncertainty and QL functional-certainty limits remain explicit; no extra ledger claim required.
 309. Следующий один блок: **ANA-08 — Pelvis and hip**.
+
+310. Завершён **ANA-08/PASS-01 — Pelvis and hip structural-functional revalidation**.
+311. Pelvic ring/SIJ/pubis, hip capsulolabral system, gluteals, iliopsoas, adductors, hamstrings, deep rotators and TFL/ITB revalidated.
+312. 2026 healthy dynamic SIJ data added: motion is small but measurable; current SIJ-variation literature reinforces no diagnosis from asymmetry alone.
+313. 2025 gluteus-maximus re-evaluation and 2026 adductor-magnus anatomy refine simplified insertion/subdivision maps without creating new exercise taxonomies.
+314. Femoral/acetabular morphology variation retained as a reason not to derive one universal squat stance from atlas anatomy.
+315. Следующий один блок: **ANA-08 closure audit / synthesis**.
