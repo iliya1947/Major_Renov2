@@ -214,12 +214,12 @@ Stage 2 / Phase B продолжается.
 
 1. Phase A methodology = **SUFFICIENT_FOR_NEXT_PHASE**.
 2. Текущая область: **02 — Anatomy**.
-3. **ANA-01 — anatomical terminology / planes / axes / movement terms = CLOSED_FOR_PRACTICE v2.0**.
-4. ANA-01/PASS-01 content revalidation завершён.
-5. ANA-01/PASS-02 closure audit / synthesis завершён; project-relevant blockers не найдены.
-6. Canonical ANA-01 finding и EVIDENCE_LEDGER обновлены.
-7. Следующий один блок: **ANA-02 — levels / tissues of musculoskeletal structural organization**.
-8. ANA-03 автоматически не запускать после ANA-02; сохраняется правило один законченный блок → state update → STOP.
+3. ANA-01 = **CLOSED_FOR_PRACTICE v2.0**.
+4. Текущая тема: **ANA-02 — levels / tissues of musculoskeletal structural organization**.
+5. **ANA-02/PASS-01 — structural-map revalidation** завершён 2026-11-18.
+6. Core tissue distinctions revalidated; fascia terminology explicitly marked contested and structure-specific.
+7. Следующий один блок: **ANA-02 closure audit / synthesis**.
+8. ANA-03 автоматически не запускать.
 
 ## 9. Зафиксированный общий план
 
@@ -236,7 +236,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-02 — levels / tissues of musculoskeletal structural organization**.
+Ближайшая задача: Stage 2 / Phase B — **ANA-02 closure audit / synthesis**; затем STOP.
 
 
 ## 10. Stage 0B — результат
