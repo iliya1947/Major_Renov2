@@ -6,9 +6,10 @@
 - **Phase A / RES — SUFFICIENT_FOR_NEXT_PHASE** по Methodology Sufficiency Audit от 2026-11-18.
 - **RES-01 — CLOSED_FOR_PRACTICE.**
 - **RES-02 — SUFFICIENT_FOR_PHASE_A; residual taxonomy deferred by purpose gate.**
-- CURRENT: **Phase B / ANA-01 — Anatomical terminology / planes / axes / movement terms.**
+- **ANA-01 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-01/PASS-01 core terminology revalidation completed 2026-11-18.
-- CURRENT NEXT: **ANA-01 closure audit / synthesis**. Do not start ANA-02 before ANA-01 closure.
+- ANA-01/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
+- CURRENT NEXT: **Phase B / ANA-02 — Levels / tissues of musculoskeletal structural organization.**
 
 ## История текущего revalidation cycle
 
@@ -311,3 +312,9 @@
 242. TA2 подтверждён как current published IFAA/FIPAT framework на проверенных официальных страницах; TA2.5 в FIPAT 2025 report описан как planned future update. Legacy exact "adopted in 2020" wording снят как непроверенный.
 243. Core terminology, planes, conventional axes, movement terms, pronation/supination, scapular-vs-humeral distinction и anatomy/biomechanics boundary revalidated; blockers для дальнейшей anatomy не найдено.
 244. Следующий один блок: **ANA-01 closure audit / synthesis**.
+
+245. Завершён **ANA-01/PASS-02 — Closure audit and synthesis**.
+246. ANA-01 closure criterion = PASS; canonical finding updated to **CLOSED_FOR_PRACTICE v2.0**.
+247. TA2 remains current published IFAA/FIPAT Terminologia Anatomica on sources checked 2026-11-18; TA2.5 remains planned future publication.
+248. No terminology blocker remains for downstream anatomy/biomechanics; detailed 3D coordinate mechanics stays deferred to MEC/region-specific topics.
+249. Следующий один блок: **ANA-02 — Levels / tissues of musculoskeletal structural organization**.
