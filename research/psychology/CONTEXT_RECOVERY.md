@@ -21,12 +21,13 @@ Use this file to recover work after a new chat or lost context.
 - Phase A methodology: **IN PROGRESS**.
 - `PSY-RES-01`: **CLOSED_FOR_PRACTICE v1.0 — 7/7 PASS**.
 - `PSY-RES-02`: **CLOSED_FOR_PRACTICE v1.0 — 8/8 PASS**.
-- Next block: `PSY-RES-03 — Measurement, reliability, validity, and psychometrics`.
+- `PSY-RES-03`: **CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS**.
+- Next block: `PSY-RES-04 — Bias, confounding, selection, and measurement error`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/01_research_methodology/PSY-RES-02_study_designs_and_causal_inference_basics.md`
+`research/psychology/qualification/01_research_methodology/PSY-RES-03_measurement_reliability_validity_psychometrics.md`
 
 ## Hard stop condition
 
