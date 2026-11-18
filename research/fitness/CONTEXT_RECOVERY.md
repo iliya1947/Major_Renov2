@@ -115,7 +115,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-10 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **ANA-11 — Мышечная организация и архитектура**.
+Текущая тема: **ANA-11 — Мышечная организация и архитектура**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -165,39 +165,41 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-10/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-11/PASS-01_muscle_organization_architecture_revalidation.md`
 
-ANA-10 = **CLOSED_FOR_PRACTICE v2.0**.
+Commit PASS-01:
+
+`09e2b3d04b9f55304126270c7b4dea9f357e3a79`
+
+ANA-11/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
 
 ### Следующая задача
 
-**Phase B / ANA-11 — Мышечная организация и архитектура.**
+**ANA-11 closure audit / synthesis.**
 
-Последние завершённые блоки:
+Последний завершённый блок:
 
-1. `research/fitness/passes/02_anatomy/ANA-10/PASS-01_ankle_foot_calf_arch_revalidation.md`
-2. `research/fitness/passes/02_anatomy/ANA-10/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-11/PASS-01_muscle_organization_architecture_revalidation.md`
 
-ANA-10 status:
-**CLOSED_FOR_PRACTICE v2.0**.
+PASS-01 установил:
 
-Closure established:
+1. structural hierarchy = whole muscle → fascicle → myofiber → myofibril → sarcomere;
+2. fascicle and myofiber are distinct terms and must not be silently interchanged;
+3. origin/insertion are anatomical naming conventions, not guarantees about which attachment moves in a task;
+4. mono-/multiarticular architecture must be interpreted across all crossed joint positions;
+5. volume, ACSA, PCSA, thickness, fascicle length and pennation describe different structural properties;
+6. pennation is a dynamic, regional 3D packing/orientation variable rather than a fixed force-loss angle;
+7. fascicle length relates to serial architecture but is not identical to serial sarcomere number;
+8. Andrews et al. human NHE study directly measured sarcomere length via microendoscopy and **calculated** serial sarcomere number as fascicle length / sarcomere length; this supersedes legacy “no human intervention evidence” wording;
+9. regional/compartmental architecture is real, but does not itself prove independent trainability;
+10. 3D fascicle measurement, image-acquisition reproducibility and site/state standardization materially affect estimates;
+11. PCSA remains an approximate established proxy; 2026 PCSS is currently a bioRxiv preprint/emerging method, not a replacement standard;
+12. tendon and aponeurosis are distinct force-transmission geometries; aponeuroses are deformable;
+13. architecture plasticity/adaptation mechanisms remain owned by PHY/PRO;
+14. no content blocker found, but closure requires a separate audit/synthesis.
 
-1. talocrural joint is primary dorsiflexion/plantarflexion articulation; subtalar + transverse-tarsal systems carry major inversion/eversion and composite foot pronation/supination;
-2. distal tibiofibular syndesmosis is a distinct stabilizing complex;
-3. all four leg compartments are mapped;
-4. gastrocnemius is biarticular, soleus monoarticular at knee;
-5. medial/lateral gastrocnemius are synergists but not assumed functionally identical;
-6. Achilles transmits triceps-surae force and is structurally heterogeneous/twisted;
-7. universal discrete three-subtendon Achilles anatomy is explicitly marked **contested**;
-8. tibialis posterior has broad variable distal attachments;
-9. intrinsic/extrinsic foot muscle systems and retinacula are mapped;
-10. plantar aponeurosis and three arch systems are integrated passive+active supports;
-11. windlass is real but individually variable and not treated as a rigid universal response;
-12. all 12 legacy critical outcomes passed closure; no project-relevant blocker remains.
-
-Следующий один блок: **ANA-11 — Мышечная организация и архитектура**. После него сохранить state и STOP.
+Следующий блок: **ANA-11 closure audit / synthesis**. Do not start ANA-12 in the same working block.
 
 ---
 
@@ -213,9 +215,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-10/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-11/PASS-01_muscle_organization_architecture_revalidation.md`
 
-Затем выполнить только записанный выше **ANA-11** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **ANA-11 closure audit / synthesis** и остановиться перед ANA-12.
 
 ---
 
