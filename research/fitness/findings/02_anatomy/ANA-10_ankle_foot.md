@@ -1,945 +1,553 @@
 # ANA-10 — Голеностоп, стопа, своды и мышцы голени
 
-Статус: **LEGACY v1.0 — REVALIDATION IN PROGRESS; use current ANA-10 passes/state**  
-Дата: 2026-11-16  
+Статус: **CLOSED_FOR_PRACTICE v2.0 — revalidated 2026-11-18**  
 Область: 02 — Анатомия
 
-## 0. Question Card
+## 0. Decision
 
-### Decision
-Создать структурно-функциональную карту голени, ankle/foot joints, ligament complexes, extrinsic/intrinsic muscles, Achilles tendon, plantar aponeurosis and arches, необходимую для calf work, squat/lunge mechanics, balance and whole-body training.
+Создать structural-functional карту ankle/foot/calf system для последующего анализа squat/lunge dorsiflexion, calf training, arch mechanics, balance and foot loading без:
 
-### Question type
-Foundational anatomy / functional anatomy.
+- one-hinge ankle model;
+- one-muscle “foot core” simplification;
+- rigid three-subtendon Achilles claim;
+- navicular-only tibialis-posterior model;
+- rigid windlass response;
+- anatomy → intervention overclaim.
 
-### Critical outcomes
-1. Tibia/fibula/talus and ankle mortise.
-2. Distal tibiofibular syndesmosis.
-3. Talocrural, subtalar and transverse-tarsal complexes.
-4. Medial/lateral ankle ligaments.
-5. Anterior/lateral/posterior leg compartments.
-6. Triceps surae and Achilles tendon.
-7. Deep posterior muscles.
-8. Intrinsic foot muscles.
-9. Plantar aponeurosis.
-10. Medial/lateral longitudinal and transverse arches.
-11. Windlass mechanism as functional anatomy.
-12. Structural distinctions relevant to training.
+## 1. Canonical ankle-foot model
 
-### Closure criterion
-Можно анатомически объяснить dorsiflexion/plantarflexion, inversion/eversion, toe function, calf force transfer and arch support without treating the “ankle” or “foot core” as one simple joint/muscle.
+1. tibia/fibula form ankle mortise around talus;
+2. talocrural joint primarily handles dorsiflexion/plantarflexion;
+3. distal tibiofibular syndesmosis preserves mortise congruence;
+4. subtalar + transverse-tarsal systems contribute major inversion/eversion and composite foot pronation/supination;
+5. four leg compartments contain distinct but interacting muscle systems;
+6. gastrocnemius is biarticular; soleus is not;
+7. Achilles transmits triceps-surae force and is structurally heterogeneous;
+8. tibialis posterior has broad, variable distal attachments;
+9. intrinsic and extrinsic foot muscles cooperate;
+10. arches integrate bone, ligament, plantar aponeurosis and muscle;
+11. windlass is real but individually variable;
+12. “foot core” is shorthand, not one anatomical organ.
 
----
+## 2. Tibia / fibula / talus and mortise
 
-## 1. Leg and foot are different anatomical regions
-
-**Leg** anatomically = segment between knee and ankle.
-
-**Foot** = structures distal to ankle/tibiotalar joint.
-
-Leg contains:
-- tibia;
-- fibula;
-- four muscular compartments.
-
-Foot contains:
-- 7 tarsals;
-- 5 metatarsals;
-- 14 phalanges;
-- multiple joints/ligaments;
-- intrinsic muscles.
-
-This prevents common training-language ambiguity where “leg” means whole lower limb.
-
-## 2. Tibia
-
-Tibia is the major weight-bearing bone of the leg.
-
-Distal landmarks:
-1. tibial plafond;
-2. medial malleolus;
-3. fibular notch/incisura;
-4. posterior malleolar region.
-
-The distal tibial plafond forms the superior part of ankle mortise and articulates with talar trochlea.
-
-## 3. Fibula
-
-Fibula:
-- carries less axial bodyweight directly than tibia;
-- provides muscular/ligamentous attachment;
-- forms lateral malleolus;
-- is essential to ankle mortise/syndesmotic stability.
-
-Distal fibular position relative to tibia matters to congruence of tibiotalar joint.
-
-## 4. Talus
-
-Talus is the load-transmitting link from leg to foot.
-
-Key parts:
-1. body;
-2. neck;
-3. head;
-4. trochlear dome;
-5. malleolar facets;
-6. calcaneal facets.
-
-Talus has no direct muscle origin/insertion in the usual sense, making its position strongly governed by joint geometry/ligaments and forces transmitted through neighboring bones.
-
-## 5. Ankle mortise
-
-Distal:
+### Tibia
+Key distal structures:
 - tibial plafond;
 - medial malleolus;
-- lateral malleolus
-form osseoligamentous mortise around talar dome.
+- fibular incisura;
+- posterior malleolar region.
 
-The talar trochlea is wider anteriorly than posteriorly.
+### Fibula
+Key roles:
+- lateral malleolus;
+- syndesmotic stability;
+- mortise geometry;
+- muscular/ligament attachment.
 
-Structural implication:
-mortise fit changes through dorsiflexion/plantarflexion; quantitative mechanics belongs to MEC. Current 2026 StatPearls explicitly describes the tibia/fibula mortise and talar dome relationship. 
+### Talus
+Key load-transfer bone between leg and foot.
 
-## 6. Talocrural joint
+Project rule:
+
+**talus is central to ankle-foot load transfer but has no ordinary direct muscle attachment.**
+
+The talar trochlea is broader anteriorly than posteriorly, so joint congruence/tension changes with position.
+
+## 3. Distal tibiofibular syndesmosis
+
+Core structures:
+1. AITFL;
+2. PITFL;
+3. inferior transverse ligament;
+4. interosseous ligament.
+
+Project rule:
+
+**syndesmosis is a distinct distal tibiofibular stabilizing joint complex, not merely another ankle collateral ligament.**
+
+## 4. Talocrural joint
 
 Talocrural/tibiotalar joint:
-- distal tibia/fibula ↔ talus;
-- synovial hinge-dominant joint.
+- synovial;
+- hinge-dominant.
 
-Primary movement:
-1. dorsiflexion;
-2. plantarflexion.
-
-It is not the principal anatomical site of all “foot inversion/eversion”; those are distributed more strongly through subtalar/midtarsal complexes.
-
-## 7. Distal tibiofibular syndesmosis
-
-Fibrous joint above ankle.
-
-Current 2026 source identifies four key stabilizing components:
-
-1. anterior inferior tibiofibular ligament (AITFL);
-2. posterior inferior tibiofibular ligament (PITFL);
-3. inferior transverse ligament;
-4. interosseous ligament as distal continuation of interosseous membrane.
-
-Functions structurally:
-- maintain tibia-fibula relationship;
-- resist excessive separation/translation;
-- preserve ankle mortise congruence.
-
-The syndesmosis is not a “fifth ankle ligament”; it is its own distal tibiofibular joint complex.
-
-## 8. Lateral ankle ligament complex
-
-Three canonical ligaments:
-
-1. anterior talofibular ligament (ATFL);
-2. calcaneofibular ligament (CFL);
-3. posterior talofibular ligament (PTFL).
-
-All originate from lateral malleolar/fibular region and attach to talus/calcaneus.
-
-Broad structural role:
-resist excessive inversion/translation/rotation depending position.
-
-Their exact tension varies with ankle position → MEC/MED.
-
-## 9. Deltoid ligament complex
-
-Medial ankle ligament complex, with superficial and deep portions.
-
-Current 2026 anatomy source describes superficial components including:
-- tibionavicular;
-- tibiocalcaneal;
-- tibiospring;
-- superficial posterior tibiotalar,
-and deep anterior/posterior tibiotalar components.
-
-Broad:
-- medial ankle stability;
-- resists excessive eversion/external rotational displacement in combination with syndesmosis.
+Primary motions:
+- dorsiflexion;
+- plantarflexion.
 
 Project rule:
-“deltoid ligament” = complex, not one homogeneous strap.
 
-## 10. Hindfoot
+**talocrural joint does not account for all inversion/eversion or foot pronation/supination.**
 
-Hindfoot:
-1. talus;
-2. calcaneus.
+## 5. Lateral / medial ligament complexes
 
-The talus transmits body load onto calcaneus and forward through midfoot.
+### Lateral
+- ATFL;
+- CFL;
+- PTFL.
 
-Calcaneus:
-- largest tarsal bone;
-- forms heel;
-- Achilles insertion;
-- origin/attachment for plantar fascia and several intrinsic muscles;
-- articulates with talus and cuboid.
-
-## 11. Subtalar joint complex
-
-Subtalar functional complex includes:
-- posterior talocalcaneal articulation;
-- talocalcaneonavicular components/anterior-middle facet system;
-- sinus/canal tarsi ligamentous structures.
-
-Current anatomy sources describe subtalar complex as 3D and contributing substantially to inversion/eversion. 
+### Medial / deltoid
+Superficial + deep components, including tibionavicular, tibiocalcaneal, tibiospring and tibiotalar portions.
 
 Project rule:
-**subtalar joint is not a single flat hinge.**
 
-## 12. Talocalcaneonavicular / transverse tarsal relationship
+**both lateral and medial stability are complex- and position-dependent.**
 
-Talonavicular joint + calcaneocuboid joint form transverse tarsal (Chopart) complex.
+## 6. Subtalar / transverse-tarsal system
 
-These mid/hindfoot articulations contribute to:
+Subtalar/talocalcaneal system contributes materially to:
 - inversion/eversion;
-- foot adaptation;
-- transition between flexible and rigid foot configurations.
+- composite 3D foot pronation/supination.
 
-Exact coupled motion → MEC.
+Transverse-tarsal/Chopart complex:
+- talonavicular;
+- calcaneocuboid.
 
-## 13. Midfoot
+Project rule:
 
-Five tarsals:
-1. navicular;
-2. cuboid;
-3. medial cuneiform;
-4. intermediate cuneiform;
-5. lateral cuneiform.
+**“ankle motion” in training language often spans talocrural + subtalar + midtarsal structures.**
 
-They form structural bridge between hindfoot and metatarsals and participate in longitudinal/transverse arches.
-
-## 14. Forefoot
-
-Includes:
-- 5 metatarsals;
-- 14 phalanges.
-
-Hallux:
-- 2 phalanges.
-
-Digits 2–5:
-- 3 phalanges each.
-
-Metatarsophalangeal (MTP) joints and toe IP joints are important to push-off and windlass behavior.
-
-## 15. Four leg compartments
-
-Current 2026 anatomy divides lower leg into:
+## 7. Four leg compartments
 
 1. anterior;
 2. lateral;
 3. superficial posterior;
 4. deep posterior.
 
-Boundaries:
-- tibia/fibula;
-- interosseous membrane;
-- intermuscular septa;
-- crural fascia.
+Compartment labels organize anatomy but do not imply one motion per compartment.
 
-This organization is important for muscle function and neurovascular anatomy.
+## 8. Anterior compartment
 
-## 16. Anterior compartment
-
-Current 2026 StatPearls lists:
-
-1. tibialis anterior;
-2. extensor hallucis longus (EHL);
-3. extensor digitorum longus (EDL);
-4. fibularis tertius.
+Core:
+- tibialis anterior;
+- EHL;
+- EDL;
+- fibularis tertius.
 
 Innervation:
 - deep fibular nerve.
 
-Primary group function:
-- dorsiflexion.
-
-Additional:
+Broad:
+- dorsiflexion;
 - toe extension;
-- inversion/eversion depending muscle.
+- inversion/eversion contributions depending muscle.
 
-## 17. Tibialis anterior
+Fibularis tertius may be absent as normal variation.
 
-Origin:
-- lateral tibial condyle/proximal lateral tibia;
-- interosseous membrane/fascia contributions.
+## 9. Lateral compartment
 
-Insertion:
-- medial cuneiform;
-- base first metatarsal region.
-
-Functions:
-- dorsiflexion;
-- inversion.
-
-Its medial insertion also contributes dynamically to medial foot support.
-
-## 18. Extensor hallucis longus
-
-Origin:
-- anterior fibula/interosseous membrane.
-
-Insertion:
-- distal phalanx hallux.
-
-Functions:
-- hallux extension;
-- dorsiflexion;
-- inversion contribution.
-
-Innervation:
-- deep fibular nerve.
-
-## 19. Extensor digitorum longus
-
-Origin:
-- lateral tibial condyle/proximal fibula/interosseous region.
-
-Tendons:
-- digits 2–5.
-
-Functions:
-- toe extension;
-- dorsiflexion;
-- eversion contribution.
-
-Distally integrates with extensor mechanisms rather than acting only at one toe joint.
-
-## 20. Fibularis tertius
-
-Often considered distal/anterior-compartment derivative of EDL system.
-
-Insertion:
-- dorsal base of fifth metatarsal.
-
-Functions:
-- dorsiflexion;
-- eversion.
-
-Anatomically variable and can be absent.
-
-## 21. Lateral compartment
-
-Main muscles:
-
-1. fibularis longus;
-2. fibularis brevis.
+Core:
+- fibularis longus;
+- fibularis brevis.
 
 Innervation:
 - superficial fibular nerve.
 
-Primary:
+Broad:
 - eversion;
 - secondary plantarflexion.
 
-## 22. Fibularis longus
+Fibularis longus crosses the plantar foot toward medial cuneiform/first metatarsal and contributes beyond simple eversion.
 
-Origin:
-- head/proximal lateral fibula.
+## 10. Triceps surae
 
-Tendon passes:
-- posterior to lateral malleolus;
-- across lateral/plantar foot;
-- toward medial cuneiform/base first metatarsal.
-
-Functions:
-- eversion;
-- plantarflexion contribution;
-- supports transverse/lateral-medial arch relationships.
-
-Its long oblique plantar course makes it structurally important beyond simple ankle eversion.
-
-## 23. Fibularis brevis
-
-Origin:
-- lateral distal fibula.
-
-Tendon:
-- passes behind lateral malleolus.
-
-Insertion:
-- tuberosity/base fifth metatarsal.
-
-Functions:
-- eversion;
-- plantarflexion contribution.
-
-Longus and brevis share broad actions but differ markedly in distal course/insertion.
-
-## 24. Superficial posterior compartment
-
-Contains:
-
-1. gastrocnemius;
-2. soleus;
-3. plantaris.
-
-Gastrocnemius + soleus form principal **triceps surae** complex. Current 2026 posterior-compartment source confirms this layering.
-
-## 25. Gastrocnemius
-
-Two heads:
-- medial;
-- lateral.
-
-Origins:
-- posterior distal femoral condylar regions.
-
-Crosses:
-- knee;
-- ankle.
-
-Functions:
-- ankle plantarflexion;
-- knee flexion contribution.
-
-Innervation:
-- tibial nerve.
-
-Because it crosses knee, knee angle changes gastrocnemius length and potential contribution to plantarflexion.
-
-## 26. Soleus
-
-Origin broadly:
-- posterior proximal fibula;
-- soleal line/posterior tibia;
-- tendinous arch.
-
-Does **not** cross knee.
-
-Insertion:
-- calcaneus via calcaneal/Achilles tendon complex.
-
-Primary:
+### Gastrocnemius
+- medial + lateral heads;
+- crosses knee + ankle;
 - plantarflexion;
-- postural/stance function.
+- knee-flexion contribution.
 
-Anatomically, bent-knee vs straight-knee calf positions change gastrocnemius length much more than soleus length; exact training consequences require biomechanics/physiology.
+### Soleus
+- crosses ankle only;
+- plantarflexion;
+- postural/stance role.
 
-## 27. Plantaris
+Project rule:
+
+**knee position changes gastrocnemius geometry much more directly than soleus geometry.**
+
+### Medial vs lateral gastrocnemius
+
+Current evidence supports meaningful anatomical/neural/biomechanical differences.
+
+Project rule:
+
+**the two heads are synergists but are not assumed to be functionally identical.**
+
+## 11. Plantaris
 
 Small, variable biarticular muscle.
 
-Origin:
-- lateral supracondylar femoral region.
+Low ordinary training priority.
 
-Long thin tendon courses toward calcaneal/Achilles region.
+Absence is normal variation.
 
-Functions:
-- weak knee flexion/plantarflexion contributions.
+## 12. Achilles / calcaneal tendon
 
-It is not a major force producer and may be absent.
+High-confidence:
+- transmits major gastrocnemius/soleus force to posterior calcaneus;
+- structurally heterogeneous;
+- exhibits twisted/nonuniform internal organization;
+- surrounded by paratenon rather than a typical synovial sheath along the main free tendon.
 
-## 28. Achilles / calcaneal tendon
+### Subtendon uncertainty
 
-Largest/thickest tendon complex in human body.
-
-Main contributors:
-- gastrocnemius;
-- soleus;
-with plantaris anatomically adjacent/variable.
-
-Insertion:
-- posterior calcaneal tuberosity.
-
-Current sources describe twisting/rotation of gastrocnemius and soleus subtendons along course rather than one perfectly homogeneous rope.
+Current 2026 histology did not reliably identify universal discrete subtendons.
 
 Project rule:
-**Achilles is a structured multi-subtendon force-transmission complex, not a simple cord.**
 
-## 29. Achilles paratenon
+**do not treat a universal three-discrete-subtendon Achilles model as settled anatomy.**
 
-Achilles lacks a typical true synovial sheath along main free tendon and is surrounded by paratenon-type connective tissue.
+Later biomechanics must state explicitly whether it assumes discrete subtendons, subregions or a continuum model.
 
-This matters anatomically for gliding/vascular relationships.
+## 13. Deep posterior compartment
 
-Pathology → MED.
+Core:
+- popliteus;
+- tibialis posterior;
+- FDL;
+- FHL.
 
-## 30. Deep posterior compartment
-
-Current 2026 source lists:
-
-1. popliteus;
-2. tibialis posterior;
-3. flexor digitorum longus (FDL);
-4. flexor hallucis longus (FHL).
-
-Popliteus is functionally knee-focused (ANA-09).
-
-The other three pass posterior to medial malleolus toward foot.
+Popliteus is primarily owned by ANA-09.
 
 Innervation:
 - tibial nerve.
 
-## 31. Tibialis posterior
-
-Origin:
-- posterior tibia/fibula + interosseous membrane.
-
-Tendon passes:
-- behind medial malleolus.
-
-Insertions:
-- navicular prominently;
-- multiple midfoot/tarsal/metatarsal expansions.
-
-Functions:
-- inversion;
-- plantarflexion contribution;
-- dynamic support of medial longitudinal arch.
-
-Its broad distal insertion makes “tibialis posterior = inverter only” incomplete.
-
-## 32. Flexor digitorum longus
-
-Origin:
-- posterior tibia.
-
-Tendon passes:
-- medial ankle;
-- sole;
-then divides to digits 2–5.
-
-Insertion:
-- distal phalanges.
-
-Functions:
-- flexes lateral four toes;
-- plantarflexion contribution;
-- supports longitudinal arches.
-
-## 33. Flexor hallucis longus
-
-Origin:
-- posterior fibula/interosseous membrane.
-
-Tendon:
-- behind medial ankle;
-- plantar foot.
-
-Insertion:
-- distal phalanx hallux.
-
-Functions:
-- hallux flexion;
-- plantarflexion contribution;
-- important push-off force path.
-
-## 34. Extrinsic vs intrinsic foot muscles
-
-Current StatPearls describes ~29 muscles associated with foot:
-- about 10 extrinsic originating in leg;
-- 19 intrinsic lying within foot.
-
-Project distinction:
-
-### Extrinsic
-Generate major ankle/toe movements and transmit force through long tendons.
-
-### Intrinsic
-Fine toe control, arch stabilization and local foot mechanics.
-
-## 35. Dorsal intrinsic muscles
-
-Main:
-1. extensor digitorum brevis;
-2. extensor hallucis brevis.
-
-Innervation:
-- deep fibular nerve.
-
-Actions:
-- assist toe extension.
-
-## 36. Plantar intrinsic layer 1
-
-1. abductor hallucis;
-2. flexor digitorum brevis;
-3. abductor digiti minimi.
-
-Roles:
-- toe movement;
-- local longitudinal arch support.
-
-## 37. Plantar intrinsic layer 2
-
-1. quadratus plantae;
-2. lumbricals.
-
-Quadratus plantae modifies/assists pull of FDL.
-
-Lumbricals:
-- MTP flexion;
-- IP extension contributions.
-
-## 38. Plantar intrinsic layer 3
-
-1. flexor hallucis brevis;
-2. adductor hallucis;
-3. flexor digiti minimi brevis.
-
-Hallux muscles are structurally central to medial forefoot function/push-off.
-
-## 39. Plantar intrinsic layer 4
-
-1. plantar interossei;
-2. dorsal interossei.
+## 14. Tibialis posterior
 
 Broad:
-- toe adduction/abduction;
-- MTP flexion;
-- IP extension support.
+- posterior tibia/fibula/IOM origin;
+- tendon behind medial malleolus;
+- prominent navicular plus broad distal expansions;
+- inversion/plantarflexion;
+- dynamic arch support.
 
-Most plantar intrinsic innervation is via medial/lateral plantar branches of tibial nerve.
+Current anatomy shows extensive variation in:
+- branching;
+- insertion distribution;
+- attachment surfaces.
 
-## 40. Hallux and sesamoids
+Project rule:
 
-Under first MTP lie sesamoid bones embedded in flexor hallucis brevis tendon complex.
+**tibialis posterior ≠ navicular-only one-insertion tendon.**
 
-They:
-- modify tendon leverage;
-- bear/distribute forefoot load;
-- interact with first-ray mechanics.
+## 15. FDL / FHL
 
-Detailed mechanics → MEC.
+### FDL
+- flexes digits 2–5;
+- contributes to plantarflexion/arch support.
 
-## 41. Plantar aponeurosis
+### FHL
+- flexes hallux;
+- contributes to plantarflexion and push-off.
 
-Dense longitudinal connective-tissue structure on plantar foot.
+Long toe-flexor systems participate in whole-foot force transfer, not only isolated toe motion.
 
-Major central band:
-- arises near medial calcaneal tubercle;
-- runs distally toward forefoot/toes;
-- divides into digital slips.
+## 16. Retinacula / tarsal-tunnel boundary
 
-Also described with medial/lateral bands.
+Retinacula constrain tendon paths and limit bowstringing.
 
-Functions structurally:
-- ties posterior and anterior foot;
-- contributes to longitudinal arch support;
-- transmits tension during toe dorsiflexion/stance.
+Posteromedial tarsal-tunnel region includes:
+- tibialis posterior tendon;
+- FDL;
+- posterior tibial vessels;
+- tibial nerve;
+- FHL.
 
-## 42. Plantar fascia vs plantar aponeurosis
+Detailed nerve/pathology → ANA-12/MED.
 
-Terms often used interchangeably clinically.
+## 17. Extrinsic vs intrinsic foot muscles
+
+### Extrinsic
+Originate proximally and transmit force through long tendons.
+
+### Intrinsic
+Lie within foot and contribute:
+- toe control;
+- MTP/IP mechanics;
+- arch support/stiffness;
+- local shape control.
+
+Project rule:
+
+**intrinsic foot muscles are distributed across multiple layers; there is no one “short-foot muscle”.**
+
+## 18. Intrinsic layers
+
+### Dorsal
+- extensor digitorum brevis;
+- extensor hallucis brevis.
+
+### Plantar layer 1
+- abductor hallucis;
+- flexor digitorum brevis;
+- abductor digiti minimi.
+
+### Layer 2
+- quadratus plantae;
+- lumbricals.
+
+### Layer 3
+- flexor hallucis brevis;
+- adductor hallucis;
+- flexor digiti minimi brevis.
+
+### Layer 4
+- dorsal interossei;
+- plantar interossei.
+
+## 19. Hallux / sesamoids
+
+Usually two sesamoids lie within the flexor-hallucis-brevis complex beneath first MTP.
+
+They contribute to:
+- tendon leverage;
+- first-ray/forefoot load distribution.
+
+Exact pressure mechanics → MEC.
+
+## 20. Plantar aponeurosis
+
+Dense plantar connective-tissue structure with:
+- central;
+- medial;
+- lateral bands.
+
+Broad roles:
+- links hindfoot and forefoot;
+- supports longitudinal arch;
+- transmits tension under loading/toe dorsiflexion.
 
 Project preference:
-**plantar aponeurosis** for the dense central fibrous structure when precision matters;
-“plantar fascia” allowed as common umbrella term.
+- **plantar aponeurosis** when precision matters;
+- “plantar fascia” allowed as common umbrella term.
 
-Do not infer fasciopathy from tension/load.
+Its origin geometry varies normally between individuals.
 
-## 43. Foot arches
+## 21. Foot arches
 
-Current anatomy recognizes:
+Canonical:
+1. medial longitudinal;
+2. lateral longitudinal;
+3. transverse.
 
-1. medial longitudinal arch;
-2. lateral longitudinal arch;
-3. transverse arch, with forefoot/midfoot components.
+Support integrates:
+- bone;
+- ligaments;
+- plantar aponeurosis;
+- extrinsic muscles;
+- intrinsic muscles.
 
-They function as integrated 3D structure rather than independent rigid beams.
+Project rule:
 
-## 44. Medial longitudinal arch
+**arches are integrated 3D systems, not isolated rigid beams.**
 
-Key bony chain broadly:
+## 22. Medial longitudinal arch
+
+Broad structural chain:
 - calcaneus;
 - talus;
 - navicular;
 - cuneiforms;
-- first three metatarsal region.
+- medial metatarsals.
 
-Important passive supports:
-- plantar calcaneonavicular (“spring”) ligament;
+Important supports:
+- spring-ligament complex;
 - plantar aponeurosis;
-- other plantar ligaments.
-
-Dynamic contributors:
 - tibialis posterior;
 - tibialis anterior;
 - FHL/FDL;
-- intrinsic foot muscles;
+- intrinsic muscles;
 - fibularis longus interaction.
 
-## 45. Lateral longitudinal arch
+No single structure equals “the medial arch”.
 
-Broad chain:
+## 23. Lateral / transverse arches
+
+### Lateral longitudinal
+Broad:
 - calcaneus;
 - cuboid;
 - fourth/fifth metatarsals.
 
-Lower/flatter than medial arch.
-
-Support:
-- long/short plantar ligaments;
-- plantar aponeurosis;
-- fibularis muscles;
-- intrinsic foot muscles.
-
-## 46. Transverse arch
-
-Formed across:
+### Transverse
+Across:
 - cuneiform/cuboid region;
 - metatarsal bases/heads depending level.
 
-Dynamic support includes:
-- fibularis longus;
-- tibialis posterior;
-- adductor hallucis and intrinsic muscles.
+Dynamic contributors include fibularis longus, tibialis posterior and intrinsic muscles.
 
-Exact load distribution → MEC.
+## 24. Windlass
 
-## 47. Spring ligament complex
+Hallux/MTP dorsiflexion tensions plantar aponeurosis around metatarsal-head region and can:
+- shorten/elevate arch;
+- increase foot stiffness.
 
-Plantar calcaneonavicular ligament complex supports:
-- talar head;
-- medial longitudinal arch.
+Direct CT evidence supports the mechanism but also shows interindividual variability.
 
-It works with:
-- tibialis posterior;
-- plantar aponeurosis;
-- bony geometry.
+Project limitation:
 
-Not literally a spring in isolation.
+**the direct imaging study used a simulated windlass posture, not actual gait push-off.**
 
-## 48. Long and short plantar ligaments
+Therefore no rigid identical windlass response is assumed.
 
-Connect calcaneus with cuboid/metatarsal regions.
+## 25. Foot pronation / supination
 
-Contribute to:
-- lateral/longitudinal arch stability;
-- plantar midfoot restraint.
-
-Important passive components alongside plantar aponeurosis.
-
-## 49. Windlass mechanism
-
-When MTP joints, especially hallux, dorsiflex:
-plantar aponeurosis winds around metatarsal heads and becomes tensioned.
-
-This is associated with:
-- elevation/shortening of longitudinal arch;
-- stiffening of foot for push-off.
-
-A 2025 CT study directly visualized plantar-aponeurosis deformation during windlass posture and showed meaningful individual variability.
+Foot pronation/supination are composite 3D motions involving combinations of:
+- eversion/inversion;
+- abduction/adduction;
+- dorsiflexion/plantarflexion.
 
 Project rule:
-**windlass = useful anatomical/mechanical mechanism, not a rigid identical response in every foot.**
 
-## 50. Foot core concept — boundary
+**foot pronation/supination is anatomically distinct from forearm pronation/supination.**
 
-Some literature uses “foot core” for intrinsic muscles + passive/neural subsystems.
+## 26. “Foot core” boundary
 
-Project treatment:
-- useful functional shorthand;
-- not a distinct anatomical organ.
+Foot support integrates:
+- passive bone/ligament/aponeurosis;
+- extrinsic muscles;
+- intrinsic muscles;
+- neural control.
 
-As with trunk “core”, always name actual muscles/ligaments/aponeurosis when making causal claims.
+“Foot core” may be useful shorthand.
 
-## 51. Dorsiflexion vs foot inversion/eversion
+Project rule:
 
-Important project distinction:
+**it is not one anatomical organ or one privileged muscle group.**
 
-### Talocrural
-dominant dorsiflexion/plantarflexion.
+## 27. Single-leg support / balance
 
-### Subtalar/transverse tarsal
-major contributors to inversion/eversion and 3D pronation/supination of foot.
-
-Thus:
-“ankle inversion” is common clinical language but anatomically distributed across multiple joints.
-
-## 52. Foot pronation/supination vs forearm pronation/supination
-
-Same words can refer to different anatomical composites.
-
-Forearm:
-- radius rotates around ulna.
-
-Foot:
-- pronation/supination are composite 3D motions usually involving combinations of:
-  - eversion/inversion;
-  - abduction/adduction;
-  - dorsiflexion/plantarflexion.
-
-Project will explicitly say **foot pronation** vs **forearm pronation**.
-
-## 53. Retinacula around ankle
-
-Anterior/extensor retinacula:
-hold dorsiflexor/extensor tendons close to ankle.
-
-Medial flexor retinaculum:
-forms tarsal tunnel roof region.
-
-Superior/inferior fibular retinacula:
-hold fibularis tendons behind lateral malleolus.
-
-Retinacula prevent bowstringing and redirect tendons.
-
-## 54. Tarsal tunnel preview
-
-Posteromedial ankle tunnel beneath flexor retinaculum.
-
-Contains:
-- tibialis posterior tendon;
-- FDL tendon;
-- posterior tibial neurovascular structures;
-- tibial nerve;
-- FHL tendon.
-
-Detailed nerve/pathology → ANA-12/MED.
-
-## 55. Neural map — minimum preview
-
-### Deep fibular nerve
-Anterior compartment + dorsal intrinsic extensors.
-
-### Superficial fibular nerve
-Lateral compartment.
-
-### Tibial nerve
-Posterior compartments; divides into medial/lateral plantar nerves for plantar foot.
-
-Sensory:
-- sural;
-- saphenous;
-- superficial/deep fibular;
-- plantar branches
-with regional overlap.
-
-Detailed mapping → ANA-12.
-
-## 56. Single-leg stance structural demands
-
-Foot/ankle support uses:
+Structural support includes:
+- ankle/foot joints;
 - bony arches;
 - plantar ligaments/aponeurosis;
+- triceps surae;
+- tibialis/fibularis systems;
 - intrinsic muscles;
-- extrinsic tibialis/fibularis/calf muscles;
-- proximal limb control.
+- proximal hip/knee control.
 
-Therefore “balance comes from ankle muscles” is incomplete.
+Project rule:
 
-## 57. Calf anatomy and knee position
+**balance does not come from ankle muscles alone.**
 
-Gastrocnemius crosses knee + ankle.
-Soleus crosses ankle only.
+## 28. Training-relevant structural consequences
 
-Therefore knee flexion changes gastrocnemius length while soleus remains largely unaffected at proximal joint.
+Anatomy supports later study of:
+1. squat/lunge dorsiflexion;
+2. straight- vs bent-knee calf work;
+3. inversion/eversion;
+4. pronation/supination;
+5. toe/hallux loading;
+6. intrinsic-foot training;
+7. arch mechanics;
+8. balance.
 
-This is anatomical foundation for later comparison:
-- straight-knee calf raise;
-- bent-knee calf raise.
+But ANA-10 does not determine:
+- optimal dorsiflexion;
+- optimal calf exercise;
+- barefoot superiority;
+- orthotic need;
+- arch-correction need.
 
-It does not by itself determine hypertrophy superiority.
+Those require MEC/TEC/TST/MED/IND.
 
-## 58. Foot muscle training boundary
+## 29. Normal variation
 
-Anatomy tells us:
-- toe flexors/extensors;
-- intrinsic arch muscles;
-- invertors/evertors;
-- plantarflexors/dorsiflexors
-are distinct systems.
+Relevant variation includes:
+- mortise/fibular-incisura morphology;
+- fibularis tertius presence;
+- plantaris presence;
+- Achilles internal organization;
+- tibialis-posterior branching/insertion;
+- plantar-aponeurosis origin;
+- intrinsic-foot patterns;
+- arch height/bone geometry.
 
-It does not prove that:
-- barefoot training is universally superior;
-- “short-foot” exercises are mandatory;
-- unstable surfaces strengthen feet optimally.
+Project rule:
 
-Those need intervention evidence.
+**atlas anatomy is modal, not identical in every person.**
 
-## 59. Arch height variation
+Variation alone ≠ pathology.
 
-Normal people differ in:
-- arch height;
-- talar/calcaneal alignment;
-- bone geometry;
-- soft-tissue stiffness;
-- muscle morphology.
-
-Static “flat/high arch” appearance alone does not establish pathology or dictate one training approach.
-
-## 60. Structural adaptation boundary
-
-Bones, tendon, aponeurosis and intrinsic muscles can adapt to loading, but adaptation mechanisms/time course belong to PHY.
-
-ANA only establishes the structures being loaded.
-
-## 61. Project canonical ankle/foot model
-
-1. Tibia/fibula form mortise around talus.
-2. Talocrural joint is primary dorsiflexion/plantarflexion articulation.
-3. Distal tibiofibular syndesmosis preserves mortise stability.
-4. Subtalar + transverse-tarsal complexes carry major inversion/eversion/3D foot motion.
-5. Anterior compartment dorsiflexes; lateral primarily everts; posterior primarily plantarflexes/inverts/flexes toes.
-6. Gastrocnemius is biarticular; soleus monoarticular.
-7. Achilles is structured gastrocnemius/soleus force-transmission complex, not one homogeneous rope.
-8. Foot contains extrinsic and intrinsic muscle systems.
-9. Arches are passive + active integrated structures.
-10. Plantar aponeurosis participates in windlass stiffening with meaningful individual variability.
-11. “Foot core” is shorthand, not separate anatomy.
-12. Anatomy alone does not justify barefoot/unstable-surface/arch-correction prescriptions.
-
-## 62. Confidence
+## 30. Evidence / confidence
 
 ### HIGH
-- ankle mortise, syndesmosis and ligament anatomy;
+- mortise/talocrural/syndesmosis anatomy;
+- multi-joint foot model;
 - four leg compartments;
-- triceps surae/Achilles basic anatomy;
+- gastrocnemius vs soleus distinction;
+- Achilles force transmission and structural heterogeneity;
+- tibialis-posterior broad multi-attachment anatomy;
 - intrinsic/extrinsic foot organization;
-- arch components;
-- subtalar/midtarsal contribution to inversion/eversion.
+- integrated arch anatomy;
+- plantar-aponeurosis/windlass mechanism.
 
-### MODERATE/HIGH
-- windlass mechanism is structurally supported; individual deformation patterns vary.
+### MODERATE / CONTESTED
+- universal discrete Achilles subtendon anatomy;
+- exact functional significance of tibialis-posterior variants;
+- task-specific differences between medial/lateral gastrocnemius;
+- exact subtalar/midtarsal coupling;
+- exact individual windlass deformation.
 
-### MODERATE
-- exact contribution of each muscle/ligament to arch stiffness and specific training tasks requires biomechanics and longitudinal evidence.
+## 31. Sources checked in revalidation
 
-## 63. Sources
-
-1. StatPearls — Anatomy, Bony Pelvis and Lower Limb: Foot and Ankle. Updated May 24, 2026.  
+1. NCBI Bookshelf — Foot and Ankle, updated 2026-05-24.  
    https://www.ncbi.nlm.nih.gov/books/NBK546698/
 
-2. StatPearls — Distal Tibiofibular Joint (Tibiofibular Syndesmosis). Updated May 13, 2026.  
+2. NCBI Bookshelf — Distal Tibiofibular Joint, updated 2026-05-13.  
    https://www.ncbi.nlm.nih.gov/books/NBK547655/
 
-3. StatPearls — Leg Anterior Compartment. Updated Jun 8, 2026.  
+3. NCBI Bookshelf — Leg Anterior Compartment, updated 2026-06-08.  
    https://www.ncbi.nlm.nih.gov/books/NBK539725/
 
-4. StatPearls — Leg Posterior Compartment. Updated May 13, 2026.  
+4. NCBI Bookshelf — Leg Posterior Compartment, updated 2026-05-13.  
    https://www.ncbi.nlm.nih.gov/books/NBK537340/
 
-5. StatPearls — Fibularis/Peroneus Longus. Updated May 13, 2026.  
-   https://www.ncbi.nlm.nih.gov/books/NBK546650/
-
-6. StatPearls — Gastrocnemius Muscle. Updated Apr 11, 2026.  
-   https://www.ncbi.nlm.nih.gov/books/NBK532946/
-
-7. StatPearls — Foot Muscles. Updated Dec 9, 2025; included in StatPearls 2026.  
+5. NCBI Bookshelf — Foot Muscles, updated 2025-12-09.  
    https://www.ncbi.nlm.nih.gov/books/NBK539705/
 
-8. StatPearls — Arches of the Foot. Updated Aug 27, 2025; StatPearls 2026.  
+6. NCBI Bookshelf — Arches of the Foot, updated 2025-08-27.  
    https://www.ncbi.nlm.nih.gov/books/NBK587361/
 
-9. StatPearls — Talus / subtalar anatomy.  
+7. NCBI Bookshelf — Gastrocnemius, updated 2026-04-11.  
+   https://www.ncbi.nlm.nih.gov/books/NBK532946/
+
+8. NCBI Bookshelf — Tibialis Posterior.  
+   https://www.ncbi.nlm.nih.gov/books/NBK539913/
+
+9. NCBI Bookshelf — Talus.  
    https://www.ncbi.nlm.nih.gov/books/NBK541086/
 
-10. Matsumoto Y, Ogihara N. Direct visualization and measurement of the plantar aponeurosis behavior in foot arch deformation via the windlass mechanism. Clin Anat. 2025;38:116–126. PMID 38642017.  
+10. Arakelian A et al. Achilles subtendon histology. 2026. PMID 42744099.  
+    https://pubmed.ncbi.nlm.nih.gov/42744099/
+
+11. Olewnik Ł et al. Tibialis-posterior tendon review. 2026. PMID 42993253.  
+    https://pubmed.ncbi.nlm.nih.gov/42993253/
+
+12. Aeles J, Hug F. Gastrocnemius differentiation review. 2026. PMID 42034034.  
+    https://pubmed.ncbi.nlm.nih.gov/42034034/
+
+13. Matsumoto Y, Ogihara N. Windlass CT study. 2025. PMID 38642017.  
     https://pubmed.ncbi.nlm.nih.gov/38642017/
 
-11. Mizuno D et al. Variation in the origin of the plantar aponeurosis and its relationship to the origin of the abductor hallucis muscle. Clin Anat. 2024. PMID 38581285.  
+14. Mizuno D et al. Plantar-aponeurosis origin variation. 2024. PMID 38581285.  
     https://pubmed.ncbi.nlm.nih.gov/38581285/
 
-## 64. Next dependencies
+15. Le A et al. Extrinsic-muscle / foot-joint kinematics. 2026. PMID 42378736.  
+    https://pubmed.ncbi.nlm.nih.gov/42378736/
 
-- ANA-11 muscle architecture;
-- ANA-12 nerve anatomy;
-- ANA-15 individual anatomy;
-- MEC ankle/foot mechanics;
-- TEC calf/foot exercise selection.
+## 32. Closure
+
+Closure audit:
+`passes/02_anatomy/ANA-10/PASS-02_closure_audit_and_synthesis.md`.
+
+Result:
+**no project-relevant blocker remains.**
+
+ANA-10 = **CLOSED_FOR_PRACTICE v2.0**.
+
+## 33. Next dependency
+
+**ANA-11 — Мышечная организация и архитектура.**
