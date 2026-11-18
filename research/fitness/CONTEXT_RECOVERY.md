@@ -145,7 +145,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-10 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-11 — Muscle damage / DOMS / repeated-bout effect — RESEARCHING**.
+Последняя закрытая тема: **PHY-11 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-12 — Tendon/ligament/connective adaptation**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -195,36 +197,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-11/PASS-01_muscle_damage_doms_rbe_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-11/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-11/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-11 = **CLOSED_FOR_PRACTICE v2.0**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 12 = **10/10 at content level**.
+Canonical finding:
 
-PASS-01 established:
+`research/fitness/findings/03_physiology/PHY-11_muscle_damage_doms_rbe.md`
 
-1. EIMD is heterogeneous tissue/functional perturbation and cannot be quantified by one indirect marker;
-2. DOMS is a delayed perceptual/nociceptive outcome rather than a quantitative damage or hypertrophy measure;
-3. soreness is separated from useful training stimulus and workout quality;
-4. unfamiliar damaging loading can trigger inflammatory/repair responses without making inflammation a hypertrophy surrogate;
-5. edema/swelling is separated from retained hypertrophy and can contaminate early size measurements;
-6. temporary strength loss is retained as an important functional EIMD outcome;
-7. repeated-bout effect is established for smaller subsequent MVC loss, DOMS and CK responses and is outcome/time dependent;
-8. RBE is treated as multi-mechanistic, with peripheral contractile protection more consistently supported than central/neural explanations;
-9. eccentric loading is separated from inevitable damage; novelty/dose/training status matter;
-10. muscle damage and DOMS are explicitly rejected as necessary or validated dose markers of hypertrophy;
-11. excessive damage can reduce subsequent training quality/recovery;
-12. normal DOMS/EIMD is bounded from medical pathology, with severe/atypical presentations routed to MED;
-13. exact Section 12 coverage = 10/10 at content level;
-14. no content-level blocker was found;
-15. canonical PHY-11 finding is deferred until closure audit.
+Closure established:
+
+1. exact `areas/03_physiology.md` Section 12 coverage = **10/10 PASS**;
+2. EIMD is heterogeneous and not reducible to one indirect marker;
+3. DOMS is a perceptual/nociceptive response rather than a quantitative structural-damage measure;
+4. soreness is separated from workout quality and hypertrophy stimulus;
+5. inflammation is retained as repair/remodeling biology without becoming a surrogate;
+6. edema is separated from retained hypertrophy and can contaminate early size measurements;
+7. temporary strength loss is retained as a functionally relevant EIMD outcome;
+8. repeated-bout effect is established for MVC/DOMS/CK and is time/outcome specific;
+9. RBE mechanisms remain multi-factorial, with peripheral contractile protection more consistently supported than central/neural explanations;
+10. eccentric loading is separated from inevitable damage;
+11. damage and DOMS are rejected as necessary or validated hypertrophy dose markers;
+12. excessive damage is recognized as a potential cost to subsequent training quality;
+13. severe/atypical symptoms are routed to MED rather than normalized as ordinary DOMS;
+14. no project-relevant blocker remains;
+15. first canonical PHY-11 finding was created at v2.0.
 
 ### Следующая задача
 
-**PHY-11/PASS-02 — Closure audit and synthesis.**
+**Phase B / PHY-12 — Tendon/ligament/connective adaptation.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-12 автоматически.
+После следующего одного блока сохранить state и STOP. Не открывать PHY-13 автоматически.
 
 ---
 
@@ -240,9 +243,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-11/PASS-01_muscle_damage_doms_rbe_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-11/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-11/PASS-02 closure audit and synthesis** и остановиться перед PHY-12.
+Затем выполнить только записанный выше **PHY-12 — Tendon/ligament/connective adaptation** и остановиться перед следующим topic.
 
 ---
 

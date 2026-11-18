@@ -96,9 +96,11 @@
 - PHY-10/PASS-01 fatigue content revalidation completed 2026-11-18.
 - PHY-10/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 11 coverage = **15/15 PASS** and no project-relevant blocker remains.
 - First canonical PHY-10 finding created as v2.0 because no legacy finding existed in the current branch.
-- **PHY-11 — RESEARCHING.**
-- PHY-11/PASS-01 muscle-damage/DOMS/repeated-bout-effect content revalidation completed 2026-11-18; exact Section 12 coverage = **10/10 at content level**; closure audit/synthesis pending.
-- CURRENT NEXT: **PHY-11/PASS-02 — Closure audit and synthesis.**
+- **PHY-11 — CLOSED_FOR_PRACTICE v2.0.**
+- PHY-11/PASS-01 muscle-damage/DOMS/repeated-bout-effect content revalidation completed 2026-11-18.
+- PHY-11/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 12 coverage = **10/10 PASS** and no project-relevant blocker remains.
+- First canonical PHY-11 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **Phase B / PHY-12 — Tendon/ligament/connective adaptation.**
 
 ## История текущего revalidation cycle
 
