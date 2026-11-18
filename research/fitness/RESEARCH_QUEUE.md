@@ -129,7 +129,10 @@
 - PHY-18/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 20 coverage = **11/11 PASS** and no project-relevant blocker remains.
 - Myonuclear evidence provenance corrected during closure: the 2022 systematic review/meta-analysis is PMID 35961635 / PMCID PMC9530508; human permanence remains context-dependent rather than universal.
 - First canonical PHY-18 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **PHY-19 — Recovery physiology.**
+- **PHY-19 — RESEARCHING.**
+- PHY-19/PASS-01 recovery-physiology content revalidation completed 2026-11-18; exact Section 21 coverage = **10/10 at content level**; closure audit/synthesis pending.
+- Added PHY19-01…PHY19-11 to EVIDENCE_LEDGER.
+- CURRENT NEXT: **PHY-19/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
