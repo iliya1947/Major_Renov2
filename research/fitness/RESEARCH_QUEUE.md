@@ -18,9 +18,10 @@
 - **ANA-04 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-04/PASS-01 structural-functional revalidation completed 2026-11-18.
 - ANA-04/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT: **Phase B / ANA-05 — Arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces.**
+- **ANA-05 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-05/PASS-01 structural-functional revalidation completed 2026-11-18.
-- CURRENT NEXT: **ANA-05 closure audit / synthesis**. Do not start ANA-06 before ANA-05 closure.
+- ANA-05/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
+- CURRENT NEXT: **Phase B / ANA-06 — Forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces.**
 
 ## История текущего revalidation cycle
 
@@ -371,3 +372,9 @@
 282. Current 2026 PRUJ CT study added normal morphology variability; current 2025 bicipital-aponeurosis work reinforces distal biceps tendon+aponeurosis architecture.
 283. 2026 anconeus 3D compartmentalization retained as provisional functional detail, not a training rule.
 284. Следующий один блок: **ANA-05 closure audit / synthesis**.
+
+285. Завершён **ANA-05/PASS-02 — Closure audit and synthesis**.
+286. Все 11 critical outcomes ANA-05 покрыты; DRUJ retained only as the distal partner required for forearm-rotation logic.
+287. ANA-05 = **CLOSED_FOR_PRACTICE v2.0**.
+288. No additional evidence-ledger claim was required beyond ANA05-01…ANA05-05; uncertainty around anconeus compartment function remains explicit.
+289. Следующий один блок: **ANA-06 — Forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces**.
