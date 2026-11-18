@@ -258,11 +258,12 @@ Stage 2 / Phase B продолжается.
 44. PHY-20/PASS-02 closure audit / synthesis завершён; exact Section 23 coverage **8/8 PASS**, no project-relevant blocker remains.
 45. First canonical PHY-20 finding created as v2.0.
 46. PHY-01…PHY-20 = **CLOSED_FOR_PRACTICE v2.0**; Physiology dependency complete for current project purpose.
-47. NEU-01 = **RESEARCHING**.
+47. NEU-01 = **CLOSED_FOR_PRACTICE v2.0**.
 48. NEU-01/PASS-01 nervous-system organization content revalidation завершён; exact Area 04 Section 1 coverage **12/12 at content level**.
-49. NEU-01 closure audit / synthesis ещё не выполнен; canonical finding ещё не создан.
-50. Следующий один блок: **NEU-01/PASS-02 — Closure audit and synthesis**.
-51. NEU-02 автоматически не запускать после PASS-02; сохраняется one block → state update → STOP.
+49. NEU-01/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 1 coverage **12/12 PASS**, no project-relevant blocker remains.
+50. First canonical NEU-01 finding created as v2.0.
+51. Следующий один блок: **NEU-02/PASS-01 — Motor units: recruitment/rate coding content revalidation**.
+52. NEU-03 автоматически не запускать после следующего блока; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -279,7 +280,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **NEU-01/PASS-02 — Closure audit and synthesis**.
+Ближайшая задача: Stage 2 / Phase B — **NEU-02/PASS-01 — Motor units: recruitment/rate coding content revalidation**.
 
 
 ## 10. Stage 0B — результат
