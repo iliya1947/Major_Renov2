@@ -217,11 +217,11 @@ Stage 2 / Phase B продолжается.
 3. ANA-01 = **CLOSED_FOR_PRACTICE v2.0**.
 4. ANA-02 = **CLOSED_FOR_PRACTICE v2.0**.
 5. ANA-03 = **CLOSED_FOR_PRACTICE v2.0**.
-6. ANA-03/PASS-01 content revalidation завершён.
-7. ANA-03/PASS-02 closure audit / synthesis завершён; blockers не найдены.
-8. Canonical ANA-03 finding обновлён до v2.0.
-9. Следующий один блок: **ANA-04 — Shoulder complex**.
-10. ANA-05 автоматически не запускать после ANA-04; сохраняется one block → state update → STOP.
+6. Текущая тема: **ANA-04 — Shoulder complex**.
+7. **ANA-04/PASS-01 — structural-functional revalidation** завершён 2026-11-18.
+8. Current anatomy + 2025 scapular-kinematics synthesis подтверждают distributed shoulder motion and variable scapulohumeral coordination.
+9. Следующий один блок: **ANA-04 closure audit / synthesis**.
+10. ANA-05 автоматически не запускать.
 
 ## 9. Зафиксированный общий план
 
@@ -238,7 +238,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-04 — Shoulder complex**.
+Ближайшая задача: Stage 2 / Phase B — **ANA-04 closure audit / synthesis**; затем STOP.
 
 
 ## 10. Stage 0B — результат
@@ -298,7 +298,7 @@ Stage 1: **COMPLETE v1.0**.
    - `SOURCE_STATUS_LOG.md`.
 4. Исторический статус Area 13: **RESEARCH_COMPLETE + SYNTHESIZED v1.0** — **superseded**. Текущий статус области остаётся `RESEARCHING` до methodology-sufficiency audit и закрытия тех RES gaps, которые реально блокируют оценку fitness evidence. Полная глубокая revalidation всех RES-02…RES-29 не является автоматическим требованием.
 
-Следующее действие по текущему restart: **RES-02**, не ANA.
+Историческая restart-точка начиналась с RES, но текущий authoritative route после Methodology Sufficiency Audit — **Phase B / Anatomy**; next action задаётся разделом 8 и `RESEARCH_QUEUE.md`.
 
 
 ## 13. Размер исследовательского прохода и жёсткий stop-condition
