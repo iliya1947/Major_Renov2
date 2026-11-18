@@ -111,7 +111,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-08 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **ANA-09 — Колено**.
+Текущая тема: **ANA-09 — Колено**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -161,39 +161,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-08/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-09/PASS-01_knee_structural_functional_revalidation.md`
 
-ANA-08 = **CLOSED_FOR_PRACTICE v2.0**.
+Commit PASS-01:
+
+`fbf7e2a2dfecf3699d6f218f652112553c24ac81`
+
+ANA-09/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
 
 ### Следующая задача
 
-**Phase B / ANA-09 — Колено.**
+**ANA-09 closure audit / synthesis.**
 
-Последние завершённые блоки:
+Последний завершённый блок:
 
-1. `research/fitness/passes/02_anatomy/ANA-08/PASS-01_pelvis_hip_structural_functional_revalidation.md`
-2. `research/fitness/passes/02_anatomy/ANA-08/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-09/PASS-01_knee_structural_functional_revalidation.md`
 
-ANA-08 status:
-**CLOSED_FOR_PRACTICE v2.0**.
+PASS-01 установил:
 
-Closure established:
+1. knee = tibiofemoral + patellofemoral compound system; hinge-dominant but not a fixed-axis pure hinge;
+2. menisci are load-sharing/congruence/stability structures whose function depends on root fixation;
+3. asymptomatic meniscal-root anatomy varies, especially posterior lateral roots;
+4. ACL/PCL are intracapsular-extrasynovial, position-dependent stabilizers;
+5. medial knee = sMCL + dMCL + posteromedial structures rather than one MCL strap;
+6. lateral/posterolateral stability = LCL/FCL + popliteus-related + popliteofibular/capsular complex rather than LCL alone;
+7. extensor mechanism = quadriceps + variably layered quadriceps tendon + patella + retinacula + patellar tendon/ligament;
+8. quadriceps = RF + VL + VM + VI; VMO is not assumed independently isolatable;
+9. hamstrings differ in medial/lateral rotational action; gastrocnemius crosses knee + ankle;
+10. popliteus contributes to rotational transition/stability; 2026 data support superficial/deep compartmentalization without exercise-specific inference;
+11. patellofemoral attachment anatomy varies and one radiographic MPFL point is not universal personal anatomy;
+12. no content blocker found, but closure requires a separate audit/synthesis.
 
-1. pelvis = load-transmitting ring between spine/sacrum and femora;
-2. normal SIJ is highly constrained but not fused/motionless;
-3. hip stability integrates bone + labrum + capsule/ligaments + muscle;
-4. zona orbicularis is retained in the capsule model;
-5. femoral/acetabular morphology varies materially and does not define one universal squat stance;
-6. gluteus maximus distal anatomy is kept more nuanced than “most fibers insert into ITB”;
-7. gluteus medius/minimus are regional fan-shaped systems;
-8. iliopsoas, adductors, hamstrings and deep external rotators are mapped at anatomy level;
-9. classic adductor-magnus adductor/hamstring split remains useful while current four-component refinement remains limited;
-10. BF short head does not cross hip;
-11. ITB is connective tissue rather than a contracting muscle;
-12. all 11 legacy critical outcomes passed closure; no project-relevant blocker remains.
-
-Следующий один блок: **ANA-09 — Колено**. После него сохранить state и STOP.
+Следующий блок: **ANA-09 closure audit / synthesis**. Do not start ANA-10 in the same working block.
 
 ---
 
@@ -209,9 +209,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-08/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-09/PASS-01_knee_structural_functional_revalidation.md`
 
-Затем выполнить только записанный выше **ANA-09** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **ANA-09 closure audit / synthesis** и остановиться перед ANA-10.
 
 ---
 
