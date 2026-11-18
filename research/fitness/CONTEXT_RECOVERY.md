@@ -28,7 +28,7 @@ Base branch: `main`
 
 ## 2. Текущий исследовательский режим
 
-Текущий этап: **Stage 2 — системное глубокое исследование после restart**.
+Текущий этап: **Stage 2 — системное глубокое исследование после restart; Phase A methodology sufficient, переход к Phase B**.
 
 Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как завершённые.
 
@@ -147,20 +147,22 @@ PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgem
 
 ### Следующая задача
 
-**Сначала — purpose-alignment / methodology-sufficiency audit. Предметный PASS-06F8 не запускать.**
+**Phase B / ANA-01 — Anatomical terminology / planes / axes / movement terms.**
 
-Цель ближайшего блока:
+Перед стартом:
+1. открыть `AGENT.md`;
+2. сохранить purpose: однозначный язык для дальнейшей анатомии, биомеханики и техники;
+3. не возвращаться в RES без concrete methodology trigger.
 
-1. проверить текущую валидированную методологическую базу против функции Phase A из `RESEARCH_ORDER.md`;
-2. определить, какие оставшиеся RES gaps реально блокируют оценку fitness studies / meta-analyses / guidelines;
-3. всё, что не имеет конкретной downstream-зависимости, перевести в deferred/watchlist;
-4. согласовать `RESEARCH_QUEUE.md`, `WORKFLOW.md` и этот handoff с одним source-of-truth;
-5. только после этого определить следующий research PASS или переход по dependency order.
+Methodology Sufficiency Audit от 2026-11-18 установил:
 
-Ключевой ограничитель Phase A:
+- Phase A = **PHASE_A_SUFFICIENT_TO_PROCEED**;
+- RES-02 current base = **SUFFICIENT_FOR_PHASE_A**;
+- RES-03…RES-29 = operational baseline + trigger-based revalidation;
+- PASS-06F8 deferred;
+- exhaustive methodology taxonomy больше не блокирует substantive research.
 
-**RES существует для оценки и перевода fitness-доказательств в решения; exhaustive methodology taxonomy не является целью проекта.**
-
+После одного завершённого ANA-01 блока — сохранить state и STOP.
 
 ---
 
