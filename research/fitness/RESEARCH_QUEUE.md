@@ -292,7 +292,7 @@
 2. Stage 0B — architecture audit + area 16.
 3. Stage 1 — normalized canonical knowledge tree v1.0.
 
-## Перепроверяется
+## Перепроверяется / триажируется
 
-1. RES-01…RES-29.
-2. Затем ANA-01…ANA-11 и оставшиеся ANA topics.
+1. Remaining RES topics рассматриваются через Phase-A purpose gate: deep revalidation только при конкретной необходимости для оценки fitness evidence.
+2. После methodology-sufficiency audit — переход по dependency order к ANA и далее; substantive topics исследуются глубоко по своим вопросам.
