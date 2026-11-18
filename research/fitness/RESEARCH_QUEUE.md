@@ -47,7 +47,9 @@
 - ANA-13/PASS-01 basic cardio-respiratory anatomy revalidation completed 2026-11-18.
 - ANA-13/PASS-02 closure audit / synthesis completed 2026-11-18; exact area-map coverage 13/13 and no project-relevant blocker remains.
 - First canonical ANA-13 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **Phase B / ANA-14 — Surface anatomy / landmarks.**
+- CURRENT: **Phase B / ANA-14 — Surface anatomy / landmarks.**
+- ANA-14/PASS-01 surface-anatomy/measurement-landmark revalidation completed 2026-11-18; exact area-map coverage 6/6 at content level and no legacy ANA-14 finding exists in current branch.
+- CURRENT NEXT: **ANA-14 closure audit / synthesis**. Do not start ANA-15 before ANA-14 closure.
 
 ## История текущего revalidation cycle
 
@@ -506,3 +508,11 @@
 373. ANA-13 = **CLOSED_FOR_PRACTICE v2.0**; first canonical `ANA-13_cardio_respiratory_anatomy.md` created because current branch had no legacy finding.
 374. Existing ledger ANA13-01…ANA13-06 is sufficient for closure; physiology/pathology remain deferred to PHY/BIO/MEC/MED/TST.
 375. Следующий один блок: **ANA-14 — Surface anatomy / landmarks**.
+
+376. Завершён **ANA-14/PASS-01 — Surface anatomy and measurement-landmark revalidation**.
+377. Exact Section 17 coverage = **6/6 items** at content level.
+378. Palpable bony landmarks, visually identifiable muscle regions, circumference sites, joint-position landmarks, technique-reference landmarks and non-diagnostic boundary revalidated.
+379. Surface landmarks are explicitly treated as measurement/reference proxies; palpation error, marker-placement error and soft-tissue artifact are retained.
+380. Circumference values are protocol-dependent; longitudinal girths require fixed landmark/site/position/tape/respiration rules.
+381. No legacy ANA-14 finding exists in current branch; canonical finding will be created only if closure audit passes.
+382. Следующий один блок: **ANA-14 closure audit / synthesis**.
