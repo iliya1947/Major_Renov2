@@ -24,7 +24,9 @@
 - **ANA-06 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-06/PASS-01 forearm-wrist-hand-grip revalidation completed 2026-11-18.
 - ANA-06/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT NEXT: **Phase B / ANA-07 — Trunk and spine musculature / abdominal wall / erector spinae / multifidus / diaphragm / pelvic-floor structural role.**
+- CURRENT: **Phase B / ANA-07 — Trunk and spine musculature / abdominal wall / erector spinae / multifidus / diaphragm / pelvic-floor structural role.**
+- ANA-07/PASS-01 trunk-spine-musculature revalidation completed 2026-11-18.
+- CURRENT NEXT: **ANA-07 closure audit / synthesis**. Do not start ANA-08 before ANA-07 closure.
 
 ## История текущего revalidation cycle
 
@@ -393,3 +395,9 @@
 297. ANA-06 = **CLOSED_FOR_PRACTICE v2.0**.
 298. Existing ledger ANA06-01…ANA06-05 is sufficient for closure; no extra claim required.
 299. Следующий один блок: **ANA-07 — Trunk and spine musculature / abdominal wall / erector spinae / multifidus / diaphragm / pelvic-floor structural role**.
+
+300. Завершён **ANA-07/PASS-01 — Trunk and spine musculature structural-functional revalidation**.
+301. Erector spinae/transversospinalis, abdominal wall/aponeuroses, QL, TLF, diaphragm, pelvic floor and pressure-boundary structural model revalidated.
+302. 2026 lumbar-multifidus reappraisal added: exact bundle/origin-insertion anatomy is more complex than a rigid “2–4 levels” mnemonic.
+303. 2026 QL 3D anatomy added as multilayer structural heterogeneity without exercise-specific functional overclaim; TLF two-/three-layer model uncertainty retained.
+304. Следующий один блок: **ANA-07 closure audit / synthesis**.
