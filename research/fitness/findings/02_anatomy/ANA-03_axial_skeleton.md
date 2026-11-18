@@ -1,523 +1,477 @@
 # ANA-03 — Осевой скелет: позвоночник, межпозвонковые диски и грудная клетка
 
-Статус: **LEGACY v1.0 — REVALIDATION IN PROGRESS; use current ANA-03 passes/state**  
-Дата: 2026-11-16  
+Статус: **CLOSED_FOR_PRACTICE v2.0 — revalidated 2026-11-18**  
 Область: 02 — Анатомия
 
-## 0. Question Card
+## 0. Decision
 
-### Decision
-Создать структурную карту позвоночного столба и грудной клетки, необходимую для понимания опоры, движения туловища, передачи нагрузки и будущей техники упражнений.
+Создать structural foundation позвоночного столба и грудной клетки, достаточный для дальнейшего анализа плечевого комплекса, туловища, таза, биомеханики и техники без:
+- rigid-spine simplification;
+- disc-only model;
+- one-perfect-posture assumption;
+- подмены нормальной вариабельности патологией.
 
-### Question type
-Foundational anatomy.
+## 1. Project model of the spine
 
-### Critical outcomes
-1. Vertebral column regions.
-2. Typical vertebra.
-3. Intervertebral discs.
-4. Zygapophyseal/facet joints.
-5. Major ligaments.
-6. Spinal curvatures.
-7. Sacrum/coccyx.
-8. Ribs/sternum/costal cartilage.
-9. Thoracic articulations.
-10. Structural relation to pelvis/upper limb.
+Позвоночник = **segmented load-bearing and mobile system**.
 
-### Closure criterion
-Можно объяснить основные несущие и подвижные элементы осевого скелета без подмены anatomy патологией или simplistic “spine = stack of blocks” model.
+Он включает:
+- vertebral bodies;
+- posterior elements;
+- intervertebral discs;
+- zygapophyseal/facet joints;
+- ligaments/capsules;
+- muscular/connective-tissue attachments.
 
----
+Нагрузка и движение распределяются между этими структурами.
 
-## 1. Axial skeleton in project scope
+Project prohibitions:
+1. spine ≠ rigid rod;
+2. spine ≠ independent stack of blocks;
+3. disc ≠ sole load-bearing structure.
 
-Axial skeleton includes:
-- skull;
-- vertebral column;
-- ribs;
-- sternum.
+## 2. Regional organization
 
-For strength/fitness project this topic focuses on:
-1. vertebral column;
-2. sacrum/coccyx;
-3. thoracic cage.
-
-Skull detail is low priority unless later required for cervical anatomy.
-
-## 2. Vertebral column regions
-
-Typical adult vertebral sequence:
+Typical adult reference:
 
 1. 7 cervical vertebrae — C1–C7;
 2. 12 thoracic — T1–T12;
 3. 5 lumbar — L1–L5;
-4. 5 sacral segments, usually fused into sacrum;
-5. usually 4 coccygeal segments, variably fused.
+4. 5 fused sacral segments;
+5. approximately 4 coccygeal segments with variation.
 
-Total commonly described = 33 vertebral segments, with normal anatomical variation. citeturn113273search5turn113273search13
+Standard textbook total:
+**33 vertebral segments**.
 
-## 3. Core functions
+This is a reference pattern, not a guarantee of identical segmentation in every person.
 
-Structurally the vertebral column:
+## 3. Typical vertebra
 
-1. supports head/trunk;
-2. transfers load toward pelvis;
-3. protects spinal cord/roots;
-4. provides attachments for muscles/ligaments;
-5. permits distributed motion across many segments;
-6. anchors thoracic cage.
-
-It is a segmented load-bearing column, not a single rigid lever.
-
-## 4. Typical vertebra
-
-A typical vertebra includes:
+Core parts:
 
 1. vertebral body;
 2. vertebral arch;
 3. pedicles;
 4. laminae;
 5. spinous process;
-6. two transverse processes;
+6. transverse processes;
 7. superior/inferior articular processes;
 8. vertebral foramen.
 
-Stacked vertebral foramina form vertebral canal.
+The stacked vertebral foramina form the vertebral canal.
 
-Adjacent pedicles contribute to intervertebral foramina through which spinal nerves/roots pass.
+Intervertebral foramina form between adjacent vertebrae and provide neural exit pathways.
 
-## 5. Vertebral body
+## 4. Vertebral body / posterior elements
 
-Anterior major load-bearing osseous component.
+### Vertebral body
+Major anterior load-bearing osseous component.
 
-Bodies generally increase in size from cervical toward lumbar regions as axial loading demands increase.
+General regional trend:
+bodies become larger toward the lumbar spine.
 
-Adjacent bodies are connected through:
-- intervertebral disc;
-- longitudinal ligaments.
+### Posterior elements
+Pedicles, laminae and processes:
+- complete the neural arch;
+- provide muscle/ligament attachment;
+- create facet articulations;
+- contribute lever arms for motion.
 
-## 6. Vertebral arch
+## 5. Zygapophyseal / facet joints
 
-Posterior neural arch comprises:
-- pedicles;
-- laminae.
+Paired zygapophyseal joints are synovial articulations between adjacent vertebrae.
 
-Together with body encloses vertebral foramen.
+Roles:
+1. guide segmental movement;
+2. constrain translation/rotation;
+3. share load with discs/bodies;
+4. contribute to region-specific movement tendencies.
 
-Processes provide:
-- muscle/ligament attachment;
-- articular surfaces;
-- lever arms for motion.
+Facet orientation varies by region.
 
-## 7. Articular processes / facet joints
+Project rule:
+**facet geometry influences motion but does not predict one exact personal ROM.**
 
-Superior and inferior articular processes form paired zygapophyseal (facet) joints between adjacent vertebrae.
+## 6. Intervertebral discs
 
-These are synovial joints.
+Adult spine normally contains **23 intervertebral discs**:
 
-Functions:
-1. guide segmental motion;
-2. constrain excessive translation/rotation;
-3. share load with discs/bodies depending posture and region.
-
-Exact facet orientation varies by spinal region and is a major reason cervical/thoracic/lumbar movement differs.
-
-## 8. Intervertebral discs — number and location
-
-Adult spine typically has 23 intervertebral discs:
 - 6 cervical;
 - 12 thoracic;
 - 5 lumbar.
 
 No disc:
-- between skull and C1;
-- between C1 and C2;
+- occiput–C1;
+- C1–C2;
 - within fused sacrum.
 
 Most caudal mobile disc:
-L5–S1. citeturn113273search4
+**L5–S1**.
 
-## 9. Disc components
+## 7. Disc structure
 
-Core structural components:
+Core components:
 
-1. nucleus pulposus;
-2. annulus fibrosus;
-3. cartilaginous endplates.
+1. **nucleus pulposus**;
+2. **annulus fibrosus**;
+3. **cartilaginous endplates**.
 
 ### Nucleus pulposus
 Hydrated proteoglycan-rich central region.
 
 ### Annulus fibrosus
-Concentric fibrocartilaginous/collagenous lamellae around nucleus.
+Concentric collagenous/fibrocartilaginous lamellae with alternating fiber orientation.
 
-### Cartilaginous endplates
-Thin interfaces between disc and vertebral bodies.
+### Endplates
+Cartilaginous interfaces between disc and vertebral bodies.
 
-## 10. Disc function
+Do not equate vertebral endplates with ordinary appendicular articular cartilage.
 
-Intervertebral disc contributes to:
+## 8. Disc role
 
-1. mobility between vertebral bodies;
+Intervertebral discs contribute to:
+
+1. mobility;
 2. axial load distribution;
 3. compression resistance;
-4. maintenance of spacing;
-5. movement while preserving column continuity.
+4. spacing;
+5. continuity of the column during movement.
 
-“Shock absorber” is incomplete; it is a load-bearing deformable joint component.
+“Shock absorber” alone is incomplete.
 
-## 11. Annulus architecture
+## 9. Functional spinal motion segment
 
-Annulus fibrosus collagen lamellae have alternating fiber orientations.
+Useful project structural unit:
 
-Structural consequence:
-- supports multidirectional tension;
-- contains nucleus;
-- accommodates bending/torsion.
+**two adjacent vertebrae + intervertebral disc + bilateral facet joints + associated capsuloligamentous structures.**
 
-Exact mechanics → MEC.
+This unit is the baseline for later spinal biomechanics.
 
-## 12. Nucleus pulposus
+## 10. Major spinal ligaments
 
-Hydrated nucleus redistributes compressive loading.
+### Longitudinal
+- anterior longitudinal ligament;
+- posterior longitudinal ligament.
 
-Its mechanical behavior depends on:
-- water;
-- proteoglycan content;
-- confinement by annulus/endplates.
+### Posterior / segmental
+- ligamenta flava;
+- interspinous;
+- supraspinous;
+- intertransverse;
+- ligamentum nuchae in cervical region.
 
-Age/pathology changes belong to MED/PHY, not anatomical baseline.
+They contribute passive constraint/stability.
 
-## 13. Cartilaginous endplates
+Detailed force/tension mechanics → MEC.
 
-Separate disc from vertebral body marrow/subchondral bone.
+## 11. Normal regional curvatures
 
-Functions:
-- structural interface;
-- contribute to nutrient diffusion;
-- distribute load.
+Normal adult sagittal anatomy includes:
 
-Do not confuse vertebral endplate with ordinary limb-joint articular cartilage.
+- cervical lordotic curvature;
+- thoracic kyphotic curvature;
+- lumbar lordotic curvature;
+- sacral kyphotic curvature.
 
-## 14. Functional spinal motion segment
+Project rules:
 
-Useful structural unit:
-two adjacent vertebrae +:
-- intervertebral disc;
-- bilateral facet joints;
-- associated ligaments/capsules.
+1. **neutral spine is not anatomically straight**;
+2. lordosis/kyphosis are anatomical curvature terms, not diagnoses by themselves.
 
-This unit explains why spinal motion/load sharing cannot be reduced to disc alone.
+## 12. Normal sagittal alignment is variable
 
-## 15. Major longitudinal ligaments
+Current 2025–2026 evidence included in revalidation shows substantial normal variability among asymptomatic adults in:
+- thoracic alignment;
+- lumbar alignment;
+- pelvic parameters;
+- global sagittal balance.
 
-### Anterior longitudinal ligament
-Runs along anterior vertebral bodies/discs.
+Therefore:
 
-### Posterior longitudinal ligament
-Runs along posterior vertebral bodies within vertebral canal.
+**no single universal sagittal angle defines anatomically correct “neutral posture” for every healthy adult.**
 
-Together contribute to passive restraint of vertebral motion.
+This does not mean alignment is irrelevant. It means clinical or exercise thresholds must be question-specific.
 
-Do not reduce their function to one single motion direction only; regional geometry matters.
-
-## 16. Segmental posterior ligaments
-
-Major:
-1. ligamenta flava;
-2. interspinous ligaments;
-3. supraspinous ligament;
-4. intertransverse ligaments;
-5. cervical specialization such as ligamentum nuchae.
-
-These connect posterior elements and contribute to passive stability.
-
-## 17. Spinal curves
-
-Normal adult sagittal curvatures:
-
-### Cervical lordosis
-Anterior convexity.
-
-### Thoracic kyphosis
-Posterior convexity.
-
-### Lumbar lordosis
-Anterior convexity.
-
-### Sacral kyphotic curvature
-Posterior convexity.
-
-These are normal structural curves; words “lordosis/kyphosis” do not by themselves mean pathology.
-
-## 18. Primary vs secondary curves
-
-Developmentally:
-- thoracic/sacral curves are commonly called primary;
-- cervical/lumbar lordoses develop with postnatal head control/standing.
-
-For training, main point:
-neutral spine is not anatomically straight.
-
-## 19. Cervical region
+## 13. Cervical region
 
 7 cervical vertebrae.
 
-Distinctive features include:
-- relatively small bodies;
-- transverse foramina;
-- high mobility.
-
 ### C1 — atlas
-Ring-like; lacks typical vertebral body.
+Ring-like and lacks a typical vertebral body.
 
 ### C2 — axis
-Dens (odontoid process) forms pivot with atlas.
+Contains the dens/odontoid process.
 
-Thus upper cervical rotation architecture differs markedly from typical lower cervical segment.
+Upper cervical architecture therefore differs materially from the typical subaxial vertebral model.
 
-## 20. Thoracic region
+Detailed cervical mechanics are not a current project dependency.
+
+## 14. Thoracic region
 
 12 thoracic vertebrae.
 
 Distinctive:
-- articulate with ribs;
-- longer spinous processes in much of region;
-- facet/costal architecture linked to thoracic cage.
+- rib articulations;
+- thoracic-cage integration;
+- region-specific facet/process morphology.
 
-Thoracic motion is constrained/influenced by:
-- rib cage;
-- facet orientation;
-- discs.
+Thoracic motion is influenced by:
+- discs;
+- facet joints;
+- ribs;
+- costovertebral/costotransverse joints;
+- anterior costal/sternal architecture.
 
-## 21. Lumbar region
+Do not analyze thoracic mobility as if ribs were absent.
 
-5 lumbar vertebrae.
+## 15. Lumbar region
 
-Distinctive:
+Typically 5 lumbar vertebrae.
+
+Features:
 - large bodies;
 - robust posterior elements;
-- adapted for substantial load-bearing.
+- major axial-load role.
 
-Facet orientation generally favors:
-- flexion/extension more than axial rotation compared with thoracic/cervical regions.
+General tendency:
+lumbar spine permits substantial flexion/extension and less axial rotation than cervical/thoracic regions.
 
-Avoid simplistic “lumbar spine cannot rotate”; it does rotate, but relative available rotation is lower.
+Project prohibition:
 
-## 22. Sacrum
+**“lumbar spine cannot rotate” is false.**  
+Relative rotation is lower, not zero.
 
-Sacrum formed from fused sacral segments.
+## 16. Sacrum and coccyx
 
-Functions:
-1. transfers load from spine into pelvic ring;
-2. forms posterior pelvis;
-3. articulates with ilia at sacroiliac joints;
-4. forms lumbosacral junction with L5.
+### Sacrum
+Usually formed by 5 fused segments.
 
-Important bridge between axial and appendicular skeleton.
+Structural roles:
+- posterior pelvic-ring component;
+- bridge between lumbar spine and pelvis;
+- sacroiliac articulation;
+- lumbosacral transition.
 
-## 23. Coccyx
+### Coccyx
+Variable terminal fused/partly fused segments with pelvic-floor/ligament/connective-tissue attachments.
 
-Small terminal fused/partly fused segments.
+## 17. Lumbopelvic boundary
 
-Provides attachments for:
-- pelvic floor;
-- ligaments;
-- gluteal-related connective tissues.
+L5–S1 transitions from mobile lumbar spine to sacrum/pelvis.
 
-Low direct relevance to ordinary strength programming but part of axial anatomy.
+Project rule:
 
-## 24. Lumbosacral junction
+**lumbar position ≠ pelvic position**, although they interact.
 
-L5–S1:
-- transition from mobile lumbar spine to sacrum;
-- substantial load/geometry change.
+Detailed lumbopelvic mechanics → ANA-08/MEC.
 
-Training descriptions like “pelvis position” and “lumbar position” must not be conflated; pelvis can rotate relative to femurs and lumbar spine.
+## 18. Thoracic cage
 
-Detailed lumbopelvic mechanics → MEC/ANA-08.
+Components:
 
-## 25. Thoracic cage
-
-Major components:
-1. 12 thoracic vertebrae;
-2. 12 pairs of ribs;
+1. thoracic vertebrae;
+2. ribs;
 3. costal cartilages;
 4. sternum.
 
-Functions:
-- protect thoracic organs;
-- provide respiratory mechanics;
-- support shoulder-girdle muscle attachments;
-- contribute to trunk stiffness/mobility.
+Roles:
+- organ protection;
+- respiratory framework;
+- trunk/shoulder muscle attachment;
+- 3D surface for scapulothoracic motion;
+- contribution to trunk stiffness/mobility.
 
-## 26. Ribs
+## 19. Ribs
 
-Typical rib includes:
+Typical rib structures include:
 - head;
 - neck;
 - tubercle;
-- shaft/body;
+- body/shaft;
 - angle;
 - costal groove.
 
-Ribs are curved, torsioned bones rather than flat hoops.
+Ribs are curved/torsioned 3D bones, not flat hoops.
 
-## 27. Rib classification
+### Classical classification
 
-Classical:
+- ribs 1–7: true;
+- ribs 8–10: false;
+- ribs 11–12: floating.
 
-### True ribs
-1–7:
-direct costal-cartilage connection to sternum.
+This is the standard reference pattern; rib 10 and other anatomy may vary.
 
-### False ribs
-8–10:
-indirect anterior connection through costal margin classically.
+## 20. Normal thoracic-cage variation
 
-### Floating ribs
-11–12:
-no anterior sternal attachment.
+Current 2026 anatomy data included in PASS-01 show normal variation in:
+- rib number;
+- costal-cartilage attachment;
+- right/left geometry.
 
-Current anatomical source notes rib 10 can variably lack connection and classification can vary anatomically. citeturn113273search1
+Project rule:
 
-## 28. Posterior rib articulations
+**atlas symmetry is a reference model, not a personal requirement.**
 
-Most typical ribs articulate with:
-1. vertebral bodies at costovertebral joints;
-2. transverse process at costotransverse joint.
+Variation alone is not pathology.
 
-Exceptions exist for atypical ribs.
+## 21. Thoracic articulations
 
-These joints permit small coordinated motions important for breathing and thoracic movement.
+Posterior rib articulations include:
+- costovertebral joints;
+- costotransverse joints for typical ribs.
 
-## 29. Costal cartilage
+Anteriorly, costal cartilage participates in sternocostal/costal-margin relationships.
 
-Hyaline cartilage extends anterior ribs.
+These permit coordinated 3D thoracic movement.
 
-Functions:
-- flexible connection;
-- contributes to thoracic compliance;
-- links ribs to sternum/costal margin.
+Detailed respiratory mechanics → PHY/MEC.
 
-## 30. Sternum
+## 22. Sternum
 
-Three main parts:
+Main parts:
 1. manubrium;
 2. body;
-3. xiphoid process. citeturn113273search15
+3. xiphoid process.
 
-Key structural landmarks:
+Important landmarks:
 - jugular notch;
 - clavicular notches;
 - sternal angle;
 - costal notches.
 
-## 31. Sternoclavicular interface
+## 23. Axial–upper-limb structural link
 
-Clavicle links appendicular upper limb to axial skeleton through sternoclavicular joint.
+The clavicle connects the upper limb to the axial skeleton through the **sternoclavicular joint**.
 
-Thus:
-upper-limb force ultimately connects to axial skeleton through:
-- SC joint;
-- muscular/fascial attachments.
+The scapula moves over the thoracic wall through the functional **scapulothoracic articulation**, not a conventional bone-to-bone joint.
 
-Detailed shoulder complex → ANA-04.
+This creates the structural bridge to ANA-04.
 
-## 32. Thoracic cage and shoulder mechanics
+## 24. Thoracic cage and scapular geometry
 
-Scapula rests/moves on posterior-lateral thoracic wall as functional scapulothoracic articulation.
+Scapular motion occurs over the posterolateral thoracic wall.
 
-Therefore thoracic cage shape/posture affects scapular orientation geometrically.
+Therefore thoracic geometry influences the surface/orientation available for scapular motion.
 
-This does **not** mean one “perfect thoracic posture” is required.
+But:
 
-Detailed interaction → ANA-04/MEC.
+**no single “perfect thoracic posture” is inferred from anatomy alone.**
 
-## 33. Thoracic cage and breathing
+Detailed shoulder kinematics → ANA-04/MEC.
 
-Rib movement + sternum + thoracic spine + diaphragm/intercostals alter thoracic volume.
+## 25. Anatomical variation
 
-Structural patterns often described as:
-- pump-handle;
-- bucket-handle
-motions, but actual rib motion is 3D and level-dependent.
-
-Detailed respiratory mechanics → PHY/MEC.
-
-## 34. Vertebral variation
-
-Normal variation exists in:
+Normal variation may include:
 - vertebral morphology;
-- facet angles;
+- transitional vertebrae;
+- facet orientation;
+- sagittal alignment;
 - rib number;
-- sacral/lumbar transitional vertebrae;
-- coccygeal fusion.
+- rib/costal-cartilage attachment;
+- thoracic asymmetry;
+- sacral/coccygeal segmentation.
 
 Project rule:
-do not assume every skeleton matches atlas average exactly.
 
-## 35. Anatomy vs pathology boundary
+**variation ≠ pathology.**
 
-Terms such as:
-- disc bulge;
-- degeneration;
-- scoliosis;
-- spondylolysis
-are clinical/pathological and belong to MED if relevant.
+Do not infer diagnosis from an atlas mismatch or static posture alone.
 
-Normal anatomy does not justify diagnosis from posture/photo.
+## 26. Domain boundaries
 
-## 36. Training implications — structural only
+### Anatomy
+structures, articulations, normal variation.
 
-This anatomy supports later understanding that:
+### Biomechanics
+load sharing, stress/strain, moments, stiffness, segmental motion.
 
-1. spine has many moving segments;
-2. load is shared by bodies/discs/facets/ligaments/muscles;
-3. “neutral” includes normal curves;
-4. thorax and pelvis are linked but distinct structures;
-5. shoulder girdle mechanics depend on thoracic surface geometry;
-6. lumbar vs thoracic/cervical motion capacities differ structurally.
+### Medicine
+degeneration, herniation, scoliosis, spondylolysis, fracture, neurological compromise, pain diagnosis.
 
-No technique prescription is inferred yet.
+### Technique
+exercise-specific trunk/spine strategy.
 
-## 37. Confidence
+ANA-03 does not prescribe an exercise posture.
+
+## 27. Training-relevant structural consequences
+
+Established only at anatomy level:
+
+1. spine has multiple moving segments;
+2. load is shared among bodies/discs/facets/ligaments/muscles;
+3. neutral anatomy includes regional curves;
+4. thorax and pelvis are structurally linked but distinct;
+5. sacrum is the spine–pelvis bridge;
+6. thoracic wall is the support surface for scapular motion;
+7. normal anatomical variation must be considered before assuming dysfunction.
+
+No final technique prescription follows yet.
+
+## 28. Evidence / confidence
 
 ### HIGH
-- regional vertebral counts and typical anatomy;
-- intervertebral disc/facet structure;
-- normal spinal curves;
-- thoracic cage components and rib/sternum anatomy.
 
-### MODERATE
-- exact motion constraints vary individually; generalized facet-orientation rules are structural tendencies, not exact personal ROM predictions.
+- standard regional vertebral organization;
+- typical vertebral structure;
+- 23-disc architecture;
+- disc/facet/motion-segment model;
+- major ligament groups;
+- normal regional sagittal curves;
+- sacrum as axial–pelvic bridge;
+- thoracic cage composition;
+- scapulothoracic structural relationship;
+- existence of meaningful normal sagittal/rib-cage variation.
 
-## 38. Sources
+### MODERATE / application-dependent
 
-1. NCBI Bookshelf — Anatomy, Back, Cervical Vertebrae. Updated Jan 2026.  
+- exact personal ROM from structural anatomy;
+- exact “optimal” alignment for exercise;
+- direct training implications of static posture.
+
+These require MEC/TEC/TST.
+
+## 29. Sources checked in revalidation
+
+1. NCBI Bookshelf — Anatomy, Back, Cervical Vertebrae. Updated 2026-01-31.  
    https://www.ncbi.nlm.nih.gov/books/NBK459200/
 
-2. NCBI Bookshelf — Anatomy, Back, Thoracic Vertebrae. Updated Jan 2026.  
+2. NCBI Bookshelf — Anatomy, Back, Thoracic Vertebrae. Updated 2026-01-31.  
    https://www.ncbi.nlm.nih.gov/books/NBK459153/
 
-3. NCBI Bookshelf — Anatomy, Back, Lumbar Vertebrae. Updated Jan 2026.  
+3. NCBI Bookshelf — Anatomy, Back, Lumbar Vertebrae. Updated 2026-01-31.  
    https://www.ncbi.nlm.nih.gov/books/NBK459278/
 
-4. NCBI Bookshelf — Anatomy, Back, Intervertebral Discs. Updated Jan 2026.  
+4. NCBI Bookshelf — Anatomy, Back, Intervertebral Discs. Updated 2026-01-31.  
    https://www.ncbi.nlm.nih.gov/books/NBK470583/
 
-5. NCBI Bookshelf — Anatomy, Back, Vertebral Column.  
-   https://www.ncbi.nlm.nih.gov/books/NBK525969/
-
-6. NCBI Bookshelf — Anatomy, Thorax, Ribs. Updated Sep 2026.  
+5. NCBI Bookshelf — Anatomy, Thorax, Ribs. Updated 2026-09-14.  
    https://www.ncbi.nlm.nih.gov/books/NBK538328/
 
-7. NCBI Bookshelf — Anatomy, Thorax, Sternum.  
+6. NCBI Bookshelf — Anatomy, Thorax, Sternum.  
    https://www.ncbi.nlm.nih.gov/books/NBK541141/
 
-## 39. Next dependencies
+7. Dionne AC et al. 2025. PMID 40407040.  
+   https://pubmed.ncbi.nlm.nih.gov/40407040/
 
-- ANA-04 shoulder complex;
-- ANA-07 trunk;
-- ANA-08 pelvis/hip;
-- MEC spinal/rib mechanics.
+8. Shavlovskiy Y, Nikolenko V. 2026. PMID 42021459.  
+   https://pubmed.ncbi.nlm.nih.gov/42021459/
+
+9. Hasegawa K et al. 2026. PMID 42424125.  
+   https://pubmed.ncbi.nlm.nih.gov/42424125/
+
+10. Anatomic variability of the ribs and costal cartilage. 2026. PMID 42545742.  
+    https://pubmed.ncbi.nlm.nih.gov/42545742/
+
+## 30. Closure
+
+Closure audit:
+`passes/02_anatomy/ANA-03/PASS-02_closure_audit_and_synthesis.md`.
+
+Result:
+**no project-relevant blocker remains.**
+
+ANA-03 = **CLOSED_FOR_PRACTICE v2.0**.
+
+## 31. Next dependency
+
+**ANA-04 — Shoulder complex.**
