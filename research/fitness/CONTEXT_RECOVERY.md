@@ -159,7 +159,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-17 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **PHY-18 — Detraining / retraining / muscle memory — NOT STARTED**.
+Текущая тема: **PHY-18 — Detraining / retraining / muscle memory — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -209,35 +209,38 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-17/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-18/PASS-01_detraining_retraining_muscle_memory_revalidation.md`
 
-PASS commit: `72f580717616d837da1d467f8562dc165ebbd60c`  
-Canonical finding commit: `9adafb024c496a9b4499d968016ec7cb58bcae7d`
+PASS commit: `89d09bbac5e0a028a5a7c32e1ac8d7de19cdbbdd`  
+Evidence-ledger commit: `456c597009d57a0a468d22299fa5d58b1b7e4596`
 
-PHY-17/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+PHY-18/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Exact content coverage:
+- `areas/03_physiology.md` Section 20 = **11/11 at content level**.
 
-1. exact Section 19 coverage = **8/8 PASS**;
-2. exercise remains a coupled neural-muscular-cardiorespiratory-metabolic system;
-3. one set remains a non-steady-state whole-system perturbation;
-4. session physiology remains history dependent;
-5. acute signaling remains distinct from chronic adaptation;
-6. resistance/endurance specificity remains different weighting of shared systems;
-7. sleep, nutrition, energy availability and non-training stress remain adaptation modifiers;
-8. AMPK-vs-mTOR remains an insufficient binary concurrent-training rule;
-9. concurrent interference remains outcome-/protocol-/population-/recovery-dependent;
-10. inter-organ/exerkine communication is retained with evidence-specific causal limits;
-11. network physiology remains an organizing framework rather than permission for speculative causality;
-12. current MoTrPAC human multi-omic evidence used here is explicitly retained as preprint/emerging evidence rather than sole closure support;
-13. no project-relevant blocker remains;
-14. first canonical `PHY-17_integrated_physiology.md` created.
+PASS-01 established:
+
+1. detraining is outcome- and time-dependent rather than synchronized total reversal;
+2. strength loss is separated from muscle-size loss;
+3. neural/skill detraining can contribute to early performance loss without large measurable atrophy;
+4. fascicle length, pennation, serial sarcomere and CSA changes can have separate detraining clocks;
+5. VO2max/cardiorespiratory adaptations can regress relatively quickly while residual adaptation remains;
+6. residual adaptations are graded and outcome-specific;
+7. retraining often rapidly restores recently lost strength/size, but no fixed retraining multiplier is justified;
+8. muscle memory is separated into functional, neural, myonuclear, epigenetic/transcriptional and proteomic constructs;
+9. human myonuclear retention is supported over observed periods, but indefinite permanence and causal faster-hypertrophy benefit remain unproven;
+10. epigenetic/proteomic memory is biologically supported, but practical performance benefit remains uncertain;
+11. a returning trainee is biologically distinct from an absolute novice, while progressive re-exposure still depends on current capacity and break context;
+12. exact Section 20 coverage = **11/11 at content level**;
+13. no content-level blocker was found;
+14. canonical PHY-18 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**PHY-18/PASS-01 — Detraining / retraining / muscle memory content revalidation.**
+**PHY-18/PASS-02 — Closure audit and synthesis.**
 
-PHY-18 has not been started. After the next one block, save state and STOP.
+After PASS-02 save state and STOP. Do not start PHY-19 automatically.
 
 ---
 
@@ -253,9 +256,9 @@ PHY-18 has not been started. After the next one block, save state and STOP.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-17/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-18/PASS-01_detraining_retraining_muscle_memory_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-18/PASS-01 detraining / retraining / muscle memory content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **PHY-18/PASS-02 closure audit and synthesis** и остановиться перед PHY-19.
 
 ---
 
