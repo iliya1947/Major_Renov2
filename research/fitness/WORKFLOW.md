@@ -210,16 +210,16 @@
 
 ## 8. Текущее следующее действие
 
-Stage 2 продолжается.
+Stage 2 / Phase B продолжается.
 
-1. **Phase A — Methodology признана SUFFICIENT_FOR_NEXT_PHASE** по отдельному Methodology Sufficiency Audit от 2026-11-18.
-2. RES-01 = `CLOSED_FOR_PRACTICE`.
-3. RES-02 granular base до PASS-06F7 = `SUFFICIENT_FOR_PHASE_A`; PASS-06F8 и дальнейшая F-taxonomy deferred до конкретной fitness-evidence необходимости.
-4. RES-03…RES-29 legacy findings не считаются full revalidated, но используются как operational baseline с trigger-based revalidation.
-5. Полная methodology revalidation больше не блокирует downstream research.
-6. Текущая область переходит в **Phase B — ANA / Anatomy**.
-7. Следующий один блок: **ANA-01 — Anatomical terminology / planes / axes / movement terms**.
-8. После ANA-01 — сохранить state и STOP; следующий topic автоматически не запускать.
+1. Phase A methodology = **SUFFICIENT_FOR_NEXT_PHASE**.
+2. Текущая область: **02 — Anatomy**.
+3. Текущая тема: **ANA-01 — anatomical terminology / planes / axes / movement terms**.
+4. **ANA-01/PASS-01 — Core anatomical terminology revalidation** завершён 2026-11-18.
+5. TA2 остаётся current published IFAA/FIPAT terminology framework на проверенных официальных страницах; TA2.5 пока только planned update.
+6. Существенных content blockers в ANA-01 не найдено.
+7. Следующий один блок: **ANA-01 closure audit / synthesis**.
+8. ANA-02 автоматически не запускать.
 
 ## 9. Зафиксированный общий план
 
@@ -236,7 +236,7 @@ Stage 2 продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-01** с опорой на `RESEARCH_ORDER.md` и purpose gate из `AGENT.md`.
+Ближайшая задача: Stage 2 / Phase B — **ANA-01 closure audit / synthesis**; затем STOP.
 
 
 ## 10. Stage 0B — результат
