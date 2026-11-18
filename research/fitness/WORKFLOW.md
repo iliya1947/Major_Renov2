@@ -223,11 +223,12 @@ Stage 2 / Phase B продолжается.
 9. ANA-07 = **CLOSED_FOR_PRACTICE v2.0**.
 10. ANA-08 = **CLOSED_FOR_PRACTICE v2.0**.
 11. ANA-09 = **CLOSED_FOR_PRACTICE v2.0**.
-12. Текущая тема: **ANA-10 — Голеностоп и стопа**.
-13. **ANA-10/PASS-01 — ankle-foot-calf-arch structural-functional revalidation** завершён 2026-11-18.
-14. Current updates: Achilles discrete-subtendon model marked contested; tibialis-posterior attachment variability strengthened; medial/lateral gastrocnemius non-identity retained; windlass variability/limitations clarified.
-15. Следующий один блок: **ANA-10 closure audit / synthesis**.
-16. ANA-11 автоматически не запускать.
+12. ANA-10 = **CLOSED_FOR_PRACTICE v2.0**.
+13. ANA-10/PASS-01 content revalidation завершён.
+14. ANA-10/PASS-02 closure audit / synthesis завершён; blockers не найдены.
+15. Canonical ANA-10 finding обновлён до v2.0.
+16. Следующий один блок: **ANA-11 — Мышечная организация и архитектура**.
+17. ANA-12 автоматически не запускать после ANA-11; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -244,7 +245,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-10 closure audit / synthesis**; затем STOP.
+Ближайшая задача: Stage 2 / Phase B — **ANA-11 — Мышечная организация и архитектура**.
 
 
 ## 10. Stage 0B — результат
