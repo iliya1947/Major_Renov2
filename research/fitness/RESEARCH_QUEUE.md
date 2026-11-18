@@ -139,7 +139,10 @@
 - WMS 2024 heat-illness guideline provenance strengthened in EVIDENCE_LEDGER with PMID 38425235.
 - First canonical PHY-20 finding created as v2.0 because no legacy finding existed in the current branch.
 - **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0; Physiology dependency complete for current project purpose.**
-- CURRENT NEXT: **NEU-01 — Nervous-system organization.**
+- **NEU-01 — RESEARCHING.**
+- NEU-01/PASS-01 nervous-system-organization content revalidation completed 2026-11-18; exact Area 04 Section 1 coverage = **12/12 at content level**; closure audit/synthesis pending.
+- Added NEU01-01…NEU01-11 to EVIDENCE_LEDGER.
+- CURRENT NEXT: **NEU-01/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
