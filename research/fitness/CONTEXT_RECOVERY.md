@@ -151,7 +151,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-13 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-14 — Cardiovascular exercise physiology — RESEARCHING**.
+Последняя закрытая тема: **PHY-14 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **PHY-15 — Respiratory exercise physiology — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -201,37 +203,36 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-14/PASS-01_cardiovascular_exercise_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-14/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-14/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PASS commit: `2571477c6a0ad9c7157bb02f7a82261416395ba5`  
+Canonical finding commit: `745b4fbbb0102a0fbf86b8167dfdc0baf2ace260`
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 15 = **13/13 at content level**.
+PHY-14/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-PASS-01 established:
+Closure result:
 
-1. HR, stroke volume and cardiac output are separate constructs and Q = HR × SV;
-2. stroke-volume response to exercise is context dependent and a universal mid-intensity plateau is rejected;
-3. acute resistance exercise can substantially increase HR/Q/BP, with set duration, fatigue, active muscle mass and breathing/Valsalva materially influencing response;
-4. blood pressure and total peripheral resistance are retained as integrated systemic outcomes rather than local-vessel metrics;
-5. dynamic aerobic exercise increases cardiac output while active-muscle vasodilation generally lowers systemic vascular resistance;
-6. exercise blood-flow redistribution is graded and context dependent;
-7. venous return is multi-mechanistic: muscle/respiratory pumps, venous tone/valves, pressure gradients and blood volume interact;
-8. acute postexercise hypotension is separated from chronic BP adaptation;
-9. chronic RT can improve BP/selected vascular-hemodynamic outcomes without being equated to the endurance-training phenotype;
-10. chronic aerobic adaptation integrates blood/plasma-volume, SV/Qmax, vascular, capillary and oxidative changes;
-11. capillary density is separated from capillary-to-fiber ratio because fiber CSA changes affect density;
-12. RT-related capillarization is treated as less uniform than endurance capillarization and density-only inference is rejected;
-13. normal physiology is bounded from cardiovascular diagnosis/risk assessment in MED;
-14. exact Section 15 coverage = 13/13 at content level;
-15. no content-level blocker was found;
-16. canonical PHY-14 finding is deferred until closure audit.
+1. exact Section 15 coverage = **13/13 PASS**;
+2. HR, stroke volume and cardiac output remain distinct; `Q = HR × SV`;
+3. universal SV plateau is rejected;
+4. BP interpretation remains protocol-/breathing-dependent;
+5. systemic TPR remains distinct from local exercising-muscle vascular resistance;
+6. blood-flow redistribution is graded/regional rather than on/off;
+7. venous return remains multi-mechanistic;
+8. acute RT cardiovascular load is not reducible to %1RM;
+9. chronic RT adaptation is retained without endurance-equivalence overclaim;
+10. chronic aerobic adaptation remains central + peripheral;
+11. acute PEH is not a chronic BP surrogate;
+12. capillary density remains distinct from capillary-to-fiber ratio;
+13. normal physiology remains bounded from clinical interpretation in MED;
+14. no project-relevant blocker remains;
+15. first canonical `PHY-14_cardiovascular_exercise_physiology.md` created.
 
 ### Следующая задача
 
-**PHY-14/PASS-02 — Closure audit and synthesis.**
+**PHY-15/PASS-01 — Respiratory exercise physiology content revalidation.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-15 автоматически.
+PHY-15 has not been started. After the next one block, save state and STOP.
 
 ---
 
@@ -247,9 +248,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-14/PASS-01_cardiovascular_exercise_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-14/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-14/PASS-02 closure audit and synthesis** и остановиться перед PHY-15.
+Затем выполнить только записанный выше **PHY-15/PASS-01 respiratory exercise physiology content revalidation** и остановиться перед следующим блоком.
 
 ---
 
