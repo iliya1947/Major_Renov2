@@ -265,7 +265,11 @@
 230. Participatory-design governance blocker closed. Project now distinguishes research participation, consultation, PPI/involvement, co-design and co-production/shared governance by **enacted stages + decision rights + power + final authority**, not author label alone. Participatory Design = participatory design process/governance framework; co-design = collaborative design with material stakeholder influence; co-production = broader shared-power/shared-responsibility lifecycle mode.
 231. EBCD / accelerated EBCD / E2CD retained as specific health-service co-design lineages. PAR and CBPR remain broader parent participatory research/action architectures. Current quality/process layers added: 2026 co-design minimum standards, PROSECO process-evaluation framework, PRODUCES+ planning guidance; GRIPP2 remains PPI reporting. Deliberative Dialogue routed as a later consensus/KT method handoff, not a new participatory-design blocker.
 232. Participatory-design / co-design / co-production / EBCD = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
-233. Следующий микро-проход: **RES-02/PASS-06F7 — Delphi study structures**.
+233. Завершён **PASS-06F7 — Delphi study structures**.
+234. Delphi routed as a structured iterative expert/stakeholder judgement family. Core project architecture = anonymity appropriate to variant + iteration + controlled feedback + statistical summary + opportunity to reconsider/re-rate. Classical, modified, e-/real-time and policy/dissensus variants retained; “modified Delphi” is not treated as one standardized design.
+235. Panel composition, anonymity level, item provenance, round structure, feedback, consensus/stability, attrition, stopping rules and dissensus are explicit extraction layers. No universal panel size, consensus threshold, stability metric or mandatory round count is encoded as a hard standard. CREDES = conduct/reporting guidance; ACCORD = broad consensus reporting; DELPHISTAR = Delphi-specific reporting; DCAT 2025 = provisional appraisal layer; 2026 cognitive-bias framework added as a bias-audit layer.
+236. Delphi = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
+237. Следующий микро-проход: **RES-02/PASS-06F8 — Nominal Group Technique + structured consensus / RAND-UCLA crosswalk**.
 
 ## Правила Stage 2 после restart
 
