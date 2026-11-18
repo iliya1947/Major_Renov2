@@ -36,9 +36,10 @@
 - **ANA-10 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-10/PASS-01 ankle-foot-calf-arch structural-functional revalidation completed 2026-11-18.
 - ANA-10/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT: **Phase B / ANA-11 — Мышечная организация и архитектура.**
+- **ANA-11 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-11/PASS-01 muscle-organization/architecture revalidation completed 2026-11-18.
-- CURRENT NEXT: **ANA-11 closure audit / synthesis**. Do not start ANA-12 before ANA-11 closure.
+- ANA-11/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
+- CURRENT NEXT: **Phase B / ANA-12 — Нервная анатомия движения.**
 
 ## История текущего revalidation cycle
 
@@ -463,3 +464,10 @@
 344. Legacy “no human serial-sarcomere intervention evidence” wording superseded: Andrews et al. directly measured sarcomere length and calculated serial sarcomere number from fascicle length/sarcomere length in BFlh after NHE.
 345. 2026 PCSS is explicitly marked bioRxiv preprint/emerging rather than replacement standard; 2025–2026 regional/3D/reproducibility evidence added.
 346. Следующий один блок: **ANA-11 closure audit / synthesis**.
+
+347. Завершён **ANA-11/PASS-02 — Closure audit and synthesis**.
+348. Все 11 legacy critical outcomes и все 12 area-map items ANA-11 покрыты; no project-relevant blocker remains.
+349. ANA-11 = **CLOSED_FOR_PRACTICE v2.0**.
+350. Human serial-sarcomere intervention evidence retained with direct-sarcomere-length vs calculated-serial-number distinction; PCSS remains bioRxiv preprint/emerging.
+351. Existing ledger ANA11-01…ANA11-06 is sufficient for closure; no extra claim required.
+352. Следующий один блок: **ANA-12 — Нервная анатомия движения**.
