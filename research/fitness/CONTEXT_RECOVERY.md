@@ -167,7 +167,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current project purpose**.
 
-Следующая тема: **NEU-01 — Nervous-system organization — NOT STARTED**.
+Текущая тема: **NEU-01 — Nervous-system organization — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -217,36 +217,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-20/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-01/PASS-01_nervous_system_organization_revalidation.md`
 
-PASS commit: `e393b05486342f5c91a95c5238377cb032d99256`  
-Canonical finding commit: `5d0f13ac58d2f4dbcbf241f1309edb89e076396b`  
-Evidence-ledger provenance commit: `d07d2fa80479fee9dac904c7324a8c3837ce1171`
+PASS commit: `136940c03bcd74fd251a79d8ee8f8f68046399b6`  
+Evidence-ledger commit: `d0e1f7fcd506211f7056d934d777c74af7445be3`
 
-PHY-20/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-01/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Exact content coverage:
+- `areas/04_neurophysiology_motor_learning.md` Section 1 = **12/12 at content level**.
 
-1. exact Section 23 coverage = **8/8 PASS**;
-2. thermal stress remains a full heat-balance problem rather than air temperature alone;
-3. sweat production remains distinct from effective evaporation;
-4. humidity remains an evaporative-capacity/performance variable;
-5. heat acclimation remains dose/protocol/person dependent;
-6. cold remains a core-protection/peripheral-performance tradeoff;
-7. hydration modifies thermophysiological strain without guaranteeing performance or thermal safety;
-8. current randomized hydration evidence remains very-low-certainty for critical performance/dosing conclusions;
-9. no universal dehydration-performance threshold or universally superior drinking strategy is retained;
-10. cardiovascular drift remains an integrated prolonged-exercise response rather than a direct dehydration meter;
-11. exertional heat illness remains MED/emergency territory;
-12. no project-relevant blocker remains;
-13. first canonical `PHY-20_environmental_physiology.md` created;
-14. normalized Physiology sequence **PHY-01…PHY-20 is complete for current project purpose**.
+PASS-01 established:
+
+1. movement is a distributed closed-loop process across cortex, basal ganglia, cerebellum, brainstem, spinal circuits, sensory feedback and peripheral output;
+2. CNS/PNS roles are separated without treating PNS/spinal cord as passive wiring;
+3. somatic nervous system is not reduced to consciously voluntary control;
+4. sympathetic/parasympathetic divisions remain useful coarse autonomic categories but not globally opposed master switches;
+5. afferent feedback continuously modifies efferent motor output and mixed peripheral nerves can carry both sensory and motor fibers;
+6. M1 is a major but non-exclusive motor hub;
+7. cerebellum supports predictive control, coordination and error-based adaptation rather than functioning as a simple “balance center”;
+8. basal ganglia support reinforcement, learned action policies, vigor/habit and action-selection-related functions without a single settled gating model;
+9. corticospinal tract is major but not the only descending motor pathway;
+10. alpha motor neurons are final common somatic outputs with active integrative/intrinsic properties;
+11. spinal interneurons are active integrative circuit elements rather than passive relays;
+12. NMJ is the neural-muscle interface; detailed transmission remains PHY-02-owned;
+13. exact Section 1 coverage = **12/12 at content level**;
+14. no content-level blocker was found;
+15. canonical NEU-01 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**NEU-01/PASS-01 — Nervous-system organization content revalidation.**
+**NEU-01/PASS-02 — Closure audit and synthesis.**
 
-NEU-01 maps to Area 04 Section 1. NEU-01 has not been started. After the next one block, save state and STOP.
+After PASS-02 save state and STOP. Do not start NEU-02 automatically.
 
 ---
 
@@ -262,9 +265,9 @@ NEU-01 maps to Area 04 Section 1. NEU-01 has not been started. After the next on
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-20/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-01/PASS-01_nervous_system_organization_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-01/PASS-01 nervous-system organization content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-01/PASS-02 closure audit and synthesis** и остановиться перед NEU-02.
 
 ---
 
