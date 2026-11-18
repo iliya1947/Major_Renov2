@@ -129,7 +129,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-02 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-03 — Fiber types / phenotype**.
+Текущая тема: **PHY-03 — Fiber types / phenotype — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -179,36 +179,36 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-02/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-03/PASS-01_fiber_types_and_phenotype_revalidation.md`
 
-PHY-02 = **CLOSED_FOR_PRACTICE v2.0**.
+PHY-03/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Canonical finding:
+Exact content coverage:
+- `areas/03_physiology.md` Section 5 = **11/11 at content level**.
 
-`research/fitness/findings/03_physiology/PHY-02_muscle_cell_and_contraction.md`
+PASS-01 established:
 
-Closure established:
-
-1. exact `areas/03_physiology.md` Sections 2–3 coverage = **28/28 PASS**;
-2. muscle/fiber/myofibril/sarcomere/filament levels are separated;
-3. normal skeletal ECC is modeled as T-tubular voltage sensing + triadic CaV1.1–RyR1 coupling;
-4. cardiac-style trigger-Ca²⁺/CICR is not imported into normal skeletal muscle;
-5. Ca²⁺ activates thin filaments through cooperative troponin/tropomyosin regulation;
-6. ATP-dependent actomyosin cycling is the core active-force motor;
-7. exact microscopic force-generating substeps remain bounded uncertainty rather than false precision;
-8. SERCA-mediated Ca²⁺ reuptake makes relaxation an active ATP-dependent process;
-9. twitch, temporal summation and tetanus are separated;
-10. force–length/force–velocity are foundation-covered and detailed ownership remains PHY-04;
-11. titin active mechanics remain a non-blocking uncertainty;
-12. myonuclei, satellite cells, mitochondria, ECM and capillaries are correctly separated from the immediate contractile motor;
-13. no project-relevant blocker remains;
-14. the first canonical PHY-02 finding was created at v2.0.
+1. adult human primary MyHC classes are I / IIA / IIX, with MYH7 / MYH2 / MYH1 mapping;
+2. true rodent-like IIb is not used as a normal adult human limb-fiber class;
+3. phenotype is a continuum that includes hybrid I/IIA and IIA/IIX fibers;
+4. MyHC identity is a major contractile classifier but not a complete metabolic/proteomic phenotype;
+5. type I → IIA → IIX maps broadly from slower/more oxidative/more fatigue-resistant toward faster/more glycolytic/more fatigable phenotypes;
+6. observed fatigability remains task/state dependent;
+7. recruitment details remain owned by NEU;
+8. training can remodel MyHC, hybrid state, metabolism, size and fiber-specific proteome without all features moving together;
+9. IIx → IIA is a common exercise-associated transition; broad I ↔ II conversion is more context-dependent;
+10. athlete/training-status differences are not interpreted as pure causal training effects;
+11. aging particularly affects fast-fiber size/MyHC expression, but simple universal II→I conversion is rejected;
+12. sex differences are retained as group-average modifiers, not individual labels;
+13. current evidence does not justify load prescription solely from presumed fiber type;
+14. no content-level blocker was found;
+15. canonical PHY-03 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**Phase B / PHY-03 — Fiber types / phenotype.**
+**PHY-03/PASS-02 — Closure audit and synthesis.**
 
-После следующего одного блока сохранить state и STOP. Не открывать PHY-04 автоматически.
+После PASS-02 сохранить state и STOP. Не начинать PHY-04 автоматически.
 
 ---
 
@@ -224,9 +224,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-02/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-03/PASS-01_fiber_types_and_phenotype_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-03 — Fiber types / phenotype** и остановиться перед следующим topic.
+Затем выполнить только записанный выше **PHY-03/PASS-02 closure audit and synthesis** и остановиться перед PHY-04.
 
 ---
 
