@@ -147,7 +147,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-11 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-12 — Tendon/ligament/connective adaptation — RESEARCHING**.
+Последняя закрытая тема: **PHY-12 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-13 — Bone physiology**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -197,37 +199,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-12/PASS-01_tendon_ligament_connective_adaptation_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-12/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-12/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-12 = **CLOSED_FOR_PRACTICE v2.0**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 13 = **12/12 at content level**.
+Canonical finding:
 
-PASS-01 established:
+`research/fitness/findings/03_physiology/PHY-12_tendon_ligament_connective_adaptation.md`
 
-1. tendon stiffness, Young's modulus and CSA are separate mechanical/material/morphological outcomes;
-2. human chronic-loading evidence strongly supports tendon stiffness/modulus adaptation and smaller/more variable CSA adaptation;
-3. tendon mechanics and morphology can change asynchronously;
-4. collagen synthesis/remodeling is retained without using acute synthesis as a chronic structural surrogate;
-5. viscoelastic behavior is real, but generic chronic RT direction is less certain than stiffness/modulus adaptation;
-6. tendon adaptation follows multiple outcome-specific clocks and no universal time course is established;
-7. load tolerance is treated as a longitudinal/task-specific operational construct rather than one tissue metric;
-8. human RT evidence supports tendon adaptation, with local strain/loading magnitude important;
-9. external %1RM is not equated to local tendon strain;
-10. ligament adaptation is retained with limited direct adult-human longitudinal training evidence;
-11. fascia anatomy/mechanobiology is retained while broad special “fascia training” claims are rejected without direct evidence;
-12. enthesis mechanobiology is retained with limited direct adult-human chronic RT evidence;
-13. muscle and tendon can adapt asynchronously, but “tendon always adapts slower than muscle” is rejected as a universal rule;
-14. exact Section 13 coverage = 12/12 at content level;
-15. no content-level blocker was found;
-16. canonical PHY-12 finding is deferred until closure audit.
+Closure established:
+
+1. exact `areas/03_physiology.md` Section 13 coverage = **12/12 PASS**;
+2. tendon stiffness, Young's modulus and CSA are separate outcomes;
+3. mechanics/material properties and morphology can adapt asynchronously;
+4. acute/short-term collagen/protein synthesis is not treated as a chronic tendon-adaptation surrogate;
+5. tendon ECM remodeling is broader than collagen quantity alone;
+6. viscoelasticity is retained with lower generic chronic-training confidence than stiffness/modulus;
+7. tendon adaptation follows multiple outcome-specific clocks and no universal time course is imposed;
+8. load tolerance is a task-specific longitudinal construct rather than one stiffness number;
+9. human tendon RT adaptation is well supported;
+10. local tendon strain/loading magnitude is separated from external %1RM;
+11. ligament adaptation is bounded by limited direct adult-human longitudinal training evidence;
+12. fascia anatomy/mechanobiology is retained while special chronic “fascia training” claims are rejected without direct evidence;
+13. enthesis mechanobiology is retained with limited direct adult-human chronic-training evidence;
+14. muscle–tendon mismatch is retained without a universal “tendon always slower” law;
+15. performance improvement is not treated as universal connective-tissue readiness;
+16. no project-relevant blocker remains;
+17. first canonical PHY-12 finding was created at v2.0.
 
 ### Следующая задача
 
-**PHY-12/PASS-02 — Closure audit and synthesis.**
+**Phase B / PHY-13 — Bone physiology.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-13 автоматически.
+После следующего одного блока сохранить state и STOP. Не открывать PHY-14 автоматически.
 
 ---
 
@@ -243,9 +247,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-12/PASS-01_tendon_ligament_connective_adaptation_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-12/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-12/PASS-02 closure audit and synthesis** и остановиться перед PHY-13.
+Затем выполнить только записанный выше **PHY-13 — Bone physiology** и остановиться перед следующим topic.
 
 ---
 
