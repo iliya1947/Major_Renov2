@@ -1,538 +1,363 @@
 # ANA-02 — Ткани опорно-двигательной системы
 
-Статус: **LEGACY v1.0 — REVALIDATION IN PROGRESS; use current ANA-02 passes/state**  
-Дата: 2026-11-16  
+Статус: **CLOSED_FOR_PRACTICE v2.0 — revalidated 2026-11-18**  
 Область: 02 — Анатомия
 
-## 0. Question Card
+## 0. Decision
 
-### Decision
-Создать структурную карту тканей, через которые мышечная сила передаётся, суставы направляют движение, а нагрузка распределяется между мягкими и твёрдыми структурами.
+Создать структурную карту тканей, через которые мышечная сила передаётся к скелету, суставы направляют движение, а нагрузка распределяется между мягкими, фиброхрящевыми и минерализованными структурами.
 
-### Question type
-Foundational structural anatomy.
+## 1. Structural model
 
-### Critical outcomes
-1. Bone.
-2. Cartilage.
-3. Joint capsule/synovium.
-4. Ligament.
-5. Tendon.
-6. Enthesis.
-7. Fascia/aponeurosis.
-8. Bursa.
-9. Meniscus/articular disc.
-10. Structural distinctions relevant to training.
+Упрощённая навигационная цепь:
 
-### Closure criterion
-Каждая структура имеет однозначное определение, место в load-transfer chain и границу с физиологией/патологией.
+`contractile muscle → intramuscular connective tissue → aponeurosis/tendon → MTJ/enthesis interfaces → bone → joint tissues → adjacent skeletal segment`
 
----
+Это **не** одна линейная верёвка. Force transmission распределяется через 3D connective-tissue and skeletal network.
 
-## 1. Общая structural chain
+## 2. Bone
 
-Упрощённо:
+Bone = living mineralized connective tissue.
 
-`muscle → intramuscular connective tissue → tendon/aponeurosis → enthesis → bone → joint/cartilage/capsule/ligament → next segment`
-
-Это не одна линейная верёвка:
-- силы распределяются по 3D connective-tissue network;
-- несколько мышц/сухожилий воздействуют на один сегмент;
-- суставные поверхности, капсула и связки ограничивают/направляют движение.
-
-## 2. Bone — кость
-
-Кость = живая mineralized connective tissue.
-
-Основные structural components:
-1. cortical/compact bone;
-2. trabecular/cancellous bone;
-3. periosteum;
-4. endosteum;
-5. marrow cavity where present;
-6. vascular/neural channels;
-7. articular surfaces where relevant.
-
-Current anatomy sources describe compact outer cortex and internal trabecular network; both use related cellular/matrix components but differ strongly in architecture. citeturn575445search1turn575445search7
-
-## 3. Cortical vs trabecular bone
-
-### Cortical
-Dense external shell.
-Major roles:
-- mechanical support;
-- bending/torsional resistance;
-- protection.
-
-### Trabecular
-Internal lattice of trabeculae.
-Characteristics:
-- high surface area;
-- oriented architecture;
+Ключевые структуры:
+- cortical/compact bone;
+- trabecular/cancellous bone;
+- periosteum;
+- endosteum;
 - marrow spaces;
-- substantial mechanical role particularly near joints/vertebrae.
+- vascular/neural channels;
+- subchondral/articular interfaces.
 
-Do not call cancellous bone “soft bone”; it is mineralized bone with porous architecture.
+Cancellous bone не является «soft bone»; это минерализованная ткань с пористой архитектурой.
 
-## 4. Periosteum
+Detailed remodeling → PHY.
 
-Fibrous/osteogenic covering on external bone surfaces except articular surfaces and certain attachment regions.
+## 3. Articular cartilage
 
-Relevant anatomy:
-- highly innervated;
-- vascular;
-- contributes to growth/repair;
-- interfaces with tendon/ligament attachments.
+Healthy articular cartilage:
+- specialized hyaline cartilage;
+- avascular;
+- aneural;
+- zonally organized;
+- integrated with synovial fluid and subchondral bone.
 
-Pain from “bone” can often arise from periosteal nociceptive structures rather than mineral matrix itself.
+Role:
+- low-friction articulation;
+- contact/load distribution.
 
-Pathology belongs to MED.
+Не сводить к «подушке» и не выводить pain напрямую из cartilage tissue.
 
-## 5. Endosteum
+Detailed mechanobiology → PHY/MEC.
 
-Thin cellular lining of internal bone surfaces:
-- medullary cavity;
-- trabeculae;
-- internal canals.
+## 4. Synovial joint capsule
 
-Relevant mainly as structural/remodeling boundary; detailed remodeling → PHY.
+Различать:
 
-## 6. Articular cartilage
+### Fibrous capsule
+Dense connective-tissue enclosure around the joint.
 
-At most synovial joints:
-- articular surface covered by hyaline cartilage;
-- smooth low-friction interface;
-- distributes compressive load.
+### Synovium
+Specialized vascular lining of non-articular internal joint surfaces.
 
-Important:
-articular cartilage is avascular or minimally vascular and obtains nutrition largely through diffusion/synovial environment. citeturn575445search0turn759173search16
+Project rule:
+**fibrous capsule ≠ synovium ≠ ligament**, хотя структуры могут локально переходить/усиливать друг друга.
 
-Do not treat cartilage as “cushion only”; its function is integrated with:
-- subchondral bone;
-- synovial fluid;
-- joint geometry.
+## 5. Synovial fluid
 
-## 7. Three major cartilage classes
-
-### Hyaline cartilage
-Most common.
-Relevant:
-- articular surfaces;
-- growth plates during development;
-- costal/airway structures.
-
-### Fibrocartilage
-Rich in dense collagen organization; adapted to combined compression/tension.
-
-Relevant:
-- menisci;
-- intervertebral discs;
-- some articular discs;
-- some tendon/ligament transitional zones.
-
-### Elastic cartilage
-Flexible elastic-fiber-rich tissue.
-Little direct training-program relevance.
-
-## 8. Joint capsule
-
-A synovial joint is enclosed by articular/joint capsule.
-
-Broadly:
-1. outer fibrous capsule;
-2. inner synovial membrane.
-
-Capsule attaches around joint margins and helps:
-- contain joint cavity;
-- stabilize;
-- constrain excessive translation/rotation.
-
-The capsule is not identical to ligament, though local thickenings can function as capsular ligaments.
-
-## 9. Synovial membrane
-
-Lines non-cartilaginous inner surfaces of synovial joint capsule.
-
-Produces/maintains synovial fluid environment.
-
-Does **not** cover normal articular cartilage surface itself in the usual open joint cavity.
-
-Project caution:
-some simplified teaching sources phrase continuity imprecisely; structural distinction is:
-- articular cartilage covers articulating bone surfaces;
-- synovium lines capsule/non-articular intra-articular surfaces.
-
-## 10. Synovial fluid
-
-Fluid within synovial cavity.
-
-Structural-functional role:
+Joint-cavity fluid contributing to:
 - lubrication;
-- nutrient transport to articular cartilage;
-- contributes to low-friction articulation.
+- low-friction articulation;
+- nutrient/metabolite exchange for avascular articular cartilage.
 
-Detailed rheology/physiology → PHY/MEC.
+Detailed fluid mechanics → PHY/MEC.
 
-## 11. Ligament
+## 6. Ligament
 
-Ligament = dense connective tissue structure connecting bone to bone or stabilizing related skeletal structures.
+Ligament = specialized collagen-rich connective tissue contributing to:
+- passive restraint;
+- joint stability;
+- guidance/limitation of motion;
+- sensory input in relevant structures.
 
-Functions:
-1. passive restraint;
-2. guide/limit motion;
-3. contribute to joint stability;
-4. provide sensory input through mechanoreceptors.
+Ligaments can be capsular, extracapsular, intracapsular, cord-like or sheet-like.
 
-Ligaments differ widely:
-- capsular;
-- extracapsular;
-- intracapsular;
-- cord-like;
-- sheet-like.
+Do not reduce ligament to a generic bone-to-bone rope.
 
-“Ligament = rope” is oversimplified.
+## 7. Tendon
 
-## 12. Tendon
+Tendon = hierarchical connective tissue transmitting muscle force toward skeletal attachment.
 
-Tendon = dense connective tissue transmitting muscle force toward skeletal attachment.
+Useful structural layers include:
+- collagen fibrillar hierarchy;
+- endotenon/endotenonium;
+- epitenon/epitenonium;
+- paratenon/peritendon in selected tendons;
+- tendon sheath where present.
 
-Current anatomical description emphasizes continuity between muscle connective-tissue framework and tendon; tendon is not merely a detachable “cord at the end”. citeturn759173search9
+Tendon is not an inert detachable cord.
 
-Functions:
-1. force transmission;
-2. energy storage/return in some tendons;
-3. positioning muscle belly away from joint;
-4. contribution to muscle-tendon unit mechanics.
+Adaptation/stiffness → PHY/MEC.
 
-Physiological adaptation/stiffness → PHY.
+## 8. Aponeurosis
 
-## 13. Aponeurosis
+Aponeurosis = broad sheet-like tendinous structure receiving/transmitting force from muscle fascicles.
 
-Broad, sheet-like tendon/connective-tissue structure.
+It is part of the muscle–tendon unit but should not be assumed mechanically identical to free tendon.
 
-Can:
-- receive muscle fibers over broad area;
-- transmit force;
-- form fascial connections.
+Current 2026 biomechanics literature supports distinct loading/deformation behavior of aponeurosis versus tendon.
 
-Examples conceptually:
-- abdominal aponeuroses;
-- intramuscular/external aponeurotic sheets.
+## 9. Intramuscular connective tissue
 
-In muscle architecture, tendon and aponeurosis are mechanically continuous but geometrically different.
+- endomysium — around fibers;
+- perimysium — around fascicles;
+- epimysium — around whole muscle.
 
-## 14. Myotendinous junction (MTJ)
+These networks integrate with aponeuroses/tendons.
 
-Specialized transition:
-`muscle fiber → tendon connective tissue`.
+Project implication:
+force transmission is not exclusively fiber-tip → tendon.
 
-Highly folded/interdigitated architecture increases interface area for force transfer.
+## 10. Myotendinous junction (MTJ)
 
-Structurally distinct from enthesis:
-- MTJ = muscle–tendon;
-- enthesis = tendon/ligament–bone.
+MTJ = specialized **muscle ↔ tendon** interface.
 
-## 15. Enthesis
+Its folded/interdigitated architecture increases interface area and supports force transfer.
 
-Enthesis = site where tendon/ligament or related connective tissue attaches to bone.
+Critical distinction:
+**MTJ ≠ enthesis**.
 
-Current anatomy recognizes:
-1. fibrous entheses;
-2. fibrocartilaginous entheses.
+## 11. Enthesis
 
-Fibrocartilaginous entheses use graded transitional tissues rather than abrupt soft→hard change.
+Enthesis = attachment region where tendon, ligament or related connective tissue attaches to bone.
 
-2025/2026 Journal of Anatomy review emphasizes:
-- macro/micro gradients;
-- stress-distribution architecture;
-- enthesis organ concept. citeturn759173search0turn759173search2
+Types:
+- fibrous;
+- fibrocartilaginous.
 
-## 16. Fibrocartilaginous enthesis zones
-
-Classical model:
+Fibrocartilaginous enthesis classically shows graded zones:
 1. tendon/ligament;
 2. uncalcified fibrocartilage;
 3. calcified fibrocartilage;
 4. bone.
 
-The transition changes:
-- composition;
-- stiffness;
-- fiber organization.
+Current 2026 anatomy supports this as a graded soft-to-hard transition rather than an abrupt glue line.
 
-Purpose:
-reduce stress concentration at hard–soft interface.
+## 12. Enthesis organ
 
-## 17. Enthesis organ
-
-Important modern concept:
-enthesis often functions with nearby structures rather than isolated insertion point.
-
-Potential components:
-- enthesis;
+At relevant sites the enthesis functions with adjacent tissues, potentially including:
 - sesamoid/periosteal fibrocartilage;
 - bursa;
 - fat pad;
 - retinaculum.
 
-This explains why “attachment point” anatomy may include a local stress-dissipation system. citeturn759173search1
+Project rule:
+use enthesis-organ concept **site-specifically**, not as a universal template for every insertion.
 
-## 18. Bursa
+## 13. Bursa
 
-Bursa = thin fluid-containing sac lined with synovial-like membrane at interfaces where tissues move/friction would otherwise be high.
+Bursa = localized synovial-lined fluid-containing gliding sac.
 
-Typical locations:
+Typical interfaces:
 - tendon–bone;
 - skin–bone;
-- muscle/tendon interfaces.
+- muscle/tendon–adjacent tissue.
+
+Presence of a bursa ≠ bursitis.
+
+## 14. Tendon sheath
+
+Synovial tendon sheath = tubular gliding structure around selected tendon paths, especially in constrained tunnels.
+
+Distinguish:
+- bursa = localized sac;
+- tendon sheath = tubular/elongated sheath.
+
+## 15. Retinaculum
+
+Localized fibrous thickening retaining tendons near the skeleton.
 
 Role:
-reduce friction and allow tissue gliding. citeturn759173search3
+- reduce bowstringing;
+- organize tendon path;
+- alter local line of pull/contact mechanics.
 
-Not every anatomical bursa is clinically symptomatic.
+Detailed mechanics → MEC.
 
-## 19. Tendon sheath
+## 16. Meniscus / articular disc
 
-Synovial tendon sheath:
-tube-like lubricating structure around tendon where it travels through constrained tunnel/turn.
+Menisci and articular discs are intra-articular fibrocartilaginous structures.
 
-Common:
-- wrist/hand;
-- ankle/foot.
+Meniscus roles include:
+- load distribution;
+- contact mechanics;
+- stability;
+- shock attenuation.
 
-Distinct from isolated bursa, though both reduce friction.
+Do not describe a meniscus only as a “shock absorber”.
 
-## 20. Retinaculum
+Joint-specific detail → regional ANA/MEC.
 
-Localized fibrous thickening holding tendons close to skeleton and preventing bowstringing.
+## 17. Labrum
 
-Examples:
-- flexor/extensor retinacula.
+Labrum = fibrocartilaginous rim around a socket margin.
 
-Retinaculum changes tendon line of pull and local contact mechanics.
-
-## 21. Meniscus
-
-Meniscus = fibrocartilaginous intra-articular structure, classically C/crescent-shaped in knee.
-
-Roles structurally:
-1. improve congruence;
-2. distribute contact load;
-3. contribute to stability;
-4. interact with capsule/ligaments.
-
-Do not describe it as a passive “shock absorber” only.
-
-## 22. Articular disc
-
-Fibrocartilaginous disc within selected joints.
-
-Difference from meniscus is partly geometry/completeness.
-
-Examples:
-- TMJ;
-- sternoclavicular joint;
-- distal radioulnar complex includes articular disc components.
-
-For training anatomy, recognize category; detailed joint-specific structures later.
-
-## 23. Labrum
-
-Fibrocartilaginous rim attached around socket margins.
-
-Major:
+Major examples:
 - glenoid labrum;
 - acetabular labrum.
 
 Roles:
-- deepen socket;
-- increase contact area/seal;
-- attach capsule/ligament structures.
+- increase effective socket depth/contact area;
+- contribute to seal/load distribution;
+- interface with capsule/ligaments.
 
-Not a meniscus; separate morphology/location.
+Labrum ≠ meniscus.
 
-## 24. Fascia — terminology problem
+## 18. Fascia
 
-“Fascia” has broader and narrower usages.
-
-Anatomically useful categories:
-1. superficial fascia;
-2. deep fascia;
-3. visceral/parietal fascia.
-
-Some modern fascia frameworks broaden term to many collagenous connective tissues. NCBI review explicitly notes this definitional expansion. citeturn759173search4
-
-Project rule:
-when discussing fascia, specify exact structure:
-- deep crural fascia;
-- thoracolumbar fascia;
-- intermuscular septum;
-rather than invoke “fascia” as one body-wide causal entity.
-
-## 25. Deep fascia
-
-Dense connective-tissue sheets around:
-- muscles;
-- compartments;
-- neurovascular structures.
-
-Can:
-- separate compartments;
-- provide surfaces for muscle attachment;
-- transmit forces locally.
-
-Claims of large long-distance “fascial chains” require separate evidence and are not assumed from anatomy alone.
-
-## 26. Intermuscular septa
-
-Fascial partitions extending toward bone.
-
-Functions:
-- compartment boundaries;
-- muscle attachment;
-- structural organization.
-
-Clinically relevant to compartment anatomy.
-
-## 27. Epimysium, perimysium, endomysium
-
-Muscle connective-tissue hierarchy:
-- epimysium surrounds muscle;
-- perimysium surrounds fascicles;
-- endomysium surrounds individual fibers.
-
-These networks integrate with tendon/aponeurosis.
-
-This undermines simplistic model where force travels only from fiber tip straight into tendon.
-
-Detailed muscle microarchitecture → ANA-11/PHY.
-
-## 28. Loose vs dense connective tissue
-
-Connective tissue architecture varies by:
-- collagen amount;
-- fiber orientation;
-- elastin;
-- ground substance;
-- vascularity.
-
-Tendon/ligament = dense collagen-dominant but not identical tissues.
-
-Fascia/capsule vary by location.
-
-## 29. Structural anisotropy
-
-Many musculoskeletal tissues are anisotropic:
-mechanical behavior depends on direction of loading because fibers are oriented.
-
-Anatomical implication:
-fiber alignment matters.
-
-Mechanical implications → MEC-07/08.
-
-## 30. Vascularity is tissue-specific
-
-Broad trends:
-- bone is vascular;
-- tendon/ligament vascularity varies and is lower in some regions;
-- articular cartilage is avascular;
-- fibrocartilage has region-specific vascularity.
-
-Avoid universal “tendons have no blood supply” myth.
-
-## 31. Innervation
-
-Structures with meaningful sensory innervation include:
-- periosteum;
-- ligaments;
-- capsules;
-- tendons/entheses variably;
-- fascia;
-- synovium.
-
-Pain does not map one-to-one to anatomical damage.
-
-Clinical interpretation → MED.
-
-## 32. Structural load-transfer chain for exercise
-
-Example elbow flexion:
-1. biceps/brachialis muscle fibers develop force;
-2. intramuscular connective tissue/tendon collect force;
-3. tendon transmits force;
-4. enthesis transfers force to radius/ulna depending muscle;
-5. bone rotates/translates through joint;
-6. capsule/ligaments/cartilage constrain/distribute interaction.
-
-This is the structural substrate; biomechanics calculates forces/moments.
-
-## 33. Tissue ≠ pathology
-
-Structural terms must not be used diagnostically.
+### Established
+Named fascial sheets, septa and compartments are real anatomical structures.
 
 Examples:
-- bursa exists ≠ bursitis;
-- enthesis ≠ enthesitis;
-- tendon load ≠ tendinopathy;
-- cartilage load ≠ cartilage damage.
+- thoracolumbar fascia;
+- crural fascia;
+- brachial fascia;
+- intermuscular septa;
+- rectus sheath.
 
-Project keeps anatomy separate from pathology.
+### Current uncertainty
+2025–2026 literature disputes whether fascia should be treated as one body-wide formal anatomical “system”.
 
-## 34. Project canonical distinctions
+Project rule:
+**name the exact fascia/structure. Do not use generic continuity as proof of whole-body fascial chains or training effects.**
 
-1. tendon: muscle-to-skeleton force-transmitting connective tissue;
-2. ligament: skeletal structure-to-structure restraint/stability;
-3. enthesis: soft tissue attachment to bone;
-4. MTJ: muscle-to-tendon interface;
-5. aponeurosis: sheet-like tendinous structure;
-6. bursa: synovial-lined friction-reducing sac;
-7. tendon sheath: tubular synovial gliding structure;
-8. meniscus/disc: intra-articular fibrocartilage;
-9. labrum: fibrocartilaginous socket rim;
-10. fascia: named connective-tissue layer/sheet, define specifically.
+Any long-range force-transmission claim requires separate MEC/evidence review.
 
-## 35. Confidence
+## 19. Muscle–tendon unit (MTU)
+
+Project structural definition:
+
+**MTU = skeletal muscle plus its intramuscular connective-tissue, aponeurotic and tendinous force-transmission structures forming the functional unit between contractile tissue and skeletal attachment.**
+
+MTU includes the relevant interfaces but does **not** mean:
+- tendon and aponeurosis are mechanically identical;
+- all force travels in one-dimensional series;
+- one uniform “series elastic element” is anatomically sufficient.
+
+## 20. Vascularity / innervation rules
+
+Broad structural patterns:
+- bone is vascular and innervated;
+- periosteum is highly innervated;
+- healthy articular cartilage is avascular/aneural;
+- synovium is vascular;
+- tendon/ligament vascularity varies by region;
+- fibrocartilage vascularity varies by tissue/zone.
+
+Project prohibitions:
+- “tendons have no blood supply”;
+- “cartilage pain comes directly from cartilage nociceptors”;
+- “poor vascularity = cannot adapt”.
+
+The last claim would be physiology, not anatomy.
+
+## 21. Anatomy vs other domains
+
+### Anatomy
+what exists, where, what it connects, and structural interfaces.
+
+### Physiology
+adaptation, remodeling, metabolism, healing biology.
+
+### Biomechanics
+force, stress/strain, stiffness, moments, contact mechanics.
+
+### Medicine
+injury, pain, inflammation, degeneration, diagnosis/treatment.
+
+Structural presence/loading does not imply pathology.
+
+## 22. Canonical distinctions
+
+1. bone — mineralized connective tissue;
+2. articular cartilage — avascular hyaline joint-surface cartilage;
+3. fibrous capsule — connective-tissue joint enclosure;
+4. synovium — vascular inner lining/interface;
+5. ligament — passive stabilizing/restraint connective tissue;
+6. tendon — muscle-force-transmitting connective tissue;
+7. aponeurosis — sheet-like tendinous structure;
+8. MTJ — muscle–tendon interface;
+9. enthesis — soft-tissue–bone attachment;
+10. bursa — localized synovial gliding sac;
+11. tendon sheath — tubular synovial gliding structure;
+12. retinaculum — tendon-retaining fibrous thickening;
+13. meniscus/disc — intra-articular fibrocartilage;
+14. labrum — fibrocartilaginous socket rim;
+15. fascia — named connective-tissue sheet/layer; define specifically;
+16. MTU — integrated muscle + connective-tissue/aponeurotic/tendinous force-transmission unit.
+
+## 23. Evidence / confidence
 
 ### HIGH
-- bone cortical/trabecular organization;
-- cartilage classes;
-- synovial joint capsule/cartilage/fluid architecture;
-- tendon/ligament/enthesis structural distinctions;
-- fibrocartilaginous enthesis graded transition;
-- bursa/tendon sheath functions.
 
-### MODERATE
-- broad fascia terminology is not fully uniform across disciplines; project therefore uses named-structure specificity.
+- cortical/trabecular bone distinction;
+- articular cartilage architecture and avascularity;
+- fibrous capsule vs synovium;
+- tendon / ligament / MTJ / enthesis distinctions;
+- graded fibrocartilaginous enthesis;
+- enthesis-organ concept at relevant sites;
+- meniscus load-distribution/stability role;
+- bursa/tendon-sheath distinction;
+- MTU as structural-functional muscle + tendon/aponeurosis unit.
 
-## 36. Sources
+### MODERATE / CONTESTED TERMINOLOGY
 
-1. NCBI Bookshelf — Anatomy, Bones. Updated 2024.  
+Broad body-wide “fascial system” ontology remains disputed. Project therefore uses named structures and claim-specific evidence.
+
+## 24. Sources checked in revalidation
+
+1. NCBI Bookshelf — Anatomy, Bones.  
    https://www.ncbi.nlm.nih.gov/books/NBK537199/
 
-2. Endotext — Anatomy and Ultrastructure of Bone.  
-   https://www.ncbi.nlm.nih.gov/books/NBK279149/
-
-3. NCBI Bookshelf — Anatomy, Cartilage.  
+2. NCBI Bookshelf — Anatomy, Cartilage.  
    https://www.ncbi.nlm.nih.gov/books/NBK532964/
 
-4. NCBI Bookshelf — Anatomy, Joints. Updated 2024.  
+3. NCBI Bookshelf — Anatomy, Joints.  
    https://www.ncbi.nlm.nih.gov/books/NBK507893/
 
-5. NCBI Bookshelf — Anatomy, Tendons. Updated 2024.  
+4. NCBI Bookshelf — Anatomy, Tendons.  
    https://www.ncbi.nlm.nih.gov/books/NBK513237/
 
-6. Shaw H. Functional anatomy of entheses and enthesis organs. J Anat. 2026;248:583–590. PMID 41047478.  
+5. Shaw H. Functional anatomy of entheses and enthesis organs. J Anat. 2026;248:583–590. PMID 41047478.  
    https://pubmed.ncbi.nlm.nih.gov/41047478/
 
-7. NCBI Bookshelf — Anatomy, Fascia Layers.  
-   https://www.ncbi.nlm.nih.gov/books/NBK526038/
+6. Snow F et al. Engineering interfacial tissues: The myotendinous junction. 2024. PMID 38841690.  
+   https://pubmed.ncbi.nlm.nih.gov/38841690/
 
-8. NCBI Bookshelf — Anatomy, Skin Bursa.  
-   https://www.ncbi.nlm.nih.gov/books/NBK554438/
+7. Yang K et al. Myotendinous Junction development and repair. 2026. PMID 42088570.  
+   https://pubmed.ncbi.nlm.nih.gov/42088570/
 
-## 37. Next dependencies
+8. Ross SA, Herzog W. Mechanics of aponeurosis and its role in muscle contraction. 2026. PMID 42341705.  
+   https://pubmed.ncbi.nlm.nih.gov/42341705/
 
-- ANA-03 axial skeleton;
-- ANA-11 muscle architecture;
-- PHY connective-tissue adaptation;
-- MEC tissue loading.
+9. The Structure, Function, and Adaptation of Lower-Limb Aponeuroses. PMID 39718717.  
+   https://pubmed.ncbi.nlm.nih.gov/39718717/
+
+10. Stecco C et al. Towards a comprehensive definition of the human fascial system. 2025. PMID 39814456.  
+    https://pubmed.ncbi.nlm.nih.gov/39814456/
+
+11. Sharkey J. Fascia Is Not a System. 2026. PMID 42458875.  
+    https://pubmed.ncbi.nlm.nih.gov/42458875/
+
+## 25. Closure
+
+Closure audit:
+`passes/02_anatomy/ANA-02/PASS-02_closure_audit_and_synthesis.md`.
+
+Result:
+**no project-relevant blocker remains after explicit MTU definition.**
+
+ANA-02 = **CLOSED_FOR_PRACTICE v2.0**.
+
+## 26. Next dependency
+
+**ANA-03 — Axial skeleton / vertebral column / thoracic cage structural foundation.**
