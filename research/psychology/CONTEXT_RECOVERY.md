@@ -24,12 +24,13 @@ Use this file to recover work after a new chat or lost context.
 - `PSY-RES-03`: **CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS**.
 - `PSY-RES-04`: **CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS**.
 - `PSY-RES-05`: **CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS**.
-- Next block: `PSY-RES-06 — Replication, generalizability, individual differences, and transportability`.
+- `PSY-RES-06`: **CLOSED_FOR_PRACTICE v1.0 — 12/12 PASS**.
+- Next block: `PSY-RES-07 — Clinical versus non-clinical inference boundaries`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/01_research_methodology/PSY-RES-05_systematic_reviews_meta_analysis_heterogeneity_publication_bias.md`
+`research/psychology/qualification/01_research_methodology/PSY-RES-06_replication_generalizability_individual_differences_transportability.md`
 
 ## Hard stop condition
 
