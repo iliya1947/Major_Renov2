@@ -9,9 +9,10 @@
 - **ANA-01 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-01/PASS-01 core terminology revalidation completed 2026-11-18.
 - ANA-01/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT: **Phase B / ANA-02 — Levels / tissues of musculoskeletal structural organization.**
+- **ANA-02 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-02/PASS-01 structural-map revalidation completed 2026-11-18.
-- CURRENT NEXT: **ANA-02 closure audit / synthesis**. Do not start ANA-03 before ANA-02 closure.
+- ANA-02/PASS-02 closure audit / synthesis completed 2026-11-18; minor MTU wording gap resolved.
+- CURRENT NEXT: **Phase B / ANA-03 — Axial skeleton / vertebral column / thoracic cage structural foundation.**
 
 ## История текущего revalidation cycle
 
@@ -326,3 +327,9 @@
 252. Current 2026 enthesis evidence supports graded fibrocartilaginous transitions and enthesis-organ concept; current MTJ literature preserves MTJ ≠ enthesis.
 253. Fascia terminology marked **CONTESTED**: named fasciae/septa retained; body-wide “fascial system” ontology not assumed; long-range fascial-chain claims deferred to dedicated biomechanics/evidence review.
 254. Следующий один блок: **ANA-02 closure audit / synthesis**.
+
+255. Завершён **ANA-02/PASS-02 — Closure audit and synthesis**.
+256. Coverage audit подтвердил все canonical ANA-02 structures; единственный minor gap — явное определение muscle–tendon unit — закрыт в synthesis.
+257. ANA-02 = **CLOSED_FOR_PRACTICE v2.0**.
+258. Fascia ontology остаётся contested; project rule = named structure + claim-specific evidence, без blanket fascial-chain inference.
+259. Следующий один блок: **ANA-03 — Axial skeleton / vertebral column / thoracic cage structural foundation**.
