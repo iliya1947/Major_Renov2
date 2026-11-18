@@ -78,7 +78,7 @@ All 11 exact Section 20 items must be covered at content level; strength, muscle
 15. **Muscle memory in humans: evidence for myonuclear permanence and long-term transcriptional regulation after strength training.** 2024. PMID 39159314.
 16. **Human skeletal muscle possesses both reversible proteomic signatures and a retained proteomic memory after repeated resistance training.** 2025. PMID 40183698.
 17. **Skeletal muscle memory: implications for sports, aging and nutrition.** 2025 review. PMID 41346689.
-18. **Myonuclear permanence in skeletal muscle memory: systematic review/meta-analysis of human and animal studies.** 2022. PMID 36125085 / PMCID PMC9530508.
+18. **Myonuclear permanence in skeletal muscle memory: systematic review/meta-analysis of human and animal studies.** 2022. PMID 35961635 / PMCID PMC9530508.
 19. **Human skeletal muscle possesses an epigenetic memory of high-intensity interval training.** 2025. PMID 39570634.
 20. **Epigenetic Skeletal Muscle Memory: The Impact of Physical Activity on Aging and Post-Injury Regeneration.** 2026 review. PMID 42650156.
 21. **Exercise Induces Different Molecular Responses in Trained and Untrained Human Muscle.** 2020. PMID 32079914.
@@ -340,11 +340,11 @@ A 2024 unilateral human study found:
 
 Therefore the study supports **myonuclear retention/permanence over the observed detraining period**, but does not prove that retained nuclei caused faster hypertrophy.
 
-Broader systematic evidence has been less uniform, and a 2025 review concludes that indefinite permanence/removal dynamics remain uncertain.
+Broader systematic evidence is conflicting: the 2022 human/animal meta-analysis did not support universal human myonuclear permanence across atrophy contexts and found lower human myonuclear content after atrophy, whereas the 2024 within-person strength-training study found retention over its 16-week detraining period. A 2025 review therefore retains indefinite permanence/removal dynamics as unresolved.
 
 Project rule:
 
-**retained human myonuclei are supported; indefinite permanence and a proven causal retraining advantage are not.**
+**context-specific human myonuclear retention is supported, but universal/indefinite permanence and a proven causal retraining advantage are not.**
 
 ---
 
@@ -548,7 +548,7 @@ Established:
 7. residual adaptation is graded rather than all-or-none;
 8. retraining often produces rapid regain after a recent break;
 9. muscle memory is separated into functional, neural, myonuclear, epigenetic/transcriptional and proteomic constructs;
-10. human myonuclear retention is supported but indefinite permanence/causal faster hypertrophy are not;
+10. context-specific human myonuclear retention is supported, while pooled human evidence does not establish universal permanence and causal faster hypertrophy remains unproven;
 11. epigenetic/proteomic memory is biologically supported but practical performance advantage remains uncertain;
 12. a returning trainee is not physiologically identical to a novice, but no fixed retraining multiplier is justified;
 13. no content-level blocker was found.
