@@ -111,7 +111,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-08 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **ANA-09 — Колено**.
+Последняя закрытая тема: **ANA-09 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **ANA-10 — Голеностоп и стопа**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -161,39 +163,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-09/PASS-01_knee_structural_functional_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-09/PASS-02_closure_audit_and_synthesis.md`
 
-Commit PASS-01:
-
-`fbf7e2a2dfecf3699d6f218f652112553c24ac81`
-
-ANA-09/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+ANA-09 = **CLOSED_FOR_PRACTICE v2.0**.
 
 
 ### Следующая задача
 
-**ANA-09 closure audit / synthesis.**
+**Phase B / ANA-10 — Голеностоп и стопа.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-09/PASS-01_knee_structural_functional_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-09/PASS-01_knee_structural_functional_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-09/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-09 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. knee = tibiofemoral + patellofemoral compound system; hinge-dominant but not a fixed-axis pure hinge;
-2. menisci are load-sharing/congruence/stability structures whose function depends on root fixation;
-3. asymptomatic meniscal-root anatomy varies, especially posterior lateral roots;
-4. ACL/PCL are intracapsular-extrasynovial, position-dependent stabilizers;
-5. medial knee = sMCL + dMCL + posteromedial structures rather than one MCL strap;
-6. lateral/posterolateral stability = LCL/FCL + popliteus-related + popliteofibular/capsular complex rather than LCL alone;
-7. extensor mechanism = quadriceps + variably layered quadriceps tendon + patella + retinacula + patellar tendon/ligament;
-8. quadriceps = RF + VL + VM + VI; VMO is not assumed independently isolatable;
-9. hamstrings differ in medial/lateral rotational action; gastrocnemius crosses knee + ankle;
-10. popliteus contributes to rotational transition/stability; 2026 data support superficial/deep compartmentalization without exercise-specific inference;
-11. patellofemoral attachment anatomy varies and one radiographic MPFL point is not universal personal anatomy;
-12. no content blocker found, but closure requires a separate audit/synthesis.
+Closure established:
 
-Следующий блок: **ANA-09 closure audit / synthesis**. Do not start ANA-10 in the same working block.
+1. knee = tibiofemoral + patellofemoral compound system;
+2. knee is hinge-dominant but not a perfect fixed-axis hinge;
+3. menisci are root-dependent load-sharing/congruence/stability structures;
+4. asymptomatic meniscal-root anatomy varies;
+5. ACL/PCL are position-dependent intracapsular-extrasynovial stabilizers;
+6. medial stability = sMCL + dMCL + posteromedial structures;
+7. lateral/posterolateral stability = FCL/LCL + popliteus/popliteofibular/capsular complex;
+8. extensor mechanism = quadriceps + variably layered quadriceps tendon + patella + retinacula + patellar tendon/ligament;
+9. VMO is not treated as an independently isolatable separate muscle;
+10. popliteus contributes rotational transition/stability and has layered internal architecture without exercise-specific inference;
+11. gastrocnemius crosses knee + ankle;
+12. all 10 legacy critical outcomes passed closure; no project-relevant blocker remains.
+
+Следующий один блок: **ANA-10 — Голеностоп и стопа**. После него сохранить state и STOP.
 
 ---
 
@@ -209,9 +211,9 @@ PASS-01 установил:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-09/PASS-01_knee_structural_functional_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-09/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **ANA-09 closure audit / synthesis** и остановиться перед ANA-10.
+Затем выполнить только записанный выше **ANA-10** и остановиться перед следующим блоком.
 
 ---
 
