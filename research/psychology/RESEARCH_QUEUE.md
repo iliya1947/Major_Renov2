@@ -13,6 +13,7 @@
 - **PSY-RES-05 — CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS.**
 - **PSY-RES-06 — CLOSED_FOR_PRACTICE v1.0 — 12/12 PASS.**
 - **PSY-RES-07 — CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS.**
+- **PSY-RES-08 — CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS.**
 
 ## Completed
 
@@ -44,30 +45,35 @@ Canonical block:
 Canonical block:
 `research/psychology/qualification/01_research_methodology/PSY-RES-07_clinical_vs_nonclinical_inference_boundaries.md`
 
+### PSY-RES-08 — Qualitative evidence and mixed-methods use
+Canonical block:
+`research/psychology/qualification/01_research_methodology/PSY-RES-08_qualitative_and_mixed_methods.md`
+
 Established:
 
-1. normal variation != disorder;
-2. unusualness/social deviance alone != psychopathology;
-3. distress/impairment are important but not mechanical diagnostic shortcuts;
-4. symptom != syndrome != screening result != diagnosis != etiological mechanism;
-5. screening positive -> further diagnostic evaluation;
-6. cutoffs are operational decision thresholds, not natural disease boundaries;
-7. diagnosis requires pattern, course/duration, context, differential and exclusions where relevant;
-8. expected painful human responses can remain non-disordered;
-9. functional impairment must be specified rather than assumed;
-10. cultural and developmental context are explicit;
-11. dimensional traits and categorical diagnoses can coexist;
-12. subthreshold presentations can remain clinically relevant;
-13. high-confidence assessment uses multisource/multimethod evidence where feasible;
-14. a seven-level Clinical Evidence Strength Ladder is now canonical;
-15. a 34-question Clinical Boundary Gate is now canonical;
-16. Kira may formulate hypotheses but must not represent project inference as a formal professional diagnosis.
+1. qualitative evidence != anecdote;
+2. qualitative and quantitative methods answer different primary claim types;
+3. thematic, grounded-theory, phenomenological, narrative, discursive, ethnographic, case-study, and qualitative-content approaches are not interchangeable;
+4. methodological integrity is evaluated through fidelity to subject matter and utility for research goals;
+5. reflexivity makes researcher influence inspectable rather than pretending it disappears;
+6. qualitative sample adequacy != population representativeness;
+7. no universal qualitative N or saturation rule is used;
+8. member checking, triangulation, and intercoder agreement are method-dependent tools rather than universal validity rituals;
+9. participant experience != externally verified causal mechanism;
+10. qualitative transferability != statistical population generalization;
+11. reporting completeness != methodological validity;
+12. qualitative evidence synthesis and GRADE-CERQual confidence assessment are represented;
+13. mixed methods require an explicit rationale and genuine integration;
+14. convergent, explanatory sequential, exploratory sequential, and embedded designs are distinguished;
+15. each mixed-method strand retains its own rigor and causal limitations;
+16. discordance between methods is treated as evidence to explain, not noise to suppress;
+17. a 39-question Qualitative and Mixed-Methods Gate is now canonical.
 
 ## Current next action
 
-**PSY-RES-08 — Qualitative evidence and mixed-methods use in psychological questions.**
+**PSY-RES-09 — Evidence-to-individual reasoning and uncertainty calibration.**
 
-Goal: establish when qualitative and mixed-methods evidence is appropriate, what claims it can support, how rigor should be assessed, and how it should integrate with quantitative evidence without being treated either as anecdote or as causal proof.
+Goal: establish the explicit bridge from population-level psychological evidence and private observations to person-specific hypotheses without overclaiming mechanisms, traits, diagnoses, or causal explanations.
 
 ## Deferred
 
