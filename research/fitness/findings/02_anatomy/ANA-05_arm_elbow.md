@@ -1,741 +1,558 @@
 # ANA-05 — Рука и локтевой комплекс
 
-Статус: **LEGACY v1.0 — REVALIDATION IN PROGRESS; use current ANA-05 passes/state**  
-Дата: 2026-11-16  
+Статус: **CLOSED_FOR_PRACTICE v2.0 — revalidated 2026-11-18**  
 Область: 02 — Анатомия
 
-## 0. Question Card
+## 0. Decision
 
-### Decision
-Создать точную карту костей, суставов, связок и основных мышц руки/локтя, необходимую для анализа elbow flexion/extension, forearm supination/pronation и будущих упражнений на бицепс/трицепс.
+Создать точную structural-functional карту руки и локтевого комплекса для последующего анализа elbow flexion/extension, forearm pronation/supination, biceps/triceps training и arm biomechanics без:
 
-### Question type
-Foundational anatomy / functional anatomy.
+- simple-hinge elbow model;
+- biceps-only flexion model;
+- wrist-rotation mislabeling;
+- false muscle-isolation claims;
+- подмены anatomy техникой или pathology.
 
-### Critical outcomes
-1. Distal humerus, proximal ulna/radius landmarks.
-2. Humeroulnar, humeroradial and proximal radioulnar articulations.
-3. Capsule and collateral/annular ligaments.
-4. Biceps brachii.
-5. Brachialis.
-6. Brachioradialis.
-7. Triceps brachii.
-8. Anconeus.
-9. Coracobrachialis as shoulder-crossing arm muscle.
-10. Relation of elbow and radioulnar motions.
-11. Neural/anatomical boundaries relevant to later training.
+## 1. Canonical elbow-complex model
 
-### Closure criterion
-Можно анатомически объяснить, какие структуры создают flexion/extension и supination/pronation, какие мышцы пересекают плечо, и почему локоть нельзя моделировать как один простой шарнир.
+Elbow region включает:
 
----
+1. **humeroulnar / ulnohumeral articulation**;
+2. **humeroradial / radiocapitellar articulation**;
+3. **proximal radioulnar joint (PRUJ)**.
 
-## 1. Локоть — не один сустав
+Humeroulnar + humeroradial primarily contribute to flexion/extension.
 
-Elbow complex состоит из трёх articulations:
+Forearm pronation/supination requires coordinated:
 
-1. **humeroulnar / ulnohumeral**;
-2. **humeroradial / radiocapitellar**;
-3. **proximal radioulnar (PRUJ)**.
+- PRUJ;
+- distal radioulnar joint (DRUJ).
 
-Они находятся в общей capsular/synovial region и работают согласованно. Humeroulnar/humeroradial участвуют преимущественно в flexion/extension, PRUJ совместно с distal radioulnar joint — в forearm pronation/supination. citeturn864926search0turn864926search5
+Project rule:
+
+**elbow flexion/extension and forearm rotation are separate motion systems that can occur simultaneously.**
 
 ## 2. Distal humerus
 
-Ключевые landmarks:
+Key landmarks:
 
-1. trochlea;
-2. capitulum;
-3. medial epicondyle;
-4. lateral epicondyle;
-5. olecranon fossa posteriorly;
-6. coronoid fossa anteriorly;
-7. radial fossa anteriorly;
-8. medial/lateral supracondylar ridges.
+- trochlea;
+- capitulum;
+- medial/lateral epicondyles;
+- olecranon fossa;
+- coronoid fossa;
+- radial fossa;
+- supracondylar ridges.
 
-Trochlea артикулирует с ulna, capitulum — с radial head.
+Relationships:
 
-Epicondyles главным образом служат attachment regions для ligament/muscle complexes и не являются основными articular surfaces.
+- trochlea ↔ ulna;
+- capitulum ↔ radial head.
+
+Epicondyles are major muscle/ligament attachment regions, not primary articular surfaces.
 
 ## 3. Proximal ulna
 
-Ключевые структуры:
+Key structures:
 
-1. olecranon;
-2. coronoid process;
-3. trochlear notch;
-4. radial notch;
-5. ulnar tuberosity;
-6. supinator crest.
+- olecranon;
+- coronoid process;
+- trochlear notch;
+- radial notch;
+- ulnar tuberosity;
+- supinator crest.
 
-Trochlear notch охватывает humeral trochlea и создаёт высокую osseous congruence humeroulnar joint.
+Functional relevance:
 
-Olecranon:
-- формирует posterior prominence elbow;
-- принимает distal triceps insertion.
-
-Coronoid process:
-- участвует в anterior trochlear notch;
-- важен для osseous stability;
-- принимает brachialis insertion region.
+- high humeroulnar congruence;
+- triceps insertion on olecranon;
+- brachialis insertion at coronoid/ulnar-tuberosity region;
+- radial notch participates in PRUJ.
 
 ## 4. Proximal radius
 
-Ключевые структуры:
+Key structures:
 
-1. radial head;
-2. articular fovea superiorly;
-3. circumferential articular surface;
-4. radial neck;
-5. radial tuberosity.
+- radial head;
+- superior articular fovea;
+- circumferential articular surface;
+- neck;
+- radial tuberosity.
 
-Superior radial head articulates with capitulum.
+Relationships:
 
-Circumferential head surface articulates with radial notch of ulna + annular ligament.
+- radial head ↔ capitulum;
+- radial-head circumference ↔ radial notch + annular ligament;
+- radial tuberosity receives distal biceps tendon.
 
-Radial tuberosity:
-- distal biceps tendon insertion.
+Radial insertion is central to biceps supination role.
 
 ## 5. Humeroulnar articulation
 
 Trochlea ↔ trochlear notch.
 
-Тип:
-- synovial hinge-like articulation.
+Broad role:
+- major elbow flexion/extension articulation;
+- substantial osseous congruence contributes stability.
 
-Primary motion:
-- flexion/extension.
+It is hinge-like but **not an ideal mathematical fixed-axis hinge through the whole ROM**.
 
-Высокая bony congruence создаёт существенную intrinsic stability. citeturn864926search0
-
-Но реальный elbow motion не является идеально одноосным геометрическим шарниром; joint axis/translation varies through ROM → MEC.
+Exact axis migration → MEC.
 
 ## 6. Humeroradial articulation
 
 Capitulum ↔ radial head.
 
-Участвует в:
-1. flexion/extension;
-2. передаче compressive forces;
-3. rotation of radial head during forearm pronation/supination.
+Contributes to:
+- flexion/extension;
+- compressive load transfer;
+- radial-head rotation during forearm rotation.
 
-Это объясняет, почему radius не является просто «пассивной костью предплечья» при локтевом движении.
+Radius is therefore mechanically active in the elbow complex.
 
 ## 7. Proximal radioulnar joint
 
-Radial head circumference ↔ radial notch of ulna.
+PRUJ:
+- radial head circumference ↔ radial notch of ulna;
+- synovial pivot articulation;
+- radial head rotates within annular-ligament ring.
 
-Тип:
-- synovial pivot joint.
-
-Radial head вращается внутри osteoligamentous ring, главным компонентом которого является annular ligament. citeturn864926search5turn864926search11
-
-PRUJ работает вместе с distal radioulnar joint; pronation/supination — движение **предплечья**, а не wrist joint.
-
-## 8. Annular ligament
-
-Annular ligament:
-- охватывает radial head;
-- прикрепляется к anterior/posterior margins radial notch ulna;
-- удерживает radial head, сохраняя возможность вращения.
-
-Это ключевой static stabilizer PRUJ.
-
-Современный 2026 review также относит к PRUJ stabilizing system:
+Important stabilizing structures include:
 - annular ligament;
 - quadrate ligament;
-- oblique cord. citeturn864926search12
+- oblique cord.
 
-## 9. Joint capsule
+PRUJ works with DRUJ to produce forearm rotation.
 
-Elbow articulations находятся в общей fibrous capsule region.
+## 8. Normal PRUJ variability
 
-Capsule:
-- прикрепляется вокруг distal humerus/proximal radius-ulna;
-- достаточно свободна в regions, необходимых для ROM;
-- укреплена collateral complexes.
+Current 2026 CT evidence shows substantial interindividual variation in proximal radioulnar morphology even without instability/deformity.
 
-Exact capsular folds/tension → lower priority unless needed for pathology/mechanics.
+Project rule:
 
-## 10. Medial/Ulnar Collateral Ligament complex
+**one atlas PRUJ shape is not a universal personal normal.**
 
-UCL/MCL complex на medial elbow.
+Morphology alone does not diagnose instability.
 
-Классически включает:
-1. anterior bundle;
-2. posterior bundle;
-3. transverse bundle.
+## 9. Capsule and ligament systems
 
-Функционально:
-- основной static restraint против valgus loading, особенно anterior bundle в значимой части ROM.
+### Capsule
+Shared capsular/synovial region around the elbow articulations.
 
-Anatomical project goal:
-recognize bundles/attachments; exact angle-specific tension → MEC/MED. citeturn864926search1turn395941search11
+### Medial / ulnar collateral complex
+Classically:
+- anterior bundle;
+- posterior bundle;
+- transverse bundle.
 
-## 11. Lateral collateral ligament complex
+Major medial/valgus restraint system.
 
-Lateral complex включает несколько connected structures, обычно:
-- radial collateral ligament;
-- lateral ulnar collateral ligament;
-- annular ligament integration.
+### Lateral collateral complex
+Includes interconnected:
+- radial collateral;
+- lateral ulnar collateral;
+- annular-ligament/capsular components.
 
-Функционально участвует в:
-- varus restraint;
-- posterolateral rotatory stability.
+Contributes varus/posterolateral stability.
 
-Не редуцировать lateral complex к одной простой ligament line.
+### Annular ligament
+Retains radial head while permitting rotation.
 
-## 12. Dynamic stabilizers
+Project rule:
 
-Мышцы вокруг локтя дополнительно стабилизируют joint.
+**elbow stability is multi-source**, not one-ligament dependent.
 
-Medial flexor-pronator group может противодействовать valgus load.
+## 10. Elbow flexors
 
-Lateral extensor-supinator/anconeus group — varus/posterolateral loading contributions.
+Main project flexors:
 
-Это functional anatomy; количественные force contributions → MEC. citeturn395941search4turn395941search11
+1. **biceps brachii**;
+2. **brachialis**;
+3. **brachioradialis**.
 
-## 13. Elbow flexors — не только biceps
+Elbow flexion ≠ biceps alone.
 
-Основные flexors:
+## 11. Biceps brachii
 
-1. brachialis;
-2. biceps brachii;
-3. brachioradialis.
+### Heads
 
-Дополнительные слабые/position-dependent contributions возможны от других forearm muscles.
+Long head:
+- supraglenoid/superior-labral region.
 
-Следовательно «сгибание локтя = бицепс» анатомически неверно.
-
-## 14. Biceps brachii — две головки
-
-### Long head
-Proximal attachment:
-- supraglenoid tubercle;
-- superior labral complex relationship.
-
-### Short head
-Origin:
+Short head:
 - coracoid process.
 
-Обе объединяются в muscle belly и distal tendon.
+Both cross the shoulder and elbow.
 
-Innervation:
-- musculocutaneous nerve, преимущественно C5–C6. citeturn395941search2turn395941search5
+### Distal architecture
 
-## 15. Distal biceps attachments
+1. distal tendon → radial tuberosity;
+2. bicipital aponeurosis / lacertus fibrosus → antebrachial fascia.
 
-Distally biceps has two important continuities:
+Project rule:
 
-1. tendon → radial tuberosity;
-2. bicipital aponeurosis (lacertus fibrosus) → forearm fascia medially.
+**distal biceps force transfer is not represented as one isolated tendon-to-bone point only.**
 
-Это важно:
-biceps force передаётся не только одной узкой точкой tendon-to-radius.
+### Broad functions
 
-## 16. Biceps functions
+- elbow flexion;
+- forearm supination;
+- shoulder-related contribution.
 
-Основные:
+Because biceps inserts on radius, forearm orientation materially changes its geometry.
 
-1. forearm supination;
-2. elbow flexion;
-3. secondary/position-dependent GH contribution because both heads cross shoulder.
+Exact torque/moment arms → MEC.
 
-Biceps is especially important supinator because insertion on radius rotates radius around ulna.
+## 12. Biceps as multi-joint muscle
 
-Elbow-flexion contribution varies with:
-- forearm rotation;
+Biceps spans:
+
+- shoulder;
+- elbow;
+- radioulnar rotation system functionally via radial insertion.
+
+Therefore its geometry changes with:
+- shoulder angle;
 - elbow angle;
-- shoulder position;
-- load.
+- forearm rotation.
 
-Exact moment arms → MEC.
+This creates anatomical differences between curl positions but does not prove one best hypertrophy exercise.
 
-## 17. Why supinated curl is anatomically special
+## 13. Brachialis
 
-When forearm is supinated:
-- biceps distal tendon has favorable anatomical role for supination/flexion;
-- radius is not crossed over ulna as in pronation.
+Attachments:
+- distal anterior humerus;
+- coronoid process / ulnar tuberosity region.
 
-But anatomy alone does not establish:
-- “best” hypertrophy grip;
-- exact optimal supination angle.
-
-Those need biomechanics + longitudinal evidence.
-
-## 18. Biceps is biarticular
-
-Biceps crosses:
-1. GH/shoulder region proximally;
-2. elbow;
-3. functionally influences radioulnar rotation through radial insertion.
-
-Therefore shoulder position changes biceps muscle-tendon length.
-
-This later matters for:
-- incline curls;
-- preacher-like positions;
-- overhead/behind-body arm positions.
-
-But training prescription is deferred.
-
-## 19. Brachialis
-
-Location:
-- deep to biceps on anterior distal arm.
-
-Origin:
-- distal/anterior humerus, broadly lower half.
-
-Insertion:
-- coronoid process + ulnar tuberosity region.
-
-Primary action:
+Primary role:
 - elbow flexion.
 
-Because insertion is on **ulna**, forearm pronation/supination does not rotate its distal insertion around radius the way it does biceps.
+Because insertion is on ulna, brachialis has no direct pronation/supination action.
 
-Thus brachialis remains an elbow flexor across forearm orientations. citeturn864926search15
+It remains an elbow flexor across forearm orientations.
 
-## 20. Brachialis innervation
+Innervation:
+- mainly musculocutaneous;
+- lateral radial contribution may occur.
 
-Main:
-- musculocutaneous nerve.
-
-A lateral portion can receive radial nerve contribution.
-
-This dual contribution is anatomically relevant but does not create two independent training muscles.
-
-Detailed peripheral nerve map → ANA-12.
-
-## 21. Brachioradialis
-
-Anatomically placed in lateral/posterior forearm compartment despite acting as elbow flexor.
+## 14. Brachioradialis
 
 Origin:
-- proximal part of lateral supracondylar ridge humerus.
+- lateral supracondylar ridge.
 
 Insertion:
-- distal radius near styloid process.
+- distal radius near styloid.
 
 Innervation:
 - radial nerve.
 
-Primary:
-- elbow flexion.
+Broad roles:
+- elbow flexion;
+- forearm stabilization;
+- tendency toward mid-prone/neutral from extreme pronation/supination.
 
-It also helps return forearm toward a neutral/mid-prone position from extremes of pronation/supination. citeturn864926search16
+Project rule:
 
-## 22. Brachioradialis and neutral grip
+**neutral/hammer grip does not isolate brachioradialis.**
 
-Its line of action and radial insertion make neutral/mid-prone elbow flexion anatomically relevant.
-
-But:
-“hammer curl isolates brachioradialis” is false.
-
-Biceps and brachialis still contribute.
-
-Training effects depend on force-sharing and joint mechanics → MEC/TEC.
-
-## 23. Coracobrachialis
+## 15. Coracobrachialis
 
 Origin:
-- coracoid process.
+- coracoid.
 
 Insertion:
 - medial mid-humerus.
 
 Innervation:
-- musculocutaneous nerve, which characteristically pierces the muscle.
+- musculocutaneous nerve.
 
-Functions:
-- shoulder flexion;
-- shoulder adduction.
+Acts at shoulder:
+- flexion;
+- adduction.
 
-It does **not** cross elbow, so it is not an elbow flexor despite being in anterior arm compartment.
+Does not cross elbow and is not an elbow flexor.
 
-## 24. Posterior arm compartment
-
-Dominated by:
-- triceps brachii.
-
-Anconeus is anatomically at posterior/lateral elbow-proximal forearm and functions with elbow extensor/stabilizer system.
-
-## 25. Triceps brachii — three heads
-
-1. long head;
-2. lateral head;
-3. medial head.
-
-All converge into distal tendon/aponeurotic complex toward olecranon.
-
-Innervation:
-- radial nerve, mainly C6–C8 distributions depending source/head. citeturn395941search0turn395941search5
-
-## 26. Long head triceps
-
-Origin:
-- infraglenoid tubercle scapula.
-
-Therefore it crosses:
-1. shoulder;
-2. elbow.
-
-Primary:
-- elbow extension.
-
-At GH it can contribute to:
-- extension;
-- adduction;
-- stabilization depending position.
-
-Shoulder position changes long-head muscle length.
-
-This is central later for overhead vs arm-at-side triceps work.
-
-## 27. Lateral head triceps
-
-Origin:
-- posterior humerus superior to radial groove region.
-
-Crosses elbow but not GH.
-
-Contributes to elbow extension.
-
-Its visible superficial location forms much of posterolateral upper-arm contour.
-
-## 28. Medial head triceps
-
-Origin:
-- posterior humerus inferior to radial groove.
-
-Deep to other heads for substantial length.
-
-Crosses elbow only.
-
-Contributes across elbow-extension demands and forms part of distal triceps architecture.
-
-## 29. Triceps distal insertion
-
-Heads converge into common tendon complex inserting on:
-- olecranon of ulna;
-with fascial expansions.
-
-Because ulna does not rotate around its long axis during pronation/supination like radius, triceps extensor line is comparatively independent of forearm rotation at distal attachment.
-
-Exact torque still varies with elbow angle.
-
-## 30. Triceps is not three independent muscles
+## 16. Triceps brachii
 
 Heads:
-- have different proximal origins;
-- share distal extension function;
-- long head crosses shoulder.
 
-Training can alter relative length/moment conditions, but complete “head isolation” is anatomically implausible because elbow extension is a shared triceps function.
+1. long;
+2. lateral;
+3. medial.
 
-## 31. Anconeus
-
-Origin:
-- lateral epicondyle humerus.
-
-Insertion:
-- lateral olecranon/proximal posterior ulna.
+All contribute to elbow extension and converge into distal tendon/aponeurotic architecture inserting on olecranon/ulna.
 
 Innervation:
 - radial nerve.
 
-Functions:
-1. assists elbow extension;
-2. contributes to stabilization;
-3. may influence ulna during forearm rotation and joint control. citeturn395941search7turn395941search13
+## 17. Triceps long head
 
-2026 3D anatomy work also supports internal neuromuscular compartmentalization, showing even this small muscle is not necessarily a homogeneous single-vector structure. citeturn395941search10
+Origin:
+- infraglenoid tubercle.
 
-## 32. Flexion vs forearm rotation
+Crosses:
+- shoulder;
+- elbow.
 
-During elbow flexion:
-- humeroulnar/humeroradial joints move;
-- forearm may simultaneously pronate/supinate at radioulnar joints.
+Broad roles:
+- elbow extension;
+- shoulder extension/adduction contribution depending position.
 
-A curl can therefore combine:
-1. elbow flexion;
-2. forearm supination;
-3. shoulder stabilization/movement.
+Shoulder angle changes long-head muscle-tendon length.
 
-Need describe them separately.
+This is the anatomical prerequisite for later overhead-vs-arm-at-side analysis.
 
-## 33. Pronation/supination geometry
+## 18. Triceps lateral / medial heads
+
+### Lateral head
+Posterior humeral origin, elbow-only crossing.
+
+### Medial head
+Posterior humeral origin, mostly deep, elbow-only crossing.
+
+Both contribute elbow extension.
+
+Project rule:
+
+Different head geometry does not imply complete head isolation.
+
+## 19. Anconeus
+
+Attachments:
+- lateral epicondyle;
+- lateral olecranon / proximal posterior ulna.
+
+Innervation:
+- radial nerve.
+
+Broad roles:
+- assists elbow extension;
+- contributes stabilization;
+- participates in joint/ulnar control during forearm rotation.
+
+2026 3D cadaveric work found internal partitions, but exact functional specialization remains **provisional** due small sample.
+
+## 20. Forearm rotation
 
 ### Supination
-radius and ulna relatively parallel.
+Radius/ulna relatively parallel.
 
 ### Pronation
-radius crosses anteriorly over ulna.
+Radius crosses relative to ulna.
 
-PRUJ:
-radial head rotates within annular ligament.
+Proximally:
+- radial head rotates at PRUJ.
 
-DRUJ:
-distal radius moves around ulnar head.
+Distally:
+- radius moves around ulnar head at DRUJ.
 
-Thus hand orientation changes through coordinated **two-joint radioulnar system**.
+Project rule:
+
+**pronation/supination = forearm motion, not wrist rotation.**
 
 Detailed distal anatomy → ANA-06.
 
-## 34. Carrying angle
+## 21. Grip orientation — anatomy only
 
-Extended/supinated elbow normally has valgus relationship between arm and forearm due distal humeral geometry.
+### Supinated
+Biceps supination role is directly relevant.
 
-Magnitude varies by:
-- anatomy;
-- sex/population averages;
-- individual morphology;
-- measurement position.
+### Neutral / mid-prone
+Brachioradialis geometry is particularly relevant.
 
-Do not infer pathology from deviation from one textbook number.
+### Pronated
+Brachialis remains an elbow flexor; biceps and brachioradialis still contribute depending geometry.
 
-Individual variation → ANA-15.
+No grip is declared hypertrophy-superior from anatomy alone.
 
-## 35. Antecubital fossa
-
-Triangular anterior elbow region.
-
-Contains important structures including:
-- distal biceps tendon;
-- brachial artery;
-- median nerve;
-- radial nerve more laterally/branching region.
-
-Bicipital aponeurosis overlies/protects parts of neurovascular bundle.
-
-Relevant later for:
-- palpation;
-- safety;
-- symptoms.
-
-## 36. Cubital tunnel / ulnar nerve
-
-Ulnar nerve passes posterior to medial epicondyle through cubital tunnel region.
-
-This explains why medial/posteromedial elbow position has obvious neural relevance.
-
-Detailed nerve compression/pathology → ANA-12/MED.
-
-## 37. Radial nerve around elbow
-
-Radial nerve travels from posterior humerus to lateral/anterior elbow region and branches.
-
-Motor relevance includes:
-- triceps;
-- anconeus;
-- brachioradialis;
-- supinator;
-- lateral brachialis contribution. citeturn395941search8
-
-Detailed branches → ANA-12.
-
-## 38. Musculocutaneous nerve
-
-Supplies:
-- coracobrachialis;
-- biceps;
-- brachialis.
-
-Then continues as lateral antebrachial cutaneous nerve.
-
-This maps anterior-arm compartment function cleanly.
-
-## 39. Elbow stability is multi-source
-
-Structural contributors:
-1. humeroulnar congruence;
-2. radial head/radiocapitellar articulation;
-3. UCL/MCL;
-4. lateral collateral complex;
-5. annular ligament/PRUJ structures;
-6. capsule;
-7. dynamic muscle groups.
-
-Therefore elbow stability cannot be inferred from one ligament alone.
-
-## 40. Joint positions change muscle lengths
+## 22. Joint position and muscle length
 
 ### Biceps
-Length affected by:
+Affected by:
 - shoulder angle;
 - elbow angle;
 - forearm rotation.
 
 ### Triceps long head
-Length affected by:
+Affected by:
 - shoulder angle;
 - elbow angle.
 
 ### Brachialis
-Affected mainly by elbow angle.
+Primarily elbow-angle dependent.
 
 ### Brachioradialis
-Elbow angle + forearm position influence line/length.
+Affected by elbow angle + forearm orientation.
 
-This is anatomical basis for exercise-position differences, but optimal stimulus → MEC/PHY/PRO.
+This establishes anatomical differences between exercise positions, not training superiority.
 
-## 41. Multiarticular active/passive insufficiency preview
+## 23. Carrying angle
 
-Biceps/triceps long head cross two joints.
+Extended/supinated elbow normally has valgus relation between arm and forearm.
 
-Thus their available shortening/lengthening differs when both joints change.
+Magnitude varies by:
+- anatomy;
+- measurement position;
+- individual morphology.
 
-Formal active/passive insufficiency and length-tension implications:
-- ANA-13 functional anatomy;
-- PHY-04;
-- MEC.
+No single textbook angle is used as universal personal normal.
 
-## 42. Anatomical variation
+## 24. Neural / regional boundaries
 
-Examples:
+### Musculocutaneous nerve
+Supplies:
+- coracobrachialis;
+- biceps;
+- most brachialis.
+
+### Radial nerve
+Relevant to:
+- triceps;
+- anconeus;
+- brachioradialis;
+- supinator;
+- lateral brachialis contribution.
+
+### Ulnar nerve
+Passes posterior to medial epicondyle through cubital-tunnel region.
+
+Detailed nerve anatomy/entrapment → ANA-12/MED.
+
+## 25. Antecubital fossa
+
+Important contents/relations include:
+- distal biceps tendon;
+- brachial artery;
+- median nerve;
+- radial nerve laterally/branching region.
+
+Bicipital aponeurosis overlies part of this neurovascular region.
+
+This is relevant for later palpation/safety, not diagnosis.
+
+## 26. Multi-source elbow stability
+
+Structural contributors:
+
+1. humeroulnar congruence;
+2. radiocapitellar articulation;
+3. UCL/MCL;
+4. lateral collateral complex;
+5. annular/PRUJ stabilizers;
+6. capsule;
+7. dynamic muscles.
+
+No single structure equals “elbow stability”.
+
+## 27. Normal variation
+
+Relevant variation includes:
+
 - accessory biceps heads;
-- variable distal biceps insertion anatomy;
+- distal biceps footprint/aponeurosis;
+- brachialis architecture/innervation;
 - triceps accessory heads;
-- anconeus epitrochlearis;
-- PRUJ morphology variation.
-
-2026 CT study found substantial inter-individual PRUJ shape variation. citeturn864926search18
+- anconeus morphology;
+- PRUJ shape;
+- carrying angle.
 
 Project rule:
-one atlas geometry is reference, not universal personal geometry.
 
-## 43. “Biceps peak” anatomy boundary
+**atlas geometry is reference, not individual requirement.**
 
-Visible arm shape depends on:
-- muscle belly architecture;
-- tendon/aponeurosis length;
-- subcutaneous tissue;
-- genetics/anatomical proportions;
-- hypertrophy.
+## 28. Training-relevant structural consequences
 
-Exercise cannot relocate anatomical origin/insertion.
+Anatomy supports:
 
-Detailed muscle architecture → ANA-11.
+1. elbow flexion involves multiple flexors;
+2. forearm orientation changes geometry but does not isolate one muscle;
+3. biceps crosses shoulder and elbow and acts on forearm rotation;
+4. triceps long head crosses shoulder and elbow;
+5. shoulder position can therefore alter biceps/triceps-long-head length conditions;
+6. exact exercise superiority requires MEC/TEC/PHY evidence.
 
-## 44. Arm circumference anatomy
+## 29. Domain boundaries
 
-Upper-arm circumference contains:
-- biceps;
-- brachialis;
-- triceps;
-- humerus;
-- fascia;
-- vessels/nerves;
-- subcutaneous fat/skin.
+### Anatomy
+structures, attachments, joint relations, broad action tendencies, normal variation.
 
-Therefore arm circumference change is not direct biceps-only hypertrophy measure.
+### Biomechanics
+moment arms, torque curves, force sharing, ligament tension.
 
-Measurement → TST.
+### Technique
+curl/extension path, elbow fixation, grip, ROM.
 
-## 45. Grip orientation — anatomy only
+### Medicine
+tendon/ligament injury, instability, nerve compression, pain.
 
-### Supinated
-Strong biceps supination/flexion role.
-
-### Neutral
-Brachioradialis mechanically relevant, but all flexors can contribute.
-
-### Pronated
-Biceps supination line opposes current forearm orientation; brachialis remains flexor; brachioradialis contributes depending angle.
-
-This does **not** establish which grip grows which muscle most.
-
-That requires biomechanics + longitudinal exercise evidence.
-
-## 46. “Elbow stationary” is technique, not anatomy
-
-Anatomy establishes:
-- joints crossed;
-- muscle attachments.
-
-Whether shoulder/elbow should remain fixed during a curl is a programming/technique decision.
-
-Shoulder movement changes:
-- biceps length;
-- total external mechanics;
-- contribution of other muscles.
-
-Do not derive “perfect form” from anatomy alone.
-
-## 47. Project canonical elbow model
-
-1. Elbow complex = 3 articulations.
-2. Flexion/extension primarily humeroulnar + humeroradial.
-3. Supination/pronation = proximal + distal radioulnar coordination.
-4. Biceps = elbow flexor + powerful supinator + biarticular shoulder-crossing muscle.
-5. Brachialis = robust ulna-inserting elbow flexor across forearm positions.
-6. Brachioradialis = radial-nerve elbow flexor, prominent in mid-prone orientation.
-7. Triceps = primary elbow extensor; long head biarticular.
-8. Anconeus = small extensor/stabilizer.
-9. Ligaments + bone + muscles jointly stabilize elbow.
-10. Forearm/grip orientation changes anatomy/mechanics but does not “isolate” one flexor.
-
-## 48. Confidence
+## 30. Evidence / confidence
 
 ### HIGH
-- three-joint elbow architecture;
-- bony landmarks;
+
+- multi-articulation elbow model;
+- PRUJ + DRUJ forearm-rotation logic;
 - collateral/annular ligament systems;
-- origins/insertions/innervation of biceps, brachialis, brachioradialis, triceps, anconeus;
-- radioulnar basis of pronation/supination.
+- biceps/brachialis/brachioradialis anatomy;
+- triceps three-head structure and long-head biarticular anatomy;
+- distal biceps tendon + bicipital-aponeurosis architecture.
 
 ### MODERATE/HIGH
-- broad functional roles by grip/position are anatomically supported, but exact contribution percentages are biomechanics and are deliberately not asserted here.
+
+- normal PRUJ morphology variation;
+- broad position-dependent contribution patterns.
 
 ### MODERATE
-- detailed PRUJ shape and some accessory-muscle prevalence vary by population/measurement.
 
-## 49. Sources
+- detailed anconeus compartment-specific function.
 
-1. NCBI Bookshelf — Elbow Joint, updated Dec 9 2025.  
+## 31. Sources checked in revalidation
+
+1. NCBI Bookshelf — Elbow Joint, updated 2025-12-09.  
    https://www.ncbi.nlm.nih.gov/books/NBK532948/
 
 2. NCBI Bookshelf — Proximal Radio-Ulnar Joint.  
    https://www.ncbi.nlm.nih.gov/books/NBK551614/
 
-3. NCBI Bookshelf — Elbow Annular Ligament.  
-   https://www.ncbi.nlm.nih.gov/books/NBK538494/
-
-4. NCBI Bookshelf — Elbow Collateral Ligaments.  
-   https://www.ncbi.nlm.nih.gov/books/NBK560907/
-
-5. NCBI Bookshelf — Biceps Muscle.  
+3. NCBI Bookshelf — Biceps Muscle.  
    https://www.ncbi.nlm.nih.gov/books/NBK519538/
 
-6. NCBI Bookshelf — Arm Muscles.  
-   https://www.ncbi.nlm.nih.gov/books/NBK554420/
-
-7. NCBI Bookshelf — Brachialis Muscle.  
+4. NCBI Bookshelf — Brachialis Muscle.  
    https://www.ncbi.nlm.nih.gov/books/NBK551630/
 
-8. NCBI Bookshelf — Brachioradialis Muscle.  
+5. NCBI Bookshelf — Brachioradialis Muscle.  
    https://www.ncbi.nlm.nih.gov/books/NBK526110/
 
-9. NCBI Bookshelf — Triceps Muscle.  
+6. NCBI Bookshelf — Triceps Muscle.  
    https://www.ncbi.nlm.nih.gov/books/NBK536996/
 
-10. NCBI Bookshelf — Forearm Compartments / Anconeus.  
-    https://www.ncbi.nlm.nih.gov/books/NBK539784/
+7. NCBI Bookshelf — Elbow Collateral Ligaments.  
+   https://www.ncbi.nlm.nih.gov/books/NBK560907/
 
-11. Acute and chronic proximal radio-ulnar joint injuries: current concepts. 2026. PMID 42276277.  
-    https://pubmed.ncbi.nlm.nih.gov/42276277/
+8. Marinelli A et al. PRUJ current concepts. 2026. PMID 42276277.  
+   https://pubmed.ncbi.nlm.nih.gov/42276277/
 
-12. Functional shape of the proximal radioulnar joint: anatomical characterization. 2026. PMID 41858489.  
-    https://pubmed.ncbi.nlm.nih.gov/41858489/
+9. Traverso A et al. PRUJ functional shape. 2026. PMID 41858489.  
+   https://pubmed.ncbi.nlm.nih.gov/41858489/
 
-13. Functional compartmentalization of the anconeus. J Anat. 2026. PMID 41981937.  
+10. McGee JG et al. Anconeus compartmentalization. 2026. PMID 41981937.  
     https://pubmed.ncbi.nlm.nih.gov/41981937/
 
-## 50. Next dependencies
+11. Mechanical properties of the bicipital aponeurosis. 2025. PMID 39746286.  
+    https://pubmed.ncbi.nlm.nih.gov/39746286/
 
-- ANA-06 forearm/wrist/hand;
-- ANA-11 muscle architecture;
-- ANA-12 nerves;
-- MEC elbow/forearm mechanics;
-- TEC arm exercise selection.
+12. Beneš M et al. Distal biceps surgical anatomy. 2025. PMID 40966048.  
+    https://pubmed.ncbi.nlm.nih.gov/40966048/
+
+## 32. Closure
+
+Closure audit:
+`passes/02_anatomy/ANA-05/PASS-02_closure_audit_and_synthesis.md`.
+
+Result:
+**no project-relevant blocker remains.**
+
+ANA-05 = **CLOSED_FOR_PRACTICE v2.0**.
+
+## 33. Next dependency
+
+**ANA-06 — Forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces.**
