@@ -18,7 +18,7 @@ Use this file to recover work after a new chat or lost context.
 - Assistant role: **Kira**.
 - Branch: `research/psychology-foundation`.
 - Privacy mode: **NO PERSONAL DATA IN REPOSITORY**.
-- Phase A methodology: **IN PROGRESS**.
+- Phase A methodology: **IN PROGRESS — final audit pending**.
 - `PSY-RES-01`: **CLOSED_FOR_PRACTICE v1.0 — 7/7 PASS**.
 - `PSY-RES-02`: **CLOSED_FOR_PRACTICE v1.0 — 8/8 PASS**.
 - `PSY-RES-03`: **CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS**.
@@ -27,12 +27,13 @@ Use this file to recover work after a new chat or lost context.
 - `PSY-RES-06`: **CLOSED_FOR_PRACTICE v1.0 — 12/12 PASS**.
 - `PSY-RES-07`: **CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS**.
 - `PSY-RES-08`: **CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS**.
-- Next block: `PSY-RES-09 — Evidence-to-individual reasoning and uncertainty calibration`.
+- `PSY-RES-09`: **CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS**.
+- Next block: `PSY-RES-10 — Methodology sufficiency audit`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/01_research_methodology/PSY-RES-08_qualitative_and_mixed_methods.md`
+`research/psychology/qualification/01_research_methodology/PSY-RES-09_evidence_to_individual_reasoning_uncertainty_calibration.md`
 
 ## Hard stop condition
 
