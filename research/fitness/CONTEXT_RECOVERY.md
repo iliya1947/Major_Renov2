@@ -155,7 +155,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-15 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **PHY-16 — Endocrine / immune physiology — NOT STARTED**.
+Текущая тема: **PHY-16 — Endocrine / immune physiology — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -205,36 +205,42 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-15/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-16/PASS-01_endocrine_immune_physiology_revalidation.md`
 
-PASS commit: `59ce1e27654910ebf6dba5fa0eb01b245dada5f6`  
-Canonical finding commit: `e0c518c0f014502ed4db94bd6e2d59693b9aa232`
+PASS commit: `cc30b113b67cd22cbd0a23f091b57016dd53d2ce`  
+Evidence-ledger commit: `27cc90f7b69aa956fb456dca057286f192d387c1`
 
-PHY-15/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+PHY-16/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Exact normalized coverage:
+- `areas/03_physiology.md` Sections 17–18 = **18/18 at content level**.
+- Section 17 endocrine = 12/12.
+- Section 18 immune/inflammatory = 6/6.
 
-1. exact Section 16 coverage = **11/11 PASS**;
-2. minute and alveolar ventilation remain distinct;
-3. VT and breathing frequency remain distinct contributors;
-4. pulmonary gas exchange remains ventilation + perfusion/V-Q + diffusion;
-5. whole-body O2 transport is not reduced to the lungs;
-6. CO2-removal / VE-VCO2 interpretation is bounded correctly;
-7. exercise hyperpnea remains multi-controller;
-8. respiratory-muscle work/fatigue is retained without universalization;
-9. aerobic and resistance respiratory responses remain distinct;
-10. ordinary endurance adaptation remains separated from targeted IMT/RMT;
-11. healthy respiratory reserve is substantial but not unlimited;
-12. EFL/EIAH are retained as high-demand context-dependent limitations;
-13. unexplained dyspnea/desaturation remains MED-owned;
-14. no project-relevant blocker remains;
-15. first canonical `PHY-15_respiratory_exercise_physiology.md` created.
+PASS-01 established:
+
+1. resting endocrine physiology is multi-axis and strongly context dependent;
+2. catecholamines and cortisol are acute integrative regulators, not training-quality/readiness scores;
+3. contraction-mediated glucose uptake is separated from insulin-mediated uptake;
+4. glucagon is retained as hepatic counter-regulation within insulin/catecholamine/nutrition context;
+5. acute testosterone/GH responses are separated from hypertrophy causality;
+6. circulating IGF-1 is separated from local muscle/interstitial IGF signaling;
+7. acute systemic hormonal responses are separated from local chronic adaptation;
+8. chronic endocrine adaptation is not reduced to one universal resting hormone profile;
+9. sleep, energy availability and non-training stress are explicit endocrine/inflammatory modifiers;
+10. acute cytokine/myokine responses are separated from pathological inflammation;
+11. postexercise immune-cell changes are treated as trafficking/redistribution rather than automatic immunosuppression;
+12. habitual exercise immune/inflammatory effects are retained with biomarker-certainty limits;
+13. exercise stress, under-recovery and infection susceptibility are treated as multi-factorial rather than a universal “open window”;
+14. clinical endocrine/immune disease remains MED-owned;
+15. no content-level blocker was found;
+16. canonical PHY-16 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**PHY-16/PASS-01 — Endocrine / immune physiology content revalidation.**
+**PHY-16/PASS-02 — Closure audit and synthesis.**
 
-PHY-16 has not been started. After the next one block, save state and STOP.
+After PASS-02 save state and STOP. Do not start PHY-17 automatically.
 
 ---
 
@@ -250,9 +256,9 @@ PHY-16 has not been started. After the next one block, save state and STOP.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-15/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-16/PASS-01_endocrine_immune_physiology_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-16/PASS-01 endocrine / immune physiology content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **PHY-16/PASS-02 closure audit and synthesis** и остановиться перед PHY-17.
 
 ---
 
