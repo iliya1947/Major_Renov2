@@ -227,11 +227,11 @@ Stage 2 / Phase B продолжается.
 13. PHY-10 = **CLOSED_FOR_PRACTICE v2.0**.
 14. PHY-11 = **CLOSED_FOR_PRACTICE v2.0**.
 15. PHY-12 = **CLOSED_FOR_PRACTICE v2.0**.
-16. PHY-12/PASS-01 content revalidation завершён.
-17. PHY-12/PASS-02 closure audit / synthesis завершён; exact Section 13 coverage **12/12 PASS**.
-18. Первый canonical PHY-12 finding создан как v2.0.
-19. Следующий один блок: **PHY-13 — Bone physiology**.
-20. Следующий topic автоматически не запускать; сохраняется one block → state update → STOP.
+16. PHY-13 = **RESEARCHING**.
+17. PHY-13/PASS-01 content revalidation завершён; exact Section 14 coverage **10/10 at content level**.
+18. PHY-13 closure audit / synthesis ещё не выполнен; canonical finding ещё не создан.
+19. Следующий один блок: **PHY-13/PASS-02 — Closure audit and synthesis**.
+20. PHY-14 автоматически не запускать после PASS-02; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -248,7 +248,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **PHY-13 — Bone physiology**.
+Ближайшая задача: Stage 2 / Phase B — **PHY-13/PASS-02 — Closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат

@@ -149,7 +149,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-12 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-13 — Bone physiology**.
+Текущая тема: **PHY-13 — Bone physiology — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -199,39 +199,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-12/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-13/PASS-01_bone_physiology_revalidation.md`
 
-PHY-12 = **CLOSED_FOR_PRACTICE v2.0**.
+PHY-13/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Canonical finding:
+Exact content coverage:
+- `areas/03_physiology.md` Section 14 = **10/10 at content level**.
 
-`research/fitness/findings/03_physiology/PHY-12_tendon_ligament_connective_adaptation.md`
+PASS-01 established:
 
-Closure established:
-
-1. exact `areas/03_physiology.md` Section 13 coverage = **12/12 PASS**;
-2. tendon stiffness, Young's modulus and CSA are separate outcomes;
-3. mechanics/material properties and morphology can adapt asynchronously;
-4. acute/short-term collagen/protein synthesis is not treated as a chronic tendon-adaptation surrogate;
-5. tendon ECM remodeling is broader than collagen quantity alone;
-6. viscoelasticity is retained with lower generic chronic-training confidence than stiffness/modulus;
-7. tendon adaptation follows multiple outcome-specific clocks and no universal time course is imposed;
-8. load tolerance is a task-specific longitudinal construct rather than one stiffness number;
-9. human tendon RT adaptation is well supported;
-10. local tendon strain/loading magnitude is separated from external %1RM;
-11. ligament adaptation is bounded by limited direct adult-human longitudinal training evidence;
-12. fascia anatomy/mechanobiology is retained while special chronic “fascia training” claims are rejected without direct evidence;
-13. enthesis mechanobiology is retained with limited direct adult-human chronic-training evidence;
-14. muscle–tendon mismatch is retained without a universal “tendon always slower” law;
-15. performance improvement is not treated as universal connective-tissue readiness;
-16. no project-relevant blocker remains;
-17. first canonical PHY-12 finding was created at v2.0.
+1. bone remodeling is a coupled osteoclast–osteoblast process coordinated substantially by osteocytes;
+2. serum bone-turnover markers are separated from direct cell balance and whole-bone adaptation;
+3. osteocyte mechanotransduction is retained without converting molecular pathways into a human exercise prescription;
+4. BMD is important but separated from geometry, microarchitecture, material quality and estimated mechanical strength;
+5. exercise produces site-specific bone adaptation and pooled BMD benefits are generally modest;
+6. magnitude, loading rate, direction/distribution, cycle structure/rest and novelty are all relevant mechanical-signal dimensions;
+7. external load, %1RM and jump height are not equated to local bone strain;
+8. resistance and impact/high-rate loading are both retained as osteogenic modalities without one universal best method;
+9. heavier RT is not assumed to produce proportionally greater BMD benefit;
+10. bone adaptation follows multiple clocks: acute turnover/signaling, density, geometry and strength do not change simultaneously;
+11. aging modifies remodeling, matrix/microarchitecture and osteocyte mechanosensitivity;
+12. low energy availability is retained as a negative modifier of bone remodeling/health;
+13. osteopenia/osteoporosis, fragility fracture and clinical bone-stress questions remain MED-owned;
+14. exact Section 14 coverage = 10/10 at content level;
+15. no content-level blocker was found;
+16. canonical PHY-13 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**Phase B / PHY-13 — Bone physiology.**
+**PHY-13/PASS-02 — Closure audit and synthesis.**
 
-После следующего одного блока сохранить state и STOP. Не открывать PHY-14 автоматически.
+После PASS-02 сохранить state и STOP. Не начинать PHY-14 автоматически.
 
 ---
 
@@ -247,9 +245,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-12/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-13/PASS-01_bone_physiology_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-13 — Bone physiology** и остановиться перед следующим topic.
+Затем выполнить только записанный выше **PHY-13/PASS-02 closure audit and synthesis** и остановиться перед PHY-14.
 
 ---
 
