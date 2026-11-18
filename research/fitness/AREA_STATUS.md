@@ -8,6 +8,7 @@
 - `MAP_READY` — карта тем области предварительно готова.
 - `RESEARCHING` — идёт системное исследование.
 - `RESEARCH_COMPLETE` — все канонические темы области прошли глубокое исследование текущей версии.
+- `SUFFICIENT_FOR_NEXT_PHASE` — область имеет достаточный operational baseline, чтобы не блокировать downstream research; оставшиеся неблокирующие темы проверяются по триггеру.
 - `SYNTHESIZED` — основные выводы синтезированы.
 - `APPLIED` — выводы использованы в персональной программе.
 
@@ -25,7 +26,7 @@
 | 10 | Восстановление | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 11 | Питание и добавки | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 12 | Психология, СДВГ и приверженность | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 13 | Методология исследований | MAP_READY | RESEARCHING | NOT_STARTED | NOT_STARTED |
+| 13 | Методология исследований | MAP_READY | SUFFICIENT_FOR_NEXT_PHASE | OPERATIONAL_BASELINE | NOT_STARTED |
 | 14 | Индивидуализация и принятие решений | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 15 | Общая физическая подготовка | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 
