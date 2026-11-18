@@ -15,7 +15,9 @@
 - **ANA-03 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-03/PASS-01 structural-foundation revalidation completed 2026-11-18.
 - ANA-03/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT NEXT: **Phase B / ANA-04 — Shoulder complex.**
+- CURRENT: **Phase B / ANA-04 — Shoulder complex.**
+- ANA-04/PASS-01 structural-functional revalidation completed 2026-11-18.
+- CURRENT NEXT: **ANA-04 closure audit / synthesis**. Do not start ANA-05 before ANA-04 closure.
 
 ## История текущего revalidation cycle
 
@@ -348,3 +350,9 @@
 267. ANA-03 = **CLOSED_FOR_PRACTICE v2.0**.
 268. No one-perfect-posture / atlas-symmetry assumption remains in canonical finding.
 269. Следующий один блок: **ANA-04 — Shoulder complex**.
+
+270. Завершён **ANA-04/PASS-01 — Shoulder complex structural-functional revalidation**.
+271. SC/AC/GH + functional ST architecture, clavicle/scapula/humerus, labrum/capsule/ligaments, cuff, deltoid, periscapular/axiohumeral muscles and long-head biceps relationship revalidated.
+272. 2025 systematic review retained as the current scapular-kinematics synthesis: no universal setting phase or constant scapulohumeral ratio; do not replace with another fixed number.
+273. Normal shoulder morphology/kinematics variability remains part of the canonical baseline; no one visually “correct” trajectory is inferred from anatomy alone.
+274. Следующий один блок: **ANA-04 closure audit / synthesis**.
