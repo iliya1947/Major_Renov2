@@ -121,7 +121,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-13 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **ANA-14 — Surface anatomy / landmarks**.
+Текущая тема: **ANA-14 — Surface anatomy / landmarks**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -171,43 +171,42 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-13/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-14/PASS-01_surface_anatomy_landmarks_revalidation.md`
 
-ANA-13 = **CLOSED_FOR_PRACTICE v2.0**.
+Commit PASS-01:
 
-Canonical finding:
+`006ec4ee9c42d8614604cc4128a8329d9cdc8797`
 
-`research/fitness/findings/02_anatomy/ANA-13_cardio_respiratory_anatomy.md`
+ANA-14/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+
+Current branch note:
+**отдельного legacy ANA-14 finding-файла нет; canonical finding создаётся только после closure audit.**
 
 
 ### Следующая задача
 
-**Phase B / ANA-14 — Surface anatomy / landmarks.**
+**ANA-14 closure audit / synthesis.**
 
-Последние завершённые блоки:
+Последний завершённый блок:
 
-1. `research/fitness/passes/02_anatomy/ANA-13/PASS-01_cardio_respiratory_anatomy_revalidation.md`
-2. `research/fitness/passes/02_anatomy/ANA-13/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-14/PASS-01_surface_anatomy_landmarks_revalidation.md`
 
-ANA-13 status:
-**CLOSED_FOR_PRACTICE v2.0**.
+PASS-01 установил:
 
-Closure established:
+1. exact `areas/02_anatomy.md` Section 17 coverage = **6/6 items** at content level;
+2. anatomical landmark, surface proxy and diagnosis are explicitly different categories;
+3. prominent superficial bony landmarks are useful for repeatable measurements, while PSIS/spinal/scapular/deep landmarks can have materially greater localization uncertainty;
+4. visually identifiable muscle contours describe approximate surface regions, not activation, force or deep anatomy;
+5. circumference measurements are protocol-dependent; exact site, side, joint/body position, contraction state, tape orientation/tension and respiration must be standardized;
+6. NHANES provides concrete arm/waist/hip examples; current ISAK framework reinforces standardized anthropometric training/precision;
+7. ISB joint-coordinate standards use surface anatomical landmarks, but a skin landmark is not automatically the internal joint center;
+8. marker-placement error and soft-tissue artifact can materially distort kinematic estimates;
+9. surface landmarks can describe exercise segment positions but cannot define one universally safe/optimal path;
+10. visual/palpatory asymmetry is observation rather than diagnosis;
+11. no content blocker found;
+12. no legacy ANA-14 finding exists in current branch, so closure should create `findings/02_anatomy/ANA-14_surface_anatomy_landmarks.md` if audit passes.
 
-1. exact `areas/02_anatomy.md` Sections 15–16 coverage = **13/13 PASS**;
-2. artery/vein definitions are directional relative to heart, not oxygenation labels;
-3. heart = four chambers + four major valves + great vessels;
-4. systemic and pulmonary circuits are internally consistent and bronchial lung circulation is separated;
-5. major upper/lower limb arterial routes and superficial/deep venous systems are sufficient for fitness use;
-6. capillary level is closed structurally, with exchange physiology deferred;
-7. conducting airway, respiratory/alveolar units, lungs and pleura are structurally separated;
-8. diaphragm and thoracic cage are cross-referenced to ANA-07/ANA-03 rather than redundantly reopened;
-9. intercostal/accessory respiratory-muscle wording avoids rigid one-muscle inspiratory/expiratory rules;
-10. anatomy/PHY/BIO/MEC/MED/TST boundaries are explicit;
-11. no project-relevant blocker remains;
-12. because no legacy ANA-13 finding existed, the first canonical `ANA-13_cardio_respiratory_anatomy.md` was created at v2.0.
-
-Следующий один блок: **ANA-14 — Surface anatomy / landmarks**. После него сохранить state и STOP.
+Следующий блок: **ANA-14 closure audit / synthesis**. Do not start ANA-15 in the same working block.
 
 ---
 
@@ -223,9 +222,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-13/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-14/PASS-01_surface_anatomy_landmarks_revalidation.md`
 
-Затем выполнить только записанный выше **ANA-14** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **ANA-14 closure audit / synthesis** и остановиться перед ANA-15.
 
 ---
 
