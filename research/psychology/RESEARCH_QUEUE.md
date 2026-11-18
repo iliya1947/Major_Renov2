@@ -11,6 +11,7 @@
 - **PSY-RES-03 — CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS.**
 - **PSY-RES-04 — CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS.**
 - **PSY-RES-05 — CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS.**
+- **PSY-RES-06 — CLOSED_FOR_PRACTICE v1.0 — 12/12 PASS.**
 
 ## Completed
 
@@ -34,32 +35,35 @@ Canonical block:
 Canonical block:
 `research/psychology/qualification/01_research_methodology/PSY-RES-05_systematic_reviews_meta_analysis_heterogeneity_publication_bias.md`
 
+### PSY-RES-06 — Replication, generalizability, individual differences, and transportability
+Canonical block:
+`research/psychology/qualification/01_research_methodology/PSY-RES-06_replication_generalizability_individual_differences_transportability.md`
+
 Established:
 
-1. systematic review != meta-analysis;
-2. search/selection/extraction are part of inference, not clerical preprocessing;
-3. primary-study risk of bias survives into pooled evidence;
-4. pooling requires construct and estimand compatibility;
-5. SMD standardizes units, not construct meaning;
-6. fixed-effect and random-effects models represent different summaries;
-7. random effects do not erase heterogeneity;
-8. I² is not a universal quality threshold;
-9. Tau² and prediction intervals are required where useful to understand effect dispersion;
-10. subgroup/meta-regression claims are observational and constrained;
-11. publication/non-reporting bias is assessed as missing-evidence mechanism;
-12. funnel asymmetry != publication-bias diagnosis;
-13. non-significant asymmetry test != absence of bias;
-14. certainty != pooled P value or pooled effect alone;
-15. PRISMA reporting != validity certification;
-16. review-level risk of bias is separate from primary-study risk of bias;
-17. dependent effect sizes and construct proliferation are psychology-specific synthesis hazards;
-18. a 34-question Evidence Synthesis Gate is now canonical.
+1. computational reproducibility != independent replicability;
+2. replication is diagnostic evidence about a claim, not a p-value ritual;
+3. direct and conceptual replication answer different questions;
+4. replication discrepancies can reveal narrower boundary conditions rather than only "right/wrong" studies;
+5. successful replication extends generality only across dimensions actually varied;
+6. constraints on generality must specify participants, materials/stimuli, procedures, settings, and time where relevant;
+7. nonrepresentative sampling does not automatically invalidate internal inference, but external transfer requires an explicit argument;
+8. WEIRD samples cannot silently support universal-human claims;
+9. statistical scope must match verbal generalization scope;
+10. target population must be explicit before transport;
+11. transportability depends on sample-participation exchangeability, overlap/positivity, consistency, and measured effect modifiers;
+12. SATE can differ from PATE;
+13. average effect != individual causal effect;
+14. subgroup effect remains a reference-class average;
+15. between-person association != within-person mechanism;
+16. a Generalization Ladder from computational reproduction to individual dynamic evidence is now canonical;
+17. a 33-question Replication and Generalization Gate is now canonical.
 
 ## Current next action
 
-**PSY-RES-06 — Replication, generalizability, individual differences, and transportability.**
+**PSY-RES-07 — Clinical versus non-clinical inference boundaries.**
 
-Goal: establish when psychological findings can be expected to reproduce, generalize across settings/populations, and transfer from group-level evidence to a new individual or context.
+Goal: establish when ordinary psychological variation, symptoms, screening results, distress, impairment, syndromes, and formal diagnosis may or may not be inferred from available evidence.
 
 ## Deferred
 
