@@ -125,7 +125,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-15 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-01 — Principles of adaptation**.
+Последняя закрытая тема: **PHY-01 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-02 — Muscle cell and contraction**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -175,45 +177,43 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-01/PASS-01_principles_of_adaptation_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-01/PASS-02_closure_audit_and_synthesis.md`
 
-Commit PASS-01:
+PHY-01 = **CLOSED_FOR_PRACTICE v2.0**.
 
-`9ecfc7d74b3d0eb588a23886d6dc29445aa18541`
+Canonical finding:
 
-PHY-01/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
-
-Current branch note:
-**отдельного legacy PHY-01 finding-файла нет; canonical finding создаётся только после closure audit.**
+`research/fitness/findings/03_physiology/PHY-01_principles_of_adaptation.md`
 
 
 ### Следующая задача
 
-**PHY-01 closure audit / synthesis.**
+**Phase B / PHY-02 — Muscle cell and contraction.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/03_physiology/PHY-01/PASS-01_principles_of_adaptation_revalidation.md`
+1. `research/fitness/passes/03_physiology/PHY-01/PASS-01_principles_of_adaptation_revalidation.md`
+2. `research/fitness/passes/03_physiology/PHY-01/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+PHY-01 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. exact `areas/03_physiology.md` Section 1 coverage = **12/12 items** at content level;
-2. homeostasis and allostasis are complementary regulatory concepts, not competing prescriptions;
-3. training sequence is modeled as stimulus → acute response/perturbation → recovery/remodeling → retained adaptation, without assuming every acute response predicts chronic gain;
-4. acute biomarkers, soreness, swelling, hormones and fatigue are not automatic surrogates for chronic adaptation;
-5. overload means maintaining/progressing an effective target-specific stimulus and is not equivalent to adding load every session;
-6. dose-response is multidimensional, outcome-specific and commonly nonlinear with diminishing returns;
-7. specificity is graded rather than binary; transfer can occur;
-8. reversibility is outcome/time dependent rather than instantaneous;
-9. repeated exposure modifies later response, including repeated-bout protection;
-10. observed individual variability includes biology, actual dose, measurement error and within-person variability; stable responder/nonresponder labels require repeated evidence;
-11. different tissues/systems have different recovery/adaptation time courses;
-12. fatigue is separable from retained adaptation and is not a proxy for stimulus quality;
-13. fitness-fatigue, allostatic-load and supercompensation models are retained only as bounded conceptual tools;
-14. no content blocker found;
-15. no legacy PHY-01 finding exists in current branch, so closure should create `findings/03_physiology/PHY-01_principles_of_adaptation.md` if audit passes.
+Closure established:
 
-Следующий блок: **PHY-01 closure audit / synthesis**. Do not start PHY-02 in the same working block.
+1. exact `areas/03_physiology.md` Section 1 coverage = **12/12 PASS**;
+2. acute response and chronic adaptation are separate evidence domains;
+3. overload is multidimensional and target-specific, not load-on-bar progression only;
+4. dose-response is outcome-specific, nonlinear and subject to diminishing returns;
+5. specificity is graded and transfer can occur;
+6. reversibility is time/outcome dependent rather than instantaneous;
+7. stable responder/nonresponder traits cannot be inferred from one block;
+8. different tissues/systems recover and adapt on different time courses;
+9. fatigue is separable from retained adaptation and is not an effectiveness proxy;
+10. allostasis, fitness-fatigue and supercompensation remain bounded conceptual models rather than literal universal laws;
+11. no project-relevant blocker remains;
+12. because no legacy PHY-01 finding existed, the first canonical `PHY-01_principles_of_adaptation.md` was created at v2.0.
+
+Следующий один блок: **PHY-02 — Muscle cell and contraction**. После него сохранить state и STOP.
 
 ---
 
@@ -229,9 +229,9 @@ PASS-01 установил:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-01/PASS-01_principles_of_adaptation_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-01/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-01 closure audit / synthesis** и остановиться перед PHY-02.
+Затем выполнить только записанный выше **PHY-02** и остановиться перед следующим блоком.
 
 ---
 
