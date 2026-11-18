@@ -97,7 +97,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-01 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **ANA-02 — levels / tissues of musculoskeletal structural organization**.
+Текущая тема: **ANA-02 — levels / tissues of musculoskeletal structural organization**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -157,27 +157,24 @@ PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgem
 
 ### Следующая задача
 
-**Phase B / ANA-02 — Levels / tissues of musculoskeletal structural organization.**
+**ANA-02 closure audit / synthesis.**
 
-Последние завершённые блоки:
+Последний завершённый блок:
 
-1. `research/fitness/passes/02_anatomy/ANA-01/PASS-01_core_anatomical_terminology_revalidation.md`
-2. `research/fitness/passes/02_anatomy/ANA-01/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-02/PASS-01_musculoskeletal_tissue_structural_map_revalidation.md`
 
-ANA-01 status:
-**CLOSED_FOR_PRACTICE v2.0**.
+PASS-01 установил:
 
-Closure established:
+1. core bone/cartilage/joint/tendon/ligament/MTJ/enthesis architecture revalidated;
+2. MTJ = muscle–tendon interface; enthesis = soft-tissue–bone attachment;
+3. 2026 enthesis review confirms graded fibrocartilaginous transition and enthesis-organ concept at relevant sites;
+4. healthy articular cartilage remains avascular/aneural and is treated as part of an integrated joint interface rather than an isolated cushion;
+5. meniscus = fibrocartilaginous load-distributing/stabilizing structure, not just “shock absorber”;
+6. fascia ontology is contested in current 2025–2026 literature; project uses named fasciae/septa and does not assume a universal “fascial system” or long-range chain effect;
+7. anatomy/physiology/biomechanics/pathology boundaries remain explicit;
+8. no content blocker was found, but canonical closure requires separate audit/synthesis.
 
-1. TA2 remains current published IFAA/FIPAT Terminologia Anatomica on official sources checked 2026-11-18.
-2. TA2.5 is a planned future publication, not current replacement.
-3. Core anatomical position, directions, planes, conventional axes and movement terminology are sufficient for downstream research.
-4. Pronation/supination are treated as radioulnar forearm motions, not wrist rotation.
-5. Scapular and humeral movement terminology is kept separate.
-6. Detailed 3D coordinate/joint-axis mechanics is intentionally deferred to MEC / region-specific topics.
-7. No project-relevant ANA-01 blocker remains.
-
-Следующий один блок: **ANA-02**. После него сохранить state и STOP.
+Следующий блок: **ANA-02 closure audit / synthesis**. Do not start ANA-03 in the same working block.
 
 ---
 
