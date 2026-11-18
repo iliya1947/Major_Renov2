@@ -39,7 +39,9 @@
 - **ANA-11 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-11/PASS-01 muscle-organization/architecture revalidation completed 2026-11-18.
 - ANA-11/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT NEXT: **Phase B / ANA-12 — Нервная анатомия движения.**
+- CURRENT: **Phase B / ANA-12 — Нервная анатомия движения.**
+- ANA-12/PASS-01 nervous-anatomy-of-movement revalidation completed 2026-11-18; current branch has no legacy ANA-12 finding file.
+- CURRENT NEXT: **ANA-12 closure audit / synthesis**. Do not start ANA-13 before ANA-12 closure.
 
 ## История текущего revalidation cycle
 
@@ -471,3 +473,10 @@
 350. Human serial-sarcomere intervention evidence retained with direct-sarcomere-length vs calculated-serial-number distinction; PCSS remains bioRxiv preprint/emerging.
 351. Existing ledger ANA11-01…ANA11-06 is sufficient for closure; no extra claim required.
 352. Следующий один блок: **ANA-12 — Нервная анатомия движения**.
+
+353. Завершён **ANA-12/PASS-01 — Nervous anatomy of movement revalidation**.
+354. Exact area-map coverage: **19/19 items** — cord/spinal nerves/roots/rami/plexuses, five major upper-limb terminal nerves, lumbosacral plexus and five major lower-limb nerves, myotome/dermatome, motor unit, spindle/GTO.
+355. Root ≠ ramus and brachial-plexus “roots” = ventral rami are explicitly separated; root/myotome maps are kept distinct from named peripheral nerve territories.
+356. Current variation evidence added for upper-limb nerve communications, lumbar/lumbosacral plexus and sciatic division/course; maps remain modal rather than personal absolutes.
+357. No legacy ANA-12 finding exists in current branch; canonical finding will be created only if closure audit passes.
+358. Следующий один блок: **ANA-12 closure audit / synthesis**.
