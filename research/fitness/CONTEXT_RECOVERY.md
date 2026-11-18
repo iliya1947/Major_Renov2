@@ -147,7 +147,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-11 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-12 — Tendon/ligament/connective adaptation**.
+Текущая тема: **PHY-12 — Tendon/ligament/connective adaptation — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -197,37 +197,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-11/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-12/PASS-01_tendon_ligament_connective_adaptation_revalidation.md`
 
-PHY-11 = **CLOSED_FOR_PRACTICE v2.0**.
+PHY-12/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Canonical finding:
+Exact content coverage:
+- `areas/03_physiology.md` Section 13 = **12/12 at content level**.
 
-`research/fitness/findings/03_physiology/PHY-11_muscle_damage_doms_rbe.md`
+PASS-01 established:
 
-Closure established:
-
-1. exact `areas/03_physiology.md` Section 12 coverage = **10/10 PASS**;
-2. EIMD is heterogeneous and not reducible to one indirect marker;
-3. DOMS is a perceptual/nociceptive response rather than a quantitative structural-damage measure;
-4. soreness is separated from workout quality and hypertrophy stimulus;
-5. inflammation is retained as repair/remodeling biology without becoming a surrogate;
-6. edema is separated from retained hypertrophy and can contaminate early size measurements;
-7. temporary strength loss is retained as a functionally relevant EIMD outcome;
-8. repeated-bout effect is established for MVC/DOMS/CK and is time/outcome specific;
-9. RBE mechanisms remain multi-factorial, with peripheral contractile protection more consistently supported than central/neural explanations;
-10. eccentric loading is separated from inevitable damage;
-11. damage and DOMS are rejected as necessary or validated hypertrophy dose markers;
-12. excessive damage is recognized as a potential cost to subsequent training quality;
-13. severe/atypical symptoms are routed to MED rather than normalized as ordinary DOMS;
-14. no project-relevant blocker remains;
-15. first canonical PHY-11 finding was created at v2.0.
+1. tendon stiffness, Young's modulus and CSA are separate mechanical/material/morphological outcomes;
+2. human chronic-loading evidence strongly supports tendon stiffness/modulus adaptation and smaller/more variable CSA adaptation;
+3. tendon mechanics and morphology can change asynchronously;
+4. collagen synthesis/remodeling is retained without using acute synthesis as a chronic structural surrogate;
+5. viscoelastic behavior is real, but generic chronic RT direction is less certain than stiffness/modulus adaptation;
+6. tendon adaptation follows multiple outcome-specific clocks and no universal time course is established;
+7. load tolerance is treated as a longitudinal/task-specific operational construct rather than one tissue metric;
+8. human RT evidence supports tendon adaptation, with local strain/loading magnitude important;
+9. external %1RM is not equated to local tendon strain;
+10. ligament adaptation is retained with limited direct adult-human longitudinal training evidence;
+11. fascia anatomy/mechanobiology is retained while broad special “fascia training” claims are rejected without direct evidence;
+12. enthesis mechanobiology is retained with limited direct adult-human chronic RT evidence;
+13. muscle and tendon can adapt asynchronously, but “tendon always adapts slower than muscle” is rejected as a universal rule;
+14. exact Section 13 coverage = 12/12 at content level;
+15. no content-level blocker was found;
+16. canonical PHY-12 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**Phase B / PHY-12 — Tendon/ligament/connective adaptation.**
+**PHY-12/PASS-02 — Closure audit and synthesis.**
 
-После следующего одного блока сохранить state и STOP. Не открывать PHY-13 автоматически.
+После PASS-02 сохранить state и STOP. Не начинать PHY-13 автоматически.
 
 ---
 
@@ -243,9 +243,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-11/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-12/PASS-01_tendon_ligament_connective_adaptation_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-12 — Tendon/ligament/connective adaptation** и остановиться перед следующим topic.
+Затем выполнить только записанный выше **PHY-12/PASS-02 closure audit and synthesis** и остановиться перед PHY-13.
 
 ---
 

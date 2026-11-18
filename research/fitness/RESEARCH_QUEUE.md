@@ -100,7 +100,9 @@
 - PHY-11/PASS-01 muscle-damage/DOMS/repeated-bout-effect content revalidation completed 2026-11-18.
 - PHY-11/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 12 coverage = **10/10 PASS** and no project-relevant blocker remains.
 - First canonical PHY-11 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **Phase B / PHY-12 — Tendon/ligament/connective adaptation.**
+- **PHY-12 — RESEARCHING.**
+- PHY-12/PASS-01 tendon/ligament/connective-tissue adaptation content revalidation completed 2026-11-18; exact Section 13 coverage = **12/12 at content level**; closure audit/synthesis pending.
+- CURRENT NEXT: **PHY-12/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
