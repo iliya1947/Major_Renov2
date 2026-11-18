@@ -21,7 +21,9 @@
 - **ANA-05 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-05/PASS-01 structural-functional revalidation completed 2026-11-18.
 - ANA-05/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT NEXT: **Phase B / ANA-06 — Forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces.**
+- CURRENT: **Phase B / ANA-06 — Forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces.**
+- ANA-06/PASS-01 forearm-wrist-hand-grip revalidation completed 2026-11-18.
+- CURRENT NEXT: **ANA-06 closure audit / synthesis**. Do not start ANA-07 before ANA-06 closure.
 
 ## История текущего revalidation cycle
 
@@ -378,3 +380,9 @@
 287. ANA-05 = **CLOSED_FOR_PRACTICE v2.0**.
 288. No additional evidence-ledger claim was required beyond ANA05-01…ANA05-05; uncertainty around anconeus compartment function remains explicit.
 289. Следующий один блок: **ANA-06 — Forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces**.
+
+290. Завершён **ANA-06/PASS-01 — Forearm, wrist, hand and grip structural-functional revalidation**.
+291. Radius/ulna/IOM/PRUJ/DRUJ rotation system, TFCC, flexor-pronator/extensor-supinator compartments, wrist complex, retinacula/sheaths, intrinsic/extrinsic hand muscles and grip architecture revalidated.
+292. Current 2026 TFCC review added a multi-component 3D model; current 2026 wrist-extensor reference reinforces grip stabilization by wrist extensors.
+293. Palmar-interosseous count retained as convention/variation-dependent rather than rigid “always three/four”.
+294. Следующий один блок: **ANA-06 closure audit / synthesis**.
