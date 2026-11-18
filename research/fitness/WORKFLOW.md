@@ -225,12 +225,12 @@ Stage 2 / Phase B продолжается.
 11. ANA-09 = **CLOSED_FOR_PRACTICE v2.0**.
 12. ANA-10 = **CLOSED_FOR_PRACTICE v2.0**.
 13. ANA-11 = **CLOSED_FOR_PRACTICE v2.0**.
-14. Текущая тема: **ANA-12 — Нервная анатомия движения**.
-15. **ANA-12/PASS-01 — nervous anatomy of movement revalidation** завершён 2026-11-18.
-16. Exact area-map coverage = **19/19 items**; current branch has no legacy ANA-12 finding file.
-17. Current updates: root≠ramus; plexus roots = ventral rami; myotome/dermatome separated from named-nerve territories; upper/lower plexus and peripheral-nerve variation retained; spindle/GTO kept at structural pre-NEU level.
-18. Следующий один блок: **ANA-12 closure audit / synthesis**.
-19. ANA-13 автоматически не запускать.
+14. ANA-12 = **CLOSED_FOR_PRACTICE v2.0**.
+15. ANA-12/PASS-01 content revalidation завершён.
+16. ANA-12/PASS-02 closure audit / synthesis завершён; exact area-map coverage 19/19.
+17. Первый canonical ANA-12 finding создан как v2.0.
+18. Следующий один блок: **ANA-13 — Базовая cardio-respiratory anatomy**.
+19. ANA-14 автоматически не запускать после ANA-13; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -247,7 +247,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-12 closure audit / synthesis**; затем STOP.
+Ближайшая задача: Stage 2 / Phase B — **ANA-13 — Базовая cardio-respiratory anatomy**.
 
 
 ## 10. Stage 0B — результат
