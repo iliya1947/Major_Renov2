@@ -169,7 +169,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-01 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-02 — Motor units: recruitment/rate coding — RESEARCHING**.
+Последняя закрытая тема: **NEU-02 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-03 — Sensory feedback / proprioception — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -219,40 +221,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-02/PASS-01_motor_units_recruitment_rate_coding_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-02/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `1daf2129db0ea82fa3db74e1b368c6110858793c`  
-Evidence-ledger commit: `0690f5cff832df3d8f1e856d8d0ca714dc3bb4d7`
+PASS commit: `004a6fb82a7e851d338cb2a5bcc3c218dff023e4`  
+Canonical finding commit: `07ed61e14c9b35a3f1e83033e6c636cb19b7448b`  
+PASS-01 source-status commit: `0f76286dc8192d6846e546b90a9623689c353a08`  
+Evidence-ledger source-status commit: `9d0730365fe51f0bb9c316ff60cb038a33d5ae18`
 
-NEU-02/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-02/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Exact content coverage:
-- `areas/04_neurophysiology_motor_learning.md` Section 2 = **12/12 at content level**.
+Closure result:
 
-PASS-01 established:
-
-1. motor unit = alpha motor neuron + axon/branches + innervated skeletal-muscle fibers;
-2. motor-unit size is multidimensional rather than one EMG-amplitude property;
-3. recruitment threshold is task/context dependent and can shift with force trajectory, muscle length, training/fatigue state and MVC normalization;
-4. size principle remains the default orderly-recruitment architecture without implying rigid identical %MVC thresholds across tasks;
-5. derecruitment is history/neuromodulation dependent and can differ from recruitment threshold;
-6. recruitment and rate coding jointly scale force;
-7. rate coding is separated from temporal summation;
-8. common synaptic input is a core low-dimensional control mechanism;
-9. synchronization is not synonymous with common drive and is not a universal determinant of strength/RFD;
-10. motor-unit behavior across effort is muscle/task/force-profile dependent;
-11. fatigue-related discharge-rate changes are task dependent and are not a universal causal fatigue marker;
-12. slow/fast units are retained as physiological archetypes with continuum and human-measurement limits;
-13. HD-sEMG decomposition provides high-resolution samples rather than a complete census of the active pool;
-14. exact Section 2 coverage = **12/12 at content level**;
-15. no content-level blocker was found;
-16. canonical NEU-02 finding is deferred until closure audit.
+1. exact Area 04 Section 2 coverage = **12/12 PASS**;
+2. motor-unit size remains multidimensional;
+3. recruitment threshold remains task/context dependent;
+4. size principle remains the default orderly-recruitment architecture without rigid task-independent thresholds;
+5. derecruitment remains history/neuromodulation dependent;
+6. recruitment and rate coding jointly regulate force;
+7. rate coding remains distinct from temporal summation;
+8. common synaptic input remains distinct from synchronization;
+9. greater synchronization is not treated as a universal strength/RFD advantage;
+10. effort-level motor-unit behavior remains muscle/task/force-profile dependent;
+11. fatigue-related firing-rate changes are not treated as a universal causal fatigue marker;
+12. slow/fast archetypes remain useful with continuum/human-classification limits;
+13. HD-sEMG samples motor-neuron output rather than fully enumerating the active pool;
+14. PMID 40832332 is retained only as non-critical preprint mechanistic support; PMID 41955226 is the peer-reviewed mouse-classification source;
+15. no project-relevant blocker remains;
+16. first canonical `NEU-02_motor_units_recruitment_rate_coding.md` created.
 
 ### Следующая задача
 
-**NEU-02/PASS-02 — Closure audit and synthesis.**
+**NEU-03/PASS-01 — Sensory feedback / proprioception content revalidation.**
 
-After PASS-02 save state and STOP. Do not start NEU-03 automatically.
+NEU-03 maps to Area 04 Section 3. NEU-03 has not been started. After the next one block, save state and STOP.
 
 ---
 
@@ -268,9 +269,9 @@ After PASS-02 save state and STOP. Do not start NEU-03 automatically.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-02/PASS-01_motor_units_recruitment_rate_coding_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-02/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-02/PASS-02 closure audit and synthesis** и остановиться перед NEU-03.
+Затем выполнить только записанный выше **NEU-03/PASS-01 sensory feedback / proprioception content revalidation** и остановиться перед следующим блоком.
 
 ---
 
