@@ -139,7 +139,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-07 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-08 — Strength physiology**.
+Текущая тема: **PHY-08 — Strength physiology — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -189,44 +189,41 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-07/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-08/PASS-01_strength_physiology_revalidation.md`
 
-PHY-07 = **CLOSED_FOR_PRACTICE v2.0**.
+PHY-08/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Canonical finding:
+Exact content coverage:
+- `areas/03_physiology.md` Section 9 = **15/15 at content level**.
 
-`research/fitness/findings/03_physiology/PHY-07_hypertrophy_mechanisms.md`
+PASS-01 established:
 
-Closure established:
-
-1. exact `areas/03_physiology.md` Section 8 coverage = **23/23 PASS**;
-2. hypertrophy is modeled as repeated net protein accretion driven by repeated mechanical loading with translational/cellular support;
-3. acute MPS and mTORC1 signaling are not used as chronic hypertrophy surrogates;
-4. mechanotransduction is network-based rather than a one-sensor switch;
-5. ribosome biogenesis is retained as sustained translational-capacity biology;
-6. satellite-cell/myonuclear biology is retained without rigid threshold claims;
-7. ECM remodeling is separated from direct myofiber-growth evidence;
-8. protein and energy availability are supportive/limiting factors with detailed prescription deferred to NUT/IND;
-9. mechanical tension is separated from external load, EMG, burn and TUT;
-10. long-muscle-length loading is retained without claiming universal superiority or proven human sarcomerogenesis;
-11. weekly volume has a positive hypertrophy dose-response with diminishing returns and no universal optimum;
-12. hypertrophy occurs across broad load/repetition ranges;
-13. proximity to failure is distinguished from mandatory failure;
-14. frequency is mainly a dose-distribution variable for hypertrophy;
-15. slow tempo is not inherently more hypertrophic;
-16. ROM is interpreted through loaded muscle length; lengthened partials can approximate full ROM in some contexts;
-17. regional hypertrophy and individual variability are explicit;
-18. one block cannot establish stable responder/nonresponder status;
-19. current human evidence does not establish practically meaningful RT-induced hyperplasia;
-20. mechanism importance is separated from prescription controllability/validity;
-21. no project-relevant blocker remains;
-22. first canonical PHY-07 finding was created at v2.0.
+1. strength is a task/test-defined system output rather than a direct proxy for muscle size;
+2. hypertrophy raises force-producing capacity but does not uniquely determine measured strength;
+3. neural adaptation contributes substantially, with detailed mechanisms deferred to NEU and surface EMG not treated as a complete neural-strength measure;
+4. architecture/PCSA and tendon/MTU mechanics are distinct contributors;
+5. tendon stiffness adapts to loading but its causal share of maximal-strength gain remains uncertain;
+6. intermuscular coordination and lift skill/technique contribute to task-specific strength;
+7. dynamic training produces larger trained-dynamic strength gains than transfer to untrained isometric strength;
+8. joint-angle specificity is explicit, especially for isometric training, with transfer beyond one exact angle;
+9. velocity/intent specificity is explicit;
+10. contraction-mode specificity is explicit but not mode-exclusive;
+11. RFD is separated from maximal voluntary force and routed partly to PHY-09;
+12. MVC/MVF is separated from dynamic 1RM;
+13. absolute and relative strength are separate outcomes and scaling method must be stated;
+14. strength endurance is distinct from maximal strength;
+15. strength transfer is graded by task similarity;
+16. heavy-load RT has stronger specificity for maximal dynamic strength;
+17. size–strength dissociation is explained through capacity vs expression;
+18. exact Section 9 coverage = 15/15 at content level;
+19. no content-level blocker was found;
+20. canonical PHY-08 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**Phase B / PHY-08 — Strength physiology.**
+**PHY-08/PASS-02 — Closure audit and synthesis.**
 
-После следующего одного блока сохранить state и STOP. Не открывать PHY-09 автоматически.
+После PASS-02 сохранить state и STOP. Не начинать PHY-09 автоматически.
 
 ---
 
@@ -242,9 +239,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-07/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-08/PASS-01_strength_physiology_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-08 — Strength physiology** и остановиться перед следующим topic.
+Затем выполнить только записанный выше **PHY-08/PASS-02 closure audit and synthesis** и остановиться перед PHY-09.
 
 ---
 
