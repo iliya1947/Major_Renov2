@@ -8,6 +8,14 @@ Stage 2 research order is based on dependency, not area number.
    - enough depth to judge studies, meta-analyses and guidelines;
    - do not turn this into a full academic statistics degree before proceeding.
 
+### Mandatory Phase-A purpose gate
+
+Before starting any new RES pass, answer one operational question:
+
+**What fitness-evidence judgment or later training decision requires this pass?**
+
+If no concrete dependency can be named, do not open the pass. Put the topic in a deferred/watchlist and proceed with the dependency order. RES exists to support appraisal and translation of fitness evidence; exhaustive taxonomy coverage is not a completion criterion.
+
 ## Phase B — biological/mechanical foundation
 
 2. **ANA — Anatomy**
