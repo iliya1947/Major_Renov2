@@ -215,11 +215,12 @@ Stage 2 / Phase B продолжается.
 1. Phase A methodology = **SUFFICIENT_FOR_NEXT_PHASE**.
 2. Текущая область: **02 — Anatomy**.
 3. ANA-01…ANA-14 = **CLOSED_FOR_PRACTICE v2.0**.
-4. ANA-14/PASS-01 content revalidation завершён.
-5. ANA-14/PASS-02 closure audit / synthesis завершён; exact area-map coverage 6/6.
-6. Первый canonical ANA-14 finding создан как v2.0.
-7. Следующий один блок: **ANA-15 — Individual anatomy / anthropometry**.
-8. После ANA-15 автоматически не запускать следующий topic; сохраняется one block → state update → STOP.
+4. Текущая тема: **ANA-15 — Individual anatomy / anthropometry**.
+5. **ANA-15/PASS-01 — individual anatomy / anthropometry revalidation** завершён 2026-11-18.
+6. Exact Sections 18–19 coverage = **18/18 items** at content level; no legacy ANA-15 finding exists in current branch.
+7. Current updates: segment ratios and joint geometry treated as non-deterministic geometry inputs; attachment/belly/tendon variation retained; growth/aging/sex differences kept heterogeneous and individual-overlap aware.
+8. Следующий один блок: **ANA-15 closure audit / synthesis**.
+9. PHY-01 автоматически не запускать.
 
 ## 9. Зафиксированный общий план
 
@@ -236,7 +237,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-15 — Individual anatomy / anthropometry**.
+Ближайшая задача: Stage 2 / Phase B — **ANA-15 closure audit / synthesis**; затем STOP.
 
 
 ## 10. Stage 0B — результат
