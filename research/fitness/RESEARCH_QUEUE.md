@@ -21,9 +21,10 @@
 - **ANA-05 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-05/PASS-01 structural-functional revalidation completed 2026-11-18.
 - ANA-05/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT: **Phase B / ANA-06 — Forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces.**
+- **ANA-06 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-06/PASS-01 forearm-wrist-hand-grip revalidation completed 2026-11-18.
-- CURRENT NEXT: **ANA-06 closure audit / synthesis**. Do not start ANA-07 before ANA-06 closure.
+- ANA-06/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
+- CURRENT NEXT: **Phase B / ANA-07 — Trunk and spine musculature / abdominal wall / erector spinae / multifidus / diaphragm / pelvic-floor structural role.**
 
 ## История текущего revalidation cycle
 
@@ -386,3 +387,9 @@
 292. Current 2026 TFCC review added a multi-component 3D model; current 2026 wrist-extensor reference reinforces grip stabilization by wrist extensors.
 293. Palmar-interosseous count retained as convention/variation-dependent rather than rigid “always three/four”.
 294. Следующий один блок: **ANA-06 closure audit / synthesis**.
+
+295. Завершён **ANA-06/PASS-02 — Closure audit and synthesis**.
+296. Все 10 critical outcomes ANA-06 покрыты; DRUJ/TFCC, wrist complex, retinacula/sheaths, intrinsic/extrinsic hand muscles, grip and extensor mechanism прошли closure.
+297. ANA-06 = **CLOSED_FOR_PRACTICE v2.0**.
+298. Existing ledger ANA06-01…ANA06-05 is sufficient for closure; no extra claim required.
+299. Следующий один блок: **ANA-07 — Trunk and spine musculature / abdominal wall / erector spinae / multifidus / diaphragm / pelvic-floor structural role**.
