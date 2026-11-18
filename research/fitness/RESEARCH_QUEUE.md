@@ -256,7 +256,12 @@
 221. DSR routed as a parent design-science research paradigm/methodological architecture: relevant problem → knowledge grounding → purposeful artifact → build/evaluate search → demonstration → claim-matched evaluation → reusable design knowledge. Classic constructs/models/methods/instantiations retained while allowing broader modern artifact types and design-theory contributions.
 222. Hevner seven guidelines, relevance–rigor–design cycles and Peffers DSRM retained as complementary architectures. Evaluation explicitly treated as multi-episode: FEDS formative/summative + artificial/naturalistic; current MEDS 2026 added for evaluation-program planning; Design Science Validity Framework 2025 adds criterion/causal/context claim-validation routing. DSR kept distinct from ordinary engineering, DBR/EDR, HCD/UCD, generic MMR and causal-effect designs.
 223. DSR = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
-224. Следующий микро-проход: **RES-02/PASS-06F6 — HCD/UCD/co-design/Person-Based Approach boundary and study structures**.
+224. Завершён **PASS-06F6 — HCD/UCD/co-design/Person-Based Approach boundary and study structures**.
+225. HCD/UCD routed as a **design/development framework** rather than an empirical study design. Current ISO 9241-210:2019 remains current after 2025 confirmation; core architecture = explicit users/tasks/environments understanding → user requirements → design solutions → user-centred evaluation with iteration, whole-user-experience and multidisciplinary principles. ISO 9241-11 usability kept distinct from acceptability, feasibility, engagement and behavioural/clinical effectiveness.
+226. Person-Based Approach routed separately as a **health-intervention development approach/methodology** with evidence + theory + person-based qualitative research and Guiding Principles (USER_CONTEXT → DESIGN_OBJECTIVE → KEY_FEATURE). Design Thinking routed as a non-atomic innovation-process family.
+227. Co-design/participatory design/co-production routed as a **participatory design-process/governance layer** rather than inferred from user involvement alone. Current reviews show substantial definition heterogeneity and participant roles ranging from consultation to real shared design authority; EBCD/E2CD are specific sublineages. **Dedicated F6A governance/taxonomy blocker required.**
+228. HCD/UCD and PBA = **TAXONOMY ESTABLISHED FOR RES-02 STRUCTURAL USE**. F-branch remains **RESEARCHING**; RES-02 overall remains **RESEARCHING**.
+229. Следующий микро-проход: **RES-02/PASS-06F6A — co-design / participatory design / co-production / EBCD governance structures**.
 
 ## Правила Stage 2 после restart
 
