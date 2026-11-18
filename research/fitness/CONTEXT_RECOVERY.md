@@ -137,42 +137,44 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F5_Design_Science_Research_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6_HCD_UCD_codesign_PBA_boundary_study_structures.md`
 
-Commit PASS-06F5:
+Commit PASS-06F6:
 
-`9e2d1969ada9f81c00efe53413bc7499c385f3c6`
+`4b2fce46d26853b468013bc612b6e3fa2a7b16ff`
 
-PASS-06F5 established Design Science Research as a parent design-science research paradigm/methodological architecture. Canonical architecture = relevant problem → knowledge grounding → purposeful artifact → build/evaluate search → demonstration → claim-matched evaluation → reusable design knowledge. Artifact routing preserves the classic constructs/models/methods/instantiations lineage while allowing broader modern artifact types. Hevner seven guidelines, the relevance–rigor–design three-cycle view and Peffers DSRM six activities are retained as complementary high-level architectures. Evaluation is explicitly multi-episode: formative/summative and artificial/naturalistic (FEDS), with MEDS 2026 added as the current evaluation-program planning layer. The Design Science Validity Framework 2025 adds criterion/causal/context claim-validation routing. DSR is kept distinct from ordinary engineering/software development, DBR/EDR, HCD/UCD, generic mixed methods and causal-effect designs; embedded empirical designs retain their own inferential identity. DSR taxonomy = ESTABLISHED FOR RES-02 STRUCTURAL USE; F-branch remains RESEARCHING.
+PASS-06F6 established HCD/UCD as a design/development framework and PBA as a distinct health-intervention development approach/methodology. Current ISO 9241-210:2019 remains the HCD reference standard (confirmed in 2025): explicit user/task/environment understanding, user involvement, user-centred evaluation, iteration, whole user experience and multidisciplinary design; core activities = context of use → user requirements → design solutions → evaluation. ISO 9241-11 usability is kept distinct from acceptability, feasibility, engagement and behavioural/clinical effectiveness. PBA retains its characteristic evidence + theory + person-based qualitative research architecture and Guiding Principles chain USER_CONTEXT → DESIGN_OBJECTIVE → KEY_FEATURE. Design Thinking is routed as a non-atomic innovation-process family. Co-design/participatory design/co-production is routed as a participatory process/governance layer rather than inferred from user involvement alone; current literature shows substantial definition and decision-authority heterogeneity, so a dedicated F6A blocker pass is required. F-branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06F6 — HCD/UCD/co-design/Person-Based Approach boundary and study structures**
+**RES-02 / PASS-06F6A — co-design / participatory design / co-production / EBCD governance structures**
 
 Scope следующего micro-pass:
 
-1. ISO HCD/UCD lineage;
-2. human-centred design principles/activities;
-3. context-of-use specification;
-4. user requirements;
-5. iterative design;
-6. prototyping;
-7. usability evaluation;
-8. participatory design;
-9. co-design;
-10. co-production boundary;
-11. design thinking boundary;
-12. Person-Based Approach;
-13. guiding principles;
-14. intervention-development role;
-15. HCD vs DSR;
-16. HCD vs DBR;
-17. HCD vs mixed methods;
-18. usability vs acceptability vs clinical/behavioral effectiveness;
-19. sport/exercise/rehabilitation applications;
-20. quality/reporting/provenance;
-21. identify whether co-design/PBA require separate deep follow-up;
-22. STOP after saved PASS.
+1. participatory-design lineage;
+2. co-design definitions;
+3. co-creation;
+4. co-production;
+5. consultation vs participation vs shared authority;
+6. decision-rights taxonomy;
+7. participant/stakeholder selection;
+8. lived-experience expertise;
+9. power asymmetry;
+10. facilitation;
+11. accessibility and compensation;
+12. conflict/dissent;
+13. prototype ownership;
+14. final-decision authority;
+15. EBCD;
+16. accelerated EBCD;
+17. E2CD;
+18. co-design vs CBPR/PAR;
+19. co-design vs PPI;
+20. co-design vs HCD/PBA;
+21. reporting/provenance;
+22. sport/exercise/rehabilitation applications;
+23. determine whether any further participatory-design blocker remains;
+24. STOP after saved PASS.
 
 ---
 
@@ -189,11 +191,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F5_Design_Science_Research_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6_HCD_UCD_codesign_PBA_boundary_study_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6A_...`
 
 ---
 
