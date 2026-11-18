@@ -120,7 +120,10 @@
 - PHY-16/PASS-01 endocrine/immune physiology content revalidation completed 2026-11-18; normalized scope maps Sections 17–18 = **18/18 at content level**.
 - PHY-16/PASS-02 closure audit / synthesis completed 2026-11-18; normalized Sections 17–18 coverage = **18/18 PASS** and no project-relevant blocker remains.
 - First canonical PHY-16 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **PHY-17 — Integrated physiology.**
+- **PHY-17 — RESEARCHING.**
+- PHY-17/PASS-01 integrated-physiology content revalidation completed 2026-11-18; exact Section 19 coverage = **8/8 at content level**; closure audit/synthesis pending.
+- Added PHY17-01…PHY17-09 to EVIDENCE_LEDGER.
+- CURRENT NEXT: **PHY-17/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
