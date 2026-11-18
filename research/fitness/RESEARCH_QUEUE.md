@@ -56,7 +56,9 @@
 - ANA-15/PASS-02 closure audit / synthesis completed 2026-11-18; exact Sections 18–19 coverage 18/18 and no project-relevant blocker remains.
 - First canonical ANA-15 finding created as v2.0 because no legacy finding existed in the current branch.
 - **ANA-01…ANA-15 — CLOSED_FOR_PRACTICE v2.0; Anatomy dependency complete for current project purpose.**
-- CURRENT NEXT: **Phase B / PHY-01 — Principles of adaptation.**
+- CURRENT: **Phase B / PHY-01 — Principles of adaptation.**
+- PHY-01/PASS-01 adaptation-principles revalidation completed 2026-11-18; exact Section 1 coverage 12/12 at content level and no legacy PHY-01 finding exists in current branch.
+- CURRENT NEXT: **PHY-01 closure audit / synthesis**. Do not start PHY-02 before PHY-01 closure.
 
 ## История текущего revalidation cycle
 
@@ -544,3 +546,11 @@
 398. Existing ledger ANA15-01…ANA15-06 is sufficient for closure.
 399. Anatomy ANA-01…ANA-15 is now **CLOSED_FOR_PRACTICE v2.0** for current downstream fitness dependencies.
 400. Следующий один блок: **PHY-01 — Principles of adaptation**.
+
+401. Завершён **PHY-01/PASS-01 — Principles of adaptation revalidation**.
+402. Exact physiology Section 1 coverage = **12/12 items** at content level.
+403. Acute response vs chronic adaptation, multidimensional overload, nonlinear/outcome-specific dose-response, graded specificity, reversibility, repeated exposure, individual variability, tissue time courses and adaptation-fatigue interaction revalidated.
+404. Stable responder/nonresponder labels are not permitted from one block; current repeated-RT and repeated-endurance evidence differs on reproducibility across domains.
+405. Fitness-fatigue/allostasis/supercompensation models retained as conceptual tools, not literal universal physiological laws.
+406. No legacy PHY-01 finding exists in current branch; canonical finding will be created only if closure audit passes.
+407. Следующий один блок: **PHY-01 closure audit / synthesis**.
