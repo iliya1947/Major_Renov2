@@ -97,7 +97,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-01 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **ANA-02 — levels / tissues of musculoskeletal structural organization**.
+Последняя закрытая тема: **ANA-02 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **ANA-03 — axial skeleton / vertebral column / thoracic cage structural foundation**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -157,24 +159,28 @@ PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgem
 
 ### Следующая задача
 
-**ANA-02 closure audit / synthesis.**
+**Phase B / ANA-03 — Axial skeleton / vertebral column / thoracic cage structural foundation.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-02/PASS-01_musculoskeletal_tissue_structural_map_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-02/PASS-01_musculoskeletal_tissue_structural_map_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-02/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-02 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. core bone/cartilage/joint/tendon/ligament/MTJ/enthesis architecture revalidated;
-2. MTJ = muscle–tendon interface; enthesis = soft-tissue–bone attachment;
-3. 2026 enthesis review confirms graded fibrocartilaginous transition and enthesis-organ concept at relevant sites;
-4. healthy articular cartilage remains avascular/aneural and is treated as part of an integrated joint interface rather than an isolated cushion;
-5. meniscus = fibrocartilaginous load-distributing/stabilizing structure, not just “shock absorber”;
-6. fascia ontology is contested in current 2025–2026 literature; project uses named fasciae/septa and does not assume a universal “fascial system” or long-range chain effect;
-7. anatomy/physiology/biomechanics/pathology boundaries remain explicit;
-8. no content blocker was found, but canonical closure requires separate audit/synthesis.
+Closure established:
 
-Следующий блок: **ANA-02 closure audit / synthesis**. Do not start ANA-03 in the same working block.
+1. all canonical ANA-02 structures are covered;
+2. tendon, ligament, MTJ and enthesis remain structurally distinct;
+3. graded fibrocartilaginous enthesis and enthesis-organ concept are retained;
+4. articular cartilage, capsule/synovium, bursae, tendon sheaths, menisci/discs and labra are differentiated;
+5. muscle–tendon unit (MTU) is now explicitly defined as an integrated muscle + connective-tissue/aponeurotic/tendinous force-transmission unit;
+6. tendon and aponeurosis are not assumed mechanically identical;
+7. fascia ontology remains contested; only named structures and claim-specific evidence are used;
+8. no project-relevant ANA-02 blocker remains.
+
+Следующий один блок: **ANA-03**. После него сохранить state и STOP.
 
 ---
 
