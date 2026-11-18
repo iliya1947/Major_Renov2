@@ -112,7 +112,10 @@
 - PHY-14/PASS-01 cardiovascular-exercise-physiology content revalidation completed 2026-11-18; exact Section 15 coverage = **13/13 at content level**.
 - PHY-14/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 15 coverage = **13/13 PASS** and no project-relevant blocker remains.
 - First canonical PHY-14 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **PHY-15 — Respiratory exercise physiology.**
+- **PHY-15 — RESEARCHING.**
+- PHY-15/PASS-01 respiratory-exercise-physiology content revalidation completed 2026-11-18; exact Section 16 coverage = **11/11 at content level**; closure audit/synthesis pending.
+- Added PHY15-01…PHY15-11 to EVIDENCE_LEDGER.
+- CURRENT NEXT: **PHY-15/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
