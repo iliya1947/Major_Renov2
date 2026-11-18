@@ -199,9 +199,9 @@ PASS-01 установил:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-04/PASS-01_shoulder_complex_structural_functional_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-05/PASS-01_arm_elbow_structural_functional_revalidation.md`
 
-Затем выполнить только записанный выше **ANA-04 closure audit / synthesis** и остановиться перед ANA-05.
+Затем выполнить только записанный выше **ANA-05 closure audit / synthesis** и остановиться перед ANA-06.
 
 ---
 
