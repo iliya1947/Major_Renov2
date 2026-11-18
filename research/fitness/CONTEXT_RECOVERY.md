@@ -113,7 +113,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-09 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **ANA-10 — Голеностоп и стопа**.
+Последняя закрытая тема: **ANA-10 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **ANA-11 — Мышечная организация и архитектура**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -163,40 +165,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-10/PASS-01_ankle_foot_calf_arch_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-10/PASS-02_closure_audit_and_synthesis.md`
 
-Commit PASS-01:
-
-`7d7e1397c021f215eaeed88bbe40de7f9ddd0f57`
-
-ANA-10/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+ANA-10 = **CLOSED_FOR_PRACTICE v2.0**.
 
 
 ### Следующая задача
 
-**ANA-10 closure audit / synthesis.**
+**Phase B / ANA-11 — Мышечная организация и архитектура.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-10/PASS-01_ankle_foot_calf_arch_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-10/PASS-01_ankle_foot_calf_arch_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-10/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-10 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. talocrural joint is the main dorsiflexion/plantarflexion articulation; subtalar + transverse-tarsal systems carry major inversion/eversion and composite foot pronation/supination;
-2. distal tibiofibular syndesmosis is a distinct AITFL/PITFL/inferior-transverse/interosseous stabilizing complex;
-3. anterior/lateral/superficial-posterior/deep-posterior leg compartments are mapped;
-4. gastrocnemius is biarticular, soleus is monoarticular at the knee;
-5. medial and lateral gastrocnemius should not be assumed functionally identical;
-6. Achilles is structurally heterogeneous/twisted, but a universal three-discrete-subtendon model is now marked **contested** after 2026 histology;
-7. tibialis posterior has broad, highly variable distal branching/attachments rather than a navicular-only insertion;
-8. intrinsic/extrinsic foot systems, retinacula and toe/hallux structures are mapped;
-9. plantar aponeurosis and medial/lateral/transverse arches form integrated passive+active support systems;
-10. windlass has direct structural support but individual deformation varies and the direct CT study used a simulated, not actual gait push-off posture;
-11. “foot core” remains functional shorthand rather than one organ;
-12. anatomy does not by itself justify barefoot, orthotic, arch-correction or calf-exercise prescriptions;
-13. no content blocker found, but closure requires a separate audit/synthesis.
+Closure established:
 
-Следующий блок: **ANA-10 closure audit / synthesis**. Do not start ANA-11 in the same working block.
+1. talocrural joint is primary dorsiflexion/plantarflexion articulation; subtalar + transverse-tarsal systems carry major inversion/eversion and composite foot pronation/supination;
+2. distal tibiofibular syndesmosis is a distinct stabilizing complex;
+3. all four leg compartments are mapped;
+4. gastrocnemius is biarticular, soleus monoarticular at knee;
+5. medial/lateral gastrocnemius are synergists but not assumed functionally identical;
+6. Achilles transmits triceps-surae force and is structurally heterogeneous/twisted;
+7. universal discrete three-subtendon Achilles anatomy is explicitly marked **contested**;
+8. tibialis posterior has broad variable distal attachments;
+9. intrinsic/extrinsic foot muscle systems and retinacula are mapped;
+10. plantar aponeurosis and three arch systems are integrated passive+active supports;
+11. windlass is real but individually variable and not treated as a rigid universal response;
+12. all 12 legacy critical outcomes passed closure; no project-relevant blocker remains.
+
+Следующий один блок: **ANA-11 — Мышечная организация и архитектура**. После него сохранить state и STOP.
 
 ---
 
@@ -212,9 +213,9 @@ PASS-01 установил:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-10/PASS-01_ankle_foot_calf_arch_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-10/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **ANA-10 closure audit / synthesis** и остановиться перед ANA-11.
+Затем выполнить только записанный выше **ANA-11** и остановиться перед следующим блоком.
 
 ---
 
