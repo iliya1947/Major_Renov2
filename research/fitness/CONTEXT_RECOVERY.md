@@ -133,7 +133,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-04 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-05 — Acute response to resistance exercise — RESEARCHING**.
+Последняя закрытая тема: **PHY-05 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-06 — Chronic skeletal-muscle adaptation**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -183,35 +185,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-05/PASS-01_acute_response_to_resistance_exercise_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-05/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-05/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-05 = **CLOSED_FOR_PRACTICE v2.0**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 6 = **10/10 at content level**.
+Canonical finding:
 
-PASS-01 established:
+`research/fitness/findings/03_physiology/PHY-05_acute_response_to_resistance_exercise.md`
 
-1. force/velocity/power decline are acute performance/fatigue responses rather than direct hypertrophy measures;
-2. metabolic disturbance is protocol-dependent and is not a stand-alone growth surrogate;
-3. contracting muscle shows dynamic hyperemia/perfusion changes, without blood flow being promoted to a direct gain predictor;
-4. acute swelling/pump is a fluid-volume phenomenon rather than immediate hypertrophy;
-5. transient systemic GH/testosterone responses are not used as predictors of later hypertrophy/strength;
-6. acute cytokine/myokine responses are not equated with chronic inflammation or gains;
-7. neuromuscular fatigue is multidimensional and not reducible to EMG amplitude;
-8. proximity to failure, volume, set duration and density materially influence acute fatigue;
-9. postexercise recovery is multidimensional and marker/outcome specific;
-10. one recovered marker does not prove complete-system recovery;
-11. acute response magnitude is explicitly separated from chronic adaptation magnitude;
-12. acute markers retain valid uses for session-dose/fatigue/recovery interpretation;
-13. no content-level blocker was found;
-14. canonical PHY-05 finding is deferred until closure audit.
+Closure established:
+
+1. exact `areas/03_physiology.md` Section 6 coverage = **10/10 PASS**;
+2. force/velocity/power decline are treated as acute fatigue/performance responses, not direct gain measures;
+3. metabolic disturbance is not promoted to a hypertrophy surrogate;
+4. blood-flow/hyperemia physiology is covered without turning perfusion into a direct gain predictor;
+5. acute swelling/pump is a fluid-volume phenomenon rather than immediate tissue growth;
+6. transient systemic GH/testosterone responses are not used as chronic gain predictors;
+7. acute cytokine/myokine responses are separated from chronic pathological inflammation and hypertrophy claims;
+8. neuromuscular fatigue is multidimensional and not reducible to EMG;
+9. acute response is defined by complete session dose rather than exercise name alone;
+10. recovery is outcome-specific and multidimensional;
+11. one normalized marker does not prove complete-system recovery;
+12. acute-marker surrogate validity requires independent predictive/causal evidence;
+13. current evidence does not establish a universal acute biomarker of hypertrophy/strength;
+14. no project-relevant blocker remains;
+15. first canonical PHY-05 finding was created at v2.0.
 
 ### Следующая задача
 
-**PHY-05/PASS-02 — Closure audit and synthesis.**
+**Phase B / PHY-06 — Chronic skeletal-muscle adaptation.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-06 автоматически.
+После следующего одного блока сохранить state и STOP. Не открывать PHY-07 автоматически.
 
 ---
 
@@ -227,9 +231,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-05/PASS-01_acute_response_to_resistance_exercise_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-05/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-05/PASS-02 closure audit and synthesis** и остановиться перед PHY-06.
+Затем выполнить только записанный выше **PHY-06 — Chronic skeletal-muscle adaptation** и остановиться перед следующим topic.
 
 ---
 
