@@ -15,6 +15,13 @@ This directory stores topic-level qualification material for **Research methodol
 7. `PSY-RES-07_clinical_vs_nonclinical_inference_boundaries.md` — normal variation versus disorder, symptoms, screening, syndrome/diagnostic hypotheses, differential/exclusion logic, culture/development, multisource assessment, and a reusable clinical-boundary gate.
 8. `PSY-RES-08_qualitative_and_mixed_methods.md` — qualitative claim routing, methodological integrity, reflexivity, sampling/data adequacy, qualitative synthesis, mixed-methods designs/integration, causal boundaries, and a reusable qualitative/mixed-methods gate.
 9. `PSY-RES-09_evidence_to_individual_reasoning_uncertainty_calibration.md` — population-to-person transfer, idiographic hypothesis testing, rival hypotheses, contradiction handling, discriminating predictions, evidence dependence, confidence calibration, and a reusable individual-inference gate.
+10. `PSY-RES-10_methodology_sufficiency_audit.md` — cross-block sufficiency audit, statistical-inference repair, integrated Phase A pipeline, stop conditions, and Phase A closure.
+
+## Phase A status
+
+**CLOSED_FOR_PRACTICE v1.0 — sufficiency audit 16/16 PASS.**
+
+The methodology is sufficient for downstream qualification work. Additional methodological depth should be opened only when a downstream dependency requires it.
 
 ## Content rule
 
