@@ -93,7 +93,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 ## 3. Текущее состояние
 
-Текущая рабочая область: **02 — Anatomy / Phase B**.
+Текущая рабочая область: **03 — Physiology / Phase B**.
 
 Последняя закрытая тема: **ANA-01 — CLOSED_FOR_PRACTICE v2.0**.
 
@@ -127,7 +127,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-01 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-02 — Muscle cell and contraction**.
+Текущая тема: **PHY-02 — Muscle cell and contraction — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -177,43 +177,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-01/PASS-02_closure_audit_and_synthesis.md`
+research/fitness/passes/03_physiology/PHY-02/PASS-01_muscle_cell_and_contraction_revalidation.md
 
-PHY-01 = **CLOSED_FOR_PRACTICE v2.0**.
+PHY-02/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Canonical finding:
+Exact content coverage:
+- areas/03_physiology.md Section 2 = **15/15**;
+- Section 3 = **13/13**;
+- total = **28/28 at content level**.
 
-`research/fitness/findings/03_physiology/PHY-01_principles_of_adaptation.md`
+PASS-01 established:
 
+1. skeletal muscle force generation is organized fiber → myofibril → sarcomere → filament;
+2. normal skeletal ECC proceeds through T-tubular voltage sensing and triadic CaV1.1–RyR1 coupling;
+3. normal skeletal muscle should not be modeled as cardiac-style trigger-Ca²⁺/CICR;
+4. Ca²⁺ activates thin filaments through troponin/tropomyosin regulation;
+5. ATP-dependent actomyosin cycling is the core active-force motor, while exact force-generating molecular substeps remain under refinement;
+6. SERCA-mediated Ca²⁺ reuptake is central to relaxation;
+7. twitch, temporal summation and tetanus are separated as frequency/time-dependent contractile responses;
+8. force–length and force–velocity are foundation-covered but detailed treatment is owned by PHY-04;
+9. titin is retained as a structural/passive-elastic and likely activation-dependent mechanical contributor without overstating its active-force role;
+10. myonuclei, satellite cells, mitochondria, ECM and capillaries are placed as supporting systems rather than the immediate actomyosin motor;
+11. no content-level blocker was found;
+12. canonical PHY-02 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**Phase B / PHY-02 — Muscle cell and contraction.**
+**PHY-02/PASS-02 — Closure audit and synthesis.**
 
-Последние завершённые блоки:
-
-1. `research/fitness/passes/03_physiology/PHY-01/PASS-01_principles_of_adaptation_revalidation.md`
-2. `research/fitness/passes/03_physiology/PHY-01/PASS-02_closure_audit_and_synthesis.md`
-
-PHY-01 status:
-**CLOSED_FOR_PRACTICE v2.0**.
-
-Closure established:
-
-1. exact `areas/03_physiology.md` Section 1 coverage = **12/12 PASS**;
-2. acute response and chronic adaptation are separate evidence domains;
-3. overload is multidimensional and target-specific, not load-on-bar progression only;
-4. dose-response is outcome-specific, nonlinear and subject to diminishing returns;
-5. specificity is graded and transfer can occur;
-6. reversibility is time/outcome dependent rather than instantaneous;
-7. stable responder/nonresponder traits cannot be inferred from one block;
-8. different tissues/systems recover and adapt on different time courses;
-9. fatigue is separable from retained adaptation and is not an effectiveness proxy;
-10. allostasis, fitness-fatigue and supercompensation remain bounded conceptual models rather than literal universal laws;
-11. no project-relevant blocker remains;
-12. because no legacy PHY-01 finding existed, the first canonical `PHY-01_principles_of_adaptation.md` was created at v2.0.
-
-Следующий один блок: **PHY-02 — Muscle cell and contraction**. После него сохранить state и STOP.
+После PASS-02 сохранить state и STOP. Не начинать PHY-03 автоматически.
 
 ---
 
@@ -229,9 +221,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-01/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-02/PASS-01_muscle_cell_and_contraction_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-02** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **PHY-02/PASS-02 closure audit and synthesis** и остановиться перед PHY-03.
 
 ---
 
