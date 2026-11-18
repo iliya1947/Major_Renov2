@@ -95,7 +95,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Текущая рабочая область: **02 — Anatomy / Phase B**.
 
-Текущая тема: **ANA-01 — anatomical terminology / planes / axes / movement terms**.
+Последняя закрытая тема: **ANA-01 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **ANA-02 — levels / tissues of musculoskeletal structural organization**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -155,23 +157,27 @@ PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgem
 
 ### Следующая задача
 
-**ANA-01 closure audit / synthesis.**
+**Phase B / ANA-02 — Levels / tissues of musculoskeletal structural organization.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-01/PASS-01_core_anatomical_terminology_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-01/PASS-01_core_anatomical_terminology_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-01/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-01 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. TA2 остаётся current published IFAA/FIPAT Terminologia Anatomica framework на официальных страницах, проверенных 2026-11-18.
-2. FIPAT 2025 report, опубликованный 2026-02-08, описывает TA2.5 как planned future publication; не считать его текущим replacement.
-3. Старое exact wording "TA2 adopted in 2020" не подтверждено проверенными official pages и не должно повторяться без отдельного источника.
-4. Core anatomical position, directions, planes, conventional axes and movement vocabulary revalidated.
-5. Pronation/supination = radioulnar forearm movement, not wrist rotation.
-6. Anatomical planes/axes = reference language; actual 3D joint-axis mechanics остаётся MEC.
-7. Content blockers для ANA-01 не найдено.
+Closure established:
 
-Следующий блок должен быть **отдельным audit/synthesis**, обновить canonical finding/status и определить closure. Не начинать ANA-02 в том же заходе.
+1. TA2 remains current published IFAA/FIPAT Terminologia Anatomica on official sources checked 2026-11-18.
+2. TA2.5 is a planned future publication, not current replacement.
+3. Core anatomical position, directions, planes, conventional axes and movement terminology are sufficient for downstream research.
+4. Pronation/supination are treated as radioulnar forearm motions, not wrist rotation.
+5. Scapular and humeral movement terminology is kept separate.
+6. Detailed 3D coordinate/joint-axis mechanics is intentionally deferred to MEC / region-specific topics.
+7. No project-relevant ANA-01 blocker remains.
+
+Следующий один блок: **ANA-02**. После него сохранить state и STOP.
 
 ---
 
