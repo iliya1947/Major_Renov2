@@ -149,15 +149,16 @@ Phase A methodology:
   - `PASS-06B23` — final prediction-branch closure/gap audit after PASS-06B22;
   - `PASS-06B24` — prediction-branch structural synthesis.
 
-Последний содержательный micro-pass:
+Последний содержательный PASS:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F7_Delphi_study_structures.md`
+`research/fitness/passes/02_anatomy/ANA-04/PASS-01_shoulder_complex_structural_functional_revalidation.md`
 
-Commit PASS-06F7:
+Commit PASS-01:
 
-`67381bd3ee501df8e12ab06c06b5f75966d3e751`
+`c07c851bfe2e5f72931819466aaa312058ac2cfa`
 
-PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgement method family. Core project architecture = anonymity appropriate to variant + iteration + controlled feedback + statistical summary + explicit opportunity to reconsider/re-rate. Classical, modified, e-/real-time and policy/dissensus variants are retained without treating “modified Delphi” as one standardized design. Panel expertise/composition, anonymity level, item provenance, round structure, feedback, consensus/stability, attrition, stopping rules and dissensus are all explicit extraction layers. No universal panel size, consensus threshold, stability metric or mandatory round count is treated as a hard standard. CREDES remains conduct/reporting guidance, ACCORD broad consensus reporting, DELPHISTAR Delphi-specific reporting; DCAT 2025 is added as a provisional Delphi appraisal layer and the 2026 bias framework as a bias-audit layer. Delphi taxonomy = ESTABLISHED FOR RES-02 STRUCTURAL USE; F-branch remains RESEARCHING.
+ANA-04/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+
 
 ### Следующая задача
 
