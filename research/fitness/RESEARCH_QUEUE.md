@@ -124,10 +124,12 @@
 - PHY-17/PASS-01 integrated-physiology content revalidation completed 2026-11-18; exact Section 19 coverage = **8/8 at content level**.
 - PHY-17/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 19 coverage = **8/8 PASS** and no project-relevant blocker remains.
 - First canonical PHY-17 finding created as v2.0 because no legacy finding existed in the current branch.
-- **PHY-18 — RESEARCHING.**
-- PHY-18/PASS-01 detraining/retraining/muscle-memory content revalidation completed 2026-11-18; exact Section 20 coverage = **11/11 at content level**; closure audit/synthesis pending.
-- Added PHY18-01…PHY18-11 to EVIDENCE_LEDGER.
-- CURRENT NEXT: **PHY-18/PASS-02 — Closure audit and synthesis.**
+- **PHY-18 — CLOSED_FOR_PRACTICE v2.0.**
+- PHY-18/PASS-01 detraining/retraining/muscle-memory content revalidation completed 2026-11-18; exact Section 20 coverage = **11/11 at content level**.
+- PHY-18/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 20 coverage = **11/11 PASS** and no project-relevant blocker remains.
+- Myonuclear evidence provenance corrected during closure: the 2022 systematic review/meta-analysis is PMID 35961635 / PMCID PMC9530508; human permanence remains context-dependent rather than universal.
+- First canonical PHY-18 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **PHY-19 — Recovery physiology.**
 
 ## История текущего revalidation cycle
 
