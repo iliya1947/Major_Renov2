@@ -80,7 +80,9 @@
 - PHY-06/PASS-01 chronic-skeletal-muscle-adaptation content revalidation completed 2026-11-18.
 - PHY-06/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 7 coverage = **12/12 PASS** and no project-relevant blocker remains.
 - First canonical PHY-06 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **Phase B / PHY-07 — Hypertrophy mechanisms.**
+- **PHY-07 — RESEARCHING.**
+- PHY-07/PASS-01 hypertrophy-mechanisms content revalidation completed 2026-11-18; exact Section 8 coverage = **23/23 at content level**; closure audit/synthesis pending.
+- CURRENT NEXT: **PHY-07/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
