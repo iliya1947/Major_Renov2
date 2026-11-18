@@ -212,14 +212,14 @@
 
 Stage 2 продолжается.
 
-1. Stage 2 **перезапущен** после слишком крупного марафонного прохода.
-2. Старые RES/ANA findings = legacy reconnaissance drafts до повторной валидации.
-3. Текущая область: **13 — методология исследований**.
-4. **RES-01 закрыт: `CLOSED_FOR_PRACTICE` после PASS-16.**
-5. Текущая тема: **RES-02 — study designs (`RESEARCHING`)**.
-6. Валидная granular-база RES-02 продвинута до **PASS-06F7 — Delphi study structures**.
-7. Предметные PASS временно остановлены для purpose-alignment audit: следующий шаг — проверить достаточность текущей методологической базы относительно функции Phase A. **PASS-06F8 не запускать автоматически.**
-
+1. **Phase A — Methodology признана SUFFICIENT_FOR_NEXT_PHASE** по отдельному Methodology Sufficiency Audit от 2026-11-18.
+2. RES-01 = `CLOSED_FOR_PRACTICE`.
+3. RES-02 granular base до PASS-06F7 = `SUFFICIENT_FOR_PHASE_A`; PASS-06F8 и дальнейшая F-taxonomy deferred до конкретной fitness-evidence необходимости.
+4. RES-03…RES-29 legacy findings не считаются full revalidated, но используются как operational baseline с trigger-based revalidation.
+5. Полная methodology revalidation больше не блокирует downstream research.
+6. Текущая область переходит в **Phase B — ANA / Anatomy**.
+7. Следующий один блок: **ANA-01 — Anatomical terminology / planes / axes / movement terms**.
+8. После ANA-01 — сохранить state и STOP; следующий topic автоматически не запускать.
 
 ## 9. Зафиксированный общий план
 
@@ -236,7 +236,7 @@ Stage 2 продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 — granular revalidation темы **RES-02** с опорой на `RESEARCH_ORDER.md`.
+Ближайшая задача: Stage 2 / Phase B — **ANA-01** с опорой на `RESEARCH_ORDER.md` и purpose gate из `AGENT.md`.
 
 
 ## 10. Stage 0B — результат
