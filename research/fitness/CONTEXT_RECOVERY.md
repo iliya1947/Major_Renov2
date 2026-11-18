@@ -125,7 +125,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-15 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-01 — Principles of adaptation**.
+Текущая тема: **PHY-01 — Principles of adaptation**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -175,47 +175,45 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-15/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-01/PASS-01_principles_of_adaptation_revalidation.md`
 
-ANA-15 = **CLOSED_FOR_PRACTICE v2.0**.
+Commit PASS-01:
 
-Canonical finding:
+`9ecfc7d74b3d0eb588a23886d6dc29445aa18541`
 
-`research/fitness/findings/02_anatomy/ANA-15_individual_anatomy_anthropometry.md`
+PHY-01/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Anatomy state:
-**ANA-01…ANA-15 CLOSED_FOR_PRACTICE v2.0** for current project purpose.
+Current branch note:
+**отдельного legacy PHY-01 finding-файла нет; canonical finding создаётся только после closure audit.**
 
 
 ### Следующая задача
 
-**Phase B / PHY-01 — Principles of adaptation.**
+**PHY-01 closure audit / synthesis.**
 
-Последние завершённые блоки:
+Последний завершённый блок:
 
-1. `research/fitness/passes/02_anatomy/ANA-15/PASS-01_individual_anatomy_anthropometry_revalidation.md`
-2. `research/fitness/passes/02_anatomy/ANA-15/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-01/PASS-01_principles_of_adaptation_revalidation.md`
 
-ANA-15 status:
-**CLOSED_FOR_PRACTICE v2.0**.
+PASS-01 установил:
 
-Anatomy status:
-**ANA-01…ANA-15 = CLOSED_FOR_PRACTICE v2.0** for current downstream fitness dependencies.
+1. exact `areas/03_physiology.md` Section 1 coverage = **12/12 items** at content level;
+2. homeostasis and allostasis are complementary regulatory concepts, not competing prescriptions;
+3. training sequence is modeled as stimulus → acute response/perturbation → recovery/remodeling → retained adaptation, without assuming every acute response predicts chronic gain;
+4. acute biomarkers, soreness, swelling, hormones and fatigue are not automatic surrogates for chronic adaptation;
+5. overload means maintaining/progressing an effective target-specific stimulus and is not equivalent to adding load every session;
+6. dose-response is multidimensional, outcome-specific and commonly nonlinear with diminishing returns;
+7. specificity is graded rather than binary; transfer can occur;
+8. reversibility is outcome/time dependent rather than instantaneous;
+9. repeated exposure modifies later response, including repeated-bout protection;
+10. observed individual variability includes biology, actual dose, measurement error and within-person variability; stable responder/nonresponder labels require repeated evidence;
+11. different tissues/systems have different recovery/adaptation time courses;
+12. fatigue is separable from retained adaptation and is not a proxy for stimulus quality;
+13. fitness-fatigue, allostatic-load and supercompensation models are retained only as bounded conceptual tools;
+14. no content blocker found;
+15. no legacy PHY-01 finding exists in current branch, so closure should create `findings/03_physiology/PHY-01_principles_of_adaptation.md` if audit passes.
 
-Closure established:
-
-1. exact Sections 18–19 coverage = **18/18 PASS**;
-2. anthropometry changes exercise geometry/options but no single ratio determines technique;
-3. healthy joint geometry varies and method-dependent “normal” values are preserved;
-4. attachment and muscle-belly/tendon proportions vary without automatic targeting/hypertrophy inference;
-5. carrying-angle and side-to-side asymmetry are variable and non-diagnostic by themselves;
-6. skeletal maturity is not one universal chronological age;
-7. age-related muscle/tendon/bone changes are heterogeneous rather than one inevitable phenotype;
-8. sex/population group differences are not substitutes for individual measurement;
-9. normal variation remains distinct from MED pathology;
-10. no project-relevant anatomy blocker remains.
-
-Следующий один блок: **PHY-01 — Principles of adaptation**. После него сохранить state и STOP.
+Следующий блок: **PHY-01 closure audit / synthesis**. Do not start PHY-02 in the same working block.
 
 ---
 
@@ -231,9 +229,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-15/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-01/PASS-01_principles_of_adaptation_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-01** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **PHY-01 closure audit / synthesis** и остановиться перед PHY-02.
 
 ---
 
