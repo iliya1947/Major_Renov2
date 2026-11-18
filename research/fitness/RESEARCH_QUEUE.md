@@ -116,7 +116,10 @@
 - PHY-15/PASS-01 respiratory-exercise-physiology content revalidation completed 2026-11-18; exact Section 16 coverage = **11/11 at content level**.
 - PHY-15/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 16 coverage = **11/11 PASS** and no project-relevant blocker remains.
 - First canonical PHY-15 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **PHY-16 — Endocrine / immune physiology.**
+- **PHY-16 — RESEARCHING.**
+- PHY-16/PASS-01 endocrine/immune physiology content revalidation completed 2026-11-18; normalized scope maps Sections 17–18 = **18/18 at content level**; closure audit/synthesis pending.
+- Added PHY16-01…PHY16-13 to EVIDENCE_LEDGER.
+- CURRENT NEXT: **PHY-16/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
