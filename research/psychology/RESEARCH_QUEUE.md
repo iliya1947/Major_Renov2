@@ -9,6 +9,7 @@
 - **PSY-RES-01 — CLOSED_FOR_PRACTICE v1.0 — 7/7 PASS.**
 - **PSY-RES-02 — CLOSED_FOR_PRACTICE v1.0 — 8/8 PASS.**
 - **PSY-RES-03 — CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS.**
+- **PSY-RES-04 — CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS.**
 
 ## Completed
 
@@ -24,28 +25,32 @@ Canonical block:
 Canonical block:
 `research/psychology/qualification/01_research_methodology/PSY-RES-03_measurement_reliability_validity_psychometrics.md`
 
+### PSY-RES-04 — Bias, confounding, selection, and measurement error
+Canonical block:
+`research/psychology/qualification/01_research_methodology/PSY-RES-04_bias_confounding_selection_measurement_error.md`
+
 Established:
 
-1. construct != measure != score != interpretation;
-2. validity is interpretation/use specific;
-3. reliability != validity;
-4. internal consistency != unidimensionality;
-5. individual score uncertainty requires SEM/error consideration;
-6. change/difference scores require their own precision evidence;
-7. structural validity is a scoring prerequisite;
-8. measurement invariance/DIF matter for group/time comparisons;
-9. norms are reference-distribution dependent;
-10. cutoffs require independent justification;
-11. standardized administration matters;
-12. responsiveness differs from stability;
-13. multisource/multimethod evidence is preferred for meaningful individual inference;
-14. 20-question Individual Interpretation Gate is now canonical.
+1. random error != systematic bias;
+2. risk of bias is result-specific, not a study-global label;
+3. confounding is causal, not merely correlational;
+4. measured adjustment != elimination of confounding;
+5. selection and collider conditioning are distinct bias mechanisms;
+6. attrition/missingness are evaluated by mechanism, not percentage alone;
+7. continuous measurement error and categorical misclassification require model-specific reasoning;
+8. "measurement error biases toward the null" is explicitly rejected as a universal rule;
+9. common-method/shared-source variance is a major psychology-specific threat;
+10. expectancy, demand, observer and rater effects are explicit;
+11. randomized studies remain vulnerable to post-randomization bias;
+12. within-study selective reporting is explicit;
+13. regression to the mean and repeated-testing effects are explicit;
+14. a 30-question Bias Control Card is now canonical.
 
 ## Current next action
 
-**PSY-RES-04 — Bias, confounding, selection, and measurement error.**
+**PSY-RES-05 — Systematic reviews, meta-analysis, heterogeneity, and publication bias.**
 
-Goal: build a practical error taxonomy for psychological evidence so that apparent effects, traits, associations, and mechanisms are not accepted before plausible bias structures are tested.
+Goal: establish how bodies of psychological evidence should be synthesized without treating pooled effects, statistical significance, or meta-analysis labels as automatic truth.
 
 ## Deferred
 
