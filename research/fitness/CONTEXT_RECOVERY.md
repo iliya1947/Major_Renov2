@@ -117,7 +117,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-11 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **ANA-12 — Нервная анатомия движения**.
+Последняя закрытая тема: **ANA-12 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **ANA-13 — Базовая cardio-respiratory anatomy**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -167,45 +169,42 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-12/PASS-01_nervous_anatomy_of_movement_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-12/PASS-02_closure_audit_and_synthesis.md`
 
-Commit PASS-01:
+ANA-12 = **CLOSED_FOR_PRACTICE v2.0**.
 
-`b5f3b999586e199885b64664e28026d2d9b54c8c`
+Canonical finding:
 
-ANA-12/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
-
-Current branch note:
-**отдельного legacy ANA-12 finding-файла нет; canonical finding создаётся только после closure audit.**
+`research/fitness/findings/02_anatomy/ANA-12_nervous_anatomy.md`
 
 
 ### Следующая задача
 
-**ANA-12 closure audit / synthesis.**
+**Phase B / ANA-13 — Базовая cardio-respiratory anatomy.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-12/PASS-01_nervous_anatomy_of_movement_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-12/PASS-01_nervous_anatomy_of_movement_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-12/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-12 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. exact `areas/02_anatomy.md` Section 14 coverage = **19/19 items**;
-2. dorsal/ventral spinal roots unite into a mixed spinal nerve before mixed dorsal/ventral rami divide;
-3. **root ≠ ramus**;
-4. brachial-plexus “roots” are ventral rami and must not be confused with dorsal/ventral spinal roots;
-5. brachial plexus typical organization = C5–T1 → trunks → divisions → cords → axillary/musculocutaneous/radial/median/ulnar nerves;
-6. upper-limb nerve maps are modal; current 2026 evidence reinforces common terminal-branch/median-ulnar communications;
-7. lumbar/sacral plexuses recombine multiple spinal levels into femoral/obturator/sciatic/tibial/common-fibular pathways;
-8. sciatic division/course and lumbosacral plexus anatomy vary normally;
-9. myotomes and dermatomes are overlapping segmental maps, distinct from named peripheral motor/cutaneous territories;
-10. motor unit = one α motor neuron + its extrafusal fibers;
-11. muscle spindle = intrafusal proprioceptive receptor with sensory afferents + γ-motor control;
-12. Golgi tendon organ = tendon/musculotendinous proprioceptive structure; not reduced to a “shutdown switch”;
-13. structural maps can guide localization hypotheses but cannot diagnose radiculopathy/plexopathy/entrapment;
-14. no current content blocker found;
-15. no legacy ANA-12 finding exists in current branch, so closure should create `findings/02_anatomy/ANA-12_nervous_anatomy.md` if audit passes.
+Closure established:
 
-Следующий блок: **ANA-12 closure audit / synthesis**. Do not start ANA-13 in the same working block.
+1. exact `areas/02_anatomy.md` Section 14 coverage = **19/19 PASS**;
+2. dorsal/ventral roots unite into a mixed spinal nerve before mixed dorsal/ventral rami;
+3. root ≠ spinal nerve ≠ ramus;
+4. brachial-plexus “roots” are ventral rami;
+5. upper-limb axillary/musculocutaneous/radial/median/ulnar maps are sufficient and explicitly modal;
+6. lumbosacral femoral/obturator/sciatic/tibial/common-fibular maps are sufficient and explicitly variable;
+7. myotomes/dermatomes are overlapping segmental maps distinct from named peripheral-nerve territories;
+8. motor unit/spindle/GTO are closed at structural level only; mechanisms remain NEU;
+9. anatomy can guide localization hypotheses but does not diagnose neural pathology;
+10. no project-relevant blocker remains;
+11. because no legacy ANA-12 finding existed, the first canonical `ANA-12_nervous_anatomy.md` was created at v2.0.
+
+Следующий один блок: **ANA-13 — Базовая cardio-respiratory anatomy**. После него сохранить state и STOP.
 
 ---
 
@@ -221,9 +220,9 @@ PASS-01 установил:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-12/PASS-01_nervous_anatomy_of_movement_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-12/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **ANA-12 closure audit / synthesis** и остановиться перед ANA-13.
+Затем выполнить только записанный выше **ANA-13** и остановиться перед следующим блоком.
 
 ---
 
