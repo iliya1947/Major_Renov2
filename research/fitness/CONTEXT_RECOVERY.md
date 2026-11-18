@@ -169,7 +169,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-01 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-02 — Motor units: recruitment/rate coding — NOT STARTED**.
+Текущая тема: **NEU-02 — Motor units: recruitment/rate coding — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -219,35 +219,40 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-01/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-02/PASS-01_motor_units_recruitment_rate_coding_revalidation.md`
 
-PASS commit: `00a5346d596a4f0f78b68551ce661dbac66af282`  
-Canonical finding commit: `9186625cfbf9a21878a35387e555ce73a95c17f6`
+PASS commit: `1daf2129db0ea82fa3db74e1b368c6110858793c`  
+Evidence-ledger commit: `0690f5cff832df3d8f1e856d8d0ca714dc3bb4d7`
 
-NEU-01/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-02/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Exact content coverage:
+- `areas/04_neurophysiology_motor_learning.md` Section 2 = **12/12 at content level**.
 
-1. exact Area 04 Section 1 coverage = **12/12 PASS**;
-2. movement remains a distributed closed-loop sensorimotor process;
-3. PNS/spinal cord are not treated as passive wiring;
-4. somatic control includes voluntary and automatic processing;
-5. sympathetic/parasympathetic remain coarse autonomic categories rather than globally opposed master switches;
-6. afferent feedback remains embedded in motor generation;
-7. M1 is a major but non-exclusive motor hub;
-8. cerebellum remains predictive/adaptive rather than a simple balance center;
-9. basal-ganglia action-selection language is retained with mechanistic caution;
-10. corticospinal tract remains major but non-exclusive;
-11. alpha motor neurons and spinal interneurons remain active integrators;
-12. NMJ remains the neural-muscle handoff with detailed physiology in PHY-02;
-13. no project-relevant blocker remains;
-14. first canonical `NEU-01_nervous_system_organization.md` created.
+PASS-01 established:
+
+1. motor unit = alpha motor neuron + axon/branches + innervated skeletal-muscle fibers;
+2. motor-unit size is multidimensional rather than one EMG-amplitude property;
+3. recruitment threshold is task/context dependent and can shift with force trajectory, muscle length, training/fatigue state and MVC normalization;
+4. size principle remains the default orderly-recruitment architecture without implying rigid identical %MVC thresholds across tasks;
+5. derecruitment is history/neuromodulation dependent and can differ from recruitment threshold;
+6. recruitment and rate coding jointly scale force;
+7. rate coding is separated from temporal summation;
+8. common synaptic input is a core low-dimensional control mechanism;
+9. synchronization is not synonymous with common drive and is not a universal determinant of strength/RFD;
+10. motor-unit behavior across effort is muscle/task/force-profile dependent;
+11. fatigue-related discharge-rate changes are task dependent and are not a universal causal fatigue marker;
+12. slow/fast units are retained as physiological archetypes with continuum and human-measurement limits;
+13. HD-sEMG decomposition provides high-resolution samples rather than a complete census of the active pool;
+14. exact Section 2 coverage = **12/12 at content level**;
+15. no content-level blocker was found;
+16. canonical NEU-02 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**NEU-02/PASS-01 — Motor units: recruitment/rate coding content revalidation.**
+**NEU-02/PASS-02 — Closure audit and synthesis.**
 
-NEU-02 maps to Area 04 Section 2. NEU-02 has not been started. After the next one block, save state and STOP.
+After PASS-02 save state and STOP. Do not start NEU-03 automatically.
 
 ---
 
@@ -263,9 +268,9 @@ NEU-02 maps to Area 04 Section 2. NEU-02 has not been started. After the next on
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-01/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-02/PASS-01_motor_units_recruitment_rate_coding_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-02/PASS-01 motor units: recruitment/rate coding content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-02/PASS-02 closure audit and synthesis** и остановиться перед NEU-03.
 
 ---
 
