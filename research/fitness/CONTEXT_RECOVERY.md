@@ -161,7 +161,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-18 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **PHY-19 — Recovery physiology — NOT STARTED**.
+Текущая тема: **PHY-19 — Recovery physiology — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -211,41 +211,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-18/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-19/PASS-01_recovery_physiology_revalidation.md`
 
-PASS commit: `43ea321bc1e4c92e2372246bc2be74a5c520043a`  
-Canonical finding commit: `22b5200adeca050caf4e65b9cfc914c7bba51023`  
-PASS-01 provenance-correction commit: `6515331f926b3774fd698c84d5a3d73367d0ee6d`  
-Evidence-ledger correction commit: `77ead8d5497b2fba8f99667cad24758ce053a63c`
+PASS commit: `959ddc5b1dc94ed71d1a82c81494564fe618ea13`  
+Evidence-ledger commit: `dc5c3826e25027b833aadff9f379a3c251957441`
 
-PHY-18/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+PHY-19/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Exact content coverage:
+- `areas/03_physiology.md` Section 21 = **10/10 at content level**.
 
-1. exact Section 20 coverage = **11/11 PASS**;
-2. ordinary detraining remains distinct from immobilization/bed rest/severe disuse;
-3. strength loss remains distinct from muscle-size loss;
-4. neural detraining remains task/method specific;
-5. fascicle length, pennation, serial sarcomere and CSA adaptations remain on separate clocks;
-6. VO2max/cardiorespiratory loss remains distinct from complete return to pre-training baseline;
-7. residual adaptation is graded and outcome-specific;
-8. maintenance can require less dose than development, but no universal maintenance frequency is inferred;
-9. retraining often produces rapid regain without a fixed multiplier;
-10. muscle memory remains a family of functional, neural, myonuclear, epigenetic/transcriptional and proteomic phenomena;
-11. 2024 human evidence supports context-specific myonuclear retention over the observed detraining period;
-12. 2022 pooled evidence does not establish universal human myonuclear permanence, and indefinite retention remains unresolved;
-13. retained myonuclei do not yet prove causal faster hypertrophy;
-14. epigenetic/proteomic memory is biologically supported but not a direct performance prescription;
-15. returning trainees are biologically distinct from absolute novices while still requiring current-capacity-based re-exposure;
-16. the incorrect PMID in PASS-01 was corrected to **35961635**;
-17. no project-relevant blocker remains;
-18. first canonical `PHY-18_detraining_retraining_muscle_memory.md` created.
+PASS-01 established:
+
+1. recovery is a multi-system state vector rather than one binary/scalar state;
+2. PCr resynthesis is rapid relative to structural remodeling and cannot define whole-session readiness;
+3. neural and peripheral contractile recovery can dissociate;
+4. severe damaging eccentric exercise can prolong excitation-contraction/force impairment well beyond metabolic recovery;
+5. glycogen restoration depends on depletion, carbohydrate availability and time;
+6. post-RT muscle protein synthesis/turnover reflects remodeling rather than a readiness clock;
+7. inflammatory recovery includes active resolution rather than simple suppression/disappearance;
+8. connective-tissue remodeling follows tissue-, fraction- and method-dependent time courses distinct from muscle performance;
+9. sleep is a major cross-system modifier but can affect subjective/cognitive and physical outcomes differently;
+10. recovery time depends on stimulus × outcome × person/context rather than a universal 24/48/72 h rule;
+11. subjective recovery and objective performance can diverge;
+12. no single biomarker, wearable score or questionnaire defines complete readiness;
+13. exact Section 21 coverage = **10/10 at content level**;
+14. no content-level blocker was found;
+15. canonical PHY-19 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**PHY-19/PASS-01 — Recovery physiology content revalidation.**
+**PHY-19/PASS-02 — Closure audit and synthesis.**
 
-PHY-19 has not been started. After the next one block, save state and STOP.
+After PASS-02 save state and STOP. Do not start PHY-20 automatically.
 
 ---
 
@@ -261,9 +259,9 @@ PHY-19 has not been started. After the next one block, save state and STOP.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-18/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-19/PASS-01_recovery_physiology_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-19/PASS-01 recovery physiology content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **PHY-19/PASS-02 closure audit and synthesis** и остановиться перед PHY-20.
 
 ---
 
