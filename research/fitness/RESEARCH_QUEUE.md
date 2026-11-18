@@ -84,9 +84,11 @@
 - PHY-07/PASS-01 hypertrophy-mechanisms content revalidation completed 2026-11-18.
 - PHY-07/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 8 coverage = **23/23 PASS** and no project-relevant blocker remains.
 - First canonical PHY-07 finding created as v2.0 because no legacy finding existed in the current branch.
-- **PHY-08 — RESEARCHING.**
-- PHY-08/PASS-01 strength-physiology content revalidation completed 2026-11-18; exact Section 9 coverage = **15/15 at content level**; closure audit/synthesis pending.
-- CURRENT NEXT: **PHY-08/PASS-02 — Closure audit and synthesis.**
+- **PHY-08 — CLOSED_FOR_PRACTICE v2.0.**
+- PHY-08/PASS-01 strength-physiology content revalidation completed 2026-11-18.
+- PHY-08/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 9 coverage = **15/15 PASS** and no project-relevant blocker remains.
+- First canonical PHY-08 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **Phase B / PHY-09 — Power / RFD.**
 
 ## История текущего revalidation cycle
 

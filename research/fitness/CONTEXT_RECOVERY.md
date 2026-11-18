@@ -139,7 +139,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-07 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-08 — Strength physiology — RESEARCHING**.
+Последняя закрытая тема: **PHY-08 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-09 — Power / RFD**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -189,41 +191,40 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-08/PASS-01_strength_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-08/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-08/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-08 = **CLOSED_FOR_PRACTICE v2.0**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 9 = **15/15 at content level**.
+Canonical finding:
 
-PASS-01 established:
+`research/fitness/findings/03_physiology/PHY-08_strength_physiology.md`
 
-1. strength is a task/test-defined system output rather than a direct proxy for muscle size;
-2. hypertrophy raises force-producing capacity but does not uniquely determine measured strength;
-3. neural adaptation contributes substantially, with detailed mechanisms deferred to NEU and surface EMG not treated as a complete neural-strength measure;
-4. architecture/PCSA and tendon/MTU mechanics are distinct contributors;
-5. tendon stiffness adapts to loading but its causal share of maximal-strength gain remains uncertain;
-6. intermuscular coordination and lift skill/technique contribute to task-specific strength;
-7. dynamic training produces larger trained-dynamic strength gains than transfer to untrained isometric strength;
-8. joint-angle specificity is explicit, especially for isometric training, with transfer beyond one exact angle;
-9. velocity/intent specificity is explicit;
-10. contraction-mode specificity is explicit but not mode-exclusive;
-11. RFD is separated from maximal voluntary force and routed partly to PHY-09;
-12. MVC/MVF is separated from dynamic 1RM;
-13. absolute and relative strength are separate outcomes and scaling method must be stated;
-14. strength endurance is distinct from maximal strength;
-15. strength transfer is graded by task similarity;
-16. heavy-load RT has stronger specificity for maximal dynamic strength;
-17. size–strength dissociation is explained through capacity vs expression;
-18. exact Section 9 coverage = 15/15 at content level;
-19. no content-level blocker was found;
-20. canonical PHY-08 finding is deferred until closure audit.
+Closure established:
+
+1. exact `areas/03_physiology.md` Section 9 coverage = **15/15 PASS**;
+2. strength is task/test-defined rather than a direct proxy for muscle size;
+3. hypertrophy increases force potential but does not uniquely determine measured strength;
+4. neural adaptation contributes substantially while surface EMG is not treated as a complete neural-strength metric;
+5. architecture/PCSA and tendon/MTU properties are retained as distinct contributors;
+6. tendon stiffness adapts to loading but its causal share of maximal-strength gain remains uncertain;
+7. intermuscular coordination and lift skill/technique contribute to task-specific strength;
+8. task, joint-angle, velocity and contraction-mode specificity are explicit;
+9. RFD is separated from maximal force and routed partly to PHY-09;
+10. MVC/MVF is separated from dynamic 1RM;
+11. absolute and relative strength are distinct and relative-strength scaling must be explicit;
+12. strength endurance is a separate task-specific outcome;
+13. transfer is graded by task similarity;
+14. heavier loads have stronger specificity for maximal dynamic strength;
+15. group-level dosage plateaus are not converted into individual ceilings;
+16. size–strength dissociation is explained through capacity versus task-specific expression;
+17. no project-relevant blocker remains;
+18. first canonical PHY-08 finding was created at v2.0.
 
 ### Следующая задача
 
-**PHY-08/PASS-02 — Closure audit and synthesis.**
+**Phase B / PHY-09 — Power / RFD.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-09 автоматически.
+После следующего одного блока сохранить state и STOP. Не открывать PHY-10 автоматически.
 
 ---
 
@@ -239,9 +240,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-08/PASS-01_strength_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-08/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-08/PASS-02 closure audit and synthesis** и остановиться перед PHY-09.
+Затем выполнить только записанный выше **PHY-09 — Power / RFD** и остановиться перед следующим topic.
 
 ---
 

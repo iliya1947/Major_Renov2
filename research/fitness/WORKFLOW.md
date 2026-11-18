@@ -222,11 +222,12 @@ Stage 2 / Phase B продолжается.
 8. PHY-05 = **CLOSED_FOR_PRACTICE v2.0**.
 9. PHY-06 = **CLOSED_FOR_PRACTICE v2.0**.
 10. PHY-07 = **CLOSED_FOR_PRACTICE v2.0**.
-11. PHY-08 = **RESEARCHING**.
-12. PHY-08/PASS-01 content revalidation завершён; exact Section 9 coverage **15/15 at content level**.
-13. PHY-08 closure audit / synthesis ещё не выполнен; canonical finding ещё не создан.
-14. Следующий один блок: **PHY-08/PASS-02 — Closure audit and synthesis**.
-15. PHY-09 автоматически не запускать после PASS-02; сохраняется one block → state update → STOP.
+11. PHY-08 = **CLOSED_FOR_PRACTICE v2.0**.
+12. PHY-08/PASS-01 content revalidation завершён.
+13. PHY-08/PASS-02 closure audit / synthesis завершён; exact Section 9 coverage **15/15 PASS**.
+14. Первый canonical PHY-08 finding создан как v2.0.
+15. Следующий один блок: **PHY-09 — Power / RFD**.
+16. Следующий topic автоматически не запускать; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -243,7 +244,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **PHY-08/PASS-02 — Closure audit and synthesis**.
+Ближайшая задача: Stage 2 / Phase B — **PHY-09 — Power / RFD**.
 
 
 ## 10. Stage 0B — результат
