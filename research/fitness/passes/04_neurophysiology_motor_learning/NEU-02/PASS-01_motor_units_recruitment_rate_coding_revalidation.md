@@ -88,8 +88,8 @@ All 12 exact Section 2 items must be covered at content level; size principle mu
 
 23. **Neuromuscular Activity Determines, at Least in Part, the Motoneuron, Nerve and Muscle Properties...** 2025. PMID 40725136.
 24. **Fiber-type-specific architecture and pathophysiology of the neuromuscular junction.** 2026. PMID 41548740.
-25. **Circular continuum of alpha motoneuron types.** 2025. PMID 40832332 — animal mechanistic evidence.
-26. **Machine-learning classification of motor unit types in the adult mouse.** 2026. PMID 41955226 — animal mechanistic evidence.
+25. **Circular continuum of alpha motoneuron types.** 2025. PMID 40832332 — **preprint**, animal mechanistic evidence; not used as sole closure basis.
+26. **Machine-learning classification of motor unit types in the adult mouse.** 2026. PMID 41955226 — peer-reviewed animal mechanistic evidence; updated journal version of the 2025 preprint PMID 41332600.
 
 ### Training adaptation / limits
 
