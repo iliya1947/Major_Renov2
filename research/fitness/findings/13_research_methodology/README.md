@@ -1,6 +1,6 @@
 # Methodology findings — RES-01…RES-29
 
-Статус: **MIXED — RES-01 CLOSED_FOR_PRACTICE; RES-02…RES-29 LEGACY DRAFTS pending granular revalidation**
+Статус: **PHASE_A_SUFFICIENT_TO_PROCEED — RES-01 revalidated; RES-02 sufficient for Phase A; RES-03…RES-29 legacy operational baseline with trigger-based revalidation**
 
 ## Навигация
 
@@ -44,12 +44,11 @@
 
 ## Next
 
-Stage 2 restart sequence: **RES-01 closed; continue RES-02** according to `RESEARCH_ORDER.md`.
+Phase A больше не блокирует downstream research. Следующая область по `RESEARCH_ORDER.md`: **ANA — Anatomy**. Methodology topics возвращаются в deep revalidation только по конкретному downstream trigger.
 
 
 ## Restart notice
 
-С 2026-11-16 прежние RES-01…RES-29 считаются разведочными черновиками.  
-Их прежние `CLOSED_FOR_PRACTICE` markers superseded by `STAGE2_RESTART.md`.
+С 2026-11-16 прежние RES-01…RES-29 были понижены до разведочных черновиков, а прежние `CLOSED_FOR_PRACTICE` markers superseded by `STAGE2_RESTART.md`.
 
-Revalidation started from **RES-01** with granular passes + mandatory gap/audit passes. RES-01 is now `CLOSED_FOR_PRACTICE`; RES-02…RES-29 remain legacy until separately revalidated.
+После purpose-alignment и Methodology Sufficiency Audit от 2026-11-18 blanket revalidation отменена как обязательный gate. RES-01 revalidated полностью; RES-02 granular base признана достаточной для Phase A; RES-03…RES-29 остаются operational legacy baseline и revalidate только при concrete methodological dependency.
