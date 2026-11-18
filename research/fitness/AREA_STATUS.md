@@ -26,7 +26,7 @@
 | 10 | Восстановление | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 11 | Питание и добавки | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 12 | Психология, СДВГ и приверженность | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
-| 13 | Методология исследований | MAP_READY | SUFFICIENT_FOR_NEXT_PHASE | OPERATIONAL_BASELINE | NOT_STARTED |
+| 13 | Методология исследований | MAP_READY | SUFFICIENT_FOR_NEXT_PHASE | NOT_STARTED | NOT_STARTED |
 | 14 | Индивидуализация и принятие решений | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 15 | Общая физическая подготовка | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 
