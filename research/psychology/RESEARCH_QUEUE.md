@@ -5,26 +5,35 @@
 - Branch initialized.
 - Privacy contract established.
 - No personal data stored.
-- Subject research not yet started.
 - Current phase: **Phase A — Research and inference methodology**.
+- **PSY-RES-01 — CLOSED_FOR_PRACTICE v1.0.**
+- PSY-RES-01 closure audit: **7/7 PASS**.
+
+## Completed
+
+### PSY-RES-01 — Question framing, construct definition, and operationalization
+
+Canonical block:
+
+`research/psychology/qualification/01_research_methodology/PSY-RES-01_question_framing_construct_operationalization.md`
+
+Established:
+
+1. observation != construct;
+2. label != explanation;
+3. conceptual definition != operationalization;
+4. mandatory alternative explanations;
+5. observable/discriminating indicators;
+6. anti-circularity test;
+7. construct-overlap test;
+8. high-level claim -> evidence routing;
+9. uncertainty-preserving Psychological Question Card.
 
 ## Current next action
 
-**PSY-RES-01 — Question framing, construct definition, and operationalization.**
+**PSY-RES-02 — Study-design families and causal-inference basics.**
 
-Goal: establish how psychological questions should be decomposed before evidence search, including construct boundaries, observable indicators, competing constructs, and operational definitions.
-
-## Closure condition for PSY-RES-01
-
-A closure audit must show that the framework can:
-
-1. distinguish a construct from its label;
-2. separate observation from interpretation;
-3. identify plausible alternative constructs;
-4. define measurable/observable indicators;
-5. prevent circular explanations;
-6. route questions to the correct evidence type;
-7. preserve uncertainty when constructs overlap.
+Goal: establish which study architectures can support descriptive, associational, predictive, causal, mechanistic, intervention, and diagnostic claims; define the minimum causal-inference concepts needed before interpreting psychological evidence.
 
 ## Deferred
 
