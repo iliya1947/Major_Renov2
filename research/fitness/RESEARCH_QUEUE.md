@@ -43,7 +43,9 @@
 - ANA-12/PASS-01 nervous-anatomy-of-movement revalidation completed 2026-11-18.
 - ANA-12/PASS-02 closure audit / synthesis completed 2026-11-18; exact area-map coverage 19/19 and no project-relevant blocker remains.
 - First canonical ANA-12 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **Phase B / ANA-13 — Базовая cardio-respiratory anatomy.**
+- CURRENT: **Phase B / ANA-13 — Базовая cardio-respiratory anatomy.**
+- ANA-13/PASS-01 basic cardio-respiratory anatomy revalidation completed 2026-11-18; exact area-map coverage 13/13 at content level and no legacy ANA-13 finding exists in current branch.
+- CURRENT NEXT: **ANA-13 closure audit / synthesis**. Do not start ANA-14 before ANA-13 closure.
 
 ## История текущего revalidation cycle
 
@@ -488,3 +490,11 @@
 361. ANA-12 = **CLOSED_FOR_PRACTICE v2.0**; first canonical `ANA-12_nervous_anatomy.md` created because current branch had no legacy finding.
 362. Existing ledger ANA12-01…ANA12-06 is sufficient for closure; motor-unit/spindle/GTO mechanisms remain deferred to NEU.
 363. Следующий один блок: **ANA-13 — Базовая cardio-respiratory anatomy**.
+
+364. Завершён **ANA-13/PASS-01 — Basic cardio-respiratory anatomy revalidation**.
+365. Exact area-map coverage = **13/13 items** across vascular/circulatory and respiratory anatomy.
+366. Major limb arterial/venous routes, capillary level, heart chambers/valves/great vessels, systemic/pulmonary circuits, airways/lungs/pleura and respiratory-muscle/thoracic-cage structures revalidated.
+367. Artery/vein terminology is explicitly directional rather than oxygenation-based; pulmonary vs bronchial lung circulation is separated.
+368. Diaphragm/thoracic-cage details cross-reference ANA-07/ANA-03 rather than duplicating ownership.
+369. No legacy ANA-13 finding exists in current branch; canonical finding will be created only if closure audit passes.
+370. Следующий один блок: **ANA-13 closure audit / synthesis**.
