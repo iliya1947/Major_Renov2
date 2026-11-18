@@ -101,7 +101,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-03 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **ANA-04 — Shoulder complex**.
+Последняя закрытая тема: **ANA-04 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **ANA-05 — arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -151,37 +153,38 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-04/PASS-01_shoulder_complex_structural_functional_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-04/PASS-02_closure_audit_and_synthesis.md`
 
-Commit PASS-01:
-
-`c07c851bfe2e5f72931819466aaa312058ac2cfa`
-
-ANA-04/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+ANA-04 = **CLOSED_FOR_PRACTICE v2.0**.
 
 
 ### Следующая задача
 
-**ANA-04 closure audit / synthesis.**
+**Phase B / ANA-05 — Arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-04/PASS-01_shoulder_complex_structural_functional_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-04/PASS-01_shoulder_complex_structural_functional_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-04/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-04 status:
+**CLOSED_FOR_PRACTICE v2.0**.
+
+Closure established:
 
 1. SC, AC and GH = true synovial joints; ST = functional articulation;
-2. clavicle = principal bony axial–appendicular bridge; scapula = mobile glenoid/orientation platform;
-3. labrum, capsule, GH ligaments and bursae are structurally separated;
-4. rotator cuff = supraspinatus + infraspinatus + teres minor + subscapularis; cuff tendons blend with capsule and contribute movement + dynamic stabilization;
-5. deltoid, trapezius, serratus anterior, rhomboids, levator scapulae, pectoralis minor, pectoralis major, latissimus dorsi, teres major and boundary coracobrachialis roles are mapped at anatomy level;
-6. long-head biceps has a real shoulder/superior-labral relationship and is not anatomically elbow-only;
-7. total arm elevation is distributed across GH + scapular + clavicular + thoracic motion;
-8. 2025 systematic review rejects a universal setting phase and constant scapulohumeral ratio;
-9. normal morphology/kinematics variability is retained; no visually “correct” universal trajectory is inferred;
-10. no content blocker found, but closure requires a separate audit/synthesis.
+2. clavicle = principal bony axial–appendicular bridge;
+3. scapula = mobile glenoid/orientation platform;
+4. labrum, capsule, GH ligaments and bursae are structurally distinguished;
+5. rotator cuff composition, attachments and movement/stabilization roles are covered;
+6. deltoid, major scapular and axiohumeral muscles are mapped at anatomy level;
+7. long-head biceps is explicitly retained as a shoulder-related structure;
+8. total arm elevation is distributed across GH + scapular + clavicular + thoracic motion;
+9. no universal scapulohumeral setting phase or constant ratio is encoded;
+10. normal morphology/kinematics variability is retained without pathology or technique inference;
+11. no project-relevant ANA-04 blocker remains.
 
-Следующий блок: **ANA-04 closure audit / synthesis**. Do not start ANA-05 in the same working block.
+Следующий один блок: **ANA-05**. После него сохранить state и STOP.
 
 ---
 
