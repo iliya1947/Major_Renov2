@@ -148,7 +148,10 @@
 - NEU-02/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 2 coverage = **12/12 PASS** and no project-relevant blocker remains.
 - Motor-unit subtype evidence status clarified during closure: PMID 40832332 is a preprint and not closure-critical; PMID 41955226 is peer-reviewed.
 - First canonical NEU-02 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **NEU-03 — Sensory feedback / proprioception.**
+- **NEU-03 — RESEARCHING.**
+- NEU-03/PASS-01 sensory-feedback/proprioception content revalidation completed 2026-11-19; exact Area 04 Section 3 coverage = **12/12 at content level**; closure audit/synthesis pending.
+- Added NEU03-01…NEU03-12 to EVIDENCE_LEDGER.
+- CURRENT NEXT: **NEU-03/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
