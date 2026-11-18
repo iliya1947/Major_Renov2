@@ -26,12 +26,13 @@ Use this file to recover work after a new chat or lost context.
 - `PSY-RES-05`: **CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS**.
 - `PSY-RES-06`: **CLOSED_FOR_PRACTICE v1.0 — 12/12 PASS**.
 - `PSY-RES-07`: **CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS**.
-- Next block: `PSY-RES-08 — Qualitative evidence and mixed-methods use in psychological questions`.
+- `PSY-RES-08`: **CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS**.
+- Next block: `PSY-RES-09 — Evidence-to-individual reasoning and uncertainty calibration`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/01_research_methodology/PSY-RES-07_clinical_vs_nonclinical_inference_boundaries.md`
+`research/psychology/qualification/01_research_methodology/PSY-RES-08_qualitative_and_mixed_methods.md`
 
 ## Hard stop condition
 
