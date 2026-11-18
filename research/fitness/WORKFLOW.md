@@ -294,7 +294,7 @@ Stage 1: **COMPLETE v1.0**.
    - `QUESTION_CARD.md`;
    - `DECISION_CARD.md`;
    - `SOURCE_STATUS_LOG.md`.
-4. Исторический статус Area 13: **RESEARCH_COMPLETE + SYNTHESIZED v1.0** — **superseded**. Текущий статус области остаётся `RESEARCHING` до revalidation RES-02…RES-29.
+4. Исторический статус Area 13: **RESEARCH_COMPLETE + SYNTHESIZED v1.0** — **superseded**. Текущий статус области остаётся `RESEARCHING` до methodology-sufficiency audit и закрытия тех RES gaps, которые реально блокируют оценку fitness evidence. Полная глубокая revalidation всех RES-02…RES-29 не является автоматическим требованием.
 
 Следующее действие по текущему restart: **RES-02**, не ANA.
 
@@ -353,8 +353,8 @@ Stage 1: **COMPLETE v1.0**.
 
 Авторитетный статус перезапуска хранится в `STAGE2_RESTART.md`.
 
-1. Прежний milestone methodology v1.0 более не считается подтверждением завершённости.
-2. RES начинается заново с RES-01.
-3. Старые findings не удаляются; они используются как карта гипотез/пробелов.
-4. Каждый новый topic проходит granular passes → gap/audit → synthesis.
-5. Только новый synthesis после audit может вернуть `CLOSED_FOR_PRACTICE`.
+1. Прежний milestone methodology v1.0 более не считается автоматическим подтверждением завершённости.
+2. RES был перезапущен с RES-01, но дальнейшая revalidation подчиняется purpose gate из `RESEARCH_ORDER.md`.
+3. Старые findings не удаляются; они используются как карта гипотез/пробелов и могут быть подтверждены, отложены или переисследованы в зависимости от downstream-релевантности.
+4. Новый granular pass открывается только при конкретной fitness-evidence зависимости; taxonomy gap сам по себе не является основанием.
+5. Для topic, который действительно требует новой глубокой revalidation, сохраняется схема granular passes → gap/audit → synthesis → `CLOSED_FOR_PRACTICE`.
