@@ -137,44 +137,46 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последний содержательный micro-pass:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6_HCD_UCD_codesign_PBA_boundary_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6A_codesign_participatory_design_coproduction_EBCD_governance_structures.md`
 
-Commit PASS-06F6:
+Commit PASS-06F6A:
 
-`4b2fce46d26853b468013bc612b6e3fa2a7b16ff`
+`39a3c367984fc5bbb3e2cc7d65b0fcdb89fcbb1b`
 
-PASS-06F6 established HCD/UCD as a design/development framework and PBA as a distinct health-intervention development approach/methodology. Current ISO 9241-210:2019 remains the HCD reference standard (confirmed in 2025): explicit user/task/environment understanding, user involvement, user-centred evaluation, iteration, whole user experience and multidisciplinary design; core activities = context of use → user requirements → design solutions → evaluation. ISO 9241-11 usability is kept distinct from acceptability, feasibility, engagement and behavioural/clinical effectiveness. PBA retains its characteristic evidence + theory + person-based qualitative research architecture and Guiding Principles chain USER_CONTEXT → DESIGN_OBJECTIVE → KEY_FEATURE. Design Thinking is routed as a non-atomic innovation-process family. Co-design/participatory design/co-production is routed as a participatory process/governance layer rather than inferred from user involvement alone; current literature shows substantial definition and decision-authority heterogeneity, so a dedicated F6A blocker pass is required. F-branch remains RESEARCHING.
+PASS-06F6A closed the participatory-design governance blocker. Canonical routing now separates PPI, consultation, involvement/collaboration, co-design and co-production/shared governance by enacted stages, decision rights, power and final authority rather than author label alone. Participatory Design is stored as a participatory design process/governance framework; co-design as collaborative design with material stakeholder influence; co-production as broader shared-power/shared-responsibility work across substantial project stages. EBCD, accelerated EBCD and E2CD are preserved as specific health-service co-design lineages/subtypes. PAR and CBPR remain broader parent participatory research/action architectures rather than co-design synonyms. Current co-design quality layers include the 2026 minimum standards, PROSECO process evaluation and PRODUCES+ planning guidance; GRIPP2 remains PPI reporting only. No further participatory-design taxonomy blocker is currently identified. F-branch remains RESEARCHING.
 
 ### Следующая задача
 
-**RES-02 / PASS-06F6A — co-design / participatory design / co-production / EBCD governance structures**
+**RES-02 / PASS-06F7 — Delphi study structures**
 
 Scope следующего micro-pass:
 
-1. participatory-design lineage;
-2. co-design definitions;
-3. co-creation;
-4. co-production;
-5. consultation vs participation vs shared authority;
-6. decision-rights taxonomy;
-7. participant/stakeholder selection;
-8. lived-experience expertise;
-9. power asymmetry;
-10. facilitation;
-11. accessibility and compensation;
-12. conflict/dissent;
-13. prototype ownership;
-14. final-decision authority;
-15. EBCD;
-16. accelerated EBCD;
-17. E2CD;
-18. co-design vs CBPR/PAR;
-19. co-design vs PPI;
-20. co-design vs HCD/PBA;
-21. reporting/provenance;
-22. sport/exercise/rehabilitation applications;
-23. determine whether any further participatory-design blocker remains;
-24. STOP after saved PASS.
+1. Delphi lineage and defining architecture;
+2. classical Delphi;
+3. modified Delphi;
+4. e-Delphi;
+5. policy/decision Delphi variants;
+6. panel composition and expertise;
+7. panel size;
+8. anonymity/quasi-anonymity;
+9. round structure;
+10. item generation;
+11. controlled feedback;
+12. re-rating;
+13. consensus definition;
+14. consensus thresholds;
+15. stability vs agreement;
+16. attrition;
+17. stopping rules;
+18. dissensus;
+19. Delphi vs survey;
+20. Delphi vs NGT;
+21. Delphi vs RAND/UCLA;
+22. CREDES;
+23. ACCORD reporting;
+24. sport/exercise/rehabilitation applications;
+25. quality/provenance;
+26. STOP after saved PASS.
 
 ---
 
@@ -191,11 +193,11 @@ Scope следующего micro-pass:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6_HCD_UCD_codesign_PBA_boundary_study_structures.md`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6A_codesign_participatory_design_coproduction_EBCD_governance_structures.md`
 
 и затем продолжить granular revalidation новым файлом:
 
-`research/fitness/passes/13_research_methodology/RES-02/PASS-06F6A_...`
+`research/fitness/passes/13_research_methodology/RES-02/PASS-06F7_...`
 
 ---
 
