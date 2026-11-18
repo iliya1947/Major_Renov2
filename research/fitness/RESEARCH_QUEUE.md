@@ -51,9 +51,12 @@
 - ANA-14/PASS-01 surface-anatomy/measurement-landmark revalidation completed 2026-11-18.
 - ANA-14/PASS-02 closure audit / synthesis completed 2026-11-18; exact area-map coverage 6/6 and no project-relevant blocker remains.
 - First canonical ANA-14 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT: **Phase B / ANA-15 — Individual anatomy / anthropometry.**
-- ANA-15/PASS-01 individual-anatomy/anthropometry revalidation completed 2026-11-18; exact Sections 18–19 coverage 18/18 at content level and no legacy ANA-15 finding exists in current branch.
-- CURRENT NEXT: **ANA-15 closure audit / synthesis**. Do not start PHY-01 before ANA-15 closure.
+- **ANA-15 — CLOSED_FOR_PRACTICE v2.0.**
+- ANA-15/PASS-01 individual-anatomy/anthropometry revalidation completed 2026-11-18.
+- ANA-15/PASS-02 closure audit / synthesis completed 2026-11-18; exact Sections 18–19 coverage 18/18 and no project-relevant blocker remains.
+- First canonical ANA-15 finding created as v2.0 because no legacy finding existed in the current branch.
+- **ANA-01…ANA-15 — CLOSED_FOR_PRACTICE v2.0; Anatomy dependency complete for current project purpose.**
+- CURRENT NEXT: **Phase B / PHY-01 — Principles of adaptation.**
 
 ## История текущего revalidation cycle
 
@@ -534,3 +537,10 @@
 392. Anthropometry is retained as geometry input rather than deterministic technique classifier; group averages do not substitute for individual measurement.
 393. No legacy ANA-15 finding exists in current branch; canonical finding will be created only if closure audit passes.
 394. Следующий один блок: **ANA-15 closure audit / synthesis**.
+
+395. Завершён **ANA-15/PASS-02 — Closure audit and synthesis**.
+396. Exact Sections 18–19 coverage = **18/18 PASS**; anthropometric geometry, joint variation, attachment/belly/tendon variation, asymmetry, maturation, aging and sex/population boundaries passed audit.
+397. ANA-15 = **CLOSED_FOR_PRACTICE v2.0**; first canonical `ANA-15_individual_anatomy_anthropometry.md` created because current branch had no legacy finding.
+398. Existing ledger ANA15-01…ANA15-06 is sufficient for closure.
+399. Anatomy ANA-01…ANA-15 is now **CLOSED_FOR_PRACTICE v2.0** for current downstream fitness dependencies.
+400. Следующий один блок: **PHY-01 — Principles of adaptation**.
