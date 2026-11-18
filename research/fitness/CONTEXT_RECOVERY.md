@@ -32,9 +32,9 @@ Base branch: `main`
 
 Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как завершённые.
 
-После Stage 2 restart старые RES/ANA findings считаются **legacy reconnaissance drafts**, пока соответствующая тема не пройдёт новую granular revalidation.
+После Stage 2 restart старые RES/ANA findings остаются **legacy reconnaissance drafts**, если не были revalidated. Methodology Sufficiency Audit разрешает использовать RES-03…RES-29 как operational baseline без автоматической полной revalidation; это не превращает их в full revalidated findings.
 
-Обязательная схема для каждого topic:
+Для topic, который выбран для новой глубокой revalidation, обязательная схема:
 
 `granular passes → отдельный gap/audit pass → новый synthesis → CLOSED_FOR_PRACTICE`
 
