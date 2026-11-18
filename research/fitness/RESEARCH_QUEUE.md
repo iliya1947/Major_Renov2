@@ -3,8 +3,10 @@
 ## Сейчас
 
 1. **Stage 2 — RESTARTED.**
-2. **RES-01 — CLOSED_FOR_PRACTICE.**
-3. RESEARCHING next: **RES-02 — study designs.**
+2. **Phase A / RES — SUFFICIENT_FOR_NEXT_PHASE** по Methodology Sufficiency Audit от 2026-11-18.
+3. **RES-01 — CLOSED_FOR_PRACTICE.**
+4. **RES-02 — SUFFICIENT_FOR_PHASE_A; residual taxonomy deferred by purpose gate.**
+5. CURRENT NEXT: **Phase B / ANA-01 — Anatomical terminology / planes / axes / movement terms.**
 4. RES-01 PASS-01…PASS-16 завершены: granular revalidation → gap audits → architecture → synthesis → closure audit.
 5. RES-02/PASS-01…PASS-06A завершены и остаются текущей валидной базой. Прежний широкий `PASS-06B_prognosis_prediction_designs.md` по решению пользователя **SUPERSEDED** и не считается закрытием prognosis/prediction branch.
 6. Новая granular revalidation PASS-06B начата. Завершены:
