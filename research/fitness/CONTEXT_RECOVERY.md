@@ -133,7 +133,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-04 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-05 — Acute response to resistance exercise**.
+Текущая тема: **PHY-05 — Acute response to resistance exercise — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -183,39 +183,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-04/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-05/PASS-01_acute_response_to_resistance_exercise_revalidation.md`
 
-PHY-04 = **CLOSED_FOR_PRACTICE v2.0**.
+PHY-05/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Canonical finding:
+Exact content coverage:
+- `areas/03_physiology.md` Section 6 = **10/10 at content level**.
 
-`research/fitness/findings/03_physiology/PHY-04_contraction_modes.md`
+PASS-01 established:
 
-Closure established:
-
-1. exact `areas/03_physiology.md` Section 4 coverage = **10/10 PASS**;
-2. concentric/eccentric/isometric definitions are fixed with internal fascicle/MTU nuance;
-3. isokinetic is treated as an apparatus-controlled velocity condition rather than a separate sarcomeric mechanism;
-4. force–velocity and force–length foundations pass;
-5. eccentric force capacity is high but exact ratios are context dependent;
-6. eccentric intrinsic metabolic cost is low relative to force, without assuming universally low session recovery cost;
-7. fatigue is separated into metabolic/peripheral, neuromuscular and damage-related dimensions;
-8. eccentric EIMD/DOMS is novelty/dose dependent and repeated-bout protection is retained;
-9. strength adaptation is mode/task specific with incomplete cross-mode transfer;
-10. no universal eccentric/concentric/isometric hypertrophy hierarchy is claimed;
-11. accentuated eccentric loading is not treated as chronically superior merely because eccentric stimulus is larger;
-12. architectural adaptation uncertainty remains bounded;
-13. isometric training is retained as a legitimate strength/hypertrophy tool with task/angle specificity;
-14. SSC remains integrated MEC/NEU/TEC/PRO territory;
-15. acute contraction-mode responses are not used as chronic adaptation surrogates;
-16. no project-relevant blocker remains;
-17. first canonical PHY-04 finding was created at v2.0.
+1. force/velocity/power decline are acute performance/fatigue responses rather than direct hypertrophy measures;
+2. metabolic disturbance is protocol-dependent and is not a stand-alone growth surrogate;
+3. contracting muscle shows dynamic hyperemia/perfusion changes, without blood flow being promoted to a direct gain predictor;
+4. acute swelling/pump is a fluid-volume phenomenon rather than immediate hypertrophy;
+5. transient systemic GH/testosterone responses are not used as predictors of later hypertrophy/strength;
+6. acute cytokine/myokine responses are not equated with chronic inflammation or gains;
+7. neuromuscular fatigue is multidimensional and not reducible to EMG amplitude;
+8. proximity to failure, volume, set duration and density materially influence acute fatigue;
+9. postexercise recovery is multidimensional and marker/outcome specific;
+10. one recovered marker does not prove complete-system recovery;
+11. acute response magnitude is explicitly separated from chronic adaptation magnitude;
+12. acute markers retain valid uses for session-dose/fatigue/recovery interpretation;
+13. no content-level blocker was found;
+14. canonical PHY-05 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**Phase B / PHY-05 — Acute response to resistance exercise.**
+**PHY-05/PASS-02 — Closure audit and synthesis.**
 
-После следующего одного блока сохранить state и STOP. Не открывать PHY-06 автоматически.
+После PASS-02 сохранить state и STOP. Не начинать PHY-06 автоматически.
 
 ---
 
@@ -231,9 +227,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-04/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-05/PASS-01_acute_response_to_resistance_exercise_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-05 — Acute response to resistance exercise** и остановиться перед следующим topic.
+Затем выполнить только записанный выше **PHY-05/PASS-02 closure audit and synthesis** и остановиться перед PHY-06.
 
 ---
 

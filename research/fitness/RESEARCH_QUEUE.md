@@ -72,7 +72,9 @@
 - PHY-04/PASS-01 contraction-modes content revalidation completed 2026-11-18.
 - PHY-04/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 4 coverage = **10/10 PASS**; force–length/force–velocity foundation passed; no project-relevant blocker remains.
 - First canonical PHY-04 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **Phase B / PHY-05 — Acute response to resistance exercise.**
+- **PHY-05 — RESEARCHING.**
+- PHY-05/PASS-01 acute-response content revalidation completed 2026-11-18; exact Section 6 coverage = **10/10 at content level**; closure audit/synthesis pending.
+- CURRENT NEXT: **PHY-05/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
