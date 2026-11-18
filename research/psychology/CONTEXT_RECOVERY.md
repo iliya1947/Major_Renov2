@@ -23,12 +23,13 @@ Use this file to recover work after a new chat or lost context.
 - `PSY-RES-02`: **CLOSED_FOR_PRACTICE v1.0 — 8/8 PASS**.
 - `PSY-RES-03`: **CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS**.
 - `PSY-RES-04`: **CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS**.
-- Next block: `PSY-RES-05 — Systematic reviews, meta-analysis, heterogeneity, and publication bias`.
+- `PSY-RES-05`: **CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS**.
+- Next block: `PSY-RES-06 — Replication, generalizability, individual differences, and transportability`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/01_research_methodology/PSY-RES-04_bias_confounding_selection_measurement_error.md`
+`research/psychology/qualification/01_research_methodology/PSY-RES-05_systematic_reviews_meta_analysis_heterogeneity_publication_bias.md`
 
 ## Hard stop condition
 
