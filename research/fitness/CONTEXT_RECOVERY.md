@@ -109,7 +109,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-07 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **ANA-08 — Pelvis and hip**.
+Текущая тема: **ANA-08 — Pelvis and hip**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -159,38 +159,41 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-07/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-08/PASS-01_pelvis_hip_structural_functional_revalidation.md`
 
-ANA-07 = **CLOSED_FOR_PRACTICE v2.0**.
+Commit PASS-01:
+
+`88f32f067ea813922ac027e32e7d868c6bb72045`
+
+ANA-08/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
 
 ### Следующая задача
 
-**Phase B / ANA-08 — Pelvis and hip.**
+**ANA-08 closure audit / synthesis.**
 
-Последние завершённые блоки:
+Последний завершённый блок:
 
-1. `research/fitness/passes/02_anatomy/ANA-07/PASS-01_trunk_spine_musculature_revalidation.md`
-2. `research/fitness/passes/02_anatomy/ANA-07/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-08/PASS-01_pelvis_hip_structural_functional_revalidation.md`
 
-ANA-07 status:
-**CLOSED_FOR_PRACTICE v2.0**.
+PASS-01 установил:
 
-Closure established:
+1. pelvis = load-transmitting ring between spine/sacrum and femora;
+2. normal SIJ is highly constrained but not fused or motionless; 2026 dynamic gait data show small measurable motion;
+3. SIJ morphology/asymmetry varies normally and does not by itself diagnose dysfunction;
+4. hip stability = bone + labrum + integrated capsuloligamentous system + muscles; zona orbicularis is included in the capsule model;
+5. femoral version and acetabular orientation/coverage vary and measurement method affects reported “normal” version values;
+6. gluteus maximus distal anatomy is more nuanced than “most fibers insert into ITB”; 2025 cadaveric data found predominant femoral distal-tendon attachment in that sample;
+7. gluteus medius/minimus are fan-shaped regional systems rather than one-action “side glutes”;
+8. iliopsoas links lumbar/pelvic/femoral anatomy; psoas minor is variable and distinct from the main femoral insertion;
+9. adductor magnus classic adductor/hamstring split remains useful, while 2026 cadaveric work describes four structural components with variation;
+10. most hamstrings cross hip+knee, but biceps-femoris short head does not cross hip;
+11. deep external rotators are differentiated muscles; gemelli remain distinct despite a shared obturator-internus insertional system;
+12. ITB = connective tissue/fascia, not muscle; proximal gluteal connections are more complex than one insertion cartoon;
+13. anatomy does not support one universal squat stance/toe angle or diagnosis from pelvic/femoral morphology alone;
+14. no content blocker found, but closure requires a separate audit/synthesis.
 
-1. axial skeletal structures remain owned by ANA-03; ANA-07 owns trunk musculature and pressure-boundary anatomy;
-2. erector spinae = iliocostalis + longissimus + spinalis;
-3. transversospinalis = semispinalis + multifidus + rotatores;
-4. lumbar multifidus has nonuniform bundle architecture; one rigid fascicle-span rule is not encoded;
-5. abdominal wall = rectus + EO + IO + TrA integrated through aponeuroses/rectus sheath/linea alba;
-6. TrA is not anatomically the unique deep stabilizer and no TrA-first hierarchy is encoded;
-7. QL is nonuniform/multilayer; layer-specific exercise specialization remains unproven;
-8. TLF is named multilayer regional anatomy with model-dependent two-/three-layer descriptions;
-9. diaphragm and pelvic floor define superior/inferior muscular boundaries of the pressure-support system without prescribing one bracing strategy;
-10. “core” remains functional shorthand rather than one organ;
-11. all 11 legacy critical outcomes passed closure; no project-relevant blocker remains.
-
-Следующий один блок: **ANA-08 — Pelvis and hip**. После него сохранить state и STOP.
+Следующий блок: **ANA-08 closure audit / synthesis**. Do not start ANA-09 in the same working block.
 
 ---
 
@@ -206,9 +209,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-07/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-08/PASS-01_pelvis_hip_structural_functional_revalidation.md`
 
-Затем выполнить только записанный выше **ANA-08** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **ANA-08 closure audit / synthesis** и остановиться перед ANA-09.
 
 ---
 
