@@ -33,7 +33,9 @@
 - **ANA-09 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-09/PASS-01 knee structural-functional revalidation completed 2026-11-18.
 - ANA-09/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT NEXT: **Phase B / ANA-10 — Голеностоп и стопа.**
+- CURRENT: **Phase B / ANA-10 — Голеностоп и стопа.**
+- ANA-10/PASS-01 ankle-foot-calf-arch structural-functional revalidation completed 2026-11-18.
+- CURRENT NEXT: **ANA-10 closure audit / synthesis**. Do not start ANA-11 before ANA-10 closure.
 
 ## История текущего revalidation cycle
 
@@ -439,3 +441,10 @@
 328. ANA-09 = **CLOSED_FOR_PRACTICE v2.0**.
 329. Existing ledger ANA09-01…ANA09-06 is sufficient for closure; no extra claim required.
 330. Следующий один блок: **ANA-10 — Голеностоп и стопа**.
+
+331. Завершён **ANA-10/PASS-01 — Ankle, foot, calf and arch structural-functional revalidation**.
+332. Mortise/syndesmosis, talocrural-subtalar-midtarsal systems, ankle ligaments, four leg compartments, calf/Achilles, deep posterior muscles, intrinsic foot, plantar aponeurosis and arches revalidated.
+333. 2026 Achilles histology reduces confidence in a universal three-discrete-subtendon model; heterogeneity/twist retained, discrete subtendon boundaries marked contested.
+334. 2026 tibialis-posterior review adds extensive branching/attachment variability; 2026 gastrocnemius review supports non-identical medial/lateral heads.
+335. Windlass retained with direct CT support and explicit interindividual variability / simulated-posture limitation.
+336. Следующий один блок: **ANA-10 closure audit / synthesis**.
