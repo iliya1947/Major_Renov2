@@ -39,9 +39,11 @@
 - **ANA-11 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-11/PASS-01 muscle-organization/architecture revalidation completed 2026-11-18.
 - ANA-11/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT: **Phase B / ANA-12 — Нервная анатомия движения.**
-- ANA-12/PASS-01 nervous-anatomy-of-movement revalidation completed 2026-11-18; current branch has no legacy ANA-12 finding file.
-- CURRENT NEXT: **ANA-12 closure audit / synthesis**. Do not start ANA-13 before ANA-12 closure.
+- **ANA-12 — CLOSED_FOR_PRACTICE v2.0.**
+- ANA-12/PASS-01 nervous-anatomy-of-movement revalidation completed 2026-11-18.
+- ANA-12/PASS-02 closure audit / synthesis completed 2026-11-18; exact area-map coverage 19/19 and no project-relevant blocker remains.
+- First canonical ANA-12 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **Phase B / ANA-13 — Базовая cardio-respiratory anatomy.**
 
 ## История текущего revalidation cycle
 
@@ -480,3 +482,9 @@
 356. Current variation evidence added for upper-limb nerve communications, lumbar/lumbosacral plexus and sciatic division/course; maps remain modal rather than personal absolutes.
 357. No legacy ANA-12 finding exists in current branch; canonical finding will be created only if closure audit passes.
 358. Следующий один блок: **ANA-12 closure audit / synthesis**.
+
+359. Завершён **ANA-12/PASS-02 — Closure audit and synthesis**.
+360. Exact Section 14 coverage = **19/19 PASS**; root/ramus, plexus-root, myotome/dermatome and named-peripheral-nerve map boundaries passed audit.
+361. ANA-12 = **CLOSED_FOR_PRACTICE v2.0**; first canonical `ANA-12_nervous_anatomy.md` created because current branch had no legacy finding.
+362. Existing ledger ANA12-01…ANA12-06 is sufficient for closure; motor-unit/spindle/GTO mechanisms remain deferred to NEU.
+363. Следующий один блок: **ANA-13 — Базовая cardio-respiratory anatomy**.
