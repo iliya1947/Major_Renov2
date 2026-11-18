@@ -27,9 +27,10 @@
 - **ANA-07 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-07/PASS-01 trunk-spine-musculature revalidation completed 2026-11-18.
 - ANA-07/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT: **Phase B / ANA-08 — Pelvis and hip.**
+- **ANA-08 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-08/PASS-01 pelvis-hip structural-functional revalidation completed 2026-11-18.
-- CURRENT NEXT: **ANA-08 closure audit / synthesis**. Do not start ANA-09 before ANA-08 closure.
+- ANA-08/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
+- CURRENT NEXT: **Phase B / ANA-09 — Колено.**
 
 ## История текущего revalidation cycle
 
@@ -417,3 +418,9 @@
 313. 2025 gluteus-maximus re-evaluation and 2026 adductor-magnus anatomy refine simplified insertion/subdivision maps without creating new exercise taxonomies.
 314. Femoral/acetabular morphology variation retained as a reason not to derive one universal squat stance from atlas anatomy.
 315. Следующий один блок: **ANA-08 closure audit / synthesis**.
+
+316. Завершён **ANA-08/PASS-02 — Closure audit and synthesis**.
+317. Все 11 critical outcomes ANA-08 покрыты; no pelvic/hip structural blocker remains.
+318. ANA-08 = **CLOSED_FOR_PRACTICE v2.0**.
+319. Existing ledger ANA08-01…ANA08-06 is sufficient for closure; no extra claim required.
+320. Следующий один блок: **ANA-09 — Колено**.
