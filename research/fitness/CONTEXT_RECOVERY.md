@@ -103,7 +103,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-04 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **ANA-05 — arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces**.
+Последняя закрытая тема: **ANA-05 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **ANA-06 — forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -153,37 +155,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-05/PASS-01_arm_elbow_structural_functional_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-05/PASS-02_closure_audit_and_synthesis.md`
 
-Commit PASS-01:
-
-`e33bb60170c5f908f74590e1be8f0ae7fec9b78d`
-
-ANA-05/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+ANA-05 = **CLOSED_FOR_PRACTICE v2.0**.
 
 
 ### Следующая задача
 
-**ANA-05 closure audit / synthesis.**
+**Phase B / ANA-06 — Forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-05/PASS-01_arm_elbow_structural_functional_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-05/PASS-01_arm_elbow_structural_functional_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-05/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-05 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. elbow region = humeroulnar + humeroradial + PRUJ articulations, а forearm rotation требует PRUJ + DRUJ;
-2. UCL/MCL, lateral collateral complex, annular ligament, capsule, bone and muscles jointly stabilize elbow;
-3. biceps = elbow flexor + supinator + shoulder-crossing biarticular muscle with distal tendon + bicipital-aponeurosis architecture;
-4. brachialis = ulna-inserting elbow flexor across forearm orientations;
-5. brachioradialis = radial-nerve elbow flexor with mid-prone relevance, not an isolated “hammer-curl muscle”;
-6. triceps = three-head elbow extensor; long head crosses shoulder;
-7. anconeus = extensor/stabilizer; 2026 internal compartmentalization evidence remains provisional;
-8. PRUJ morphology varies normally between individuals;
-9. grip/shoulder/elbow position changes anatomy/geometry but does not by itself establish the best exercise;
-10. no content blocker found, but closure requires a separate audit/synthesis.
+Closure established:
 
-Следующий блок: **ANA-05 closure audit / synthesis**. Do not start ANA-06 in the same working block.
+1. elbow region = humeroulnar + humeroradial + PRUJ articulations;
+2. forearm pronation/supination requires PRUJ + DRUJ rather than wrist rotation;
+3. capsule, UCL/MCL, lateral collateral complex, annular/PRUJ structures, bone and muscles jointly stabilize elbow;
+4. biceps, brachialis and brachioradialis are distinct elbow flexors;
+5. distal biceps includes tendon → radial tuberosity plus bicipital-aponeurosis continuation;
+6. triceps has three heads; long head crosses shoulder and elbow;
+7. anconeus is an extensor/stabilizer; detailed internal functional compartmentalization remains provisional;
+8. normal PRUJ morphology varies between individuals;
+9. grip/shoulder/elbow position changes geometry but does not by anatomy alone establish exercise superiority;
+10. all 11 ANA-05 critical outcomes passed closure; no project-relevant blocker remains.
+
+Следующий один блок: **ANA-06**. После него сохранить state и STOP.
 
 ---
 
@@ -199,9 +201,9 @@ PASS-01 установил:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-05/PASS-01_arm_elbow_structural_functional_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-05/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **ANA-05 closure audit / synthesis** и остановиться перед ANA-06.
+Затем выполнить только записанный выше **ANA-06** и остановиться перед следующим блоком.
 
 ---
 
