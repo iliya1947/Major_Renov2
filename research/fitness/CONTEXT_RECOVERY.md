@@ -163,7 +163,11 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-19 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-20 — Environmental physiology — RESEARCHING**.
+Последняя закрытая тема: **PHY-20 — CLOSED_FOR_PRACTICE v2.0**.
+
+Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current project purpose**.
+
+Следующая тема: **NEU-01 — Nervous-system organization — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -213,37 +217,36 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-20/PASS-01_environmental_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-20/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `0d38b42c5e6666482426a19ce93dd1cba2d84d7e`  
-Evidence-ledger commit: `81cb1dfedde6bb474f7ef1c196f917dcb239fc4c`
+PASS commit: `e393b05486342f5c91a95c5238377cb032d99256`  
+Canonical finding commit: `5d0f13ac58d2f4dbcbf241f1309edb89e076396b`  
+Evidence-ledger provenance commit: `d07d2fa80479fee9dac904c7324a8c3837ce1171`
 
-PHY-20/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-20/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 23 = **8/8 at content level**.
+Closure result:
 
-PASS-01 established:
-
-1. thermoregulation is a heat-balance problem involving metabolic heat production and multiple environmental heat-exchange terms;
-2. sweat production is separated from effective evaporative cooling;
-3. humidity, airflow and clothing explicitly modify evaporative capacity;
-4. heat acclimation lowers thermal/cardiovascular strain on average but remains protocol/dose/person dependent;
-5. cold exposure protects core temperature through vasoconstriction/thermogenesis while potentially degrading peripheral neuromuscular/manual performance;
-6. hydration status modifies thermophysiological strain, but current randomized evidence does not support a deterministic universal dehydration-performance threshold or one universally superior drinking strategy;
-7. hydration cannot fully prevent heat accumulation when environmental evaporative capacity is insufficient;
-8. cardiovascular drift is treated as an integrated prolonged-exercise response rather than a direct dehydration meter;
-9. heat/humidity can materially impair sustainable performance;
-10. exertional heat illness remains MED-owned;
-11. exact Section 23 coverage = **8/8 at content level**;
-12. no content-level blocker was found;
-13. canonical PHY-20 finding is deferred until closure audit.
+1. exact Section 23 coverage = **8/8 PASS**;
+2. thermal stress remains a full heat-balance problem rather than air temperature alone;
+3. sweat production remains distinct from effective evaporation;
+4. humidity remains an evaporative-capacity/performance variable;
+5. heat acclimation remains dose/protocol/person dependent;
+6. cold remains a core-protection/peripheral-performance tradeoff;
+7. hydration modifies thermophysiological strain without guaranteeing performance or thermal safety;
+8. current randomized hydration evidence remains very-low-certainty for critical performance/dosing conclusions;
+9. no universal dehydration-performance threshold or universally superior drinking strategy is retained;
+10. cardiovascular drift remains an integrated prolonged-exercise response rather than a direct dehydration meter;
+11. exertional heat illness remains MED/emergency territory;
+12. no project-relevant blocker remains;
+13. first canonical `PHY-20_environmental_physiology.md` created;
+14. normalized Physiology sequence **PHY-01…PHY-20 is complete for current project purpose**.
 
 ### Следующая задача
 
-**PHY-20/PASS-02 — Closure audit and synthesis.**
+**NEU-01/PASS-01 — Nervous-system organization content revalidation.**
 
-After PASS-02 save state and STOP. Do not start NEU-01 automatically.
+NEU-01 maps to Area 04 Section 1. NEU-01 has not been started. After the next one block, save state and STOP.
 
 ---
 
@@ -259,9 +262,9 @@ After PASS-02 save state and STOP. Do not start NEU-01 automatically.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-20/PASS-01_environmental_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-20/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-20/PASS-02 closure audit and synthesis** и остановиться перед NEU-01.
+Затем выполнить только записанный выше **NEU-01/PASS-01 nervous-system organization content revalidation** и остановиться перед следующим блоком.
 
 ---
 
