@@ -153,7 +153,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-14 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-15 — Respiratory exercise physiology — RESEARCHING**.
+Последняя закрытая тема: **PHY-15 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **PHY-16 — Endocrine / immune physiology — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -203,38 +205,36 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-15/PASS-01_respiratory_exercise_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-15/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `0b53adac207addb970573657885ba621bfd1f17a`  
-Evidence-ledger commit: `23b165dc8b8e300e0422040ef07956117842c2a3`
+PASS commit: `59ce1e27654910ebf6dba5fa0eb01b245dada5f6`  
+Canonical finding commit: `e0c518c0f014502ed4db94bd6e2d59693b9aa232`
 
-PHY-15/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-15/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 16 = **11/11 at content level**.
+Closure result:
 
-PASS-01 established:
-
-1. minute ventilation = tidal volume × breathing frequency, but alveolar ventilation additionally depends on dead space;
-2. VT and breathing frequency are separate contributors to VE and their balance shifts with demand/mechanical constraints;
-3. pulmonary gas exchange requires ventilation + perfusion/V-Q matching + diffusion;
-4. pulmonary O2 loading is only one step of whole-body oxygen transport; Hb/cardiac output/tissue diffusion remain separate;
-5. CO2 removal and VE/VCO2 are interpreted through production, alveolar ventilation, dead space and PaCO2 regulation;
-6. exercise hyperpnea is multi-controller rather than one-sensor physiology;
-7. respiratory muscles perform meaningful work and can fatigue during severe/prolonged exercise;
-8. resistance-exercise ventilation is intermittent and breathing-strategy/protocol dependent;
-9. ordinary endurance training is separated from targeted IMT/RMT; better VO2max does not prove proportional lung/spirometric adaptation;
-10. healthy respiratory limitation is usually low in non-elite adults but can emerge at very high endurance demand as EFL/EIAH/respiratory-muscle fatigue;
-11. unexplained dyspnea/desaturation remains MED-owned;
-12. exact Section 16 coverage = **11/11 at content level**;
-13. no content-level blocker was found;
-14. canonical PHY-15 finding is deferred until closure audit.
+1. exact Section 16 coverage = **11/11 PASS**;
+2. minute and alveolar ventilation remain distinct;
+3. VT and breathing frequency remain distinct contributors;
+4. pulmonary gas exchange remains ventilation + perfusion/V-Q + diffusion;
+5. whole-body O2 transport is not reduced to the lungs;
+6. CO2-removal / VE-VCO2 interpretation is bounded correctly;
+7. exercise hyperpnea remains multi-controller;
+8. respiratory-muscle work/fatigue is retained without universalization;
+9. aerobic and resistance respiratory responses remain distinct;
+10. ordinary endurance adaptation remains separated from targeted IMT/RMT;
+11. healthy respiratory reserve is substantial but not unlimited;
+12. EFL/EIAH are retained as high-demand context-dependent limitations;
+13. unexplained dyspnea/desaturation remains MED-owned;
+14. no project-relevant blocker remains;
+15. first canonical `PHY-15_respiratory_exercise_physiology.md` created.
 
 ### Следующая задача
 
-**PHY-15/PASS-02 — Closure audit and synthesis.**
+**PHY-16/PASS-01 — Endocrine / immune physiology content revalidation.**
 
-After PASS-02 save state and STOP. Do not start PHY-16 automatically.
+PHY-16 has not been started. After the next one block, save state and STOP.
 
 ---
 
@@ -250,9 +250,9 @@ After PASS-02 save state and STOP. Do not start PHY-16 automatically.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-15/PASS-01_respiratory_exercise_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-15/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-15/PASS-02 closure audit and synthesis** и остановиться перед PHY-16.
+Затем выполнить только записанный выше **PHY-16/PASS-01 endocrine / immune physiology content revalidation** и остановиться перед следующим блоком.
 
 ---
 
