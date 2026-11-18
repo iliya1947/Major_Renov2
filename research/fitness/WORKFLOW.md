@@ -222,11 +222,12 @@ Stage 2 / Phase B продолжается.
 8. ANA-06 = **CLOSED_FOR_PRACTICE v2.0**.
 9. ANA-07 = **CLOSED_FOR_PRACTICE v2.0**.
 10. ANA-08 = **CLOSED_FOR_PRACTICE v2.0**.
-11. Текущая тема: **ANA-09 — Колено**.
-12. **ANA-09/PASS-01 — knee structural-functional revalidation** завершён 2026-11-18.
-13. Current updates: quadriceps-tendon layering variability, meniscal-root variants, medial-knee complex model, posterolateral complex model, popliteus layered architecture and patellofemoral attachment variability.
-14. Следующий один блок: **ANA-09 closure audit / synthesis**.
-15. ANA-10 автоматически не запускать.
+11. ANA-09 = **CLOSED_FOR_PRACTICE v2.0**.
+12. ANA-09/PASS-01 content revalidation завершён.
+13. ANA-09/PASS-02 closure audit / synthesis завершён; blockers не найдены.
+14. Canonical ANA-09 finding обновлён до v2.0.
+15. Следующий один блок: **ANA-10 — Голеностоп и стопа**.
+16. ANA-11 автоматически не запускать после ANA-10; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -243,7 +244,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-09 closure audit / synthesis**; затем STOP.
+Ближайшая задача: Stage 2 / Phase B — **ANA-10 — Голеностоп и стопа**.
 
 
 ## 10. Stage 0B — результат
