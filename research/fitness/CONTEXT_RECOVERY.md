@@ -167,7 +167,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current project purpose**.
 
-Текущая тема: **NEU-01 — Nervous-system organization — RESEARCHING**.
+Последняя закрытая тема: **NEU-01 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-02 — Motor units: recruitment/rate coding — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -217,39 +219,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-01/PASS-01_nervous_system_organization_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-01/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `136940c03bcd74fd251a79d8ee8f8f68046399b6`  
-Evidence-ledger commit: `d0e1f7fcd506211f7056d934d777c74af7445be3`
+PASS commit: `00a5346d596a4f0f78b68551ce661dbac66af282`  
+Canonical finding commit: `9186625cfbf9a21878a35387e555ce73a95c17f6`
 
-NEU-01/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-01/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Exact content coverage:
-- `areas/04_neurophysiology_motor_learning.md` Section 1 = **12/12 at content level**.
+Closure result:
 
-PASS-01 established:
-
-1. movement is a distributed closed-loop process across cortex, basal ganglia, cerebellum, brainstem, spinal circuits, sensory feedback and peripheral output;
-2. CNS/PNS roles are separated without treating PNS/spinal cord as passive wiring;
-3. somatic nervous system is not reduced to consciously voluntary control;
-4. sympathetic/parasympathetic divisions remain useful coarse autonomic categories but not globally opposed master switches;
-5. afferent feedback continuously modifies efferent motor output and mixed peripheral nerves can carry both sensory and motor fibers;
-6. M1 is a major but non-exclusive motor hub;
-7. cerebellum supports predictive control, coordination and error-based adaptation rather than functioning as a simple “balance center”;
-8. basal ganglia support reinforcement, learned action policies, vigor/habit and action-selection-related functions without a single settled gating model;
-9. corticospinal tract is major but not the only descending motor pathway;
-10. alpha motor neurons are final common somatic outputs with active integrative/intrinsic properties;
-11. spinal interneurons are active integrative circuit elements rather than passive relays;
-12. NMJ is the neural-muscle interface; detailed transmission remains PHY-02-owned;
-13. exact Section 1 coverage = **12/12 at content level**;
-14. no content-level blocker was found;
-15. canonical NEU-01 finding is deferred until closure audit.
+1. exact Area 04 Section 1 coverage = **12/12 PASS**;
+2. movement remains a distributed closed-loop sensorimotor process;
+3. PNS/spinal cord are not treated as passive wiring;
+4. somatic control includes voluntary and automatic processing;
+5. sympathetic/parasympathetic remain coarse autonomic categories rather than globally opposed master switches;
+6. afferent feedback remains embedded in motor generation;
+7. M1 is a major but non-exclusive motor hub;
+8. cerebellum remains predictive/adaptive rather than a simple balance center;
+9. basal-ganglia action-selection language is retained with mechanistic caution;
+10. corticospinal tract remains major but non-exclusive;
+11. alpha motor neurons and spinal interneurons remain active integrators;
+12. NMJ remains the neural-muscle handoff with detailed physiology in PHY-02;
+13. no project-relevant blocker remains;
+14. first canonical `NEU-01_nervous_system_organization.md` created.
 
 ### Следующая задача
 
-**NEU-01/PASS-02 — Closure audit and synthesis.**
+**NEU-02/PASS-01 — Motor units: recruitment/rate coding content revalidation.**
 
-After PASS-02 save state and STOP. Do not start NEU-02 automatically.
+NEU-02 maps to Area 04 Section 2. NEU-02 has not been started. After the next one block, save state and STOP.
 
 ---
 
@@ -265,9 +263,9 @@ After PASS-02 save state and STOP. Do not start NEU-02 automatically.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-01/PASS-01_nervous_system_organization_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-01/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-01/PASS-02 closure audit and synthesis** и остановиться перед NEU-02.
+Затем выполнить только записанный выше **NEU-02/PASS-01 motor units: recruitment/rate coding content revalidation** и остановиться перед следующим блоком.
 
 ---
 
