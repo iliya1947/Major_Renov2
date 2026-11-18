@@ -13,6 +13,7 @@ This directory stores topic-level qualification material for **Research methodol
 5. `PSY-RES-05_systematic_reviews_meta_analysis_heterogeneity_publication_bias.md` — systematic-review methods, meta-analysis compatibility, effect measures, heterogeneity, prediction intervals, subgroup/meta-regression limits, missing evidence/publication bias, certainty, and a reusable evidence-synthesis gate.
 6. `PSY-RES-06_replication_generalizability_individual_differences_transportability.md` — reproducibility versus replication, replication interpretation, constraints on generality, target populations, transportability assumptions, effect heterogeneity, between/within-person inference, and individual-transfer gate.
 7. `PSY-RES-07_clinical_vs_nonclinical_inference_boundaries.md` — normal variation versus disorder, symptoms, screening, syndrome/diagnostic hypotheses, differential/exclusion logic, culture/development, multisource assessment, and a reusable clinical-boundary gate.
+8. `PSY-RES-08_qualitative_and_mixed_methods.md` — qualitative claim routing, methodological integrity, reflexivity, sampling/data adequacy, qualitative synthesis, mixed-methods designs/integration, causal boundaries, and a reusable qualitative/mixed-methods gate.
 
 ## Content rule
 
