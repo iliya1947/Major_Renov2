@@ -224,11 +224,12 @@ Stage 2 / Phase B продолжается.
 10. ANA-08 = **CLOSED_FOR_PRACTICE v2.0**.
 11. ANA-09 = **CLOSED_FOR_PRACTICE v2.0**.
 12. ANA-10 = **CLOSED_FOR_PRACTICE v2.0**.
-13. Текущая тема: **ANA-11 — Мышечная организация и архитектура**.
-14. **ANA-11/PASS-01 — muscle-organization/architecture revalidation** завершён 2026-11-18.
-15. Current updates: human serial-sarcomere intervention evidence added with correct direct-vs-calculated distinction; PCSS marked bioRxiv preprint/emerging; regional architecture and 3D measurement limitations strengthened.
-16. Следующий один блок: **ANA-11 closure audit / synthesis**.
-17. ANA-12 автоматически не запускать.
+13. ANA-11 = **CLOSED_FOR_PRACTICE v2.0**.
+14. ANA-11/PASS-01 content revalidation завершён.
+15. ANA-11/PASS-02 closure audit / synthesis завершён; blockers не найдены.
+16. Canonical ANA-11 finding обновлён до v2.0.
+17. Следующий один блок: **ANA-12 — Нервная анатомия движения**.
+18. ANA-13 автоматически не запускать после ANA-12; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -245,7 +246,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-11 closure audit / synthesis**; затем STOP.
+Ближайшая задача: Stage 2 / Phase B — **ANA-12 — Нервная анатомия движения**.
 
 
 ## 10. Stage 0B — результат
