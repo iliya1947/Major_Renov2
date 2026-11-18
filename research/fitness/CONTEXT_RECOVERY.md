@@ -171,7 +171,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-02 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-03 — Sensory feedback / proprioception — NOT STARTED**.
+Текущая тема: **NEU-03 — Sensory feedback / proprioception — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -221,39 +221,40 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-02/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-03/PASS-01_sensory_feedback_proprioception_revalidation.md`
 
-PASS commit: `004a6fb82a7e851d338cb2a5bcc3c218dff023e4`  
-Canonical finding commit: `07ed61e14c9b35a3f1e83033e6c636cb19b7448b`  
-PASS-01 source-status commit: `0f76286dc8192d6846e546b90a9623689c353a08`  
-Evidence-ledger source-status commit: `9d0730365fe51f0bb9c316ff60cb038a33d5ae18`
+PASS commit: `8c168d9c523c6f0728cd8b7b820d3c3211a45138`  
+Evidence-ledger commit: `6d102c8b2ac0cfd5c214b129d588529c5af6b52a`
 
-NEU-02/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-03/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Exact content coverage:
+- `areas/04_neurophysiology_motor_learning.md` Section 3 = **12/12 at content level**.
 
-1. exact Area 04 Section 2 coverage = **12/12 PASS**;
-2. motor-unit size remains multidimensional;
-3. recruitment threshold remains task/context dependent;
-4. size principle remains the default orderly-recruitment architecture without rigid task-independent thresholds;
-5. derecruitment remains history/neuromodulation dependent;
-6. recruitment and rate coding jointly regulate force;
-7. rate coding remains distinct from temporal summation;
-8. common synaptic input remains distinct from synchronization;
-9. greater synchronization is not treated as a universal strength/RFD advantage;
-10. effort-level motor-unit behavior remains muscle/task/force-profile dependent;
-11. fatigue-related firing-rate changes are not treated as a universal causal fatigue marker;
-12. slow/fast archetypes remain useful with continuum/human-classification limits;
-13. HD-sEMG samples motor-neuron output rather than fully enumerating the active pool;
-14. PMID 40832332 is retained only as non-critical preprint mechanistic support; PMID 41955226 is the peer-reviewed mouse-classification source;
-15. no project-relevant blocker remains;
-16. first canonical `NEU-02_motor_units_recruitment_rate_coding.md` created.
+PASS-01 established:
+
+1. proprioception is a multimodal body-state estimate, not one receptor, one balance test or one global trait;
+2. muscle spindles provide major length/movement information with Ia/II dynamic-static overlap and fusimotor context;
+3. GTOs provide force/tension-related feedback and are not simple autogenic-inhibition switches;
+4. joint receptors are supplementary/context-dependent contributors rather than sole joint-angle sensors;
+5. cutaneous skin stretch can materially alter proprioceptive estimates;
+6. vision is distinct from proprioception but integrated with it;
+7. vestibular input provides head-motion/gravity reference and remains distinct from proprioception proper;
+8. sensorimotor integration uses task/reliability-dependent sensory reweighting;
+9. position sense, movement sense and force sense are related but distinct constructs;
+10. some position-reproduction tasks contain memory/motor-command components and do not isolate peripheral proprioception;
+11. force sense combines peripheral force-related feedback with central motor-command/efference-related information;
+12. fatigue can impair proprioceptive accuracy, but effects vary by joint, fatigue type, task and metric;
+13. balance/postural sway is a multisensory motor outcome, not a direct proprioception measure;
+14. exact Section 3 coverage = **12/12 at content level**;
+15. no content-level blocker was found;
+16. canonical NEU-03 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**NEU-03/PASS-01 — Sensory feedback / proprioception content revalidation.**
+**NEU-03/PASS-02 — Closure audit and synthesis.**
 
-NEU-03 maps to Area 04 Section 3. NEU-03 has not been started. After the next one block, save state and STOP.
+After PASS-02 save state and STOP. Do not start NEU-04 automatically.
 
 ---
 
@@ -269,9 +270,9 @@ NEU-03 maps to Area 04 Section 3. NEU-03 has not been started. After the next on
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-02/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-03/PASS-01_sensory_feedback_proprioception_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-03/PASS-01 sensory feedback / proprioception content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-03/PASS-02 closure audit and synthesis** и остановиться перед NEU-04.
 
 ---
 
