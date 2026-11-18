@@ -691,7 +691,7 @@ Never:
 8. Dahabreh, I. J., Haneuse, S. J.-P. A., Robins, J. M., Robertson, S. E., Buchanan, A. L., Stuart, E. A., & Hernán, M. A. (2021). Study Designs for Extending Causal Inferences From a Randomized Trial to a Target Population. *American Journal of Epidemiology, 190*(8), 1632–1642. https://doi.org/10.1093/aje/kwaa270
 9. Ackerman, B., Lesko, C. R., Siddique, J., Susukida, R., & Stuart, E. A. (2021). Generalizing Randomized Trial Findings to a Target Population using Complex Survey Population Data. *Statistics in Medicine, 40*(5), 1101–1120. https://doi.org/10.1002/sim.8822
 10. Kent, D. M., Steyerberg, E., & van Klaveren, D. (2018). Personalized evidence based medicine: predictive approaches to heterogeneous treatment effects. *BMJ, 363*, k4245. https://doi.org/10.1136/bmj.k4245
-11. Kent, D. M., Rothwell, P. M., Ioannidis, J. P. A., Altman, D. G., & Hayward, R. A. (2010/2016 methodological literature). Heterogeneity-of-treatment-effect and group-to-individual inference framework; see: Kent et al. (2016), *International Journal of Epidemiology, 45*(6), 2184–2193. https://doi.org/10.1093/ije/dyw125
+11. Dahabreh, I. J., Hayward, R., & Kent, D. M. (2016). Using group data to treat individuals: understanding heterogeneous treatment effects in the age of precision medicine and patient-centred evidence. *International Journal of Epidemiology, 45*(6), 2184–2193. https://doi.org/10.1093/ije/dyw125
 12. Cripps, E., Wood, R. E., Beckmann, N., Lau, J., Beckmann, J. F., & Cripps, S. A. (2016). Bayesian Analysis of Individual Level Personality Dynamics. *Frontiers in Psychology, 7*, 1065. https://doi.org/10.3389/fpsyg.2016.01065
 
 ## Scope note
