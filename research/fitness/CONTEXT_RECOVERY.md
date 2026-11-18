@@ -127,7 +127,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-01 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-02 — Muscle cell and contraction — RESEARCHING**.
+Последняя закрытая тема: **PHY-02 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-03 — Fiber types / phenotype**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -177,35 +179,36 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-research/fitness/passes/03_physiology/PHY-02/PASS-01_muscle_cell_and_contraction_revalidation.md
+`research/fitness/passes/03_physiology/PHY-02/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-02/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-02 = **CLOSED_FOR_PRACTICE v2.0**.
 
-Exact content coverage:
-- areas/03_physiology.md Section 2 = **15/15**;
-- Section 3 = **13/13**;
-- total = **28/28 at content level**.
+Canonical finding:
 
-PASS-01 established:
+`research/fitness/findings/03_physiology/PHY-02_muscle_cell_and_contraction.md`
 
-1. skeletal muscle force generation is organized fiber → myofibril → sarcomere → filament;
-2. normal skeletal ECC proceeds through T-tubular voltage sensing and triadic CaV1.1–RyR1 coupling;
-3. normal skeletal muscle should not be modeled as cardiac-style trigger-Ca²⁺/CICR;
-4. Ca²⁺ activates thin filaments through troponin/tropomyosin regulation;
-5. ATP-dependent actomyosin cycling is the core active-force motor, while exact force-generating molecular substeps remain under refinement;
-6. SERCA-mediated Ca²⁺ reuptake is central to relaxation;
-7. twitch, temporal summation and tetanus are separated as frequency/time-dependent contractile responses;
-8. force–length and force–velocity are foundation-covered but detailed treatment is owned by PHY-04;
-9. titin is retained as a structural/passive-elastic and likely activation-dependent mechanical contributor without overstating its active-force role;
-10. myonuclei, satellite cells, mitochondria, ECM and capillaries are placed as supporting systems rather than the immediate actomyosin motor;
-11. no content-level blocker was found;
-12. canonical PHY-02 finding is deferred until closure audit.
+Closure established:
+
+1. exact `areas/03_physiology.md` Sections 2–3 coverage = **28/28 PASS**;
+2. muscle/fiber/myofibril/sarcomere/filament levels are separated;
+3. normal skeletal ECC is modeled as T-tubular voltage sensing + triadic CaV1.1–RyR1 coupling;
+4. cardiac-style trigger-Ca²⁺/CICR is not imported into normal skeletal muscle;
+5. Ca²⁺ activates thin filaments through cooperative troponin/tropomyosin regulation;
+6. ATP-dependent actomyosin cycling is the core active-force motor;
+7. exact microscopic force-generating substeps remain bounded uncertainty rather than false precision;
+8. SERCA-mediated Ca²⁺ reuptake makes relaxation an active ATP-dependent process;
+9. twitch, temporal summation and tetanus are separated;
+10. force–length/force–velocity are foundation-covered and detailed ownership remains PHY-04;
+11. titin active mechanics remain a non-blocking uncertainty;
+12. myonuclei, satellite cells, mitochondria, ECM and capillaries are correctly separated from the immediate contractile motor;
+13. no project-relevant blocker remains;
+14. the first canonical PHY-02 finding was created at v2.0.
 
 ### Следующая задача
 
-**PHY-02/PASS-02 — Closure audit and synthesis.**
+**Phase B / PHY-03 — Fiber types / phenotype.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-03 автоматически.
+После следующего одного блока сохранить state и STOP. Не открывать PHY-04 автоматически.
 
 ---
 
@@ -221,9 +224,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-02/PASS-01_muscle_cell_and_contraction_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-02/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-02/PASS-02 closure audit and synthesis** и остановиться перед PHY-03.
+Затем выполнить только записанный выше **PHY-03 — Fiber types / phenotype** и остановиться перед следующим topic.
 
 ---
 

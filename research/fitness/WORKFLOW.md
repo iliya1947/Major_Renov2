@@ -216,11 +216,12 @@ Stage 2 / Phase B продолжается.
 2. Anatomy ANA-01…ANA-15 = **CLOSED_FOR_PRACTICE v2.0**.
 3. Текущая область: **03 — Physiology**.
 4. PHY-01 = **CLOSED_FOR_PRACTICE v2.0**.
-5. PHY-02 = **RESEARCHING**.
-6. PHY-02/PASS-01 content revalidation завершён; exact Sections 2–3 coverage **28/28 at content level**.
-7. PHY-02 closure audit / synthesis ещё не выполнен; canonical finding ещё не создан.
-8. Следующий один блок: **PHY-02/PASS-02 — Closure audit and synthesis**.
-9. PHY-03 автоматически не запускать после PASS-02; сохраняется one block → state update → STOP.
+5. PHY-02 = **CLOSED_FOR_PRACTICE v2.0**.
+6. PHY-02/PASS-01 content revalidation завершён.
+7. PHY-02/PASS-02 closure audit / synthesis завершён; exact Sections 2–3 coverage **28/28 PASS**.
+8. Первый canonical PHY-02 finding создан как v2.0.
+9. Следующий один блок: **PHY-03 — Fiber types / phenotype**.
+10. Следующий topic автоматически не запускать; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
