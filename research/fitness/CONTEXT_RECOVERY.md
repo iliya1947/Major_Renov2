@@ -99,7 +99,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-02 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **ANA-03 — axial skeleton / vertebral column / thoracic cage structural foundation**.
+Текущая тема: **ANA-03 — axial skeleton / vertebral column / thoracic cage structural foundation**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -159,28 +159,26 @@ PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgem
 
 ### Следующая задача
 
-**Phase B / ANA-03 — Axial skeleton / vertebral column / thoracic cage structural foundation.**
+**ANA-03 closure audit / synthesis.**
 
-Последние завершённые блоки:
+Последний завершённый блок:
 
-1. `research/fitness/passes/02_anatomy/ANA-02/PASS-01_musculoskeletal_tissue_structural_map_revalidation.md`
-2. `research/fitness/passes/02_anatomy/ANA-02/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/02_anatomy/ANA-03/PASS-01_axial_skeleton_structural_foundation_revalidation.md`
 
-ANA-02 status:
-**CLOSED_FOR_PRACTICE v2.0**.
+PASS-01 установил:
 
-Closure established:
+1. vertebral column = segmented load-bearing/mobile system, not rigid rod;
+2. standard regional anatomy 7 cervical / 12 thoracic / 5 lumbar plus fused sacrum and variable coccyx retained;
+3. adult spine has 23 intervertebral discs; disc + paired facets + ligaments form the useful motion-segment model;
+4. normal sagittal anatomy includes regional curves; straightness is not anatomical neutral;
+5. current 2025–2026 data show substantial normal sagittal/spinopelvic variability among asymptomatic adults;
+6. thoracic cage = thoracic vertebrae + ribs + costal cartilage + sternum and forms the surface for scapulothoracic motion;
+7. current 2026 CT anatomy shows rib/costal-cartilage number, attachment and symmetry variation; atlas symmetry is not assumed;
+8. sacrum is the main structural bridge between spine and pelvic ring;
+9. detailed load mechanics, pain/pathology and exercise-specific neutral prescriptions remain deferred to MEC/MED/TEC;
+10. no content blocker found, but closure requires a separate audit/synthesis.
 
-1. all canonical ANA-02 structures are covered;
-2. tendon, ligament, MTJ and enthesis remain structurally distinct;
-3. graded fibrocartilaginous enthesis and enthesis-organ concept are retained;
-4. articular cartilage, capsule/synovium, bursae, tendon sheaths, menisci/discs and labra are differentiated;
-5. muscle–tendon unit (MTU) is now explicitly defined as an integrated muscle + connective-tissue/aponeurotic/tendinous force-transmission unit;
-6. tendon and aponeurosis are not assumed mechanically identical;
-7. fascia ontology remains contested; only named structures and claim-specific evidence are used;
-8. no project-relevant ANA-02 blocker remains.
-
-Следующий один блок: **ANA-03**. После него сохранить state и STOP.
+Следующий блок: **ANA-03 closure audit / synthesis**. Do not start ANA-04 in the same working block.
 
 ---
 
