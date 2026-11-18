@@ -19,13 +19,14 @@ Use this file to recover work after a new chat or lost context.
 - Branch: `research/psychology-foundation`.
 - Privacy mode: **NO PERSONAL DATA IN REPOSITORY**.
 - Phase A methodology: **IN PROGRESS**.
-- `PSY-RES-01`: **CLOSED_FOR_PRACTICE v1.0 — 7/7 closure criteria PASS**.
-- Next block: `PSY-RES-02 — Study-design families and causal-inference basics`.
+- `PSY-RES-01`: **CLOSED_FOR_PRACTICE v1.0 — 7/7 PASS**.
+- `PSY-RES-02`: **CLOSED_FOR_PRACTICE v1.0 — 8/8 PASS**.
+- Next block: `PSY-RES-03 — Measurement, reliability, validity, and psychometrics`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/01_research_methodology/PSY-RES-01_question_framing_construct_operationalization.md`
+`research/psychology/qualification/01_research_methodology/PSY-RES-02_study_designs_and_causal_inference_basics.md`
 
 ## Hard stop condition
 
