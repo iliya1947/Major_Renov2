@@ -225,11 +225,11 @@ Stage 2 / Phase B продолжается.
 11. PHY-08 = **CLOSED_FOR_PRACTICE v2.0**.
 12. PHY-09 = **CLOSED_FOR_PRACTICE v2.0**.
 13. PHY-10 = **CLOSED_FOR_PRACTICE v2.0**.
-14. PHY-10/PASS-01 content revalidation завершён.
-15. PHY-10/PASS-02 closure audit / synthesis завершён; exact Section 11 coverage **15/15 PASS**.
-16. Первый canonical PHY-10 finding создан как v2.0.
-17. Следующий один блок: **PHY-11 — Muscle damage / DOMS / repeated-bout effect**.
-18. Следующий topic автоматически не запускать; сохраняется one block → state update → STOP.
+14. PHY-11 = **RESEARCHING**.
+15. PHY-11/PASS-01 content revalidation завершён; exact Section 12 coverage **10/10 at content level**.
+16. PHY-11 closure audit / synthesis ещё не выполнен; canonical finding ещё не создан.
+17. Следующий один блок: **PHY-11/PASS-02 — Closure audit and synthesis**.
+18. PHY-12 автоматически не запускать после PASS-02; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -246,7 +246,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **PHY-11 — Muscle damage / DOMS / repeated-bout effect**.
+Ближайшая задача: Stage 2 / Phase B — **PHY-11/PASS-02 — Closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат

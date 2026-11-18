@@ -145,7 +145,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-10 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-11 — Muscle damage / DOMS / repeated-bout effect**.
+Текущая тема: **PHY-11 — Muscle damage / DOMS / repeated-bout effect — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -195,39 +195,36 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-10/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-11/PASS-01_muscle_damage_doms_rbe_revalidation.md`
 
-PHY-10 = **CLOSED_FOR_PRACTICE v2.0**.
+PHY-11/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Canonical finding:
+Exact content coverage:
+- `areas/03_physiology.md` Section 12 = **10/10 at content level**.
 
-`research/fitness/findings/03_physiology/PHY-10_fatigue.md`
+PASS-01 established:
 
-Closure established:
-
-1. exact `areas/03_physiology.md` Section 11 coverage = **15/15 PASS**;
-2. fatigue is separated from task failure and subjective tiredness;
-3. central, peripheral and neuromuscular fatigue are separate but interacting constructs;
-4. central/peripheral contributions are task and measurement dependent with no universal ratio;
-5. metabolic fatigue is not reduced to lactate;
-6. Pi and severe acidosis are retained as context-dependent contributors while lactate itself is not a universal fatigue toxin;
-7. E–C coupling/Ca²⁺ handling is retained as a peripheral mechanism family with animal/single-fiber evidence not quantitatively transferred to human RT;
-8. RT glycogen depletion is established but not treated as the sole immediate cause of short-set failure;
-9. ionic disturbances are modeled as interacting membrane-excitability mechanisms;
-10. reduced neural drive is one possible limiter, not the universal endpoint;
-11. local/systemic and central/peripheral are separate classification axes;
-12. accumulated fatigue remains an operational longitudinal state with equivocal unique physiology;
-13. task dependency is canonical;
-14. fatigue effects on force/velocity/power and movement strategy are explicit;
-15. recovery is multidimensional/outcome-specific and one marker cannot establish full recovery;
-16. no project-relevant blocker remains;
-17. first canonical PHY-10 finding was created at v2.0.
+1. EIMD is heterogeneous tissue/functional perturbation and cannot be quantified by one indirect marker;
+2. DOMS is a delayed perceptual/nociceptive outcome rather than a quantitative damage or hypertrophy measure;
+3. soreness is separated from useful training stimulus and workout quality;
+4. unfamiliar damaging loading can trigger inflammatory/repair responses without making inflammation a hypertrophy surrogate;
+5. edema/swelling is separated from retained hypertrophy and can contaminate early size measurements;
+6. temporary strength loss is retained as an important functional EIMD outcome;
+7. repeated-bout effect is established for smaller subsequent MVC loss, DOMS and CK responses and is outcome/time dependent;
+8. RBE is treated as multi-mechanistic, with peripheral contractile protection more consistently supported than central/neural explanations;
+9. eccentric loading is separated from inevitable damage; novelty/dose/training status matter;
+10. muscle damage and DOMS are explicitly rejected as necessary or validated dose markers of hypertrophy;
+11. excessive damage can reduce subsequent training quality/recovery;
+12. normal DOMS/EIMD is bounded from medical pathology, with severe/atypical presentations routed to MED;
+13. exact Section 12 coverage = 10/10 at content level;
+14. no content-level blocker was found;
+15. canonical PHY-11 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**Phase B / PHY-11 — Muscle damage / DOMS / repeated-bout effect.**
+**PHY-11/PASS-02 — Closure audit and synthesis.**
 
-После следующего одного блока сохранить state и STOP. Не открывать PHY-12 автоматически.
+После PASS-02 сохранить state и STOP. Не начинать PHY-12 автоматически.
 
 ---
 
@@ -243,9 +240,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-10/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-11/PASS-01_muscle_damage_doms_rbe_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-11 — Muscle damage / DOMS / repeated-bout effect** и остановиться перед следующим topic.
+Затем выполнить только записанный выше **PHY-11/PASS-02 closure audit and synthesis** и остановиться перед PHY-12.
 
 ---
 
