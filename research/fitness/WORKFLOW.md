@@ -226,11 +226,12 @@ Stage 2 / Phase B продолжается.
 12. ANA-10 = **CLOSED_FOR_PRACTICE v2.0**.
 13. ANA-11 = **CLOSED_FOR_PRACTICE v2.0**.
 14. ANA-12 = **CLOSED_FOR_PRACTICE v2.0**.
-15. ANA-12/PASS-01 content revalidation завершён.
-16. ANA-12/PASS-02 closure audit / synthesis завершён; exact area-map coverage 19/19.
-17. Первый canonical ANA-12 finding создан как v2.0.
-18. Следующий один блок: **ANA-13 — Базовая cardio-respiratory anatomy**.
-19. ANA-14 автоматически не запускать после ANA-13; сохраняется one block → state update → STOP.
+15. Текущая тема: **ANA-13 — Базовая cardio-respiratory anatomy**.
+16. **ANA-13/PASS-01 — basic cardio-respiratory anatomy revalidation** завершён 2026-11-18.
+17. Exact area-map coverage = **13/13 items** at content level; no legacy ANA-13 finding exists in current branch.
+18. Current updates: artery/vein direction terminology; major limb vascular routes; capillary structural level; four-chamber/four-valve/great-vessel map; systemic/pulmonary/bronchial distinctions; airway/lung/pleura and respiratory-muscle/thoracic-cage boundaries.
+19. Следующий один блок: **ANA-13 closure audit / synthesis**.
+20. ANA-14 автоматически не запускать.
 
 ## 9. Зафиксированный общий план
 
@@ -247,7 +248,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-13 — Базовая cardio-respiratory anatomy**.
+Ближайшая задача: Stage 2 / Phase B — **ANA-13 closure audit / synthesis**; затем STOP.
 
 
 ## 10. Stage 0B — результат
