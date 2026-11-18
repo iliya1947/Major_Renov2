@@ -135,7 +135,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-05 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-06 — Chronic skeletal-muscle adaptation — RESEARCHING**.
+Последняя закрытая тема: **PHY-06 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-07 — Hypertrophy mechanisms**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -185,37 +187,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-06/PASS-01_chronic_skeletal_muscle_adaptation_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-06/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-06/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-06 = **CLOSED_FOR_PRACTICE v2.0**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 7 = **12/12 at content level**.
+Canonical finding:
 
-PASS-01 established:
+`research/fitness/findings/03_physiology/PHY-06_chronic_skeletal_muscle_adaptation.md`
 
-1. chronic skeletal-muscle adaptation is multidimensional rather than synonymous with hypertrophy;
-2. retained hypertrophy is separated from acute swelling and requires method/time-point control;
-3. anatomical CSA, PCSA and specific tension are separate constructs;
-4. fascicle length and pennation angle can adapt but are muscle/region/protocol/method dependent;
-5. muscle quality is a measurement family and must be operationally defined;
-6. capillary supply is separated from capillary density and can adapt alongside hypertrophy;
-7. mitochondrial function/content/volume density are separated; RT mitochondrial remodeling is context dependent;
-8. glycolytic/oxidative enzyme remodeling is pathway/protocol specific;
-9. chronic substrate-store adaptation is separated from acute substrate depletion and depends strongly on nutrition/protocol;
-10. ECM is retained as an active remodeling compartment without overclaiming exact chronic collagen architecture;
-11. repeated-bout protection is a chronic damage-resistance adaptation distinct from hypertrophy;
-12. hypertrophy/architecture can be regionally nonuniform and one site cannot represent whole muscle;
-13. different adaptation domains operate on different clocks rather than one universal muscle-adaptation timeline;
-14. exact Section 7 coverage = 12/12 at content level;
-15. no content-level blocker was found;
-16. canonical PHY-06 finding is deferred until closure audit.
+Closure established:
+
+1. exact `areas/03_physiology.md` Section 7 coverage = **12/12 PASS**;
+2. chronic skeletal-muscle adaptation is modeled as multi-compartment rather than synonymous with hypertrophy;
+3. retained hypertrophy is separated from acute swelling;
+4. anatomical CSA, PCSA and specific tension are separate constructs;
+5. fascicle length and pennation angle are plastic but context/method dependent;
+6. muscle quality requires an explicit operational definition;
+7. RT-specific capillary supply can adapt; capillary density is not treated as interchangeable;
+8. mitochondrial function/content/relative volume density are separated;
+9. enzyme remodeling is pathway/protocol specific;
+10. substrate-store evidence is retained with moderate confidence and nutrition/timing boundary;
+11. ECM remodeling is established without overclaiming exact chronic collagen architecture;
+12. repeated-bout protection is retained as chronic damage resistance;
+13. regional adaptation is explicit and one measurement site is not assumed to represent whole muscle;
+14. different adaptation domains operate on different clocks;
+15. broader endurance/HIT/SIT capillary/mitochondrial synthesis is not used as an RT effect estimate;
+16. no project-relevant blocker remains;
+17. first canonical PHY-06 finding was created at v2.0.
 
 ### Следующая задача
 
-**PHY-06/PASS-02 — Closure audit and synthesis.**
+**Phase B / PHY-07 — Hypertrophy mechanisms.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-07 автоматически.
+После следующего одного блока сохранить state и STOP. Не открывать PHY-08 автоматически.
 
 ---
 
@@ -231,9 +235,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-06/PASS-01_chronic_skeletal_muscle_adaptation_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-06/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-06/PASS-02 closure audit and synthesis** и остановиться перед PHY-07.
+Затем выполнить только записанный выше **PHY-07 — Hypertrophy mechanisms** и остановиться перед следующим topic.
 
 ---
 
