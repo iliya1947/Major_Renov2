@@ -133,7 +133,10 @@
 - PHY-19/PASS-01 recovery-physiology content revalidation completed 2026-11-18; exact Section 21 coverage = **10/10 at content level**.
 - PHY-19/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 21 coverage = **10/10 PASS** and no project-relevant blocker remains.
 - First canonical PHY-19 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **PHY-20 — Environmental physiology.**
+- **PHY-20 — RESEARCHING.**
+- PHY-20/PASS-01 environmental-physiology content revalidation completed 2026-11-18; exact Section 23 coverage = **8/8 at content level**; closure audit/synthesis pending.
+- Added PHY20-01…PHY20-08 to EVIDENCE_LEDGER.
+- CURRENT NEXT: **PHY-20/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
