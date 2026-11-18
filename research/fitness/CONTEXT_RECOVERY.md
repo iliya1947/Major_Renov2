@@ -137,7 +137,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-06 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-07 — Hypertrophy mechanisms — RESEARCHING**.
+Последняя закрытая тема: **PHY-07 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-08 — Strength physiology**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -187,44 +189,44 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-07/PASS-01_hypertrophy_mechanisms_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-07/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-07/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-07 = **CLOSED_FOR_PRACTICE v2.0**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 8 = **23/23 at content level**.
+Canonical finding:
 
-PASS-01 established:
+`research/fitness/findings/03_physiology/PHY-07_hypertrophy_mechanisms.md`
 
-1. hypertrophy is modeled as repeated net protein accretion rather than a single acute response;
-2. MPS and MPB are separated, with acute MPS explicitly bounded from chronic hypertrophy inference;
-3. mechanotransduction is represented as a distributed network rather than a one-sensor switch;
-4. mTORC1 is supported as necessary for the acute exercise-induced MPS response under human rapamycin perturbation, without treating pathway phosphorylation as a chronic gain surrogate;
-5. ribosome biogenesis/translational capacity is retained as an important sustained-growth mechanism;
-6. satellite-cell/myonuclear biology is retained without a rigid universal threshold or claim of necessity for every small hypertrophic response;
-7. ECM remodeling is part of the hypertrophic environment but not a myofiber-growth surrogate;
-8. amino-acid/protein and energy availability are established as supportive/limiting factors while detailed nutrition prescription remains NUT/IND;
-9. mechanical tension is separated from external load, EMG, burn and time under tension;
-10. long-muscle-length loading is retained as a useful modifier without claiming proven universal sarcomerogenesis;
-11. weekly volume shows a positive dose-response with diminishing returns and no universal optimal set count;
-12. hypertrophy occurs across a broad load/repetition spectrum;
-13. closer proximity to failure is distinguished from mandatory momentary failure;
-14. frequency is mainly a volume-distribution variable for hypertrophy;
-15. slower tempo/time under tension is not inherently more hypertrophic;
+Closure established:
+
+1. exact `areas/03_physiology.md` Section 8 coverage = **23/23 PASS**;
+2. hypertrophy is modeled as repeated net protein accretion driven by repeated mechanical loading with translational/cellular support;
+3. acute MPS and mTORC1 signaling are not used as chronic hypertrophy surrogates;
+4. mechanotransduction is network-based rather than a one-sensor switch;
+5. ribosome biogenesis is retained as sustained translational-capacity biology;
+6. satellite-cell/myonuclear biology is retained without rigid threshold claims;
+7. ECM remodeling is separated from direct myofiber-growth evidence;
+8. protein and energy availability are supportive/limiting factors with detailed prescription deferred to NUT/IND;
+9. mechanical tension is separated from external load, EMG, burn and TUT;
+10. long-muscle-length loading is retained without claiming universal superiority or proven human sarcomerogenesis;
+11. weekly volume has a positive hypertrophy dose-response with diminishing returns and no universal optimum;
+12. hypertrophy occurs across broad load/repetition ranges;
+13. proximity to failure is distinguished from mandatory failure;
+14. frequency is mainly a dose-distribution variable for hypertrophy;
+15. slow tempo is not inherently more hypertrophic;
 16. ROM is interpreted through loaded muscle length; lengthened partials can approximate full ROM in some contexts;
 17. regional hypertrophy and individual variability are explicit;
-18. one short block cannot establish a stable responder/nonresponder phenotype;
+18. one block cannot establish stable responder/nonresponder status;
 19. current human evidence does not establish practically meaningful RT-induced hyperplasia;
-20. mechanism evidence is separated from prescription evidence;
-21. exact Section 8 coverage = 23/23 at content level;
-22. no content-level blocker was found;
-23. canonical PHY-07 finding is deferred until closure audit.
+20. mechanism importance is separated from prescription controllability/validity;
+21. no project-relevant blocker remains;
+22. first canonical PHY-07 finding was created at v2.0.
 
 ### Следующая задача
 
-**PHY-07/PASS-02 — Closure audit and synthesis.**
+**Phase B / PHY-08 — Strength physiology.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-08 автоматически.
+После следующего одного блока сохранить state и STOP. Не открывать PHY-09 автоматически.
 
 ---
 
@@ -240,9 +242,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-07/PASS-01_hypertrophy_mechanisms_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-07/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-07/PASS-02 closure audit and synthesis** и остановиться перед PHY-08.
+Затем выполнить только записанный выше **PHY-08 — Strength physiology** и остановиться перед следующим topic.
 
 ---
 
