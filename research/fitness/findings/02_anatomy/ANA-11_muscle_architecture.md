@@ -1,631 +1,469 @@
-# ANA-11 — Архитектура скелетной мышцы
+# ANA-11 — Мышечная организация и архитектура
 
-Статус: **LEGACY v1.0 — REVALIDATION IN PROGRESS; use current ANA-11 passes/state**  
-Дата: 2026-11-16  
+Статус: **CLOSED_FOR_PRACTICE v2.0 — revalidated 2026-11-18**  
 Область: 02 — Анатомия
 
-## 0. Question Card
+## 0. Decision
 
-### Decision
-Создать структурную модель мышечной архитектуры, необходимую для понимания различий между muscle size, fiber/fascicle length, pennation, PCSA, force capacity, excursion and later hypertrophy adaptations.
+Создать structural-functional модель skeletal-muscle organization/architecture для последующего анализа hypertrophy/strength evidence, muscle-tendon mechanics and exercise selection без:
 
-### Question type
-Foundational anatomy / muscle architecture.
-
-### Critical outcomes
-1. Structural hierarchy from whole muscle to sarcomere.
-2. Fascicle vs fiber terminology.
-3. Architectural classes.
-4. Fascicle length.
-5. Pennation angle.
-6. Anatomical CSA vs physiological CSA.
-7. PCSA assumptions/limits.
-8. Sarcomeres in series vs parallel.
-9. Tendon/aponeurosis relationships.
-10. Regional/compartmental architecture.
-11. Measurement limitations.
-
-### Closure criterion
-Можно объяснить, почему muscle volume, anatomical CSA, PCSA, fascicle length and pennation describe different structural properties and why no single one is a complete “strength score”.
-
----
+- fiber/fascicle conflation;
+- PCSA = force simplification;
+- fascicle length = serial sarcomere count simplification;
+- fixed pennation model;
+- local imaging → whole-muscle extrapolation;
+- emerging methodology promoted to standard.
 
 ## 1. Structural hierarchy
 
 Canonical hierarchy:
 
-`whole muscle → fascicles → muscle fibers (myofibers) → myofibrils → sarcomeres → myofilaments`
+`whole muscle → fascicle → myofiber → myofibril → sarcomere → myofilaments`
 
 Connective-tissue organization:
-- epimysium around muscle;
-- perimysium around fascicles;
-- endomysium around fibers.
-
-These connective networks continue mechanically into tendon/aponeurosis. citeturn576964search3turn576964search4
-
-## 2. Muscle fiber vs fascicle
-
-### Muscle fiber
-A single multinucleated skeletal muscle cell.
-
-### Fascicle
-Bundle of multiple muscle fibers.
-
-Critical terminology issue:
-ultrasound literature often measures a visible **fascicle** and calls it “fascicle length”.
-
-Cadaveric literature may use “fiber length” in ways that approximate fascicle length because complete individual fibers are difficult to trace.
+- epimysium;
+- perimysium;
+- endomysium.
 
 Project rule:
-record whether source measured:
-- true myofiber;
-- fascicle;
-- extrapolated fascicle.
 
-Do not silently equate them.
+**myofiber = one muscle cell; fascicle = bundle of fibers.**
 
-## 3. Myofibrils and sarcomeres
+Do not use these terms interchangeably.
 
-Each fiber contains longitudinal myofibrils.
+## 2. Origin / insertion
 
-Sarcomeres are serially repeated contractile units between Z-discs.
+Origin/insertion are anatomical naming conventions.
 
-Basic structural elements:
-- actin/thin filaments;
-- myosin/thick filaments;
-- titin and associated proteins.
+Project rule:
 
-Contractile physiology → PHY-02.
+**they do not guarantee which attachment is mechanically fixed or moving in a real task.**
 
-ANA only establishes the geometry.
+Closed-chain/reversed tasks can invert the mechanical interpretation.
 
-## 4. Sarcomeres in series
+## 3. Monoarticular / multiarticular muscles
 
-Longer fibers/fascicles generally contain more sarcomeres arranged serially, assuming comparable sarcomere length.
+### Monoarticular
+Cross one principal joint.
 
-Structural consequence:
-more serial contractile units are associated conceptually with greater excursion and shortening velocity potential.
+### Multiarticular
+Cross two or more joints.
 
-But:
-fascicle length is only a proxy for serial sarcomere number unless sarcomere length/number are directly measured.
+Examples:
+- rectus femoris;
+- gastrocnemius;
+- long-head biceps/triceps;
+- most hip-crossing hamstrings.
 
-2025 systematic review on long-muscle-length training explicitly notes that human studies commonly infer longitudinal growth from fascicle length and generally have **not directly measured serial sarcomere number**. citeturn576964search8
+Project rule:
 
-## 5. Contractile material in parallel
+**multiarticular muscle geometry depends on all crossed joint positions.**
 
-More fibers/sarcomeric units acting in parallel increases potential force-bearing contractile cross-section.
+Detailed active/passive insufficiency → ANA-13/MEC/PHY.
 
-This is the structural basis for physiological cross-sectional area (PCSA).
+## 4. Architectural classes
 
-However actual force also depends on:
-- activation;
-- sarcomere length;
-- fiber type;
-- tendon/compliance;
-- moment arm;
-- tissue quality.
-
-Thus PCSA is a structural capacity descriptor, not a measured joint force.
-
-## 6. Muscle volume
-
-Whole-muscle volume reflects total tissue volume.
-
-For a simplified muscle:
-`volume ≈ fascicle length × effective cross-sectional area`
-
-Two muscles with same volume can allocate architecture differently:
-- long fascicles + smaller PCSA;
-- short fascicles + larger PCSA.
-
-This creates a force–excursion/velocity architectural trade-off.
-
-## 7. Architectural classes
-
-Classical categories include:
-
-1. parallel;
+Useful gross classes:
+1. parallel/strap;
 2. fusiform;
-3. convergent/triangular;
+3. convergent;
 4. unipennate;
 5. bipennate;
-6. multipennate;
-7. circular/sphincter-like for non-limb examples.
+6. multipennate.
 
-Real human muscles often combine patterns rather than fitting one cartoon class perfectly. Lower-leg anatomical work has shown mixed fusiform/pennate strategies within individual muscles. citeturn818603search4
-
-Project rule:
-architectural labels are useful summaries, not exact 3D blueprints.
-
-## 8. Parallel architecture
-
-Fascicles run broadly parallel to muscle line of action.
-
-Examples often used:
-- strap-like muscles;
-- some fusiform muscles.
-
-Typical structural tendencies:
-- relatively long fascicles;
-- larger excursion/shortening range;
-- fewer fibers packed in parallel for a given volume than strongly pennate designs.
-
-These are tendencies, not universal performance guarantees.
-
-## 9. Fusiform architecture
-
-Muscle belly widens centrally and tapers toward tendons.
-
-Fascicles broadly follow longitudinal axis.
-
-Classic examples often include biceps brachii, although real biceps architecture is regionally more complex than a simple spindle.
+Real muscles may contain:
+- mixed patterns;
+- curved fascicles;
+- multiple aponeuroses;
+- regional compartments.
 
 Project rule:
-“fusiform” is gross geometry, not proof that every fascicle is parallel.
 
-## 10. Pennate architecture
+**architectural class is a summary, not an exact 3D blueprint.**
 
-Fascicles attach obliquely to tendon/aponeurosis.
+## 5. Fascicle length
 
-Types:
-- unipennate;
-- bipennate;
-- multipennate.
-
-The architectural advantage is primarily **packing**:
-more relatively short fibers can occupy a given muscle volume and contribute contractile cross-section.
-
-Modern geometric work emphasizes this packing interpretation and cautions against simplistic cosine-only explanations of pennation. citeturn818603search2turn818603search11
-
-## 11. Pennation angle
-
-Pennation angle = angle between fascicle direction and relevant tendon/aponeurosis/line of action.
-
-It is not a fixed personal constant.
-
-It changes with:
-- contraction intensity;
-- muscle length;
-- joint angle;
-- training adaptation;
-- region within muscle.
-
-A 2026 3D ultrasound study of tibialis anterior showed pennation increased and fiber/fascicle length shortened progressively as contraction intensity rose, with differences between deep and superficial compartments. citeturn818603search3
-
-Project rule:
-always state measurement state:
-- rest;
-- contraction level;
-- joint position.
-
-## 12. Why “higher pennation = less force” is too simple
-
-Simple vector decomposition says only component along tendon contributes directly.
-
-But pennation also permits greater fiber packing/PCSA within limited volume.
-
-Therefore net force capacity cannot be inferred from pennation angle alone.
-
-Modern modeling has explicitly challenged the intuition that pennation is simply a force loss. citeturn818603search2
-
-## 13. Anatomical cross-sectional area (ACSA)
-
-ACSA:
-geometric cross-section of whole muscle perpendicular to some reference/long axis.
-
-Easy to visualize with imaging.
-
-But in pennate/complex muscles:
-ACSA does not equal total cross-sectional area of all fibers acting in parallel.
-
-Thus ACSA and PCSA answer different structural questions.
-
-## 14. Physiological cross-sectional area (PCSA)
-
-Conceptual definition:
-**summed cross-sectional area of muscle fibers acting in parallel at optimal length.** citeturn818603search1
-
-Traditional estimate often uses combinations of:
-- muscle volume/mass;
-- fascicle length;
-- muscle density;
-- sometimes pennation correction.
-
-PCSA is widely used as structural proxy for maximal isometric force capacity.
-
-## 15. PCSA is not exact force
-
-Human specific tension estimates require assumptions about:
-- PCSA;
-- activation;
-- tendon force;
-- moment arm;
-- joint torque.
-
-2024 systematic review found reported human specific tension values historically vary enormously because these inputs are difficult to estimate; it proposed a best current estimate but emphasized substantial indirectness. citeturn818603search0
-
-Project rule:
-do not calculate personal muscle force from PCSA using one universal constant as if measured directly.
-
-## 16. PCSA formula limitations
-
-Conventional PCSA equations assume simplified architecture.
-
-Emerging 2026 3D geometric work found conventional PCSA/GCSA measures do not consistently equal the true summed cross-sectional surface perpendicular to fibers in realistic 3D muscles; discrepancy varies by architecture. citeturn818603search1
-
-Status:
-important methodological caution, not yet a reason to discard PCSA.
-
-Project uses PCSA as:
-- established functional-anatomy construct;
-- approximate structural proxy;
-not exact 3D truth.
-
-## 17. Fascicle length
-
-Fascicle length describes path/extent of a fascicle between aponeurotic/tendinous boundaries.
+Fascicle length describes fascicle path between attachment/aponeurotic boundaries.
 
 Broad structural relevance:
-- serial sarcomere capacity;
+- serial contractile arrangement;
 - excursion;
-- shortening velocity potential;
-- operating-range properties.
+- shortening-distance/velocity potential.
 
-But actual function depends on:
-- joint geometry;
-- tendon compliance;
-- sarcomere length;
-- fascicle curvature/3D path.
-
-## 18. Fascicle length measurement is method-dependent
-
-2026 anatomical research found traditional in-situ and other fascicle measurement methods can yield systematically different lengths; method differences can be substantial and architecture-dependent. citeturn576964search9
-
-Ultrasound often:
-- sees only part of long fascicle;
-- extrapolates endpoints beyond field of view.
+But it also depends on:
+- current sarcomere length;
+- 3D path/curvature;
+- muscle length;
+- contraction state;
+- measurement method.
 
 Project rule:
-“fascicle length changed 5%” is only meaningful relative to method error/assumptions.
 
-## 19. Muscle thickness
+**fascicle length ≠ serial sarcomere number.**
 
-Ultrasound muscle thickness:
-distance between selected superficial/deep boundaries at a site.
+## 6. Pennation
+
+Pennation = fascicle orientation relative to relevant tendon/aponeurosis/line of action.
 
 It is:
-- local geometric measure;
-- not identical to whole-muscle volume;
-- not PCSA;
-- not fascicle length.
+- regional;
+- joint-position dependent;
+- contraction-state dependent;
+- dynamically changing.
 
-Regional hypertrophy makes one-site thickness especially incomplete.
-
-Measurement pitfalls already recorded in RES-12.
-
-## 20. Pennation and thickness covary
-
-As muscle hypertrophies or contracts:
-- thickness can increase;
-- fascicles can rotate/change pennation;
-- aponeuroses deform.
-
-Therefore architectural variables are geometrically coupled.
-
-Do not interpret each as independent biological mechanism automatically.
-
-## 21. Aponeurosis
-
-Aponeurosis = broad tendinous sheet.
-
-Pennate fibers can insert onto:
-- internal aponeuroses;
-- external aponeuroses.
-
-This allows distributed force collection over muscle length.
-
-Aponeuroses themselves deform under load.
-
-## 22. Tendon vs aponeurosis architecture
-
-Both transmit force, but geometry differs:
-
-### Tendon
-more cord-like free segment.
-
-### Aponeurosis
-sheet-like interface receiving many fascicles.
-
-Muscle–tendon unit behavior depends on both.
-
-Mechanical compliance → MEC/PHY.
-
-## 23. Compartments
-
-A single named muscle may contain neuromuscular/architectural compartments with:
-- different fascicle directions;
-- different nerve branches;
-- different moment arms.
-
-Examples already seen:
-- tibialis anterior 3D compartments;
-- QL layers;
-- popliteus layers;
-- anconeus compartments.
+Current human 3D ultrasound confirms contraction-related changes in pennation, fascicle length and compartment behavior.
 
 Project rule:
-named muscle ≠ guaranteed homogeneous actuator.
 
-## 24. Regional architecture
+**pennation is a packing/orientation variable, not a fixed “force-loss angle”.**
 
-Within one muscle, fascicle:
-- length;
-- pennation;
-- curvature;
-- attachment
-may vary proximodistally or superficial/deep.
+## 7. Muscle volume
 
-This matters for:
-- regional force;
-- regional hypertrophy;
-- imaging site selection.
+Muscle volume = total 3D muscle bulk.
 
-Avoid extrapolating one ultrasound site to whole muscle without evidence.
+It is not interchangeable with:
+- ACSA;
+- PCSA;
+- local thickness;
+- fascicle length.
 
-## 25. Architectural gearing
+Two muscles with similar volume can allocate architecture differently between serial length and parallel packing.
 
-During contraction, fascicles can rotate while shortening and whole muscle shape changes.
+## 8. ACSA
 
-This allows muscle-belly shortening to differ from fascicle shortening.
+Anatomical cross-sectional area:
+- geometric cross-section at a chosen site/orientation.
 
-Term:
-**architectural gearing**.
+Useful for local/maximum size.
 
-This is primarily a biomechanical/physiological concept, but anatomy establishes deformable pennate geometry.
+Project rule:
 
-Detailed dynamics → MEC/PHY.
+**ACSA is not the summed fiber cross-section acting in parallel in a complex pennate muscle.**
 
-## 26. Fiber curvature
+## 9. PCSA
 
-Real fascicles/fibers are not always straight lines.
+Physiological cross-sectional area:
+- conceptual/estimated total contractile cross-section acting in parallel.
 
-3D imaging shows:
-- curvature;
-- compartment differences;
-- changes with contraction.
+Useful as structural proxy for maximal isometric force capacity.
 
-This further limits flat 2D geometric models.
+But actual force depends additionally on:
+- activation;
+- force-length state;
+- velocity;
+- tendon/aponeurosis behavior;
+- moment arm;
+- force transmission;
+- fiber properties.
 
-## 27. Sarcomere length
+Project rule:
 
-Fascicle length can change because of:
-1. more/fewer sarcomeres in series;
-2. different current sarcomere length;
-3. fascicle geometry/measurement.
+**PCSA is not direct muscle force or joint torque.**
 
-Without direct sarcomere measurement, fascicle length alone does not prove sarcomerogenesis.
+## 10. PCSA / PCSS boundary
 
-Project language must preserve this distinction.
+Conventional PCSA remains the established approximate construct.
 
-## 28. Serial vs radial/parallel hypertrophy
+2026 PCSS proposal:
+- uses curved 3D surfaces perpendicular to reconstructed fiber directions;
+- is currently a **bioRxiv preprint**;
+- is retained as emerging methodology only.
 
-Conceptual structural adaptations:
+Project rule:
 
-### Longitudinal
-increase in fascicle length / possible serial sarcomere number.
+**PCSS is not yet a canonical replacement standard for PCSA.**
 
-### Radial
-increase in fiber/fascicle cross-sectional dimensions, pennation/packing changes.
+## 11. Sarcomeres in series
 
-But direct human evidence for serial sarcomere addition is limited; longitudinal hypertrophy should not be claimed solely from ultrasound fascicle length. citeturn576964search8
+For comparable sarcomere length, longer fascicles/fibers can contain more serial sarcomeres.
 
-Mechanisms/adaptation → PHY.
+Conceptually:
 
-## 29. Muscle fiber types are not architecture
+`fascicle length = serial sarcomere number × average sarcomere length`
 
-Type I / IIa / IIx are cellular phenotypes.
+Therefore changes in fascicle length can reflect:
+- serial number;
+- sarcomere length;
+- both;
+- measurement/geometry change.
 
-They may correlate with size/metabolism/function but are a separate dimension from:
+## 12. Human serial-sarcomere evidence
+
+Legacy wording that there was no human intervention evidence is superseded.
+
+Andrews et al. after 9 weeks of Nordic hamstring exercise:
+- measured BFlh fascicle length with 3D ultrasound;
+- directly measured sarcomere length with second-harmonic microendoscopy;
+- **calculated** serial sarcomere number as fascicle length / sarcomere length.
+
+They reported region-specific fascicle-length changes and calculated serial-sarcomere increases.
+
+Critical precision:
+
+**sarcomere length was directly measured; serial sarcomere number was calculated, not literally counted through a complete fascicle.**
+
+Evidence remains limited to a small muscle/exercise intervention line and is not universalized.
+
+## 13. Serial vs parallel architecture
+
+### Serial
+Related to:
+- excursion;
+- shortening-distance potential;
+- shortening-velocity potential.
+
+### Parallel
+Related to:
+- effective contractile cross-section;
+- force-capacity potential.
+
+Project rule:
+
+**same muscle volume can contain different serial/parallel architecture.**
+
+## 14. Muscle thickness
+
+Ultrasound muscle thickness:
+- local linear distance between selected boundaries.
+
+It is not:
+- whole-muscle volume;
+- ACSA;
+- PCSA;
+- fascicle length.
+
+Project rule:
+
+**one-site thickness is not a complete muscle-size measure.**
+
+## 15. Regional architecture
+
+Within one named muscle, architecture may vary by:
+- proximal/distal region;
+- superficial/deep region;
 - fascicle length;
 - pennation;
-- PCSA.
+- curvature;
+- aponeurosis geometry.
 
-Detailed physiology → PHY-03.
+Current human data show region-specific resting architecture and contraction behavior.
 
-## 30. Fiber number / hyperplasia boundary
+Project rule:
 
-Whole muscle size depends structurally on:
-- number of fibers;
-- fiber size;
-- connective tissue;
-- architecture.
+**one ultrasound site does not automatically represent whole-muscle architecture.**
 
-Whether adult human resistance training meaningfully increases fiber number is a physiological evidence question, not assumed from anatomy.
+## 16. Compartments
 
-## 31. Tendon length and muscle belly length
+Named muscles can contain architectural/neuromuscular compartments.
 
-Two people with same muscle origin/insertion distance can differ in:
-- tendon length;
-- muscle belly length;
-- fascicle architecture.
+Examples already encountered:
+- tibialis anterior;
+- anconeus;
+- popliteus;
+- QL;
+- multifidus.
 
-This affects visible shape and mechanical behavior.
+Project rule:
 
-Relevant later to:
-- “biceps peak”;
-- calf shape;
-- individual exercise geometry.
+**compartmental architecture ≠ independently trainable compartment by default.**
 
-Genetic/anatomical variation → ANA-15.
+Independent recruitment/targeting requires NEU/MEC/TEC evidence.
 
-## 32. Muscle belly shape is not insertion location
+## 17. Architectural gearing
 
-Hypertrophy can enlarge existing tissue.
+During contraction:
+- fascicles shorten;
+- pennation changes;
+- muscle belly and aponeuroses deform.
 
-Training does not relocate:
-- origin;
-- insertion;
-- tendon attachment.
+Therefore whole-muscle shortening can differ from fascicle shortening.
 
-Thus exercise cannot create a new distal biceps insertion or fundamentally move tendon attachment.
+Architecture establishes the geometry; dynamic gearing belongs primarily to MEC/PHY.
 
-Regional hypertrophy can alter visible contour within anatomical constraints.
+## 18. Tendon / aponeurosis
 
-## 33. Force potential and PCSA
+### Tendon
+More cord-like free connective-tissue segment.
 
-Broad structural principle:
-larger effective contractile cross-section generally supports greater maximal isometric force capacity.
+### Aponeurosis
+Sheet-like tendinous structure receiving distributed fascicle insertions.
 
-But joint torque additionally depends on:
-- moment arm;
-- neural activation;
-- force-length state;
-- tendon transmission.
+Current evidence reinforces that aponeuroses deform under load.
 
-Therefore:
-**bigger muscle architecture supports force; it does not uniquely determine measured strength.**
+Project rule:
 
-## 34. Velocity/excursion and fascicle length
+**aponeurosis is not a rigid fixed plate.**
 
-Broad structural principle:
-longer fibers/fascicles with more serial contractile units can support greater shortening excursion/velocity.
+Detailed compliance/strain → MEC/PHY.
 
-But observed movement velocity also depends on:
-- load;
-- neural drive;
-- tendon;
-- leverage.
+## 19. Tendon length / muscle-belly length
 
-Do not reduce “speed muscle” to fascicle length alone.
+Individuals can differ in:
+- free tendon length;
+- belly length;
+- aponeurosis length;
+- fascicle length;
+- pennation.
 
-## 35. Muscle volume trade-off
+This affects:
+- visible muscle shape;
+- architecture;
+- excursion/mechanical behavior.
 
-For equal muscle volume:
-- shorter/more pennate fibers → potentially greater parallel packing/PCSA;
-- longer fibers → greater serial architecture/excursion potential.
+Individual implications → ANA-15.
 
-This is a useful architectural trade-off model, not a deterministic rule for every 3D human muscle.
+## 20. Fiber type boundary
 
-## 36. Dynamic architecture
+Type I / IIa / IIx are cellular structural/contractile phenotypes.
 
-Architecture changes acutely during contraction.
-
-2026 tibialis anterior 3D ultrasound:
-- pennation increased with contraction;
-- fiber length decreased;
-- aponeurosis dimensions changed. citeturn818603search3
-
-Therefore “architecture” is both:
-- structural baseline;
-- state-dependent geometry.
-
-## 37. Training adaptation boundary
-
-Resistance training can alter:
-- thickness/CSA;
+They are a separate dimension from:
+- fascicle length;
 - pennation;
-- fascicle length
-depending method/muscle.
+- PCSA;
+- tendon length.
 
-2024–2026 studies/meta-analyses support architectural plasticity, but exact dose/adaptation belongs to PHY/PRO, not ANA. citeturn576964search5turn576964search11
+Metabolism/recruitment/adaptation → PHY/NEU.
 
-## 38. Measurement standardization
+## 21. Measurement-method boundary
 
-For architecture measures record:
+Architecture measures require reporting:
 
 1. muscle;
-2. exact site;
+2. exact site/region;
 3. joint angle;
 4. rest vs contraction;
-5. contraction level;
-6. ultrasound/MRI/DTI/dissection method;
-7. fascicle extrapolation;
-8. operator;
-9. repeat acquisition.
+5. contraction intensity;
+6. imaging/dissection method;
+7. 2D vs 3D;
+8. fascicle trajectory/extrapolation assumptions;
+9. acquisition protocol;
+10. repeatability/reliability;
+11. local vs whole-muscle outcome.
 
-2026 ultrasound reproducibility study showed separate image acquisition substantially increases error vs re-analysis of same image, reinforcing that biological/acquisition variation matters. citeturn818603search12
+Current 3DUS/dissection and repeat-acquisition studies show method-dependent error is material.
 
-## 39. Anatomy vs exercise prescription
+## 22. “Strength score” boundary
 
-Architecture can motivate hypotheses:
-- long-head triceps length;
-- long-muscle-length loading;
-- pennate muscles;
-- regional hypertrophy.
+No one architecture metric equals whole-joint strength.
 
-It cannot alone establish:
-- “this exercise is optimal”;
-- “this angle creates more sarcomeres”;
-- “higher pennation means better hypertrophy”.
+Joint torque depends on:
+- architecture;
+- muscle force;
+- neural activation;
+- force-length state;
+- contraction velocity;
+- tendon/aponeurosis behavior;
+- moment arms;
+- synergists;
+- task constraints.
 
-Those require longitudinal outcomes.
+Project rule:
 
-## 40. Project canonical architecture model
+**architecture constrains capacity but does not uniquely determine performance.**
 
-1. Whole muscle contains fascicles; fascicles contain fibers; fibers contain serial sarcomeres.
-2. Epimysium/perimysium/endomysium form connective network continuous with tendon/aponeurosis.
-3. Muscle architecture is 3D, regional and state-dependent.
-4. Fascicle length is structural proxy for serial arrangement, not direct sarcomere count.
-5. PCSA approximates contractile material in parallel and relates to force capacity.
-6. ACSA/muscle thickness/PCSA are not interchangeable.
-7. Pennation mainly enables fiber packing and changes dynamically; it is not a simple force-loss angle.
-8. Same volume can be organized toward greater PCSA or longer fascicles.
-9. Named muscles may contain distinct compartments.
-10. Measurement method materially affects architectural estimates.
-11. PCSA is useful but approximate; current 3D work challenges simplistic 2D formulas.
-12. Architecture informs function but does not by itself prescribe exercises.
+## 23. Architecture plasticity boundary
 
-## 41. Confidence
+Resistance/eccentric training can alter:
+- size;
+- fascicle length;
+- pennation;
+- possibly serial sarcomere arrangement.
+
+But:
+- which adaptation;
+- in what muscle/region;
+- under what dose
+
+belongs to PHY/PRO.
+
+ANA-11 defines variables and measurement boundaries, not training prescriptions.
+
+## 24. Canonical project model
+
+1. Muscle → fascicle → myofiber → myofibril → sarcomere.
+2. Fiber and fascicle are distinct.
+3. Origin/insertion are anatomical names, not task mechanics.
+4. Multiarticular muscles depend on all crossed joint positions.
+5. Volume, ACSA, PCSA, thickness, fascicle length and pennation are different variables.
+6. Pennation is dynamic/regional and mainly reflects packing/orientation.
+7. Fascicle length relates to serial architecture but is not serial sarcomere count.
+8. Human serial-sarcomere intervention evidence now exists with direct sarcomere-length measurement and calculated serial number.
+9. PCSA is an approximate established proxy; PCSS remains emerging/preprint.
+10. Human muscle architecture is 3D, regional and state-dependent.
+11. Tendon and aponeurosis are different force-transmission geometries.
+12. One local architecture measure is not a complete strength score or whole-muscle description.
+
+## 25. Evidence / confidence
 
 ### HIGH
 - structural hierarchy;
-- architectural classes as gross categories;
-- PCSA/fascicle-length distinction;
-- dynamic pennation/fascicle changes during contraction;
-- regional/measurement dependence.
+- fiber/fascicle distinction;
+- ACSA/PCSA/volume/thickness/fascicle/pennation distinctions;
+- regional/state dependence;
+- PCSA as approximate structural proxy;
+- tendon/aponeurosis distinction;
+- method dependence.
 
 ### MODERATE/HIGH
-- PCSA as proxy for force capacity is established but exact human force inference is assumption-heavy.
+- BFlh serial-sarcomere adaptation signal from Andrews et al.;
+- regional VL architectural behavior;
+- 3DUS/dissection validation in complex fascicle tracking.
 
-### MODERATE
-- new 3D PCSS framework may refine PCSA interpretation; treat as emerging methodology rather than replacement standard.
+### EMERGING
+- PCSS as a 3D replacement/refinement of conventional PCSA;
+- independent exercise targeting of architectural compartments.
 
-## 42. Sources
+## 26. Sources checked in revalidation
 
-1. StatPearls — Histology, Muscle.  
+1. NCBI Bookshelf — Histology, Muscle.  
    https://www.ncbi.nlm.nih.gov/books/NBK537195/
 
-2. Korthuis RJ. Anatomy of Skeletal Muscle and Its Vascular Supply. NCBI Bookshelf.  
+2. NCBI Bookshelf — Anatomy, Skeletal Muscle.  
+   https://www.ncbi.nlm.nih.gov/books/NBK537236/
+
+3. Korthuis RJ. Anatomy of Skeletal Muscle and Its Vascular Supply.  
    https://www.ncbi.nlm.nih.gov/books/NBK57140/
 
-3. Persad SL et al. Specific tension of human muscle in vivo: a systematic review. J Appl Physiol. 2024. PMID 39169839.  
+4. Persad LS et al. Specific tension of human muscle in vivo. 2024. PMID 39169839.  
    https://pubmed.ncbi.nlm.nih.gov/39169839/
 
-4. Rethinking the physiological cross-sectional area of skeletal muscle reveals the mechanical advantage of pennation. 2024. PMID 39678384.  
+5. Rockenfeller R et al. Pennation / PCSA geometry. 2024. PMID 39678384.  
    https://pubmed.ncbi.nlm.nih.gov/39678384/
 
-5. Physiological Cross-Sectional Surfaces: 3D estimates of muscle functional capacity. 2026. PMID 42539171.  
+6. Liu Z et al. PCSS. 2026 bioRxiv preprint. PMID 42539171.  
    https://pubmed.ncbi.nlm.nih.gov/42539171/
 
-6. Form follows force: activation-dependent 3D ultrasound muscle architecture. 2026. PMID 42407171.  
+7. Vosse L et al. 3D tibialis-anterior architecture. 2026. PMID 42407171.  
    https://pubmed.ncbi.nlm.nih.gov/42407171/
 
-7. Fascicle measurement methods do result in significantly different lengths. 2026. PMID 42533447.  
-   https://pubmed.ncbi.nlm.nih.gov/42533447/
+8. Trinchi M et al. Regional VL architecture. 2025. PMID 40631593.  
+   https://pubmed.ncbi.nlm.nih.gov/40631593/
 
-8. Does longer-muscle length resistance training cause greater longitudinal growth in humans? Systematic review. 2025/2026. PMID 41646176.  
-   https://pubmed.ncbi.nlm.nih.gov/41646176/
+9. Mantecón-Tagarro CJ et al. 3DUS vs dissection BFlh. 2026. PMID 42554904.  
+   https://pubmed.ncbi.nlm.nih.gov/42554904/
 
-9. Influence of image acquisition and biologic variability on reproducibility of vastus lateralis architecture using ultrasound. J Strength Cond Res. 2026. PMID 41369548.  
-   https://pubmed.ncbi.nlm.nih.gov/41369548/
+10. Nacafucasaco ETA et al. Ultrasound reproducibility. 2026. PMID 41369548.  
+    https://pubmed.ncbi.nlm.nih.gov/41369548/
 
-10. Quadriceps Architectural Adaptations in Team Sports Players: meta-analysis. 2024. PMID 39025469.  
-    https://pubmed.ncbi.nlm.nih.gov/39025469/
+11. Wolf M et al. Long-muscle-length training systematic review. PMID 41646176.  
+    https://pubmed.ncbi.nlm.nih.gov/41646176/
 
-## 43. Next dependencies
+12. Andrews MH et al. Multiscale hamstring adaptations. PMID 39461588.  
+    https://pubmed.ncbi.nlm.nih.gov/39461588/
 
-- ANA-12 nervous anatomy;
-- ANA-13 functional anatomy;
-- ANA-15 individual anatomy;
-- PHY muscle contraction/adaptation;
-- MEC muscle-tendon mechanics.
+13. Ross SA, Herzog W. Aponeurosis mechanics review. 2026. PMID 42341705.  
+    https://pubmed.ncbi.nlm.nih.gov/42341705/
+
+## 27. Closure
+
+Closure audit:
+`passes/02_anatomy/ANA-11/PASS-02_closure_audit_and_synthesis.md`.
+
+Result:
+**no project-relevant blocker remains.**
+
+ANA-11 = **CLOSED_FOR_PRACTICE v2.0**.
+
+## 28. Next dependency
+
+**ANA-12 — Нервная анатомия движения.**
