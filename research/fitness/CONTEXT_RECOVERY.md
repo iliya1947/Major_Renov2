@@ -161,7 +161,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-18 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-19 — Recovery physiology — RESEARCHING**.
+Последняя закрытая тема: **PHY-19 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **PHY-20 — Environmental physiology — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -211,39 +213,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-19/PASS-01_recovery_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-19/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `959ddc5b1dc94ed71d1a82c81494564fe618ea13`  
-Evidence-ledger commit: `dc5c3826e25027b833aadff9f379a3c251957441`
+PASS commit: `aab16aeeccdc2dbab546187e6a1625c7bdf0f7d4`  
+Canonical finding commit: `fe0d4e2354862166b3835eff97e63da3dddc203c`
 
-PHY-19/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-19/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 21 = **10/10 at content level**.
+Closure result:
 
-PASS-01 established:
-
-1. recovery is a multi-system state vector rather than one binary/scalar state;
-2. PCr resynthesis is rapid relative to structural remodeling and cannot define whole-session readiness;
-3. neural and peripheral contractile recovery can dissociate;
-4. severe damaging eccentric exercise can prolong excitation-contraction/force impairment well beyond metabolic recovery;
-5. glycogen restoration depends on depletion, carbohydrate availability and time;
-6. post-RT muscle protein synthesis/turnover reflects remodeling rather than a readiness clock;
-7. inflammatory recovery includes active resolution rather than simple suppression/disappearance;
-8. connective-tissue remodeling follows tissue-, fraction- and method-dependent time courses distinct from muscle performance;
-9. sleep is a major cross-system modifier but can affect subjective/cognitive and physical outcomes differently;
-10. recovery time depends on stimulus × outcome × person/context rather than a universal 24/48/72 h rule;
-11. subjective recovery and objective performance can diverge;
-12. no single biomarker, wearable score or questionnaire defines complete readiness;
-13. exact Section 21 coverage = **10/10 at content level**;
-14. no content-level blocker was found;
-15. canonical PHY-19 finding is deferred until closure audit.
+1. exact Section 21 coverage = **10/10 PASS**;
+2. recovery remains a multi-system state vector rather than one binary/scalar state;
+3. ATP-PCr recovery remains distinct from whole-session readiness;
+4. neural and peripheral/EC-coupling recovery can dissociate;
+5. severe damaging eccentric exercise can prolong contractile impairment without defining ordinary RT recovery;
+6. glycogen remains a substrate-specific recovery dimension;
+7. MPS/protein turnover remains remodeling rather than a readiness timer;
+8. inflammatory recovery remains active resolution rather than simple suppression;
+9. connective tissue retains a separate, method-dependent remodeling clock;
+10. sleep remains a major but domain-specific recovery modifier;
+11. recovery time remains stimulus × outcome × person/context dependent rather than a universal 24/48/72 h rule;
+12. subjective recovery and objective performance can diverge;
+13. no single biomarker, wearable score or questionnaire defines complete readiness;
+14. no project-relevant blocker remains;
+15. first canonical `PHY-19_recovery_physiology.md` created;
+16. Area Section 22 individual modifiers remain routed downstream rather than becoming a separate normalized PHY topic.
 
 ### Следующая задача
 
-**PHY-19/PASS-02 — Closure audit and synthesis.**
+**PHY-20/PASS-01 — Environmental physiology content revalidation.**
 
-After PASS-02 save state and STOP. Do not start PHY-20 automatically.
+PHY-20 maps to Area Section 23. PHY-20 has not been started. After the next one block, save state and STOP.
 
 ---
 
@@ -259,9 +259,9 @@ After PASS-02 save state and STOP. Do not start PHY-20 automatically.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-19/PASS-01_recovery_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-19/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-19/PASS-02 closure audit and synthesis** и остановиться перед PHY-20.
+Затем выполнить только записанный выше **PHY-20/PASS-01 environmental physiology content revalidation** и остановиться перед следующим блоком.
 
 ---
 
