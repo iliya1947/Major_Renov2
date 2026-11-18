@@ -232,8 +232,11 @@ Stage 2 / Phase B продолжается.
 18. PHY-14/PASS-01 content revalidation завершён; exact Section 15 coverage **13/13 at content level**.
 19. PHY-14/PASS-02 closure audit / synthesis завершён; exact Section 15 coverage **13/13 PASS**, no project-relevant blocker remains.
 20. First canonical PHY-14 finding created as v2.0.
-21. Следующий один блок: **PHY-15/PASS-01 — Respiratory exercise physiology content revalidation**.
-22. PHY-16 автоматически не запускать после следующего блока; сохраняется one block → state update → STOP.
+21. PHY-15 = **RESEARCHING**.
+22. PHY-15/PASS-01 respiratory-exercise-physiology content revalidation завершён; exact Section 16 coverage **11/11 at content level**.
+23. PHY-15 closure audit / synthesis ещё не выполнен; canonical finding ещё не создан.
+24. Следующий один блок: **PHY-15/PASS-02 — Closure audit and synthesis**.
+25. PHY-16 автоматически не запускать после PASS-02; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -250,7 +253,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **PHY-15/PASS-01 — Respiratory exercise physiology content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **PHY-15/PASS-02 — Closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
