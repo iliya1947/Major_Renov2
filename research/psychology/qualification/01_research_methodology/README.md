@@ -8,6 +8,7 @@ This directory stores topic-level qualification material for **Research methodol
 
 1. `PSY-RES-01_question_framing_construct_operationalization.md` — question framing, construct definition, operationalization, alternative explanations, evidence routing, and closure audit.
 2. `PSY-RES-02_study_designs_and_causal_inference_basics.md` — study-design families, claim-to-design routing, causal estimands, counterfactual reasoning, identification assumptions, and causal-reading failure modes.
+3. `PSY-RES-03_measurement_reliability_validity_psychometrics.md` — score interpretation, reliability/precision, measurement error, validity evidence, structural validity, invariance, norms, cut scores, change scores, and individual interpretation gate.
 
 ## Content rule
 
