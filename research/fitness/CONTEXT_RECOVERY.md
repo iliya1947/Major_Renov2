@@ -131,7 +131,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-03 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-04 — Contraction modes**.
+Текущая тема: **PHY-04 — Contraction modes — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -181,38 +181,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-03/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-04/PASS-01_contraction_modes_revalidation.md`
 
-PHY-03 = **CLOSED_FOR_PRACTICE v2.0**.
+PHY-04/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Canonical finding:
+Exact content coverage:
+- `areas/03_physiology.md` Section 4 = **10/10 at content level**;
+- normalized force–length / force–velocity foundation = covered.
 
-`research/fitness/findings/03_physiology/PHY-03_fiber_types_and_phenotype.md`
+PASS-01 established:
 
-Closure established:
-
-1. exact `areas/03_physiology.md` Section 5 coverage = **11/11 PASS**;
-2. adult human primary MyHC classes are I / IIA / IIX with MYH7 / MYH2 / MYH1 mapping;
-3. true rodent-like IIB is not used as a normal adult human limb-fiber prescription category;
-4. MyHC identity is separated from complete metabolic/proteomic phenotype;
-5. hybrid I/IIA and IIA/IIX fibers establish a phenotype continuum;
-6. speed/metabolism/fatigue properties are treated as tendencies rather than deterministic labels;
-7. recruitment remains owned by NEU;
-8. phenotype is training-plastic across MyHC, hybrid state, metabolism, fiber size and proteome;
-9. IIx → IIA is retained as a common training-associated direction;
-10. broad I ↔ II conversion magnitude remains context-dependent;
-11. athlete/training-status data are not interpreted as clean causal training effects;
-12. age/sex differences remain group-level modifiers rather than individual classifications;
-13. current evidence does not justify a fiber-type-based load prescription algorithm;
-14. indirect performance tests are not treated as valid personal fiber typing;
-15. no project-relevant blocker remains;
-16. first canonical PHY-03 finding was created at v2.0.
+1. concentric = active shortening, eccentric = active lengthening, isometric = no intended gross length change;
+2. external joint behavior is not assumed to map perfectly to fascicle/tendon behavior;
+3. isokinetic is an apparatus-controlled constant-angular-velocity condition, not a fourth fundamental sarcomeric mechanism;
+4. force–velocity and force–length relations are explicit;
+5. eccentric force capacity is generally higher than concentric under matched maximal conditions, with exact ratios context dependent;
+6. eccentric work has lower intrinsic metabolic cost per unit force/work but can still carry high session recovery cost;
+7. fatigue is separated into metabolic/peripheral, neuromuscular and delayed damage-related components;
+8. novel/high-strain eccentric work can increase EIMD/DOMS, while repeated exposure produces strong repeated-bout protection;
+9. strength adaptation is mode/task specific;
+10. current evidence does not establish a universal eccentric/concentric/isometric hypertrophy hierarchy;
+11. isometric training has meaningful strength and hypertrophy utility with task/angle/length specificity;
+12. SSC remains an integrated MEC/NEU/TEC/PRO topic rather than a contraction-mode-only mechanism;
+13. acute mode responses are not used as chronic adaptation surrogates;
+14. no content-level blocker was found;
+15. canonical PHY-04 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**Phase B / PHY-04 — Contraction modes.**
+**PHY-04/PASS-02 — Closure audit and synthesis.**
 
-После следующего одного блока сохранить state и STOP. Не открывать PHY-05 автоматически.
+После PASS-02 сохранить state и STOP. Не начинать PHY-05 автоматически.
 
 ---
 
@@ -228,9 +227,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-03/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-04/PASS-01_contraction_modes_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-04 — Contraction modes** и остановиться перед следующим topic.
+Затем выполнить только записанный выше **PHY-04/PASS-02 closure audit and synthesis** и остановиться перед PHY-05.
 
 ---
 

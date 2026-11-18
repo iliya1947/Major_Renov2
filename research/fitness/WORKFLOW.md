@@ -218,11 +218,11 @@ Stage 2 / Phase B продолжается.
 4. PHY-01 = **CLOSED_FOR_PRACTICE v2.0**.
 5. PHY-02 = **CLOSED_FOR_PRACTICE v2.0**.
 6. PHY-03 = **CLOSED_FOR_PRACTICE v2.0**.
-7. PHY-03/PASS-01 content revalidation завершён.
-8. PHY-03/PASS-02 closure audit / synthesis завершён; exact Section 5 coverage **11/11 PASS**.
-9. Первый canonical PHY-03 finding создан как v2.0.
-10. Следующий один блок: **PHY-04 — Contraction modes**.
-11. Следующий topic автоматически не запускать; сохраняется one block → state update → STOP.
+7. PHY-04 = **RESEARCHING**.
+8. PHY-04/PASS-01 content revalidation завершён; exact Section 4 coverage **10/10 at content level**; force–length/force–velocity foundation covered.
+9. PHY-04 closure audit / synthesis ещё не выполнен; canonical finding ещё не создан.
+10. Следующий один блок: **PHY-04/PASS-02 — Closure audit and synthesis**.
+11. PHY-05 автоматически не запускать после PASS-02; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -239,7 +239,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **PHY-04 — Contraction modes**.
+Ближайшая задача: Stage 2 / Phase B — **PHY-04/PASS-02 — Closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
