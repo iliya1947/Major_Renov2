@@ -51,7 +51,9 @@
 - ANA-14/PASS-01 surface-anatomy/measurement-landmark revalidation completed 2026-11-18.
 - ANA-14/PASS-02 closure audit / synthesis completed 2026-11-18; exact area-map coverage 6/6 and no project-relevant blocker remains.
 - First canonical ANA-14 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **Phase B / ANA-15 — Individual anatomy / anthropometry.**
+- CURRENT: **Phase B / ANA-15 — Individual anatomy / anthropometry.**
+- ANA-15/PASS-01 individual-anatomy/anthropometry revalidation completed 2026-11-18; exact Sections 18–19 coverage 18/18 at content level and no legacy ANA-15 finding exists in current branch.
+- CURRENT NEXT: **ANA-15 closure audit / synthesis**. Do not start PHY-01 before ANA-15 closure.
 
 ## История текущего revalidation cycle
 
@@ -524,3 +526,11 @@
 385. ANA-14 = **CLOSED_FOR_PRACTICE v2.0**; first canonical `ANA-14_surface_anatomy_landmarks.md` created because current branch had no legacy finding.
 386. Existing ledger ANA14-01…ANA14-06 is sufficient for closure; measurement reliability/MDC remain TST/MEC.
 387. Следующий один блок: **ANA-15 — Individual anatomy / anthropometry**.
+
+388. Завершён **ANA-15/PASS-01 — Individual anatomy, anthropometry, age and sex structural variation revalidation**.
+389. Exact Sections 18–19 coverage = **18/18 items** at content level.
+390. Segment ratios, trunk/breadth geometry, joint-shape variation, attachment/belly/tendon variation, carrying angle, asymmetry and exercise-geometry implications revalidated.
+391. Growth plates, skeletal maturation, age-related muscle/tendon/bone changes and sex-related group differences revalidated with explicit heterogeneity/individual-overlap boundaries.
+392. Anthropometry is retained as geometry input rather than deterministic technique classifier; group averages do not substitute for individual measurement.
+393. No legacy ANA-15 finding exists in current branch; canonical finding will be created only if closure audit passes.
+394. Следующий один блок: **ANA-15 closure audit / synthesis**.
