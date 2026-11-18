@@ -141,7 +141,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-08 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-09 — Power / RFD — RESEARCHING**.
+Последняя закрытая тема: **PHY-09 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-10 — Fatigue**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -191,37 +193,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-09/PASS-01_power_rfd_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-09/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-09/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-09 = **CLOSED_FOR_PRACTICE v2.0**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 10 = **8/8 at content level**.
+Canonical finding:
 
-PASS-01 established:
+`research/fitness/findings/03_physiology/PHY-09_power_rfd.md`
 
-1. mechanical power is force × velocity (or torque × angular velocity) and is distinct from maximal force;
-2. RFD is force rise over time and is distinct from both power and maximal strength;
-3. early RFD is strongly influenced by rapid neural activation, while later RFD reflects maximal force/muscle properties more strongly;
-4. peak power and mean power are separate measurement outcomes;
-5. external bar/load/joint velocity is not identical to fascicle contraction velocity;
-6. power values depend on the measured system, exercise, phase, device and signal processing;
-7. load changes the force–velocity tradeoff, but no universal %1RM maximizes power across exercises;
-8. ACSM 2026 supports moderate-load (30–70% 1RM classification), fast-concentric/power RT and Olympic-style training for chronic power outcomes;
-9. acute peak-power-maximizing load is not treated as a validated universal chronic training prescription;
-10. maximal strength is retained as a major force-side foundation for power;
-11. rapid neural activation, velocity capacity, architecture/MTU mechanics and task skill are additional determinants;
-12. power-oriented training is differentiated from maximal-strength training while preserving complementarity;
-13. force–velocity profiling is retained as descriptive/hypothesis-guiding rather than a universally validated personalization algorithm;
-14. exact Section 10 coverage = 8/8 at content level;
-15. no content-level blocker was found;
-16. canonical PHY-09 finding is deferred until closure audit.
+Closure established:
+
+1. exact `areas/03_physiology.md` Section 10 coverage = **8/8 PASS**;
+2. maximal strength, RFD and mechanical power are separate but related outcomes;
+3. peak power and mean power are distinct measurement constructs;
+4. external bar/load/joint velocity is separated from muscle-fascicle shortening velocity;
+5. reported watt values are recognized as exercise/device/phase/method dependent;
+6. load–power relation is task specific and no universal %1RM optimum is claimed;
+7. ACSM 2026 moderate-load/fast-concentric guidance is retained as broad chronic evidence, not a universal load rule;
+8. acute peak-power-maximizing load is not used as a chronic prescription surrogate;
+9. maximal strength is retained as a major force-side foundation of power;
+10. rapid neural activation, velocity capacity, architecture/MTU mechanics and task skill are retained as additional power determinants;
+11. power training is differentiated from maximal-strength training while preserving complementarity;
+12. power adaptation remains task/load/velocity specific;
+13. F–V profiling is descriptive/hypothesis-guiding rather than universally prescriptive;
+14. no project-relevant blocker remains;
+15. first canonical PHY-09 finding was created at v2.0.
 
 ### Следующая задача
 
-**PHY-09/PASS-02 — Closure audit and synthesis.**
+**Phase B / PHY-10 — Fatigue.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-10 автоматически.
+После следующего одного блока сохранить state и STOP. Не открывать PHY-11 автоматически.
 
 ---
 
@@ -237,9 +239,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-09/PASS-01_power_rfd_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-09/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-09/PASS-02 closure audit and synthesis** и остановиться перед PHY-10.
+Затем выполнить только записанный выше **PHY-10 — Fatigue** и остановиться перед следующим topic.
 
 ---
 
