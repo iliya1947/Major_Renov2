@@ -95,6 +95,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Текущая рабочая область: **02 — Anatomy / Phase B**.
 
+Текущая тема: **ANA-01 — anatomical terminology / planes / axes / movement terms**.
+
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
 - `RES-01 — question formulation` → **CLOSED_FOR_PRACTICE**;
@@ -153,22 +155,23 @@ PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgem
 
 ### Следующая задача
 
-**Phase B / ANA-01 — Anatomical terminology / planes / axes / movement terms.**
+**ANA-01 closure audit / synthesis.**
 
-Перед стартом:
-1. открыть `AGENT.md`;
-2. сохранить purpose: однозначный язык для дальнейшей анатомии, биомеханики и техники;
-3. не возвращаться в RES без concrete methodology trigger.
+Последний завершённый блок:
 
-Methodology Sufficiency Audit от 2026-11-18 установил:
+`research/fitness/passes/02_anatomy/ANA-01/PASS-01_core_anatomical_terminology_revalidation.md`
 
-- Phase A = **PHASE_A_SUFFICIENT_TO_PROCEED**;
-- RES-02 current base = **SUFFICIENT_FOR_PHASE_A**;
-- RES-03…RES-29 = operational baseline + trigger-based revalidation;
-- PASS-06F8 deferred;
-- exhaustive methodology taxonomy больше не блокирует substantive research.
+PASS-01 установил:
 
-После одного завершённого ANA-01 блока — сохранить state и STOP.
+1. TA2 остаётся current published IFAA/FIPAT Terminologia Anatomica framework на официальных страницах, проверенных 2026-11-18.
+2. FIPAT 2025 report, опубликованный 2026-02-08, описывает TA2.5 как planned future publication; не считать его текущим replacement.
+3. Старое exact wording "TA2 adopted in 2020" не подтверждено проверенными official pages и не должно повторяться без отдельного источника.
+4. Core anatomical position, directions, planes, conventional axes and movement vocabulary revalidated.
+5. Pronation/supination = radioulnar forearm movement, not wrist rotation.
+6. Anatomical planes/axes = reference language; actual 3D joint-axis mechanics остаётся MEC.
+7. Content blockers для ANA-01 не найдено.
+
+Следующий блок должен быть **отдельным audit/synthesis**, обновить canonical finding/status и определить closure. Не начинать ANA-02 в том же заходе.
 
 ---
 
