@@ -18,22 +18,16 @@ Use this file to recover work after a new chat or lost context.
 - Assistant role: **Kira**.
 - Branch: `research/psychology-foundation`.
 - Privacy mode: **NO PERSONAL DATA IN REPOSITORY**.
-- Phase A methodology: **IN PROGRESS — final audit pending**.
-- `PSY-RES-01`: **CLOSED_FOR_PRACTICE v1.0 — 7/7 PASS**.
-- `PSY-RES-02`: **CLOSED_FOR_PRACTICE v1.0 — 8/8 PASS**.
-- `PSY-RES-03`: **CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS**.
-- `PSY-RES-04`: **CLOSED_FOR_PRACTICE v1.0 — 10/10 PASS**.
-- `PSY-RES-05`: **CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS**.
-- `PSY-RES-06`: **CLOSED_FOR_PRACTICE v1.0 — 12/12 PASS**.
-- `PSY-RES-07`: **CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS**.
-- `PSY-RES-08`: **CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS**.
-- `PSY-RES-09`: **CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS**.
-- Next block: `PSY-RES-10 — Methodology sufficiency audit`.
+- **Phase A methodology: CLOSED_FOR_PRACTICE v1.0 — final sufficiency audit 16/16 PASS.**
+- PSY-RES-10 identified and repaired one blocking gap: minimum statistical-inference control.
+- Next phase: **Phase B — Core psychological science**.
+- Next block: `COG-01 — Cognition foundations: architecture, scope, and core distinctions`.
+- Target directory: `research/psychology/qualification/03_cognitive_psychology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/01_research_methodology/PSY-RES-09_evidence_to_individual_reasoning_uncertainty_calibration.md`
+`research/psychology/qualification/01_research_methodology/PSY-RES-10_methodology_sufficiency_audit.md`
 
 ## Hard stop condition
 
