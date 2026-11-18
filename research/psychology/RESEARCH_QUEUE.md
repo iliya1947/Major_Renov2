@@ -14,6 +14,7 @@
 - **PSY-RES-06 — CLOSED_FOR_PRACTICE v1.0 — 12/12 PASS.**
 - **PSY-RES-07 — CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS.**
 - **PSY-RES-08 — CLOSED_FOR_PRACTICE v1.0 — 13/13 PASS.**
+- **PSY-RES-09 — CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS.**
 
 ## Completed
 
@@ -49,31 +50,38 @@ Canonical block:
 Canonical block:
 `research/psychology/qualification/01_research_methodology/PSY-RES-08_qualitative_and_mixed_methods.md`
 
+### PSY-RES-09 — Evidence-to-individual reasoning and uncertainty calibration
+Canonical block:
+`research/psychology/qualification/01_research_methodology/PSY-RES-09_evidence_to_individual_reasoning_uncertainty_calibration.md`
+
 Established:
 
-1. qualitative evidence != anecdote;
-2. qualitative and quantitative methods answer different primary claim types;
-3. thematic, grounded-theory, phenomenological, narrative, discursive, ethnographic, case-study, and qualitative-content approaches are not interchangeable;
-4. methodological integrity is evaluated through fidelity to subject matter and utility for research goals;
-5. reflexivity makes researcher influence inspectable rather than pretending it disappears;
-6. qualitative sample adequacy != population representativeness;
-7. no universal qualitative N or saturation rule is used;
-8. member checking, triangulation, and intercoder agreement are method-dependent tools rather than universal validity rituals;
-9. participant experience != externally verified causal mechanism;
-10. qualitative transferability != statistical population generalization;
-11. reporting completeness != methodological validity;
-12. qualitative evidence synthesis and GRADE-CERQual confidence assessment are represented;
-13. mixed methods require an explicit rationale and genuine integration;
-14. convergent, explanatory sequential, exploratory sequential, and embedded designs are distinguished;
-15. each mixed-method strand retains its own rigor and causal limitations;
-16. discordance between methods is treated as evidence to explain, not noise to suppress;
-17. a 39-question Qualitative and Mixed-Methods Gate is now canonical.
+1. population evidence is a prior constraint, not person-specific fact;
+2. person-specific observations update rather than erase population evidence;
+3. observation, context, interpretation, and inference are separate layers;
+4. claim types are explicit: trait/state/capacity/preference/prediction/function/mechanism/clinical;
+5. between-person evidence cannot silently become within-person mechanism;
+6. case formulation is a testable and revisable idiographic hypothesis model;
+7. rival hypotheses are mandatory;
+8. contradictions must remain visible and can force model revision;
+9. discriminating prospective predictions increase confidence more than post-hoc fit;
+10. safe person-specific perturbation can strengthen functional inference but does not bypass causal threats;
+11. qualitative Bayesian updating is allowed; fabricated numeric posteriors are prohibited;
+12. base rates and incremental validity constrain interpretation;
+13. evidence dependence and double counting are explicit;
+14. confidence tags OPEN/LOW/MODERATE/HIGH/VERY HIGH are ordinal, not fake probabilities;
+15. calibration can be tracked prospectively for resolvable claims;
+16. correction handling propagates according to factual/interpretive/mechanistic level;
+17. ability, preference, frequency, state, historical, and current claims are separated;
+18. a seven-level Individual Evidence Ladder is canonical;
+19. a private Individual Inference Record schema is defined;
+20. a 45-question Evidence-to-Individual Gate is canonical.
 
 ## Current next action
 
-**PSY-RES-09 — Evidence-to-individual reasoning and uncertainty calibration.**
+**PSY-RES-10 — Methodology sufficiency audit.**
 
-Goal: establish the explicit bridge from population-level psychological evidence and private observations to person-specific hypotheses without overclaiming mechanisms, traits, diagnoses, or causal explanations.
+Goal: audit PSY-RES-01 through PSY-RES-09 as one inference system, identify unresolved gaps or contradictions that could still produce unreliable individualized psychological reasoning, and close Phase A only if the methodology is sufficient for downstream qualification work.
 
 ## Deferred
 
