@@ -30,7 +30,9 @@
 - **ANA-08 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-08/PASS-01 pelvis-hip structural-functional revalidation completed 2026-11-18.
 - ANA-08/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT NEXT: **Phase B / ANA-09 — Колено.**
+- CURRENT: **Phase B / ANA-09 — Колено.**
+- ANA-09/PASS-01 knee structural-functional revalidation completed 2026-11-18.
+- CURRENT NEXT: **ANA-09 closure audit / synthesis**. Do not start ANA-10 before ANA-09 closure.
 
 ## История текущего revalidation cycle
 
@@ -424,3 +426,9 @@
 318. ANA-08 = **CLOSED_FOR_PRACTICE v2.0**.
 319. Existing ledger ANA08-01…ANA08-06 is sufficient for closure; no extra claim required.
 320. Следующий один блок: **ANA-09 — Колено**.
+
+321. Завершён **ANA-09/PASS-01 — Knee structural-functional revalidation**.
+322. Tibiofemoral/patellofemoral system, menisci/roots, cruciates, medial/PLC stabilizers, extensor mechanism, quadriceps, hamstrings, popliteus and gastrocnemius cross-joint role revalidated.
+323. Current 2025–2026 updates added: quadriceps-tendon layering variability, asymptomatic meniscal-root variants, medial-knee complex model, PLC model and popliteus compartmentalization.
+324. Patellofemoral attachment variability retained without symptom/pathology inference.
+325. Следующий один блок: **ANA-09 closure audit / synthesis**.
