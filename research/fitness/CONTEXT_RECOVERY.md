@@ -153,7 +153,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-14 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **PHY-15 — Respiratory exercise physiology — NOT STARTED**.
+Текущая тема: **PHY-15 — Respiratory exercise physiology — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -203,36 +203,38 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-14/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-15/PASS-01_respiratory_exercise_physiology_revalidation.md`
 
-PASS commit: `2571477c6a0ad9c7157bb02f7a82261416395ba5`  
-Canonical finding commit: `745b4fbbb0102a0fbf86b8167dfdc0baf2ace260`
+PASS commit: `0b53adac207addb970573657885ba621bfd1f17a`  
+Evidence-ledger commit: `23b165dc8b8e300e0422040ef07956117842c2a3`
 
-PHY-14/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+PHY-15/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Exact content coverage:
+- `areas/03_physiology.md` Section 16 = **11/11 at content level**.
 
-1. exact Section 15 coverage = **13/13 PASS**;
-2. HR, stroke volume and cardiac output remain distinct; `Q = HR × SV`;
-3. universal SV plateau is rejected;
-4. BP interpretation remains protocol-/breathing-dependent;
-5. systemic TPR remains distinct from local exercising-muscle vascular resistance;
-6. blood-flow redistribution is graded/regional rather than on/off;
-7. venous return remains multi-mechanistic;
-8. acute RT cardiovascular load is not reducible to %1RM;
-9. chronic RT adaptation is retained without endurance-equivalence overclaim;
-10. chronic aerobic adaptation remains central + peripheral;
-11. acute PEH is not a chronic BP surrogate;
-12. capillary density remains distinct from capillary-to-fiber ratio;
-13. normal physiology remains bounded from clinical interpretation in MED;
-14. no project-relevant blocker remains;
-15. first canonical `PHY-14_cardiovascular_exercise_physiology.md` created.
+PASS-01 established:
+
+1. minute ventilation = tidal volume × breathing frequency, but alveolar ventilation additionally depends on dead space;
+2. VT and breathing frequency are separate contributors to VE and their balance shifts with demand/mechanical constraints;
+3. pulmonary gas exchange requires ventilation + perfusion/V-Q matching + diffusion;
+4. pulmonary O2 loading is only one step of whole-body oxygen transport; Hb/cardiac output/tissue diffusion remain separate;
+5. CO2 removal and VE/VCO2 are interpreted through production, alveolar ventilation, dead space and PaCO2 regulation;
+6. exercise hyperpnea is multi-controller rather than one-sensor physiology;
+7. respiratory muscles perform meaningful work and can fatigue during severe/prolonged exercise;
+8. resistance-exercise ventilation is intermittent and breathing-strategy/protocol dependent;
+9. ordinary endurance training is separated from targeted IMT/RMT; better VO2max does not prove proportional lung/spirometric adaptation;
+10. healthy respiratory limitation is usually low in non-elite adults but can emerge at very high endurance demand as EFL/EIAH/respiratory-muscle fatigue;
+11. unexplained dyspnea/desaturation remains MED-owned;
+12. exact Section 16 coverage = **11/11 at content level**;
+13. no content-level blocker was found;
+14. canonical PHY-15 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**PHY-15/PASS-01 — Respiratory exercise physiology content revalidation.**
+**PHY-15/PASS-02 — Closure audit and synthesis.**
 
-PHY-15 has not been started. After the next one block, save state and STOP.
+After PASS-02 save state and STOP. Do not start PHY-16 automatically.
 
 ---
 
@@ -248,9 +250,9 @@ PHY-15 has not been started. After the next one block, save state and STOP.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-14/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-15/PASS-01_respiratory_exercise_physiology_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-15/PASS-01 respiratory exercise physiology content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **PHY-15/PASS-02 closure audit and synthesis** и остановиться перед PHY-16.
 
 ---
 
