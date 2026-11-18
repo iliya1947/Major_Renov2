@@ -157,7 +157,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-16 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **PHY-17 — Integrated physiology — NOT STARTED**.
+Текущая тема: **PHY-17 — Integrated physiology — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -207,39 +207,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-16/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-17/PASS-01_integrated_physiology_revalidation.md`
 
-PASS commit: `da595b5c694be17976fa2617628c2a452397125e`  
-Canonical finding commit: `0e72e61311195a3ee748f113cdf1e286e41be4c8`
+PASS commit: `0e4ef6912849d0074e2d672b31ef97533b987712`  
+Evidence-ledger commit: `760f2b0355f3a2ff7ad2c65b504e960f0d8c6a0a`
 
-PHY-16/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+PHY-17/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Exact content coverage:
+- `areas/03_physiology.md` Section 19 = **8/8 at content level**.
 
-1. normalized PHY-16 maps Sections 17–18 = **18/18 PASS**;
-2. resting endocrine state remains multi-axis/context dependent;
-3. catecholamines/cortisol remain acute regulators rather than training/readiness scores;
-4. insulin is separated from contraction-mediated glucose uptake;
-5. glucagon remains integrated counter-regulation;
-6. acute testosterone/GH responses are not hypertrophy surrogates;
-7. circulating IGF-1 remains distinct from local muscle IGF signaling;
-8. acute systemic hormones are not proxies for local chronic adaptation;
-9. chronic endocrine adaptation is not reduced to one universal resting profile;
-10. sleep/energy/non-training stress remain explicit systemic modifiers;
-11. acute cytokine/myokine responses are not equated with pathological inflammation;
-12. postexercise immune-cell redistribution is not equated with immune shutdown;
-13. habitual exercise immune/inflammatory effects retain certainty limits;
-14. illness susceptibility remains a load + recovery + exposure problem;
-15. no single endocrine/immune biomarker diagnoses under-recovery/overtraining;
-16. clinical endocrine/immune disease remains MED-owned;
-17. no project-relevant blocker remains;
-18. first canonical `PHY-16_endocrine_immune_physiology.md` created.
+PASS-01 established:
+
+1. exercise physiology is a coupled neural-muscular-cardiorespiratory-metabolic control problem;
+2. one resistance-training set is a non-steady-state whole-system perturbation;
+3. full-session physiology is history dependent, so later sets do not reproduce the internal state of earlier sets;
+4. acute signaling and chronic adaptation remain separated by recovery/remodeling and multiple time scales;
+5. resistance/endurance specificity is modeled as different weighting of shared systems;
+6. sleep, energy availability, nutrition and non-training stress are explicit adaptation modifiers;
+7. competing molecular signals are retained without a binary AMPK-vs-mTOR model;
+8. concurrent-training interference is treated as outcome-, modality-, dose-, training-status- and recovery-dependent rather than universal;
+9. inter-organ/exerkine communication is retained with causal/measurement boundaries;
+10. network physiology is an organizing framework, not permission for unmeasured causal claims;
+11. exact Section 19 coverage = **8/8 at content level**;
+12. no content-level blocker was found;
+13. canonical PHY-17 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**PHY-17/PASS-01 — Integrated physiology content revalidation.**
+**PHY-17/PASS-02 — Closure audit and synthesis.**
 
-PHY-17 has not been started. After the next one block, save state and STOP.
+After PASS-02 save state and STOP. Do not start PHY-18 automatically.
 
 ---
 
@@ -255,9 +253,9 @@ PHY-17 has not been started. After the next one block, save state and STOP.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-16/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-17/PASS-01_integrated_physiology_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-17/PASS-01 integrated physiology content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **PHY-17/PASS-02 closure audit and synthesis** и остановиться перед PHY-18.
 
 ---
 
