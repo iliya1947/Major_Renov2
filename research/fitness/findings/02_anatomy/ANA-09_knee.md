@@ -1,634 +1,519 @@
 # ANA-09 — Коленный сустав
 
-Статус: **LEGACY v1.0 — REVALIDATION IN PROGRESS; use current ANA-09 passes/state**  
-Дата: 2026-11-16  
+Статус: **CLOSED_FOR_PRACTICE v2.0 — revalidated 2026-11-18**  
 Область: 02 — Анатомия
 
-## 0. Question Card
+## 0. Decision
 
-### Decision
-Создать точную карту tibiofemoral/patellofemoral articulations, menisci, связок и мышц колена для последующего анализа squat/lunge/knee-extension/leg-curl mechanics.
+Создать structural-functional карту knee complex для последующего анализа squat/lunge/knee-extension/leg-curl mechanics без:
 
-### Question type
-Foundational anatomy / functional anatomy.
+- pure-hinge knee model;
+- one-ligament stability model;
+- fixed “normal” tendon/root/MPFL maps;
+- VMO-isolation mythology;
+- anatomy → pathology/technique overclaim.
 
-### Critical outcomes
-1. Distal femur/proximal tibia/patella.
-2. Tibiofemoral and patellofemoral articulations.
-3. Menisci.
-4. ACL/PCL.
-5. MCL/LCL and posterior structures.
-6. Quadriceps.
-7. Hamstrings at knee.
-8. Popliteus.
-9. Gastrocnemius cross-joint role.
-10. Extensor mechanism and rotational coupling.
+## 1. Canonical knee-complex model
 
-### Closure criterion
-Можно анатомически объяснить flexion/extension, limited rotation, extensor mechanism and static/dynamic stabilizers без упрощения “колено = шарнир”.
-
----
-
-## 1. Knee joint complex
-
-Knee is a compound synovial joint with:
+Knee = compound synovial system:
 
 1. medial tibiofemoral compartment;
 2. lateral tibiofemoral compartment;
-3. patellofemoral articulation. citeturn871529search0turn871529search3
+3. patellofemoral articulation.
 
-Primary:
+Primary motion:
 - flexion/extension.
 
-Secondary:
+Secondary constrained motions:
 - axial rotation;
-- small translation/varus-valgus motions under constraint.
+- translation;
+- small varus/valgus excursion depending position/load.
 
-Thus knee is hinge-dominant, not a perfect one-axis hinge.
+Project rule:
 
-## 2. Distal femur
+**knee is hinge-dominant, not a perfect fixed-axis hinge.**
 
-Key landmarks:
+## 2. Distal femur / proximal tibia / fibula
 
-1. medial condyle;
-2. lateral condyle;
-3. medial/lateral epicondyles;
-4. intercondylar fossa/notch;
-5. patellar/trochlear surface anteriorly;
-6. adductor tubercle medially.
+### Distal femur
 
-Femoral condyles differ in geometry and interact with menisci/tibial plateau through flexion-extension.
+Relevant:
+- medial/lateral condyles;
+- medial/lateral epicondyles;
+- intercondylar notch;
+- patellar/trochlear surface;
+- adductor tubercle.
 
-## 3. Proximal tibia
+### Proximal tibia
 
-Key:
-1. medial tibial plateau;
-2. lateral tibial plateau;
-3. intercondylar eminence/spines;
-4. anterior/posterior intercondylar areas;
-5. tibial tuberosity;
-6. Gerdy's tubercle laterally;
-7. pes anserinus region medially.
+Relevant:
+- medial/lateral plateaus;
+- intercondylar eminence/areas;
+- tibial tuberosity;
+- Gerdy tubercle;
+- pes-anserinus region.
 
-Tibia is primary weight-bearing lower-leg bone. citeturn871529search3
+### Fibula
 
-## 4. Fibula relation
-
-Fibular head is important attachment site for:
-- LCL;
+Fibula does not articulate with femur as part of the primary knee joint, but its head anchors:
+- FCL/LCL;
 - biceps femoris;
-- proximal tibiofibular structures.
+- proximal tibiofibular/posterolateral structures.
 
-Fibula does **not** articulate with femur as part of primary knee joint. citeturn871529search0
-
-But it contributes to posterolateral structural network and lower-leg force distribution.
-
-## 5. Patella
+## 3. Patella
 
 Patella:
 - largest sesamoid bone;
-- embedded in quadriceps tendon/extensor mechanism;
-- articulates with femoral trochlea. citeturn871529search13
+- embedded in extensor mechanism;
+- articulates with femoral trochlea.
 
-Functions structurally:
-1. increases quadriceps tendon moment arm;
-2. redirects extensor force;
-3. protects anterior joint structures;
-4. distributes patellofemoral contact.
+Broad roles:
+1. increases quadriceps extensor leverage;
+2. redirects tendon force;
+3. contributes to anterior protection/contact distribution.
 
-Exact mechanical advantage by knee angle → MEC.
+Exact angle-specific mechanics → MEC.
 
-## 6. Tibiofemoral articulation
+## 4. Tibiofemoral / patellofemoral articulations
 
-Femoral condyles ↔ tibial plateaus with menisci interposed.
+### Tibiofemoral
+Femoral condyles articulate with tibial plateaus with menisci interposed.
 
-Tibial articular surfaces are less congruent than hip; stability therefore relies strongly on:
+Stability depends on:
 - menisci;
 - cruciates;
-- collaterals;
+- medial/lateral complexes;
 - capsule;
-- dynamic muscles.
+- bony geometry;
+- muscles.
 
-## 7. Patellofemoral articulation
+### Patellofemoral
+Patella articulates with trochlea and changes contact/orientation through ROM.
 
-Posterior patellar facets glide within femoral trochlea during knee flexion/extension.
+Project rule:
 
-Patellar position/contact changes with knee angle.
+**patella does not move in one perfectly fixed straight rail.**
 
-“Patella tracks straight up/down” is an oversimplification; exact path is 3D and morphology-dependent.
+Exact tracking → MEC/TST.
 
-## 8. Menisci
+## 5. Menisci
 
-Two fibrocartilaginous structures:
-
-1. medial meniscus;
-2. lateral meniscus.
+Medial and lateral menisci are fibrocartilaginous load-sharing/congruence/stability structures.
 
 Broad roles:
 - improve congruence;
 - distribute contact load;
+- reduce focal stress;
 - contribute to stability;
-- reduce focal contact stress;
-- assist lubrication/proprioception. citeturn871529search0turn871529search12
+- support lubrication/proprioceptive functions.
 
-They are not passive “shock absorber pads” only.
+Project rule:
 
-## 9. Medial meniscus
+**menisci are not merely “shock absorbers”.**
 
-Broadly:
-- more C-shaped;
-- more firmly attached to capsule/MCL-related structures;
-- less mobile than lateral meniscus.
+## 6. Meniscal roots / variation
 
-This structural tethering partly explains different injury behavior, but pathology → MED.
+Anterior/posterior roots anchor menisci to tibia and enable circumferential load sharing.
 
-## 10. Lateral meniscus
+Current 2026 7-T MRI data show meaningful normal root/insertion variability, especially posterior lateral meniscus.
 
-Broadly:
-- more circular;
-- relatively mobile;
-- popliteus tendon relationship creates posterolateral interruption/hiatus.
+Project rule:
 
-Meniscal roots anchor both menisci to tibial plateau.
+**one atlas root map is not universal personal anatomy.**
 
-## 11. Meniscal roots
+Variant root number/location alone ≠ pathology.
 
-Anterior/posterior roots attach menisci to tibia.
+## 7. ACL / PCL
 
-They allow circumferential hoop-force transmission.
+### ACL
+Broadly restrains:
+- anterior tibial translation;
+- rotational instability;
+- terminal-extension extremes.
 
-A meniscus without effective root attachment cannot distribute load normally — mechanical/pathological consequence later.
-
-## 12. ACL
-
-ACL runs:
-- anterior intercondylar tibial region → lateral femoral condyle inside intercondylar notch.
-
-Major roles:
-- restrains anterior tibial translation relative to femur;
-- contributes to rotational stability;
-- limits hyperextension extremes. citeturn871529search6
-
-Bundle descriptions commonly include:
-- anteromedial;
-- posterolateral.
-
-Tension varies with knee position.
-
-## 13. PCL
-
-PCL runs:
-- posterior tibial intercondylar region → medial femoral condyle.
-
-Major:
-- restrains posterior tibial translation;
+### PCL
+Broadly restrains:
+- posterior tibial translation;
 - contributes to rotational/flexion stability.
 
-PCL is generally larger/stronger than ACL structurally.
+Both are:
+- intracapsular;
+- extrasynovial relative to the synovial cavity proper.
 
-## 14. Cruciate ligaments are intracapsular but extrasynovial
+Project rule:
 
-Both lie within fibrous capsule but outside synovial cavity proper because synovial membrane reflects around them.
+**cruciate function is position-dependent, not one fixed vector.**
 
-This distinction is anatomically useful and often omitted in simplified diagrams.
+## 8. Medial knee complex
 
-## 15. MCL / tibial collateral ligament
+Medial stability is distributed across:
 
-Runs medial femoral epicondylar region → medial tibia.
+1. superficial MCL;
+2. deep MCL;
+3. posteromedial structures;
+4. capsular/meniscal interfaces;
+5. dynamic medial muscles/tendons.
 
-Broad, strong structure with superficial/deep components in modern descriptions.
+Project rule:
 
-Deep attachments relate to medial meniscus/capsule.
+**medial knee stability ≠ one MCL strap.**
 
-Primary:
-- valgus/coronal-plane restraint. citeturn871529search5
+## 9. Lateral / posterolateral complex
 
-## 16. LCL / fibular collateral ligament
+Core repeatedly recognized structures include:
 
-Cord-like extracapsular ligament:
-- lateral femoral epicondyle → fibular head.
+- FCL/LCL;
+- popliteus myotendinous complex;
+- popliteofibular ligament;
+- associated capsule/arcuate structures;
+- biceps femoris / lateral fascial relationships.
 
-Primary:
-- varus restraint;
-- part of broader posterolateral corner system.
+Project rule:
 
-Unlike MCL, not attached directly to lateral meniscus because popliteus tendon intervenes.
+**posterolateral stability ≠ LCL alone.**
 
-## 17. Posterior capsule and ligaments
+Exact smaller-structure taxonomy → MED/MEC only if needed.
 
-Important:
-1. oblique popliteal ligament;
-2. arcuate popliteal ligament;
-3. posterolateral structures.
+## 10. Posterior / posteromedial reinforcement
 
-Oblique popliteal ligament is expansion related to semimembranosus tendon.
+Relevant:
+- posterior capsule;
+- oblique popliteal ligament;
+- semimembranosus expansions;
+- posteromedial complex.
 
-These reinforce posterior knee.
+Posterior stability is integrated across capsular, ligamentous and tendinous structures.
 
-## 18. Extensor mechanism
+## 11. Extensor mechanism
 
-Force pathway:
+Canonical force path:
 
-`quadriceps muscles → quadriceps tendon → patella → patellar ligament/tendon → tibial tuberosity`
+`quadriceps → quadriceps tendon → patella → patellar tendon/ligament → tibial tuberosity`
 
-The patella is integrated into tendon chain.
+Also includes:
+- retinacular expansions;
+- aponeurotic layers;
+- patellofemoral soft-tissue restraints.
 
-Terminology:
-“patellar tendon” and “patellar ligament” both used because it connects bone-to-bone (patella→tibia) but continues extensor tendon system.
+Project rule:
 
-Project uses **patellar tendon/ligament** depending source/context.
+**extensor mechanism is distributed, not one homogeneous tendon cord.**
 
-## 19. Quadriceps femoris
+## 12. Quadriceps
 
-Four canonical muscles:
+Canonical muscles:
 
 1. rectus femoris;
 2. vastus lateralis;
 3. vastus medialis;
-4. vastus intermedius. citeturn871529search2turn871529search14
+4. vastus intermedius.
 
-All contribute to knee extension through quadriceps tendon/patella.
+All contribute knee extension.
 
 Innervation:
 - femoral nerve.
 
-## 20. Rectus femoris
+### Rectus femoris
+Crosses hip + knee.
 
-Origin:
-- AIIS + supra-acetabular/reflected head region.
+### Vastus medialis
+Distal oblique fibers may be described as VMO.
 
-Crosses:
-- hip;
-- knee.
+Project rule:
 
-Functions:
-- knee extension;
-- hip flexion.
+**VMO is not treated as a separately isolatable muscle with one universal corrective exercise.**
 
-Thus hip position changes rectus femoris length during knee work.
+### Articularis genus
+Small deep muscle retracting suprapatellar synovial/capsular tissue during extension.
 
-## 21. Vastus lateralis
+## 13. Quadriceps tendon variability
 
-Origin broadly:
-- greater trochanter;
-- lateral linea aspera/proximal femur.
+Current 2025 cadaveric data support marked variability in:
+- layering;
+- relative muscle contribution;
+- patellar insertion pattern.
 
-Insertion:
-- quadriceps tendon/patella with retinacular expansions.
+Project rule:
 
-Primary:
-- knee extension.
+**quadriceps tendon is composite and variably layered; a universal fixed trilaminar pattern is not assumed.**
 
-Large lateral quadriceps component.
+Exact frequencies from the studied cadaver sample are not generalized universally.
 
-## 22. Vastus medialis
+## 14. Patellar retinacula / MPFL-related variability
 
-Origin:
-- intertrochanteric line/medial linea aspera.
-
-Insertion:
-- medial patella/quadriceps tendon and retinacular structures.
-
-Primary:
-- knee extension.
-
-Distal oblique fibers are often called VMO descriptively, but project does **not** assume VMO is an independently isolatable separate muscle with unique exercise prescription.
-
-## 23. Vastus intermedius
-
-Deep to rectus femoris.
-
-Origin:
-- anterior/lateral femoral shaft.
-
-Insertion:
-- quadriceps tendon/patella.
-
-Primary:
-- knee extension.
-
-## 24. Articularis genus
-
-Small deep muscle near distal anterior femur, often related to vastus intermedius.
-
-Function:
-- pulls suprapatellar synovial membrane/capsule superiorly during extension to avoid entrapment.
-
-Low training relevance but part of complete anatomy.
-
-## 25. Quadriceps tendon
-
-Composite tendon above patella with contributions from quadriceps layers.
-
-Not one homogeneous rope.
-
-Patellar retinacula transmit force around patella medially/laterally.
-
-## 26. Patellar retinacula
-
-Medial/lateral expansions from quadriceps/aponeurotic structures around patella to tibia/capsule.
-
-Contribute:
-- patellar alignment;
-- extensor force distribution;
+Retinacular and medial patellofemoral structures contribute to:
+- extensor-force distribution;
+- patellar restraint;
 - capsular reinforcement.
 
-## 27. Hamstrings at knee
+Current 2026 meta-analysis shows substantial heterogeneity in radiographic MPFL femoral-attachment location.
+
+Project rule:
+
+**one radiographic attachment coordinate is not universal personal anatomy.**
+
+## 15. Hamstrings at knee
 
 ### Biceps femoris
 - knee flexion;
-- lateral rotation of flexed leg.
+- lateral/external rotation of flexed tibia.
 
-### Semitendinosus/semimembranosus
+### Semitendinosus / semimembranosus
 - knee flexion;
-- medial rotation of flexed leg.
+- medial/internal rotation of flexed tibia.
 
-Most hamstrings also extend hip except BF short head.
+Most proximal hamstring anatomy → ANA-08.
 
-Detailed proximal anatomy → ANA-08.
+Project rule:
 
-## 28. Pes anserinus
+**medial and lateral hamstrings are not rotationally interchangeable.**
 
-Combined insertion region on anteromedial proximal tibia of:
+## 16. Pes anserinus / semimembranosus / biceps-femoris relationships
 
-1. sartorius;
-2. gracilis;
-3. semitendinosus.
+### Pes anserinus
+Convergence of:
+- sartorius;
+- gracilis;
+- semitendinosus.
 
-These originate from three different compartments/nerve systems yet converge at medial knee.
+### Semimembranosus
+Has distal expansions into posterior/medial capsular structures.
 
-This demonstrates lower-limb anatomy crosses simple compartment labels.
+### Biceps femoris
+Attaches around fibular head with complex lateral expansions near FCL/PLC structures.
 
-## 29. Semimembranosus expansions
+These relationships matter for later stability mechanics.
 
-Semimembranosus distal tendon has multiple expansions, including contribution to posterior capsule/oblique popliteal ligament.
+## 17. Popliteus
 
-Therefore it participates in knee stability beyond simple flexion.
+Popliteus:
+- deep posterior knee muscle;
+- tibial nerve;
+- femoral/popliteal-tendon origin region;
+- posterior proximal tibial insertion.
 
-## 30. Biceps femoris and fibular head
+Broad roles:
+- contributes to tibial internal rotation in open chain;
+- contributes to femoral external rotation on fixed tibia;
+- assists transition from terminal extension toward flexion;
+- contributes posterolateral dynamic stability.
 
-BF tendon attaches around fibular head, with complex expansions.
+Project rule:
 
-Because LCL also attaches fibular head, the lateral knee has closely interwoven tendon/ligament anatomy.
+**“unlocks the knee” is shorthand, not a literal latch mechanism.**
 
-Exact posterolateral mechanics → MEC/MED.
+## 18. Popliteus current architecture
 
-## 31. Popliteus
+2026 anatomical work supports:
+- superficial/deep layers;
+- compartmentalized innervation;
+- internal architectural nonuniformity.
 
-Small deep posterior knee muscle.
+Project limitation:
 
-Origin:
-- lateral femoral condyle/popliteal tendon complex.
+**layer-specific exercise specialization is not established.**
 
-Insertion:
-- posterior proximal tibia above soleal line.
+## 19. Gastrocnemius cross-joint role
 
-Innervation:
-- tibial nerve.
-
-Functions:
-- internally rotates tibia in open chain;
-- externally rotates femur on fixed tibia in closed chain;
-- assists “unlocking” knee from terminal extension;
-- posterolateral dynamic stability. citeturn871529search7
-
-2026 work shows layer-specific architecture/innervation, again arguing against one-vector simplification. citeturn871529search11
-
-## 32. Gastrocnemius crosses knee
-
-Both gastrocnemius heads originate from distal femur and cross:
+Gastrocnemius crosses:
 - knee;
 - ankle.
 
 At knee:
-- flexion contribution;
-- posterior dynamic stability.
+- contributes flexion/posterior dynamic control.
 
 At ankle:
 - plantarflexion.
 
+Project rule:
+
+**knee and ankle position jointly influence gastrocnemius geometry.**
+
 Detailed calf anatomy → ANA-10.
 
-## 33. Plantaris
+## 20. Knee rotation / screw-home boundary
 
-Small variable muscle crossing knee/ankle.
+Knee allows limited axial rotation, especially away from terminal extension.
 
-Low force contribution, highly variable anatomy.
-
-Not necessary target for ordinary training.
-
-## 34. Knee rotation
-
-Axial tibial/femoral rotation is possible mainly with knee flexed.
-
-In full extension:
-- ligamentous/bony constraints increase.
-
-Thus “knees only bend” is anatomically false.
-
-Exact screw-home mechanics → MEC.
-
-## 35. Screw-home mechanism — anatomy preview
-
-Terminal extension involves coupled tibiofemoral rotation due:
+Terminal extension includes coupled rotation related to:
 - condylar geometry;
 - ligament tension;
 - muscle action.
 
-Popliteus reverses/“unlocks” this for flexion.
+Popliteus contributes to reversal/transition toward flexion.
 
-Quantitative sequence → MEC.
+Exact screw-home sequence/quantification → MEC.
 
-## 36. Static stabilizers
+## 21. Static / dynamic stabilizers
 
-1. ACL/PCL;
-2. MCL/LCL;
-3. capsule;
-4. menisci/roots;
-5. bony geometry;
-6. posterolateral/posteromedial structures.
+### Static
+- ACL/PCL;
+- medial complex;
+- FCL/LCL + PLC;
+- capsule;
+- menisci/roots;
+- bony geometry;
+- patellofemoral restraints.
 
-## 37. Dynamic stabilizers
+### Dynamic
+- quadriceps;
+- hamstrings;
+- popliteus;
+- gastrocnemius;
+- semimembranosus/pes-anserine/lateral fascial contributors.
 
-1. quadriceps;
-2. hamstrings;
-3. popliteus;
-4. gastrocnemius;
-5. IT tract-related muscular tension;
-6. hip/ankle muscles indirectly through limb alignment/force.
+Project rule:
 
-Dynamic does not mean “muscles replace ligaments”; they contribute active control.
+**muscles contribute active stability but do not replace passive stabilizers.**
 
-## 38. Patellofemoral stability
+## 22. Multiarticular muscle relationships
 
-Depends on:
-- trochlear geometry;
-- patellar geometry;
-- quadriceps/retinacula;
-- medial/lateral soft tissues;
-- limb alignment.
-
-No single “VMO weakness” explanation should be assumed for patellar symptoms.
-
-Pathology → MED.
-
-## 39. Knee joint capsule
-
-Fibrous capsule:
-- encloses joint;
-- reinforced by tendons/ligaments;
-- lined by synovium.
-
-Anteriorly complicated by patella/extensor apparatus.
-
-Posterolaterally popliteus tendon interacts with capsule.
-
-## 40. Bursae
-
-Major around knee:
-- suprapatellar;
-- prepatellar;
-- superficial/deep infrapatellar;
-- pes anserine;
-- gastrocnemius/semimembranosus;
-- popliteus-related.
-
-Presence is normal anatomy; “bursa” ≠ bursitis.
-
-## 41. Nerve map — minimum
-
-Quadriceps:
-- femoral nerve.
-
-Hamstrings:
-- sciatic divisions.
-
-Popliteus/gastrocnemius:
-- tibial nerve.
-
-BF short head:
-- common fibular division.
-
-Detailed course → ANA-12.
-
-## 42. Knee angle changes muscle lengths
-
-Rectus femoris:
+### Rectus femoris
 - hip + knee.
 
-Hamstrings:
+### Most hamstrings
 - hip + knee.
 
-Gastrocnemius:
+### Gastrocnemius
 - knee + ankle.
 
-Thus:
-- hip position changes knee-muscle length;
-- ankle position can change gastrocnemius length.
+Therefore adjacent-joint position changes muscle-tendon geometry.
 
-This is anatomical basis for multiarticular exercise effects.
+Anatomy establishes this relation; exact torque/hypertrophy consequences → MEC/PHY.
 
-## 43. Open vs closed chain — anatomy boundary
+## 23. Open vs closed chain boundary
 
-Same knee joint structures exist whether:
-- foot free;
-- foot fixed.
+Anatomy is the same whether foot is free or fixed.
 
-But relative segment motion changes:
-- open chain: tibia moves more relative femur;
-- closed chain: femur can move relative tibia.
+Relative segment motion differs:
+- tibia may move relative femur;
+- femur may move relative tibia.
 
-Biomechanical loading differences → MEC/TEC.
+Open/closed chain is therefore a mechanical/task distinction.
 
-## 44. “Knee over toes” boundary
+## 24. “Knee over toes” / valgus-varus boundary
 
-Anatomy alone does not say anterior knee translation is bad.
+Anatomy alone does not establish anterior knee travel as pathological.
 
-Knee is designed for flexion with patellofemoral/tibiofemoral motion.
+Likewise:
+- visible valgus/varus movement ≠ ligament injury diagnosis.
 
-Risk/load depends on:
-- external moment;
-- tissue capacity;
+Technique/risk/load depend on:
+- external moments;
 - ROM;
-- task.
+- tissue capacity;
+- symptoms/context.
 
-Do not derive technique prohibition from static anatomy.
+Those are MEC/MED/TEC questions.
 
-## 45. Valgus/varus terminology
+## 25. Normal variation
 
-Valgus/varus describe relative angulation/alignment in frontal plane.
-
-Dynamic visual knee movement ≠ ligament injury diagnosis.
-
-Movement mechanics and anatomical axes → MEC/TEC.
-
-## 46. Individual variation
-
-Varies:
-- femoral/tibial geometry;
-- trochlear shape;
-- patellar morphology;
+Relevant variation includes:
+- condylar/plateau geometry;
+- trochlear/patellar morphology;
 - tibial slope;
-- Q-angle-like alignment measures;
-- ligament insertions;
-- meniscal shape.
+- meniscal roots;
+- MPFL/retinacular attachments;
+- collateral/PLC anatomy;
+- quadriceps-tendon layering;
+- popliteus architecture.
 
-Atlas averages do not determine one universal stance.
+Project rule:
 
-## 47. Project canonical knee model
+**atlas anatomy is modal, not identical in every person.**
+
+Variation alone ≠ pathology.
+
+## 26. Canonical project model
 
 1. Knee = tibiofemoral + patellofemoral compound system.
-2. Patella is part of extensor mechanism and changes quadriceps leverage.
-3. Menisci distribute load and improve congruence/stability.
-4. ACL/PCL control anteroposterior/rotational relationships.
-5. MCL/LCL + posterior structures control coronal/rotational stability.
-6. Quadriceps = four canonical knee extensors; rectus femoris also hip flexor.
-7. Hamstrings flex knee; medial/lateral groups differ in rotation.
-8. Popliteus contributes rotational unlocking/stability.
-9. Gastrocnemius crosses knee and ankle.
-10. Knee allows rotation/translation as well as flexion/extension; it is not a perfect hinge.
+2. Knee is hinge-dominant, not a perfect hinge.
+3. Menisci are load-sharing/congruence/stability structures dependent on root fixation.
+4. ACL/PCL are position-dependent intracapsular-extrasynovial stabilizers.
+5. Medial stability = MCL complex + posteromedial structures.
+6. Posterolateral stability = FCL/LCL + popliteus/popliteofibular/capsular system.
+7. Extensor mechanism = quadriceps + composite tendon + patella + retinacula + patellar tendon/ligament.
+8. Quadriceps = RF + VL + VM + VI.
+9. Hamstrings differ in medial/lateral rotational contribution.
+10. Popliteus contributes rotational transition/dynamic stability.
+11. Gastrocnemius crosses knee + ankle.
+12. Knee anatomy shows meaningful normal variation.
 
-## 48. Confidence
+## 27. Evidence / confidence
 
 ### HIGH
 - compound knee architecture;
-- menisci/ligament anatomy;
-- quadriceps canonical anatomy;
-- hamstrings/popli­teus/gastrocnemius cross-joint roles.
+- meniscus/root functional anatomy;
+- ACL/PCL broad roles;
+- medial/lateral complex-level stability;
+- quadriceps/hamstring anatomy;
+- extensor mechanism;
+- gastrocnemius cross-joint anatomy.
 
-### MODERATE
-- exact dynamic contributions and patellar tracking vary by morphology/task and require biomechanics.
+### MODERATE / SAMPLE- OR MODEL-DEPENDENT
+- exact quadriceps-tendon layer frequencies;
+- exact meniscal-root variant prevalence;
+- detailed smaller PLC taxonomy;
+- popliteus layer-specific function;
+- exact MPFL radiographic attachment coordinate.
 
-## 49. Sources
+## 28. Sources checked in revalidation
 
 1. NCBI Bookshelf — Knee.  
    https://www.ncbi.nlm.nih.gov/books/NBK500017/
 
-2. NCBI Bookshelf — Leg Bones.  
-   https://www.ncbi.nlm.nih.gov/books/NBK537024/
-
-3. NCBI Bookshelf — Knee Patella.  
+2. NCBI Bookshelf — Knee Patella.  
    https://www.ncbi.nlm.nih.gov/books/NBK519534/
 
-4. NCBI Bookshelf — Knee MCL, updated Aug 19 2025.  
-   https://www.ncbi.nlm.nih.gov/books/NBK507780/
+3. NCBI Bookshelf — Leg Bones.  
+   https://www.ncbi.nlm.nih.gov/books/NBK537024/
 
-5. NCBI Bookshelf — ACL.  
+4. NCBI Bookshelf — ACL.  
    https://www.ncbi.nlm.nih.gov/books/NBK559233/
 
-6. NCBI Bookshelf — Femoral Muscles.  
+5. NCBI Bookshelf — PCL.  
+   https://www.ncbi.nlm.nih.gov/books/NBK535416/
+
+6. NCBI Bookshelf — MCL, updated 2025-08-19.  
+   https://www.ncbi.nlm.nih.gov/books/NBK507780/
+
+7. NCBI Bookshelf — Femoral Muscles.  
    https://www.ncbi.nlm.nih.gov/books/NBK500008/
 
-7. NCBI Bookshelf — Popliteus Muscle.  
+8. NCBI Bookshelf — Popliteus.  
    https://www.ncbi.nlm.nih.gov/books/NBK526084/
 
-8. Kim SJ et al. Layer-specific architecture and nerve innervation of popliteus. Diagnostics. 2026. PMID 41897567.  
-   https://pubmed.ncbi.nlm.nih.gov/41897567/
+9. Park HJ et al. Quadriceps-tendon variability. 2025. PMID 41067206.  
+   https://pubmed.ncbi.nlm.nih.gov/41067206/
 
-## 50. Next dependencies
+10. Marcus RP et al. Meniscal variants, 7-T MRI. 2026. PMID 41162757.  
+    https://pubmed.ncbi.nlm.nih.gov/41162757/
 
-- ANA-10 ankle/foot;
-- ANA-11 muscle architecture;
-- ANA-12 nerves;
-- MEC knee mechanics;
-- TEC squat/lunge/knee extension.
+11. Runer A et al. Medial collateral complex. 2026. PMID 42748362.  
+    https://pubmed.ncbi.nlm.nih.gov/42748362/
+
+12. PLC anatomy review. 2025. PMID 41323542.  
+    https://pubmed.ncbi.nlm.nih.gov/41323542/
+
+13. MRI of posterolateral knee stabilizers. 2026. PMID 41627383.  
+    https://pubmed.ncbi.nlm.nih.gov/41627383/
+
+14. Kim SJ et al. Popliteus layer anatomy. 2026. PMID 41897567.  
+    https://pubmed.ncbi.nlm.nih.gov/41897567/
+
+15. MPFL femoral-attachment meta-analysis. 2026. PMID 41946518.  
+    https://pubmed.ncbi.nlm.nih.gov/41946518/
+
+## 29. Closure
+
+Closure audit:
+`passes/02_anatomy/ANA-09/PASS-02_closure_audit_and_synthesis.md`.
+
+Result:
+**no project-relevant blocker remains.**
+
+ANA-09 = **CLOSED_FOR_PRACTICE v2.0**.
+
+## 30. Next dependency
+
+**ANA-10 — Голеностоп и стопа.**
