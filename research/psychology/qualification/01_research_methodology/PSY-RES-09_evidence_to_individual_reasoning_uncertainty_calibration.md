@@ -929,12 +929,12 @@ A 45-question Evidence-to-Individual Gate, seven-level Individual Evidence Ladde
 5. Haynes, S. N., Mumma, G. H., & Pinson, C. (2009). Idiographic assessment: Conceptual and psychometric foundations of individualized behavioral assessment. *Clinical Psychology Review, 29*(2), 179–191. https://doi.org/10.1016/j.cpr.2008.12.003
 6. Mumma, G. H. (2011). Validity Issues in Cognitive-Behavioral Case Formulation. *European Journal of Psychological Assessment, 27*, 29–49. https://doi.org/10.1027/1015-5759/a000054
 7. Mumma, G. H., Marshall, A. J., & Mauer, C. (2018). Person-specific validation and testing of functional relations in cognitive-behavioural case formulation: Guidelines and options. *Clinical Psychology & Psychotherapy, 25*(5), 672–691. https://doi.org/10.1002/cpp.2298
-8. Piccirillo, M. L., Beck, E. D., Rodebaugh, T. L. (2019). A Clinician's Primer for Idiographic Research: Considerations and Recommendations. *Behavior Therapy, 50*(5), 938–951. PMID: 31422849.
+8. Piccirillo, M. L., Beck, E. D., & Rodebaugh, T. L. (2019). A Clinician's Primer for Idiographic Research: Considerations and Recommendations. *Behavior Therapy, 50*(5), 938–951. https://doi.org/10.1016/j.beth.2019.02.002
 9. Wright, A. G. C., & Woods, W. C. (2020). Personalized Models of Psychopathology. *Annual Review of Clinical Psychology, 16*, 49–74. https://doi.org/10.1146/annurev-clinpsy-102419-125032
 10. McFall, R. M., & Treat, T. A. (1999). Quantifying the Information Value of Clinical Assessments With Signal Detection Theory. *Annual Review of Psychology, 50*, 215–241. https://doi.org/10.1146/annurev.psych.50.1.215
 11. Hunsley, J., & Meyer, G. J. (2003). The incremental validity of psychological testing and assessment: Conceptual, methodological, and statistical issues. *Psychological Assessment, 15*(4), 446–455. https://doi.org/10.1037/1040-3590.15.4.446
 12. Haynes, S. N., & Lench, H. C. (2003). Incremental validity of new clinical assessment measures. *Psychological Assessment, 15*(4), 456–466. https://doi.org/10.1037/1040-3590.15.4.456
-13. Yang, M., Wong, S. C. P., & Coid, J. (2020). The Importance of Calibration in Clinical Psychology. *Assessment, 27*(4), 840–854. https://doi.org/10.1177/1073191117752055
+13. Lindhiem, O., Petersen, I. T., Mentch, L. K., & Youngstrom, E. A. (2020). The Importance of Calibration in Clinical Psychology. *Assessment, 27*(4), 840–854. https://doi.org/10.1177/1073191117752055
 14. Flinn, L., Braham, L., & das Nair, R. (2015). How reliable are case formulations? A systematic literature review. *British Journal of Clinical Psychology, 54*(3), 266–290. https://doi.org/10.1111/bjc.12073
 
 ## Current-standard note
