@@ -104,9 +104,11 @@
 - PHY-12/PASS-01 tendon/ligament/connective-tissue adaptation content revalidation completed 2026-11-18.
 - PHY-12/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 13 coverage = **12/12 PASS** and no project-relevant blocker remains.
 - First canonical PHY-12 finding created as v2.0 because no legacy finding existed in the current branch.
-- **PHY-13 — RESEARCHING.**
-- PHY-13/PASS-01 bone-physiology content revalidation completed 2026-11-18; exact Section 14 coverage = **10/10 at content level**; closure audit/synthesis pending.
-- CURRENT NEXT: **PHY-13/PASS-02 — Closure audit and synthesis.**
+- **PHY-13 — CLOSED_FOR_PRACTICE v2.0.**
+- PHY-13/PASS-01 bone-physiology content revalidation completed 2026-11-18.
+- PHY-13/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 14 coverage = **10/10 PASS** and no project-relevant blocker remains.
+- First canonical PHY-13 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **Phase B / PHY-14 — Cardiovascular exercise physiology.**
 
 ## История текущего revalidation cycle
 

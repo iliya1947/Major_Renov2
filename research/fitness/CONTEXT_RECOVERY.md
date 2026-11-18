@@ -149,7 +149,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-12 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-13 — Bone physiology — RESEARCHING**.
+Последняя закрытая тема: **PHY-13 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-14 — Cardiovascular exercise physiology**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -199,37 +201,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-13/PASS-01_bone_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-13/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-13/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-13 = **CLOSED_FOR_PRACTICE v2.0**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 14 = **10/10 at content level**.
+Canonical finding:
 
-PASS-01 established:
+`research/fitness/findings/03_physiology/PHY-13_bone_physiology.md`
 
-1. bone remodeling is a coupled osteoclast–osteoblast process coordinated substantially by osteocytes;
-2. serum bone-turnover markers are separated from direct cell balance and whole-bone adaptation;
-3. osteocyte mechanotransduction is retained without converting molecular pathways into a human exercise prescription;
-4. BMD is important but separated from geometry, microarchitecture, material quality and estimated mechanical strength;
-5. exercise produces site-specific bone adaptation and pooled BMD benefits are generally modest;
-6. magnitude, loading rate, direction/distribution, cycle structure/rest and novelty are all relevant mechanical-signal dimensions;
-7. external load, %1RM and jump height are not equated to local bone strain;
-8. resistance and impact/high-rate loading are both retained as osteogenic modalities without one universal best method;
-9. heavier RT is not assumed to produce proportionally greater BMD benefit;
-10. bone adaptation follows multiple clocks: acute turnover/signaling, density, geometry and strength do not change simultaneously;
-11. aging modifies remodeling, matrix/microarchitecture and osteocyte mechanosensitivity;
-12. low energy availability is retained as a negative modifier of bone remodeling/health;
-13. osteopenia/osteoporosis, fragility fracture and clinical bone-stress questions remain MED-owned;
-14. exact Section 14 coverage = 10/10 at content level;
-15. no content-level blocker was found;
-16. canonical PHY-13 finding is deferred until closure audit.
+Closure established:
+
+1. exact `areas/03_physiology.md` Section 14 coverage = **10/10 PASS**;
+2. bone remodeling is retained as coupled osteoclast–osteoblast activity coordinated substantially by osteocytes;
+3. serum turnover markers are separated from direct cellular balance and whole-bone adaptation;
+4. osteocyte mechanotransduction is retained without translating molecular pathways into a direct human dose prescription;
+5. BMD is separated from geometry, microarchitecture, material quality and whole-bone strength;
+6. exercise effects are site specific and pooled BMD improvements are modest rather than universal;
+7. mechanical stimulus is multi-parameter: local magnitude, rate, distribution/direction, cycles/rest and novelty matter;
+8. external load/%1RM/jump height are not equated to local skeletal strain;
+9. resistance and impact loading are both osteogenic tools without one universal best modality;
+10. heavier RT is not assumed to produce proportionally greater BMD adaptation;
+11. acute bone-turnover responses are not treated as chronic structural surrogates;
+12. bone adaptation follows multiple clocks across markers, density, geometry and strength;
+13. aging modifies remodeling, matrix and mechanosensitivity rather than simply lowering BMD;
+14. low energy availability is retained as an independent negative modifier of bone biology, while short-term markers are not equated to chronic BMD loss;
+15. osteopenia/osteoporosis, fragility fracture and clinical bone-stress questions remain MED-owned;
+16. no project-relevant blocker remains;
+17. first canonical PHY-13 finding was created at v2.0.
 
 ### Следующая задача
 
-**PHY-13/PASS-02 — Closure audit and synthesis.**
+**Phase B / PHY-14 — Cardiovascular exercise physiology.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-14 автоматически.
+После следующего одного блока сохранить state и STOP. Не открывать PHY-15 автоматически.
 
 ---
 
@@ -245,9 +249,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-13/PASS-01_bone_physiology_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-13/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-13/PASS-02 closure audit and synthesis** и остановиться перед PHY-14.
+Затем выполнить только записанный выше **PHY-14 — Cardiovascular exercise physiology** и остановиться перед следующим topic.
 
 ---
 
