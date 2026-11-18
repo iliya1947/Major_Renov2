@@ -163,7 +163,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-19 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **PHY-20 — Environmental physiology — NOT STARTED**.
+Текущая тема: **PHY-20 — Environmental physiology — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -213,37 +213,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-19/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-20/PASS-01_environmental_physiology_revalidation.md`
 
-PASS commit: `aab16aeeccdc2dbab546187e6a1625c7bdf0f7d4`  
-Canonical finding commit: `fe0d4e2354862166b3835eff97e63da3dddc203c`
+PASS commit: `0d38b42c5e6666482426a19ce93dd1cba2d84d7e`  
+Evidence-ledger commit: `81cb1dfedde6bb474f7ef1c196f917dcb239fc4c`
 
-PHY-19/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+PHY-20/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Exact content coverage:
+- `areas/03_physiology.md` Section 23 = **8/8 at content level**.
 
-1. exact Section 21 coverage = **10/10 PASS**;
-2. recovery remains a multi-system state vector rather than one binary/scalar state;
-3. ATP-PCr recovery remains distinct from whole-session readiness;
-4. neural and peripheral/EC-coupling recovery can dissociate;
-5. severe damaging eccentric exercise can prolong contractile impairment without defining ordinary RT recovery;
-6. glycogen remains a substrate-specific recovery dimension;
-7. MPS/protein turnover remains remodeling rather than a readiness timer;
-8. inflammatory recovery remains active resolution rather than simple suppression;
-9. connective tissue retains a separate, method-dependent remodeling clock;
-10. sleep remains a major but domain-specific recovery modifier;
-11. recovery time remains stimulus × outcome × person/context dependent rather than a universal 24/48/72 h rule;
-12. subjective recovery and objective performance can diverge;
-13. no single biomarker, wearable score or questionnaire defines complete readiness;
-14. no project-relevant blocker remains;
-15. first canonical `PHY-19_recovery_physiology.md` created;
-16. Area Section 22 individual modifiers remain routed downstream rather than becoming a separate normalized PHY topic.
+PASS-01 established:
+
+1. thermoregulation is a heat-balance problem involving metabolic heat production and multiple environmental heat-exchange terms;
+2. sweat production is separated from effective evaporative cooling;
+3. humidity, airflow and clothing explicitly modify evaporative capacity;
+4. heat acclimation lowers thermal/cardiovascular strain on average but remains protocol/dose/person dependent;
+5. cold exposure protects core temperature through vasoconstriction/thermogenesis while potentially degrading peripheral neuromuscular/manual performance;
+6. hydration status modifies thermophysiological strain, but current randomized evidence does not support a deterministic universal dehydration-performance threshold or one universally superior drinking strategy;
+7. hydration cannot fully prevent heat accumulation when environmental evaporative capacity is insufficient;
+8. cardiovascular drift is treated as an integrated prolonged-exercise response rather than a direct dehydration meter;
+9. heat/humidity can materially impair sustainable performance;
+10. exertional heat illness remains MED-owned;
+11. exact Section 23 coverage = **8/8 at content level**;
+12. no content-level blocker was found;
+13. canonical PHY-20 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**PHY-20/PASS-01 — Environmental physiology content revalidation.**
+**PHY-20/PASS-02 — Closure audit and synthesis.**
 
-PHY-20 maps to Area Section 23. PHY-20 has not been started. After the next one block, save state and STOP.
+After PASS-02 save state and STOP. Do not start NEU-01 automatically.
 
 ---
 
@@ -259,9 +259,9 @@ PHY-20 maps to Area Section 23. PHY-20 has not been started. After the next one 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-19/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-20/PASS-01_environmental_physiology_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-20/PASS-01 environmental physiology content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **PHY-20/PASS-02 closure audit and synthesis** и остановиться перед NEU-01.
 
 ---
 
