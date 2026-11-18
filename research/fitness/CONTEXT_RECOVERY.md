@@ -93,12 +93,18 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 ## 3. Текущее состояние
 
-Область: **13 — методология исследований**.
+Текущая рабочая область: **02 — Anatomy / Phase B**.
 
-### Завершено
+Phase A methodology:
+- **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
+- `RES-01 — question formulation` → **CLOSED_FOR_PRACTICE**;
+- `RES-02 — study designs` → **SUFFICIENT_FOR_PHASE_A**; residual F-taxonomy deferred;
+- `RES-03…RES-29` → legacy operational baseline + trigger-based revalidation, не обязательная последовательная deep revalidation.
+
+### Завершено в текущем revalidation cycle
 
 - `RES-01 — question formulation` → **CLOSED_FOR_PRACTICE** после `PASS-16`.
-- `RES-02 — study designs` → **RESEARCHING**.
+- `RES-02 — study designs` → granular base до PASS-06F7, **SUFFICIENT_FOR_PHASE_A**.
 - В RES-02 текущей валидной базой считаются:
   - `PASS-01` — scope and study-design taxonomy;
   - `PASS-02` — randomized experimental designs;
