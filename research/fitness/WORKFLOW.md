@@ -221,11 +221,11 @@ Stage 2 / Phase B продолжается.
 7. ANA-05 = **CLOSED_FOR_PRACTICE v2.0**.
 8. ANA-06 = **CLOSED_FOR_PRACTICE v2.0**.
 9. ANA-07 = **CLOSED_FOR_PRACTICE v2.0**.
-10. ANA-07/PASS-01 content revalidation завершён.
-11. ANA-07/PASS-02 closure audit / synthesis завершён; blockers не найдены.
-12. Canonical ANA-07 finding обновлён до v2.0.
-13. Следующий один блок: **ANA-08 — Pelvis and hip**.
-14. ANA-09 автоматически не запускать после ANA-08; сохраняется one block → state update → STOP.
+10. Текущая тема: **ANA-08 — Pelvis and hip**.
+11. **ANA-08/PASS-01 — pelvis-hip structural-functional revalidation** завершён 2026-11-18.
+12. Current updates: measurable healthy SIJ motion, hip capsular integration including zona orbicularis, morphology-dependent version/orientation, refined gluteus-maximus and adductor-magnus anatomy.
+13. Следующий один блок: **ANA-08 closure audit / synthesis**.
+14. ANA-09 автоматически не запускать.
 
 ## 9. Зафиксированный общий план
 
@@ -242,7 +242,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-08 — Pelvis and hip**.
+Ближайшая задача: Stage 2 / Phase B — **ANA-08 closure audit / synthesis**; затем STOP.
 
 
 ## 10. Stage 0B — результат
