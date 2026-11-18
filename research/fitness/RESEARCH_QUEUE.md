@@ -15,9 +15,10 @@
 - **ANA-03 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-03/PASS-01 structural-foundation revalidation completed 2026-11-18.
 - ANA-03/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
-- CURRENT: **Phase B / ANA-04 — Shoulder complex.**
+- **ANA-04 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-04/PASS-01 structural-functional revalidation completed 2026-11-18.
-- CURRENT NEXT: **ANA-04 closure audit / synthesis**. Do not start ANA-05 before ANA-04 closure.
+- ANA-04/PASS-02 closure audit / synthesis completed 2026-11-18; no project-relevant blocker remains.
+- CURRENT NEXT: **Phase B / ANA-05 — Arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces.**
 
 ## История текущего revalidation cycle
 
@@ -356,3 +357,9 @@
 272. 2025 systematic review retained as the current scapular-kinematics synthesis: no universal setting phase or constant scapulohumeral ratio; do not replace with another fixed number.
 273. Normal shoulder morphology/kinematics variability remains part of the canonical baseline; no one visually “correct” trajectory is inferred from anatomy alone.
 274. Следующий один блок: **ANA-04 closure audit / synthesis**.
+
+275. Завершён **ANA-04/PASS-02 — Closure audit and synthesis**.
+276. Все 10 critical outcomes ANA-04 покрыты; no structural blocker remains.
+277. ANA-04 = **CLOSED_FOR_PRACTICE v2.0**.
+278. Long-head biceps shoulder/superior-labral relationship добавлен в EVIDENCE_LEDGER как отдельный downstream-relevant claim.
+279. Следующий один блок: **ANA-05 — Arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces**.
