@@ -1,6 +1,6 @@
 # ANA-02 — Ткани опорно-двигательной системы
 
-Статус: **CLOSED_FOR_PRACTICE v1.0**  
+Статус: **LEGACY v1.0 — REVALIDATION IN PROGRESS; use current ANA-02 passes/state**  
 Дата: 2026-11-16  
 Область: 02 — Анатомия
 
