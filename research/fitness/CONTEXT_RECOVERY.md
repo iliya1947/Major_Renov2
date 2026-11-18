@@ -99,7 +99,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-02 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **ANA-03 — axial skeleton / vertebral column / thoracic cage structural foundation**.
+Последняя закрытая тема: **ANA-03 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **ANA-04 — Shoulder complex**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -159,26 +161,30 @@ PASS-06F7 established Delphi as a structured iterative expert/stakeholder judgem
 
 ### Следующая задача
 
-**ANA-03 closure audit / synthesis.**
+**Phase B / ANA-04 — Shoulder complex.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-03/PASS-01_axial_skeleton_structural_foundation_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-03/PASS-01_axial_skeleton_structural_foundation_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-03/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-03 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. vertebral column = segmented load-bearing/mobile system, not rigid rod;
-2. standard regional anatomy 7 cervical / 12 thoracic / 5 lumbar plus fused sacrum and variable coccyx retained;
-3. adult spine has 23 intervertebral discs; disc + paired facets + ligaments form the useful motion-segment model;
-4. normal sagittal anatomy includes regional curves; straightness is not anatomical neutral;
-5. current 2025–2026 data show substantial normal sagittal/spinopelvic variability among asymptomatic adults;
-6. thoracic cage = thoracic vertebrae + ribs + costal cartilage + sternum and forms the surface for scapulothoracic motion;
-7. current 2026 CT anatomy shows rib/costal-cartilage number, attachment and symmetry variation; atlas symmetry is not assumed;
-8. sacrum is the main structural bridge between spine and pelvic ring;
-9. detailed load mechanics, pain/pathology and exercise-specific neutral prescriptions remain deferred to MEC/MED/TEC;
-10. no content blocker found, but closure requires a separate audit/synthesis.
+Closure established:
 
-Следующий блок: **ANA-03 closure audit / synthesis**. Do not start ANA-04 in the same working block.
+1. vertebral column = segmented load-bearing/mobile system;
+2. typical vertebra, 23-disc architecture, facets, major ligaments and motion-segment model are covered;
+3. normal sagittal curves are anatomical, not pathology labels;
+4. asymptomatic adults show substantial normal sagittal/spinopelvic variability;
+5. thoracic cage = thoracic vertebrae + ribs + costal cartilage + sternum;
+6. rib/costal-cartilage number, attachment and symmetry can vary normally;
+7. sacrum is the main spine–pelvis structural bridge;
+8. thoracic wall provides the surface for scapulothoracic motion;
+9. no one universal "perfect neutral" or atlas-symmetry requirement is encoded;
+10. no project-relevant ANA-03 blocker remains.
+
+Следующий один блок: **ANA-04 — Shoulder complex**. После него сохранить state и STOP.
 
 ---
 
