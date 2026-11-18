@@ -218,11 +218,11 @@ Stage 2 / Phase B продолжается.
 4. ANA-02 = **CLOSED_FOR_PRACTICE v2.0**.
 5. ANA-03 = **CLOSED_FOR_PRACTICE v2.0**.
 6. ANA-04 = **CLOSED_FOR_PRACTICE v2.0**.
-7. ANA-04/PASS-01 content revalidation завершён.
-8. ANA-04/PASS-02 closure audit / synthesis завершён; blockers не найдены.
-9. Canonical ANA-04 finding и EVIDENCE_LEDGER обновлены.
-10. Следующий один блок: **ANA-05 — arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces**.
-11. ANA-06 автоматически не запускать после ANA-05; сохраняется one block → state update → STOP.
+7. Текущая тема: **ANA-05 — arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces**.
+8. **ANA-05/PASS-01 — structural-functional revalidation** завершён 2026-11-18.
+9. Current evidence added for PRUJ morphology variability, distal biceps tendon+bicipital-aponeurosis architecture and provisional anconeus compartmentalization.
+10. Следующий один блок: **ANA-05 closure audit / synthesis**.
+11. ANA-06 автоматически не запускать.
 
 ## 9. Зафиксированный общий план
 
@@ -239,7 +239,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **ANA-05 — arm and elbow / biceps, brachialis, brachioradialis, triceps, elbow and radioulnar interfaces**.
+Ближайшая задача: Stage 2 / Phase B — **ANA-05 closure audit / synthesis**; затем STOP.
 
 
 ## 10. Stage 0B — результат
