@@ -143,7 +143,10 @@
 - NEU-01/PASS-01 nervous-system-organization content revalidation completed 2026-11-18; exact Area 04 Section 1 coverage = **12/12 at content level**.
 - NEU-01/PASS-02 closure audit / synthesis completed 2026-11-18; exact Area 04 Section 1 coverage = **12/12 PASS** and no project-relevant blocker remains.
 - First canonical NEU-01 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **NEU-02 — Motor units: recruitment/rate coding.**
+- **NEU-02 — RESEARCHING.**
+- NEU-02/PASS-01 motor-units recruitment/rate-coding content revalidation completed 2026-11-19; exact Area 04 Section 2 coverage = **12/12 at content level**; closure audit/synthesis pending.
+- Added NEU02-01…NEU02-12 to EVIDENCE_LEDGER.
+- CURRENT NEXT: **NEU-02/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
