@@ -105,7 +105,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-05 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **ANA-06 — forearm, wrist and hand / pronators, supinator, wrist/finger flexors-extensors, grip and DRUJ/wrist/hand interfaces**.
+Последняя закрытая тема: **ANA-06 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **ANA-07 — trunk and spine musculature / abdominal wall / erector spinae / multifidus / diaphragm / pelvic-floor structural role**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -155,39 +157,38 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-06/PASS-01_forearm_wrist_hand_grip_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-06/PASS-02_closure_audit_and_synthesis.md`
 
-Commit PASS-01:
-
-`1d3915a193f5ed72935bd22b737bccbd3b4e7d3b`
-
-ANA-06/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+ANA-06 = **CLOSED_FOR_PRACTICE v2.0**.
 
 
 ### Следующая задача
 
-**ANA-06 closure audit / synthesis.**
+**Phase B / ANA-07 — Trunk and spine musculature / abdominal wall / erector spinae / multifidus / diaphragm / pelvic-floor structural role.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-06/PASS-01_forearm_wrist_hand_grip_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-06/PASS-01_forearm_wrist_hand_grip_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-06/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-06 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. forearm rotation = coordinated PRUJ + radius/ulna + IOM + DRUJ system, not wrist rotation;
-2. TFCC = multi-component ulnar-sided stabilizing/load-sharing complex, not one triangular ligament;
-3. anterior forearm = flexor-pronator dominant; posterior = extensor-supinator dominant;
-4. pronator teres/quadratus and biceps/supinator form the major pronation/supination systems;
-5. wrist motion is distributed across radiocarpal + midcarpal/intercarpal structures;
-6. flexor/extensor retinacula constrain tendon paths; carpal tunnel contains median nerve + 9 flexor tendons;
-7. extrinsic finger/thumb muscles and intrinsic hand muscles cooperate in grip/pinch;
-8. current 2026 wrist-extensor anatomy explicitly supports wrist-extensor stabilization during grip;
-9. extensor expansion integrates extensor digitorum + lumbricals + interossei;
-10. palmar-interosseous count is convention/variation-dependent because a pollical/first palmar interosseous may be treated as distinct;
-11. wrist position mechanically couples to finger posture/force through multi-joint tendon paths, but anatomy does not define one optimal angle;
-12. no content blocker found, but closure requires a separate audit/synthesis.
+Closure established:
 
-Следующий блок: **ANA-06 closure audit / synthesis**. Do not start ANA-07 in the same working block.
+1. PRUJ + radius/ulna + IOM + DRUJ form the forearm rotational system;
+2. TFCC is a multi-component ulnar-sided stabilizing/load-sharing complex;
+3. anterior/posterior forearm muscle systems are mapped;
+4. wrist motion is distributed across radiocarpal + midcarpal/intercarpal structures;
+5. retinacula and tendon sheaths are represented at applied anatomy level;
+6. extrinsic finger/thumb and intrinsic hand systems are covered;
+7. power grip requires finger flexors + thumb/intrinsics + wrist stabilization;
+8. wrist–finger coupling/tenodesis is represented without an “optimal angle” claim;
+9. extensor expansion integrates extrinsic extensors + lumbricals + interossei;
+10. palmar-interosseous count remains convention/variation-dependent;
+11. all 10 legacy critical outcomes passed closure; no project-relevant blocker remains.
+
+Следующий один блок: **ANA-07**. После него сохранить state и STOP.
 
 ---
 
@@ -203,9 +204,9 @@ PASS-01 установил:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-06/PASS-01_forearm_wrist_hand_grip_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-06/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **ANA-06 closure audit / synthesis** и остановиться перед ANA-07.
+Затем выполнить только записанный выше **ANA-07** и остановиться перед следующим блоком.
 
 ---
 
