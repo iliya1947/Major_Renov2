@@ -119,7 +119,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-12 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **ANA-13 — Базовая cardio-respiratory anatomy**.
+Последняя закрытая тема: **ANA-13 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **ANA-14 — Surface anatomy / landmarks**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -169,46 +171,43 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-13/PASS-01_cardio_respiratory_anatomy_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-13/PASS-02_closure_audit_and_synthesis.md`
 
-Commit PASS-01:
+ANA-13 = **CLOSED_FOR_PRACTICE v2.0**.
 
-`a8c747b87bd035ebc35a0561826b6341a17874b9`
+Canonical finding:
 
-ANA-13/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
-
-Current branch note:
-**отдельного legacy ANA-13 finding-файла нет; canonical finding создаётся только после closure audit.**
+`research/fitness/findings/02_anatomy/ANA-13_cardio_respiratory_anatomy.md`
 
 
 ### Следующая задача
 
-**ANA-13 closure audit / synthesis.**
+**Phase B / ANA-14 — Surface anatomy / landmarks.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-13/PASS-01_cardio_respiratory_anatomy_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-13/PASS-01_cardio_respiratory_anatomy_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-13/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-13 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. exact `areas/02_anatomy.md` Sections 15–16 coverage = **13/13 items** at content level;
-2. artery/vein definitions are directional relative to the heart, not oxygenation labels;
-3. systemic route = LV → aorta/arteries → capillaries → veins → SVC/IVC → RA;
-4. pulmonary route = RV → pulmonary arteries → alveolar capillaries → pulmonary veins → LA;
-5. heart = four chambers + four major valves + great vessels; AV vs semilunar structure is separated;
-6. upper-limb major vascular route = subclavian → axillary → brachial → radial/ulnar with superficial/deep venous systems;
-7. lower-limb major vascular route = external iliac/femoral → popliteal → tibial/fibular systems with superficial/deep venous systems;
-8. capillaries are thin endothelial exchange structures; skeletal muscle predominantly uses continuous capillary networks;
-9. respiratory anatomy separates conducting airway from respiratory/alveolar units;
-10. lung vascular anatomy includes pulmonary + bronchial circulation;
-11. pleura = visceral/parietal serous layers with a potential pleural space;
-12. diaphragm is retained at respiratory level and cross-referenced to ANA-07; thoracic cage is cross-referenced to ANA-03;
-13. intercostal/accessory-muscle contributions are not reduced to rigid one-muscle inspiratory/expiratory rules;
-14. anatomy/PHY/MED boundaries are explicit;
-15. no content blocker found;
-16. no legacy ANA-13 finding exists in current branch, so closure should create `findings/02_anatomy/ANA-13_cardio_respiratory_anatomy.md` if audit passes.
+Closure established:
 
-Следующий блок: **ANA-13 closure audit / synthesis**. Do not start ANA-14 in the same working block.
+1. exact `areas/02_anatomy.md` Sections 15–16 coverage = **13/13 PASS**;
+2. artery/vein definitions are directional relative to heart, not oxygenation labels;
+3. heart = four chambers + four major valves + great vessels;
+4. systemic and pulmonary circuits are internally consistent and bronchial lung circulation is separated;
+5. major upper/lower limb arterial routes and superficial/deep venous systems are sufficient for fitness use;
+6. capillary level is closed structurally, with exchange physiology deferred;
+7. conducting airway, respiratory/alveolar units, lungs and pleura are structurally separated;
+8. diaphragm and thoracic cage are cross-referenced to ANA-07/ANA-03 rather than redundantly reopened;
+9. intercostal/accessory respiratory-muscle wording avoids rigid one-muscle inspiratory/expiratory rules;
+10. anatomy/PHY/BIO/MEC/MED/TST boundaries are explicit;
+11. no project-relevant blocker remains;
+12. because no legacy ANA-13 finding existed, the first canonical `ANA-13_cardio_respiratory_anatomy.md` was created at v2.0.
+
+Следующий один блок: **ANA-14 — Surface anatomy / landmarks**. После него сохранить state и STOP.
 
 ---
 
@@ -224,9 +223,9 @@ PASS-01 установил:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-13/PASS-01_cardio_respiratory_anatomy_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-13/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **ANA-13 closure audit / synthesis** и остановиться перед ANA-14.
+Затем выполнить только записанный выше **ANA-14** и остановиться перед следующим блоком.
 
 ---
 
