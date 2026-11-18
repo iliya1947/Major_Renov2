@@ -107,7 +107,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **ANA-06 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **ANA-07 — trunk and spine musculature / abdominal wall / erector spinae / multifidus / diaphragm / pelvic-floor structural role**.
+Последняя закрытая тема: **ANA-07 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **ANA-08 — Pelvis and hip**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -157,39 +159,38 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/02_anatomy/ANA-07/PASS-01_trunk_spine_musculature_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-07/PASS-02_closure_audit_and_synthesis.md`
 
-Commit PASS-01:
-
-`7b12887b1a7cc94417bd700413822818189c6fca`
-
-ANA-07/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+ANA-07 = **CLOSED_FOR_PRACTICE v2.0**.
 
 
 ### Следующая задача
 
-**ANA-07 closure audit / synthesis.**
+**Phase B / ANA-08 — Pelvis and hip.**
 
-Последний завершённый блок:
+Последние завершённые блоки:
 
-`research/fitness/passes/02_anatomy/ANA-07/PASS-01_trunk_spine_musculature_revalidation.md`
+1. `research/fitness/passes/02_anatomy/ANA-07/PASS-01_trunk_spine_musculature_revalidation.md`
+2. `research/fitness/passes/02_anatomy/ANA-07/PASS-02_closure_audit_and_synthesis.md`
 
-PASS-01 установил:
+ANA-07 status:
+**CLOSED_FOR_PRACTICE v2.0**.
 
-1. “core” = functional shorthand, not one anatomical organ;
+Closure established:
+
+1. axial skeletal structures remain owned by ANA-03; ANA-07 owns trunk musculature and pressure-boundary anatomy;
 2. erector spinae = iliocostalis + longissimus + spinalis;
 3. transversospinalis = semispinalis + multifidus + rotatores;
-4. current 2026 lumbar-multifidus anatomy shows more complex bundle/origin-insertion architecture than a rigid “2–4 levels” mnemonic;
-5. abdominal wall = rectus + EO + IO + TrA integrated through aponeuroses, rectus sheath and linea alba;
-6. TrA is not anatomically a unique “deep core stabilizer” and anatomy does not support a TrA-first hierarchy;
-7. QL is anatomically nonuniform; 2026 cadaveric 3D data support lumbocostal/iliocostal/iliolumbar layers but not exercise-specific functional specialization;
-8. TLF is a named multilayer regional structure; current literature contains competing two-layer vs three-layer models;
-9. diaphragm forms the superior muscular pressure boundary and participates in inspiration/IAP generation;
-10. pelvic floor forms the inferior musculofascial boundary and has support/continence/respiratory/lumbopelvic roles;
-11. anatomy does not prescribe one universal bracing, hollowing or ribcage–pelvis strategy;
-12. no content blocker found, but closure requires a separate audit/synthesis.
+4. lumbar multifidus has nonuniform bundle architecture; one rigid fascicle-span rule is not encoded;
+5. abdominal wall = rectus + EO + IO + TrA integrated through aponeuroses/rectus sheath/linea alba;
+6. TrA is not anatomically the unique deep stabilizer and no TrA-first hierarchy is encoded;
+7. QL is nonuniform/multilayer; layer-specific exercise specialization remains unproven;
+8. TLF is named multilayer regional anatomy with model-dependent two-/three-layer descriptions;
+9. diaphragm and pelvic floor define superior/inferior muscular boundaries of the pressure-support system without prescribing one bracing strategy;
+10. “core” remains functional shorthand rather than one organ;
+11. all 11 legacy critical outcomes passed closure; no project-relevant blocker remains.
 
-Следующий блок: **ANA-07 closure audit / synthesis**. Do not start ANA-08 in the same working block.
+Следующий один блок: **ANA-08 — Pelvis and hip**. После него сохранить state и STOP.
 
 ---
 
@@ -205,9 +206,9 @@ PASS-01 установил:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/02_anatomy/ANA-07/PASS-01_trunk_spine_musculature_revalidation.md`
+`research/fitness/passes/02_anatomy/ANA-07/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **ANA-07 closure audit / synthesis** и остановиться перед ANA-08.
+Затем выполнить только записанный выше **ANA-08** и остановиться перед следующим блоком.
 
 ---
 
