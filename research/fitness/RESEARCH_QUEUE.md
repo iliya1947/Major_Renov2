@@ -47,9 +47,11 @@
 - ANA-13/PASS-01 basic cardio-respiratory anatomy revalidation completed 2026-11-18.
 - ANA-13/PASS-02 closure audit / synthesis completed 2026-11-18; exact area-map coverage 13/13 and no project-relevant blocker remains.
 - First canonical ANA-13 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT: **Phase B / ANA-14 — Surface anatomy / landmarks.**
-- ANA-14/PASS-01 surface-anatomy/measurement-landmark revalidation completed 2026-11-18; exact area-map coverage 6/6 at content level and no legacy ANA-14 finding exists in current branch.
-- CURRENT NEXT: **ANA-14 closure audit / synthesis**. Do not start ANA-15 before ANA-14 closure.
+- **ANA-14 — CLOSED_FOR_PRACTICE v2.0.**
+- ANA-14/PASS-01 surface-anatomy/measurement-landmark revalidation completed 2026-11-18.
+- ANA-14/PASS-02 closure audit / synthesis completed 2026-11-18; exact area-map coverage 6/6 and no project-relevant blocker remains.
+- First canonical ANA-14 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **Phase B / ANA-15 — Individual anatomy / anthropometry.**
 
 ## История текущего revalidation cycle
 
@@ -516,3 +518,9 @@
 380. Circumference values are protocol-dependent; longitudinal girths require fixed landmark/site/position/tape/respiration rules.
 381. No legacy ANA-14 finding exists in current branch; canonical finding will be created only if closure audit passes.
 382. Следующий один блок: **ANA-14 closure audit / synthesis**.
+
+383. Завершён **ANA-14/PASS-02 — Closure audit and synthesis**.
+384. Exact Section 17 coverage = **6/6 PASS**; palpable landmarks, visible muscle contours, circumference sites, joint-position references, technique landmarks and non-diagnostic boundary passed audit.
+385. ANA-14 = **CLOSED_FOR_PRACTICE v2.0**; first canonical `ANA-14_surface_anatomy_landmarks.md` created because current branch had no legacy finding.
+386. Existing ledger ANA14-01…ANA14-06 is sufficient for closure; measurement reliability/MDC remain TST/MEC.
+387. Следующий один блок: **ANA-15 — Individual anatomy / anthropometry**.
