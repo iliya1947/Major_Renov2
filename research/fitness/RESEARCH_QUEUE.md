@@ -76,7 +76,9 @@
 - PHY-05/PASS-01 acute-response content revalidation completed 2026-11-18.
 - PHY-05/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 6 coverage = **10/10 PASS** and no project-relevant blocker remains.
 - First canonical PHY-05 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **Phase B / PHY-06 — Chronic skeletal-muscle adaptation.**
+- **PHY-06 — RESEARCHING.**
+- PHY-06/PASS-01 chronic-skeletal-muscle-adaptation content revalidation completed 2026-11-18; exact Section 7 coverage = **12/12 at content level**; closure audit/synthesis pending.
+- CURRENT NEXT: **PHY-06/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 

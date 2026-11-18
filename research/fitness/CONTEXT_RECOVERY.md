@@ -135,7 +135,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-05 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая следующая тема: **PHY-06 — Chronic skeletal-muscle adaptation**.
+Текущая тема: **PHY-06 — Chronic skeletal-muscle adaptation — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -185,37 +185,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-05/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-06/PASS-01_chronic_skeletal_muscle_adaptation_revalidation.md`
 
-PHY-05 = **CLOSED_FOR_PRACTICE v2.0**.
+PHY-06/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Canonical finding:
+Exact content coverage:
+- `areas/03_physiology.md` Section 7 = **12/12 at content level**.
 
-`research/fitness/findings/03_physiology/PHY-05_acute_response_to_resistance_exercise.md`
+PASS-01 established:
 
-Closure established:
-
-1. exact `areas/03_physiology.md` Section 6 coverage = **10/10 PASS**;
-2. force/velocity/power decline are treated as acute fatigue/performance responses, not direct gain measures;
-3. metabolic disturbance is not promoted to a hypertrophy surrogate;
-4. blood-flow/hyperemia physiology is covered without turning perfusion into a direct gain predictor;
-5. acute swelling/pump is a fluid-volume phenomenon rather than immediate tissue growth;
-6. transient systemic GH/testosterone responses are not used as chronic gain predictors;
-7. acute cytokine/myokine responses are separated from chronic pathological inflammation and hypertrophy claims;
-8. neuromuscular fatigue is multidimensional and not reducible to EMG;
-9. acute response is defined by complete session dose rather than exercise name alone;
-10. recovery is outcome-specific and multidimensional;
-11. one normalized marker does not prove complete-system recovery;
-12. acute-marker surrogate validity requires independent predictive/causal evidence;
-13. current evidence does not establish a universal acute biomarker of hypertrophy/strength;
-14. no project-relevant blocker remains;
-15. first canonical PHY-05 finding was created at v2.0.
+1. chronic skeletal-muscle adaptation is multidimensional rather than synonymous with hypertrophy;
+2. retained hypertrophy is separated from acute swelling and requires method/time-point control;
+3. anatomical CSA, PCSA and specific tension are separate constructs;
+4. fascicle length and pennation angle can adapt but are muscle/region/protocol/method dependent;
+5. muscle quality is a measurement family and must be operationally defined;
+6. capillary supply is separated from capillary density and can adapt alongside hypertrophy;
+7. mitochondrial function/content/volume density are separated; RT mitochondrial remodeling is context dependent;
+8. glycolytic/oxidative enzyme remodeling is pathway/protocol specific;
+9. chronic substrate-store adaptation is separated from acute substrate depletion and depends strongly on nutrition/protocol;
+10. ECM is retained as an active remodeling compartment without overclaiming exact chronic collagen architecture;
+11. repeated-bout protection is a chronic damage-resistance adaptation distinct from hypertrophy;
+12. hypertrophy/architecture can be regionally nonuniform and one site cannot represent whole muscle;
+13. different adaptation domains operate on different clocks rather than one universal muscle-adaptation timeline;
+14. exact Section 7 coverage = 12/12 at content level;
+15. no content-level blocker was found;
+16. canonical PHY-06 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**Phase B / PHY-06 — Chronic skeletal-muscle adaptation.**
+**PHY-06/PASS-02 — Closure audit and synthesis.**
 
-После следующего одного блока сохранить state и STOP. Не открывать PHY-07 автоматически.
+После PASS-02 сохранить state и STOP. Не начинать PHY-07 автоматически.
 
 ---
 
@@ -231,9 +231,9 @@ Closure established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-05/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/03_physiology/PHY-06/PASS-01_chronic_skeletal_muscle_adaptation_revalidation.md`
 
-Затем выполнить только записанный выше **PHY-06 — Chronic skeletal-muscle adaptation** и остановиться перед следующим topic.
+Затем выполнить только записанный выше **PHY-06/PASS-02 closure audit and synthesis** и остановиться перед PHY-07.
 
 ---
 
