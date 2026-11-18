@@ -64,9 +64,11 @@
 - PHY-02/PASS-01 muscle-cell/contraction content revalidation completed 2026-11-18.
 - PHY-02/PASS-02 closure audit / synthesis completed 2026-11-18; exact Sections 2–3 coverage = **28/28 PASS** and no project-relevant blocker remains.
 - First canonical PHY-02 finding created as v2.0 because no legacy finding existed in the current branch.
-- **PHY-03 — RESEARCHING.**
-- PHY-03/PASS-01 fiber-types/phenotype content revalidation completed 2026-11-18; exact Section 5 coverage = **11/11 at content level**; closure audit/synthesis pending.
-- CURRENT NEXT: **PHY-03/PASS-02 — Closure audit and synthesis.**
+- **PHY-03 — CLOSED_FOR_PRACTICE v2.0.**
+- PHY-03/PASS-01 fiber-types/phenotype content revalidation completed 2026-11-18.
+- PHY-03/PASS-02 closure audit / synthesis completed 2026-11-18; exact Section 5 coverage = **11/11 PASS** and no project-relevant blocker remains.
+- First canonical PHY-03 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **Phase B / PHY-04 — Contraction modes.**
 
 ## История текущего revalidation cycle
 

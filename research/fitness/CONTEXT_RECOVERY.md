@@ -129,7 +129,9 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 Последняя закрытая тема: **PHY-02 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **PHY-03 — Fiber types / phenotype — RESEARCHING**.
+Последняя закрытая тема: **PHY-03 — CLOSED_FOR_PRACTICE v2.0**.
+
+Текущая следующая тема: **PHY-04 — Contraction modes**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -179,36 +181,38 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/03_physiology/PHY-03/PASS-01_fiber_types_and_phenotype_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-03/PASS-02_closure_audit_and_synthesis.md`
 
-PHY-03/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+PHY-03 = **CLOSED_FOR_PRACTICE v2.0**.
 
-Exact content coverage:
-- `areas/03_physiology.md` Section 5 = **11/11 at content level**.
+Canonical finding:
 
-PASS-01 established:
+`research/fitness/findings/03_physiology/PHY-03_fiber_types_and_phenotype.md`
 
-1. adult human primary MyHC classes are I / IIA / IIX, with MYH7 / MYH2 / MYH1 mapping;
-2. true rodent-like IIb is not used as a normal adult human limb-fiber class;
-3. phenotype is a continuum that includes hybrid I/IIA and IIA/IIX fibers;
-4. MyHC identity is a major contractile classifier but not a complete metabolic/proteomic phenotype;
-5. type I → IIA → IIX maps broadly from slower/more oxidative/more fatigue-resistant toward faster/more glycolytic/more fatigable phenotypes;
-6. observed fatigability remains task/state dependent;
-7. recruitment details remain owned by NEU;
-8. training can remodel MyHC, hybrid state, metabolism, size and fiber-specific proteome without all features moving together;
-9. IIx → IIA is a common exercise-associated transition; broad I ↔ II conversion is more context-dependent;
-10. athlete/training-status differences are not interpreted as pure causal training effects;
-11. aging particularly affects fast-fiber size/MyHC expression, but simple universal II→I conversion is rejected;
-12. sex differences are retained as group-average modifiers, not individual labels;
-13. current evidence does not justify load prescription solely from presumed fiber type;
-14. no content-level blocker was found;
-15. canonical PHY-03 finding is deferred until closure audit.
+Closure established:
+
+1. exact `areas/03_physiology.md` Section 5 coverage = **11/11 PASS**;
+2. adult human primary MyHC classes are I / IIA / IIX with MYH7 / MYH2 / MYH1 mapping;
+3. true rodent-like IIB is not used as a normal adult human limb-fiber prescription category;
+4. MyHC identity is separated from complete metabolic/proteomic phenotype;
+5. hybrid I/IIA and IIA/IIX fibers establish a phenotype continuum;
+6. speed/metabolism/fatigue properties are treated as tendencies rather than deterministic labels;
+7. recruitment remains owned by NEU;
+8. phenotype is training-plastic across MyHC, hybrid state, metabolism, fiber size and proteome;
+9. IIx → IIA is retained as a common training-associated direction;
+10. broad I ↔ II conversion magnitude remains context-dependent;
+11. athlete/training-status data are not interpreted as clean causal training effects;
+12. age/sex differences remain group-level modifiers rather than individual classifications;
+13. current evidence does not justify a fiber-type-based load prescription algorithm;
+14. indirect performance tests are not treated as valid personal fiber typing;
+15. no project-relevant blocker remains;
+16. first canonical PHY-03 finding was created at v2.0.
 
 ### Следующая задача
 
-**PHY-03/PASS-02 — Closure audit and synthesis.**
+**Phase B / PHY-04 — Contraction modes.**
 
-После PASS-02 сохранить state и STOP. Не начинать PHY-04 автоматически.
+После следующего одного блока сохранить state и STOP. Не открывать PHY-05 автоматически.
 
 ---
 
@@ -224,9 +228,9 @@ PASS-01 established:
 
 Для текущей точки открыть:
 
-`research/fitness/passes/03_physiology/PHY-03/PASS-01_fiber_types_and_phenotype_revalidation.md`
+`research/fitness/passes/03_physiology/PHY-03/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **PHY-03/PASS-02 closure audit and synthesis** и остановиться перед PHY-04.
+Затем выполнить только записанный выше **PHY-04 — Contraction modes** и остановиться перед следующим topic.
 
 ---
 
