@@ -12,7 +12,9 @@
 - **ANA-02 — CLOSED_FOR_PRACTICE v2.0.**
 - ANA-02/PASS-01 structural-map revalidation completed 2026-11-18.
 - ANA-02/PASS-02 closure audit / synthesis completed 2026-11-18; minor MTU wording gap resolved.
-- CURRENT NEXT: **Phase B / ANA-03 — Axial skeleton / vertebral column / thoracic cage structural foundation.**
+- CURRENT: **Phase B / ANA-03 — Axial skeleton / vertebral column / thoracic cage structural foundation.**
+- ANA-03/PASS-01 structural-foundation revalidation completed 2026-11-18.
+- CURRENT NEXT: **ANA-03 closure audit / synthesis**. Do not start ANA-04 before ANA-03 closure.
 
 ## История текущего revalidation cycle
 
@@ -333,3 +335,9 @@
 257. ANA-02 = **CLOSED_FOR_PRACTICE v2.0**.
 258. Fascia ontology остаётся contested; project rule = named structure + claim-specific evidence, без blanket fascial-chain inference.
 259. Следующий один блок: **ANA-03 — Axial skeleton / vertebral column / thoracic cage structural foundation**.
+
+260. Завершён **ANA-03/PASS-01 — Axial skeleton structural foundation revalidation**.
+261. Vertebral regions, typical vertebra, facet joints, 23-disc architecture, functional motion segment, major ligaments, sacrum/coccyx and thoracic cage revalidated.
+262. Current 2025–2026 evidence added: normal sagittal alignment varies substantially among asymptomatic adults; no one universal anatomical “neutral” angle is encoded.
+263. Current 2026 rib/costal-cartilage data added: rib number, attachment patterns and right-left thoracic geometry can vary; atlas symmetry is not assumed.
+264. Следующий один блок: **ANA-03 closure audit / synthesis**.
