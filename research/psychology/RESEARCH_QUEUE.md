@@ -17,6 +17,7 @@
 - **SOC sequence: IN PROGRESS.**
 - **SOC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **SOC-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -372,11 +373,30 @@ Established:
 10. empathic ability differs from willingness/motivation to deploy empathy-related processes;
 11. 62-question Empathy and Interpersonal Accuracy Inference Gate and 18/18 closure audit are canonical.
 
+### SOC-03 — Social categorization, stereotypes, prejudice, and implicit/explicit bias
+Canonical block:
+`research/psychology/qualification/08_social_psychology/SOC-03_social_categorization_stereotypes_prejudice_implicit_explicit_bias_individuation_measurement.md`
+
+Established:
+1. categorization, stereotype, prejudice, indirect association, and discrimination are distinct constructs;
+2. category salience and intersectional/fuzzy category structure are context dependent;
+3. descriptive and prescriptive stereotypes are distinct;
+4. stereotype content is multidimensional and current work separates morality, friendliness, ability, assertiveness, status, and beliefs;
+5. stereotype knowledge differs from personal endorsement, and group-level information cannot establish individual attributes;
+6. indirect/implicit measures do not reveal a hidden true attitude and single IAT administrations have limited trait precision;
+7. 2024 N>100,000 comparison shows indirect measures differ materially in predictive validity;
+8. 2025 k=1,108 meta-analysis finds unique small effects of both implicit and explicit attitudes on behavior, with larger explicit effects on average;
+9. indirect measures are inappropriate for individual screening/diagnosis absent outcome-specific validated thresholds;
+10. individuating information and category information can both affect judgment, differently across explicit/indirect measures;
+11. score change in a bias measure is not equivalent to discrimination change;
+12. 2026 263-study review shows major psychometric/conceptual fragility in prejudice/stereotype measurement;
+13. 64-question Social Categorization/Prejudice/Bias Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**SOC-03 — Social categorization, stereotypes, prejudice, implicit/explicit bias, individuating information, intergroup perception, and measurement boundaries.**
+**SOC-04 — Social identity, group norms, conformity, social influence, intergroup contact, cooperation/competition, and measurement boundaries.**
 
-Goal: distinguish categorization, stereotype content, prejudice, explicit/implicit attitudes, discrimination and individuating inference; audit measurement and context limits before downstream group/norm/social-influence work.
+Goal: establish group-process foundations: social identity, descriptive/injunctive norms, informational/normative influence, conformity, contact, cooperation/competition, and the distinction between public compliance and private belief change.
 
 Target domain:
 
