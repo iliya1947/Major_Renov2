@@ -35,8 +35,9 @@ BHC: **COMPLETE_FOR_CURRENT_SCOPE** after BHC-02.
 REL: **COMPLETE_FOR_CURRENT_SCOPE** after REL-02.  
 DEC: **COMPLETE_FOR_CURRENT_SCOPE** after DEC-02.  
 SAF: **COMPLETE_FOR_CURRENT_SCOPE** after SAF-02.  
-Current next domain: ETH.  
-Next block: ETH-01 — ethics foundations for individualized psychological inference and AI-assisted analysis.
+Current domain: ETH — **IN PROGRESS**.  
+ETH-01: **CLOSED_FOR_PRACTICE v1.0**.  
+Next block: ETH-02 — applied ethical governance and Phase C sufficiency audit.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 Canonical BHC storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
