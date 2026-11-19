@@ -115,3 +115,18 @@ PR body теперь задаёт boot protocol и conflict priority.
 Статус архитектуры: **COMPLETE_FOR_CURRENT_SCOPE**.
 
 Следующая предметная квалификационная задача остаётся CLN-03; архитектурный ремонт не изменяет dependency order.
+
+
+## Post-qualification status note — 2026-11-20
+
+The historical line above naming CLN-03 as the next qualification task is superseded by the current control layer.
+
+Current state:
+
+- Stage 1 qualification: **COMPLETE_FOR_CURRENT_SCOPE**;
+- Phase D: **COMPLETE_FOR_CURRENT_SCOPE** after INT-05;
+- Stage 2 private application: **READY_TO_BEGIN**;
+- no next generic qualification block is scheduled;
+- requalification is trigger-based.
+
+Use `CONTEXT_RECOVERY.md`, `RESEARCH_QUEUE.md`, `DOMAIN_STATUS.md`, and actual branch HEAD for current operational state.
