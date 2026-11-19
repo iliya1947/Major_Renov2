@@ -19,6 +19,7 @@
 - **DEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **NEU sequence: IN PROGRESS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -654,11 +655,31 @@ Established:
 
 **NEU sequence: IN PROGRESS.**
 
+### NEU-02 — Neurochemical and neuromodulatory inference
+Canonical block:
+`research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-02_neurochemical_neuromodulatory_inference_dopamine_serotonin_norepinephrine_acetylcholine_pet_pharmacology.md`
+
+Established:
+1. transmitter identity is not equivalent to a psychological function;
+2. dopamine, serotonin, norepinephrine and acetylcholine are projection-, receptor-, region-, timescale- and state-dependent signaling systems;
+3. dopamine reward-learning/RPE evidence is strong but does not exhaust dopaminergic signaling;
+4. local terminal regulation can dissociate neurotransmitter release from source-neuron firing;
+5. serotonin receptor/network heterogeneity blocks "serotonin = mood/happiness" interpretations;
+6. LC-NE is projection- and cell-type heterogeneous rather than a uniform global arousal broadcast;
+7. human cholinergic pharmacology supports attention/perception/updating roles but not a simple ACh=memory or agonist=better-function rule;
+8. PET binding potential/availability, receptor occupancy, transporter occupancy and endogenous release are distinct quantities;
+9. PET challenge displacement is tracer/challenge-specific and is not a direct universal transmitter-concentration readout;
+10. 2026 [11C]raclopride meta-analysis calibrates pharmacological versus cognitive dopamine-release signals and shows limited reward-specific discrimination;
+11. occupancy establishes target engagement but not downstream functional efficacy;
+12. PK, PD, agonism/antagonism/partial agonism, autoreceptors, biased signaling, polypharmacology and chronic adaptation require separate modeling;
+13. peripheral/CSF transmitter measures are not local synaptic brain readouts;
+14. 74-question Neurochemical / Neuromodulatory Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**NEU-02 — Neurochemical and neuromodulatory inference: dopamine, serotonin, norepinephrine, acetylcholine, receptors/transporters, PET/pharmacology, neurotransmitter release, causal attribution, and measurement boundaries.**
+**NEU-03 — Neural systems and plasticity inference: excitation/inhibition balance, oscillations/synchrony, synaptic plasticity/LTP-LTD, structural plasticity, myelination, neurogenesis, network homeostasis, and measurement boundaries.**
 
-Goal: establish what PET, pharmacology, receptor occupancy, transmitter release and neuromodulator manipulations can support, while preventing one-neurotransmitter/one-function mappings.
+Goal: establish inference boundaries for E/I balance, oscillations/synchrony, synaptic and structural plasticity, myelination, neurogenesis and homeostatic network change before NEU integration.
 
 Target domain:
 
