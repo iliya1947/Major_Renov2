@@ -19,7 +19,7 @@ SAF covers generic psychological safety reasoning, including:
 
 ## Current state
 
-**SAF sequence: IN PROGRESS.**
+**SAF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### SAF-01 — Safety and crisis foundations
 
@@ -50,9 +50,40 @@ Established:
 
 **SAF sequence: IN PROGRESS.**
 
-Next block:
+### SAF-02 — Safety management and continuity and sufficiency audit
 
-**SAF-02 — Safety management and continuity: post-crisis transitions, follow-up/contact, lethal-means safety evidence, safety/crisis response planning evidence, repeat self-harm, violence/safeguarding escalation, refusal/capacity/confidentiality boundaries, documentation/handoff, remote/AI crisis boundaries, and SAF sufficiency audit.**
+Status: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**
+
+Canonical block:
+
+`SAF-02_safety_management_continuity_followup_caring_contacts_lethal_means_capacity_confidentiality_handoff_sufficiency_audit.md`
+
+Established:
+
+1. discharge is a transition rather than proof of safety;
+2. post-discharge risk is elevated at the population level but remains poorly individually discriminated by ordinary risk factors;
+3. discharge planning, aftercare, and active handoff are separate from passive referral;
+4. NICE recommends initial aftercare within 48 hours when ongoing safety concerns remain after self-harm;
+5. VA/DoD gives a weak-for recommendation for periodic caring communications after suicide-related hospitalization;
+6. 2026 adult meta-analysis supports reduced suicide re-attempts from brief interventions/contact on average, while broader self-harm/linkage outcomes remain uncertain;
+7. safety planning, caring contacts, follow-up care, and psychotherapy are distinct layers;
+8. individual lethal-means counseling and population means-restriction evidence are separate;
+9. repeat self-harm warrants multidisciplinary review rather than moral/trait labeling;
+10. capacity is decision-specific; risky or unwise choice alone does not establish incapacity;
+11. diagnosis/insight/refusal and capacity are noninterchangeable;
+12. confidentiality exceptions are jurisdiction-specific and should be necessary/proportionate;
+13. safeguarding may require multi-agency response;
+14. documentation, receiver-aware handoff, re-escalation triggers, and remote/AI operational limits are explicit;
+15. a 120-question Safety Management / Continuity Inference Gate and 20/20 SAF sufficiency audit are canonical;
+16. no scientifically necessary SAF-03 dependency is identified.
+
+**SAF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
+Next Phase C dependency:
+
+**ETH — ethics of individualized psychological inference and AI-assisted analysis.**
+
+Canonical storage: `research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/`.
 
 ## Storage note
 
