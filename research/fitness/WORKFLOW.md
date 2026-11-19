@@ -275,11 +275,12 @@ Stage 2 / Phase B продолжается.
 61. NEU-04/PASS-01 reflex regulation content revalidation завершён; exact Area 04 Section 4 coverage **8/8 at content level**.
 62. NEU-04/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 4 coverage **8/8 PASS**, no project-relevant blocker remains.
 63. First canonical NEU-04 finding created as v2.0.
-64. NEU-05 = **RESEARCHING**.
+64. NEU-05 = **CLOSED_FOR_PRACTICE v2.0**.
 65. NEU-05/PASS-01 neural force production / voluntary activation / RFD content revalidation завершён; exact Area 04 Section 5 coverage **14/14 at content level**.
-66. NEU-05 closure audit / synthesis ещё не выполнен; canonical finding ещё не создан.
-67. Следующий один блок: **NEU-05/PASS-02 — Closure audit and synthesis**.
-68. NEU-06 автоматически не запускать после PASS-02; сохраняется one block → state update → STOP.
+66. NEU-05/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 5 coverage **14/14 PASS**, no project-relevant blocker remains.
+67. First canonical NEU-05 finding created as v2.0.
+68. Следующий один блок: **NEU-06/PASS-01 — Neural adaptation to strength training content revalidation**.
+69. NEU-07 автоматически не запускать после следующего блока; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -296,7 +297,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **NEU-05/PASS-02 — Closure audit and synthesis**.
+Ближайшая задача: Stage 2 / Phase B — **NEU-06/PASS-01 — Neural adaptation to strength training content revalidation**.
 
 
 ## 10. Stage 0B — результат
