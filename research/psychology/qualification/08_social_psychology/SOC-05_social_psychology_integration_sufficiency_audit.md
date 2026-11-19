@@ -804,6 +804,11 @@ Current integration cross-checks:
 6. González, R., Carvacho, H., & Tausch, N. (2025). *Psychological processes underlying normative transformation and social change.* Nature Reviews Psychology, 4, 404–416. https://doi.org/10.1038/s44159-025-00448-8
 7. Oktar, K., & Lombrozo, T. (2025). *How aggregated opinions shape beliefs.* Nature Reviews Psychology, 4, 81–95. https://doi.org/10.1038/s44159-024-00398-7
 8. *Neuropsychological tests of social cognition in non-Western countries and in individuals from ethnic minoritized groups in Western countries: A systematic review.* (2025). PMID 39946633. https://pubmed.ncbi.nlm.nih.gov/39946633/
+9. Davis, M. H., Konrath, S., Breithaupt, F., Cameron, C. D., Decety, J., de Waal, F. B. M., Eisenberg, N., Hall, J. A., Hodges, S. D., et al. (2026). *What We Talk About When We Talk About Empathy: Toward a Common Lexicon of Empathy-Related Constructs.* Perspectives on Psychological Science. https://doi.org/10.1177/17456916261443519
+10. Phipps, D. J., Hagger, M. S., & Hamilton, K. (2025). *Relative effects of implicit and explicit attitudes on behavior: A meta-analytic review and test of key moderators.* Psychological Bulletin, 151(12), 1395–1447. https://doi.org/10.1037/bul0000506
+11. Kalny, C., Walter, N., Lapinski, M., Shulman, H., & Demetriades, S. (2026). *Descriptive Norms ≠ Injunctive Norms: A Meta-Analytic Review Across Four Health Contexts.* Health Communication. https://doi.org/10.1080/10410236.2026.2678927
+12. Paolini, S., Gibbs, M., Sales, B., Anderson, D., & McIntyre, K. (2024). *Negativity bias in intergroup contact: Meta-analytical evidence that bad is stronger than good.* Psychological Bulletin, 150(8), 921–964. https://doi.org/10.1037/bul0000439
+13. Friehs, M.-T., Schäfer, S. J., Wüst, K., et al. (2026). *A comparative multi-method re-analysis of the longitudinal evidence for causal intergroup contact effects on attitudes.* Communications Psychology, 4, 107. https://doi.org/10.1038/s44271-026-00495-8
 
 ## State transition
 
