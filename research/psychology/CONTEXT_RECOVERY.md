@@ -36,7 +36,7 @@ If control files disagree:
 
 - Branch: `research/psychology-foundation`.
 - Cabinet: PR #6.
-- Stage: qualification.
+- Stage: **Stage 2 private application — READY_TO_BEGIN**.
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **COMPLETE_FOR_CURRENT_SCOPE**.
@@ -63,18 +63,21 @@ If control files disagree:
 - ETH-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - ETH-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - ETH sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- Phase D: **IN_PROGRESS**.
+- Phase D: **COMPLETE_FOR_CURRENT_SCOPE**.
 - INT-01: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.
 - INT-02: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.
 - INT-03: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.
 - INT-04: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.
+- INT-05: **COMPLETE_FOR_CURRENT_SCOPE v1.0 — 24/24 PASS — GO FOR STAGE 2 WITH SCOPE CONTROLS**.
+- Stage 1 qualification: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Cross-domain blocking contradictions identified by INT-01: **0**.
-- Next qualification step: **INT-05 — final sufficiency audit for project purpose**.
+- Next ordinary work state: **Stage 2 baseline reconciliation of the current private psychological model against the completed qualification stack**.
+- No next generic qualification block is scheduled.
 - Integration directory: `research/psychology/qualification/26_integration/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/26_integration/INT-04_reusable_reasoning_checklists_fast_routing_deep_gate_escalation_pre_response.md`
+`research/psychology/qualification/26_integration/INT-05_final_sufficiency_audit_stage2_readiness_requalification_contract.md`
 
 ## 5. Cabinet architecture state
 
@@ -144,6 +147,8 @@ Stop immediately if:
 
 After recovery, the next qualification step is:
 
-**INT-05 — Final sufficiency audit for project purpose: determine whether methodology, core science, applied/clinical interfaces, integration, person-level transfer, error control, checklists, safety/ethics, privacy, source/version controls, and requalification triggers are sufficient to leave qualification and begin systematic private application.**
+**Stage 2 / Step 1 — private-only baseline reconciliation of the current psychological model against the completed qualification stack.**
 
-INT-01 found no blocking canonical contradiction. INT-02 established integrated person-level transfer. INT-03 established the stage-based analytic error taxonomy. INT-04 established operational checklist compression. Reopen a domain only if the final audit identifies a material gap.
+INT-01 found no blocking canonical contradiction. INT-02 established integrated person-level transfer. INT-03 established the stage-based analytic error taxonomy. INT-04 established operational checklist compression. INT-05 closed qualification for current scope.
+
+No individualized Stage 2 output is written to GitHub. Reopen qualification only on an explicit generic trigger.
