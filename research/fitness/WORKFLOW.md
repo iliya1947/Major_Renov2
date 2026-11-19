@@ -226,8 +226,9 @@
 8. BIO-04 = **CLOSED_FOR_PRACTICE v2.0**.
 9. BIO-05 = **CLOSED_FOR_PRACTICE v2.0**; PASS-01 + PASS-02 complete, exact Section 5 closure **8/8 PASS**.
 10. BIO-06 = **CLOSED_FOR_PRACTICE v2.0**; PASS-01 + PASS-02 complete, exact Section 6 closure **10/10 PASS**.
-11. **CURRENT NEXT: BIO-07/PASS-01 — Macronutrient metabolism / substrate selection content revalidation.**
-12. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
+11. BIO-07 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 complete, exact Section 7 coverage **10/10 at content/scope level**.
+12. **CURRENT NEXT: BIO-07/PASS-02 — Closure audit and synthesis.**
+13. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
 
 Авторитет текущей точки: PR #5 identity/workspace lock → фактическая ветка → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → последний PASS.
 
@@ -246,7 +247,7 @@
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **BIO-07/PASS-01 — Macronutrient metabolism / substrate selection content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **BIO-07/PASS-02 — Closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
@@ -306,7 +307,7 @@ Stage 1: **COMPLETE v1.0**.
    - `SOURCE_STATUS_LOG.md`.
 4. Исторический статус Area 13: **RESEARCH_COMPLETE + SYNTHESIZED v1.0** — **superseded**. Текущий статус области остаётся `RESEARCHING` до methodology-sufficiency audit и закрытия тех RES gaps, которые реально блокируют оценку fitness evidence. Полная глубокая revalidation всех RES-02…RES-29 не является автоматическим требованием.
 
-Историческая restart-точка начиналась с RES, затем Phase B была разблокирована через Anatomy. **Текущий authoritative route задаётся разделом 8, `CONTEXT_RECOVERY.md` и `RESEARCH_QUEUE.md`; сейчас это Bioenergetics / BIO-05.**
+Историческая restart-точка начиналась с RES, затем Phase B была разблокирована через Anatomy. **Текущий authoritative route задаётся разделом 8, `CONTEXT_RECOVERY.md` и `RESEARCH_QUEUE.md`; сейчас это Bioenergetics / BIO-07.**
 
 
 ## 13. Размер исследовательского прохода и жёсткий stop-condition
