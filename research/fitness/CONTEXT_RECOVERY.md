@@ -131,7 +131,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-07 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 7 closure **10/10 PASS**;
 - BIO-08 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 8 closure **10/10 PASS**;
 - BIO-09 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 9 closure **9/9 PASS**;
-- **CURRENT NEXT: BIO-10/PASS-01 — Substrate depletion and repletion content revalidation.**
+- BIO-10 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 10 coverage **9/9 at content/scope level**;
+- **CURRENT NEXT: BIO-10/PASS-02 — Closure audit and synthesis.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -181,41 +182,36 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-09/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-10/PASS-01_substrate_depletion_repletion_content_revalidation.md`
 
-PASS commit: `7ecf6a1c22f086b2418a571d7c0b90ce3b7a5b7d`  
-Canonical finding commit: `a9f77b07f666202fd8ce239de17b0e0c7ea009f7`  
-Evidence ledger commit: `6e8a79ebeb3f85703a5d2c9ad24c3a36226b7927`  
-Evidence ledger: `BIO09-01…BIO09-09` finalized.
+PASS commit: `f864b562b937a5399208e49f2b3600a5f0b2d3ff`
 
-BIO-09/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-10/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 05 Section 9 coverage = **9/9 PASS**;
-2. VO2 retained as integrated oxygen-consumption flux, not direct local ATP production;
-3. oxygen deficit retained as indirect/model-derived transition-energy construct;
-4. pulmonary and muscle VO2 kept coupled but non-identical during transitions;
-5. VO2 kinetics retained as state/intensity/analysis dependent;
-6. VO2 slow component retained as established phenomenon with unresolved exact mechanism;
-7. moderate/heavy/severe domains retained with distinct steady-state behavior;
-8. CP and MLSS not treated as perfectly interchangeable individual boundary markers;
-9. VO2max retained as integrated oxygen-cascade capacity;
-10. VO2peak kept operationally distinct from confirmed VO2max;
-11. plateau and verification evidence retained as supportive but protocol dependent, not infallible universal criteria;
-12. high-intensity exercise retained as having non-zero/increasing aerobic contribution;
-13. EPOC retained as multi-process recovery oxygen consumption rather than one simple oxygen debt or PCr resynthesis;
-14. no universal large EPOC calorie effect retained;
-15. between-bout recovery retained as oxidatively active without equating high VO2 to complete recovery;
-16. O2 delivery, extraction and mitochondrial utilization kept distinct;
-17. dominant VO2max/VO2-kinetics limitation retained as population/training-state dependent;
-18. canonical `BIO-09_oxygen_uptake_aerobic_contribution.md` created.
+1. exact Area 05 Section 10 coverage = **9/9 at content/scope level**;
+2. PCr depletion/repletion retained as rapid and oxidative, with no universal full-repletion time;
+3. muscle glycogen depletion retained as task/recruitment dependent and heterogeneous;
+4. resistance exercise retained as capable of materially depleting local glycogen with wide protocol variability;
+5. low glycogen kept distinct from zero glycogen and from a complete fatigue diagnosis;
+6. muscle and liver glycogen kept as distinct stores with different roles/recovery kinetics;
+7. liver glycogen concentration kept distinct from total liver glycogen content when organ volume changes;
+8. IMTG/IMCL retained as an endurance substrate with fibre/mode/method-dependent use and distinct repletion kinetics;
+9. blood glucose kept as a regulated circulating concentration/flux, not a storage depot;
+10. recovery time course retained as substrate specific rather than one universal recovery clock;
+11. nutritional effects on repletion retained as pool specific;
+12. early carbohydrate availability can affect short-term glycogen synthesis, but timing is not the only determinant of 24-h restoration/performance;
+13. substrate repletion kept non-equivalent to functional recovery/readiness;
+14. endurance, sprint/HIIT and resistance exercise retained as producing different depletion profiles;
+15. no content-level blocker found;
+16. no canonical BIO-10 finding or finalized BIO10 evidence-ledger rows created before PASS-02.
 
 ### Следующая задача
 
-**BIO-10/PASS-01 — Substrate depletion and repletion content revalidation.**
+**BIO-10/PASS-02 — Closure audit and synthesis.**
 
-BIO-09 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-10 until the user gives the next continue signal.**
+BIO-10 remains **not CLOSED_FOR_PRACTICE** after PASS-01. After the next one block, save state and STOP. **Do not start BIO-11 unless BIO-10/PASS-02 independently authorizes closure and the user later gives the next continue signal.**
 
 ---
 
@@ -237,9 +233,9 @@ BIO-09 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-09/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-10/PASS-01_substrate_depletion_repletion_content_revalidation.md`
 
-Затем выполнить только записанный выше **BIO-10/PASS-01 — Substrate depletion and repletion content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-10/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
