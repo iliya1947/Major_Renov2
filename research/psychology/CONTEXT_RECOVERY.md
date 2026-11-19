@@ -23,13 +23,14 @@ Use this file to recover work after a new chat or lost context.
 - COG foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - EXE sequence: **IN PROGRESS**.
 - `EXE-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- Next block: `EXE-02 — Goal representation, proactive/reactive control, and hierarchical task control`.
+- `EXE-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- Next block: `EXE-03 — Response selection, inhibition, stopping, and interference control`.
 - Target directory: `research/psychology/qualification/04_executive_functions_and_metacognition/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/04_executive_functions_and_metacognition/EXE-01_executive_functions_cognitive_control_architecture.md`
+`research/psychology/qualification/04_executive_functions_and_metacognition/EXE-02_goal_representation_proactive_reactive_hierarchical_control.md`
 
 ## Hard stop condition
 
