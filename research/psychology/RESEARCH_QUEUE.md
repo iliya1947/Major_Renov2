@@ -15,6 +15,8 @@
 - **AFF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **STR sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **SOC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- **PER sequence: IN PROGRESS.**
+- **PER-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -432,11 +434,32 @@ Established:
 
 **SOC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase B / PER completed
+
+### PER-01 — Personality foundations
+Canonical block:
+`research/psychology/qualification/07_personality_and_individual_differences/PER-01_personality_foundations_traits_states_person_situation_big_five_hexaco_stability_measurement.md`
+
+Established:
+1. personality traits are probabilistic, relatively enduring individual-difference tendencies rather than fixed essences or causal mechanisms;
+2. momentary personality states and trait levels are related but nonidentical;
+3. person and situation jointly shape state expression, including situation selection, construal, affordances and Person × Situation contingencies;
+4. Big Five and HEXACO are overlapping but nonidentical descriptive taxonomies;
+5. Big Five Agreeableness ≠ HEXACO Agreeableness and Neuroticism ≠ HEXACO Emotionality;
+6. broad domains, facets and nuances are distinct levels of the personality hierarchy;
+7. rank-order stability, mean-level change, individual differences in change, variance change, profile stability and absolute stability are distinct;
+8. lifespan evidence supports both stability and change rather than immutability;
+9. self-, observer-, state- and behavioral methods provide overlapping but nonidentical information;
+10. cross-cultural mean comparisons require measurement-invariance caution;
+11. 64-question Personality Foundations Inference Gate and 18/18 closure audit are canonical.
+
+**PER sequence: IN PROGRESS.**
+
 ## Current next action
 
-**PER-01 — Personality foundations: traits versus states, person–situation interaction, Big Five/HEXACO structure, stability/change, rank-order versus mean-level consistency, and measurement boundaries.**
+**PER-02 — Personality hierarchy and criterion validity: domains, aspects, facets, nuances, bandwidth–fidelity tradeoffs, broad versus narrow prediction, incremental validity, jingle/jangle fallacies, and multi-method assessment.**
 
-Goal: establish when repeated behavior supports trait inference, distinguish traits from states/situations, map Big Five/HEXACO structure, and separate rank-order stability, mean-level change, ipsative change, and measurement error.
+Goal: determine when broad traits are sufficient versus when facets/nuances add valid criterion information, how predictor–criterion bandwidth affects validity, how to audit incremental prediction, and how multi-method personality evidence should be combined.
 
 Target domain:
 
