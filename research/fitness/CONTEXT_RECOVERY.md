@@ -187,7 +187,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-10 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-11 — Learning vs performance / retention / transfer — NOT STARTED**.
+Текущая тема: **NEU-11 — Learning vs performance / retention / transfer — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -237,36 +237,33 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-10/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-11/PASS-01_learning_vs_performance_retention_transfer_revalidation.md`
 
-PASS commit: `3cdb60e6c2e0d32f295c844de6c48c8f4c4eb66b`  
-Canonical finding commit: `faa6ebbb15f48c4930356acc49272d349bcd9f00`  
-Evidence-ledger commit: `da144a29c5ba9094f041476e140db8bdf1cde7ca`
+PASS commit: `a58d44fdc4f3b9222d92fd1f1c12f9e759330807`  
+Evidence-ledger commit: `81ca8477849392ef8f68041e1e4d5860269c5069`
 
-NEU-10/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-11/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 10 coverage = **10/10 PASS**;
-2. visual, vestibular and somatosensory inputs remain dynamically reweighted rather than fixed-percentage subsystems;
-3. eyes-closed and foam conditions do not isolate a single sensory system;
-4. static, dynamic, proactive and reactive balance remain distinct task families;
-5. postural sway/COP is a measurement family, not balance itself; lower sway is not universally better;
-6. reactive balance requires unexpected-perturbation control;
-7. proactive balance requires anticipatory/predictive preparation;
-8. balance training is strongly task specific and transfer to untrained tasks is limited;
-9. generic balance/instability training has limited transfer to maximal strength/power;
-10. unstable-surface RT is not universally superior to stable RT for strength;
-11. resistance training can improve some balance outcomes without collapsing balance into strength;
-12. fitness balance tests cannot diagnose vestibular/neurologic pathology;
-13. no project-relevant blocker remains;
-14. first canonical `NEU-10_balance_neuromotor_fitness.md` created.
+1. exact Area 04 Section 11 coverage = **9/9 at content level**;
+2. practice performance and durable motor learning are distinct;
+3. acquisition is practice-phase performance and does not prove learning;
+4. retention requires a delayed, explicitly defined test and remains task/outcome specific;
+5. transfer must be measured in the actual untrained target condition;
+6. generalization breadth is distinct from retention strength, and terminology overlaps with transfer across subfields;
+7. automaticity is gradual/partial rather than an all-or-none state;
+8. relearning/savings is distinct from overt retention and can reveal retained learning history;
+9. fatigue robustness and pressure robustness are state/context specific and cannot be inferred from rested retention;
+10. exercise technique is a practiced motor skill, not only declarative verbal knowledge;
+11. learned technique does not imply one universal movement geometry;
+12. no content-level blocker was found; independent closure audit/synthesis is still required.
 
 ### Следующая задача
 
-**NEU-11/PASS-01 — Learning vs performance / retention / transfer content revalidation.**
+**NEU-11/PASS-02 — Closure audit and synthesis.**
 
-NEU-11 maps to Area 04 Section 11 (**9 exact items**). After the next one block, save state and STOP.
+NEU-11 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-12 in the same working block.**
 
 ---
 
@@ -282,9 +279,9 @@ NEU-11 maps to Area 04 Section 11 (**9 exact items**). After the next one block,
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-10/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-11/PASS-01_learning_vs_performance_retention_transfer_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-11/PASS-01 learning vs performance / retention / transfer content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-11/PASS-02 closure audit and synthesis** и остановиться перед NEU-12.
 
 ---
 
