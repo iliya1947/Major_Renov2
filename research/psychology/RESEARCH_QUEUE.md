@@ -16,6 +16,7 @@
 - **STR sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **SOC sequence: IN PROGRESS.**
 - **SOC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **SOC-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -354,11 +355,28 @@ Established:
 
 **SOC sequence: IN PROGRESS.**
 
+### SOC-02 — Empathy and interpersonal accuracy
+Canonical block:
+`research/psychology/qualification/08_social_psychology/SOC-02_empathy_interpersonal_accuracy_contagion_compassion_self_other_measurement.md`
+
+Established:
+1. empathy is an umbrella term and should be replaced by precise lower-order constructs in empirical inference;
+2. vicarious affect, emotional contagion, co-sharing, compassion/sympathy, personal distress, perspective taking, accurate inference, mimicry and synchrony are noninterchangeable;
+3. cognitive/affective empathy labels remain too broad unless their actual operations are specified;
+4. thought–feeling accuracy is morally neutral and distinct from compassion/prosocial motivation;
+5. perspective-taking effort is not equivalent to accuracy;
+6. self–other distinction concerns source/ownership and does not imply detachment or one global trait;
+7. self-report empathy does not substitute for behavioral social-cognitive performance;
+8. the 2024 scoping review identified 503 empathy/compassion measures, demonstrating major construct/measurement fragmentation;
+9. compassion is other-oriented concern and differs from personal distress, contagion and helping behavior;
+10. empathic ability differs from willingness/motivation to deploy empathy-related processes;
+11. 62-question Empathy and Interpersonal Accuracy Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**SOC-02 — Empathy and interpersonal accuracy: cognitive/affective empathy, emotional contagion, compassion/empathic concern, perspective taking, self–other distinction, empathic accuracy, context, and measurement validity.**
+**SOC-03 — Social categorization, stereotypes, prejudice, implicit/explicit bias, individuating information, intergroup perception, and measurement boundaries.**
 
-Goal: distinguish cognitive and affective empathy, contagion, compassion/concern, perspective taking, empathic accuracy, self–other boundaries, state/trait context and measurement without collapsing them into one empathy score.
+Goal: distinguish categorization, stereotype content, prejudice, explicit/implicit attitudes, discrimination and individuating inference; audit measurement and context limits before downstream group/norm/social-influence work.
 
 Target domain:
 
