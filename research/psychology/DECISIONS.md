@@ -92,3 +92,16 @@ Reconsideration trigger: когда решение должно быть пер�
 4. следующий новый domain без storage path получает стабильный новый каталог до начала research block.
 
 Reconsideration trigger: отдельное решение о миграции всей storage architecture.
+
+
+### Решение 11
+**BHC получает отдельный canonical storage `22_behavior_change_and_intervention_science/`.**
+
+Причина: Phase C BHC в `RESEARCH_ORDER.md` шире, чем исторический каталог `16_psychotherapy_models/`. Поведенческие вмешательства, implementation, adherence, mechanisms of change и maintenance нельзя сводить к каталогизации психотерапевтических школ.
+
+Последствия:
+1. `22_behavior_change_and_intervention_science/` — canonical BHC storage;
+2. `16_psychotherapy_models/` сохраняется как исторический тематический каталог;
+3. BHC research не начинается до отдельного purpose/question gate.
+
+Reconsideration trigger: отдельная migration/reorganization decision.
