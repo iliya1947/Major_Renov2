@@ -37,6 +37,11 @@
 | PSY-G31 | Therapist-level outcome variance does not establish one fixed therapist-quality trait; patient mix/context/skills contribute | BHC-02 | HIGH | Provider-effect inference | ACCEPTED |
 | PSY-G32 | Absence of reported psychotherapy harms does not establish safety; harm monitoring is heterogeneous/incomplete | BHC-02 | HIGH | Benefit-risk inference | ACCEPTED |
 | PSY-G33 | Patient preference/personalization is a legitimate decision input but does not automatically identify the most effective treatment | BHC-02 | HIGH | Treatment selection | ACCEPTED |
+| PSY-G34 | Adult attachment is better treated primarily as continuous anxiety/avoidance dimensions than as four natural person types | REL-01 | HIGH | Attachment inference | ACCEPTED |
+| PSY-G35 | ECR-family self-report and AAI/interview attachment measures are not interchangeable measures of one latent object | REL-01; PSYCHOMETRICS | HIGH | Attachment measurement | ACCEPTED |
+| PSY-G36 | Relationship-specific, global, trait, and state attachment must be separated before person-level inference | REL-01 | HIGH | Close-relationship inference | ACCEPTED |
+| PSY-G37 | Cross-partner association or APIM partner coefficient does not by itself establish causal partner influence | REL-01; PSY-RES-02 | HIGH | Dyadic causal inference | ACCEPTED |
+| PSY-G38 | Early attachment/relationship experience predicts adult attachment probabilistically and does not determine adult relational style | REL-01; DEV | HIGH | Developmental attachment inference | ACCEPTED |
 
 ## Правила
 
