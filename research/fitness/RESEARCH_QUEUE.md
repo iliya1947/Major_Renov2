@@ -190,12 +190,15 @@
 - Explicit/implicit process purity, universal implicit-over-explicit superiority, variability-as-exploration, universal constraints-led superiority, fixed challenge-point sweet spots and universal easy→hard progression remain rejected as unsupported overclaims.
 - Power-clean evidence supports improvement under both linear/explicit and nonlinear/constraints-led teaching but does not establish delayed-retention or universal superiority.
 - First canonical NEU-12 finding created as v2.0 because no legacy finding existed in the current branch.
-- **NEU-13 — RESEARCHING.**
+- **NEU-13 — CLOSED_FOR_PRACTICE v2.0.**
 - NEU-13/PASS-01 practice-organization content revalidation completed 2026-11-19; exact Area 04 Section 13 coverage = **12/12 at content level**.
-- Frequency, volume and distribution are separated; distributed/massed and blocked/random effects remain task/context dependent rather than universal laws.
-- Contextual interference has an average retention/transfer benefit, but applied transfer effects are smaller/less certain; variable practice is not universally superior to constant practice.
-- Direct RT evidence is insufficient to prescribe exact blocked/random, distributed/massed, constant/variable or whole/part schedules for compound-lift technique.
-- CURRENT NEXT: **NEU-13/PASS-02 — Closure audit and synthesis.**
+- NEU-13/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 13 coverage = **12/12 PASS** and no project-relevant blocker remains.
+- Distributed/massed, blocked/random, constant/variable and whole/part remain task/context dependent rather than universal hierarchies.
+- Contextual interference has an average retention/transfer benefit, but applied effects are weaker/more heterogeneous; CI is not treated as chaos or maximal randomness.
+- Diminishing marginal practice efficiency is retained only as a context-specific pattern, not a universal law; plateau does not prove further practice is useless.
+- Direct RT evidence remains insufficient to prescribe exact practice schedules for compound-lift technique.
+- First canonical NEU-13 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **NEU-14/PASS-01 — Attention and focus content revalidation.**
 
 ## История текущего revalidation cycle
 
