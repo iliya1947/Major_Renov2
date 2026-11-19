@@ -42,6 +42,8 @@
 - **SAF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **SAF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SAF-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
+- **ETH sequence: IN PROGRESS.**
+- **ETH-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -1119,11 +1121,38 @@ Established:
 
 **SAF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase C / ETH in progress
+
+### ETH-01 — Ethics foundations for individualized psychological inference and AI-assisted analysis
+
+Canonical block:
+`research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/ETH-01_ethics_foundations_autonomy_consent_privacy_nonmaleficence_fairness_transparency_contestability_ai_oversight.md`
+
+Established:
+
+1. ethics and law are distinct;
+2. current APA ethics-code status is version-controlled;
+3. autonomy/consent/disclosure are purpose- and stakes-sensitive;
+4. psychological data and inferred psychological propositions require privacy/data-minimization controls;
+5. accuracy alone does not establish ethical acceptability;
+6. competence, validation, intended use, and version drift are explicit;
+7. fairness requires subgroup/context analysis;
+8. transparency/explainability are context-proportionate;
+9. contestability and correction are mandatory for consequential inference;
+10. human oversight must be meaningful rather than ceremonial;
+11. professional role/licensure must not be misrepresented by AI/persona;
+12. dependency, anthropomorphism, and sycophancy are explicit risk classes;
+13. high-stakes uses require stronger safeguards and no unsupported AI sole authority;
+14. private models are provisional, purpose-bounded, private, and revisable;
+15. a 120-question Ethical Individualized Inference Gate and 18/18 closure audit are canonical.
+
+**ETH sequence: IN PROGRESS.**
+
 ## Current next action
 
-**ETH-01 — Ethics foundations for individualized psychological inference and AI-assisted analysis: autonomy, consent, privacy, nonmaleficence, epistemic humility, fairness, role/scope boundaries, transparency, contestability, and high-stakes safeguards.**
+**ETH-02 — Applied ethical governance and Phase C sufficiency audit: private-model workflow, data lifecycle and disclosure-by-use-case, individualized inference thresholds, correction/appeal/versioning, dependency and anthropomorphism safeguards, high-stakes no-go/escalation rules, fairness monitoring, audit/requalification triggers, and final Phase C readiness audit.**
 
-Goal: begin Phase C ETH with the generic ethical constraints required before final integration and private-model application.
+Goal: convert ETH-01 principles into operational controls for this cabinet's future individualized work and determine whether Phase C is complete.
 
 Target domain:
 
