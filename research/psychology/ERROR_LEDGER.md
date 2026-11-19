@@ -23,6 +23,13 @@
 | ERR-014 | Dependency/anthropomorphism reinforcement | Тёплый персонализированный стиль может незаметно перейти в exclusivity, reciprocal-emotion claims, sycophancy или engagement optimization | Persistent AI/role clarity; no exclusivity/reciprocal obligation/social displacement; allow respectful disagreement | ACTIVE |
 | ERR-015 | Validation/version permanence | Старое подтверждение инструмента/источника может трактоваться как бессрочно действующее после model/source/context change | Version-aware monitoring + requalification triggers + SOURCE_STATUS_LOG | ACTIVE |
 
+| ERR-016 | Cross-domain homonym collapse | Один термин из разных доменов может быть ошибочно принят за один construct | Type construct + operationalization + level + timescale before cross-domain transfer | ACTIVE |
+| ERR-017 | Action-threshold / truth-threshold conflation | Срочность или high stakes могут быть превращены в ложную уверенность либо uncertainty — в повод ничего не делать | Separate epistemic confidence from action threshold; SAF/ETH/DEC routing | ACTIVE |
+| ERR-018 | Override leakage | Safety/ethical/legal/privacy rule может начать использоваться как доказательство diagnosis/mechanism/trait | Overrides change action/process only unless independent evidence supports epistemic claim | ACTIVE |
+| ERR-019 | Downstream confidence inflation | Связная цепочка нескольких неопределённых premises может ошибочно стать сильным итоговым выводом | Propagate critical uncertainty; check evidence dependence and alternative paths | ACTIVE |
+| ERR-020 | Domain averaging | Реальные competing theories или разные constructs могут быть искусственно усреднены ради единой истории | Distinguish scope/level collision from genuine empirical tension; preserve unresolved alternatives | ACTIVE |
+| ERR-021 | Evidence-hierarchy absolutism | Один тип evidence может быть объявлен универсально высшим независимо от target claim | Claim-specific evidence routing; no universal biological/self-report/RCT hierarchy | ACTIVE |
+
 ## Обязательная regression check
 
 Перед сильным персональным выводом в приватном проекте проверить минимум:
