@@ -35,8 +35,8 @@ Status: **IN PROGRESS**.
 | NDEV | COMPLETE_FOR_CURRENT_SCOPE — NDEV-01/02 complete |
 | BHC | COMPLETE_FOR_CURRENT_SCOPE — BHC-01/02 complete |
 | REL | COMPLETE_FOR_CURRENT_SCOPE — REL-01/02 complete |
-| DEC | IN_PROGRESS — DEC-01 complete; DEC-02 next |
-| SAF | NOT_STARTED |
+| DEC | COMPLETE_FOR_CURRENT_SCOPE — DEC-01/02 complete |
+| SAF | NEXT — SAF-01; canonical storage: `qualification/24_safety_crisis_referral_thresholds/` |
 | ETH | NOT_STARTED |
 
 ## Phase D — integration
