@@ -42,6 +42,11 @@
 | PSY-G36 | Relationship-specific, global, trait, and state attachment must be separated before person-level inference | REL-01 | HIGH | Close-relationship inference | ACCEPTED |
 | PSY-G37 | Cross-partner association or APIM partner coefficient does not by itself establish causal partner influence | REL-01; PSY-RES-02 | HIGH | Dyadic causal inference | ACCEPTED |
 | PSY-G38 | Early attachment/relationship experience predicts adult attachment probabilistically and does not determine adult relational style | REL-01; DEV | HIGH | Developmental attachment inference | ACCEPTED |
+| PSY-G39 | Conflict behavior must be interpreted as part of a temporal dyadic sequence; demand/withdraw roles are not fixed personality labels | REL-02 | HIGH | Couple-conflict inference | ACCEPTED |
+| PSY-G40 | Validation of emotion/perspective is not equivalent to factual agreement, blame acceptance, or surrender of a boundary | REL-02 | HIGH | Communication inference | ACCEPTED |
+| PSY-G41 | Partner attributions and perceived responsiveness are psychologically meaningful but are not objective motive/behavior truth | REL-02; SOC | HIGH | Relationship-perception inference | ACCEPTED |
+| PSY-G42 | Bidirectional conflict/aggression does not automatically imply equal power, coercion, impact, or responsibility | REL-02 | HIGH | Safety/power inference | ACCEPTED |
+| PSY-G43 | Coercive control/IPV must not be reframed as an ordinary symmetric communication mismatch | REL-02; CDC/WHO | HIGH | Relationship safety boundary | ACCEPTED |
 
 ## Правила
 
