@@ -30,11 +30,12 @@
 Статус: **IN PROGRESS**.
 
 CLN: **COMPLETE_FOR_CURRENT_SCOPE** after CLN-03.  
-Current domain: NDEV — **IN PROGRESS**.  
-NDEV-01: **CLOSED_FOR_PRACTICE v1.0**.  
-Next block: NDEV-02 — broader neurodevelopmental differential.
+NDEV: **COMPLETE_FOR_CURRENT_SCOPE** after NDEV-02.  
+Current next domain: BHC.  
+Next block: BHC-01 — behavior change and intervention-science foundations.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
+Canonical BHC storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
 
 ### Phase D — integration
 
