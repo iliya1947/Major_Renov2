@@ -32,8 +32,9 @@
 CLN: **COMPLETE_FOR_CURRENT_SCOPE** after CLN-03.  
 NDEV: **COMPLETE_FOR_CURRENT_SCOPE** after NDEV-02.  
 BHC: **COMPLETE_FOR_CURRENT_SCOPE** after BHC-02.  
-Current next domain: REL.  
-Next block: REL-01 — interpersonal/attachment foundations.
+Current domain: REL — **IN PROGRESS**.  
+REL-01: **CLOSED_FOR_PRACTICE v1.0**.  
+Next block: REL-02 — conflict and communication architecture.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 Canonical BHC storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
