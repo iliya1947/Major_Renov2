@@ -13,6 +13,7 @@
 - **LEA sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MOT sequence: IN PROGRESS.**
 - **MOT-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **MOT-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -128,11 +129,25 @@ Established:
 
 **MOT sequence: IN PROGRESS.**
 
+### MOT-02 — Reward valuation, effort allocation and measurement
+Canonical block:
+`research/psychology/qualification/06_motivation_and_behavior/MOT-02_reward_valuation_probability_delay_effort_opportunity_cost_measurement_validity.md`
+
+Established:
+1. reward magnitude, subjective utility, reward probability, uncertainty, delay and effort represent different valuation dimensions;
+2. reward delay, effort delay, task duration and effort sequence must not be conflated;
+3. physical and cognitive effort measures have distinct ability and cost confounds;
+4. effort-demand tasks must control perceived success, performance errors, and effort–delay confounds;
+5. opportunity-cost and boredom accounts are conditional, with 2025 counterevidence against a single universal cost explanation;
+6. discounting functions are model hypotheses, not direct psychological trait or neural identifiers;
+7. reliability, parameter recovery, cross-task validity and ecological generalization are independent requirements;
+8. 50-question Reward Valuation and Effort Inference Gate with 18/18 internal audit is canonical.
+
 ## Current next action
 
-**MOT-02 — Reward valuation and effort allocation: probability, delay, uncertainty, physical/cognitive effort discounting, opportunity cost, and task validity.**
+**MOT-03 — Goal pursuit, self-determination, intention–action gap, persistence/disengagement, and regulation-quality measurement validity.**
 
-Goal: deepen probabilistic/delayed valuation, effort discounting, alternative opportunity costs and measurement validity without interpreting discount rates as stable traits prematurely.
+Goal: examine goal commitment, autonomous/controlled regulation, intention–action translation, implementation plans, persistence and adaptive disengagement with measurement-validity checks.
 
 Target domain:
 
