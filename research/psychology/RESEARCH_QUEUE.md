@@ -16,6 +16,7 @@
 - **STR sequence: IN PROGRESS.**
 - **STR-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **STR-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -292,11 +293,29 @@ Established:
 9. wearables and ML classifiers require separate raw-sensor and psychological-construct validation;
 10. 58-question Stress Physiology Inference Gate and 18/18 closure audit are canonical.
 
+### STR-03 — Coping and resilience architecture
+Canonical block:
+`research/psychology/qualification/15_stress_trauma_and_adaptation/STR-03_coping_resilience_controllability_flexibility_support_resources_trajectories_measurement.md`
+
+Established:
+1. coping is a context-sensitive transaction, not a fixed global style;
+2. problem-, emotion-, and meaning-focused coping are broad functional families whose value depends on control, goals, timing, and outcome;
+3. avoidance, acceptance, disengagement, and tactic abandonment are distinct;
+4. coping flexibility is not repertoire breadth or switching alone; strategy–situation fit is the core functional target;
+5. 2025 flexibility meta-analysis (89 studies, N=102,304) supports a meaningful but heterogeneous adjustment association;
+6. 2026 daily coping review shows substantial diary/ESM measurement heterogeneity and mostly concurrent analyses;
+7. perceived support differs from received support; support effects are robust but heterogeneous and not unique mechanisms;
+8. resources operate at individual, social, material, and institutional levels;
+9. resilience requires adversity exposure and explicit outcome/timescale definition;
+10. trait/capacity, process, and outcome resilience are noninterchangeable;
+11. protective/promotive factors differ from causal mechanisms and trajectory classes are model-dependent;
+12. 60-question Coping and Resilience Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**STR-03 — Coping and resilience architecture: controllability, problem/emotion/meaning-focused coping, avoidance, support, resource models, resilience factors versus mechanisms, trajectories, and measurement validity.**
+**STR-04 — Stress, coping, and resilience integration/sufficiency audit: stressor/appraisal/physiology, coping fit, allostasis, resilience processes, trajectories, measurement, and cross-domain boundaries.**
 
-Goal: deepen coping and resilience as context-dependent processes, distinguish resources/factors from mechanisms and trajectories, and prevent global trait inference from strategy labels or physiological response size.
+Goal: integrate STR-01…03, audit contradictions and unresolved gaps, decide whether the STR foundation is sufficient for generic stress reasoning, and route trauma-specific/clinical dependencies separately.
 
 Target domain:
 
