@@ -49,14 +49,15 @@ Canonical ETH storage: `research/psychology/qualification/25_ethics_individualiz
 
 ### Phase D — integration
 
-Статус: **IN PROGRESS**.
+Статус: **COMPLETE_FOR_CURRENT_SCOPE**.
 
 INT-01 — cross-domain contradiction audit: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
 INT-02 — evidence-to-individual transfer rules: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
 INT-03 — analytic error taxonomy: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
 INT-04 — reusable reasoning checklists: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
+INT-05 — final sufficiency audit: **COMPLETE_FOR_CURRENT_SCOPE v1.0 — 24/24 PASS — GO FOR STAGE 2**.  
 Blocking canonical contradictions: **0**.  
-Next block: **INT-05 — final sufficiency audit for project purpose**.  
+Stage 1 qualification: **COMPLETE_FOR_CURRENT_SCOPE**.  
 Canonical integration storage: `research/psychology/qualification/26_integration/`.
 
 Sequence:
@@ -65,7 +66,7 @@ Sequence:
 2. evidence-to-individual transfer rules — **complete**;
 3. analytic error taxonomy — **complete**;
 4. reusable reasoning checklists — **complete**;
-5. final sufficiency audit — **next**.
+5. final sufficiency audit — **complete**.
 
 ## 4. Правило qualification block
 
@@ -84,7 +85,25 @@ Sequence:
 
 Не запускать следующий block автоматически.
 
+### Post-qualification continuation rule
+
+После INT-05 generic qualification больше не продолжается по инерции.
+
+Для private Stage 2:
+
+`one continue / "..." -> one bounded private analytic unit -> model update only if warranted -> no private repo write -> STOP`.
+
+Для requalification:
+
+`one explicit trigger -> one generic qualification/revalidation block -> state update -> privacy check -> STOP`.
+
 ## 5. Stage 2 — применение квалификации к приватной модели
+
+Статус: **READY_TO_BEGIN**.
+
+Первый private task:
+
+**baseline reconciliation текущей приватной психологической модели против завершённой qualification stack**.
 
 Этот этап происходит **только в приватном ChatGPT-проекте**.
 
