@@ -65,13 +65,14 @@ If control files disagree:
 - ETH sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase D: **IN_PROGRESS**.
 - INT-01: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.
+- INT-02: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.
 - Cross-domain blocking contradictions identified by INT-01: **0**.
-- Next qualification step: **INT-02 — evidence-to-individual transfer rules**.
+- Next qualification step: **INT-03 — analytic error taxonomy**.
 - Integration directory: `research/psychology/qualification/26_integration/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/26_integration/INT-01_cross_domain_contradiction_audit_construct_levels_priority_overrides.md`
+`research/psychology/qualification/26_integration/INT-02_evidence_to_individual_transfer_provenance_applicability_confidence_model_update.md`
 
 ## 5. Cabinet architecture state
 
@@ -141,6 +142,6 @@ Stop immediately if:
 
 After recovery, the next qualification step is:
 
-**INT-02 — Evidence-to-individual transfer rules: unify observation provenance, population/subgroup priors, repeated individual evidence, state/trait/timescale typing, construct/measurement validity, causal alternatives, contradiction handling, confidence updating, ethical stakes, safety overrides, correction propagation, and model-update thresholds.**
+**INT-03 — Analytic error taxonomy: unify ERROR_LEDGER classes, domain-specific failure modes, INT-01 cross-domain errors, and INT-02 transfer/model-maintenance errors into one stage-based taxonomy with detection and regression guards.**
 
-INT-01 found no blocking canonical contradiction. Reopen a domain only if later integration identifies a material contradiction or knowledge gap.
+INT-01 found no blocking canonical contradiction. INT-02 established the integrated person-level transfer protocol. Reopen a domain only if later integration identifies a material contradiction or knowledge gap.
