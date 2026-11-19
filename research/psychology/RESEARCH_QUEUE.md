@@ -15,6 +15,7 @@
 - **AFF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **STR sequence: IN PROGRESS.**
 - **STR-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **STR-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -275,11 +276,27 @@ Established:
 
 **STR sequence: IN PROGRESS.**
 
+### STR-02 — Stress physiology and temporal measurement
+Canonical block:
+`research/psychology/qualification/15_stress_trauma_and_adaptation/STR-02_stress_physiology_hpa_ans_cortisol_inflammation_reactivity_recovery_biomarker_validity.md`
+
+Established:
+1. acute stress physiology must be modeled as system-specific trajectories rather than one synchronized response;
+2. HPA, ANS/cardiovascular, inflammatory and subjective responses have different baselines, peaks and recovery kinetics;
+3. CAR, diurnal cortisol, acute cortisol reactivity and recovery are distinct;
+4. cortisol reactivity depends on metabolic/circadian/health context and low response is not inherently resilience;
+5. HRV cannot be interpreted as a direct sympathetic measure or universal sympathovagal balance;
+6. catecholamines, sAA and EDA are distinct rapid-response measures with non-specificity and collection constraints;
+7. inflammatory measures require delayed/time-specific sampling and circulating versus stimulated responses must be separated;
+8. repeated-stressor habituation differs across HPA, ANS and immune systems and is distinct from within-episode recovery and resilience;
+9. wearables and ML classifiers require separate raw-sensor and psychological-construct validation;
+10. 58-question Stress Physiology Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**STR-02 — Stress physiology and temporal measurement: HPA axis, autonomic regulation, cortisol/catecholamines, inflammation, circadian effects, acute reactivity/recovery, chronic dysregulation, and biomarker validity.**
+**STR-03 — Coping and resilience architecture: controllability, problem/emotion/meaning-focused coping, avoidance, support, resource models, resilience factors versus mechanisms, trajectories, and measurement validity.**
 
-Goal: deepen the biological/temporal architecture of acute and chronic stress, including system-specific kinetics, biomarker validity and recovery before later coping/resilience integration.
+Goal: deepen coping and resilience as context-dependent processes, distinguish resources/factors from mechanisms and trajectories, and prevent global trait inference from strategy labels or physiological response size.
 
 Target domain:
 
