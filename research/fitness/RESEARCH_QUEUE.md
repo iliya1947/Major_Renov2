@@ -172,7 +172,9 @@
 - NEU-08/PASS-01 neuromuscular-fatigue content revalidation completed 2026-11-19; exact Area 04 Section 8 coverage = **10/10 at content level**.
 - NEU-08/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 8 coverage = **10/10 PASS** and no project-relevant blocker remains.
 - First canonical NEU-08 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **NEU-09/PASS-01 — Motor control content revalidation.**
+- **NEU-09 — RESEARCHING.**
+- NEU-09/PASS-01 motor-control content revalidation completed 2026-11-19; exact Area 04 Section 9 coverage = **16/16 at content level**.
+- CURRENT NEXT: **NEU-09/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
