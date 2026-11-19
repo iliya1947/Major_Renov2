@@ -26,19 +26,20 @@ Use this file to recover work after a new chat or lost context.
 - LEA sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - MOT sequence: **IN PROGRESS**.
 - `MOT-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `MOT-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `MOT-02 — Reward valuation and effort allocation: probability, delay, uncertainty, physical/cognitive effort discounting, opportunity cost, and task validity`.
+- Next block: `MOT-03 — Goal pursuit, self-determination, intention–action gap, persistence/disengagement, and regulation-quality measurement validity`.
 - Target directory: `research/psychology/qualification/06_motivation_and_behavior/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/06_motivation_and_behavior/MOT-01_motivation_foundations_needs_incentives_valuation_effort_goals_boundaries.md`
+`research/psychology/qualification/06_motivation_and_behavior/MOT-02_reward_valuation_probability_delay_effort_opportunity_cost_measurement_validity.md`
 
 ## Hard stop condition
 
