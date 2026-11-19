@@ -177,7 +177,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-05 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-06 — Neural adaptation to strength training — RESEARCHING**.
+Последняя закрытая тема: **NEU-06 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-07 — Bilateral effects / cross-education — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -227,32 +229,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-06/PASS-01_neural_adaptation_strength_training_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-06/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `3bff5d6d77d0b12c77b658d503fbc1702234d43e`
+PASS commit: `8a16f7caa7d412e2323ddd7da463c3904d64de4f`  
+Canonical finding commit: `05afca869c40b3c17d35fdcfcd73d6c3bcfe71e4`
 
-NEU-06/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-06/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 6 coverage = **12/12 at content level**;
-2. early strength gain can be strongly neural/skill-mediated before large hypertrophy is detectable, but is not defined as purely neural;
-3. motor-unit recruitment and firing behavior adapt with substantial task/protocol heterogeneity;
-4. neural drive remains ensemble motor-neuron output and is not equated with normalized surface EMG;
+1. exact Area 04 Section 6 coverage = **12/12 PASS**;
+2. early strength gain remains neural/skill + muscular/mechanical rather than purely neural;
+3. motor-unit recruitment/firing adaptations remain task/protocol dependent;
+4. neural drive remains distinct from surface EMG;
 5. antagonist coactivation has no universal downward adaptation rule;
-6. intermuscular coordination adapts in task/load-specific ways;
-7. strength adaptation contains substantial task-specific skill;
-8. cortical/corticospinal adaptation is supported, but TMS marker direction/site attribution is not universal;
-9. spinal/motoneuron adaptation is supported, but H-reflex/V-wave/motor-unit measures are not interchangeable;
-10. retention and neural detraining are differential, not one-clock processes;
-11. rapid retraining is supported functionally, but a unique causal neural-memory mechanism is not established;
-12. no content-level blocker was found; closure requires PASS-02.
+6. intermuscular coordination remains task/load specific;
+7. task-specific skill is retained as a real component of strength adaptation;
+8. cortical/corticospinal adaptation is supported without treating one TMS marker as a universal readout;
+9. spinal/motoneuron adaptation is supported without equating H-reflex, V-wave and motor-unit measures;
+10. retention and neural detraining remain differential, multi-clock processes;
+11. rapid retraining is supported functionally without a unique neural-memory claim;
+12. consistency with NEU-02, NEU-05 and PHY-18 confirmed;
+13. no project-relevant blocker remains;
+14. first canonical `NEU-06_neural_adaptation_strength_training.md` created.
 
 ### Следующая задача
 
-**NEU-06/PASS-02 — Closure audit and synthesis.**
+**NEU-07/PASS-01 — Bilateral effects / cross-education content revalidation.**
 
-After the next one block, save state and STOP.
+NEU-07 maps to Area 04 Section 7 (7 exact items). After the next one block, save state and STOP.
 
 ---
 
@@ -268,9 +273,9 @@ After the next one block, save state and STOP.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-05/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-06/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-06/PASS-02 closure audit and synthesis** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-07/PASS-01 bilateral effects / cross-education content revalidation** и остановиться перед следующим блоком.
 
 ---
 
