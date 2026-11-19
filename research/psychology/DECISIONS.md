@@ -105,3 +105,17 @@ Reconsideration trigger: отдельное решение о миграции �
 3. BHC research не начинается до отдельного purpose/question gate.
 
 Reconsideration trigger: отдельная migration/reorganization decision.
+
+
+### Решение 12
+**REL получает отдельный canonical storage `23_interpersonal_relationships_attachment_conflict_communication/`.**
+
+Причина: Phase C REL в `RESEARCH_ORDER.md` включает attachment, close-relationship processes, conflict and communication and therefore шире исторических каталогов `09_interpersonal_understanding/` и `18_language_semantics_and_communication/`.
+
+Последствия:
+1. `23_interpersonal_relationships_attachment_conflict_communication/` — canonical REL storage;
+2. исторические каталоги сохраняются;
+3. REL research не начинается до отдельного purpose/question gate;
+4. приватные relationship histories/messages никогда не сохраняются в repo.
+
+Reconsideration trigger: отдельная migration/reorganization decision.
