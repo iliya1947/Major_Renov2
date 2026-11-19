@@ -35,6 +35,7 @@ Use this file to recover work after a new chat or lost context.
 - PSYCHOMETRICS sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - CLN sequence: **IN PROGRESS**.
 - `CLN-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `CLN-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PSYCHOMETRICS-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PSYCHOMETRICS-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PSYCHOMETRICS-03`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
@@ -73,13 +74,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `CLN-02 — Psychopathology mechanisms and course: transdiagnostic processes, onset/maintenance/remission, recurrence, risk/protective factors, state-trait separation, and causal-model limits`.
+- Next block: `CLN-03 — Disorder-family pattern recognition and exclusion boundaries: internalizing, psychotic-spectrum, bipolar-spectrum, obsessive-compulsive-related, trauma-related, eating, somatic/dissociative, substance-related, and personality pathology — without encyclopedic criterion memorization`.
 - Target directory: `research/psychology/qualification/12_psychopathology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/12_psychopathology/CLN-01_psychopathology_foundations_symptom_syndrome_disorder_impairment_dimensions_comorbidity_differential_validity.md`
+`research/psychology/qualification/12_psychopathology/CLN-02_psychopathology_mechanisms_course_transdiagnostic_onset_maintenance_remission_recurrence_state_trait_causal_limits.md`
 
 ## Hard stop condition
 
