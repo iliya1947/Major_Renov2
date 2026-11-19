@@ -17,10 +17,11 @@
 - **SOC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **DEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **NEU sequence: IN PROGRESS.**
+- **NEU sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **NEU-04 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **DEV-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -654,8 +655,6 @@ Established:
 13. spatial map correlation, atlas choice, circular ROI selection and spatial autocorrelation can create mechanistic overreach;
 14. 70-question Neuroscience Inference Gate and 18/18 closure audit are canonical.
 
-**NEU sequence: IN PROGRESS.**
-
 ### NEU-02 — Neurochemical and neuromodulatory inference
 Canonical block:
 `research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-02_neurochemical_neuromodulatory_inference_dopamine_serotonin_norepinephrine_acetylcholine_pet_pharmacology.md`
@@ -696,15 +695,37 @@ Established:
 13. progenitor/immature-cell evidence is distinct from mature functional neuronal integration;
 14. 76-question Neural Systems / Plasticity Inference Gate and 18/18 closure audit are canonical.
 
+### NEU-04 — Cognitive/affective neuroscience integration and sufficiency audit
+Canonical block:
+`research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-04_cognitive_affective_neuroscience_integration_sufficiency_audit.md`
+
+Established:
+1. NEU-01…03 are internally coherent for generic cognitive/affective neuroscience reasoning;
+2. psychological, computational, network, circuit, cellular, synaptic and molecular targets remain distinct explanatory levels;
+3. localization and distributed/network organization are compatible rather than competing defaults;
+4. neural sensitivity/decodability is separated from stronger representation claims requiring specificity, invariance and/or functional use;
+5. within-person process/state effects are separated from between-person capacity/trait inference;
+6. group neural effects, individual psychometrics and biomarkers require separate reliability/validity evidence;
+7. external validation and dataset shift are explicit requirements for strong neuroimaging prediction/transport claims;
+8. neurochemical target engagement is separated from downstream efficacy and psychological function;
+9. E/I, oscillatory, synaptic, structural, myelin and neurogenesis evidence remain scale- and measurement-specific;
+10. association, prediction, necessity, sufficiency and perturbation are separated and causal designs must match the claim;
+11. cognitive/affective/social neural findings route back to their psychological construct domains rather than replacing them;
+12. person-level neural interpretation routes to applied PSYCHOMETRICS;
+13. 64-question Integrated Neuroscience Inference Gate and 20/20 closure audit are canonical;
+14. no necessary NEU-05 dependency identified.
+
+**NEU sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**NEU-04 — Cognitive/affective neuroscience integration/sufficiency audit: levels/methods, localization/networks, neurochemistry, neural systems/plasticity, causal evidence, measurement, and cross-domain boundaries.**
+**PSYCHOMETRICS-01 — Applied measurement foundations: score meaning, reliability, validity, dimensionality, measurement invariance, norms, change, and individual interpretation.**
 
-Goal: synthesize NEU-01…03, audit contradictions and residual gaps, define reusable neuroscience inference rules, and either close NEU for current scope or identify one concrete blocking dependency before applied PSYCHOMETRICS.
+Goal: move from generic research-method psychometrics to applied person-level measurement and interpretation, with explicit score-meaning, reliability, validity, invariance, norming, change, and decision boundaries.
 
 Target domain:
 
-`research/psychology/qualification/11_neuropsychology_and_neuroscience/`
+`research/psychology/qualification/02_psychometrics_and_assessment/`
 
 ## Deferred
 
