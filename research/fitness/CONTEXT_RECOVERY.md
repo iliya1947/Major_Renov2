@@ -195,7 +195,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-14 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-15 — Feedback — RESEARCHING**.
+Последняя закрытая тема: **NEU-15 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-16 — Cueing — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -245,35 +247,41 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-15/PASS-01_feedback_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-15/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `25f74fa3ec27ae4a10a31790351754a718c9ed15`  
-Evidence-ledger commit: `cc9ce92ed24d2160be996038b84990fb823b3ff4`
+PASS commit: `752c1167236b09c794d0f78dcb042d944790fe75`  
+Canonical finding commit: `7e18fd682a1097a7e83c1b4752aeb6240fc885a1`  
+Evidence ledger: existing `NEU15-01…NEU15-12` re-audited; no closure-critical rewrite required.
 
-NEU-15/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-15/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 15 coverage = **15/15 at content level**;
-2. intrinsic and augmented feedback are distinct sources; modality, content, timing and schedule are separate dimensions;
-3. KR is outcome information; KP is movement information, and descriptive vs prescriptive KP must be separated;
-4. novice-dominant evidence favors KR + prescriptive KP / prescriptive KP over descriptive KP in some tasks, but no universal KR-vs-KP hierarchy is retained;
-5. immediate feedback can improve acquisition while delayed feedback can improve retention in some tasks; no universal delay optimum exists;
-6. concurrent feedback can strongly guide practice but can create withdrawal costs; terminal feedback is not universally superior;
-7. 2022 meta-analysis of 61 feedback-frequency papers found no robust advantage of reduced frequency and no general acquisition-to-retention reversal;
-8. faded feedback has positive task-specific retention/transfer evidence but is not universal;
-9. bandwidth and summary feedback can reduce trial-by-trial guidance but no universal bandwidth/summary length exists;
-10. self-controlled feedback shows average retention/transfer benefits but heterogeneity and publication-bias concerns remain;
-11. learner error estimation can materially improve retention and alter the effect of feedback frequency;
-12. feedback dependency must be demonstrated by no-feedback retention/transfer, not inferred from high frequency alone;
-13. RT feedback improves acute outputs; direct squat visual-feedback retention evidence exists, but exact compound-lift feedback architecture remains unestablished;
-14. no content-level blocker was found; independent closure audit remains required.
+1. exact Area 04 Section 15 coverage = **15/15 PASS**;
+2. intrinsic and augmented feedback remain distinct sources;
+3. KR and KP remain distinct content categories; descriptive vs prescriptive KP is closure-critical;
+4. no universal KR-vs-KP hierarchy is retained;
+5. immediate/delayed and concurrent/terminal timing effects remain task dependent;
+6. universal reduced-feedback-frequency superiority / simple guidance-hypothesis rule is rejected;
+7. feedback frequency alone does not predict motor learning;
+8. faded feedback has positive task-specific evidence but no universal fade schedule;
+9. bandwidth feedback changes both frequency and information meaning; no universal band exists;
+10. summary feedback has no universal summary length;
+11. self-controlled feedback shows promising retention/transfer benefit but heterogeneity/publication-bias concerns limit universal claims;
+12. dependency must be demonstrated by no-feedback withdrawal/retention/transfer;
+13. learner error estimation materially changes feedback effects and should not be replaced permanently by augmented feedback;
+14. RT feedback improves acute output but acute performance ≠ durable technique learning;
+15. direct visual-feedback squat retention evidence exists but is narrow;
+16. technology/AI is not inherently superior to trainer feedback;
+17. exact compound-lift feedback architecture remains downstream;
+18. no project-relevant blocker remains;
+19. first canonical `NEU-15_feedback.md` created.
 
 ### Следующая задача
 
-**NEU-15/PASS-02 — Closure audit and synthesis.**
+**NEU-16/PASS-01 — Cueing content revalidation.**
 
-NEU-15 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-16 in the same working block.**
+NEU-15 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-16 in this completed NEU-15 working block.**
 
 ---
 
@@ -289,9 +297,9 @@ NEU-15 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-15/PASS-01_feedback_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-15/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-15/PASS-02 closure audit and synthesis** и остановиться перед NEU-16.
+Затем выполнить только записанный выше **NEU-16/PASS-01 cueing content revalidation** и остановиться перед следующим блоком.
 
 ---
 
