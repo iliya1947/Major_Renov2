@@ -480,25 +480,25 @@
 - Metabolic stress, burn, lactate, pump/cell swelling and TUT are not retained as established independent causal hypertrophy doses.
 - Acute energy expenditure/strain does not rank chronic adaptation or guarantee chronic fat loss.
 - Evidence ledger `BIO12-01…BIO12-10` finalized; canonical `BIO-12_resistance_training_bioenergetics.md` created.
-- **BIO-13 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- **BIO-13 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-13/PASS-01 energy-system development content revalidation completed 2026-11-19; exact Area 05 Section 13 coverage = **10/10 at content/scope level**.
-- Energy-system development retained as biasing relative energetic demand rather than isolating one pathway.
-- Intensity and work duration retained as interacting variables; no intensity/time bracket owns one exclusive energy system.
-- Same work:rest ratio can produce different physiology when absolute work/rest durations differ.
-- Shorter recovery can increase residual VO2/internal load while reducing repeated-sprint output; acute response is not automatically chronic superiority.
-- Exercise mode retained as part of the stimulus; current running/cycling cross-training evidence does not prove full interchangeability or no transfer.
-- Frequency retained as dose distribution rather than an independent energy-system switch; current untrained SIT evidence shows uncertain frequency/work:rest moderation of VO2max.
-- More sprint repetitions per session do not necessarily produce more VO2max adaptation.
+- BIO-13/PASS-02 independent closure audit / synthesis completed 2026-11-19; exact Section 13 coverage = **10/10 PASS** and no project-relevant blocker remains.
+- PASS-01 unresolved gaps = **32/32 RESOLVED**.
+- Energy-system development retained as biasing integrated energetic demand rather than isolating phosphagen, glycolytic or oxidative pathways.
+- Intensity changes relative energetic demand and sustainable duration but does not assign exclusive system ownership.
+- Work-bout duration and recovery remain interacting variables; same work:rest ratio can produce different physiology when absolute durations differ.
+- Shorter recovery can raise VO2/internal load while reducing repeated-bout output; acute strain is not automatic chronic superiority.
+- Exercise mode retained as part of the training stimulus; running/cycling cross-training evidence does not establish full interchangeability or zero transfer.
+- Frequency retained as dose distribution rather than an independent energy-system switch; current untrained cycling SIT evidence does not support a simple more-repetitions→more-VO2max law.
 - Phosphagen-focused training retained as brief high-power/output-preservation bias, not PCr-only training.
-- Glycolytic-focused training retained as denser/sustained high-rate metabolic bias, without treating lactate as direct ATP flux.
-- Oxidative-focused training retained as sustained oxidative demand; long HIIT intervals can increase acute high-VO2 exposure, while tVO2max is not a proven chronic dose.
-- SIT can improve aerobic fitness; “anaerobic-looking” work is not aerobically irrelevant.
-- Mixed-demand tasks require mixed energetic preparation without assuming one protocol maximizes every quality.
+- Glycolytic-focused training retained as sustained high-rate/denser demand, without treating blood lactate as direct glycolytic ATP flux.
+- Oxidative-focused training can include continuous work, HIIT and SIT; tVO2max remains an acute exposure metric rather than a validated chronic adaptation dose.
+- Mixed-demand training can improve multiple qualities without implying one protocol maximizes all of them.
+- Current SIT+RT evidence shows no clear pooled strength/power interference signal but cannot establish absence of interference under every concurrent design.
 - Specificity retained as multidimensional/graded; general physiological adaptation is non-equivalent to target-task transfer.
-- Population-level meta-regression “optimal” interval values are not retained as individual prescriptions.
-- BIO-13 remains **not CLOSED_FOR_PRACTICE**; canonical finding and final BIO13 ledger rows are deferred until PASS-02.
-- PASS-01 records **32 unresolved audit checks** for independent closure review.
-- **CURRENT NEXT: BIO-13/PASS-02 — Closure audit and synthesis.**
+- Study-level meta-regression “optimal” values are not retained as individual prescriptions.
+- Evidence ledger `BIO13-01…BIO13-10` finalized; canonical `BIO-13_energy_system_development.md` created.
+- **CURRENT NEXT: BIO-14/PASS-01 — Anaerobic power and capacity content revalidation.**
 
 ## История текущего revalidation cycle
 
