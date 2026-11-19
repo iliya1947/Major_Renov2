@@ -1,8 +1,16 @@
 # BIO-04 / PASS-02 — Closure audit and synthesis
 
 Дата: 2026-11-19  
-Статус: **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**  
+Статус: **QUARANTINED — CLOSURE AUTHORIZATION WITHDRAWN; REDO REQUIRED**  
 Область: 05 — Bioenergetics / Exercise Metabolism  
+
+> **INTEGRITY QUARANTINE — 2026-11-19**
+>
+> Этот файл **не является валидированным evidence artifact и запрещён для downstream use**.
+> В текущем чате substantive conclusions были сформированы и записаны без фактически выполненного fresh evidence retrieval/source reading, хотя текст заявляет `Sources checked` / `independent source re-check` / closure.
+> Это недостоверный provenance. Содержимое сохраняется только как исторический артефакт Git.
+> BIO-04 должен быть исследован заново по evidence-first gate из `AGENT.md`: downstream decision → Question Card → search/retrieval → фактическое чтение источников → appraisal → claims → ledger → отдельный closure audit.
+>
 Topic: BIO-04 — Lactate metabolism
 
 ## 0. Purpose
