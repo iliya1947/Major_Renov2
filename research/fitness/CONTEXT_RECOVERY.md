@@ -135,7 +135,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-11 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 11 closure **10/10 PASS**;
 - BIO-12 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 12 closure **13/13 PASS**;
 - BIO-13 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 13 closure **10/10 PASS**;
-- **CURRENT NEXT: BIO-14/PASS-01 — Anaerobic power and capacity content revalidation.**
+- BIO-14 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 14 coverage **7/7 at content/scope level**;
+- **CURRENT NEXT: BIO-14/PASS-02 — Closure audit and synthesis.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -185,40 +186,38 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-13/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-14/PASS-01_anaerobic_power_capacity_content_revalidation.md`
 
-PASS commit: `f8b67a55836d1768a07af19e9f05bf63b4dfb356`
+PASS commit: `893c7cb01c801cf9df38d6f5f248a8ad15813317`
 
-BIO-13/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-14/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 05 Section 13 coverage = **10/10 PASS**;
-2. PASS-01 unresolved gaps = **32/32 RESOLVED**;
-3. no project-relevant blocker remains;
-4. energy-system development retained as biasing integrated energetic demand rather than isolating one pathway;
-5. intensity changes relative demand and sustainable duration but does not define exclusive system ownership;
-6. work-bout duration retained as interacting with intensity/recovery rather than as a standalone dose;
-7. work:rest ratio is physiologically incomplete without absolute work/rest durations;
-8. shorter recovery can increase VO2/internal load while reducing repeated-bout output; acute strain is not chronic-superiority proof;
-9. exercise mode retained as part of the stimulus; current running/cycling evidence does not establish interchangeability;
-10. frequency retained as dose distribution; current untrained cycling SIT evidence does not support a simple more-sprints→more-VO2max law;
-11. phosphagen-focused training retained as brief high-power/output-preservation bias, not PCr-only work;
-12. glycolytic-focused training retained as sustained high-rate/denser demand, not lactate chasing;
-13. oxidative-focused training can include continuous work, HIIT and SIT; tVO2max remains an acute exposure metric rather than a validated chronic dose;
-14. mixed-demand training can improve multiple qualities but does not imply one protocol maximizes every outcome;
-15. current SIT+RT evidence shows no clear pooled strength/power interference signal, but does not prove absence of interference in every concurrent design;
-16. specificity retained as multidimensional and graded; general physiological adaptation is non-equivalent to target-task transfer;
-17. study-level meta-regression “optima” are not retained as individual prescriptions;
-18. canonical `BIO-13_energy_system_development.md` created;
-19. evidence ledger `BIO13-01…BIO13-10` finalized;
-20. BIO-13 = **CLOSED_FOR_PRACTICE v2.0**.
+1. exact Area 05 Section 14 coverage = **7/7 at content/scope level**;
+2. no content-level blocker was found;
+3. anaerobic power and anaerobic capacity retained as distinct constructs: rate/output vs finite integrated high-intensity capability;
+4. external mechanical power retained as non-equivalent to ATP-production rate;
+5. peak power and mean power retained as distinct operational outputs; neither is mapped one-to-one to phosphagen or glycolytic metabolism;
+6. mean power is not retained as a direct biochemical anaerobic-capacity measurement;
+7. repeated-bout ability retained as distinct from first-bout peak power and dependent on recovery state;
+8. repeated high-intensity performance retained as mixed-metabolic because oxidative ATP supports PCr resynthesis and recovery;
+9. PCr recovery remains oxidative and variable; no fixed rest→%PCr or full-performance-recovery rule is retained;
+10. fatigue/decrement metrics are not retained as one-mechanism biomarkers and can be confounded by initial output;
+11. Wingate-type outputs are retained as protocol-specific performance metrics rather than direct pathway measurements;
+12. MAOD/oxygen-deficit and PCr–La–O2 approaches remain model-derived/indirect rather than direct in-vivo pathway-flux measurements;
+13. testing methods remain TST-owned for reliability, validity, standardization, familiarization, scaling and MDC;
+14. current external PubMed/web search did not return usable results in this PASS, therefore no new unverified test-specific PMID was introduced;
+15. **PASS-02 must reattempt current external verification before closure**;
+16. BIO-14 remains **not CLOSED_FOR_PRACTICE**;
+17. canonical BIO-14 finding and final BIO14 evidence-ledger rows are intentionally not created before closure audit;
+18. PASS-01 defines **33 unresolved audit checks** for PASS-02.
 
 ### Следующая задача
 
-**BIO-14/PASS-01 — Anaerobic power and capacity content revalidation.**
+**BIO-14/PASS-02 — Closure audit and synthesis.**
 
-BIO-13 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-14 only after the next user continue signal; one signal = one saved PASS/block → STOP.
+BIO-14 is **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING** after PASS-01. Start PASS-02 only after the next user continue signal; one signal = one saved PASS/block → STOP.
 
 ---
 
@@ -240,9 +239,9 @@ BIO-13 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-14 only after th
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-13/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-14/PASS-01_anaerobic_power_capacity_content_revalidation.md`
 
-Затем при следующем пользовательском continue выполнить только записанный выше **BIO-14/PASS-01 — Anaerobic power and capacity content revalidation** и остановиться перед следующим блоком.
+Затем при следующем пользовательском continue выполнить только записанный выше **BIO-14/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
