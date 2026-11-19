@@ -35,17 +35,41 @@ Established:
 13. symptom-level/transdiagnostic research remains vulnerable to measurement heterogeneity;
 14. a 78-question Psychopathology Foundations Inference Gate and 18/18 closure audit are canonical.
 
+### CLN-02 — Psychopathology mechanisms and course
+
+Status: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**
+
+Canonical block:
+
+`CLN-02_psychopathology_mechanisms_course_transdiagnostic_onset_maintenance_remission_recurrence_state_trait_causal_limits.md`
+
+Established:
+
+1. onset, maintenance, persistence, remission, recovery, relapse, and recurrence are distinct course targets;
+2. risk marker, risk factor, protective factor, mediator, moderator, and mechanism are noninterchangeable;
+3. transdiagnostic breadth does not establish universality or causal mechanism;
+4. repetitive negative thinking has strong transdiagnostic evidence but is not universalized into one cause;
+5. broad emotion-regulation impairment is robust across disorders while temporal/causal direction remains bounded;
+6. between-person liability and within-person process are separate estimands;
+7. repeated/EMA measurement improves temporal resolution but does not create causal identification;
+8. stress generation is modeled as reciprocal person–environment feedback without blame;
+9. remission does not prove mechanism removal and recurrence does not prove mechanism identity;
+10. fixed relapse/recurrence boundaries are treated as operational where empirical discontinuity is unsupported;
+11. longitudinal precedence, mediation, symptom networks, MR, and quasi-experimental estimates remain assumption-bound;
+12. resilience and protective processes are contextual, time-dependent, and outcome-dependent rather than fixed traits;
+13. an 82-question Psychopathology Mechanisms / Course Inference Gate and 18/18 closure audit are canonical.
+
 ## Next dependency
 
-**CLN-02 — Psychopathology mechanisms and course: transdiagnostic processes, onset/maintenance/remission, recurrence, risk/protective factors, state-trait separation, and causal-model limits.**
+**CLN-03 — Disorder-family pattern recognition and exclusion boundaries: internalizing, psychotic-spectrum, bipolar-spectrum, obsessive-compulsive-related, trauma-related, eating, somatic/dissociative, substance-related, and personality pathology — without encyclopedic criterion memorization.**
 
-This block closes the mechanism/course gap intentionally left open by CLN-01.
+Purpose: learn the high-value discriminating architecture among major disorder families, identify important medical/substance/developmental exclusions, and prevent category confusion while preserving diagnosis != mechanism.
 
 ## Content rule
 
 Add a new block only when it closes a real qualification dependency for reliable general psychological reasoning.
 
-Do not build a disorder-by-disorder encyclopedia.
+Do not build a disorder-by-disorder encyclopedia or memorize criteria without an inference purpose.
 
 ## Privacy boundary
 
