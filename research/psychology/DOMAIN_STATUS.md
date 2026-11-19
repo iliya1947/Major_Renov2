@@ -27,7 +27,7 @@ Status: **COMPLETE_FOR_CURRENT_SCOPE**.
 
 ## Phase C — applied and clinical interfaces
 
-Status: **IN PROGRESS**.
+Status: **COMPLETE_FOR_CURRENT_SCOPE**.
 
 | Domain | Status |
 |---|---|
@@ -37,11 +37,13 @@ Status: **IN PROGRESS**.
 | REL | COMPLETE_FOR_CURRENT_SCOPE — REL-01/02 complete |
 | DEC | COMPLETE_FOR_CURRENT_SCOPE — DEC-01/02 complete |
 | SAF | COMPLETE_FOR_CURRENT_SCOPE — SAF-01/02 complete |
-| ETH | IN_PROGRESS — ETH-01 complete; ETH-02 next |
+| ETH | COMPLETE_FOR_CURRENT_SCOPE — ETH-01/02 complete |
 
 ## Phase D — integration
 
 Status: **NOT_STARTED**.
+
+**Next:** Step 1 — cross-domain contradiction audit.
 
 1. cross-domain contradiction audit;
 2. evidence-to-individual transfer rules;
