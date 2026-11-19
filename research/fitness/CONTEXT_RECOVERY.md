@@ -193,7 +193,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-13 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-14 — Attention and focus — RESEARCHING**.
+Последняя закрытая тема: **NEU-14 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-15 — Feedback — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -243,35 +245,41 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-14/PASS-01_attention_and_focus_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-14/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `9c4d82b8f7e798fa81e7bb0c0769c0eac6973f09`  
-Evidence-ledger commit: `a222709d35fd0b066b32d0f7d3346c9f558bec26`
+PASS commit: `982d4b929b6194934d48023ed6bd71a15adbaf80`  
+Canonical finding commit: `cc16be36944940f895f446e4ed867b5f3dcda71b`  
+Evidence-ledger refinement commit: `9d67b77ec14e9c8e2cae384f339ad5aa6688e307`
 
-NEU-14/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-14/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 14 coverage = **10/10 at content level**;
-2. internal/external focus are attentional-direction constructs, not explicit/implicit learning labels;
-3. older meta-analytic evidence favoring external focus is materially challenged by 2024 reporting-bias-adjusted reanalysis; universal external superiority is not retained;
-4. 2026 network meta-analysis shows cue classification and expertise materially alter attentional-focus rankings;
-5. no-focus/control conditions do not guarantee absence of attentional focus; neutral/minimal cueing remains a practical option, not a process-pure state;
-6. attentional breadth (narrow/broad) is orthogonal to internal/external direction; direct compound-lift breadth evidence is sparse;
-7. concurrent cognitive load can impair explicit learning components, but no universal cue-count threshold follows;
-8. dual-task cost probes attentional demand but is not a pure automaticity score;
-9. automaticity remains graded and task specific;
-10. internal focus can be useful for diagnosed correction, proprioception or target-muscle recruitment, but EMG/performance outcomes are not durable technique-learning evidence;
-11. resistance-exercise evidence is outcome dependent: external focus can improve some acute strength/endurance/velocity outcomes, while internal target-muscle focus can alter recruitment and in one small RCT increased elbow-flexor hypertrophy;
-12. reinvestment/conscious control is not universally harmful, but risk of performance decrement increases in some pressure/object-manipulation/speed contexts;
-13. direct delayed retention/transfer evidence for compound-lift attentional-focus strategies remains sparse;
-14. no content-level blocker was found; independent closure audit remains required.
+1. exact Area 04 Section 14 coverage = **10/10 PASS**;
+2. internal focus is not universally harmful;
+3. external focus is often useful but universal superiority is rejected after reporting-bias correction;
+4. newest 2026 complex-manual-skill evidence favoring external focus is retained as task-specific positive evidence, not a field-level reversal;
+5. attentional-focus conclusions are classification-sensitive; actual cue wording matters;
+6. distal external focus is not governed by a universal “farther is better” law;
+7. expertise is a plausible moderator without a universal tier prescription;
+8. no-focus/control conditions are not process-neutral;
+9. holistic focus is legitimate but under-replicated;
+10. attentional breadth is distinct from internal/external direction;
+11. cognitive load can compete with deliberate learning, but no universal cue-count threshold follows;
+12. dual-task cost is not a pure automaticity metric;
+13. automaticity remains graded and task specific;
+14. internal focus can be useful when body/proprioceptive/recruitment information is task relevant;
+15. acute RT force/EMG/endurance effects are not durable technique-learning evidence;
+16. reinvestment/conscious control is contextually risky rather than universally harmful;
+17. direct compound-lift attentional-focus retention/transfer evidence remains sparse;
+18. no project-relevant blocker remains;
+19. first canonical `NEU-14_attention_and_focus.md` created.
 
 ### Следующая задача
 
-**NEU-14/PASS-02 — Closure audit and synthesis.**
+**NEU-15/PASS-01 — Feedback content revalidation.**
 
-NEU-14 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-15 in the same working block.**
+NEU-14 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-15 in this completed NEU-14 working block.**
 
 ---
 
@@ -287,9 +295,9 @@ NEU-14 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-14/PASS-01_attention_and_focus_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-14/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-14/PASS-02 closure audit and synthesis** и остановиться перед NEU-15.
+Затем выполнить только записанный выше **NEU-15/PASS-01 feedback content revalidation** и остановиться перед следующим блоком.
 
 ---
 
