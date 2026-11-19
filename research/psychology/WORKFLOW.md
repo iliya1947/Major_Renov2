@@ -33,8 +33,9 @@ CLN: **COMPLETE_FOR_CURRENT_SCOPE** after CLN-03.
 NDEV: **COMPLETE_FOR_CURRENT_SCOPE** after NDEV-02.  
 BHC: **COMPLETE_FOR_CURRENT_SCOPE** after BHC-02.  
 REL: **COMPLETE_FOR_CURRENT_SCOPE** after REL-02.  
-Current next domain: DEC.  
-Next block: DEC-01 — judgment and decision foundations.
+Current domain: DEC — **IN PROGRESS**.  
+DEC-01: **CLOSED_FOR_PRACTICE v1.0**.  
+Next block: DEC-02 — applied decision quality and forecasting.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 Canonical BHC storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
