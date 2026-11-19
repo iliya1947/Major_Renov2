@@ -8,7 +8,7 @@ Phase D does not add domains merely for completeness. It integrates the already 
 
 ## Current state
 
-**Phase D: IN PROGRESS.**
+**Phase D: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### INT-01 — Cross-domain contradiction audit
 
@@ -98,19 +98,38 @@ Established:
 9. final pre-response anti-overclaim control;
 10. 96-question Checklist Architecture Audit.
 
-## Next block
+### INT-05 — Final sufficiency audit
 
-**INT-05 — Final sufficiency audit for project purpose.**
+Status: **COMPLETE_FOR_CURRENT_SCOPE v1.0 — 24/24 PASS — GO FOR STAGE 2 WITH SCOPE CONTROLS**
 
-Goal: determine whether the full qualification stack is sufficient to leave the qualification stage and begin systematic private application.
+Canonical block:
 
-## Planned Phase D sequence
+`INT-05_final_sufficiency_audit_stage2_readiness_requalification_contract.md`
+
+Established:
+
+1. Stage 1 qualification is complete for the current project purpose;
+2. Phase D integration is complete for current scope;
+3. Stage 2 systematic private application is ready to begin;
+4. qualification closure is scope-relative rather than encyclopedic/permanent;
+5. psychiatry/psychopharmacology, behavioral genetics, psychoanalysis/psychodynamics, and formal systems modeling remain trigger-based specialty gaps;
+6. mutable/current claims require exact source/version verification at time of use;
+7. no-go boundaries for diagnosis, prescribing, capacity/legal/forensic authority, and sole high-stakes AI decision making remain active;
+8. the first private task is baseline reconciliation of the current private psychological model against the completed qualification stack;
+9. no next generic qualification block is scheduled;
+10. requalification reopens only on an explicit trigger.
+
+## Phase D final state
 
 1. INT-01 — cross-domain contradiction audit — **complete**;
 2. INT-02 — evidence-to-individual transfer rules — **complete**;
 3. INT-03 — analytic error taxonomy — **complete**;
 4. INT-04 — reusable reasoning checklists — **complete**;
-5. INT-05 — final sufficiency audit for project purpose — **next**.
+5. INT-05 — final sufficiency audit — **complete**.
+
+**Stage 1 qualification: COMPLETE_FOR_CURRENT_SCOPE.**
+
+**Stage 2 private application: READY_TO_BEGIN.**
 
 ## Privacy boundary
 
