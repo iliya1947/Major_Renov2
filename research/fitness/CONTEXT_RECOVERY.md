@@ -259,40 +259,36 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-21/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-22/PASS-01_application_to_resistance_exercise_revalidation.md`
 
-PASS commit: `d016d7ff901a799fbdd4ffba64c336147cdbb2f6`  
-Canonical finding commit: `c3343eb167b26d23a9cfd929120e04ab39ea586e`  
-Evidence ledger: existing `NEU21-01…NEU21-13` re-audited; no closure-critical rewrite required.
+PASS commit: `d979aa4228a220be28d56ae14bb19da3ef503f23`  
+Evidence ledger commit: `d6eee8a151570a316cfc3477f5ec2c75092fdd15`  
+Evidence ledger: `NEU22-01…NEU22-08` added with **closure audit pending** status.
 
-NEU-21/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-22/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 21 coverage = **10/10 PASS at content/scope level**;
-2. training age is a crude descriptor and is not equivalent to task-specific expertise;
-3. healthy aging effects are learning-process specific rather than globally negative;
-4. biological age requires an explicit measure and is not calendar age;
-5. prior motor experience can facilitate, interfere or fail to transfer;
-6. skilled dominance is predominantly task/practice specific;
-7. interlimb transfer can be asymmetric without implying a universal side-first rule;
-8. working-memory/cognitive capacities can moderate learning but do not define one learner type;
-9. attention profile is multidimensional and does not prescribe attentional focus;
-10. ADHD-specific instructional design remains Area 12 / PSY-COA;
-11. fatigue effects are heterogeneous and protocol/state dependent;
-12. stable fatigue sensitivity requires repeated task-specific evidence;
-13. cue preference can inform testing but does not establish durable cue superiority;
-14. anthropometry remains Area 02/MEC;
-15. individualization should be empirical, repeatable and dynamic;
-16. group moderators are hypothesis generators, not personal prescriptions;
-17. no project-relevant blocker remains;
-18. first canonical `NEU-21_individual_differences.md` created.
+1. exact Area 04 Section 22 coverage = **8/8 at content/scope level**;
+2. acquisition performance remains distinct from delayed retention;
+3. stable technique is operationalized as repeatable satisfaction of justified task criteria, not identical kinematics;
+4. no universal light→working-load motor-learning threshold was found;
+5. target-load exposure is required when target-load execution matters, but exact progression belongs PRO/TEC;
+6. increasing intensity/fatigue changes velocity, timing, mechanics and variability, so high-load execution is not merely light-load execution scaled up;
+7. technical failure is separated from momentary muscular failure, volitional termination and velocity loss;
+8. exact technical-failure criteria remain exercise/goal specific and belong MEC/TEC/MED;
+9. exercise complexity should serve the target rather than be retained for its own sake;
+10. structured variability is distinct from random variability; current direct squat evidence does not prove superior delayed learning;
+11. transfer between related resistance exercises must be tested in the target task;
+12. strength specificity/transfer does not establish compound-lift motor-skill transfer;
+13. no content-level blocker remains;
+14. no canonical NEU-22 finding was created because closure audit is still required.
 
 ### Следующая задача
 
-**NEU-22/PASS-01 — Application to resistance exercise content revalidation.**
+**NEU-22/PASS-02 — Closure audit and synthesis.**
 
-NEU-21 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-22 in this completed NEU-21 working block.**
+NEU-22 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start BIO in this completed NEU-22/PASS-01 working block.**
 
 ---
 
@@ -308,9 +304,9 @@ NEU-21 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-21/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-22/PASS-01_application_to_resistance_exercise_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-22/PASS-01 application to resistance exercise content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-22/PASS-02 closure audit and synthesis** и остановиться перед BIO.
 
 ---
 
