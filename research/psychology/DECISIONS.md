@@ -76,3 +76,19 @@ Private model может выявить generic gap, но вопрос пере�
 Последствия: что меняется.
 
 Reconsideration trigger: когда решение должно быть пересмотрено.
+
+
+### Решение 10
+**Номера каталогов qualification являются storage IDs, а не порядком программы.**
+
+Причина: активный dependency map эволюционировал, тогда как исторические пути 01–20 уже используются материалами и не должны перенумеровываться.
+
+Основания: `RESEARCH_ORDER.md`, фактическая структура `qualification/`, control-layer audit при закрытии CLN-03.
+
+Последствия:
+1. порядок определяет только `RESEARCH_ORDER.md`;
+2. существующие пути сохраняются;
+3. новый NDEV domain получает `21_neurodevelopmental_conditions/`;
+4. следующий новый domain без storage path получает стабильный новый каталог до начала research block.
+
+Reconsideration trigger: отдельное решение о миграции всей storage architecture.
