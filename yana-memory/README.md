@@ -35,5 +35,7 @@
 ## Каноническое расположение
 
 - Репозиторий: `iliya1947/Major_Renov2`
+- PR: **#7**
 - Ветка: `docs/yana-memory`
 - Путь: `yana-memory/`
+- ID: `yana-pr7-20261119`
