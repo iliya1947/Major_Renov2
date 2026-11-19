@@ -10,6 +10,7 @@
 - **Phase C — Applied and clinical interfaces: COMPLETE_FOR_CURRENT_SCOPE.**
 - **Phase D — Integration: IN PROGRESS.**
 - **INT-01 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
+- **INT-02 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
@@ -1218,11 +1219,39 @@ Established:
 
 **Phase D: IN PROGRESS.**
 
+## Phase D / INT-02 completed
+
+### INT-02 — Evidence-to-individual transfer rules
+
+Canonical block:
+`research/psychology/qualification/26_integration/INT-02_evidence_to_individual_transfer_provenance_applicability_confidence_model_update.md`
+
+Established:
+
+1. person-level inference operates on typed propositions rather than one global narrative about the person;
+2. provenance classes separate direct report, observation, structured measure, record, third-party report, physiological/digital proxy, population evidence, AI-generated inference, and existing private-model priors;
+3. directness is claim-relative: direct behavior evidence does not become direct motive/trait/mechanism evidence;
+4. population transfer requires construct, measurement, population, context, timescale, outcome, mechanism, and use applicability checks;
+5. L0–L6 Individual Evidence Levels are proposition-specific rather than whole-person scores;
+6. evidence-dependency graphs prevent dependent repetition and propagate critical-premise corrections;
+7. OPEN/LOW/MODERATE/HIGH/VERY HIGH confidence is claim-specific and ordinal;
+8. S0–S4 stakes and U0–U5 use permission are independent from epistemic confidence;
+9. private-model decisions explicitly include NO UPDATE, RETAIN, STRENGTHEN, WEAKEN, SPLIT, MERGE, REVISE RELATION, RETIRE, and ADD NEW HYPOTHESIS;
+10. correction/contestability can suspend a disputed proposition from consequential downstream use;
+11. safety/medical/legal routing can change action without upgrading truth certainty;
+12. information gathering is controlled by discriminating value and privacy burden;
+13. the blank PRIVATE_MODEL_UPDATE_CARD is upgraded to v2 and aligned with this protocol;
+14. a 144-question Integrated Evidence-to-Individual Transfer Gate and 20/20 closure audit are canonical.
+
+**INT-02: CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
+
+**Phase D: IN PROGRESS.**
+
 ## Current next action
 
-**INT-02 — Evidence-to-individual transfer rules.**
+**INT-03 — Analytic error taxonomy.**
 
-Goal: create one reusable protocol for translating population/domain evidence into private person-specific propositions while preserving provenance, direct/proxy evidence distinctions, population/subgroup priors, repeated within-person evidence, state/trait/timescale typing, construct/measurement validity, causal alternatives, context/development/culture, contradiction handling, confidence updating, ethics/stakes, safety overrides, correction propagation, and model-update thresholds.
+Goal: unify ERROR_LEDGER classes, domain-specific failure modes, INT-01 cross-domain errors, and INT-02 transfer/model-maintenance errors into one taxonomy organized by where reasoning fails, with detection rules and regression guards.
 
 ## Deferred
 
