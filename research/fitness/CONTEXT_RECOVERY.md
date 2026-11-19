@@ -131,8 +131,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-07 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 7 closure **10/10 PASS**;
 - BIO-08 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 8 closure **10/10 PASS**;
 - BIO-09 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 9 closure **9/9 PASS**;
-- BIO-10 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 10 coverage **9/9 at content/scope level**;
-- **CURRENT NEXT: BIO-10/PASS-02 — Closure audit and synthesis.**
+- BIO-10 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 10 closure **9/9 PASS**;
+- **CURRENT NEXT: BIO-11/PASS-01 — Metabolic fatigue and limiting factors content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -182,36 +182,34 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-10/PASS-01_substrate_depletion_repletion_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-10/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `f864b562b937a5399208e49f2b3600a5f0b2d3ff`
+PASS commit: `f6d4d748e1d191ab85bcb49bfcc5226ba46cd5c0`
 
-BIO-10/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-10/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 10 coverage = **9/9 at content/scope level**;
-2. PCr depletion/repletion retained as rapid and oxidative, with no universal full-repletion time;
-3. muscle glycogen depletion retained as task/recruitment dependent and heterogeneous;
-4. resistance exercise retained as capable of materially depleting local glycogen with wide protocol variability;
-5. low glycogen kept distinct from zero glycogen and from a complete fatigue diagnosis;
-6. muscle and liver glycogen kept as distinct stores with different roles/recovery kinetics;
-7. liver glycogen concentration kept distinct from total liver glycogen content when organ volume changes;
-8. IMTG/IMCL retained as an endurance substrate with fibre/mode/method-dependent use and distinct repletion kinetics;
-9. blood glucose kept as a regulated circulating concentration/flux, not a storage depot;
-10. recovery time course retained as substrate specific rather than one universal recovery clock;
-11. nutritional effects on repletion retained as pool specific;
-12. early carbohydrate availability can affect short-term glycogen synthesis, but timing is not the only determinant of 24-h restoration/performance;
-13. substrate repletion kept non-equivalent to functional recovery/readiness;
-14. endurance, sprint/HIIT and resistance exercise retained as producing different depletion profiles;
-15. no content-level blocker found;
-16. no canonical BIO-10 finding or finalized BIO10 evidence-ledger rows created before PASS-02.
+1. exact Area 05 Section 10 coverage = **9/9 PASS**;
+2. no project-relevant blocker remains;
+3. PCr retained as generally fast/oxidative recovery without a universal full-repletion time;
+4. resistance-exercise glycogen conclusion restricted by local-muscle, protocol and population heterogeneity; no universal depletion amount retained;
+5. muscle and liver glycogen remain distinct; faster liver recovery is protocol-specific rather than a universal ordering rule;
+6. liver glycogen concentration remains distinct from total content when liver volume changes;
+7. IMTG/IMCL terminology is method-labelled; no universal intramyocellular-lipid recovery clock remains because recovery can range from hours to ~24–48 h across different exercise/diet contexts;
+8. blood glucose remains a regulated concentration/flux, not a storage depot; hypoglycemia is not canonized as the universal sole endurance-fatigue mechanism;
+9. nutrition effects remain pool-specific and non-prescriptive; exact dose/timing belongs NUT;
+10. substrate restoration remains non-equivalent to functional recovery/readiness;
+11. training mode changes likely depletion profiles without creating fixed mode signatures;
+12. canonical `BIO-10_substrate_depletion_repletion.md` created;
+13. evidence ledger `BIO10-01…BIO10-10` finalized;
+14. BIO-10 = **CLOSED_FOR_PRACTICE v2.0**.
 
 ### Следующая задача
 
-**BIO-10/PASS-02 — Closure audit and synthesis.**
+**BIO-11/PASS-01 — Metabolic fatigue and limiting factors content revalidation.**
 
-BIO-10 remains **not CLOSED_FOR_PRACTICE** after PASS-01. After the next one block, save state and STOP. **Do not start BIO-11 unless BIO-10/PASS-02 independently authorizes closure and the user later gives the next continue signal.**
+BIO-10 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-11 only after the next user continue signal; one signal = one saved PASS/block → STOP.
 
 ---
 
@@ -233,9 +231,9 @@ BIO-10 remains **not CLOSED_FOR_PRACTICE** after PASS-01. After the next one blo
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-10/PASS-01_substrate_depletion_repletion_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-10/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-10/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
+Затем при следующем пользовательском continue выполнить только записанный выше **BIO-11/PASS-01 — Metabolic fatigue and limiting factors content revalidation** и остановиться перед следующим блоком.
 
 ---
 
