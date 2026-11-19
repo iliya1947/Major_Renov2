@@ -8,6 +8,7 @@
 - **Phase A — Research and inference methodology: CLOSED_FOR_PRACTICE v1.0.**
 - **Phase B — Core psychological science: IN PROGRESS.**
 - **COG-01 — CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS.**
+- **COG-02 — CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS.**
 
 ## Completed Phase A
 
@@ -25,38 +26,37 @@
 ## Phase B / COG completed
 
 ### COG-01 — Cognition foundations: architecture, scope, and core distinctions
-
 Canonical block:
-
 `research/psychology/qualification/03_cognitive_psychology/COG-01_cognition_foundations_architecture_scope_distinctions.md`
+
+### COG-02 — Perception: sensory evidence, representations, and contextual/top-down effects
+Canonical block:
+`research/psychology/qualification/03_cognitive_psychology/COG-02_perception_sensory_evidence_representations_context.md`
 
 Established:
 
-1. cognition is a family of interacting functions, not one unitary faculty;
-2. a recurrent interaction map is preferred over rigid serial boxology;
-3. perception != attention;
-4. attention != cognitive control;
-5. working memory != attention, cognitive control, or long-term memory;
-6. episodic and semantic memory are distinguished but interacting;
-7. memory is reconstructive rather than literal recording;
-8. semantic cognition != language;
-9. reasoning/inference is a heterogeneous functional family, not one agreed module;
-10. reasoning != rationality != decision-making;
-11. language is distinguishable from general knowledge/reasoning while strongly interacting with them;
-12. learning is experience-dependent change and is functionally distinguished from memory;
-13. process != representation != task != ability != performance;
-14. task impurity is a mandatory interpretation constraint;
-15. capacity limits do not imply one universal scalar resource;
-16. automatic/controlled is not treated as a simple binary;
-17. domain-specific and domain-general mechanisms can coexist;
-18. intelligence is not used as a synonym for cognition;
-19. downstream COG routing is explicit.
+1. sensory input != perceptual representation;
+2. perception is cross-modal but modality-specific effects cannot be generalized automatically;
+3. perceptual representations transform rather than copy sensory input;
+4. spatial, temporal, learned, and multisensory context can alter perceptual processing;
+5. bottom-up/top-down is a useful functional distinction but not a clean binary;
+6. cognitive penetrability is treated as a modality- and mechanism-dependent question;
+7. Bayesian/predictive models are candidate computational accounts, not settled universal mechanisms;
+8. explicit and implicit priors are distinguished;
+9. attention can alter perceptual performance without being identical to perception;
+10. sensitivity/discriminability != response criterion/bias;
+11. perceptual task performance is decomposed into sensory encoding, readout, decision, and report/action stages;
+12. multisensory integration includes source/causal assignment, not only cue averaging;
+13. perception–action coupling and self-generated sensory consequences are explicit;
+14. perceptual representation != conceptual/social interpretation;
+15. a five-level perceptual measurement hierarchy is canonical;
+16. a 34-question Perception Inference Gate is canonical.
 
 ## Current next action
 
-**COG-02 — Perception: sensory evidence, representations, and contextual/top-down effects.**
+**COG-03 — Attention: selection, priority, capture, sustained attention, and control interfaces.**
 
-Goal: establish how sensory evidence becomes perceptual representation, how bottom-up evidence and prior/contextual information interact, where attention/control enter, and what can and cannot be inferred from perceptual performance.
+Goal: establish a current architecture of attentional selection, competition, priority maps, voluntary and stimulus-driven capture, selection history, sustained attention/vigilance, divided attention, and the boundary between attention and cognitive control.
 
 Target domain:
 
