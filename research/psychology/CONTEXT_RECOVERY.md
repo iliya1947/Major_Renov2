@@ -40,7 +40,7 @@ If control files disagree:
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **IN PROGRESS**.
-- Current domain: **DEC / judgment, decision-making, heuristics, and risk — IN PROGRESS**.
+- Current domain: **SAF / safety boundaries, crisis recognition, and referral thresholds — NEXT**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
@@ -55,13 +55,14 @@ If control files disagree:
 - REL-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - REL sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - DEC-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- DEC sequence: **IN PROGRESS**.
-- Next block: **DEC-02 — Applied decision quality and forecasting: probabilistic forecasting/scoring, overconfidence decomposition, advice/aggregation, multi-attribute decisions, value of information, reversible versus irreversible decisions, decision aids, debiasing durability, real-world/ecological validity, and person-level decision competence**.
-- Target directory: `research/psychology/qualification/19_decision_strategy_and_prediction/`.
+- DEC-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
+- DEC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
+- Next block: **SAF-01 — Safety and crisis foundations: acute-risk recognition, emergency/urgent/routine thresholds, direct-versus-inferred risk evidence, uncertainty, medical/psychiatric escalation boundaries, remote-assessment limits, and referral logic**.
+- Target directory: `research/psychology/qualification/24_safety_crisis_referral_thresholds/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/19_decision_strategy_and_prediction/DEC-01_judgment_decision_foundations_normative_descriptive_risk_uncertainty_heuristics_framing_calibration_choice_architecture.md`
+`research/psychology/qualification/19_decision_strategy_and_prediction/DEC-02_applied_decision_quality_forecasting_information_value_aggregation_aids_debiasing_real_life_sufficiency_audit.md`
 
 ## 5. Cabinet architecture state
 
@@ -131,6 +132,6 @@ Stop immediately if:
 
 After recovery, the next qualification block remains:
 
-**DEC-02 — Applied decision quality and forecasting: probabilistic forecasting/scoring, overconfidence decomposition, advice/aggregation, multi-attribute decisions, value of information, reversible versus irreversible decisions, decision aids, debiasing durability, real-world/ecological validity, and person-level decision competence.**
+**SAF-01 — Safety and crisis foundations: acute-risk recognition, emergency/urgent/routine thresholds, direct-versus-inferred risk evidence, uncertainty, medical/psychiatric escalation boundaries, remote-assessment limits, and referral logic.**
 
-Canonical target: `research/psychology/qualification/19_decision_strategy_and_prediction/`.
+Canonical target: `research/psychology/qualification/24_safety_crisis_referral_thresholds/`.
