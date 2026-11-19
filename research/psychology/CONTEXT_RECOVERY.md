@@ -25,12 +25,13 @@ Use this file to recover work after a new chat or lost context.
 - `COG-03`: **CLOSED_FOR_PRACTICE v1.0 — 15/15 PASS**.
 - `COG-04`: **CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS**.
 - `COG-05`: **CLOSED_FOR_PRACTICE v1.0 — 17/17 PASS**.
-- Next block: `COG-06 — Semantic cognition and concepts: representation, categorization, abstraction, and semantic control`.
+- `COG-06`: **CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS**.
+- Next block: `COG-07 — Reasoning and inference: deduction, induction, probabilistic, relational, causal, and model-based inference`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/03_cognitive_psychology/COG-05_long_term_memory_encoding_consolidation_retrieval_reconstruction.md`
+`research/psychology/qualification/03_cognitive_psychology/COG-06_semantic_cognition_concepts_representation_control.md`
 
 ## Hard stop condition
 
