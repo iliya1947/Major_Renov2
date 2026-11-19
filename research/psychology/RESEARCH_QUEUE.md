@@ -18,6 +18,8 @@
 - **PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **DEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **NEU sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- **PSYCHOMETRICS sequence: IN PROGRESS.**
+- **PSYCHOMETRICS-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -717,11 +719,37 @@ Established:
 
 **NEU sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase B / PSYCHOMETRICS in progress
+
+### PSYCHOMETRICS-01 — Applied measurement foundations
+
+Canonical block:
+`research/psychology/qualification/02_psychometrics_and_assessment/PSYCHOMETRICS-01_applied_measurement_score_meaning_precision_validity_invariance_norms_change_individual_interpretation.md`
+
+Established:
+
+1. score, construct, scoring model, and interpretation are distinct;
+2. validity remains interpretation/use specific;
+3. reliability is population/procedure dependent and does not equal validity;
+4. group-level reliability does not guarantee precision of an individual score;
+5. SEM and conditional SEM are required where score-level precision matters;
+6. total scores, subscores, and factor scores require structure- and score-specific support;
+7. measurement invariance and DIF constrain group, language, mode, and longitudinal comparisons;
+8. target, reference, and normative populations are distinct;
+9. percentiles and standardized scores are reference-dependent rather than absolute trait units;
+10. cut scores are decision rules; decision consistency and decision accuracy are separate targets;
+11. raw change, reliable change, responsiveness, and meaningful change are distinct;
+12. 2026 evidence shows RCI operationalization is materially inconsistent across clinical trials, so the exact method and inputs must be specified;
+13. technology-based and automated assessment does not bypass validity, fairness, and precision requirements;
+14. a 72-question Applied Psychometrics Inference Gate and 18/18 closure audit are canonical.
+
+**PSYCHOMETRICS sequence: IN PROGRESS.**
+
 ## Current next action
 
-**PSYCHOMETRICS-01 — Applied measurement foundations: score meaning, reliability, validity, dimensionality, measurement invariance, norms, change, and individual interpretation.**
+**PSYCHOMETRICS-02 — Latent-variable and item-response measurement: CTT vs IRT/Rasch, item information, local independence, DIF, factor scores, scoring, test construction, and person-level model limits.**
 
-Goal: move from generic research-method psychometrics to applied person-level measurement and interpretation, with explicit score-meaning, reliability, validity, invariance, norming, change, and decision boundaries.
+Goal: close the item-level and model-based measurement gap explicitly deferred by Phase A and required for evaluating modern psychological instruments beyond classical reliability/norming.
 
 Target domain:
 
