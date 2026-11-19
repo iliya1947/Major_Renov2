@@ -31,6 +31,7 @@ This directory contains storage locations for Kira's structured psychology quali
 23. `23_interpersonal_relationships_attachment_conflict_communication/` — Interpersonal processes, attachment, conflict, and communication (canonical REL Phase C storage)
 24. `24_safety_crisis_referral_thresholds/` — Safety boundaries, crisis recognition, and referral thresholds (canonical SAF Phase C storage)
 25. `25_ethics_individualized_inference_ai_analysis/` — Ethics of individualized psychological inference and AI-assisted analysis (canonical ETH Phase C storage)
+26. `26_integration/` — Phase D cross-domain integration (canonical INT storage)
 
 ## Privacy rule
 
