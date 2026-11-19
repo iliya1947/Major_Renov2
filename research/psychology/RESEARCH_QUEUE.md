@@ -10,6 +10,7 @@
 - **COG-01 — CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS.**
 - **COG-02 — CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS.**
 - **COG-03 — CLOSED_FOR_PRACTICE v1.0 — 15/15 PASS.**
+- **COG-04 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
 
 ## Completed Phase A
 
@@ -38,29 +39,35 @@ Canonical block:
 Canonical block:
 `research/psychology/qualification/03_cognitive_psychology/COG-03_attention_selection_priority_capture_sustained_attention.md`
 
+### COG-04 — Working memory
+Canonical block:
+`research/psychology/qualification/03_cognitive_psychology/COG-04_working_memory_maintenance_updating_capacity_interference.md`
+
 Established:
 
-1. attention is a family of priority/selection processes, not one scalar resource;
-2. priority control and implementation of selection are distinct;
-3. goal-directed, stimulus-driven, and selection-history influences jointly shape priority;
-4. selection history can also bias voluntary strategy;
-5. spatial, feature, object, temporal, overt/covert, internal/external forms are distinguished;
-6. attention != perception != working memory != cognitive control != arousal != awareness;
-7. sustained attention and vigilance overlap but are not treated as exact synonyms;
-8. vigilance decrement is a phenomenon with multiple candidate mechanisms;
-9. mind wandering is one contributor to lapses, not a universal explanation;
-10. divided-attention costs are not reduced to one universal resource;
-11. visual search and attentional blink are mixed paradigms rather than pure capacity meters;
-12. distractor suppression mechanisms are not collapsed into "ignoring";
-13. attentional task performance is state-dependent and task-impure;
-14. stable attentional trait claims require repeated cross-task/context evidence;
-15. a 33-question Attention Inference Gate is canonical.
+1. WM is defined functionally through maintenance, updating, limited capacity, and interference control rather than one fixed architecture;
+2. working memory != short-term memory;
+3. multicomponent, embedded-processes/state-based, resource/precision, and interference accounts remain distinct live model families;
+4. maintenance != updating != removal;
+5. item memory != binding/relational memory;
+6. capacity is not one universal item count;
+7. chunking, encoding granularity, and long-term knowledge change apparent capacity;
+8. working memory != attention != cognitive control, despite strong interfaces;
+9. interference is central and delay effects are not automatically pure decay;
+10. WM and LTM exchange information bidirectionally;
+11. WM is not established as a simple obligatory gateway into LTM;
+12. simple span, complex span, n-back, reference-back, change-detection, and continuous-report paradigms are not interchangeable;
+13. WMC scores can reflect control/interference-management demands in addition to storage;
+14. working-memory task performance is state-dependent and task-impure;
+15. trained-task improvement != general WM-capacity increase;
+16. ecological cognition can use resampling and external offloading;
+17. a 39-question Working Memory Inference Gate is canonical.
 
 ## Current next action
 
-**COG-04 — Working memory: maintenance, updating, capacity, interference, and attention/LTM interfaces.**
+**COG-05 — Long-term memory: encoding, consolidation, retrieval, episodic/semantic structure, forgetting, and reconstruction.**
 
-Goal: establish what working memory is and is not, compare major live models without prematurely choosing one, separate maintenance/updating/binding/interference/capacity, and define how working-memory task performance can be interpreted.
+Goal: establish the architecture of long-term declarative memory, separate encoding/storage/consolidation/retrieval failures, distinguish episodic and semantic functions, model forgetting/reconstruction, and define limits on autobiographical-memory inference.
 
 Target domain:
 
