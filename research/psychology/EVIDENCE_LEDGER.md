@@ -18,6 +18,10 @@
 | PSY-G12 | Intrusive thought content does not establish desire or intent; form/function and safety assessment are separate | CLN-03 | HIGH | OCD/intrusive-thought reasoning | ACCEPTED |
 | PSY-G13 | Normal or unrevealing medical tests do not establish psychological causation or somatic symptom disorder | CLN-03 | HIGH | Somatic/health-anxiety reasoning | ACCEPTED |
 | PSY-G14 | Enduring developmental/personality patterns must be separated from acquired episodic changes before family inference | CLN-03 | HIGH | NDEV/personality/mood differential | ACCEPTED |
+| PSY-G15 | Adult diagnosis does not establish adult onset; developmental origin and recognition are separate | NDEV-01 | HIGH | Adult ADHD/autism reasoning | ACCEPTED |
+| PSY-G16 | Executive-function weakness is not a diagnostic biomarker for ADHD or autism | NDEV-01; EXE; PSYCHOMETRICS | HIGH | NDEV cognitive-profile inference | ACCEPTED |
+| PSY-G17 | Camouflaging/masking can alter observability but is neither absence-of-autism evidence nor diagnostic proof of autism | NDEV-01 | HIGH | Autism assessment / late recognition | ACCEPTED |
+| PSY-G18 | ADHD and autism may co-occur; overlapping manifestations must not be double counted without independent evidence | NDEV-01 | HIGH | ADHD–autism differential | ACCEPTED |
 
 ## Правила
 
