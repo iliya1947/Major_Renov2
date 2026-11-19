@@ -344,20 +344,20 @@
 - Glycogen repletion is time/nutrient dependent; exact carbohydrate prescription remains BIO-10/NUT.
 - Glycolytic enzymes are trainable but responses are protocol/enzyme specific; enzyme activity/content is not a direct surrogate for in-vivo flux or performance.
 - Evidence ledger `BIO03-01…BIO03-10` finalized; first canonical `BIO-03_glycolysis.md` created.
-- **BIO-04 — RESEARCHING; PASS-01 COMPLETE.**
+- **BIO-04 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-04/PASS-01 lactate-metabolism content revalidation completed 2026-11-19; exact Area 05 Section 4 coverage = **9/9 at content/scope level**.
+- BIO-04/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 05 Section 4 coverage = **9/9 PASS** and no project-relevant blocker remains.
 - Lactate is retained as a recyclable metabolic intermediate/fuel rather than metabolic waste.
-- Lactate production, net tissue release, blood appearance/disappearance and blood concentration are explicitly separated; blood [lactate] is a balance variable rather than a direct production-flux measure.
-- Oxidation is a major lactate-disposal route during exercise; lactate-derived carbon can materially support oxidative metabolism.
+- Lactate production, net tissue release, blood appearance/disappearance (disposal) and blood concentration remain distinct; blood [lactate] is a balance variable rather than a direct production-flux measure.
+- Oxidation is a major lactate-disposal route during exercise; “clearance” is treated as shorthand rather than waste removal.
 - Cell-cell/interorgan lactate shuttling is strongly retained; exact intracellular mitochondrial-shuttle topology remains contested and is not hard-coded.
 - MCT1/MCT4 provide proton-coupled, gradient-dependent transport; typical MCT1-uptake/MCT4-efflux roles are physiological biases rather than irreversible directions.
 - Lactate thresholds/turnpoints are method-defined constructs; LT1/LT2/fixed concentrations/MLSS/CP-related boundaries are not universally interchangeable and 4 mmol/L is not a universal threshold.
-- Blood lactate and intramuscular lactate are related but non-equivalent; blood lactate is not a direct universal measure of local glycolytic ATP flux.
-- Lactate accumulation is not the cause of DOMS.
+- Blood lactate and intramuscular lactate remain non-equivalent; blood lactate is not a universal direct measure of local glycolytic ATP flux, although model-based estimates may be useful under validated assumptions.
+- Lactate accumulation does not cause DOMS.
 - Lactate is exercise responsive but is neither the sole cause nor a specific standalone marker of fatigue/readiness.
-- Evidence ledger `BIO04-01…BIO04-09` added with closure-audit-pending status.
-- No canonical BIO-04 finding created before closure audit.
-- CURRENT NEXT: **BIO-04/PASS-02 — Closure audit and synthesis.**
+- Evidence ledger `BIO04-01…BIO04-09` finalized; first canonical `BIO-04_lactate_metabolism.md` created.
+- CURRENT NEXT: **BIO-05/PASS-01 — Acid–base physiology and buffering content revalidation.**
 
 ## История текущего revalidation cycle
 
