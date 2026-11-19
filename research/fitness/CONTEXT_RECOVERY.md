@@ -195,7 +195,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-14 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-15 — Feedback — NOT STARTED**.
+Текущая тема: **NEU-15 — Feedback — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -245,41 +245,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-14/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-15/PASS-01_feedback_revalidation.md`
 
-PASS commit: `982d4b929b6194934d48023ed6bd71a15adbaf80`  
-Canonical finding commit: `cc16be36944940f895f446e4ed867b5f3dcda71b`  
-Evidence-ledger refinement commit: `9d67b77ec14e9c8e2cae384f339ad5aa6688e307`
+PASS commit: `25f74fa3ec27ae4a10a31790351754a718c9ed15`  
+Evidence-ledger commit: `cc9ce92ed24d2160be996038b84990fb823b3ff4`
 
-NEU-14/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-15/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 14 coverage = **10/10 PASS**;
-2. internal focus is not universally harmful;
-3. external focus is often useful but universal superiority is rejected after reporting-bias correction;
-4. newest 2026 complex-manual-skill evidence favoring external focus is retained as task-specific positive evidence, not a field-level reversal;
-5. attentional-focus conclusions are classification-sensitive; actual cue wording matters;
-6. distal external focus is not governed by a universal “farther is better” law;
-7. expertise is a plausible moderator without a universal tier prescription;
-8. no-focus/control conditions are not process-neutral;
-9. holistic focus is legitimate but under-replicated;
-10. attentional breadth is distinct from internal/external direction;
-11. cognitive load can compete with deliberate learning, but no universal cue-count threshold follows;
-12. dual-task cost is not a pure automaticity metric;
-13. automaticity remains graded and task specific;
-14. internal focus can be useful when body/proprioceptive/recruitment information is task relevant;
-15. acute RT force/EMG/endurance effects are not durable technique-learning evidence;
-16. reinvestment/conscious control is contextually risky rather than universally harmful;
-17. direct compound-lift attentional-focus retention/transfer evidence remains sparse;
-18. no project-relevant blocker remains;
-19. first canonical `NEU-14_attention_and_focus.md` created.
+1. exact Area 04 Section 15 coverage = **15/15 at content level**;
+2. intrinsic and augmented feedback are distinct sources; modality, content, timing and schedule are separate dimensions;
+3. KR is outcome information; KP is movement information, and descriptive vs prescriptive KP must be separated;
+4. novice-dominant evidence favors KR + prescriptive KP / prescriptive KP over descriptive KP in some tasks, but no universal KR-vs-KP hierarchy is retained;
+5. immediate feedback can improve acquisition while delayed feedback can improve retention in some tasks; no universal delay optimum exists;
+6. concurrent feedback can strongly guide practice but can create withdrawal costs; terminal feedback is not universally superior;
+7. 2022 meta-analysis of 61 feedback-frequency papers found no robust advantage of reduced frequency and no general acquisition-to-retention reversal;
+8. faded feedback has positive task-specific retention/transfer evidence but is not universal;
+9. bandwidth and summary feedback can reduce trial-by-trial guidance but no universal bandwidth/summary length exists;
+10. self-controlled feedback shows average retention/transfer benefits but heterogeneity and publication-bias concerns remain;
+11. learner error estimation can materially improve retention and alter the effect of feedback frequency;
+12. feedback dependency must be demonstrated by no-feedback retention/transfer, not inferred from high frequency alone;
+13. RT feedback improves acute outputs; direct squat visual-feedback retention evidence exists, but exact compound-lift feedback architecture remains unestablished;
+14. no content-level blocker was found; independent closure audit remains required.
 
 ### Следующая задача
 
-**NEU-15/PASS-01 — Feedback content revalidation.**
+**NEU-15/PASS-02 — Closure audit and synthesis.**
 
-NEU-14 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-15 in this completed NEU-14 working block.**
+NEU-15 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-16 in the same working block.**
 
 ---
 
@@ -295,9 +289,9 @@ NEU-14 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-14/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-15/PASS-01_feedback_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-15/PASS-01 feedback content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-15/PASS-02 closure audit and synthesis** и остановиться перед NEU-16.
 
 ---
 
