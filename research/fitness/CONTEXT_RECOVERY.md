@@ -173,7 +173,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-03 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-04 — Reflex regulation — RESEARCHING**.
+Последняя закрытая тема: **NEU-04 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-05 — Neural force production / voluntary activation / RFD — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -223,39 +225,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-04/PASS-01_reflex_regulation_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-04/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `4ebcb0e75846f2747c154d7243c7df5b346d049a`  
-Evidence-ledger commit: `0e0145531f66ccf3bcc570be608ed5898223478f`
+PASS commit: `36b82b67b020c5fa99d1e6cde8cc7d88177265da`  
+Canonical finding commit: `1f4c8840f8172fb8cc830c4a4cf8c99ca271fd92`
 
-NEU-04/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-04/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Exact content coverage:
-- `areas/04_neurophysiology_motor_learning.md` Section 4 = **8/8 at content level**.
+Closure result:
 
-PASS-01 established:
-
-1. stretch reflex is a multi-latency, task-dependent sensorimotor response rather than one fixed monosynaptic gain;
-2. the monosynaptic label is reserved for the shortest Ia→alpha-motoneuron component, not the whole mechanically evoked reflex;
-3. H-reflex is an electrically evoked spinal probe and is not identical to the natural stretch/tendon reflex;
-4. reciprocal inhibition is graded/task dependent and can coexist with purposeful co-contraction;
-5. GTO/Ib force feedback is not a universal high-force autogenic shut-off mechanism;
-6. human Ib effects can be facilitatory or inhibitory depending on task/circuit state;
-7. presynaptic modulation cannot be inferred from H-reflex amplitude alone;
-8. modern PAD evidence shows GABAergic axo-axonic mechanisms can in some contexts facilitate Ia transmission rather than acting as a universal brake;
-9. rapid corrective movement combines short-latency spinal and long-latency supraspinal feedback;
-10. 2026 human evidence supports cortical and online reticulospinal contribution to long-latency stretch responses;
-11. SSC performance is multi-mechanistic: preactivation/reflexes interact with tendon/elastic and history-dependent muscle mechanisms;
-12. the ~250 ms fast/slow SSC boundary is retained only as an operational heuristic, not a biological discontinuity;
-13. exact Section 4 coverage = **8/8 at content level**;
-14. no content-level blocker was found;
-15. canonical NEU-04 finding is deferred until closure audit.
+1. exact Area 04 Section 4 coverage = **8/8 PASS**;
+2. stretch reflex remains multi-latency and task dependent;
+3. monosynaptic Ia→alpha-MN arc is the shortest component rather than the whole reflex response;
+4. H-reflex remains an experimental spinal probe distinct from natural stretch/tendon reflex;
+5. reciprocal inhibition remains task/phase dependent;
+6. GTO/Ib force feedback remains distributed and is not modeled as a high-force emergency shut-off;
+7. presynaptic/PAD control remains mechanistically nuanced and not uniformly inhibitory;
+8. rapid corrective responses combine spinal and supraspinal pathways;
+9. current human evidence supports online reticulospinal contribution to long-latency stretch responses;
+10. SSC remains a neural + muscle–tendon + history-dependent phenomenon;
+11. ~250 ms remains an operational SSC heuristic rather than a biological neural threshold;
+12. reflex amplitude is not treated as a universal performance-quality score;
+13. no project-relevant blocker remains;
+14. first canonical `NEU-04_reflex_regulation.md` created.
 
 ### Следующая задача
 
-**NEU-04/PASS-02 — Closure audit and synthesis.**
+**NEU-05/PASS-01 — Neural force production / voluntary activation / RFD content revalidation.**
 
-After PASS-02 save state and STOP. Do not start NEU-05 automatically.
+NEU-05 maps to Area 04 Section 5. NEU-05 has not been started. After the next one block, save state and STOP.
 
 ---
 
@@ -271,9 +269,9 @@ After PASS-02 save state and STOP. Do not start NEU-05 automatically.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-04/PASS-01_reflex_regulation_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-04/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-04/PASS-02 closure audit and synthesis** и остановиться перед NEU-05.
+Затем выполнить только записанный выше **NEU-05/PASS-01 neural force production / voluntary activation / RFD content revalidation** и остановиться перед следующим блоком.
 
 ---
 
