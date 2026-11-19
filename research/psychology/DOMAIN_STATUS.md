@@ -41,15 +41,23 @@ Status: **COMPLETE_FOR_CURRENT_SCOPE**.
 
 ## Phase D — integration
 
-Status: **IN_PROGRESS**.
+Status: **COMPLETE_FOR_CURRENT_SCOPE**.
 
 1. INT-01 — cross-domain contradiction audit — **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**;
 2. INT-02 — evidence-to-individual transfer rules — **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**;
 3. INT-03 — analytic error taxonomy — **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**;
 4. INT-04 — reusable reasoning checklists — **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**;
-5. INT-05 — final sufficiency audit — **NEXT**.
+5. INT-05 — final sufficiency audit — **COMPLETE_FOR_CURRENT_SCOPE v1.0 — 24/24 PASS — GO FOR STAGE 2**.
 
 Current blocking cross-domain contradictions: **0 identified by INT-01**.
+
+## Overall qualification state
+
+Stage 1 qualification: **COMPLETE_FOR_CURRENT_SCOPE**.
+
+Stage 2 systematic private application: **READY_TO_BEGIN**.
+
+No next generic qualification block is scheduled; requalification is trigger-based.
 
 ## Rule
 
