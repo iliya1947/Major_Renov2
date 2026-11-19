@@ -17,6 +17,12 @@
 | ERR-009 | Population-to-individual overtransfer | Средний population effect может стать индивидуальным фактом | Explicit applicability + individual evidence + confidence downgrade | ACTIVE |
 | ERR-010 | Private-data leakage by workflow | Useful individualized material может соблазнить сохранить его рядом с science | PRIVACY hard stop; only blank templates and sanitized generic questions in repo | ACTIVE |
 
+| ERR-011 | Purpose/data-use creep | Наличие приватных данных или модели может быть принято за разрешение использовать их для новой несвязанной цели | Purpose gate + necessity check + secondary-use gate + inference minimization | ACTIVE |
+| ERR-012 | Contestability bypass | Оспоренная модельная proposition может продолжить использоваться как сильная premise без пересмотра | Suspend disputed proposition from consequential use; reopen evidence/alternatives/downstream conclusions | ACTIVE |
+| ERR-013 | High-stakes authority inflation | Правдоподобный AI-вывод может быть использован как достаточное основание для клинического/правового/институционального решения | Separate evidence strength from stakes; AI not sole authority in high-stakes use | ACTIVE |
+| ERR-014 | Dependency/anthropomorphism reinforcement | Тёплый персонализированный стиль может незаметно перейти в exclusivity, reciprocal-emotion claims, sycophancy или engagement optimization | Persistent AI/role clarity; no exclusivity/reciprocal obligation/social displacement; allow respectful disagreement | ACTIVE |
+| ERR-015 | Validation/version permanence | Старое подтверждение инструмента/источника может трактоваться как бессрочно действующее после model/source/context change | Version-aware monitoring + requalification triggers + SOURCE_STATUS_LOG | ACTIVE |
+
 ## Обязательная regression check
 
 Перед сильным персональным выводом в приватном проекте проверить минимум:
