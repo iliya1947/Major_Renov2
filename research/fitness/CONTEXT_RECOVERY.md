@@ -173,7 +173,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-03 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-04 — Reflex regulation — NOT STARTED**.
+Текущая тема: **NEU-04 — Reflex regulation — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -223,35 +223,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-03/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-04/PASS-01_reflex_regulation_revalidation.md`
 
-PASS commit: `93b0610435fe1f83f3fc88648fec4b67e3bf3152`  
-Canonical finding commit: `6d21f013f76e998d2f530d1e02eb6d7777e027e1`
+PASS commit: `4ebcb0e75846f2747c154d7243c7df5b346d049a`  
+Evidence-ledger commit: `0e0145531f66ccf3bcc570be608ed5898223478f`
 
-NEU-03/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-04/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Exact content coverage:
+- `areas/04_neurophysiology_motor_learning.md` Section 4 = **8/8 at content level**.
 
-1. exact Area 04 Section 3 coverage = **12/12 PASS**;
-2. proprioception remains a multimodal body-state estimate rather than one receptor, one balance test or one global trait;
-3. spindle Ia/II roles retain overlap and mechanical/fusimotor context;
-4. GTOs remain force/tension-related sensors rather than simple autogenic-inhibition shut-off switches;
-5. joint-receptor contribution remains supplementary/context dependent and evidence-limited;
-6. cutaneous skin stretch can materially alter proprioceptive estimates;
-7. vision and vestibular input remain distinct from proprioception but integrated into sensorimotor control;
-8. multisensory weighting remains task/reliability dependent;
-9. position, movement and force sense remain separable constructs;
-10. repositioning/JPS tasks are not treated as pure peripheral proprioception measures because memory/central reference can contribute;
-11. fatigue effects remain joint/task/metric dependent;
-12. no single gold-standard proprioception test is assumed;
-13. no project-relevant blocker remains;
-14. first canonical `NEU-03_sensory_feedback_proprioception.md` created.
+PASS-01 established:
+
+1. stretch reflex is a multi-latency, task-dependent sensorimotor response rather than one fixed monosynaptic gain;
+2. the monosynaptic label is reserved for the shortest Ia→alpha-motoneuron component, not the whole mechanically evoked reflex;
+3. H-reflex is an electrically evoked spinal probe and is not identical to the natural stretch/tendon reflex;
+4. reciprocal inhibition is graded/task dependent and can coexist with purposeful co-contraction;
+5. GTO/Ib force feedback is not a universal high-force autogenic shut-off mechanism;
+6. human Ib effects can be facilitatory or inhibitory depending on task/circuit state;
+7. presynaptic modulation cannot be inferred from H-reflex amplitude alone;
+8. modern PAD evidence shows GABAergic axo-axonic mechanisms can in some contexts facilitate Ia transmission rather than acting as a universal brake;
+9. rapid corrective movement combines short-latency spinal and long-latency supraspinal feedback;
+10. 2026 human evidence supports cortical and online reticulospinal contribution to long-latency stretch responses;
+11. SSC performance is multi-mechanistic: preactivation/reflexes interact with tendon/elastic and history-dependent muscle mechanisms;
+12. the ~250 ms fast/slow SSC boundary is retained only as an operational heuristic, not a biological discontinuity;
+13. exact Section 4 coverage = **8/8 at content level**;
+14. no content-level blocker was found;
+15. canonical NEU-04 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**NEU-04/PASS-01 — Reflex regulation content revalidation.**
+**NEU-04/PASS-02 — Closure audit and synthesis.**
 
-NEU-04 maps to Area 04 Section 4. NEU-04 has not been started. After the next one block, save state and STOP.
+After PASS-02 save state and STOP. Do not start NEU-05 automatically.
 
 ---
 
@@ -267,9 +271,9 @@ NEU-04 maps to Area 04 Section 4. NEU-04 has not been started. After the next on
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-03/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-04/PASS-01_reflex_regulation_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-04/PASS-01 reflex regulation content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-04/PASS-02 closure audit and synthesis** и остановиться перед NEU-05.
 
 ---
 
