@@ -20,6 +20,7 @@
 - **NEU sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **PSYCHOMETRICS sequence: IN PROGRESS.**
 - **PSYCHOMETRICS-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **PSYCHOMETRICS-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -745,11 +746,34 @@ Established:
 
 **PSYCHOMETRICS sequence: IN PROGRESS.**
 
+### PSYCHOMETRICS-02 — Latent-variable and item-response measurement
+
+Canonical block:
+`research/psychology/qualification/02_psychometrics_and_assessment/PSYCHOMETRICS-02_latent_variable_irt_rasch_information_local_dependence_dif_factor_scores_test_construction.md`
+
+Established:
+
+1. CTT, factor analysis, IRT and Rasch are model frameworks rather than a hierarchy of truth;
+2. latent scores require explicit identification/scaling and are estimates rather than direct trait observations;
+3. ordinal factor analysis and IRT can represent closely related structures while estimation methods differ;
+4. unidimensionality concerns response structure rather than psychological ontology;
+5. local dependence can distort item discrimination, information and person-score precision;
+6. Rasch invariance/specific-objectivity claims are conditional on model, calibration and DIF rather than automatic;
+7. item difficulty, discrimination, thresholds and information are model quantities rather than psychological primitives;
+8. MLE/MAP/EAP/WLE and factor-score methods can yield different person estimates;
+9. estimated factor scores remain measurement-error contaminated even at large N;
+10. global, item, residual and person fit are distinct diagnostics and fixed cutoffs are not universal laws;
+11. DIF is conditional item-functioning difference rather than automatic item bias;
+12. anchor selection, practical DIF magnitude and test-level score impact require separate checks;
+13. fit-driven item deletion can narrow construct content and must trigger renewed validity review;
+14. calibration, linking, population transport and item drift constrain latent-score comparability;
+15. 84-question Latent Measurement / IRT Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**PSYCHOMETRICS-02 — Latent-variable and item-response measurement: CTT vs IRT/Rasch, item information, local independence, DIF, factor scores, scoring, test construction, and person-level model limits.**
+**PSYCHOMETRICS-03 — Psychometrics integration and sufficiency audit: score-use × model-level consistency, individual interpretation, fairness, change, and closure decision.**
 
-Goal: close the item-level and model-based measurement gap explicitly deferred by Phase A and required for evaluating modern psychological instruments beyond classical reliability/norming.
+Goal: audit PSYCHOMETRICS-01 and -02 as one inference system, repair any contradiction or missing bridge, and decide whether the psychometrics domain and Phase B are sufficient for current project purpose.
 
 Target domain:
 
