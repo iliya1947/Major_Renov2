@@ -63,13 +63,15 @@ If control files disagree:
 - ETH-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - ETH-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - ETH sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- Phase D: **NOT_STARTED**.
-- Next qualification step: **Phase D / Step 1 — cross-domain contradiction audit**.
-- ETH directory: research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/.
+- Phase D: **IN_PROGRESS**.
+- INT-01: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.
+- Cross-domain blocking contradictions identified by INT-01: **0**.
+- Next qualification step: **INT-02 — evidence-to-individual transfer rules**.
+- Integration directory: `research/psychology/qualification/26_integration/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/ETH-02_applied_ethical_governance_private_model_data_lifecycle_contestability_dependency_high_stakes_fairness_phase_c_audit.md`
+`research/psychology/qualification/26_integration/INT-01_cross_domain_contradiction_audit_construct_levels_priority_overrides.md`
 
 ## 5. Cabinet architecture state
 
@@ -139,6 +141,6 @@ Stop immediately if:
 
 After recovery, the next qualification step is:
 
-**Phase D / Step 1 — cross-domain contradiction audit across methodology, core psychological science, and applied/clinical interfaces.**
+**INT-02 — Evidence-to-individual transfer rules: unify observation provenance, population/subgroup priors, repeated individual evidence, state/trait/timescale typing, construct/measurement validity, causal alternatives, contradiction handling, confidence updating, ethical stakes, safety overrides, correction propagation, and model-update thresholds.**
 
-Do not reopen Phase C merely to extend taxonomy; reopen a domain only if Phase D identifies a material contradiction or knowledge gap.
+INT-01 found no blocking canonical contradiction. Reopen a domain only if later integration identifies a material contradiction or knowledge gap.
