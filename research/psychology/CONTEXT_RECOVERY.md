@@ -27,6 +27,7 @@ Use this file to recover work after a new chat or lost context.
 - MOT sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - AFF sequence: **IN PROGRESS**.
 - `AFF-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `AFF-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `MOT-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `MOT-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `MOT-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -37,13 +38,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `AFF-02 — Emotion regulation architecture: situation selection/modification, attentional deployment, appraisal/reappraisal, acceptance, suppression, avoidance, and measurement validity`.
+- Next block: `AFF-03 — Emotion dynamics and regulation over time: emotional inertia, recovery, variability, context sensitivity, mixed states, interpersonal regulation, and ecological measurement`.
 - Target directory: `research/psychology/qualification/05_emotion_and_regulation/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/05_emotion_and_regulation/AFF-01_emotion_foundations_affect_mood_appraisal_dimensions_expression_measurement.md`
+`research/psychology/qualification/05_emotion_and_regulation/AFF-02_emotion_regulation_process_reappraisal_acceptance_suppression_avoidance_flexibility_measurement.md`
 
 ## Hard stop condition
 
