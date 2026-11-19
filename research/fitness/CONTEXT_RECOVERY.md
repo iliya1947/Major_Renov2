@@ -175,7 +175,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-04 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-05 — Neural force production / voluntary activation / RFD — RESEARCHING**.
+Последняя закрытая тема: **NEU-05 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-06 — Neural adaptation to strength training — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -225,40 +227,36 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-05/PASS-01_neural_force_production_voluntary_activation_rfd_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-05/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `1368c461c575a8e07520dd5e947ec9147fee455f`  
-Evidence-ledger commit: `42d349709e5d2fad67428f61c46ce4d506f46b61`
+PASS commit: `33880c745053f5c6b59225421217232c8ae8deeb`  
+Canonical finding commit: `4f78b5f3471396cb7a02c3c44eb60e3e9bb02653`
 
-NEU-05/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-05/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Exact content coverage:
-- `areas/04_neurophysiology_motor_learning.md` Section 5 = **14/14 at content level**.
+Closure result:
 
-PASS-01 established:
-
-1. recruitment and rate coding jointly regulate motor output and inherit NEU-02 task/context boundaries;
-2. neural drive is the ensemble discharge of active spinal motor neurons, not raw or normalized surface EMG;
-3. EMG is an indirect conditional proxy whose interpretation depends on motor-unit, membrane, geometry and normalization factors;
-4. voluntary activation is a stimulation-based, muscle/method-specific measurement construct rather than a universal neural-capacity percentage;
-5. agonist activation contributes to force but EMG amplitude is not direct agonist force;
-6. antagonist coactivation is a task-dependent torque-cost/stability-control tradeoff rather than universally bad activation;
-7. synergist/intermuscular coordination can adapt through timing, weighting and coupling changes;
-8. intramuscular coordination is defined through motor-unit population control rather than vague “mind-muscle” language;
-9. force steadiness is distinct from maximal strength and is strongly influenced by variability of shared synaptic input;
-10. RFD is time-window specific: early RFD is strongly constrained by rapid neural activation while later RFD increasingly includes maximal-force and muscle-tendon/contractile determinants;
-11. explosive voluntary activation is rapid drive development at contraction onset and is distinct from plateau VA;
-12. maximal strength is a neural + muscular + mechanical outcome;
-13. power is a neural + force–velocity + mechanical/technical outcome;
-14. exact Section 5 coverage = **14/14 at content level**;
-15. no content-level blocker was found;
-16. canonical NEU-05 finding is deferred until closure audit.
+1. exact Area 04 Section 5 coverage = **14/14 PASS**;
+2. recruitment and rate coding remain complementary, task-dependent motor-unit control mechanisms;
+3. neural drive is defined as ensemble active-motoneuron discharge and is not equated with surface EMG;
+4. voluntary activation is a muscle/method/protocol-specific stimulation construct rather than a universal neural-capacity percentage;
+5. agonist EMG is not treated as direct muscle force;
+6. antagonist coactivation remains a task-dependent torque-cost/stability-control tradeoff;
+7. synergist/intermuscular coordination remains adaptable and task specific;
+8. intramuscular coordination is defined through motor-unit population control;
+9. force steadiness remains distinct from maximal strength;
+10. RFD remains time-window specific, with stronger neural constraints early and increasing muscle-tendon/maximal-force contribution later;
+11. explosive voluntary activation remains distinct from plateau VA;
+12. maximal strength remains a neural + muscular + mechanical outcome;
+13. power remains a neural + force–velocity + mechanical/technical outcome;
+14. no project-relevant blocker remains;
+15. first canonical `NEU-05_neural_force_production_voluntary_activation_rfd.md` created.
 
 ### Следующая задача
 
-**NEU-05/PASS-02 — Closure audit and synthesis.**
+**NEU-06/PASS-01 — Neural adaptation to strength training content revalidation.**
 
-After PASS-02 save state and STOP. Do not start NEU-06 automatically.
+NEU-06 maps to Area 04 Section 6. NEU-06 has not been started. After the next one block, save state and STOP.
 
 ---
 
@@ -274,9 +272,9 @@ After PASS-02 save state and STOP. Do not start NEU-06 automatically.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-05/PASS-01_neural_force_production_voluntary_activation_rfd_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-05/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-05/PASS-02 closure audit and synthesis** и остановиться перед NEU-06.
+Затем выполнить только записанный выше **NEU-06/PASS-01 neural adaptation to strength training content revalidation** и остановиться перед следующим блоком.
 
 ---
 
