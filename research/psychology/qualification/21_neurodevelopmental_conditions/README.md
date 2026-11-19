@@ -8,7 +8,7 @@ The domain covers neurodevelopmental conditions and developmental trait variabil
 
 ## Current state
 
-**NDEV sequence: IN PROGRESS.**
+**NDEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### NDEV-01 — Neurodevelopmental foundations
 
@@ -35,9 +35,36 @@ Established:
 13. high cognitive ability can coexist with developmental impairment;
 14. a 90-question Neurodevelopmental Foundations Inference Gate and 18/18 closure audit are canonical.
 
-Next block:
+### NDEV-02 — Broader neurodevelopmental differential and sufficiency audit
 
-**NDEV-02 — Broader neurodevelopmental differential: intellectual developmental disorder/adaptive functioning, language and social-communication disorders, specific learning disorder, developmental coordination disorder, tic/Tourette spectrum, uneven developmental profiles, and cross-condition comorbidity/boundaries.**
+Status: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**
+
+Canonical block:
+
+`NDEV-02_broader_neurodevelopmental_differential_intellectual_adaptive_language_learning_motor_tics_sufficiency_audit.md`
+
+Established:
+
+1. intellectual disability/disorder of intellectual development requires intellectual and adaptive limitations, not IQ alone;
+2. adaptive functioning is separate from intelligence and spans conceptual, social, and practical domains;
+3. developmental language disorder is separated from multilingual/dialect difference, autism, ADHD-related pragmatics, and acquired language loss;
+4. pragmatic-language difficulty alone does not establish autism;
+5. developmental learning disorder requires domain-specific academic impairment, adequate opportunity/instruction, developmental persistence, functional impact, and alternative-explanation checks;
+6. IQ-achievement discrepancy is not treated as the essence of specific learning disorder;
+7. DCD requires independent motor-coordination evidence and is not inferred from generic clumsiness or ADHD distractibility;
+8. tics, compulsions, stereotypies, habits, and functional tic-like behavior are differentiated by phenomenology/function/course;
+9. acquired regression/loss is separated from developmental acquisition difficulty;
+10. multi-domain co-occurrence is allowed without automatic double counting;
+11. a 96-question Broader Neurodevelopmental Differential Gate and 20/20 sufficiency audit are canonical;
+12. no scientifically necessary NDEV-03 dependency is identified.
+
+**NDEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
+Next Phase C dependency:
+
+**BHC — behavior change and intervention science.**
+
+Canonical storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
 
 ## Storage note
 
