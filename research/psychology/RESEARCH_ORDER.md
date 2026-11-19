@@ -48,6 +48,27 @@ Canonical storage: `research/psychology/qualification/26_integration/`.
 2. INT-02 — evidence-to-individual transfer rules — **complete**;
 3. INT-03 — analytic error taxonomy — **complete**;
 4. INT-04 — reusable reasoning checklists — **complete**;
-5. INT-05 — final sufficiency audit for project purpose — **next**.
+5. INT-05 — final sufficiency audit for project purpose — **complete**.
 
 Do not advance merely because a taxonomy is incomplete. Advance when remaining gaps no longer block reliable reasoning.
+
+
+## Post-qualification state
+
+Stage 1 qualification: **COMPLETE_FOR_CURRENT_SCOPE**.
+
+Stage 2 private application: **READY_TO_BEGIN**.
+
+There is no next generic qualification block.
+
+Reopen qualification only when a concrete trigger exists:
+
+1. major manual/guideline/version change;
+2. correction/retraction affecting a canonical rule;
+3. new evidence materially changes a guardrail;
+4. private work exposes a generic knowledge gap;
+5. a currently unqualified specialty becomes material;
+6. repeated analytic error indicates missing qualification;
+7. a new high-stakes use-case exceeds current controls.
+
+Do not add specialty domains merely to increase completeness.
