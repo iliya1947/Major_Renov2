@@ -13,6 +13,7 @@
 - **EXE-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **EXE-05 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 
 ## Completed Phase A
 
@@ -52,33 +53,37 @@ Canonical block:
 Canonical block:
 `research/psychology/qualification/04_executive_functions_and_metacognition/EXE-04_task_switching_cognitive_flexibility_reconfiguration.md`
 
+### EXE-05 — Performance monitoring, conflict/error signals, adaptation, and control adjustment
+Canonical block:
+`research/psychology/qualification/04_executive_functions_and_metacognition/EXE-05_performance_monitoring_error_conflict_adaptation_control_adjustment.md`
+
 Established:
 
-1. task switching != broad cognitive flexibility;
-2. task sets contain structured stimulus/rule/response/context information;
-3. rule retrieval != rule discovery, so TSP and WCST are not interchangeable;
-4. local switch cost != mixing/global cost;
-5. switch and mixing costs can dissociate and reflect different control demands;
-6. switch cost is multi-determined rather than pure task-set reconfiguration;
-7. preparatory and post-target sources of switch cost are separable;
-8. residual interference/task-set inertia != reconfiguration;
-9. N-2 repetition costs support backward-inhibition-like dynamics but are not pure inhibition measures;
-10. cue, stimulus-set, task-rule, and response-set changes must be distinguished;
-11. task similarity/dissimilarity effects depend on the representational dimension and paradigm;
-12. cognitive stability and flexibility can be partly independent rather than one strict continuum;
-13. switch readiness adapts to context, switch probability, reward, and recent switching history;
-14. ability/willingness to switch are separated in voluntary switching;
-15. paradigm timing, cue informativeness, stimulus complexity, and base-task structure materially alter switch cost;
-16. robust group-level switch costs do not guarantee reliable individual-difference scores;
-17. practice effects constrain longitudinal interpretation;
-18. laboratory task switching != real-world adaptability;
-19. a 50-question Task Switching / Flexibility Inference Gate is canonical.
+1. performance monitoring is broader than error detection;
+2. internal monitoring != external feedback monitoring;
+3. error detection != conscious error awareness;
+4. error != conflict != surprise != uncertainty;
+5. monitoring signal != subsequent control adjustment;
+6. ERN/Ne and Pe are related but distinct error-related signals and are not unique direct readouts of awareness/control;
+7. ERP reliability is task/scoring specific and analytic pipelines remain highly heterogeneous;
+8. PES is a behavioral phenomenon, not a mechanism;
+9. PES can reflect adaptive caution/preparation or nonadaptive orienting/interruption;
+10. slowing must be linked to an explicit performance benefit before calling it adaptive;
+11. threshold, nondecision time, preparation, and other process changes can underlie PES;
+12. CSE != pure conflict adaptation;
+13. feature binding and contingency learning contribute to CSE, while confound-minimized CSE remains robust;
+14. CSE is stronger within task than between tasks and can reflect task-local plus smaller global components;
+15. objective congruency can trigger sequential adjustment independently of conflict magnitude in some paradigms;
+16. error awareness != confidence/metacognition as a whole;
+17. monitoring can occur without immediate adjustment, and adjustment can be absent, delayed, adaptive, or excessive;
+18. stable person-level monitoring claims require adequate event counts, reliability, repeated occasions, and cross-task evidence;
+19. a 48-question Performance Monitoring Inference Gate is canonical.
 
 ## Current next action
 
-**EXE-05 — Performance monitoring, conflict/error signals, adaptation, and control adjustment.**
+**EXE-06 — Control allocation, cognitive effort, demand avoidance, and expected value of control.**
 
-Goal: separate error detection, conflict monitoring, surprise, post-error behavior, confidence/awareness, and adaptive control adjustment; define what ERN/Pe, post-error slowing, conflict-adaptation effects, and behavioral monitoring measures can and cannot support.
+Goal: separate control capacity from willingness to deploy control; compare expected-value-of-control, effort-cost, demand-avoidance, opportunity-cost, and learning accounts; distinguish subjective effort from objective demand and define limits on person-level inference from effort choices.
 
 Target domain:
 
