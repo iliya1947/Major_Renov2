@@ -384,19 +384,23 @@
 - ET/HIT/SIT all capable of increasing mitochondrial content; no universal best modality retained.
 - Resistance training can remodel mitochondrial respiration/content; hypertrophy-related denominator/dilution effects retained.
 - Evidence ledger `BIO06-01…BIO06-10` finalized; canonical `BIO-06_oxidative_metabolism.md` created.
-- **BIO-07 — IN PROGRESS.**
-- BIO-07/PASS-01 macronutrient metabolism / substrate selection content revalidation completed 2026-11-19; exact Area 05 Section 7 coverage = **10/10 at content/scope level**; no content-level blocker found.
-- Carbohydrate, fat and amino-acid contributions are treated as concurrent and context-dependent; muscle glycogen, blood glucose and exogenous carbohydrate remain distinct source pools.
-- Lipolysis, plasma FFA availability, muscle uptake, mitochondrial entry, beta-oxidation and whole-body fat oxidation remain non-equivalent.
-- Increasing intensity generally shifts fuel use toward carbohydrate; absolute fat oxidation can peak at a submaximal intensity, but no universal Fatmax/crossover percentage is retained.
-- Duration changes both macronutrient contribution and source-pool contribution; no universal “after X minutes fat takes over” rule is retained.
-- Training-status effects require explicit absolute-vs-relative workload matching.
-- Lower glycogen can reduce endogenous carbohydrate oxidation and increase fat oxidation without eliminating exogenous carbohydrate oxidation.
-- Fasted exercise can increase acute fat oxidation, but acute substrate oxidation is not translated directly into chronic fat loss.
-- Protein/amino-acid contribution is retained as usually small/subsidiary but non-zero and context-dependent.
-- Metabolic flexibility is retained as adaptive fuel switching, not maximal fat oxidation or a single RER/Fatmax value.
-- RER/indirect calorimetry is treated as a method-dependent whole-body estimate with important high-intensity/non-steady-state limitations.
-- **CURRENT NEXT: BIO-07/PASS-02 — Closure audit and synthesis.**
+- **BIO-07 — CLOSED_FOR_PRACTICE v2.0.**
+- BIO-07/PASS-01 macronutrient metabolism / substrate selection content revalidation completed 2026-11-19; exact Area 05 Section 7 coverage = **10/10 at content/scope level**.
+- BIO-07/PASS-02 independent closure audit / synthesis completed 2026-11-19; exact Section 7 coverage = **10/10 PASS** and no project-relevant blocker remains.
+- Carbohydrate metabolism retained as both glycolytic/substrate-level and oxidative; muscle glycogen, blood/liver-derived glucose and exogenous carbohydrate remain distinct source pools.
+- Lipolysis, FFA availability, uptake, mitochondrial entry, beta-oxidation and whole-body fat oxidation remain non-equivalent.
+- Protein/amino-acid contribution retained as usually small/subsidiary but non-zero; the ~3.28% pooled endurance estimate is not a universal constant.
+- Increasing intensity generally shifts fuel selection toward carbohydrate without a binary switch; no universal Fatmax/crossover percentage is retained.
+- Duration changes both macronutrient contribution and source-pool contribution; no universal time-based “fat takeover” is retained.
+- Training-status interpretation requires both absolute workload and relative intensity; no universal matched-relative fuel-shift rule is retained.
+- Low glycogen can reduce endogenous carbohydrate oxidation and increase fat oxidation without eliminating exogenous carbohydrate oxidation; low glycogen ≠ low energy availability.
+- Short-term glycogen/carbohydrate manipulation can shift PFO/Fatmax without changing intrinsic mitochondrial coupling/function.
+- Fasted/fed state changes acute substrate use; acute fat oxidation is not translated into chronic fat-loss superiority.
+- Metabolic flexibility retained as adaptive fuel switching, not maximal fat oxidation; no single standardized RER/Fatmax-based score is retained.
+- RER/indirect calorimetry retained as a method-dependent whole-body estimator with high-intensity/non-steady-state limitations.
+- Fuel-selection phenotype remains separate from performance outcome; LCHF/KD-related fat-oxidation increases do not establish universal performance superiority/inferiority.
+- Evidence ledger `BIO07-01…BIO07-10` finalized; canonical `BIO-07_macronutrient_metabolism_substrate_selection.md` created.
+- **CURRENT NEXT: BIO-08/PASS-01 — Interaction of energy systems content revalidation.**
 
 ## История текущего revalidation cycle
 
