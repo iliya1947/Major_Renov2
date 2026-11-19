@@ -8,6 +8,8 @@
 - **Phase A — Research and inference methodology: CLOSED_FOR_PRACTICE v1.0.**
 - **Phase B — Core psychological science: COMPLETE_FOR_CURRENT_SCOPE.**
 - **Phase C — Applied and clinical interfaces: COMPLETE_FOR_CURRENT_SCOPE.**
+- **Phase D — Integration: IN PROGRESS.**
+- **INT-01 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
@@ -1122,7 +1124,7 @@ Established:
 
 **SAF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
-## Phase C / ETH in progress
+## Phase C / ETH completed
 
 ### ETH-01 — Ethics foundations for individualized psychological inference and AI-assisted analysis
 
@@ -1189,11 +1191,38 @@ Completed domains:
 
 Remaining work is integration, not an identified missing Phase C domain.
 
+## Phase D / integration in progress
+
+### INT-01 — Cross-domain contradiction audit
+
+Canonical block:
+`research/psychology/qualification/26_integration/INT-01_cross_domain_contradiction_audit_construct_levels_priority_overrides.md`
+
+Established:
+
+1. one cross-domain proposition/type system for observation, state, trait, process, mechanism, computation, classification, prediction, decision, ethical permission, and safety escalation;
+2. same-word collisions such as control, effort, flexibility, validation, risk, confidence, stability, regulation, resilience, mechanism, and value require explicit construct/level typing;
+3. epistemic confidence and action/use thresholds are separate;
+4. safety, ethics, privacy, law, and user challenge can override process/action without automatically changing psychological truth;
+5. first-person evidence has target-specific authority rather than universal epistemic supremacy;
+6. group/base-rate evidence can constrain priors without stereotype backfill;
+7. construct/measurement validity is upstream of causal, diagnostic, neural, treatment, or high-stakes inference;
+8. critical-premise uncertainty propagates and correlated evidence cannot be counted as independent confirmation;
+9. evidence hierarchy is claim-specific rather than globally biological, experimental, or self-report based;
+10. credible coercion, safety, or medical red flags can receive action priority without becoming proof of trait/diagnosis/mechanism;
+11. genuine scientific tensions remain explicit competing models;
+12. blocking canonical contradictions found: **0**;
+13. a 120-question Cross-Domain Consistency Gate and 20/20 closure audit are canonical.
+
+**INT-01: CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
+
+**Phase D: IN PROGRESS.**
+
 ## Current next action
 
-**Phase D / Step 1 — Cross-domain contradiction audit.**
+**INT-02 — Evidence-to-individual transfer rules.**
 
-Goal: test the full qualification stack for incompatible definitions, conflicting guardrails, duplicated rules, hidden priority conflicts, and domain rules that require targeted requalification before evidence-to-individual integration.
+Goal: create one reusable protocol for translating population/domain evidence into private person-specific propositions while preserving provenance, direct/proxy evidence distinctions, population/subgroup priors, repeated within-person evidence, state/trait/timescale typing, construct/measurement validity, causal alternatives, context/development/culture, contradiction handling, confidence updating, ethics/stakes, safety overrides, correction propagation, and model-update thresholds.
 
 ## Deferred
 
