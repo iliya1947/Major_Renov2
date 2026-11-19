@@ -191,7 +191,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-12 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-13 — Practice organization — RESEARCHING**.
+Последняя закрытая тема: **NEU-13 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-14 — Attention and focus — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -241,35 +243,40 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-13/PASS-01_practice_organization_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-13/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `9d25158924bf71b73d38b17ff08a7bbf57f5c486`  
-Evidence-ledger commit: `796111a658f6a5eaeb3024804d5b5d12d2b8c344`
+PASS commit: `d0a78e74eb15ba00354edf145c40febcdb0da500`  
+Canonical finding commit: `027967e2b0c95dff9fd417f9e90556632eda4f5a`  
+Evidence-ledger refinement commit: `1f69749ed47ed13253405b4b2a16e9fc2366d6e3`
 
-NEU-13/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-13/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 13 coverage = **12/12 at content level**;
-2. practice frequency, volume and distribution are distinct dimensions with no universal motor-learning frequency optimum;
-3. more practice can increase total learning opportunity while marginal efficiency declines; no universal repetition cutoff exists;
+1. exact Area 04 Section 13 coverage = **12/12 PASS**;
+2. practice frequency, volume and distribution remain distinct dimensions;
+3. no universal motor-skill practice-frequency optimum is established;
 4. distributed practice is not universally superior to massed motor practice;
-5. blocked practice often improves acquisition while random/interleaved practice can improve delayed retention, but neither is universally superior;
-6. contextual interference shows an average retention/transfer benefit, with weaker/less certain applied transfer effects;
-7. variable practice is not universally superior to constant practice; value depends on retention-vs-transfer target;
-8. whole-vs-part practice remains task-organization/component-separability dependent;
-9. repetition does not require exact kinematic duplication; functional variability can coexist with stable skill;
-10. target-condition specificity remains necessary even when variability/interleaving is used;
-11. fatigue modifies acquisition/retention in a task- and state-specific manner; fatigue practice does not automatically build robustness;
-12. no universal threshold defines when extra practice becomes useless; marginal information/quality is the practical criterion;
-13. direct resistance-exercise evidence remains insufficient for exact compound-lift practice schedules;
-14. no content-level blocker was found; independent closure audit/synthesis remains required.
+5. blocked practice can improve acquisition and is not inherently inferior;
+6. random/interleaved practice has an average delayed-learning benefit but is not universally superior;
+7. contextual-interference effects are substantially moderated and weaker/more heterogeneous in applied settings;
+8. contextual interference does not mean chaos or maximal randomness;
+9. blocked/random and constant/variable remain separate schedule dimensions;
+10. variable practice is not universally superior; relevance depends on retention/transfer target;
+11. whole-vs-part choice depends on task architecture and transfer back to the whole task;
+12. repetition does not require exact kinematic duplication;
+13. diminishing marginal efficiency is retained only as a context-specific pattern; plateau does not prove additional practice is useless;
+14. no universal repetition stopping threshold exists;
+15. fatigue modifies learning in task/state-specific ways and fatigue practice does not automatically create robustness;
+16. direct compound-lift schedule evidence remains sparse;
+17. no project-relevant blocker remains;
+18. first canonical `NEU-13_practice_organization.md` created.
 
 ### Следующая задача
 
-**NEU-13/PASS-02 — Closure audit and synthesis.**
+**NEU-14/PASS-01 — Attention and focus content revalidation.**
 
-NEU-13 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-14 in the same working block.**
+NEU-13 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-14 in this completed NEU-13 working block.**
 
 ---
 
@@ -285,9 +292,9 @@ NEU-13 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-13/PASS-01_practice_organization_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-13/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-13/PASS-02 closure audit and synthesis** и остановиться перед NEU-14.
+Затем выполнить только записанный выше **NEU-14/PASS-01 attention and focus content revalidation** и остановиться перед следующим блоком.
 
 ---
 
