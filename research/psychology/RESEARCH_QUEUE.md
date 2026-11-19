@@ -16,10 +16,11 @@
 - **STR sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **SOC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **DEV sequence: IN PROGRESS.**
+- **DEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **DEV-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **DEV-04 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **PER-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PER-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PER-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -604,15 +605,38 @@ Established:
 12. terminal decline is multidomain and outcome-specific rather than a generic age effect;
 13. 72-question Lifespan Transitions / Aging Inference Gate and 18/18 closure audit are canonical.
 
+### DEV-04 — Developmental psychology integration/sufficiency audit
+Canonical block:
+`research/psychology/qualification/10_developmental_psychology/DEV-04_developmental_psychology_integration_sufficiency_audit.md`
+
+Established:
+1. DEV-01…03 are internally coherent for generic developmental reasoning;
+2. chronological age is a coordinate/index rather than a developmental mechanism;
+3. developmental clocks include maturation, exposure/role timing, cohort/period and distance-to-death where relevant;
+4. sensitive/critical-period, timing/duration/dose and plasticity claims remain distinct;
+5. person↔environment transaction is the default interaction frame, but cross-lagged/longitudinal association alone is not causal;
+6. family/peer/school/community contexts and selection/evocation/exposure are distinct levels/processes;
+7. cascades require evidence for each link and appropriate timescale;
+8. cumulative risk, exposure type/timing and susceptibility models are competing/complementary hypotheses rather than interchangeable explanations;
+9. equifinality/multifinality block deterministic reconstruction and forecasting;
+10. adolescence/adulthood/midlife/retirement are heterogeneous transitions rather than universal mechanisms;
+11. healthy aging is functional and person×environment; cognitive aging is domain-specific and heterogeneous;
+12. normal aging/MCI/dementia and chronological age/terminal decline are distinct;
+13. practice, attrition, selective survival, cohort and measurement noninvariance remain core trajectory threats;
+14. 58-question Integrated Developmental Psychology Inference Gate and 20/20 closure audit are canonical;
+15. no necessary DEV-05 dependency identified; neural/biological mechanism questions route to NEU.
+
+**DEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**DEV-04 — Developmental psychology integration/sufficiency audit: developmental clocks, maturation/timing, sensitive periods, transactions/cascades, multi-context pathways, lifespan transitions/aging, cohort/measurement, and cross-domain boundaries.**
+**NEU-01 — Neuroscience inference foundations: levels of analysis, localization and networks, lesion/stimulation/fMRI/EEG evidence, reverse inference, neural decoding, causality, and measurement boundaries.**
 
-Goal: synthesize DEV-01…03, audit contradictions and remaining gaps, define reusable developmental reasoning rules, and either close DEV for current scope or identify one concrete blocking dependency before NEU.
+Goal: establish neural evidence hierarchies and inference boundaries before any psychological construct is mapped onto brain regions, networks, biomarkers, decoding models, lesions, stimulation or electrophysiology.
 
 Target domain:
 
-`research/psychology/qualification/10_developmental_psychology/`
+`research/psychology/qualification/11_neuropsychology_and_neuroscience/`
 
 ## Deferred
 
