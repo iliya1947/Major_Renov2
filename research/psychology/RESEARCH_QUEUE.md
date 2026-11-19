@@ -20,6 +20,7 @@
 - **NEU sequence: IN PROGRESS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -675,11 +676,31 @@ Established:
 13. peripheral/CSF transmitter measures are not local synaptic brain readouts;
 14. 74-question Neurochemical / Neuromodulatory Inference Gate and 18/18 closure audit are canonical.
 
+### NEU-03 — Neural systems and plasticity inference
+Canonical block:
+`research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-03_neural_systems_plasticity_ei_oscillations_ltp_structural_myelin_neurogenesis_homeostasis.md`
+
+Established:
+1. E/I balance is a scale-, region-, state-, timescale-, and method-dependent family of quantities rather than one global scalar;
+2. MRS Glx/GABA+ and EEG-derived E/I measures are proxies and neither is synaptic E/I ground truth;
+3. oscillatory power, phase, coherence and cross-frequency coupling are measurement constructs vulnerable to aperiodic activity, waveform shape, source mixing and estimator choice;
+4. oscillatory synchrony can support communication models but coherence/phase locking alone is not causal communication;
+5. LTP/LTD/STDP/BTSP are diverse synaptic-plasticity rules and are not identical to psychological learning/memory;
+6. memory-mechanism claims require stronger evidence than plasticity correlation, including blocking/erasure/necessity/sufficiency logic where possible;
+7. Hebbian and homeostatic plasticity are interacting, partly overlapping forms of network adaptation rather than opposites;
+8. structural MRI changes indicate tissue-property change but do not uniquely identify neurons, dendrites, synapses or glia;
+9. rapid structural MRI changes can contain perfusion, extracellular-fluid and metabolic contributions;
+10. morphometry depends materially on software/version/pipeline and reliability is distinct from anatomical validity;
+11. myelin is dynamic and experience-sensitive, but diffusion/FA and myelin-sensitive MRI remain imperfect proxies for cellular myelination;
+12. 2025/2026 cellular/multiomic evidence substantially strengthens adult human hippocampal neurogenesis, while its cognitive function remains unresolved;
+13. progenitor/immature-cell evidence is distinct from mature functional neuronal integration;
+14. 76-question Neural Systems / Plasticity Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**NEU-03 — Neural systems and plasticity inference: excitation/inhibition balance, oscillations/synchrony, synaptic plasticity/LTP-LTD, structural plasticity, myelination, neurogenesis, network homeostasis, and measurement boundaries.**
+**NEU-04 — Cognitive/affective neuroscience integration/sufficiency audit: levels/methods, localization/networks, neurochemistry, neural systems/plasticity, causal evidence, measurement, and cross-domain boundaries.**
 
-Goal: establish inference boundaries for E/I balance, oscillations/synchrony, synaptic and structural plasticity, myelination, neurogenesis and homeostatic network change before NEU integration.
+Goal: synthesize NEU-01…03, audit contradictions and residual gaps, define reusable neuroscience inference rules, and either close NEU for current scope or identify one concrete blocking dependency before applied PSYCHOMETRICS.
 
 Target domain:
 
