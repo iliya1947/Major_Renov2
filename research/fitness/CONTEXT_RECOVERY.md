@@ -203,7 +203,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-18 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-19 — Neuroplasticity — NOT STARTED**.
+Текущая тема: **NEU-19 — Neuroplasticity — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -253,43 +253,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-18/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-19/PASS-01_neuroplasticity_revalidation.md`
 
-PASS commit: `548492151d7f395f166d0018fa4d5a32f132f235`  
-Canonical finding commit: `17caaa935d06a3528e84a5abdfc88cb3629db6c7`  
-Evidence ledger: existing `NEU18-01…NEU18-14` re-audited; no closure-critical rewrite required.
+PASS commit: `2515c69450e95fa41363b29155c79500cfb20ec2`  
+Evidence-ledger commit: `8ba9a623142301234e200e142bf6b38b0f327b5a`
 
-NEU-18/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-19/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 18 coverage = **11/11 PASS**;
-2. outcome error, movement-criterion error and sensory prediction error remain distinct;
-3. stable vs random is only an operational recurrence distinction; repeatability does not identify cause;
-4. variability is not automatically error; solution variability can support transfer;
-5. task misunderstanding / goal uncertainty can be a real learning constraint;
-6. strength/capacity is a candidate cause, not a visual weak-muscle diagnosis;
-7. mobility is a candidate constraint requiring measurement/perturbation;
-8. load changes motor solutions even in elite lifters;
-9. fatigue changes mechanics without implying loss of learning;
-10. cues can create or reorganize undesirable movement solutions;
-11. inappropriate movement solution is defined relative to justified task criteria, not expert similarity;
-12. cause-first correction remains a diagnostic heuristic, not a one-to-one causal map;
-13. one-constraint perturbation is retained as a practical N-of-1 diagnostic strategy;
-14. task/environment manipulation is legitimate but not universally superior;
-15. errorless learning has no consistent universal advantage;
-16. heel elevation demonstrates constraint-sensitive squat kinematics without proving better technique or learning;
-17. “bad technique” is not a causal diagnosis;
-18. movement deviation is not pathology;
-19. direct exercise-specific causal error maps remain downstream MEC/TEC work;
-20. no project-relevant blocker remains;
-21. first canonical `NEU-18_errors_and_correction.md` created.
+1. exact Area 04 Section 19 coverage = **10/10 at content level**;
+2. experience-dependent neuroplasticity is real, but no single MRI/TMS/BDNF marker defines learning;
+3. use-dependent repetition can bias motor representation but is only one learning process;
+4. behavioral improvement can occur without detectable change in common corticospinal/spinal markers;
+5. resistance training can modify central neural excitability, with protocol/pathway-specific profiles and substantial heterogeneity;
+6. specificity constrains adaptation; extensive training can strengthen retention while narrowing generalization;
+7. specificity does not imply constant-practice superiority;
+8. repetition matters but no universal neural-plasticity repetition threshold is established;
+9. “salience” is not one standardized variable; reward can facilitate learning, but more reward/success is not monotonically better;
+10. consolidation means stabilization/reorganization and is not synonymous with sleep or observable offline gain;
+11. retention is graded and decays with nonuse at task-dependent rates;
+12. memory interference depends on similarity/context and is distinct from contextual interference;
+13. savings/relearning can expose latent prior learning and is not equivalent to overt retention or broad transfer;
+14. neural markers are mechanism probes, not direct coaching optimization targets;
+15. classic Kleim/Jones principles were explicitly framed for rehabilitation after brain damage and cannot be imported as numerical healthy-fitness prescriptions;
+16. no content-level blocker was found; independent closure audit remains required.
 
 ### Следующая задача
 
-**NEU-19/PASS-01 — Neuroplasticity content revalidation.**
+**NEU-19/PASS-02 — Closure audit and synthesis.**
 
-NEU-18 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-19 in this completed NEU-18 working block.**
+NEU-19 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-20 in the same working block.**
 
 ---
 
@@ -305,9 +299,9 @@ NEU-18 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-18/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-19/PASS-01_neuroplasticity_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-19/PASS-01 neuroplasticity content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-19/PASS-02 closure audit and synthesis** и остановиться перед NEU-20.
 
 ---
 
