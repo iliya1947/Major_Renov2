@@ -259,36 +259,43 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-22/PASS-01_application_to_resistance_exercise_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-22/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `d979aa4228a220be28d56ae14bb19da3ef503f23`  
-Evidence ledger commit: `d6eee8a151570a316cfc3477f5ec2c75092fdd15`  
-Evidence ledger: `NEU22-01…NEU22-08` added with **closure audit pending** status.
+PASS commit: `d8e36e63622a374abf93b4d774da0ca149183aa9`  
+Canonical finding commit: `fa0979352e29fe794de4e724c78d52b2dabd8ca6`  
+Evidence ledger commit: `6abd296fdccab5ca4f74ac47483c96af9e22e745`  
+Evidence ledger: `NEU22-01…NEU22-08` finalized.
 
-NEU-22/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-22/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 22 coverage = **8/8 at content/scope level**;
-2. acquisition performance remains distinct from delayed retention;
-3. stable technique is operationalized as repeatable satisfaction of justified task criteria, not identical kinematics;
-4. no universal light→working-load motor-learning threshold was found;
-5. target-load exposure is required when target-load execution matters, but exact progression belongs PRO/TEC;
-6. increasing intensity/fatigue changes velocity, timing, mechanics and variability, so high-load execution is not merely light-load execution scaled up;
-7. technical failure is separated from momentary muscular failure, volitional termination and velocity loss;
-8. exact technical-failure criteria remain exercise/goal specific and belong MEC/TEC/MED;
-9. exercise complexity should serve the target rather than be retained for its own sake;
-10. structured variability is distinct from random variability; current direct squat evidence does not prove superior delayed learning;
-11. transfer between related resistance exercises must be tested in the target task;
-12. strength specificity/transfer does not establish compound-lift motor-skill transfer;
-13. no content-level blocker remains;
-14. no canonical NEU-22 finding was created because closure audit is still required.
+1. exact Area 04 Section 22 coverage = **8/8 PASS**;
+2. one successful coached session remains acquisition/performance evidence, not durable technique learning;
+3. technique stabilization is operationalized as repeatable acceptable control under defined constraints with delayed reproducibility, not identical kinematics;
+4. no universal light→working-load motor-learning threshold is retained;
+5. historical/current load-progression recommendations are programming rules, not “skill learned” cutoffs;
+6. target-load control must be tested when target-load execution matters;
+7. increasing load/fatigue changes observable motor output and can alter mechanics/coordination;
+8. load-related movement change is not automatically movement error;
+9. technical failure is a project operational task-criterion endpoint distinct from momentary muscular failure, volitional failure and velocity loss;
+10. exact technical-failure criteria remain exercise/goal specific and downstream MEC/TEC/MED;
+11. technical complexity is real but purpose relative; no universal complexity threshold is retained;
+12. structured variability is distinct from random variability;
+13. direct squat evidence does not establish superior delayed learning or transfer from structured variability;
+14. stable-first→variable-later is not a universal sequence;
+15. exercise variation is distinct from movement variability;
+16. transfer between related resistance exercises must be tested in the target task;
+17. strength specificity/transfer does not establish motor-skill transfer;
+18. no project-relevant blocker remains;
+19. first canonical `NEU-22_application_to_resistance_exercise.md` created;
+20. **NEU-01…NEU-22 / Neurophysiology & Motor Learning = CLOSED_FOR_PRACTICE v2.0 for current project purpose.**
 
 ### Следующая задача
 
-**NEU-22/PASS-02 — Closure audit and synthesis.**
+**BIO-01/PASS-01 — Basic energy concepts content revalidation.**
 
-NEU-22 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start BIO in this completed NEU-22/PASS-01 working block.**
+Do not start BIO in this completed NEU-22 closure block. After the next one block, save state and STOP.
 
 ---
 
@@ -304,9 +311,9 @@ NEU-22 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-22/PASS-01_application_to_resistance_exercise_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-22/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-22/PASS-02 closure audit and synthesis** и остановиться перед BIO.
+Затем выполнить только записанный выше **BIO-01/PASS-01 — Basic energy concepts content revalidation** и остановиться перед следующим блоком.
 
 ---
 
