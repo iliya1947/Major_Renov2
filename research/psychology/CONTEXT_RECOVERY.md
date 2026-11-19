@@ -67,13 +67,14 @@ If control files disagree:
 - INT-01: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.
 - INT-02: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.
 - INT-03: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.
+- INT-04: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.
 - Cross-domain blocking contradictions identified by INT-01: **0**.
-- Next qualification step: **INT-04 — reusable reasoning checklists**.
+- Next qualification step: **INT-05 — final sufficiency audit for project purpose**.
 - Integration directory: `research/psychology/qualification/26_integration/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/26_integration/INT-03_analytic_error_taxonomy_failure_stages_cascades_detection_repair_regression.md`
+`research/psychology/qualification/26_integration/INT-04_reusable_reasoning_checklists_fast_routing_deep_gate_escalation_pre_response.md`
 
 ## 5. Cabinet architecture state
 
@@ -143,6 +144,6 @@ Stop immediately if:
 
 After recovery, the next qualification step is:
 
-**INT-04 — Reusable reasoning checklists: compress the full qualification into short operational checklists for low-stakes reflection, strong individualized inference, causal/mechanism claims, measurement, clinical boundaries, relationships, interventions/decisions, safety, model update, correction/error repair, and final pre-response review.**
+**INT-05 — Final sufficiency audit for project purpose: determine whether methodology, core science, applied/clinical interfaces, integration, person-level transfer, error control, checklists, safety/ethics, privacy, source/version controls, and requalification triggers are sufficient to leave qualification and begin systematic private application.**
 
-INT-01 found no blocking canonical contradiction. INT-02 established integrated person-level transfer. INT-03 established the stage-based analytic error taxonomy. Reopen a domain only if later integration identifies a material contradiction or knowledge gap.
+INT-01 found no blocking canonical contradiction. INT-02 established integrated person-level transfer. INT-03 established the stage-based analytic error taxonomy. INT-04 established operational checklist compression. Reopen a domain only if the final audit identifies a material gap.
