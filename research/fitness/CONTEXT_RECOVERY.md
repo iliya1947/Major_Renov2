@@ -127,7 +127,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-03 — **CLOSED_FOR_PRACTICE v2.0**;
 - BIO-04 — **CLOSED_FOR_PRACTICE v2.0**;
 - BIO-05 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 5 closure **8/8 PASS**;
-- **CURRENT NEXT: BIO-06/PASS-01 — Oxidative phosphorylation / mitochondria content revalidation.**
+- BIO-06/PASS-01 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; exact Section 6 content coverage **10/10**;
+- **CURRENT NEXT: BIO-06/PASS-02 — Closure audit and synthesis.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -177,35 +178,32 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-05/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-06/PASS-01_oxidative_metabolism_mitochondria_content_revalidation.md`
 
-PASS commit: `50eb50ea7977860811df3199937ebdd6ec53da1f`  
-Canonical finding commit: `9449105d823af68c8e1014d5d2639814489bb429`  
-Evidence ledger commit: `1645b62ac55e81220beb2f3ca88bb0d8786c4768`  
-Evidence ledger: `BIO05-01…BIO05-09` finalized.
+PASS commit: `acdf71b8e581afdf579b632476f1c35c588e82d4`
 
-BIO-05/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-06/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 05 Section 5 coverage = **8/8 PASS**;
-2. muscle/interstitial/blood pH remain non-equivalent compartments;
-3. exercise acidification uses a dual biochemical + physicochemical model rather than one-cause “lactic acid” or ATP-hydrolysis-only explanations;
-4. lactate ≠ H+, while lactate can still participate through transport/strong-ion effects;
-5. intracellular buffering ≠ proton efflux;
-6. bicarbonate/CO2 is major extracellular acid–base machinery but not the whole system;
-7. MCT/NHE/bicarbonate transport all contribute to pH regulation;
-8. pH recovery ≠ lactate disappearance;
-9. severe acidosis can contribute to force/power fatigue but is not the sole cause;
-10. exercise burn is not a lactate sensor;
-11. no universal critical pH, acid-clearance time or rest prescription is retained;
-12. canonical `BIO-05_acid_base_buffering.md` created.
+1. exact Area 05 Section 6 coverage = **10/10 at content/scope level**;
+2. PDH retained as regulated carbohydrate-derived pyruvate → acetyl-CoA gateway;
+3. TCA cycle retained as oxidative/reducing-equivalent hub rather than main direct ATP source;
+4. ETC / proton pumping / ATP synthase separated;
+5. O2 retained as terminal electron acceptor without treating O2 availability as universal sole limiter;
+6. theoretical ATP/P/O yields separated from effective in-vivo coupling/yield;
+7. mitochondrial content / respiratory capacity / intrinsic function / coupling separated;
+8. citrate synthase retained as marker, not complete function measure;
+9. mitochondrial biogenesis treated as coordinated remodeling rather than acute PGC-1α signal;
+10. ET/HIT/SIT all capable of increasing mitochondrial content; no universal best modality retained;
+11. resistance-training mitochondrial remodeling retained with hypertrophy/dilution caveat;
+12. no programming prescription authorized from this PASS.
 
 ### Следующая задача
 
-**BIO-06/PASS-01 — Oxidative phosphorylation / mitochondria content revalidation.**
+**BIO-06/PASS-02 — Closure audit and synthesis.**
 
-BIO-05 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-06 in this completed BIO-05 closure block.**
+BIO-06 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start BIO-07 before BIO-06 closure.**
 
 ---
 
@@ -229,7 +227,7 @@ BIO-05 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 `research/fitness/passes/05_bioenergetics/BIO-04/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-06/PASS-01 — Oxidative phosphorylation / mitochondria content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-06/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
