@@ -290,7 +290,19 @@
 - Individualization is empirical and repeatability-based; group moderators generate hypotheses rather than personal prescriptions.
 - Anthropometry remains Area 02/MEC scope; ADHD-specific instructional design remains Area 12/PSY-COA scope.
 - First canonical NEU-21 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **NEU-22/PASS-01 — Application to resistance exercise content revalidation.**
+- **NEU-22 — RESEARCHING; PASS-01 COMPLETE.**
+- NEU-22/PASS-01 application-to-resistance-exercise content revalidation completed 2026-11-19; exact Area 04 Section 22 coverage = **8/8 at content/scope level**.
+- New-exercise learning retains the acquisition ≠ delayed-retention boundary; direct squat evidence supports that practice changes and retention can diverge.
+- Technique stabilization is operationalized as repeatable satisfaction of justified task criteria under defined conditions, not identical kinematics.
+- No universal light→working-load learning threshold is retained; graded exposure to the target load context is a practical heuristic.
+- Increasing intensity/fatigue changes the motor problem and can alter velocity, timing, mechanics and variability; load-related change is not automatically movement error.
+- Technical failure is separated from momentary muscular failure, volitional termination and velocity loss; exact technical criteria remain MEC/TEC/MED dependent.
+- Exercise complexity is not intrinsically beneficial; it should serve the adaptation/skill/transfer target rather than become an irrelevant limiter.
+- Structured variability is distinguished from random variability; current direct squat evidence does not establish a delayed-learning superiority.
+- Transfer between related resistance exercises must be tested in the target task; strength specificity/transfer is not direct motor-skill transfer.
+- Evidence ledger `NEU22-01…NEU22-08` added with closure-audit-pending status.
+- No canonical NEU-22 finding created before closure audit.
+- CURRENT NEXT: **NEU-22/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
