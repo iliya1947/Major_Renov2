@@ -201,7 +201,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-17 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-18 — Errors and correction — RESEARCHING**.
+Последняя закрытая тема: **NEU-18 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-19 — Neuroplasticity — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -251,38 +253,43 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-18/PASS-01_errors_and_correction_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-18/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `7094716f2b7e6a86c2f5f342bbcd9f43ca5bfe8a`  
-Evidence-ledger commit: `12e84e454104263bc81c33d0b19c539511cb1ca0`
+PASS commit: `548492151d7f395f166d0018fa4d5a32f132f235`  
+Canonical finding commit: `17caaa935d06a3528e84a5abdfc88cb3629db6c7`  
+Evidence ledger: existing `NEU18-01…NEU18-14` re-audited; no closure-critical rewrite required.
 
-NEU-18/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-18/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 18 coverage = **11/11 at content level**;
-2. outcome/task-performance error, movement-criterion error and sensory prediction error are distinct and must not be collapsed;
-3. stable vs random error is used only as an operational recurrence distinction; recurrence does not identify mechanism;
-4. movement variability is not automatically error; solution variability can support transfer while error variability can impair it;
-5. misunderstanding/goal uncertainty can create a wrong task representation and persist through practice;
-6. strength/capacity can constrain mechanics, but visual appearance cannot identify one weak muscle;
-7. limited mobility can alter movement geometry, but a visual deviation does not prove a mobility cause;
-8. load itself changes joint contributions/kinematics even in elite lifters;
-9. fatigue/proximity to failure alters velocity and mechanics; state-dependent change is not equivalent to lost learning;
-10. cueing/instruction can create or reorganize a movement solution and therefore become a candidate cause of a new deviation;
-11. inappropriate movement solution is defined relative to task-relevant criteria, not similarity to an expert template;
-12. cause-first correction and one-constraint-at-a-time perturbation are retained as practical diagnostic heuristics, not universal causal treatment laws;
-13. task/environment manipulation can directly change the solution, but errorless learning does not show universal superiority and current certainty is low;
-14. heel elevation is a concrete example of constraint manipulation changing squat kinematics without proving durable learning or “better technique”;
-15. movement deviation is not pathology; MED owns medical diagnosis;
-16. direct compound-lift causal error maps remain insufficient for universal correction recipes;
-17. no content-level blocker was found; independent closure audit remains required.
+1. exact Area 04 Section 18 coverage = **11/11 PASS**;
+2. outcome error, movement-criterion error and sensory prediction error remain distinct;
+3. stable vs random is only an operational recurrence distinction; repeatability does not identify cause;
+4. variability is not automatically error; solution variability can support transfer;
+5. task misunderstanding / goal uncertainty can be a real learning constraint;
+6. strength/capacity is a candidate cause, not a visual weak-muscle diagnosis;
+7. mobility is a candidate constraint requiring measurement/perturbation;
+8. load changes motor solutions even in elite lifters;
+9. fatigue changes mechanics without implying loss of learning;
+10. cues can create or reorganize undesirable movement solutions;
+11. inappropriate movement solution is defined relative to justified task criteria, not expert similarity;
+12. cause-first correction remains a diagnostic heuristic, not a one-to-one causal map;
+13. one-constraint perturbation is retained as a practical N-of-1 diagnostic strategy;
+14. task/environment manipulation is legitimate but not universally superior;
+15. errorless learning has no consistent universal advantage;
+16. heel elevation demonstrates constraint-sensitive squat kinematics without proving better technique or learning;
+17. “bad technique” is not a causal diagnosis;
+18. movement deviation is not pathology;
+19. direct exercise-specific causal error maps remain downstream MEC/TEC work;
+20. no project-relevant blocker remains;
+21. first canonical `NEU-18_errors_and_correction.md` created.
 
 ### Следующая задача
 
-**NEU-18/PASS-02 — Closure audit and synthesis.**
+**NEU-19/PASS-01 — Neuroplasticity content revalidation.**
 
-NEU-18 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-19 in the same working block.**
+NEU-18 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-19 in this completed NEU-18 working block.**
 
 ---
 
@@ -298,9 +305,9 @@ NEU-18 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-18/PASS-01_errors_and_correction_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-18/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-18/PASS-02 closure audit and synthesis** и остановиться перед NEU-19.
+Затем выполнить только записанный выше **NEU-19/PASS-01 neuroplasticity content revalidation** и остановиться перед следующим блоком.
 
 ---
 
