@@ -357,18 +357,20 @@
 - Lactate accumulation does not cause DOMS.
 - Lactate is exercise responsive but is neither the sole cause nor a specific standalone marker of fatigue/readiness.
 - Evidence ledger `BIO04-01…BIO04-09` finalized; first canonical `BIO-04_lactate_metabolism.md` created.
-- **BIO-05 — RESEARCHING / PASS-01 COMPLETE.**
+- **BIO-05 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-05/PASS-01 acid–base physiology and buffering content revalidation completed 2026-11-19; exact Area 05 Section 5 coverage = **8/8 at content/scope level**.
-- Muscle pHi, interstitial pH and blood pH are treated as distinct compartments.
-- Exercise acidification is retained as an integrated ATP-turnover / physicochemical / buffering / transport state rather than a one-metabolite “lactic acid” mechanism.
-- Lactate concentration ≠ H+ concentration; LDH lactate formation is not treated as direct lactic-acid dissociation.
-- Intracellular buffering is separated from proton-equivalent efflux; carnosine is one contributor, not the sole muscle buffer.
-- Extracellular bicarbonate/CO2 buffering can alter transmembrane gradients, but bicarbonate is not the whole acid–base system and is not a universal performance limiter.
-- Muscle H+ equivalent transport includes MCT lactate/H+ cotransport, NHE1 and bicarbonate-dependent transport.
+- BIO-05/PASS-02 independent closure audit / synthesis completed 2026-11-19; exact Section 5 coverage = **8/8 PASS** and no project-relevant blocker remains.
+- Muscle pHi, interstitial pH and blood pH are distinct compartments; systemic values are not direct local muscle-pH proxies.
+- Exercise acidification is retained as an integrated ATP-turnover + physicochemical strong-ion/weak-acid + buffering + transport + oxidative/respiratory state; no single reaction is the universal sole cause.
+- Lactate concentration ≠ H+ concentration; lactate formation is not modeled as direct “lactic acid dissociation,” while lactate can still participate through H+-coupled transport and strong-ion effects.
+- Intracellular buffering is separated from proton efflux; carnosine is one contributor rather than the sole buffer.
+- Extracellular bicarbonate/CO2 is a major acid–base system but not the whole model; alkalosis effects on performance are task/individual dependent.
+- H+ equivalent transport includes MCT lactate/H+ cotransport, NHE1 and bicarbonate-dependent transport.
+- pH recovery ≠ lactate disappearance; no universal acid-clearance/rest-time mapping is retained.
 - Severe intracellular acidosis can contribute to force/power fatigue, but fatigue remains multifactorial and interacts with Pi/H2PO4−, K+, Ca2+ and other disturbances.
-- Exercise “burn” is not a lactate sensor; combined metabolites and group III/IV afferent processing are retained.
-- pH recovery ≠ lactate disappearance; no universal pH-recovery time/rest prescription is retained.
-- **CURRENT NEXT: BIO-05/PASS-02 — Closure audit and synthesis.**
+- Exercise burn is not a lactate sensor; combined metabolite + afferent signaling is retained.
+- Evidence ledger `BIO05-01…BIO05-09` finalized; canonical `BIO-05_acid_base_buffering.md` created.
+- **CURRENT NEXT: BIO-06/PASS-01 — Oxidative phosphorylation / mitochondria content revalidation.**
 
 ## История текущего revalidation cycle
 
