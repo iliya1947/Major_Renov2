@@ -67,6 +67,12 @@
 | PSY-G61 | Individual lethal-means counseling and population means-restriction evidence are distinct and should not share one assumed effect size | SAF-02 | HIGH | Lethal-means inference | ACCEPTED |
 | PSY-G62 | Capacity is decision-specific; diagnosis, risky/unwise choice, refusal, and poor insight do not by themselves establish incapacity | SAF-02; NICE NG108 | HIGH | Capacity boundary | ACCEPTED |
 | PSY-G63 | Confidentiality/safety exceptions are jurisdiction-specific and should be necessary/proportionate rather than generalized from one legal system | SAF-02 | HIGH | Confidentiality boundary | ACCEPTED |
+| PSY-G64 | Ethical acceptability of individualized inference depends on purpose, stakes, necessity, validity, privacy, fairness, transparency, and contestability—not accuracy alone | ETH-01 | HIGH | Individualized inference ethics | ACCEPTED |
+| PSY-G65 | Consent/disclosure is purpose-scoped; prior disclosure of sensitive information does not authorize unlimited storage, reuse, or new psychological inference | ETH-01 | HIGH | Consent/privacy boundary | ACCEPTED |
+| PSY-G66 | Overall AI accuracy does not establish subgroup fairness; subgroup error, cultural/language validity, and deployment context require separate evaluation | ETH-01; PSYCHOMETRICS | HIGH | AI fairness inference | ACCEPTED |
+| PSY-G67 | Human oversight is ethically meaningful only when the reviewer has competence, evidence access, authority, time, and a real ability to override AI output | ETH-01; WHO/NIST/APA | HIGH | AI oversight | ACCEPTED |
+| PSY-G68 | AI project persona or humanlike style must not be represented as professional licensure, verified human identity, or independent clinical authority | ETH-01; APA AI guidance | HIGH | Role/authority boundary | ACCEPTED |
+| PSY-G69 | Consequential AI-supported psychological inferences must remain contestable and revisable; user correction is evidence to evaluate, not pathology to explain away | ETH-01; PRIVATE_MODEL_UPDATE_CARD | HIGH | Contestability/model revision | ACCEPTED |
 
 ## Правила
 
