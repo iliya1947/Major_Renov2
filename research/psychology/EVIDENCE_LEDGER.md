@@ -14,6 +14,10 @@
 | PSY-G08 | Remission не доказывает removal of mechanism; recurrence не доказывает return of same mechanism | CLN-02 | HIGH | Course inference | ACCEPTED |
 | PSY-G09 | Statistical/model fit — один тип evidence, не полная construct validity | PSYCHOMETRICS-02/03 | HIGH | Measurement/model interpretation | ACCEPTED |
 | PSY-G10 | Uncertainty должна быть claim-specific; observation confidence может быть выше mechanism confidence | PSY-RES-09; CLN-01 | HIGH | Все individualized conclusions | ACCEPTED |
+| PSY-G11 | Psychosis is a symptom domain and does not by itself establish schizophrenia-spectrum diagnosis | CLN-03 | HIGH | Psychotic-like experiences / differential reasoning | ACCEPTED |
+| PSY-G12 | Intrusive thought content does not establish desire or intent; form/function and safety assessment are separate | CLN-03 | HIGH | OCD/intrusive-thought reasoning | ACCEPTED |
+| PSY-G13 | Normal or unrevealing medical tests do not establish psychological causation or somatic symptom disorder | CLN-03 | HIGH | Somatic/health-anxiety reasoning | ACCEPTED |
+| PSY-G14 | Enduring developmental/personality patterns must be separated from acquired episodic changes before family inference | CLN-03 | HIGH | NDEV/personality/mood differential | ACCEPTED |
 
 ## Правила
 
