@@ -31,12 +31,13 @@
 
 CLN: **COMPLETE_FOR_CURRENT_SCOPE** after CLN-03.  
 NDEV: **COMPLETE_FOR_CURRENT_SCOPE** after NDEV-02.  
-Current domain: BHC — **IN PROGRESS**.  
-BHC-01: **CLOSED_FOR_PRACTICE v1.0**.  
-Next block: BHC-02 — psychological intervention evidence architecture.
+BHC: **COMPLETE_FOR_CURRENT_SCOPE** after BHC-02.  
+Current next domain: REL.  
+Next block: REL-01 — interpersonal/attachment foundations.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 Canonical BHC storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
+Canonical REL storage: `research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`.
 
 ### Phase D — integration
 
