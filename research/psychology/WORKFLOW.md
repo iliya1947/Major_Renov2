@@ -29,9 +29,11 @@
 
 Статус: **IN PROGRESS**.
 
-Текущий domain: CLN.  
-Последний block: CLN-02.  
-Следующий: CLN-03.
+CLN: **COMPLETE_FOR_CURRENT_SCOPE** after CLN-03.  
+Current next domain: NDEV.  
+Next block: NDEV-01 — neurodevelopmental foundations.
+
+Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 
 ### Phase D — integration
 
