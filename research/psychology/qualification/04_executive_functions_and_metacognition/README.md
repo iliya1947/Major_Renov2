@@ -10,6 +10,7 @@ This directory stores topic-level qualification material for **Executive functio
 2. `EXE-02_goal_representation_proactive_reactive_hierarchical_control.md` — goal/task representations, maintenance/shielding/updating, hierarchical control, proactive/reactive modes, context processing, control-state reconfiguration, and a reusable Goal-Control Inference Gate.
 3. `EXE-03_response_selection_inhibition_stopping_interference_control.md` — response selection, restraint/cancellation, Stop-Signal modeling, trigger failures, interference control, distractor/memory suppression, trait limits, and a reusable Inhibition Inference Gate.
 4. `EXE-04_task_switching_cognitive_flexibility_reconfiguration.md` — local switch versus mixing costs, reconfiguration versus residual interference, cue/stimulus/response-set switching, stability/flexibility, voluntary switch readiness, measurement limits, and a reusable Task Switching / Flexibility Inference Gate.
+5. `EXE-05_performance_monitoring_error_conflict_adaptation_control_adjustment.md` — error/conflict/surprise monitoring, ERN/Pe limits, post-error slowing, congruency-sequence effects, adaptation versus awareness, measurement limits, and a reusable Performance Monitoring Inference Gate.
 
 ## Current domain status
 
@@ -17,7 +18,8 @@ This directory stores topic-level qualification material for **Executive functio
 - **EXE-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- Next planned block: **EXE-05 — Performance monitoring, conflict/error signals, adaptation, and control adjustment.**
+- **EXE-05 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- Next planned block: **EXE-06 — Control allocation, cognitive effort, demand avoidance, and expected value of control.**
 
 ## Content rule
 
