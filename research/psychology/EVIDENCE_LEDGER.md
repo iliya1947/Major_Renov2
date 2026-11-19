@@ -27,6 +27,11 @@
 | PSY-G21 | Poor academic performance or one low score does not establish developmental learning disorder | NDEV-02; PSYCHOMETRICS | HIGH | Learning-disorder inference | ACCEPTED |
 | PSY-G22 | Generic clumsiness does not establish DCD; independent motor evidence and neurological/sensory exclusions are required | NDEV-02 | HIGH | Motor-developmental inference | ACCEPTED |
 | PSY-G23 | Repetitive movement is not automatically a tic, compulsion, stereotypy, or habit; phenomenology/function/course must discriminate | NDEV-02 | HIGH | Tic/repetitive-behavior differential | ACCEPTED |
+| PSY-G24 | Intervention-package efficacy does not establish the active component or mechanism | BHC-01 | HIGH | Intervention/mechanism inference | ACCEPTED |
+| PSY-G25 | Target engagement and statistical mediation are insufficient by themselves to prove a causal mechanism | BHC-01; PSY-RES-02; CLN-02 | HIGH | Mechanism-of-change claims | ACCEPTED |
+| PSY-G26 | Efficacy, real-world effectiveness, and implementation success are distinct targets | BHC-01 | HIGH | Intervention transport/implementation | ACCEPTED |
+| PSY-G27 | Fidelity requires separating delivery, receipt, and enactment; attendance/completion are not substitutes | BHC-01 | HIGH | Intervention fidelity/adherence | ACCEPTED |
+| PSY-G28 | Average treatment effects and subgroup findings do not automatically justify person-specific treatment matching | BHC-01; PSY-RES-09 | HIGH | Personalized intervention inference | ACCEPTED |
 
 ## Правила
 
