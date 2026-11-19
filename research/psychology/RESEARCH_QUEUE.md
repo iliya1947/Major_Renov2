@@ -455,11 +455,33 @@ Established:
 
 **PER sequence: IN PROGRESS.**
 
+## Phase B / PER completed
+
+### PER-01 — Personality foundations
+Canonical block:
+`research/psychology/qualification/07_personality_and_individual_differences/PER-01_personality_foundations_traits_states_situations_structure_stability_measurement.md`
+
+Established:
+1. traits are probabilistic individual-difference tendencies and are distinct from momentary states/behaviors;
+2. trait inference requires repeated, representative cross-context evidence rather than one act;
+3. personality states fluctuate meaningfully and average states converge with but do not equal questionnaire traits;
+4. situations and perceived situations are distinct, and broad Person×Situation interaction variance can be substantial while specific named Trait×Situation effects may be very small;
+5. Big Five/FFM and HEXACO are descriptive trait taxonomies, not biological modules or deterministic mechanisms;
+6. HEXACO is not simply Big Five plus Honesty–Humility; mappings involving Agreeableness/Neuroticism/Emotionality/Honesty–Humility are nonidentical;
+7. broad domains, facets and nuances are distinct levels, and same-named trait scales can differ in content;
+8. rank-order stability, mean-level change, individual change, population variance, profile/ipsative stability and reliable score change are different questions;
+9. personality shows both stability and change across the lifespan; rank-order plateau in adulthood does not imply fixation;
+10. self- and observer reports are complementary imperfect perspectives rather than absolute ground truths;
+11. cross-cultural mean comparisons require measurement invariance; translation alone is insufficient;
+12. 60-question Personality Foundations Inference Gate and 18/18 closure audit are canonical.
+
+**PER sequence: IN PROGRESS.**
+
 ## Current next action
 
-**PER-02 — Personality hierarchy and criterion validity: domains, aspects, facets, nuances, bandwidth–fidelity tradeoffs, broad versus narrow prediction, incremental validity, jingle/jangle fallacies, and multi-method assessment.**
+**PER-02 — Personality assessment and person-level inference: facets/nuances, self–informant discrepancies, response styles, faking, criterion prediction, incremental validity, and individual-score interpretation.**
 
-Goal: determine when broad traits are sufficient versus when facets/nuances add valid criterion information, how predictor–criterion bandwidth affects validity, how to audit incremental prediction, and how multi-method personality evidence should be combined.
+Goal: deepen consequential personality-score interpretation, including facet/nuance bandwidth, self–informant disagreement, response styles/faking, criterion prediction, incremental validity, reliability and individual-score uncertainty.
 
 Target domain:
 
