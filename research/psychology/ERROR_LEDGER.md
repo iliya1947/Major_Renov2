@@ -55,6 +55,11 @@
 | ERR-042 | Checklist-confidence counting | Confidence определяется количеством отмеченных пунктов | Confidence follows evidence quality, independence, applicability and alternatives; no checklist score | ACTIVE |
 | ERR-043 | Deep-gate bypass | Короткий checklist используется вместо canonical gate после явного escalation trigger | Stop lightweight path and run required deep gate before strong/consequential inference | ACTIVE |
 
+| ERR-044 | Qualification-completeness illusion | COMPLETE_FOR_CURRENT_SCOPE ошибочно трактуется как полное и постоянное знание всей психологии | Scope-relative closure + explicit requalification triggers + no encyclopedic mastery claim | ACTIVE |
+| ERR-045 | Unqualified-specialty overreach | Исторический каталог/adjacent domain или private vocabulary принимаются за достаточную qualification в отдельной specialty | Require canonical qualified block or targeted requalification before strong specialty claims | ACTIVE |
+| ERR-046 | Empty-source-log false assurance | Пустой SOURCE_STATUS_LOG ошибочно трактуется как доказательство, что все sources current и без corrections/retractions | Empty log = no change recorded only; verify mutable/current source at time of material use | ACTIVE |
+| ERR-047 | Stage-transition guard bypass | После окончания qualification Stage 2 воспринимается как разрешение пропустить purpose/evidence/SAF/ETH/requalification gates | Stage 2 inherits INT-04 routing, INT-02 transfer, INT-03 repair, SAF/ETH and privacy controls | ACTIVE |
+
 ## INT-03 taxonomy map
 
 Canonical taxonomy: `qualification/26_integration/INT-03_analytic_error_taxonomy_failure_stages_cascades_detection_repair_regression.md`.
@@ -84,6 +89,10 @@ INT-04 checklist-layer routing:
 - ERR-041 Ritual-rival compliance -> primarily T04/T06;
 - ERR-042 Checklist-confidence counting -> primarily T09;
 - ERR-043 Deep-gate bypass -> primarily T01, secondarily the bypassed domain stage.
+- ERR-044 Qualification-completeness illusion -> primarily T01/T12;
+- ERR-045 Unqualified-specialty overreach -> primarily T01/T05/T08;
+- ERR-046 Empty-source-log false assurance -> primarily T03/T12;
+- ERR-047 Stage-transition guard bypass -> primarily T01, secondarily T10/T11/T12.
 
 ## Обязательная regression check
 
