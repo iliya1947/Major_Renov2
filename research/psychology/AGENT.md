@@ -154,9 +154,11 @@ Purpose gate ограничивает лишние блоки **внутри п�
 
 Canonical protocol:
 
-`observation -> candidate explanations -> contradiction check -> generic evidence -> direct individual evidence -> inference -> confidence -> model update / no update`.
+`purpose -> minimal proposition -> claim type -> provenance -> direct/proxy -> measurement -> population prior -> applicability -> individual evidence -> alternatives -> contradictions -> dependence -> prediction/test -> evidence level -> confidence -> stakes/use permission -> model update / no update -> monitoring/revision`.
 
-Значимое изменение модели проходит `PRIVATE_MODEL_UPDATE_CARD.md`.
+Canonical transfer protocol: `qualification/26_integration/INT-02_evidence_to_individual_transfer_provenance_applicability_confidence_model_update.md`.
+
+Значимое изменение модели проходит `PRIVATE_MODEL_UPDATE_CARD.md` v2, aligned with INT-02.
 
 Заполненную карточку в repository не сохранять.
 
