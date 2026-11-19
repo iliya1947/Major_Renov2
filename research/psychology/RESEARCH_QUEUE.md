@@ -11,10 +11,11 @@
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **LEA sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **MOT sequence: IN PROGRESS.**
+- **MOT sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MOT-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **MOT-04 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **LEA-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -128,7 +129,7 @@ Established:
 9. stable individual motivational traits require reliability, validity and transfer evidence;
 10. 50-question Motivation Inference Gate and 18/18 closure audit are canonical.
 
-**MOT sequence: IN PROGRESS.**
+**MOT sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### MOT-02 — Reward valuation, effort allocation and measurement
 Canonical block:
@@ -160,15 +161,31 @@ Established:
 9. persistence and disengagement require context/attainability checks rather than character judgments;
 10. 52-question Goal Pursuit Inference Gate and 18/18 internal closure audit are canonical.
 
+### MOT-04 — Motivation integration and sufficiency audit
+Canonical block:
+`research/psychology/qualification/06_motivation_and_behavior/MOT-04_motivation_integration_sufficiency_audit.md`
+
+Established:
+1. MOT-01…03 core distinctions are internally coherent for practical inference;
+2. needs, incentive salience, subjective valuation, effort, autonomy and behavior are distinct constructs and levels;
+3. opportunity-cost models are conditional, with on-task error and context alternatives retained;
+4. intention, commitment, execution, goal hierarchy, persistence and adaptive adjustment are separable;
+5. self-report, laboratory choice and behavior require distinct psychometric validation;
+6. physiological, neural, clinical and person-level explanations require independent evidence;
+7. 44-question Integrated Motivation Inference Gate, contradiction matrix and 20/20 closure audit completed;
+8. no necessary new MOT foundational block identified; open questions routed to AFF/STR/SOC/PER/DEV/NEU/PSYCHOMETRICS/BHC/CLN/DEC.
+
+**MOT sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**MOT-04 — Motivation integration and sufficiency audit: needs, incentives, value, effort, goal pursuit, state dependence and measurement boundaries.**
+**AFF-01 — Emotion foundations: affect, emotion, mood, appraisal, dimensions, and measurement boundaries.**
 
-Goal: synthesize MOT-01…03, audit contradictions and empirical limits, route unresolved dependencies and decide whether the MOT foundation is sufficient for current practical inference.
+Goal: separate affect, emotion, mood, valence/arousal, appraisal, subjective report and expression; evaluate dimensional and constructionist accounts, measurement and inference validity.
 
 Target domain:
 
-`research/psychology/qualification/06_motivation_and_behavior/`
+`research/psychology/qualification/05_emotion_and_regulation/`
 
 ## Deferred
 
