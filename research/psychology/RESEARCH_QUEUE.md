@@ -11,6 +11,8 @@
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **LEA sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- **MOT sequence: IN PROGRESS.**
+- **MOT-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -106,11 +108,31 @@ Established:
 
 **LEA sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase B / MOT completed
+
+### MOT-01 — Motivation foundations
+Canonical block:
+`research/psychology/qualification/06_motivation_and_behavior/MOT-01_motivation_foundations_needs_incentives_valuation_effort_goals_boundaries.md`
+
+Established:
+1. motivation is separated from learning, valuation, executive control and performance;
+2. NIMH Reward Responsiveness, Reward Learning and Reward Valuation are distinct research constructs;
+3. SDT autonomy, competence and relatedness are separated from physiological needs, desires, incentives and goals;
+4. intrinsic, identified, integrated, introjected and external regulations are distinct;
+5. wanting, liking and reward learning must not be conflated;
+6. perceived value, probability, delay, cost, opportunity, effort and ability can independently affect behavior;
+7. cognitive effort and physical effort, boredom and demand avoidance, and effort cost versus effort value are distinguished;
+8. intention is not behavior; goal selection, implementation and adaptive disengagement differ;
+9. stable individual motivational traits require reliability, validity and transfer evidence;
+10. 50-question Motivation Inference Gate and 18/18 closure audit are canonical.
+
+**MOT sequence: IN PROGRESS.**
+
 ## Current next action
 
-**MOT-01 — Motivation foundations: needs, incentives, value, effort, goal pursuit, and construct boundaries.**
+**MOT-02 — Reward valuation and effort allocation: probability, delay, uncertainty, physical/cognitive effort discounting, opportunity cost, and task validity.**
 
-Goal: integrate motivation constructs, needs/incentive distinctions, valuation, opportunity costs, effort allocation and goal pursuit without equating reward learning with motivated action.
+Goal: deepen probabilistic/delayed valuation, effort discounting, alternative opportunity costs and measurement validity without interpreting discount rates as stable traits prematurely.
 
 Target domain:
 
