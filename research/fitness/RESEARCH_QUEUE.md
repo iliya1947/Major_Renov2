@@ -250,7 +250,19 @@
 - Task/environment manipulation is legitimate, but errorless learning is not universally superior.
 - Direct compound-lift causal error→correction maps remain downstream MEC/TEC work.
 - First canonical NEU-18 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **NEU-19/PASS-01 — Neuroplasticity content revalidation.**
+- **NEU-19 — RESEARCHING.**
+- NEU-19/PASS-01 neuroplasticity content revalidation completed 2026-11-19; exact Area 04 Section 19 coverage = **10/10 at content level**.
+- Experience-dependent and use-dependent plasticity are distinguished; neither a single neural marker nor use-dependent bias is equivalent to durable motor learning.
+- Behavioral improvement can occur without detectable change in common corticospinal markers; neural-marker change is not itself a coaching outcome.
+- Current RT evidence supports central neural adaptation with substantial protocol/pathway specificity and heterogeneity.
+- Specificity constrains learning/plasticity but does not imply constant-practice superiority; extended training can strengthen retention while narrowing generalization.
+- Repetition matters, but no universal repetition/neuroplasticity threshold is established.
+- Salience is broader than reward; reward can facilitate learning, but more reward/success is not monotonically better.
+- Consolidation is broader than sleep/offline gain; retention is graded and can decay with nonuse.
+- Interference is task/similarity/context dependent and must not be confused with contextual interference.
+- Relearning/savings can reveal latent memory and is not equivalent to overt retention or broad transfer.
+- Classic damaged-brain neurorehabilitation plasticity principles are conceptual constraints, not validated healthy-fitness dose prescriptions.
+- CURRENT NEXT: **NEU-19/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
