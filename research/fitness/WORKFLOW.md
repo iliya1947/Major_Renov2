@@ -231,8 +231,9 @@
 13. BIO-09 = **CLOSED_FOR_PRACTICE v2.0**; PASS-01 + PASS-02 complete, exact Section 9 closure **9/9 PASS**.
 14. BIO-10 = **CLOSED_FOR_PRACTICE v2.0**; PASS-02 closure audit complete, exact Section 10 coverage **9/9 PASS**.
 15. BIO-11 = **CLOSED_FOR_PRACTICE v2.0**; PASS-02 closure audit complete, exact Section 11 coverage **10/10 PASS**.
-16. **CURRENT NEXT: BIO-12/PASS-01 — Resistance training bioenergetics content revalidation.**
-17. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
+16. BIO-12 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 12 coverage **13/13 at content/scope level**.
+17. **CURRENT NEXT: BIO-12/PASS-02 — Closure audit and synthesis.**
+18. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
 
 Авторитет текущей точки: PR #5 identity/workspace lock → фактическая ветка → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → последний PASS.
 
@@ -251,7 +252,7 @@
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **BIO-12/PASS-01 — Resistance training bioenergetics content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **BIO-12/PASS-02 — Closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
