@@ -259,41 +259,42 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-02/PASS-01_phosphagen_system_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-02/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `79b247cc31c82cfee23d83c01923cb8ab36d5fd7`  
-Evidence ledger commit: `9bd216fc7e875024def3396a45805e657879adcd`  
-Evidence ledger: `BIO02-01…BIO02-10` added with **closure audit pending** status.
+PASS commit: `dd5d90c67a51e576f6c189cf5992940d03956e2e`  
+Canonical finding commit: `5d3e8b5c2d152181aa53289b404b06ea8258202c`  
+Evidence ledger commit: `c81b7af327ad4de782b56b89aa86a4d3a0669a38`  
+Evidence ledger: `BIO02-01…BIO02-10` finalized.
 
-BIO-02/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-02/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 2 coverage = **12/12 at content/scope level**;
-2. stored ATP and PCr are distinct pools; PCr supports ATP regeneration through CK rather than directly replacing ATP at ATPases;
-3. CK reaction is reversible and shifts toward ATP regeneration during high demand and toward PCr resynthesis during recovery;
-4. CK/PCr is retained as a temporal/spatial energy-buffering system without requiring one literal universal shuttle topology;
-5. adenylate kinase provides secondary nucleotide buffering through `2 ADP ↔ ATP + AMP`;
-6. phosphagen ATP regeneration has very high rate but finite capacity;
-7. PCr makes a major early contribution to very brief maximal work but is not the sole ATP source and no universal phosphagen-only time window exists;
-8. PCr can be heavily depleted during short maximal exercise;
-9. PCr depletion is not equivalent to ATP depletion or fatigue;
-10. post-exercise PCr resynthesis is predominantly oxidative;
-11. O2 availability can alter PCr recovery, but oxygen delivery is not universally the sole rate-limiting factor in healthy normoxia;
-12. PCr recovery kinetics depend on depletion, pH, mitochondrial capacity, recruitment, protocol and measurement;
-13. no universal full-PCr-recovery time or fixed rest-duration→%PCr-restored mapping is retained;
-14. longer rest generally permits greater PCr reconstitution and can support repeated high-intensity performance;
-15. exact rest prescription remains BIO-12/PRO;
-16. creatine availability can modify the creatine-PCr system, while dosing/efficacy/safety remain NUT;
-17. exact energy-system partitioning remains BIO-08;
-18. no content-level blocker remains;
-19. no canonical BIO-02 finding created because closure audit is still required.
+1. exact Area 05 Section 2 coverage = **12/12 PASS**;
+2. “phosphagen system” remains an operational umbrella term for stored ATP + CK/PCr + secondary adenylate-kinase buffering;
+3. stored ATP and PCr are distinct;
+4. PCr supports ATP regeneration through reversible CK rather than directly replacing ATP at ATPases;
+5. CK/PCr is retained as temporal/spatial energy buffering without requiring one universal literal shuttle topology;
+6. adenylate kinase is retained as secondary nucleotide buffering without a universal fractional ATP contribution;
+7. phosphagen ATP regeneration is very high-rate but limited-capacity;
+8. PCr is a major early contributor to very brief maximal work but is never the sole ATP source;
+9. glycolytic and oxidative pathways contribute concurrently from the early phase;
+10. PCr depletion is distinct from ATP depletion and fatigue;
+11. post-exercise PCr resynthesis is predominantly oxidative;
+12. O2 availability can alter PCr recovery, but O2 delivery is not universally the sole rate-limiter;
+13. PCr recovery kinetics are protocol- and physiology-dependent;
+14. no universal “fully restored after X minutes” rule is retained;
+15. longer rest generally permits more PCr reconstitution but does not define one optimal rest prescription;
+16. creatine availability can modify the creatine-PCr system while dosing/efficacy/safety remain NUT;
+17. BIO-12/PRO/TST/NUT boundaries remain intact;
+18. no project-relevant blocker remains;
+19. first canonical `BIO-02_phosphagen_system.md` created.
 
 ### Следующая задача
 
-**BIO-02/PASS-02 — Closure audit and synthesis.**
+**BIO-03/PASS-01 — Glycolysis content revalidation.**
 
-BIO-02 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start BIO-03 in this completed BIO-02/PASS-01 working block.**
+BIO-02 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-03 in this completed BIO-02 closure block.**
 
 ---
 
@@ -309,9 +310,9 @@ BIO-02 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-02/PASS-01_phosphagen_system_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-02/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-02/PASS-02 — Closure audit and synthesis** и остановиться перед BIO-03.
+Затем выполнить только записанный выше **BIO-03/PASS-01 — Glycolysis content revalidation** и остановиться перед следующим блоком.
 
 ---
 
