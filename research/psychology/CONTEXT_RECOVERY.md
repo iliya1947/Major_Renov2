@@ -40,19 +40,20 @@ If control files disagree:
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **IN PROGRESS**.
-- Current domain: **NDEV / neurodevelopmental conditions — IN PROGRESS**.
+- Current domain: **BHC / behavior change and intervention science — NEXT**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - CLN sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - NDEV-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- NDEV sequence: **IN PROGRESS**.
-- Next block: **NDEV-02 — Broader neurodevelopmental differential: intellectual developmental disorder/adaptive functioning, language and social-communication disorders, specific learning disorder, developmental coordination disorder, tic/Tourette spectrum, uneven developmental profiles, and cross-condition comorbidity/boundaries**.
-- Target directory: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
+- NDEV-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
+- NDEV sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
+- Next block: **BHC-01 — Behavior change and intervention-science foundations: efficacy versus effectiveness, intervention package versus mechanism, mediation/moderation, adherence/engagement, maintenance/relapse, implementation/context, heterogeneity, and causal limits**.
+- Target directory: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/21_neurodevelopmental_conditions/NDEV-01_neurodevelopmental_foundations_adhd_autism_onset_course_executive_function_masking_comorbidity_differential_limits.md`
+`research/psychology/qualification/21_neurodevelopmental_conditions/NDEV-02_broader_neurodevelopmental_differential_intellectual_adaptive_language_learning_motor_tics_sufficiency_audit.md`
 
 ## 5. Cabinet architecture state
 
@@ -122,6 +123,6 @@ Stop immediately if:
 
 After recovery, the next qualification block remains:
 
-**NDEV-02 — Broader neurodevelopmental differential: intellectual developmental disorder/adaptive functioning, language and social-communication disorders, specific learning disorder, developmental coordination disorder, tic/Tourette spectrum, uneven developmental profiles, and cross-condition comorbidity/boundaries.**
+**BHC-01 — Behavior change and intervention-science foundations: efficacy versus effectiveness, intervention package versus mechanism, mediation/moderation, adherence/engagement, maintenance/relapse, implementation/context, heterogeneity, and causal limits.**
 
-Canonical target: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
+Canonical target: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
