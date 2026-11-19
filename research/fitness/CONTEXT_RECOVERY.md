@@ -179,7 +179,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-06 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-07 — Bilateral effects / cross-education — NOT STARTED**.
+Текущая тема: **NEU-07 — Bilateral effects / cross-education — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -229,35 +229,30 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-06/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-07/PASS-01_bilateral_effects_cross_education_revalidation.md`
 
-PASS commit: `8a16f7caa7d412e2323ddd7da463c3904d64de4f`  
-Canonical finding commit: `05afca869c40b3c17d35fdcfcd73d6c3bcfe71e4`
+PASS commit: `4d01c0f6e59d32aa39d493359e0f5c7b914e70b4`
 
-NEU-06/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-07/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 6 coverage = **12/12 PASS**;
-2. early strength gain remains neural/skill + muscular/mechanical rather than purely neural;
-3. motor-unit recruitment/firing adaptations remain task/protocol dependent;
-4. neural drive remains distinct from surface EMG;
-5. antagonist coactivation has no universal downward adaptation rule;
-6. intermuscular coordination remains task/load specific;
-7. task-specific skill is retained as a real component of strength adaptation;
-8. cortical/corticospinal adaptation is supported without treating one TMS marker as a universal readout;
-9. spinal/motoneuron adaptation is supported without equating H-reflex, V-wave and motor-unit measures;
-10. retention and neural detraining remain differential, multi-clock processes;
-11. rapid retraining is supported functionally without a unique neural-memory claim;
-12. consistency with NEU-02, NEU-05 and PHY-18 confirmed;
-13. no project-relevant blocker remains;
-14. first canonical `NEU-06_neural_adaptation_strength_training.md` created.
+1. exact Area 04 Section 7 coverage = **7/7 at content level**;
+2. bilateral deficit/facilitation are task/test/training-specific bilateral-index phenomena rather than fixed neural traits;
+3. unilateral vs bilateral strength adaptation follows specificity;
+4. cross-education reliably transfers some strength to the contralateral untrained limb, with variable magnitude;
+5. contralateral neural adaptations include motor-unit/shared-input and cortical/spinal candidates, but no single master mechanism is established;
+6. dominant→nondominant transfer superiority is not supported as a practical rule;
+7. unilateral variants are useful under limited external load because they increase relative per-limb challenge; this is distinct from cross-education;
+8. contralateral strength transfer does not imply equal contralateral hypertrophy;
+9. immobilization-related preservation is distinct from ordinary muscle growth;
+10. no content-level blocker was found; closure requires PASS-02.
 
 ### Следующая задача
 
-**NEU-07/PASS-01 — Bilateral effects / cross-education content revalidation.**
+**NEU-07/PASS-02 — Closure audit and synthesis.**
 
-NEU-07 maps to Area 04 Section 7 (7 exact items). After the next one block, save state and STOP.
+After the next one block, save state and STOP.
 
 ---
 
@@ -273,9 +268,9 @@ NEU-07 maps to Area 04 Section 7 (7 exact items). After the next one block, save
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-06/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-07/PASS-01_bilateral_effects_cross_education_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-07/PASS-01 bilateral effects / cross-education content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-07/PASS-02 closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
