@@ -48,6 +48,13 @@
 | ERR-036 | Severity blindness | Одинаковая inferential weakness обрабатывается одинаково при low-stakes и high-stakes consequence | Separate error detection from R0–R4 consequence handling and S0–S4 use stakes | ACTIVE |
 | ERR-037 | Guardrail absolutism | Valid caution превращается в universal ban: например self-report/correlation/population/neural evidence объявляются бесполезными | Claim-specific evidence routing; guardrails block invalid upgrades, not legitimate evidence use | ACTIVE |
 
+| ERR-038 | Checklist laundering | Unsupported inference получает видимость надёжности только потому, что checklist формально завершён | Checklist routes reasoning but does not create evidence; underlying gate must still support claim | ACTIVE |
+| ERR-039 | Checklist over-routing | Простая low-stakes задача без необходимости раздувается до полного clinical/deep analysis | Use minimum sufficient triggered path; avoid unnecessary clinicalization | ACTIVE |
+| ERR-040 | Checklist under-routing | Strong/high-stakes claim остаётся на lightweight checklist и не эскалируется в required deep gate | Mandatory trigger-based escalation to INT/domain/SAF/ETH gates | ACTIVE |
+| ERR-041 | Ritual-rival compliance | Формально добавляется слабая/неправдоподобная alternative только ради пункта checklist | Rival must be scientifically plausible and capable of discriminating evidence | ACTIVE |
+| ERR-042 | Checklist-confidence counting | Confidence определяется количеством отмеченных пунктов | Confidence follows evidence quality, independence, applicability and alternatives; no checklist score | ACTIVE |
+| ERR-043 | Deep-gate bypass | Короткий checklist используется вместо canonical gate после явного escalation trigger | Stop lightweight path and run required deep gate before strong/consequential inference | ACTIVE |
+
 ## INT-03 taxonomy map
 
 Canonical taxonomy: `qualification/26_integration/INT-03_analytic_error_taxonomy_failure_stages_cascades_detection_repair_regression.md`.
@@ -68,6 +75,15 @@ Primary stage families:
 12. T12 — model maintenance / versioning.
 
 Use the earliest material failing stage as primary. Preserve additional independent failures as secondary tags.
+
+INT-04 checklist-layer routing:
+
+- ERR-038 Checklist laundering -> primarily T09, secondarily T01/T02;
+- ERR-039 Checklist over-routing -> primarily T01;
+- ERR-040 Checklist under-routing -> primarily T01, secondarily T10/T11;
+- ERR-041 Ritual-rival compliance -> primarily T04/T06;
+- ERR-042 Checklist-confidence counting -> primarily T09;
+- ERR-043 Deep-gate bypass -> primarily T01, secondarily the bypassed domain stage.
 
 ## Обязательная regression check
 
