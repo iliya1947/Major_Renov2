@@ -8,7 +8,7 @@ The domain translates generic measurement methodology into defensible interpreta
 
 ## Current state
 
-**PSYCHOMETRICS sequence: IN PROGRESS.**
+**PSYCHOMETRICS sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### PSYCHOMETRICS-01 — Applied measurement foundations
 
@@ -61,13 +61,43 @@ Established:
 14. anchor choice and item-level vs test-level DIF impact matter;
 15. item deletion changes construct operationalization and must preserve content coverage;
 16. calibration, linking, transport, and item drift constrain score comparability;
-17. a 84-question Latent Measurement / IRT Inference Gate and 18/18 closure audit are canonical.
+17. an 84-question Latent Measurement / IRT Inference Gate and 18/18 closure audit are canonical.
 
-## Next dependency
+### PSYCHOMETRICS-03 — Integration and sufficiency audit
 
-**PSYCHOMETRICS-03 — Psychometrics integration and sufficiency audit: score-use × model-level consistency, individual interpretation, fairness, change, and closure decision.**
+Status: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**
 
-This block adds no new taxonomy. It audits PSYCHOMETRICS-01 and -02 as one inference system and determines whether Phase B can close.
+Canonical block:
+
+`PSYCHOMETRICS-03_psychometrics_integration_sufficiency_audit.md`
+
+Established:
+
+1. score/use-level and item/model-level psychometrics are internally consistent;
+2. CTT reliability, SEM/cSEM, and IRT information are separated but integrated;
+3. simple and latent scores are evaluated by inferential value rather than sophistication;
+4. model fit remains one validity-evidence component rather than full validity;
+5. factor-score fit and individual factor-score precision are distinct;
+6. measurement invariance and DIF are complementary rather than interchangeable;
+7. fairness is broader than invariance/DIF;
+8. longitudinal change requires both precision and measurement comparability;
+9. one canonical uncertainty stack now separates response, model, parameter, person-score, transport, norm, decision, and validity uncertainty;
+10. a 64-question Integrated Psychometrics Inference Gate and 20/20 closure audit are canonical;
+11. no scientifically necessary PSYCHOMETRICS-04 dependency is identified.
+
+## Closure
+
+**PSYCHOMETRICS sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
+The remaining advanced methods—generalizability theory, diagnostic classification models, network psychometrics, full equating engineering, advanced CAT, mixture models, and similar topics—are dependency-driven and do not currently block reliable general psychological reasoning.
+
+## Next program dependency
+
+Phase B is complete.
+
+Next: **Phase C / CLN-01 — Psychopathology foundations: symptom, syndrome, disorder, impairment, dimensional and categorical models, comorbidity, differential inference, and diagnostic validity limits.**
+
+Target: `research/psychology/qualification/12_psychopathology/`.
 
 ## Content rule
 
