@@ -303,7 +303,19 @@
 - Transfer between related resistance exercises must be tested in the target task; strength transfer/task specificity is not motor-skill transfer.
 - Evidence ledger `NEU22-01…NEU22-08` finalized; first canonical `NEU-22_application_to_resistance_exercise.md` created.
 - **NEU-01…NEU-22 — CLOSED_FOR_PRACTICE v2.0; Neurophysiology / Motor Learning dependency complete for current project purpose.**
-- CURRENT NEXT: **BIO-01/PASS-01 — Basic energy concepts content revalidation.**
+- **BIO-01 — RESEARCHING; PASS-01 COMPLETE.**
+- BIO-01/PASS-01 basic-energy-concepts content revalidation completed 2026-11-19; exact Area 05 Section 1 coverage = **8/8 at content/scope level**.
+- Energy is treated as transferred/transformed rather than created; ATP is the principal immediate free-energy/phosphoryl-transfer intermediary for skeletal-muscle work, not a large long-term fuel store.
+- ATP pool size and ATP turnover are explicitly separated; high ATP flux can coexist with relatively stable [ATP].
+- Actual ΔG is condition dependent and is not interchangeable with ΔG°′; ATP energetic state depends on ATP/ADP/Pi and cellular conditions.
+- Exergonic/endergonic classify thermodynamic driving force, not reaction speed.
+- Coupled reactions can drive an unfavorable step when the summed ΔG is favorable.
+- Enzymes lower activation barriers / alter kinetics but do not change reaction equilibrium or ΔG°′; catalysis and coupling remain distinct.
+- ATP hydrolysis is not explained as energy released by bond breaking; net products/reactants free-energy difference is the relevant quantity.
+- Skeletal-muscle ATP stores are small relative to exercise demand; continuous resynthesis is required, although [ATP] is strongly defended and not invariant.
+- Evidence ledger `BIO01-01…BIO01-08` added with closure-audit-pending status.
+- No canonical BIO-01 finding created before closure audit.
+- CURRENT NEXT: **BIO-01/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
