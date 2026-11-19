@@ -199,7 +199,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-16 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-17 — Demonstration / video / modeling — RESEARCHING**.
+Последняя закрытая тема: **NEU-17 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-18 — Errors and correction — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -249,37 +251,42 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-17/PASS-01_demonstration_video_modeling_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-17/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `9148aee5dc3231aae308034bf139e44982081885`  
-Evidence-ledger commit: `2db76f75fdb86b45832726b3688a7673fba78760`
+PASS commit: `a127ca0ce7df8839413220b1fd5ddf77b5e762a0`  
+Canonical finding commit: `a283eaf1120a955ce7e8202798e97ceb32ef0cc6`  
+Evidence ledger: existing `NEU17-01…NEU17-14` re-audited; no closure-critical rewrite required.
 
-NEU-17/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-17/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 17 coverage = **10/10 at content level**;
-2. observational learning improves motor-skill learning versus no observation in PE/sport contexts but is not equivalent to physical practice;
-3. expert models provide a clear successful reference but are not universally superior to self/peer/novice models;
-4. peer/novice models can provide useful error-comparison information; mixed expert+novice observation can outperform single-model conditions in some tasks;
-5. 2026 self-modeling meta-analysis shows a positive post-test effect but no significant 1-week persistence and high heterogeneity;
-6. 2026-11-09 methodological critical review identifies severe underpowering, limited blinding and sparse retention/transfer testing in self-modeling/feedforward literature;
-7. self-modeling and video feedback are different instructional functions;
-8. own-video feedback has direct novice-squat retention evidence under one small protocol;
-9. slow-motion demonstration is not universally superior to real time;
-10. learner-controlled interactive replay can improve retention in some tasks but its effect cannot be attributed to slow motion alone;
-11. combined pre-practice + early interspersed observation can be useful, but no universal demonstration schedule exists;
-12. attention guidance toward task-relevant model features can improve learning;
-13. observation can train—and potentially bias—error-detection/reference mechanisms;
-14. anthropometry/mobility can alter movement geometry, so exact copying of another lifter's positions is not justified; anthropometry is not deterministic;
-15. direct compound-lift observational-modeling evidence remains sparse;
-16. no content-level blocker was found; independent closure audit remains required.
+1. exact Area 04 Section 17 coverage = **10/10 PASS**;
+2. observational learning is useful but does not replace physical practice;
+3. expert models provide a clear successful reference but are not universally superior;
+4. peer/novice/error models can provide useful contrast;
+5. mixed expert+novice modeling can improve stability/generalization in some tasks;
+6. self-modeling has a positive post-test meta-analytic effect but no robust demonstrated one-week persistence;
+7. 2026 methodological review materially lowers confidence in universal self-modeling/feedforward recommendations;
+8. self-modeling and video feedback remain distinct functions;
+9. own-video feedback has direct but narrow novice-squat retention evidence;
+10. slow motion is not universally better than real time;
+11. interactive playback is multifactorial and cannot be reduced to slow-motion effect;
+12. pre-practice and interspersed observation can both be useful; no universal schedule exists;
+13. observation target matters and “watch everything” is not sufficient instruction;
+14. observation can build or bias error-detection/reference mechanisms;
+15. camera angle can change acquisition without necessarily changing retention;
+16. morphology/mobility can alter movement geometry, but anthropometry does not deterministically prescribe technique;
+17. exact copying of another lifter's geometry is rejected;
+18. direct compound-lift observational-modeling evidence remains sparse;
+19. no project-relevant blocker remains;
+20. first canonical `NEU-17_demonstration_video_modeling.md` created.
 
 ### Следующая задача
 
-**NEU-17/PASS-02 — Closure audit and synthesis.**
+**NEU-18/PASS-01 — Errors and correction content revalidation.**
 
-NEU-17 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-18 in the same working block.**
+NEU-17 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-18 in this completed NEU-17 working block.**
 
 ---
 
@@ -295,9 +302,9 @@ NEU-17 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-17/PASS-01_demonstration_video_modeling_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-17/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-17/PASS-02 closure audit and synthesis** и остановиться перед NEU-18.
+Затем выполнить только записанный выше **NEU-18/PASS-01 errors and correction content revalidation** и остановиться перед следующим блоком.
 
 ---
 
