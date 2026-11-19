@@ -498,23 +498,25 @@
 - Specificity retained as multidimensional/graded; general physiological adaptation is non-equivalent to target-task transfer.
 - Study-level meta-regression “optimal” values are not retained as individual prescriptions.
 - Evidence ledger `BIO13-01…BIO13-10` finalized; canonical `BIO-13_energy_system_development.md` created.
-- **BIO-14 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- **BIO-14 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-14/PASS-01 anaerobic power/capacity content revalidation completed 2026-11-20; exact Area 05 Section 14 coverage = **7/7 at content/scope level**.
-- Anaerobic power and anaerobic capacity retained as distinct constructs: rate/output vs finite integrated high-intensity capability.
+- BIO-14/PASS-02 independent closure audit / synthesis completed 2026-11-20; exact Section 14 coverage = **7/7 PASS** and no BIO-14 project-relevant blocker remains.
+- PASS-01 audit checks = **33/33 RESOLVED**.
+- Anaerobic power and anaerobic capacity retained as distinct constructs: high output/rate vs task/method-defined integrated high-intensity capability.
 - External mechanical power retained as non-equivalent to metabolic ATP-production rate.
-- Peak power and mean power retained as distinct operational outputs; neither is mapped one-to-one to phosphagen or glycolytic metabolism.
-- Repeated-bout ability retained as distinct from first-bout output and dependent on recovery state.
-- Repeated high-intensity performance retained as mixed-metabolic because oxidative metabolism supports PCr resynthesis and recovery.
-- PCr recovery remains oxidative/state dependent; no fixed rest→%PCr or complete-readiness rule is retained.
-- Fatigue/decrement metrics are not retained as one-mechanism biomarkers and can be confounded by initial output.
-- Wingate-type outputs retained as protocol-specific performance metrics rather than direct pathway measurements.
-- MAOD/oxygen-deficit and PCr–La–O2 approaches retained as indirect/model-derived estimates rather than direct ATP-flux measurements.
-- Testing reliability/validity/standardization/familiarization/scaling/MDC remain TST-owned.
-- Current external PubMed/web search did not return usable results; no new unverified test-specific PMID was introduced.
-- **PASS-02 must reattempt current external test-specific verification before BIO-14 can close.**
-- BIO-14 remains **not CLOSED_FOR_PRACTICE**; canonical finding and final BIO14 ledger rows are deferred until PASS-02.
-- PASS-01 records **33 unresolved audit checks** for independent closure review.
-- **CURRENT NEXT: BIO-14/PASS-02 — Closure audit and synthesis.**
+- Peak power and mean power retained as distinct protocol-specific outputs; neither is mapped one-to-one to phosphagen or glycolytic metabolism.
+- Mean power is not retained as direct anaerobic-capacity/glycolytic-flux measurement.
+- Fatigue/decrement retained as descriptive performance information rather than a one-mechanism biomarker; low decrement can be confounded by initial output.
+- Repeated-bout ability retained as distinct from first-bout power and as mixed-metabolic.
+- PCr recovery retained as oxidative/variable and non-equivalent to complete readiness; no fixed rest→%PCr/full-recovery rule is retained.
+- Phosphagen and glycolytic contributions remain overlapping; blood lactate is not direct glycolytic ATP flux.
+- Wingate-type outputs retained as protocol-specific performance metrics rather than direct biochemical measurements.
+- MAOD/oxygen-deficit and PCr–La–O2 approaches retained as indirect/model-derived estimates.
+- Mode, duration, test load/cadence, familiarization and scaling retained as interpretation constraints.
+- Current external test-specific PubMed/web search was reattempted but returned no usable results; **Информация не проверена** for additional current 2025–2026 Wingate protocol-specific validity/reliability and active-vs-passive repeated-sprint recovery literature.
+- Those unverified protocol-specific claims are not used for BIO-14 closure and remain TST/PRO-owned.
+- Evidence ledger `BIO14-01…BIO14-10` finalized; canonical `BIO-14_anaerobic_power_capacity.md` created.
+- **CURRENT NEXT: BIO-15/PASS-01 — Aerobic capacity and economy content revalidation.**
 
 ## История текущего revalidation cycle
 
