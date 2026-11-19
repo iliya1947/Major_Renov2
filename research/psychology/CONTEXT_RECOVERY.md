@@ -20,6 +20,7 @@ Use this file to recover work after a new chat or lost context.
 - Privacy mode: **NO PERSONAL DATA IN REPOSITORY**.
 - Phase A methodology: **CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS**.
 - Phase B core psychological science: **COMPLETE_FOR_CURRENT_SCOPE**.
+- Phase C applied and clinical interfaces: **IN PROGRESS**.
 - COG foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - EXE foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - MET foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
@@ -32,6 +33,8 @@ Use this file to recover work after a new chat or lost context.
 - DEV sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - NEU sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - PSYCHOMETRICS sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
+- CLN sequence: **IN PROGRESS**.
+- `CLN-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PSYCHOMETRICS-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PSYCHOMETRICS-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PSYCHOMETRICS-03`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
@@ -70,13 +73,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `CLN-01 — Psychopathology foundations: symptom, syndrome, disorder, impairment, dimensional and categorical models, comorbidity, differential inference, and diagnostic validity limits`.
+- Next block: `CLN-02 — Psychopathology mechanisms and course: transdiagnostic processes, onset/maintenance/remission, recurrence, risk/protective factors, state-trait separation, and causal-model limits`.
 - Target directory: `research/psychology/qualification/12_psychopathology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/02_psychometrics_and_assessment/PSYCHOMETRICS-03_psychometrics_integration_sufficiency_audit.md`
+`research/psychology/qualification/12_psychopathology/CLN-01_psychopathology_foundations_symptom_syndrome_disorder_impairment_dimensions_comorbidity_differential_validity.md`
 
 ## Hard stop condition
 
