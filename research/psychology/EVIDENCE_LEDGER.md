@@ -82,6 +82,15 @@
 | PSY-G75 | High-stakes psychological, crisis, capacity, legal, forensic, custody, employment, and comparable decisions must not rely on general-purpose AI as sole decisive authority | ETH-02; SAF; APA; UNESCO/NIST | HIGH | High-stakes AI use | ACCEPTED |
 | PSY-G76 | AI validation and fairness evidence are version-, population-, language-, and context-dependent; material model/tool/source changes can trigger targeted requalification | ETH-02; APA 2026 assessment; NIST/OECD/WHO | HIGH | AI monitoring/revalidation | ACCEPTED |
 
+| PSY-G77 | Same label across domains does not establish construct identity; definition, operationalization, measurement channel, level, and timescale must match before transfer | INT-01; PSYCHOMETRICS; PER/SOC/REL | HIGH | Cross-domain construct transfer | ACCEPTED |
+| PSY-G78 | Safety, ethical, legal, privacy, or user-challenge overrides can change action/process thresholds without automatically changing the epistemic truth of diagnosis, mechanism, trait, or prediction claims | INT-01; SAF; ETH; PSY-RES | HIGH | Cross-domain override semantics | ACCEPTED |
+| PSY-G79 | First-person report has target-specific epistemic priority for subjective experience and stated intent, but it is not universal ground truth for causal mechanisms, external effects, diagnosis, or future behavior | INT-01; PSY-RES-08/09; PER; ETH | HIGH | Individual evidence interpretation | ACCEPTED |
+| PSY-G80 | User correction has procedural priority: it must reopen affected propositions and dependent conclusions, but causal/mechanistic disagreement still requires evidence comparison rather than automatic acceptance or pathologization | INT-01; ETH-02; PSY-RES-09 | HIGH | Contestability and model revision | ACCEPTED |
+| PSY-G81 | High-stakes urgency can justify a lower action threshold while uncertainty remains; it must not be represented as increased predictive or causal certainty | INT-01; SAF; DEC; ETH | HIGH | Safety/high-stakes decisions | ACCEPTED |
+| PSY-G82 | Critical-premise uncertainty propagates downstream and correlated evidence must not be double-counted as independent convergence | INT-01; PSY-RES; DEC; NEU | HIGH | Multi-step individualized inference | ACCEPTED |
+| PSY-G83 | Evidence hierarchy is claim-specific: no universal ordering such as biological > behavioral > self-report or RCT > all other evidence applies to every psychological question | INT-01; PSY-RES; NEU; BHC | HIGH | Evidence routing | ACCEPTED |
+| PSY-G84 | Credible coercion, acute safety, or urgent medical evidence can take action priority over ordinary symmetric/psychological framing without proving a global trait, diagnosis, or unique mechanism | INT-01; REL-02; SAF; CLN | HIGH | Safety/power/medical override | ACCEPTED |
+
 ## Правила
 
 1. Одна строка = один существенный проверяемый guardrail.
