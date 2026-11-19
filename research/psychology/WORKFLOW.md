@@ -32,13 +32,14 @@
 CLN: **COMPLETE_FOR_CURRENT_SCOPE** after CLN-03.  
 NDEV: **COMPLETE_FOR_CURRENT_SCOPE** after NDEV-02.  
 BHC: **COMPLETE_FOR_CURRENT_SCOPE** after BHC-02.  
-Current domain: REL — **IN PROGRESS**.  
-REL-01: **CLOSED_FOR_PRACTICE v1.0**.  
-Next block: REL-02 — conflict and communication architecture.
+REL: **COMPLETE_FOR_CURRENT_SCOPE** after REL-02.  
+Current next domain: DEC.  
+Next block: DEC-01 — judgment and decision foundations.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 Canonical BHC storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
 Canonical REL storage: `research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`.
+Canonical DEC storage: `research/psychology/qualification/19_decision_strategy_and_prediction/`.
 
 ### Phase D — integration
 
