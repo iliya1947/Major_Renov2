@@ -6,10 +6,8 @@
 - Privacy contract established.
 - No personal data stored.
 - **Phase A — Research and inference methodology: CLOSED_FOR_PRACTICE v1.0.**
-- PSY-RES-10 final sufficiency audit: **16/16 PASS**.
-- One blocking gap was identified during audit: minimum statistical-inference control.
-- The gap was repaired inside PSY-RES-10 with a canonical 29-question Minimum Statistical Inference Gate.
-- No remaining methodological gap blocks downstream qualification work.
+- **Phase B — Core psychological science: IN PROGRESS.**
+- **COG-01 — CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS.**
 
 ## Completed Phase A
 
@@ -24,23 +22,45 @@
 9. **PSY-RES-09 — CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS.**
 10. **PSY-RES-10 — PHASE_A_CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
 
-## Latest canonical block
+## Phase B / COG completed
 
-`research/psychology/qualification/01_research_methodology/PSY-RES-10_methodology_sufficiency_audit.md`
+### COG-01 — Cognition foundations: architecture, scope, and core distinctions
 
-## Canonical Phase A control formula
+Canonical block:
 
-`phenomenon -> construct -> claim -> design -> measurement -> statistical inference -> bias -> synthesis -> generalization -> special evidence boundary -> person-specific hypothesis -> rivals -> prediction -> confidence -> revision`
+`research/psychology/qualification/03_cognitive_psychology/COG-01_cognition_foundations_architecture_scope_distinctions.md`
+
+Established:
+
+1. cognition is a family of interacting functions, not one unitary faculty;
+2. a recurrent interaction map is preferred over rigid serial boxology;
+3. perception != attention;
+4. attention != cognitive control;
+5. working memory != attention, cognitive control, or long-term memory;
+6. episodic and semantic memory are distinguished but interacting;
+7. memory is reconstructive rather than literal recording;
+8. semantic cognition != language;
+9. reasoning/inference is a heterogeneous functional family, not one agreed module;
+10. reasoning != rationality != decision-making;
+11. language is distinguishable from general knowledge/reasoning while strongly interacting with them;
+12. learning is experience-dependent change and is functionally distinguished from memory;
+13. process != representation != task != ability != performance;
+14. task impurity is a mandatory interpretation constraint;
+15. capacity limits do not imply one universal scalar resource;
+16. automatic/controlled is not treated as a simple binary;
+17. domain-specific and domain-general mechanisms can coexist;
+18. intelligence is not used as a synonym for cognition;
+19. downstream COG routing is explicit.
 
 ## Current next action
 
-**Phase B / COG-01 — Cognition foundations: architecture, scope, and core distinctions.**
+**COG-02 — Perception: sensory evidence, representations, and contextual/top-down effects.**
+
+Goal: establish how sensory evidence becomes perceptual representation, how bottom-up evidence and prior/contextual information interact, where attention/control enter, and what can and cannot be inferred from perceptual performance.
 
 Target domain:
 
 `research/psychology/qualification/03_cognitive_psychology/`
-
-Goal: establish a scientifically current map of cognition that separates attention, perception, working memory, long-term memory, reasoning, language, learning interfaces, and executive-control interfaces before deeper topic files are opened.
 
 ## Deferred
 
