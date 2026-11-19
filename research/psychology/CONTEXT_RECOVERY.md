@@ -28,6 +28,7 @@ Use this file to recover work after a new chat or lost context.
 - AFF sequence: **IN PROGRESS**.
 - `AFF-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `AFF-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `AFF-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `MOT-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `MOT-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `MOT-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -38,13 +39,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `AFF-03 — Emotion dynamics and regulation over time: emotional inertia, recovery, variability, context sensitivity, mixed states, interpersonal regulation, and ecological measurement`.
+- Next block: `AFF-04 — Emotion and regulation integration/sufficiency audit: generation, appraisal, expression, regulation, dynamics, measurement, and cross-domain boundaries`.
 - Target directory: `research/psychology/qualification/05_emotion_and_regulation/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/05_emotion_and_regulation/AFF-02_emotion_regulation_process_reappraisal_acceptance_suppression_avoidance_flexibility_measurement.md`
+`research/psychology/qualification/05_emotion_and_regulation/AFF-03_emotion_dynamics_inertia_recovery_variability_mixed_interpersonal_ecological_measurement.md`
 
 ## Hard stop condition
 
