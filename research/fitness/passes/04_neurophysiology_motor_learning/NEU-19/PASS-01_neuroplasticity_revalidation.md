@@ -923,3 +923,34 @@ Required tasks:
 13. update project state and STOP before NEU-20.
 
 **Do not start NEU-20 in the same working block.**
+
+---
+
+## 32. Current-turn independent source audit — 2026-11-19
+
+The existing PASS-01 content was independently re-checked against current primary/review literature before state synchronization.
+
+Key current sources re-verified:
+
+1. PMID **42105826** — 2026 systematic review of rapid experience-dependent structural MRI changes; confirms measurable short-interval changes while explicitly warning that hemodynamic/fluid/metabolic effects can mimic structural change.
+2. PMID **42089992** — 2026 lower-limb visuomotor study; behavioral force-steadiness improvement occurred without significant MEP/SICI/LEP changes, supporting marker↔behavior non-equivalence.
+3. PMID **41845576** — 2026 randomized resistance-training trial; pacing/tempo constraints produced different corticospinal/reticulospinal adaptation profiles despite strength gains.
+4. PMID **42460308** — 2026 RT TMS systematic review/meta-analysis; pooled corticospinal-excitability and motor-performance effects coexist with substantial heterogeneity.
+5. PMID **43003929** — 2026 long-term motor-memory study; extended training strengthened retention/spontaneous recovery while narrowing generalization.
+6. PMID **41351896** — registered specificity-vs-variability report; no significant 24-h retention advantage of variable over constant practice in the criterion task.
+7. PMID **41795357** — repetition/structural-learning experiment; larger blocked repetition improved early subsequent adaptation but exploratory 24-h retention did not persist.
+8. PMID **41730946** — 2026 reward-based learning study; ~80% enforced success produced less learning than ~50%, directly rejecting a monotonic “more success/reward = more learning” rule.
+9. PMID **40800901** — ALE meta-analysis of online/offline motor-learning neural signatures; supports overlapping and distinct processes rather than one consolidation locus.
+10. PMID **41145718** — 2025 micro-offline-gain study; engaging intertrial tasks did not reduce micro-offline gains, weakening a simple rest-dependent-consolidation interpretation.
+11. PMID **41270933** — 2026 ballistic-task interference study; retrograde interference depended on task similarity including contraction mode.
+12. PMID **41805913** and **42139814** — current savings/multiple-motor-memory evidence; support latent-memory/retrieval interpretations while leaving exact neural mechanisms unresolved.
+13. PMID **42996797** and **43020864** — current neurorehabilitation reviews; reinforce that trained-task improvement/rehab principles do not automatically transfer to real-world function or healthy-fitness dose prescriptions.
+
+Audit result:
+
+- **no closure-critical contradiction found**;
+- existing PASS-01 boundaries remain defensible;
+- no Evidence Ledger rewrite is required at this stage;
+- exact Area 04 Section 19 coverage remains **10/10 at content level**;
+- NEU-19 remains **RESEARCHING** pending independent PASS-02 closure audit.
+
