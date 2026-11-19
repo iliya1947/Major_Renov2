@@ -46,7 +46,7 @@ If control files disagree:
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - CLN sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Next block: **NDEV-01 — Neurodevelopmental foundations: developmental onset and course, ADHD/autism boundaries, executive-function variability, masking/compensation, comorbidity, and differential limits**.
-- Target directory: `research/psychology/qualification/12_psychopathology/`.
+- Target directory: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 
 ## 4. Latest canonical block
 
