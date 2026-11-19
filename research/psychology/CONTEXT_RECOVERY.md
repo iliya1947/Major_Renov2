@@ -40,7 +40,7 @@ If control files disagree:
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **IN PROGRESS**.
-- Current domain: **SAF / safety boundaries, crisis recognition, and referral thresholds — IN PROGRESS**.
+- Current domain: **ETH / ethics of individualized psychological inference and AI-assisted analysis — NEXT**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
@@ -58,13 +58,14 @@ If control files disagree:
 - DEC-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - DEC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - SAF-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- SAF sequence: **IN PROGRESS**.
-- Next block: **SAF-02 — Safety management and continuity: post-crisis transitions, follow-up/contact, lethal-means safety evidence, safety/crisis response planning evidence, repeat self-harm, violence/safeguarding escalation, refusal/capacity/confidentiality boundaries, documentation/handoff, remote/AI crisis boundaries, and SAF sufficiency audit**.
-- Target directory: `research/psychology/qualification/24_safety_crisis_referral_thresholds/`.
+- SAF-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
+- SAF sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
+- Next block: **ETH-01 — Ethics foundations for individualized psychological inference and AI-assisted analysis: autonomy, consent, privacy, nonmaleficence, epistemic humility, fairness, role/scope boundaries, transparency, contestability, and high-stakes safeguards**.
+- Target directory: `research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/24_safety_crisis_referral_thresholds/SAF-01_safety_crisis_foundations_acute_risk_self_harm_suicide_triage_medical_psychiatric_remote_referral.md`
+`research/psychology/qualification/24_safety_crisis_referral_thresholds/SAF-02_safety_management_continuity_followup_caring_contacts_lethal_means_capacity_confidentiality_handoff_sufficiency_audit.md`
 
 ## 5. Cabinet architecture state
 
@@ -134,6 +135,6 @@ Stop immediately if:
 
 After recovery, the next qualification block remains:
 
-**SAF-02 — Safety management and continuity: post-crisis transitions, follow-up/contact, lethal-means safety evidence, safety/crisis response planning evidence, repeat self-harm, violence/safeguarding escalation, refusal/capacity/confidentiality boundaries, documentation/handoff, remote/AI crisis boundaries, and SAF sufficiency audit.**
+**ETH-01 — Ethics foundations for individualized psychological inference and AI-assisted analysis: autonomy, consent, privacy, nonmaleficence, epistemic humility, fairness, role/scope boundaries, transparency, contestability, and high-stakes safeguards.**
 
-Canonical target: `research/psychology/qualification/24_safety_crisis_referral_thresholds/`.
+Canonical target: `research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/`.
