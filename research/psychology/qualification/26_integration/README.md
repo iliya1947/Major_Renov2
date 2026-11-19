@@ -77,19 +77,40 @@ Established:
 11. six new integration-level meta-errors;
 12. 144-question Analytic Error Taxonomy Gate.
 
+### INT-04 — Reusable reasoning checklists
+
+Status: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**
+
+Canonical block:
+
+`INT-04_reusable_reasoning_checklists_fast_routing_deep_gate_escalation_pre_response.md`
+
+Established:
+
+1. universal C0 preflight;
+2. trigger-based specialist checklists C1–C13;
+3. lightweight Q0/Q1 paths separated from integrated/deep Q2/Q3 and external Q4 paths;
+4. mandatory deep-gate escalation when a red flag is triggered;
+5. FAST-12, STRONG-16, REPAIR-12, HIGH-STAKES-12, and FINAL-8 compact cards;
+6. no mechanical checklist score or confidence-by-item-count;
+7. checklist-layer failure modes including laundering, over-routing, under-routing, ritual rivals, confidence counting, and deep-gate bypass;
+8. explicit domain/source/version routing;
+9. final pre-response anti-overclaim control;
+10. 96-question Checklist Architecture Audit.
+
 ## Next block
 
-**INT-04 — Reusable reasoning checklists.**
+**INT-05 — Final sufficiency audit for project purpose.**
 
-Goal: compress the qualification into short operational checklists that route to deeper gates only when the case requires them.
+Goal: determine whether the full qualification stack is sufficient to leave the qualification stage and begin systematic private application.
 
 ## Planned Phase D sequence
 
 1. INT-01 — cross-domain contradiction audit — **complete**;
 2. INT-02 — evidence-to-individual transfer rules — **complete**;
 3. INT-03 — analytic error taxonomy — **complete**;
-4. INT-04 — reusable reasoning checklists — **next**;
-5. INT-05 — final sufficiency audit for project purpose.
+4. INT-04 — reusable reasoning checklists — **complete**;
+5. INT-05 — final sufficiency audit for project purpose — **next**.
 
 ## Privacy boundary
 
