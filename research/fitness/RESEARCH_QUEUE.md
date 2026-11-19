@@ -445,20 +445,23 @@
 - Substrate repletion remains non-equivalent to functional/performance recovery or global readiness.
 - Endurance, sprint/HIIT and resistance exercise retain different likely depletion profiles without fixed mode signatures; mechanical work alone does not predict depletion.
 - Evidence ledger `BIO10-01…BIO10-10` finalized; canonical `BIO-10_substrate_depletion_repletion.md` created.
-- **BIO-11 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- **BIO-11 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-11/PASS-01 metabolic fatigue / limiting factors content revalidation completed 2026-11-19; exact Area 05 Section 11 coverage = **10/10 at content/scope level**.
-- PCr depletion retained as a high-power/repeated-bout contributor without equating PCr depletion to ATP depletion or complete fatigue diagnosis.
-- Glycogen availability retained as task-specific: low glycogen can impair some high-intensity exercise capacity, but no universal short-set failure mechanism or threshold is retained.
-- Pi retained as a major fatigue-relevant metabolite; current human/animal mechanistic evidence supports contractile/Ca2+ effects, but no universal human Pi failure threshold is retained.
-- Ionic disturbance retained as a multi-ion excitability/homeostasis problem; K+ is important but not a one-ion universal switch.
-- Severe acidosis can contribute to fatigue, while H+/pH is not retained as the universal sole cause and lactate is not treated as the acid.
-- Metabolic/ionic disturbance can be expressed through E–C/Ca2+ impairment; detailed E–C physiology remains owned by PHY-10.
-- O2 delivery, extraction/distribution and mitochondrial utilization remain distinct; dominant aerobic limitation is task/population/environment dependent.
-- Mitochondrial capacity is an important peripheral determinant but not a sufficient whole-body performance explanation or synonym for pathology.
-- Heat and dehydration are retained as distinct interacting stressors; no universal dehydration/body-mass-loss or temperature failure threshold is retained.
-- Task-specific limitation is the core rule: the dominant limiter can change by task, starting state, environment and time within the same bout.
-- BIO-11 remains **not CLOSED_FOR_PRACTICE**; no canonical finding or final BIO11 ledger rows are authorized before PASS-02.
-- **CURRENT NEXT: BIO-11/PASS-02 — Closure audit and synthesis.**
+- BIO-11/PASS-02 independent closure audit / synthesis completed 2026-11-19; exact Section 11 coverage = **10/10 PASS** and no project-relevant blocker remains.
+- PASS-01 unresolved gaps = **24/24 RESOLVED**; additional tightening removed any universal Pi>H+, glycogen→Ca2+, dehydration-threshold or mitochondrial-pathology overreach.
+- PCr retained as a high-power/repeated-bout contributor without equating depletion to ATP depletion or complete fatigue diagnosis.
+- Glycogen retained as task specific; low glycogen can impair some high-intensity exercise capacity, but no universal threshold or universal short-set failure mechanism is retained.
+- Pi retained as a major fatigue-relevant metabolite, but no universal human Pi threshold or fixed fatigue hierarchy is retained.
+- Severe intracellular acidosis can contribute to force/power loss, but H+/pH is not retained as the universal sole cause and lactate is not treated as the acid/fatigue toxin.
+- Ionic disturbance retained as a multi-ion excitability/homeostasis problem; K+ is important but not a one-ion switch and plasma K+ is not local muscle interstitial K+.
+- Metabolic/ionic disturbance can be expressed through E–C/Ca2+ impairment; detailed E–C ownership remains PHY/NEU.
+- O2 delivery, local extraction/distribution and mitochondrial utilization remain distinct; systemic O2 delivery can be primary for VO2max in elite endurance contexts without universal transfer.
+- Mitochondrial capacity retained as an important peripheral determinant, not a complete whole-body performance explanation or pathology label.
+- Heat and hydration state retained as distinct interacting stressors; no universal body-mass-loss, dehydration or temperature performance threshold is retained.
+- Heat-illness diagnosis/treatment remains MED; BIO-11 owns only performance/fatigue interpretation of environmental strain.
+- Task profiles retained as hypothesis-generating rather than deterministic; the dominant limiter can change during the same task.
+- Evidence ledger `BIO11-01…BIO11-10` finalized; canonical `BIO-11_metabolic_fatigue_limiting_factors.md` created.
+- **CURRENT NEXT: BIO-12/PASS-01 — Resistance training bioenergetics content revalidation.**
 
 ## История текущего revalidation cycle
 
