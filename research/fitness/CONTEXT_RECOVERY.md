@@ -259,37 +259,43 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-01/PASS-01_basic_energy_concepts_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-01/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `4e8a5ebc54306e4965e5991cee38c2d9eda2c1ca`  
-Evidence ledger commit: `8385891ad1811b83dc1ec298ba2bc2264e25adc5`  
-Evidence ledger: `BIO01-01…BIO01-08` added with **closure audit pending** status.
+PASS commit: `071e7813c67f40e42381b87e217b4704bf5afb6c`  
+Canonical finding commit: `25d721533a13762d9e720cca9579e03c0d8ee98f`  
+Evidence ledger commit: `b81e171d7193cf929f43375f5cc13efb49c7aa75`  
+Evidence ledger: `BIO01-01…BIO01-08` finalized.
 
-BIO-01/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-01/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 1 coverage = **8/8 at content/scope level**;
-2. energy is treated as transfer/transformation rather than creation;
-3. ATP is the principal immediate free-energy/phosphoryl-transfer intermediary for muscle work, not a large long-term fuel store;
-4. ATP pool and ATP turnover are distinct; high utilization/resynthesis flux can coexist with relatively stable [ATP];
-5. actual ΔG is condition dependent and must not be replaced by one standard ΔG°′ value;
-6. ATP concentration and ΔGATP are related but not equivalent energetic variables;
-7. exergonic/endergonic describe thermodynamic driving force, not reaction speed;
-8. endergonic processes can proceed through coupling when the summed ΔG is favorable;
-9. enzymes lower activation barriers and alter kinetics but do not change reaction equilibrium or standard free-energy change;
-10. ATP hydrolysis is not explained as energy release from bond breaking itself;
-11. skeletal-muscle ATP stores are small relative to demand, requiring continuous resynthesis;
-12. ATP concentration is strongly defended during exercise but is not invariant under severe energetic stress;
-13. exact phosphagen/glycolytic/oxidative pathway contributions remain BIO-02/03/06/08 scope;
-14. no content-level blocker remains;
-15. no canonical BIO-01 finding created because closure audit is still required.
+1. exact Area 05 Section 1 coverage = **8/8 PASS**;
+2. energy is treated as conserved/transferred/transformed rather than created;
+3. “ATP energy currency” is retained only as shorthand;
+4. preferred technical framing is activated carrier / immediate phosphoryl-transfer and free-energy intermediary;
+5. ATP pool and ATP turnover are distinct;
+6. high ATP flux can coexist with stable or near-stable ATP concentration;
+7. ATP concentration can still decline under sufficiently severe energetic demand;
+8. [ATP] and ΔGATP are distinct variables;
+9. actual ΔG is condition dependent and distinct from biochemical standard transformed ΔG°′;
+10. exergonic/endergonic classify thermodynamic driving force rather than reaction speed;
+11. activation energy is a kinetic barrier distinct from ΔG;
+12. coupled reactions are judged by the net combined ΔG;
+13. enzyme catalysis lowers activation barriers without changing reaction equilibrium;
+14. ATP hydrolysis is not explained as energy release from bond breaking itself;
+15. muscle ATP stores are retained qualitatively as small relative to exercise demand;
+16. no universal ATP concentration, “seconds stored ATP”, ΔGATP or ATP-turnover value is retained;
+17. continuous ATP resynthesis is required;
+18. exact PCr/glycolytic/oxidative pathway partitioning remains BIO-02/03/06/08;
+19. no project-relevant blocker remains;
+20. first canonical `BIO-01_basic_energy_concepts.md` created.
 
 ### Следующая задача
 
-**BIO-01/PASS-02 — Closure audit and synthesis.**
+**BIO-02/PASS-01 — Phosphagen system content revalidation.**
 
-BIO-01 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start BIO-02 in this completed BIO-01/PASS-01 working block.**
+BIO-01 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-02 in this completed BIO-01 closure block.**
 
 ---
 
@@ -305,9 +311,9 @@ BIO-01 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-01/PASS-01_basic_energy_concepts_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-01/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-01/PASS-02 — Closure audit and synthesis** и остановиться перед BIO-02.
+Затем выполнить только записанный выше **BIO-02/PASS-01 — Phosphagen system content revalidation** и остановиться перед следующим блоком.
 
 ---
 
