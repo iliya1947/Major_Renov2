@@ -133,7 +133,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-09 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 9 closure **9/9 PASS**;
 - BIO-10 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 10 closure **9/9 PASS**;
 - BIO-11 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 11 closure **10/10 PASS**;
-- **CURRENT NEXT: BIO-12/PASS-01 — Resistance training bioenergetics content revalidation.**
+- BIO-12 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 12 coverage **13/13 at content/scope level**;
+- **CURRENT NEXT: BIO-12/PASS-02 — Closure audit and synthesis.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -183,39 +184,38 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-11/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-12/PASS-01_resistance_training_bioenergetics_content_revalidation.md`
 
-PASS commit: `0891f67cfd334216a4379bd8dc32ed60465ce7ba`
+PASS commit: `df0536338f4eedf1cfd3fd57dd03691e861d6adb`
 
-BIO-11/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-12/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 05 Section 11 coverage = **10/10 PASS**;
-2. PASS-01 unresolved gaps = **24/24 RESOLVED**;
-3. no project-relevant blocker remains;
-4. metabolic fatigue retained as task-, state-, time- and environment-dependent rather than one-metabolite fatigue;
-5. PCr retained as a high-power/repeated-bout constraint without equating depletion to ATP depletion or complete fatigue diagnosis;
-6. glycogen retained as task-specific; low glycogen can impair some high-intensity exercise, while no universal glycogen threshold or one glycogen→Ca2+ pathway is retained;
-7. Pi retained as a major fatigue-relevant metabolite, but no universal human Pi threshold or Pi-first hierarchy is retained;
-8. severe intracellular acidosis can contribute to force/power loss, but H+/pH is not a universal sole cause;
-9. ionic fatigue retained as a multi-ion excitability/homeostasis problem; plasma K+ is not treated as local muscle interstitial K+;
-10. E–C/Ca2+ integration retained while detailed ownership remains PHY/NEU;
-11. O2 delivery, local distribution/extraction and mitochondrial utilization remain distinct;
-12. systemic O2 delivery can be primary for VO2max in elite endurance contexts without universal transfer to other tasks/populations;
-13. mitochondrial capacity retained as an important peripheral determinant, not a complete performance explanation or pathology label;
-14. heat and hydration state retained as distinct interacting stressors; no universal dehydration/body-mass-loss or temperature threshold is retained;
-15. WMS 2024 medical heat-illness diagnosis/treatment boundary remains MED;
-16. task profiles retained as hypothesis-generating rather than deterministic laws;
-17. canonical `BIO-11_metabolic_fatigue_limiting_factors.md` created;
-18. evidence ledger `BIO11-01…BIO11-10` finalized;
-19. BIO-11 = **CLOSED_FOR_PRACTICE v2.0**.
+1. exact Area 05 Section 12 coverage = **13/13 at content/scope level**;
+2. no content-level blocker was found;
+3. resistance exercise retained as metabolically mixed rather than anaerobic-only;
+4. within-set energy demand retained as a function of load, reps, tempo, duration, effort, exercise, muscle mass and starting metabolic state rather than one scalar variable;
+5. repetition-tempo effects are matching-dependent: slower tempo can extend TUT/local deoxygenation while faster tempo can permit greater external work and, under matched TUT, greater lactate/HR;
+6. %1RM is not retained as a standalone metabolic dose; lighter/moderate loads near failure can be highly metabolically demanding;
+7. more repetitions per continuous set and higher density generally increase acute metabolic disturbance, but exact magnitude is protocol dependent;
+8. closer proximity to failure generally increases acute metabolic stress/fatigue, while literal failure is not required for chronic adaptation;
+9. rest interval is retained as part of the next set's metabolic starting state; no fixed rest→PCr-recovery mapping is retained;
+10. repeated-set PCr recovery is oxidative and variable; PCr restoration is not complete performance recovery;
+11. moderate/high-rep continuous sets can have substantial glycolytic contribution without a fixed “glycolytic rep range”;
+12. oxidative metabolism contributes during resistance work and between sets; resistance exercise is not anaerobic-only;
+13. higher training density and circuit structures can increase cardiorespiratory/metabolic strain but may reduce mechanical quality;
+14. supersets are retained as time-efficient with generally higher acute internal/metabolic load; superset type materially changes volume/performance effects;
+15. acute metabolic stress, lactate, pump/cell swelling and time-under-tension are not retained as validated independent causal hypertrophy doses;
+16. BIO-12 remains **not CLOSED_FOR_PRACTICE** pending independent PASS-02 audit;
+17. canonical BIO-12 finding and final BIO12 evidence-ledger rows are intentionally not created before closure audit;
+18. PASS-01 defines **30 unresolved audit checks** for PASS-02.
 
 ### Следующая задача
 
-**BIO-12/PASS-01 — Resistance training bioenergetics content revalidation.**
+**BIO-12/PASS-02 — Closure audit and synthesis.**
 
-BIO-11 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-12 only after the next user continue signal; one signal = one saved PASS/block → STOP.
+BIO-12 is **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING** after PASS-01. Start PASS-02 only after the next user continue signal; one signal = one saved PASS/block → STOP.
 
 ---
 
@@ -237,9 +237,9 @@ BIO-11 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-12 only after th
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-11/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-12/PASS-01_resistance_training_bioenergetics_content_revalidation.md`
 
-Затем при следующем пользовательском continue выполнить только записанный выше **BIO-12/PASS-01 — Resistance training bioenergetics content revalidation** и остановиться перед следующим блоком.
+Затем при следующем пользовательском continue выполнить только записанный выше **BIO-12/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
