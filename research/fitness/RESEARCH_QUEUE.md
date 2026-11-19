@@ -226,17 +226,19 @@
 - Direct RT cueing evidence remains mostly acute; durable compound-lift cue architecture is unresolved.
 - ADHD-specific cue architecture remains deliberately deferred to Area 12 / PSY-COA.
 - First canonical NEU-16 finding created as v2.0 because no legacy finding existed in the current branch.
-- **NEU-17 — RESEARCHING.**
+- **NEU-17 — CLOSED_FOR_PRACTICE v2.0.**
 - NEU-17/PASS-01 demonstration/video/modeling content revalidation completed 2026-11-19; exact Area 04 Section 17 coverage = **10/10 at content level**.
+- NEU-17/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 17 coverage = **10/10 PASS** and no project-relevant blocker remains.
 - Observational learning is useful versus no observation but does not replace physical practice.
 - Expert, peer/novice and self-models have different information functions; no universal model hierarchy is retained.
-- 2026 self-modeling meta-analysis shows positive post-test performance but no significant 1-week persistence; a 2026 critical review identifies major power/blinding/retention limitations.
-- Slow motion is not universally superior to real time; interactive learner-controlled replay is a distinct intervention.
-- Combined pre-practice + early interspersed demonstrations can be useful, but no universal observation schedule exists.
+- Self-modeling remains promising but post-test benefit does not yet establish durable superiority; current evidence has substantial methodological limitations.
+- Slow motion is not universally superior to real time; interactive learner-controlled replay is a distinct multifactorial intervention.
+- Pre-practice and interspersed demonstrations can both be useful; no universal observation schedule exists.
 - Attention guidance toward relevant model features can improve learning; “watch everything” is not sufficient instruction.
-- Anthropometry/mobility can alter movement geometry, but anthropometry is not a deterministic technique formula.
+- Anthropometry/mobility can alter movement geometry, but anthropometry is not a deterministic technique formula and exact copying of expert geometry is rejected.
 - Direct compound-lift observational-modeling evidence remains sparse; own-video squat feedback provides narrow direct retention evidence.
-- CURRENT NEXT: **NEU-17/PASS-02 — Closure audit and synthesis.**
+- First canonical NEU-17 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **NEU-18/PASS-01 — Errors and correction content revalidation.**
 
 ## История текущего revalidation cycle
 
