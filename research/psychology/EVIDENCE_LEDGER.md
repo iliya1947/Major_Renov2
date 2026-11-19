@@ -74,6 +74,14 @@
 | PSY-G68 | AI project persona or humanlike style must not be represented as professional licensure, verified human identity, or independent clinical authority | ETH-01; APA AI guidance | HIGH | Role/authority boundary | ACCEPTED |
 | PSY-G69 | Consequential AI-supported psychological inferences must remain contestable and revisable; user correction is evidence to evaluate, not pathology to explain away | ETH-01; PRIVATE_MODEL_UPDATE_CARD | HIGH | Contestability/model revision | ACCEPTED |
 
+| PSY-G70 | Ethical governance is use-case- and lifecycle-specific; approval or suitability for one AI-supported purpose does not transfer automatically to a different purpose or consequence | ETH-02; NIST AI RMF; OECD | HIGH | AI-assisted psychological use | ACCEPTED |
+| PSY-G71 | Data minimization for individualized psychology includes inference minimization: access to private data does not justify generating or surfacing unrelated sensitive psychological propositions | ETH-02; UNESCO; APA | HIGH | Private-model use | ACCEPTED |
+| PSY-G72 | Epistemic strength and downstream stakes are separate axes; a plausible individualized hypothesis does not acquire permission for high-stakes clinical/legal/institutional use merely because it is coherent | ETH-02; DEC-02; NIST | HIGH | Consequential inference | ACCEPTED |
+| PSY-G73 | A materially disputed individualized proposition should remain contestable, revisable, and suspendable from consequential downstream use until the dispute is evaluated | ETH-02; NIST AI RMF Manage 4; OECD | HIGH | Contestability/model revision | ACCEPTED |
+| PSY-G74 | Anthropomorphism, sycophancy, exclusivity, and engagement optimization are interaction-level risk classes; they do not by themselves diagnose dependency, but they require safeguards when they can increase overreliance or distort judgment | ETH-02; APA 2025 chatbot advisory; NIST GAI profile | HIGH | Human-AI interaction | ACCEPTED |
+| PSY-G75 | High-stakes psychological, crisis, capacity, legal, forensic, custody, employment, and comparable decisions must not rely on general-purpose AI as sole decisive authority | ETH-02; SAF; APA; UNESCO/NIST | HIGH | High-stakes AI use | ACCEPTED |
+| PSY-G76 | AI validation and fairness evidence are version-, population-, language-, and context-dependent; material model/tool/source changes can trigger targeted requalification | ETH-02; APA 2026 assessment; NIST/OECD/WHO | HIGH | AI monitoring/revalidation | ACCEPTED |
+
 ## Правила
 
 1. Одна строка = один существенный проверяемый guardrail.
