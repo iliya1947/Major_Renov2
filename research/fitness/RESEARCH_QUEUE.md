@@ -317,20 +317,20 @@
 - Muscle ATP stores are retained qualitatively as small relative to demand; no universal ATP concentration or “seconds of stored ATP” value is retained.
 - Continuous ATP resynthesis is required; exact pathway partitioning remains BIO-02/03/06/08.
 - Evidence ledger `BIO01-01…BIO01-08` finalized; first canonical `BIO-01_basic_energy_concepts.md` created.
-- **BIO-02 — RESEARCHING; PASS-01 COMPLETE.**
+- **BIO-02 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-02/PASS-01 phosphagen-system content revalidation completed 2026-11-19; exact Area 05 Section 2 coverage = **12/12 at content/scope level**.
-- Stored ATP and PCr are distinct; PCr rapidly regenerates ATP through the reversible CK reaction rather than substituting for ATP at ATPases.
-- Adenylate kinase provides secondary nucleotide buffering via `2 ADP ↔ ATP + AMP`; exact quantitative contribution remains context dependent.
+- BIO-02/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 05 Section 2 coverage = **12/12 PASS** and no project-relevant blocker remains.
+- Stored ATP and PCr remain distinct; PCr supports ATP regeneration through reversible CK rather than substituting for ATP at ATPases.
+- Adenylate kinase is retained as secondary nucleotide buffering via `2 ADP ↔ ATP + AMP` without a universal quantitative share.
 - CK/PCr provides very high-rate but limited-capacity ATP buffering.
-- PCr contributes strongly during very brief maximal exercise, but glycolytic and oxidative ATP production are concurrently active; no universal phosphagen-only time window is retained.
-- PCr depletion reflects phosphagen use but is not equivalent to ATP depletion or fatigue.
-- Post-exercise PCr resynthesis is predominantly oxidative and sensitive to mitochondrial/O2 conditions, but O2 delivery is not always the sole rate-limiter.
-- PCr recovery is heterogeneous across protocols/people; no universal full-recovery time or fixed rest→%PCr mapping is retained.
-- Longer rest generally allows more PCr reconstitution and can support repeated high-intensity performance; exact rest prescription remains BIO-12/PRO.
-- Creatine availability can modify the creatine-PCr pool/system; supplementation prescription remains NUT.
-- Evidence ledger `BIO02-01…BIO02-10` added with closure-audit-pending status.
-- No canonical BIO-02 finding created before closure audit.
-- CURRENT NEXT: **BIO-02/PASS-02 — Closure audit and synthesis.**
+- PCr is a major early contributor during very brief maximal work, but glycolytic and oxidative pathways are concurrently active; no phosphagen-only time window is retained.
+- PCr depletion remains distinct from ATP depletion and fatigue.
+- PCr resynthesis is predominantly oxidative and O2-sensitive, but O2 delivery is not universally the sole rate-limiter.
+- PCr recovery is protocol- and physiology-dependent; no universal full-recovery time or fixed rest→%PCr mapping is retained.
+- Longer rest generally permits more PCr reconstitution; exact rest prescription remains BIO-12/PRO.
+- Creatine availability can modify the creatine-PCr system; supplementation prescription remains NUT.
+- Evidence ledger `BIO02-01…BIO02-10` finalized; first canonical `BIO-02_phosphagen_system.md` created.
+- CURRENT NEXT: **BIO-03/PASS-01 — Glycolysis content revalidation.**
 
 ## История текущего revalidation cycle
 
