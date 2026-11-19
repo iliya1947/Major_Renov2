@@ -13,6 +13,9 @@
 - **INT-02 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
 - **INT-03 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
 - **INT-04 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
+- **INT-05 — COMPLETE_FOR_CURRENT_SCOPE v1.0 — 24/24 PASS — GO FOR STAGE 2.**
+- **Stage 1 qualification — COMPLETE_FOR_CURRENT_SCOPE.**
+- **Stage 2 private application — READY_TO_BEGIN.**
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
@@ -1301,12 +1304,65 @@ Established:
 
 **Phase D: IN PROGRESS.**
 
+## Phase D / INT-05 completed
+
+### INT-05 — Final sufficiency audit
+
+Canonical block:
+`research/psychology/qualification/26_integration/INT-05_final_sufficiency_audit_stage2_readiness_requalification_contract.md`
+
+Established:
+
+1. Phase A methodology is sufficient for current project purpose;
+2. Phase B core psychology is complete for current scope;
+3. Phase C applied/clinical interfaces are complete for current scope;
+4. Phase D integration is complete for current scope;
+5. INT-01 found no blocking canonical contradiction;
+6. INT-02 provides person-level transfer and model-maintenance rules;
+7. INT-03 provides analytic error taxonomy and repair;
+8. INT-04 provides practical triggered checklist routing;
+9. psychiatry/psychopharmacology, behavioral genetics, psychoanalysis/psychodynamics, and formal systems modeling remain explicit trigger-based specialty gaps rather than silently qualified domains;
+10. mutable/current claims require exact source/version verification at time of use;
+11. qualification completion does not authorize diagnosis, prescribing, legal/forensic/capacity authority, or sole high-stakes AI decisions;
+12. Stage 2 can begin without any remaining generic qualification blocker.
+
+**INT-05: COMPLETE_FOR_CURRENT_SCOPE v1.0 — 24/24 PASS.**
+
+**Decision: GO FOR STAGE 2 WITH SCOPE CONTROLS.**
+
+**Phase D: COMPLETE_FOR_CURRENT_SCOPE.**
+
+**Stage 1 qualification: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**INT-05 — Final sufficiency audit for project purpose.**
+**Stage 2 / Step 1 — private-only baseline reconciliation of the current psychological model against the completed qualification stack.**
 
-Goal: determine whether the complete qualification stack is sufficient to leave qualification and begin systematic private application, or whether any material knowledge/governance/operational gap still blocks that transition.
+This work occurs only in the private project.
 
-## Deferred
+No individualized observations, model propositions, completed checklists, or model-update cards may be written to GitHub.
 
-All individualized psychological analysis remains outside this repository.
+## Requalification state
+
+No generic qualification block is queued.
+
+Requalification begins only on an explicit trigger:
+
+- current manual/guideline/version change;
+- correction/retraction;
+- material new evidence;
+- generic knowledge gap exposed by private work;
+- unqualified specialty becomes necessary;
+- repeated analytic error;
+- new high-stakes use-case.
+
+## Deferred specialty scope
+
+The following historical directories currently contain README infrastructure only and are **not qualified specialty domains**:
+
+- psychiatry / psychopharmacology;
+- behavioral genetics;
+- psychoanalysis / psychodynamics;
+- formal systems modeling of personality.
+
+Strong specialty claims require targeted requalification before use.
