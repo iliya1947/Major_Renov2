@@ -461,23 +461,26 @@
 - Heat-illness diagnosis/treatment remains MED; BIO-11 owns only performance/fatigue interpretation of environmental strain.
 - Task profiles retained as hypothesis-generating rather than deterministic; the dominant limiter can change during the same task.
 - Evidence ledger `BIO11-01…BIO11-10` finalized; canonical `BIO-11_metabolic_fatigue_limiting_factors.md` created.
-- **BIO-12 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- **BIO-12 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-12/PASS-01 resistance-training bioenergetics content revalidation completed 2026-11-19; exact Area 05 Section 12 coverage = **13/13 at content/scope level**.
-- Resistance exercise retained as metabolically mixed; no universal phosphagen/glycolytic/oxidative percentage split is retained.
-- Set energetic demand retained as dependent on load, reps, tempo, set duration, exercise, muscle mass, proximity to failure, prior work and rest state rather than one scalar prescription variable.
-- Repetition-tempo effects retained as matching-dependent; slower tempo can extend TUT/local deoxygenation while faster tempo can permit more external work and, under matched TUT, greater lactate/HR.
-- %1RM retained as a mechanical constraint rather than standalone metabolic dose; lighter/moderate loads near failure can generate high metabolic disturbance.
-- More repetitions per continuous set and greater density generally increase acute metabolic/fatigue responses, but exact effects remain protocol dependent.
-- Closer proximity to failure generally increases acute metabolic stress; literal failure is not required for hypertrophy/strength adaptations.
-- Rest interval retained as part of the next set's metabolic starting state; no fixed rest→PCr-recovery percentage is retained.
-- Repeated-set PCr recovery remains oxidative/state dependent; PCr restoration is non-equivalent to complete performance recovery.
-- Moderate/high-repetition sets can have substantial glycolytic contribution without a fixed “glycolytic rep range”; blood lactate is not direct glycolytic ATP flux.
-- Oxidative metabolism contributes during resistance exercise and between sets; higher-density circuits can increase VO2/cardiorespiratory demand.
-- Supersets retained as time-efficient with generally higher acute internal/metabolic load; effects depend on superset type and can trade off against mechanical performance/volume.
-- Acute metabolic stress, burn, lactate, pump/cell swelling and TUT are not retained as validated independent causal hypertrophy doses.
-- BIO-12 remains **not CLOSED_FOR_PRACTICE**; canonical finding and final BIO12 ledger rows are deferred until PASS-02.
-- PASS-01 records **30 unresolved audit checks** for independent closure review.
-- **CURRENT NEXT: BIO-12/PASS-02 — Closure audit and synthesis.**
+- BIO-12/PASS-02 independent closure audit / synthesis completed 2026-11-19; exact Section 12 coverage = **13/13 PASS** and no project-relevant blocker remains.
+- PASS-01 unresolved gaps = **30/30 RESOLVED**.
+- Resistance training retained as metabolically mixed; mixed metabolism does not imply equal pathway contribution.
+- Set energetic demand retained as multi-variable; no single %1RM/repetition/TUT/tempo field metric is a complete metabolic dose.
+- Energy-expenditure estimates remain method conditioned; indirect calorimetry does not directly capture total non-oxidative ATP turnover.
+- Tempo effects retained as matching-dependent; nVCO2/SmO2 are proxies rather than direct ATP-flux measures.
+- Load retained as a mechanical constraint rather than standalone metabolic dose; cross-load similarity under failure is protocol specific.
+- More repetitions per continuous set and closer proximity to failure generally increase acute internal strain, while momentary failure is not required for chronic adaptation.
+- Rest interval changes next-set starting state; PCr recovery is oxidative/variable and no fixed rest→PCr percentage is retained.
+- Longer/moderate-high-repetition sets can have substantial glycolytic contribution without a fixed “glycolytic rep range”; lactate is not direct ATP accounting.
+- Oxidative metabolism contributes during resistance work and is central to between-set recovery.
+- Training density, set configuration and rest redistribution alter internal strain independently of external volume metrics.
+- Supersets retained as time efficient with generally higher acute internal load; effects depend on superset type and exercise-specific mechanical trade-offs can occur.
+- Circuit RT can substantially raise cardiorespiratory/metabolic demand without one universal circuit profile.
+- Metabolic stress, burn, lactate, pump/cell swelling and TUT are not retained as established independent causal hypertrophy doses.
+- Acute energy expenditure/strain does not rank chronic adaptation or guarantee chronic fat loss.
+- Evidence ledger `BIO12-01…BIO12-10` finalized; canonical `BIO-12_resistance_training_bioenergetics.md` created.
+- **CURRENT NEXT: BIO-13/PASS-01 — Energy-system development content revalidation.**
 
 ## История текущего revalidation cycle
 
