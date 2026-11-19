@@ -52,6 +52,11 @@
 | PSY-G46 | Prospect-theory or loss-aversion parameter fit does not by itself identify a stable person trait or unique mechanism | DEC-01; PSYCHOMETRICS | HIGH | Risk-choice inference | ACCEPTED |
 | PSY-G47 | Calibration, discrimination, confidence, and overconfidence subtypes are noninterchangeable | DEC-01; MET; PSYCHOMETRICS | HIGH | Forecast/confidence inference | ACCEPTED |
 | PSY-G48 | One risky-choice task does not establish a coherent global risk-preference trait because cross-measure convergence is limited | DEC-01 | HIGH | Risk-preference inference | ACCEPTED |
+| PSY-G49 | Probabilistic forecasts require repeated calibration/discrimination evaluation; one realized outcome cannot validate or invalidate a forecast | DEC-02 | HIGH | Forecast-quality inference | ACCEPTED |
+| PSY-G50 | Brier score is not a pure calibration measure and should not be compared naively across populations with different event rates | DEC-02 | HIGH | Forecast-metric inference | ACCEPTED |
+| PSY-G51 | Crowd/advice quality depends on source accuracy, independence, and calibration; consensus or confidence is not truth | DEC-02; SOC | HIGH | Advice/aggregation inference | ACCEPTED |
+| PSY-G52 | More information is not automatically better; information value depends on whether it can change action relative to its costs | DEC-02; MET | HIGH | Information-search inference | ACCEPTED |
+| PSY-G53 | Decision-aid or debiasing improvements on process/task outcomes do not automatically establish downstream welfare improvement or durable far transfer | DEC-02; BHC | HIGH | Decision-support inference | ACCEPTED |
 
 ## Правила
 
