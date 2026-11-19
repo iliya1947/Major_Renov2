@@ -21,21 +21,15 @@ Use this file to recover work after a new chat or lost context.
 - Phase A methodology: **CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS**.
 - Phase B core psychological science: **IN PROGRESS**.
 - COG foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- `COG-01`: **CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS**.
-- `COG-02`: **CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS**.
-- `COG-03`: **CLOSED_FOR_PRACTICE v1.0 — 15/15 PASS**.
-- `COG-04`: **CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS**.
-- `COG-05`: **CLOSED_FOR_PRACTICE v1.0 — 17/17 PASS**.
-- `COG-06`: **CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS**.
-- `COG-07`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- `COG-08`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- Next block: `EXE-01 — Executive functions and cognitive control: architecture, scope, and core distinctions`.
+- EXE sequence: **IN PROGRESS**.
+- `EXE-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- Next block: `EXE-02 — Goal representation, proactive/reactive control, and hierarchical task control`.
 - Target directory: `research/psychology/qualification/04_executive_functions_and_metacognition/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/03_cognitive_psychology/COG-08_language_lexical_syntax_comprehension_production_prediction_thought.md`
+`research/psychology/qualification/04_executive_functions_and_metacognition/EXE-01_executive_functions_cognitive_control_architecture.md`
 
 ## Hard stop condition
 
