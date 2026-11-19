@@ -370,20 +370,21 @@
 - Severe intracellular acidosis can contribute to force/power fatigue, but fatigue remains multifactorial and interacts with Pi/H2PO4−, K+, Ca2+ and other disturbances.
 - Exercise burn is not a lactate sensor; combined metabolite + afferent signaling is retained.
 - Evidence ledger `BIO05-01…BIO05-09` finalized; canonical `BIO-05_acid_base_buffering.md` created.
-- **BIO-06 — RESEARCHING / PASS-01 COMPLETE.**
+- **BIO-06 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-06/PASS-01 oxidative metabolism / mitochondria content revalidation completed 2026-11-19; exact Area 05 Section 6 coverage = **10/10 at content/scope level**.
-- PDH is retained as the regulated bridge from carbohydrate-derived pyruvate to acetyl-CoA/TCA oxidation; pyruvate oxidation is not automatic.
-- Acetyl-CoA has multiple substrate origins; TCA cycle is an oxidative/reducing-equivalent hub rather than the main direct ATP-producing step.
-- ETC electron flow, proton pumping and ATP synthesis are distinct coupled processes; Complex II does not pump protons in the canonical respiratory-chain model.
-- Oxygen is the terminal electron acceptor at Complex IV, but oxygen availability is not retained as the universal sole limiter of oxidative ATP flux.
-- Fixed textbook ATP/glucose and ATP/NADH values are rejected as universal in-vivo constants; P/O and yield are substrate/coupling/model/state dependent.
-- Mitochondrial content, respiratory capacity, intrinsic function and coupling efficiency are treated as non-equivalent constructs.
-- Citrate synthase is retained as a useful oxidative/mitochondrial marker, not as a complete measure of mitochondrial function.
-- Mitochondrial biogenesis is treated as coordinated remodeling; acute PGC-1α signaling is a regulatory marker rather than the adaptation itself.
-- ET, HIT and SIT can all increase mitochondrial content; one universally superior modality is not retained.
-- Resistance training can also remodel mitochondrial function/content; hypertrophy-related dilution complicates density interpretation.
-- Oxidative enzyme activities/content are trainable but are not direct whole-body performance measures.
-- **CURRENT NEXT: BIO-06/PASS-02 — Closure audit and synthesis.**
+- BIO-06/PASS-02 independent closure audit / synthesis completed 2026-11-19; exact Section 6 coverage = **10/10 PASS** and no project-relevant blocker remains.
+- PDH retained as regulated carbohydrate-derived pyruvate → acetyl-CoA gateway; pyruvate production ≠ oxidation.
+- TCA retained as oxidative/reducing-equivalent hub rather than main direct ATP source.
+- ETC electron transfer, proton pumping and ATP synthase are distinct coupled processes; Complex II is not a proton pump.
+- O2 is terminal electron acceptor but not universal sole limiter of oxidative ATP flux.
+- Fixed ATP/glucose and P/O values are rejected as universal in-vivo constants; O2 consumption ≠ ATP production.
+- Mitochondrial content, mass-specific OXPHOS, intrinsic respiration and coupling efficiency remain non-equivalent constructs.
+- Citrate synthase retained as marker/proxy, not complete mitochondrial-function measurement.
+- Mitochondrial biogenesis treated as coordinated remodeling; PGC-1α signaling ≠ adaptation itself.
+- ET/HIT/SIT all capable of increasing mitochondrial content; no universal best modality retained.
+- Resistance training can remodel mitochondrial respiration/content; hypertrophy-related denominator/dilution effects retained.
+- Evidence ledger `BIO06-01…BIO06-10` finalized; canonical `BIO-06_oxidative_metabolism.md` created.
+- **CURRENT NEXT: BIO-07/PASS-01 — Macronutrient metabolism / substrate selection content revalidation.**
 
 ## История текущего revalidation cycle
 
