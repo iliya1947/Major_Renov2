@@ -27,7 +27,7 @@
 
 ### Phase C — applied and clinical interfaces
 
-Статус: **IN PROGRESS**.
+Статус: **COMPLETE_FOR_CURRENT_SCOPE**.
 
 CLN: **COMPLETE_FOR_CURRENT_SCOPE** after CLN-03.  
 NDEV: **COMPLETE_FOR_CURRENT_SCOPE** after NDEV-02.  
@@ -35,9 +35,10 @@ BHC: **COMPLETE_FOR_CURRENT_SCOPE** after BHC-02.
 REL: **COMPLETE_FOR_CURRENT_SCOPE** after REL-02.  
 DEC: **COMPLETE_FOR_CURRENT_SCOPE** after DEC-02.  
 SAF: **COMPLETE_FOR_CURRENT_SCOPE** after SAF-02.  
-Current domain: ETH — **IN PROGRESS**.  
+ETH: **COMPLETE_FOR_CURRENT_SCOPE** after ETH-02.  
 ETH-01: **CLOSED_FOR_PRACTICE v1.0**.  
-Next block: ETH-02 — applied ethical governance and Phase C sufficiency audit.
+ETH-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.  
+Next qualification step: **Phase D / Step 1 — cross-domain contradiction audit**.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 Canonical BHC storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
@@ -48,7 +49,9 @@ Canonical ETH storage: `research/psychology/qualification/25_ethics_individualiz
 
 ### Phase D — integration
 
-После Phase C:
+Статус: **NOT_STARTED**.
+
+Следующий этап квалификации:
 
 1. cross-domain contradiction audit;
 2. evidence-to-individual transfer rules;
