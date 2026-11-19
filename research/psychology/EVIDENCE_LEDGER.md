@@ -32,6 +32,11 @@
 | PSY-G26 | Efficacy, real-world effectiveness, and implementation success are distinct targets | BHC-01 | HIGH | Intervention transport/implementation | ACCEPTED |
 | PSY-G27 | Fidelity requires separating delivery, receipt, and enactment; attendance/completion are not substitutes | BHC-01 | HIGH | Intervention fidelity/adherence | ACCEPTED |
 | PSY-G28 | Average treatment effects and subgroup findings do not automatically justify person-specific treatment matching | BHC-01; PSY-RES-09 | HIGH | Personalized intervention inference | ACCEPTED |
+| PSY-G29 | Similar average outcomes across bona fide therapies do not prove exact equivalence or identical mechanisms | BHC-02 | HIGH | Comparative psychotherapy inference | ACCEPTED |
+| PSY-G30 | Working alliance is a robust process-outcome correlate but is not by itself a proven one-way causal mechanism | BHC-02; BHC-01 | HIGH | Psychotherapy process inference | ACCEPTED |
+| PSY-G31 | Therapist-level outcome variance does not establish one fixed therapist-quality trait; patient mix/context/skills contribute | BHC-02 | HIGH | Provider-effect inference | ACCEPTED |
+| PSY-G32 | Absence of reported psychotherapy harms does not establish safety; harm monitoring is heterogeneous/incomplete | BHC-02 | HIGH | Benefit-risk inference | ACCEPTED |
+| PSY-G33 | Patient preference/personalization is a legitimate decision input but does not automatically identify the most effective treatment | BHC-02 | HIGH | Treatment selection | ACCEPTED |
 
 ## Правила
 
