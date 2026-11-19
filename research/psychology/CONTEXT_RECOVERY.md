@@ -27,13 +27,14 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- Next block: `LEA-04 — Habit formation and goal-directed/habit arbitration: outcome devaluation, contingency degradation, automaticity, overtraining, and measurement validity`.
+- `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- Next block: `LEA-05 — Extinction, renewal/reinstatement, inhibitory learning, and reconsolidation: boundary conditions and evidence validity`.
 - Target directory: `research/psychology/qualification/03_cognitive_psychology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/03_cognitive_psychology/LEA-03_reinforcement_learning_prediction_error_state_representation_dopamine.md`
+`research/psychology/qualification/03_cognitive_psychology/LEA-04_habit_formation_goal_directed_arbitration_devaluation_contingency_automaticity_validity.md`
 
 ## Hard stop condition
 
