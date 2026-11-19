@@ -459,7 +459,7 @@ Established:
 
 ### PER-01 — Personality foundations
 Canonical block:
-`research/psychology/qualification/07_personality_and_individual_differences/PER-01_personality_foundations_traits_states_situations_structure_stability_measurement.md`
+`research/psychology/qualification/07_personality_and_individual_differences/PER-01_personality_foundations_traits_states_person_situation_big_five_hexaco_stability_measurement.md`
 
 Established:
 1. traits are probabilistic individual-difference tendencies and are distinct from momentary states/behaviors;
@@ -479,7 +479,7 @@ Established:
 
 ## Current next action
 
-**PER-02 — Personality assessment and person-level inference: facets/nuances, self–informant discrepancies, response styles, faking, criterion prediction, incremental validity, and individual-score interpretation.**
+**PER-02 — Personality hierarchy and criterion validity: domains, aspects, facets, nuances, bandwidth–fidelity tradeoffs, broad versus narrow prediction, incremental validity, jingle/jangle fallacies, and multi-method assessment.**
 
 Goal: deepen consequential personality-score interpretation, including facet/nuance bandwidth, self–informant disagreement, response styles/faking, criterion prediction, incremental validity, reliability and individual-score uncertainty.
 
