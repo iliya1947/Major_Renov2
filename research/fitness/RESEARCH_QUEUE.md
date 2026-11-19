@@ -480,7 +480,25 @@
 - Metabolic stress, burn, lactate, pump/cell swelling and TUT are not retained as established independent causal hypertrophy doses.
 - Acute energy expenditure/strain does not rank chronic adaptation or guarantee chronic fat loss.
 - Evidence ledger `BIO12-01…BIO12-10` finalized; canonical `BIO-12_resistance_training_bioenergetics.md` created.
-- **CURRENT NEXT: BIO-13/PASS-01 — Energy-system development content revalidation.**
+- **BIO-13 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- BIO-13/PASS-01 energy-system development content revalidation completed 2026-11-19; exact Area 05 Section 13 coverage = **10/10 at content/scope level**.
+- Energy-system development retained as biasing relative energetic demand rather than isolating one pathway.
+- Intensity and work duration retained as interacting variables; no intensity/time bracket owns one exclusive energy system.
+- Same work:rest ratio can produce different physiology when absolute work/rest durations differ.
+- Shorter recovery can increase residual VO2/internal load while reducing repeated-sprint output; acute response is not automatically chronic superiority.
+- Exercise mode retained as part of the stimulus; current running/cycling cross-training evidence does not prove full interchangeability or no transfer.
+- Frequency retained as dose distribution rather than an independent energy-system switch; current untrained SIT evidence shows uncertain frequency/work:rest moderation of VO2max.
+- More sprint repetitions per session do not necessarily produce more VO2max adaptation.
+- Phosphagen-focused training retained as brief high-power/output-preservation bias, not PCr-only training.
+- Glycolytic-focused training retained as denser/sustained high-rate metabolic bias, without treating lactate as direct ATP flux.
+- Oxidative-focused training retained as sustained oxidative demand; long HIIT intervals can increase acute high-VO2 exposure, while tVO2max is not a proven chronic dose.
+- SIT can improve aerobic fitness; “anaerobic-looking” work is not aerobically irrelevant.
+- Mixed-demand tasks require mixed energetic preparation without assuming one protocol maximizes every quality.
+- Specificity retained as multidimensional/graded; general physiological adaptation is non-equivalent to target-task transfer.
+- Population-level meta-regression “optimal” interval values are not retained as individual prescriptions.
+- BIO-13 remains **not CLOSED_FOR_PRACTICE**; canonical finding and final BIO13 ledger rows are deferred until PASS-02.
+- PASS-01 records **32 unresolved audit checks** for independent closure review.
+- **CURRENT NEXT: BIO-13/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
