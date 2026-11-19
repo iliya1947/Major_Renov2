@@ -224,8 +224,9 @@
 6. BIO-02 = **CLOSED_FOR_PRACTICE v2.0**.
 7. BIO-03 = **CLOSED_FOR_PRACTICE v2.0**.
 8. BIO-04 = **CLOSED_FOR_PRACTICE v2.0**.
-9. **CURRENT NEXT: BIO-05/PASS-01 — Acid–base physiology and buffering content revalidation.**
-10. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
+9. BIO-05/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**, exact Section 5 content coverage **8/8**.
+10. **CURRENT NEXT: BIO-05/PASS-02 — Closure audit and synthesis.**
+11. После одного следующего законченного блока: сохранить state → STOP; BIO-06 автоматически не запускать.
 
 Авторитет текущей точки: PR #5 identity/workspace lock → фактическая ветка → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → последний PASS.
 
@@ -244,7 +245,7 @@
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **BIO-05/PASS-01 — Acid–base physiology and buffering content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **BIO-05/PASS-02 — Closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
