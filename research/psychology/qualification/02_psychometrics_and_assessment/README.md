@@ -35,11 +35,39 @@ Established:
 13. digital/automated assessment retains ordinary validity, fairness, and precision requirements;
 14. a 72-question Applied Psychometrics Inference Gate and 18/18 closure audit are canonical.
 
+### PSYCHOMETRICS-02 — Latent-variable and item-response measurement
+
+Status: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**
+
+Canonical block:
+
+`PSYCHOMETRICS-02_latent_variable_irt_rasch_information_local_dependence_dif_factor_scores_test_construction.md`
+
+Established:
+
+1. CTT, factor analysis, IRT, and Rasch are frameworks rather than a hierarchy of truth;
+2. latent variables require explicit identification/scaling conventions;
+3. theta and factor scores are estimates rather than direct observations;
+4. ordinal factor analysis and IRT can represent closely related latent structures while differing in estimation;
+5. unidimensionality is a response-structure claim rather than psychological ontology;
+6. local dependence can inflate information/discrimination and understate person-score uncertainty;
+7. Rasch/1PL/2PL/3PL and major polytomous models require claim-matched selection;
+8. Rasch invariance/specific-objectivity claims are conditional on model/calibration rather than automatic;
+9. item discrimination and item information are not substitutes for validity/content quality;
+10. MLE/MAP/EAP/WLE and factor-score estimators can produce materially different person estimates;
+11. factor-score estimates remain error-prone even with large samples;
+12. model fit requires global/item/person/residual diagnostics and should not be reduced to one fixed cutoff;
+13. DIF is conditional item-functioning difference, not automatically item bias;
+14. anchor choice and item-level vs test-level DIF impact matter;
+15. item deletion changes construct operationalization and must preserve content coverage;
+16. calibration, linking, transport, and item drift constrain score comparability;
+17. a 84-question Latent Measurement / IRT Inference Gate and 18/18 closure audit are canonical.
+
 ## Next dependency
 
-**PSYCHOMETRICS-02 — Latent-variable and item-response measurement: CTT vs IRT/Rasch, item information, local independence, DIF, factor scores, scoring, test construction, and person-level model limits.**
+**PSYCHOMETRICS-03 — Psychometrics integration and sufficiency audit: score-use × model-level consistency, individual interpretation, fairness, change, and closure decision.**
 
-This closes the item-level/model-based measurement gap explicitly deferred by Phase A.
+This block adds no new taxonomy. It audits PSYCHOMETRICS-01 and -02 as one inference system and determines whether Phase B can close.
 
 ## Content rule
 
