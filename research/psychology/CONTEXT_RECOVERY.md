@@ -40,7 +40,7 @@ If control files disagree:
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **IN PROGRESS**.
-- Current domain: **REL / interpersonal processes, attachment, conflict and communication — IN PROGRESS**.
+- Current domain: **DEC / judgment, decision-making, heuristics, and risk — NEXT**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
@@ -52,13 +52,14 @@ If control files disagree:
 - BHC-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - BHC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - REL-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- REL sequence: **IN PROGRESS**.
-- Next block: **REL-02 — Conflict and communication architecture: demand/withdraw and reciprocal escalation, validation/invalidation, responsiveness, repair, attribution, power/asymmetry, boundaries, coercive versus ordinary conflict, communication measurement, and causal limits**.
-- Target directory: `research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`.
+- REL-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
+- REL sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
+- Next block: **DEC-01 — Judgment and decision foundations: normative versus descriptive models, probability/risk representation, heuristics and biases, framing/reference dependence, calibration, base rates, choice architecture, and inference limits**.
+- Target directory: `research/psychology/qualification/19_decision_strategy_and_prediction/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/REL-01_interpersonal_attachment_foundations_dimensions_measurement_dyadic_partner_effects_regulation_continuity_change_limits.md`
+`research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/REL-02_conflict_communication_reciprocal_sequences_validation_repair_power_coercion_measurement_sufficiency_audit.md`
 
 ## 5. Cabinet architecture state
 
@@ -128,6 +129,6 @@ Stop immediately if:
 
 After recovery, the next qualification block remains:
 
-**REL-02 — Conflict and communication architecture: demand/withdraw and reciprocal escalation, validation/invalidation, responsiveness, repair, attribution, power/asymmetry, boundaries, coercive versus ordinary conflict, communication measurement, and causal limits.**
+**DEC-01 — Judgment and decision foundations: normative versus descriptive models, probability/risk representation, heuristics and biases, framing/reference dependence, calibration, base rates, choice architecture, and inference limits.**
 
-Canonical target: `research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`.
+Canonical target: `research/psychology/qualification/19_decision_strategy_and_prediction/`.
