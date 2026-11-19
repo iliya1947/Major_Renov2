@@ -330,7 +330,21 @@
 - Longer rest generally permits more PCr reconstitution; exact rest prescription remains BIO-12/PRO.
 - Creatine availability can modify the creatine-PCr system; supplementation prescription remains NUT.
 - Evidence ledger `BIO02-01…BIO02-10` finalized; first canonical `BIO-02_phosphagen_system.md` created.
-- CURRENT NEXT: **BIO-03/PASS-01 — Glycolysis content revalidation.**
+- **BIO-03 — RESEARCHING; PASS-01 COMPLETE.**
+- BIO-03/PASS-01 glycolysis content revalidation completed 2026-11-19; exact Area 05 Section 3 coverage = **11/11 at content/scope level**.
+- Glycolysis is cytosolic and does not directly consume O2; high glycolytic flux/lactate formation can occur in oxygenated muscle.
+- Free glucose and muscle glycogen differ in entry cost; classic net yield is 2 ATP from free glucose and 3 ATP for most glycogen-derived glucosyl units entering as G6P, with branch-point nuance.
+- Glycolytic ATP yield, ATP-production rate and total carbohydrate-oxidation ATP yield are explicitly separated.
+- Pyruvate is a branch-point metabolite; LDH-mediated lactate formation regenerates NAD+, while mitochondrial redox shuttles provide another cytosolic redox route.
+- Lactate formation is not evidence of tissue anoxia; deep lactate transport/oxidation remains BIO-04.
+- Glycolytic ATP flux can rise rapidly during high-intensity work while phosphagen and oxidative pathways remain concurrently active.
+- Glycolytic rate can fall during continuing all-out exercise; maximal effort does not imply constant pathway flux.
+- Resistance/high-intensity exercise can substantially deplete muscle glycogen, but depletion is task/protocol dependent and not equivalent to total glycogen exhaustion.
+- Glycogen repletion is retained as time/nutrient dependent; exact carbohydrate prescription remains BIO-10/NUT.
+- Glycolytic enzymes are trainable but responses are protocol/enzyme specific; enzyme activity is not a direct surrogate for in-vivo flux or performance.
+- Evidence ledger `BIO03-01…BIO03-10` added with closure-audit-pending status.
+- No canonical BIO-03 finding created before closure audit.
+- CURRENT NEXT: **BIO-03/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
