@@ -40,17 +40,19 @@ If control files disagree:
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **IN PROGRESS**.
-- Current domain: **NDEV / neurodevelopmental conditions — NEXT**.
+- Current domain: **NDEV / neurodevelopmental conditions — IN PROGRESS**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - CLN sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- Next block: **NDEV-01 — Neurodevelopmental foundations: developmental onset and course, ADHD/autism boundaries, executive-function variability, masking/compensation, comorbidity, and differential limits**.
+- NDEV-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- NDEV sequence: **IN PROGRESS**.
+- Next block: **NDEV-02 — Broader neurodevelopmental differential: intellectual developmental disorder/adaptive functioning, language and social-communication disorders, specific learning disorder, developmental coordination disorder, tic/Tourette spectrum, uneven developmental profiles, and cross-condition comorbidity/boundaries**.
 - Target directory: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/12_psychopathology/CLN-03_disorder_family_pattern_recognition_exclusion_boundaries_internalizing_psychosis_bipolar_ocd_trauma_eating_dissociation_substance_personality.md`
+`research/psychology/qualification/21_neurodevelopmental_conditions/NDEV-01_neurodevelopmental_foundations_adhd_autism_onset_course_executive_function_masking_comorbidity_differential_limits.md`
 
 ## 5. Cabinet architecture state
 
@@ -120,6 +122,6 @@ Stop immediately if:
 
 After recovery, the next qualification block remains:
 
-**NDEV-01 — Neurodevelopmental foundations: developmental onset and course, ADHD/autism boundaries, executive-function variability, masking/compensation, comorbidity, and differential limits.**
+**NDEV-02 — Broader neurodevelopmental differential: intellectual developmental disorder/adaptive functioning, language and social-communication disorders, specific learning disorder, developmental coordination disorder, tic/Tourette spectrum, uneven developmental profiles, and cross-condition comorbidity/boundaries.**
 
 Canonical target: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
