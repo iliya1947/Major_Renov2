@@ -259,42 +259,40 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-02/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-03/PASS-01_glycolysis_revalidation.md`
 
-PASS commit: `dd5d90c67a51e576f6c189cf5992940d03956e2e`  
-Canonical finding commit: `5d3e8b5c2d152181aa53289b404b06ea8258202c`  
-Evidence ledger commit: `c81b7af327ad4de782b56b89aa86a4d3a0669a38`  
-Evidence ledger: `BIO02-01…BIO02-10` finalized.
+PASS commit: `2218b749e71544cf36af87c89b6a82c7c4a9b9d8`  
+Evidence ledger commit: `3c8aa36e54c32410e6c114ca59a3b79ec41aeda9`  
+Evidence ledger: `BIO03-01…BIO03-10` added with **closure audit pending** status.
 
-BIO-02/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-03/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 05 Section 2 coverage = **12/12 PASS**;
-2. “phosphagen system” remains an operational umbrella term for stored ATP + CK/PCr + secondary adenylate-kinase buffering;
-3. stored ATP and PCr are distinct;
-4. PCr supports ATP regeneration through reversible CK rather than directly replacing ATP at ATPases;
-5. CK/PCr is retained as temporal/spatial energy buffering without requiring one universal literal shuttle topology;
-6. adenylate kinase is retained as secondary nucleotide buffering without a universal fractional ATP contribution;
-7. phosphagen ATP regeneration is very high-rate but limited-capacity;
-8. PCr is a major early contributor to very brief maximal work but is never the sole ATP source;
-9. glycolytic and oxidative pathways contribute concurrently from the early phase;
-10. PCr depletion is distinct from ATP depletion and fatigue;
-11. post-exercise PCr resynthesis is predominantly oxidative;
-12. O2 availability can alter PCr recovery, but O2 delivery is not universally the sole rate-limiter;
-13. PCr recovery kinetics are protocol- and physiology-dependent;
-14. no universal “fully restored after X minutes” rule is retained;
-15. longer rest generally permits more PCr reconstitution but does not define one optimal rest prescription;
-16. creatine availability can modify the creatine-PCr system while dosing/efficacy/safety remain NUT;
-17. BIO-12/PRO/TST/NUT boundaries remain intact;
-18. no project-relevant blocker remains;
-19. first canonical `BIO-02_phosphagen_system.md` created.
+1. exact Area 05 Section 3 coverage = **11/11 at content/scope level**;
+2. glycolysis is cytosolic and does not directly consume molecular O2;
+3. high glycolytic flux and lactate formation can occur in oxygenated skeletal muscle;
+4. free glucose and muscle glycogen converge at G6P but differ in ATP entry cost;
+5. classic net glycolytic yield is 2 ATP from free glucose and 3 ATP for most glycogen-derived glucosyl units entering as G6P, with branch-point nuance;
+6. glycolytic ATP yield is distinct from glycolytic ATP-production rate and total downstream oxidative ATP yield;
+7. pyruvate is a branch-point metabolite rather than a uniquely “aerobic” product;
+8. LDH-mediated lactate formation regenerates cytosolic NAD+; mitochondrial redox shuttles provide another redox-handling route;
+9. lactate formation is not evidence of tissue anoxia;
+10. glycolytic ATP flux can rise rapidly during high-intensity work while phosphagen and oxidative pathways remain concurrently active;
+11. glycolytic rate can decline during continuing maximal work;
+12. high-intensity/resistance exercise can substantially reduce muscle glycogen, but depletion is protocol dependent and not equivalent to total exhaustion;
+13. low glycogen can impair some high-intensity tasks but is not a universal sole fatigue cause;
+14. glycogen repletion is time/nutrient dependent; exact carbohydrate prescription remains BIO-10/NUT;
+15. glycolytic enzyme content/activity is trainable but adaptation is protocol/enzyme specific and not a direct surrogate for in-vivo flux/performance;
+16. deep lactate transport/oxidation/shuttle/threshold work remains BIO-04;
+17. no content-level blocker remains;
+18. no canonical BIO-03 finding created because closure audit is still required.
 
 ### Следующая задача
 
-**BIO-03/PASS-01 — Glycolysis content revalidation.**
+**BIO-03/PASS-02 — Closure audit and synthesis.**
 
-BIO-02 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-03 in this completed BIO-02 closure block.**
+BIO-03 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start BIO-04 in this completed BIO-03/PASS-01 working block.**
 
 ---
 
@@ -310,9 +308,9 @@ BIO-02 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-02/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-03/PASS-01_glycolysis_revalidation.md`
 
-Затем выполнить только записанный выше **BIO-03/PASS-01 — Glycolysis content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-03/PASS-02 — Closure audit and synthesis** и остановиться перед BIO-04.
 
 ---
 
