@@ -31,17 +31,40 @@ Established:
 9. blocking canonical contradictions found: **0**;
 10. a 120-question Cross-Domain Consistency Gate.
 
+### INT-02 — Evidence-to-individual transfer rules
+
+Status: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**
+
+Canonical block:
+
+`INT-02_evidence_to_individual_transfer_provenance_applicability_confidence_model_update.md`
+
+Established:
+
+1. proposition-level rather than whole-person transfer;
+2. explicit provenance classes;
+3. claim-relative direct/proxy evidence;
+4. population/subgroup applicability chain;
+5. integrated L0–L6 Individual Evidence Ladder;
+6. evidence-dependency graphs and critical-premise propagation;
+7. claim-specific OPEN/LOW/MODERATE/HIGH/VERY HIGH confidence;
+8. independent S0–S4 stakes and U0–U5 use-permission axes;
+9. explicit model update / no-update / split / merge / retire rules;
+10. correction propagation and consequential-use suspension;
+11. stop/defer/escalate routing;
+12. 144-question Integrated Evidence-to-Individual Transfer Gate.
+
 ## Next block
 
-**INT-02 — Evidence-to-individual transfer rules.**
+**INT-03 — Analytic error taxonomy.**
 
-Goal: create one reusable protocol for translating population/domain evidence into private person-specific propositions while preserving construct, measurement, causal, temporal, developmental, ethical, privacy, and safety boundaries.
+Goal: unify existing generic error classes and domain-specific failure modes into one taxonomy organized by the stage where reasoning fails.
 
 ## Planned Phase D sequence
 
 1. INT-01 — cross-domain contradiction audit — **complete**;
-2. INT-02 — evidence-to-individual transfer rules — **next**;
-3. INT-03 — analytic error taxonomy;
+2. INT-02 — evidence-to-individual transfer rules — **complete**;
+3. INT-03 — analytic error taxonomy — **next**;
 4. INT-04 — reusable reasoning checklists;
 5. INT-05 — final sufficiency audit for project purpose.
 
