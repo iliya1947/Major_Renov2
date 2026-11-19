@@ -22,20 +22,15 @@ Use this file to recover work after a new chat or lost context.
 - Phase B core psychological science: **IN PROGRESS**.
 - COG foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - EXE foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- MET sequence: **NEXT**.
-- `EXE-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- `EXE-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- `EXE-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- `EXE-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- `EXE-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- `EXE-06`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- Next block: `MET-01 — Metacognition: monitoring, confidence, calibration, control, and first-order/second-order boundaries`.
+- MET sequence: **IN PROGRESS**.
+- `MET-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- Next block: `MET-02 — Metacognitive control: information seeking, revision, abstention, strategy selection, and stopping rules`.
 - Target directory: `research/psychology/qualification/04_executive_functions_and_metacognition/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/04_executive_functions_and_metacognition/EXE-06_control_allocation_cognitive_effort_demand_avoidance_expected_value.md`
+`research/psychology/qualification/04_executive_functions_and_metacognition/MET-01_metacognition_monitoring_confidence_calibration_control.md`
 
 ## Hard stop condition
 
