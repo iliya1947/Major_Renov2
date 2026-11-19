@@ -34,15 +34,16 @@ NDEV: **COMPLETE_FOR_CURRENT_SCOPE** after NDEV-02.
 BHC: **COMPLETE_FOR_CURRENT_SCOPE** after BHC-02.  
 REL: **COMPLETE_FOR_CURRENT_SCOPE** after REL-02.  
 DEC: **COMPLETE_FOR_CURRENT_SCOPE** after DEC-02.  
-Current domain: SAF — **IN PROGRESS**.  
-SAF-01: **CLOSED_FOR_PRACTICE v1.0**.  
-Next block: SAF-02 — safety management and continuity.
+SAF: **COMPLETE_FOR_CURRENT_SCOPE** after SAF-02.  
+Current next domain: ETH.  
+Next block: ETH-01 — ethics foundations for individualized psychological inference and AI-assisted analysis.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 Canonical BHC storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
 Canonical REL storage: `research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`.
 Canonical DEC storage: `research/psychology/qualification/19_decision_strategy_and_prediction/`.
 Canonical SAF storage: `research/psychology/qualification/24_safety_crisis_referral_thresholds/`.
+Canonical ETH storage: `research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/`.
 
 ### Phase D — integration
 
