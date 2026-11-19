@@ -18,6 +18,7 @@
 - **SOC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **SOC-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -392,11 +393,29 @@ Established:
 12. 2026 263-study review shows major psychometric/conceptual fragility in prejudice/stereotype measurement;
 13. 64-question Social Categorization/Prejudice/Bias Inference Gate and 18/18 closure audit are canonical.
 
+### SOC-04 — Social identity, norms, influence, contact, and cooperation
+Canonical block:
+`research/psychology/qualification/08_social_psychology/SOC-04_social_identity_norms_conformity_influence_contact_cooperation_measurement.md`
+
+Established:
+1. category membership, social identification, identity strength, identity salience, and identity content are distinct;
+2. identification can increase norm sensitivity but does not equal obedience or conformity;
+3. descriptive and injunctive norms are distinct, referent-dependent constructs; perceived and actual norms must also be separated;
+4. public compliance differs from private acceptance/internalization;
+5. normative, informational, and identity-based/referent informational influence can coexist;
+6. majority consensus is not objective correctness and source independence matters;
+7. cooperation differs from altruism and can arise through reciprocity, norms, incentives, identity, or interdependence;
+8. 2026 meta-analysis shows intergroup competition can increase intragroup cooperation under experimental social-dilemma conditions;
+9. positive and negative intergroup contact are asymmetric, with stronger detrimental effects of negative contact in the 2024 meta-analysis;
+10. contact frequency differs from contact quality/valence, and self-selection is a core causal problem;
+11. 2026 re-analysis of 31 longitudinal datasets shows contact-attitude causal inference is sensitive to confounding/model specification;
+12. 66-question Social Influence / Identity / Contact Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**SOC-04 — Social identity, group norms, conformity, social influence, intergroup contact, cooperation/competition, and measurement boundaries.**
+**SOC-05 — Social psychology integration/sufficiency audit: person perception, mentalizing/empathy, categorization/prejudice, identity/norms/influence, contact/cooperation, measurement, and cross-domain boundaries.**
 
-Goal: establish group-process foundations: social identity, descriptive/injunctive norms, informational/normative influence, conformity, contact, cooperation/competition, and the distinction between public compliance and private belief change.
+Goal: synthesize SOC-01…04, audit contradictions and remaining gaps, define reusable social-reasoning rules, and either close SOC for current scope or identify one concrete blocking dependency.
 
 Target domain:
 
