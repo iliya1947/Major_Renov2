@@ -30,6 +30,7 @@ Use this file to recover work after a new chat or lost context.
 - SOC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - PER sequence: **IN PROGRESS**.
 - `PER-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `PER-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `SOC-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `SOC-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `SOC-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -53,13 +54,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `PER-02 — Personality hierarchy and criterion validity: domains, aspects, facets, nuances, bandwidth–fidelity tradeoffs, broad versus narrow prediction, incremental validity, jingle/jangle fallacies, and multi-method assessment`.
+- Next block: `PER-03 — Personality development and intentional change: life events, goals, state change, trait change, intervention effects, selection versus socialization, causal inference, and measurement boundaries`.
 - Target directory: `research/psychology/qualification/07_personality_and_individual_differences/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/07_personality_and_individual_differences/PER-01_personality_foundations_traits_states_person_situation_big_five_hexaco_stability_measurement.md`
+`research/psychology/qualification/07_personality_and_individual_differences/PER-02_personality_hierarchy_criterion_validity_facets_nuances_bandwidth_incremental_multimethod.md`
 
 ## Hard stop condition
 
