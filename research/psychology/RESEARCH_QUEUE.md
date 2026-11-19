@@ -16,6 +16,8 @@
 - **STR sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **SOC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- **DEV sequence: IN PROGRESS.**
+- **DEV-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PER-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PER-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PER-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -539,11 +541,34 @@ Established:
 
 **PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase B / DEV completed
+
+### DEV-01 — Developmental foundations
+Canonical block:
+`research/psychology/qualification/10_developmental_psychology/DEV-01_developmental_foundations_age_maturation_timing_sensitive_periods_continuity_cohort_measurement.md`
+
+Established:
+1. chronological age is a developmental index, not a causal mechanism;
+2. developmental clocks/timescales must match the process under study;
+3. maturation and chronological age are distinct, including pubertal status, timing, tempo and hormone/physical indicators;
+4. sensitive and critical periods are different causal claims; human timing evidence is system-, exposure-, and outcome-specific;
+5. plasticity can increase both opportunity and vulnerability and does not imply unlimited reversibility;
+6. homotypic/heterotypic continuity require separation of behavioral form, function, construct and mechanism;
+7. changing developmental measures can improve construct validity but create longitudinal linking problems;
+8. measurement invariance is important but does not prove construct identity;
+9. cross-sectional, longitudinal and accelerated/cohort-sequential designs support different inferences;
+10. age, period and cohort are exactly collinear and require explicit identifying assumptions;
+11. practice/retest, attrition, selective survival and burden can bias developmental trajectories;
+12. developmental cascades/transactions are frameworks, not causal proof;
+13. 70-question Developmental Timing / Measurement Inference Gate and 18/18 closure audit are canonical.
+
+**DEV sequence: IN PROGRESS.**
+
 ## Current next action
 
-**DEV-01 — Developmental foundations: age, maturation, developmental timing, sensitive periods, continuity/change, plasticity, cohort effects, and measurement boundaries.**
+**DEV-02 — Developmental mechanisms and trajectories: transactional processes, developmental cascades, equifinality/multifinality, family/peer/school contexts, cumulative and timing effects, differential susceptibility, and causal inference.**
 
-Goal: establish developmental inference foundations, including age versus maturation, developmental timing, sensitive periods, continuity/change, plasticity, cohort effects, longitudinal design and measurement boundaries.
+Goal: establish how reciprocal person–environment transactions and cross-domain cascades generate divergent developmental pathways, while separating cumulative exposure, developmental timing, susceptibility, context and causal identification.
 
 Target domain:
 
