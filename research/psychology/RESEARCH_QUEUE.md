@@ -8,7 +8,7 @@
 - **Phase A — Research and inference methodology: CLOSED_FOR_PRACTICE v1.0.**
 - **Phase B — Core psychological science: COMPLETE_FOR_CURRENT_SCOPE.**
 - **Phase C — Applied and clinical interfaces: COMPLETE_FOR_CURRENT_SCOPE.**
-- **Phase D — Integration: IN PROGRESS.**
+- **Phase D — Integration: COMPLETE_FOR_CURRENT_SCOPE.**
 - **INT-01 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
 - **INT-02 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
 - **INT-03 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
