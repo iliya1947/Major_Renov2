@@ -11,6 +11,7 @@ This directory stores topic-level qualification material for **Cognitive psychol
 3. `COG-03_attention_selection_priority_capture_sustained_attention.md` — selective attention, priority control, goal/salience/selection-history influences, attentional capture, sustained attention/vigilance, divided attention, state/trait limits, and a reusable Attention Inference Gate.
 4. `COG-04_working_memory_maintenance_updating_capacity_interference.md` — working-memory model families, maintenance/updating/binding, capacity/interference, attention/control/LTM interfaces, task-family distinctions, transfer limits, and a reusable Working Memory Inference Gate.
 5. `COG-05_long_term_memory_encoding_consolidation_retrieval_reconstruction.md` — declarative memory architecture, encoding/consolidation/retrieval separation, episodic/semantic structure, recognition/recollection/familiarity, forgetting, reconstruction, autobiographical-memory limits, reconsolidation boundaries, and a reusable Long-Term Memory Inference Gate.
+6. `COG-06_semantic_cognition_concepts_representation_control.md` — semantic representation/control, concepts/categories, categorization models, abstraction, concrete/abstract concepts, semantic relations, task impurity, and a reusable Semantic Cognition Inference Gate.
 
 ## Current domain status
 
@@ -19,7 +20,8 @@ This directory stores topic-level qualification material for **Cognitive psychol
 - **COG-03 — CLOSED_FOR_PRACTICE v1.0 — 15/15 PASS.**
 - **COG-04 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
 - **COG-05 — CLOSED_FOR_PRACTICE v1.0 — 17/17 PASS.**
-- Next planned block: **COG-06 — Semantic cognition and concepts: representation, categorization, abstraction, and semantic control.**
+- **COG-06 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
+- Next planned block: **COG-07 — Reasoning and inference: deduction, induction, probabilistic, relational, causal, and model-based inference.**
 
 ## Content rule
 
