@@ -15,6 +15,7 @@ This directory stores topic-level qualification material for **Cognitive psychol
 7. `COG-07_reasoning_inference_deduction_induction_probability_causality.md` — descriptive/normative reasoning boundaries, deduction, induction, probability, relational/analogical inference, causal/counterfactual reasoning, dual-process limits, bounded rationality, and a reusable Reasoning Inference Gate.
 8. `COG-08_language_lexical_syntax_comprehension_production_prediction_thought.md` — lexical/morphosyntactic processing, comprehension/production, prediction, pragmatics, multilingualism, language–thought boundaries, task impurity, and a reusable Language Inference Gate.
 9. `LEA-01_learning_architecture_conditioning_prediction_error_habit_extinction_reconsolidation.md` — learning/performance boundaries, Pavlovian/instrumental learning, contingency and prediction error, RL/model limits, goal-directed/habit boundaries, extinction/relapse, reconsolidation boundary conditions, and a reusable Learning Architecture Inference Gate.
+10. `LEA-02_associative_learning_contingency_blocking_conditioned_inhibition_pit.md` — contingency/timing, conditioned inhibition versus latent inhibition, blocking/overshadowing, cue competition, PIT, awareness/expectancy boundaries, and a reusable Associative Learning Inference Gate.
 
 ## Current domain status
 
@@ -28,8 +29,9 @@ This directory stores topic-level qualification material for **Cognitive psychol
 - **COG-08 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **LEA-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **LEA-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA sequence: IN PROGRESS.**
-- Next planned block: **LEA-02 — Associative learning: contingency, blocking, conditioned inhibition, Pavlovian/instrumental structure, and transfer.**
+- Next planned block: **LEA-03 — Reinforcement learning and prediction error: TD/RPE, learning rates, state representation, model-free/model-based limits, and dopamine boundaries.**
 
 ## Content rule
 
