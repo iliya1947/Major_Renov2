@@ -17,6 +17,7 @@
 - **SOC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **PER sequence: IN PROGRESS.**
 - **PER-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **PER-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -477,11 +478,30 @@ Established:
 
 **PER sequence: IN PROGRESS.**
 
+### PER-02 — Personality hierarchy and criterion validity
+Canonical block:
+`research/psychology/qualification/07_personality_and_individual_differences/PER-02_personality_hierarchy_criterion_validity_facets_nuances_bandwidth_incremental_multimethod.md`
+
+Established:
+1. personality hierarchy spans domains, aspects/intermediate levels, facets, and nuances/items;
+2. an item is not automatically a valid nuance; unique item variance requires trait-like reliability/replication/criterion evidence;
+3. broad domains maximize parsimony/coverage while facets/nuances can add criterion-specific information;
+4. predictor–criterion bandwidth matching is useful but not a universal rule;
+5. incremental validity is baseline-, criterion-, reliability-, and model-specific;
+6. high-dimensional facet/nuance models require shrinkage, cross-validation and external transport checks;
+7. narrower predictors often improve prediction, but 2025 mortality evidence provides a direct counterexample to "narrower always better";
+8. multicollinearity, suppression, residualization and bifactor-specific variance require careful interpretation;
+9. jingle/jangle evaluation requires definitions, item content, factor structure and nomological networks rather than labels;
+10. self-, observer-, state-, behavioral-, digital- and ML-based measures provide noninterchangeable evidence;
+11. multi-method convergence can reduce single-method distortion but does not create ground truth;
+12. prediction and incremental R² do not establish causal mechanism;
+13. 66-question Personality Hierarchy / Criterion Validity Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**PER-02 — Personality hierarchy and criterion validity: domains, aspects, facets, nuances, bandwidth–fidelity tradeoffs, broad versus narrow prediction, incremental validity, jingle/jangle fallacies, and multi-method assessment.**
+**PER-03 — Personality development and intentional change: life events, goals, state change, trait change, intervention effects, selection versus socialization, causal inference, and measurement boundaries.**
 
-Goal: deepen consequential personality-score interpretation, including facet/nuance bandwidth, self–informant disagreement, response styles/faking, criterion prediction, incremental validity, reliability and individual-score uncertainty.
+Goal: establish when personality change is plausibly real and causal, separate life-event selection from socialization, distinguish desired change from actual trait change, and evaluate intervention persistence versus short-term state/retest effects.
 
 Target domain:
 
