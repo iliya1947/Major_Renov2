@@ -400,18 +400,22 @@
 - RER/indirect calorimetry retained as a method-dependent whole-body estimator with high-intensity/non-steady-state limitations.
 - Fuel-selection phenotype remains separate from performance outcome; LCHF/KD-related fat-oxidation increases do not establish universal performance superiority/inferiority.
 - Evidence ledger `BIO07-01…BIO07-10` finalized; canonical `BIO-07_macronutrient_metabolism_substrate_selection.md` created.
-- **BIO-08 — IN PROGRESS.**
-- BIO-08/PASS-01 interaction of energy systems content revalidation completed 2026-11-19; exact Area 05 Section 8 coverage = **10/10 at content/scope level**; no content-level blocker found.
-- Phosphagen, glycolytic and oxidative ATP-resynthesis pathways retained as concurrently active/interacting; dominance is relative rather than exclusive.
-- Intensity and duration redistribute contribution continuously; no universal system-switch time is retained.
-- The 2026 pooled maximal-exercise model's ~78.6 s equal anaerobic/aerobic contribution estimate is retained only as a method- and population-dependent aggregate, not an individual physiological boundary.
-- Contribution percentages are treated as method-conditioned estimates; MAOD, PCr-La-O2, VO2/lactate/EPOC-based and model-derived values are not interchangeable.
+- **BIO-08 — CLOSED_FOR_PRACTICE v2.0.**
+- BIO-08/PASS-01 interaction of energy systems content revalidation completed 2026-11-19; exact Area 05 Section 8 coverage = **10/10 at content/scope level**.
+- BIO-08/PASS-02 independent closure audit / synthesis completed 2026-11-19; exact Section 8 coverage = **10/10 PASS** and no project-relevant blocker remains.
+- Phosphagen, glycolytic and oxidative ATP-resynthesis pathways retained as overlapping/interacting at whole-muscle/task level; dominance remains relative rather than exclusive.
+- Intensity and duration continuously redistribute pathway contribution; no universal system-switch time is retained.
+- The 2026 pooled ~78.6 s equal anaerobic/aerobic contribution estimate is retained only as a method/population-dependent regression estimate, not an individual threshold.
+- Energy-system contribution percentages are treated as method-conditioned estimates; MAOD, PCr-La-O2 and other methods are not interchangeable and no gold-standard direct all-pathway ATP measurement is retained.
 - Repeated sets/sprints begin from altered PCr/metabolite/VO2 states; later-bout contribution is not assumed equal to the first bout.
-- Repeated-sprint glycolytic contribution can decline while oxidative contribution rises despite continued maximal intent.
-- Prolonged low/moderate-intensity activity is oxidative-dominant but not oxidative-exclusive.
-- Resistance exercise retained as mixed phosphagen/glycolytic/oxidative metabolism with strong protocol and measurement dependence.
-- Recovery intervals retained as metabolically active; oxidative metabolism supports PCr resynthesis and restoration, without equating recovery metabolism with EPOC.
-- **CURRENT NEXT: BIO-08/PASS-02 — Closure audit and synthesis.**
+- Repeated-sprint glycolytic contribution can decline while oxidative contribution rises despite continued maximal intent; exact percentages remain protocol dependent.
+- Prolonged low/moderate-intensity exercise is oxidative-dominant but not oxidative-exclusive.
+- Resistance exercise is retained as metabolically mixed and protocol dependent, with substantial measurement limitations for anaerobic energy expenditure.
+- Recovery intervals are metabolically active; oxidative ATP supports PCr resynthesis, but PCr recovery is state/method dependent and not universally O2-limited or fully restored after one fixed rest duration.
+- PCr resynthesis remains distinct from complete metabolic recovery and from EPOC as a whole.
+- Integrated bout percentage remains distinct from instantaneous ATP-production rate.
+- Evidence ledger `BIO08-01…BIO08-10` finalized; canonical `BIO-08_energy_system_interaction.md` created.
+- **CURRENT NEXT: BIO-09/PASS-01 — Oxygen uptake / aerobic contribution content revalidation.**
 
 ## История текущего revalidation cycle
 
