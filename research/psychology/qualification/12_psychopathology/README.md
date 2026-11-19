@@ -8,7 +8,7 @@ The domain establishes scientifically defensible reasoning about symptoms, syndr
 
 ## Current state
 
-**CLN sequence: IN PROGRESS.**
+**CLN sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### CLN-01 — Psychopathology foundations
 
@@ -59,11 +59,37 @@ Established:
 12. resilience and protective processes are contextual, time-dependent, and outcome-dependent rather than fixed traits;
 13. an 82-question Psychopathology Mechanisms / Course Inference Gate and 18/18 closure audit are canonical.
 
+### CLN-03 — Disorder-family pattern recognition and exclusion boundaries
+
+Status: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**
+
+Canonical block:
+
+`CLN-03_disorder_family_pattern_recognition_exclusion_boundaries_internalizing_psychosis_bipolar_ocd_trauma_eating_dissociation_substance_personality.md`
+
+Established:
+
+1. family inference starts from phenomenology, function, time/course, reality/insight, and exclusion priority rather than one salient symptom;
+2. psychosis is a symptom domain and does not equal schizophrenia;
+3. depressive presentation does not establish unipolar depression; bipolar inference requires lifetime episode architecture;
+4. intrusive thoughts do not equal intent and OCD requires obsession/compulsion structure rather than generic repetition;
+5. trauma exposure does not equal PTSD;
+6. dissociation and psychosis require phenomenological separation; depersonalization/derealization can preserve reality testing;
+7. eating disorders are differentiated by restriction, binge/loss-of-control, compensatory behavior, weight/shape function, and ARFID-style drivers rather than body weight alone;
+8. somatic symptom disorder is not inferred from normal medical tests and can coexist with medical illness;
+9. substance-induced versus independent mental disorders require temporal/exposure-course analysis;
+10. personality pathology requires enduring cross-context pattern evidence and is not inferred from a temporary episode;
+11. developmental baseline versus acquired episode is a mandatory differential axis and routes detailed questions to NDEV;
+12. a 96-question Disorder-Family Differential Gate and 20/20 CLN sufficiency audit are canonical;
+13. no scientifically necessary CLN-04 dependency is identified.
+
+**CLN sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Next dependency
 
-**CLN-03 — Disorder-family pattern recognition and exclusion boundaries: internalizing, psychotic-spectrum, bipolar-spectrum, obsessive-compulsive-related, trauma-related, eating, somatic/dissociative, substance-related, and personality pathology — without encyclopedic criterion memorization.**
+**NDEV-01 — Neurodevelopmental foundations: developmental onset and course, ADHD/autism boundaries, executive-function variability, masking/compensation, comorbidity, and differential limits.**
 
-Purpose: learn the high-value discriminating architecture among major disorder families, identify important medical/substance/developmental exclusions, and prevent category confusion while preserving diagnosis != mechanism.
+Target: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 
 ## Content rule
 
