@@ -36,8 +36,8 @@ Status: **IN PROGRESS**.
 | BHC | COMPLETE_FOR_CURRENT_SCOPE — BHC-01/02 complete |
 | REL | COMPLETE_FOR_CURRENT_SCOPE — REL-01/02 complete |
 | DEC | COMPLETE_FOR_CURRENT_SCOPE — DEC-01/02 complete |
-| SAF | IN_PROGRESS — SAF-01 complete; SAF-02 next |
-| ETH | NOT_STARTED |
+| SAF | COMPLETE_FOR_CURRENT_SCOPE — SAF-01/02 complete |
+| ETH | NEXT — ETH-01; canonical storage: `qualification/25_ethics_individualized_inference_ai_analysis/` |
 
 ## Phase D — integration
 
