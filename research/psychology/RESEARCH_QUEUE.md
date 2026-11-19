@@ -17,6 +17,8 @@
 - **SOC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **DEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- **NEU sequence: IN PROGRESS.**
+- **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEV-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -628,11 +630,35 @@ Established:
 
 **DEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase B / NEU completed
+
+### NEU-01 — Neuroscience inference foundations
+Canonical block:
+`research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-01_neuroscience_inference_foundations_localization_networks_lesion_stimulation_fmri_eeg_decoding_causality.md`
+
+Established:
+1. psychological/computational/network/circuit/cellular levels are distinct and a lower biological level is not automatically more explanatory;
+2. localization and distributed network organization can coexist;
+3. fMRI BOLD is an indirect hemodynamic signal and neither positive nor negative BOLD has a universal one-to-one neural interpretation;
+4. group task activation, individual reliability and biomarker prediction are separate validation targets;
+5. functional connectivity is statistical dependence, not direct anatomy or causal influence;
+6. lesion evidence provides probabilistic necessity-like evidence but is constrained by nonrandom damage, co-lesion, disconnection, diaschisis and time;
+7. 2026 lesion-network-mapping evidence substantially limits claims of condition-specific causal circuits without specificity/null validation;
+8. TMS is perturbational evidence but not a perfectly local on/off switch and rTMS protocols are not inherently excitatory/inhibitory;
+9. EEG/MEG provide high temporal resolution but source localization is an underdetermined inverse problem;
+10. reverse inference depends on priors, selectivity and task context;
+11. neural decoding establishes discriminability/prediction under the trained distribution, not mechanism or mind reading;
+12. leakage-free validation and external datasets are required for strong predictive/generalization claims;
+13. spatial map correlation, atlas choice, circular ROI selection and spatial autocorrelation can create mechanistic overreach;
+14. 70-question Neuroscience Inference Gate and 18/18 closure audit are canonical.
+
+**NEU sequence: IN PROGRESS.**
+
 ## Current next action
 
-**NEU-01 — Neuroscience inference foundations: levels of analysis, localization and networks, lesion/stimulation/fMRI/EEG evidence, reverse inference, neural decoding, causality, and measurement boundaries.**
+**NEU-02 — Neurochemical and neuromodulatory inference: dopamine, serotonin, norepinephrine, acetylcholine, receptors/transporters, PET/pharmacology, neurotransmitter release, causal attribution, and measurement boundaries.**
 
-Goal: establish neural evidence hierarchies and inference boundaries before any psychological construct is mapped onto brain regions, networks, biomarkers, decoding models, lesions, stimulation or electrophysiology.
+Goal: establish what PET, pharmacology, receptor occupancy, transmitter release and neuromodulator manipulations can support, while preventing one-neurotransmitter/one-function mappings.
 
 Target domain:
 
