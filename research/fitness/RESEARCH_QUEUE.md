@@ -215,16 +215,18 @@
 - Feedback dependency must be demonstrated after withdrawal; learner error estimation is retained as a key moderator of feedback use.
 - Direct visual-feedback squat retention evidence exists, but exact compound-lift feedback architecture remains unresolved.
 - First canonical NEU-15 finding created as v2.0 because no legacy finding existed in the current branch.
-- **NEU-16 — RESEARCHING.**
+- **NEU-16 — CLOSED_FOR_PRACTICE v2.0.**
 - NEU-16/PASS-01 cueing content revalidation completed 2026-11-19; exact Area 04 Section 16 coverage = **11/11 at content/scope level**.
-- One-cue-at-a-time remains a practical default, not a universal law; multiple explicit rules can overload limited working memory, but detailed instruction can be necessary when a generic short cue lacks needed information.
-- Brevity, specificity, cue semantics, focus direction and process/outcome target are separate properties.
-- Analogy cues are promising but heterogeneous/high-risk-of-bias and do not prove process-pure implicit learning.
+- NEU-16/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 16 coverage = **11/11 PASS** and no project-relevant blocker remains.
+- One-cue-at-a-time remains a practical default, not a universal law; the canonical rule is minimum sufficient information, not minimum information at any cost.
+- Brevity, specificity, cue semantics, focus direction and process/outcome target remain separate cue dimensions.
+- Analogy cues are useful candidates but heterogeneous/high-risk-of-bias and do not prove process-pure implicit learning.
 - Individual cue response should be tested empirically rather than assigned from fixed learner typologies.
-- No universal cue-removal schedule is established; cue independence must be tested after removal.
-- ADHD-specific cueing is explicitly deferred by Area 04 Section 16 to Area 12 / PSY-COA.
-- Direct RT cueing evidence is mostly acute and does not define one long-term compound-lift cue architecture.
-- CURRENT NEXT: **NEU-16/PASS-02 — Closure audit and synthesis.**
+- No universal cue-removal schedule is established; cue independence must be demonstrated after removal.
+- Direct RT cueing evidence remains mostly acute; durable compound-lift cue architecture is unresolved.
+- ADHD-specific cue architecture remains deliberately deferred to Area 12 / PSY-COA.
+- First canonical NEU-16 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **NEU-17/PASS-01 — Demonstration / video / modeling content revalidation.**
 
 ## История текущего revalidation cycle
 
