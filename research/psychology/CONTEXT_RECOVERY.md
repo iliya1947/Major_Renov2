@@ -30,6 +30,7 @@ Use this file to recover work after a new chat or lost context.
 - SOC sequence: **IN PROGRESS**.
 - `SOC-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `SOC-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `SOC-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `STR-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `STR-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `STR-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -48,13 +49,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `SOC-03 — Social categorization, stereotypes, prejudice, implicit/explicit bias, individuating information, intergroup perception, and measurement boundaries`.
+- Next block: `SOC-04 — Social identity, group norms, conformity, social influence, intergroup contact, cooperation/competition, and measurement boundaries`.
 - Target directory: `research/psychology/qualification/08_social_psychology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/08_social_psychology/SOC-02_empathy_interpersonal_accuracy_contagion_compassion_self_other_measurement.md`
+`research/psychology/qualification/08_social_psychology/SOC-03_social_categorization_stereotypes_prejudice_implicit_explicit_bias_individuation_measurement.md`
 
 ## Hard stop condition
 
