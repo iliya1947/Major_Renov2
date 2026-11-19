@@ -15,10 +15,11 @@
 - **AFF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **STR sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **SOC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **PER sequence: IN PROGRESS.**
+- **PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **PER-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PER-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PER-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **PER-04 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **SOC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -518,15 +519,35 @@ Established:
 13. corrected 2026 intervention-tailoring evidence is version-controlled and restricted to proximal outcomes;
 14. 70-question Personality Development / Change Inference Gate and 18/18 closure audit are canonical.
 
+### PER-04 — Personality and individual-differences integration/sufficiency audit
+Canonical block:
+`research/psychology/qualification/07_personality_and_individual_differences/PER-04_personality_individual_differences_integration_sufficiency_audit.md`
+
+Established:
+1. PER-01…03 are internally coherent for generic personality reasoning;
+2. traits are probabilistic tendencies rather than fixed essences or causal mechanisms;
+3. states, roles, opportunities, situations and Person × Situation dynamics remain distinct from enduring tendencies;
+4. Big Five/HEXACO are overlapping but nonidentical descriptive models;
+5. domains/facets/nuances are criterion-dependent hierarchy levels; broader or narrower is not automatically better;
+6. incremental validity is baseline-/criterion-specific and prediction does not identify mechanism;
+7. self-, observer-, state-, behavioral- and digital/ML methods provide noninterchangeable evidence;
+8. rank-order, mean-level, individual-change, variance and profile stability are separate longitudinal questions;
+9. life-event change requires separation of selection, anticipation, normative development and socialization;
+10. intentional personality change requires credible controls, multi-method persistence/generalization and artifact checks;
+11. 56-question Integrated Personality / Individual-Differences Inference Gate and 20/20 closure audit are canonical;
+12. no necessary PER-05 dependency identified; age/stage-specific mechanisms route to DEV.
+
+**PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**PER-04 — Personality and individual-differences integration/sufficiency audit: traits/states, person–situation dynamics, hierarchy, criterion validity, development/change, multi-method measurement, and cross-domain boundaries.**
+**DEV-01 — Developmental foundations: age, maturation, developmental timing, sensitive periods, continuity/change, plasticity, cohort effects, and measurement boundaries.**
 
-Goal: synthesize PER-01…03, audit contradictions and remaining gaps, define reusable personality reasoning rules, and either close PER for current scope or identify one concrete blocking dependency before DEV.
+Goal: establish developmental inference foundations, including age versus maturation, developmental timing, sensitive periods, continuity/change, plasticity, cohort effects, longitudinal design and measurement boundaries.
 
 Target domain:
 
-`research/psychology/qualification/07_personality_and_individual_differences/`
+`research/psychology/qualification/10_developmental_psychology/`
 
 ## Deferred
 
