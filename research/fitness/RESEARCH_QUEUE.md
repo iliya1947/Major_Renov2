@@ -516,7 +516,21 @@
 - Current external test-specific PubMed/web search was reattempted but returned no usable results; **Информация не проверена** for additional current 2025–2026 Wingate protocol-specific validity/reliability and active-vs-passive repeated-sprint recovery literature.
 - Those unverified protocol-specific claims are not used for BIO-14 closure and remain TST/PRO-owned.
 - Evidence ledger `BIO14-01…BIO14-10` finalized; canonical `BIO-14_anaerobic_power_capacity.md` created.
-- **CURRENT NEXT: BIO-15/PASS-01 — Aerobic capacity and economy content revalidation.**
+- **BIO-15 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- BIO-15/PASS-01 aerobic capacity/economy content revalidation completed 2026-11-20; exact Area 05 Section 15 coverage = **7/7 at content/scope level**.
+- VO2max retained as integrated whole-body oxygen-cascade capacity rather than a complete endurance-performance score; VO2peak remains operationally distinct.
+- LT/VT/GET/CP/CS/MLSS retained as related but method-defined landmarks rather than one universally interchangeable threshold.
+- Exercise economy retained as standardized submaximal task cost and separated from VO2max and mechanical efficiency.
+- Economy retained as speed/workload, mode, environment and fatigue-state dependent; treadmill-to-overground transfer is not assumed.
+- Strength training can improve running economy in selected endurance populations without VO2max improvement, but current evidence is heterogeneous and includes a 2026 null RCT.
+- Mitochondrial content/function remain non-equivalent; ET/HIT/SIT can all increase mitochondrial content.
+- Capillary adaptation retained as peripheral oxygen-exchange support; capillary density and capillary-to-fiber metrics remain non-equivalent and detailed physiology remains PHY-owned.
+- Central and peripheral adaptations retained as integrated/state dependent rather than mutually exclusive.
+- Elite endurance O2-delivery limitation is not generalized to all populations.
+- Oxidative metabolism retained as relevant to resistance-training recovery, while direct evidence shows whole-body VO2max is only weakly associated with within-set fatigue/between-set recovery.
+- BIO-15 remains **not CLOSED_FOR_PRACTICE**; canonical finding and final BIO15 ledger rows are deferred until PASS-02.
+- PASS-01 records **35 unresolved audit checks** for independent closure review.
+- **CURRENT NEXT: BIO-15/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
