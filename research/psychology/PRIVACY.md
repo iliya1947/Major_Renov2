@@ -63,3 +63,12 @@ If any answer is yes or uncertain, do not commit it.
 - **Private ChatGPT project:** individualized psychological observations and working personal model.
 
 Do not use GitHub as storage for the private model.
+
+
+## 7. Private-model protocol
+
+`PRIVATE_MODEL_UPDATE_CARD.md` is allowed in the repository **only as a blank generic template**.
+
+A completed card is private user-derived psychological material and must never be committed, quoted in PR text, commit messages, issues, examples, or evidence ledgers.
+
+The same rule applies to any future individualized analysis template: blank structure may be public-science infrastructure; completed individualized content remains outside GitHub.
