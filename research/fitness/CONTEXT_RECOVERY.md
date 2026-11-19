@@ -191,7 +191,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-12 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-13 — Practice organization — NOT STARTED**.
+Текущая тема: **NEU-13 — Practice organization — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -241,37 +241,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-12/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-13/PASS-01_practice_organization_revalidation.md`
 
-PASS commit: `4fff8ecb6d958dd1b679f2657bd4043630a0f732`  
-Canonical finding commit: `cf4e3ecc05c38668bfe3fe8f4f49115b5b26070b`  
-Evidence-ledger commit: `f772f82fa07e2bf39dcd1f388bbd72e3568b1834`
+PASS commit: `9d25158924bf71b73d38b17ff08a7bbf57f5c486`  
+Evidence-ledger commit: `796111a658f6a5eaeb3024804d5b5d12d2b8c344`
 
-NEU-12/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-13/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 12 coverage = **10/10 PASS**;
-2. Fitts–Posner retained as a descriptive heuristic rather than a fixed three-state neurobiological law;
-3. explicit and implicit contributions can coexist; method labels and common proxies do not justify process-pure additive decomposition;
-4. no universal implicit-over-explicit hierarchy is supported;
-5. analogy/errorless approaches remain context-dependent rather than universally superior;
-6. exploration is structured solution search, not variability magnitude;
-7. constraints-led/nonlinear pedagogy is valid but not universally superior to linear/explicit coaching;
-8. task, organism and environmental constraints interact to define functional difficulty;
-9. Challenge Point is retained as a framework, not a fixed numeric success-rate optimum;
-10. progression/regression is task-dependent and must preserve eventual target-task specificity;
-11. direct power-clean evidence supports improvement under both pedagogies but does not establish separate delayed retention;
-12. acute lifting instruction effects remain performance/control evidence unless delayed retention/transfer is shown;
-13. adaptation-process evidence is not numerically transferred to complex resistance-exercise skill;
-14. no project-relevant blocker remains;
-15. first canonical `NEU-12_explicit_implicit_constraints_based_learning.md` created.
+1. exact Area 04 Section 13 coverage = **12/12 at content level**;
+2. practice frequency, volume and distribution are distinct dimensions with no universal motor-learning frequency optimum;
+3. more practice can increase total learning opportunity while marginal efficiency declines; no universal repetition cutoff exists;
+4. distributed practice is not universally superior to massed motor practice;
+5. blocked practice often improves acquisition while random/interleaved practice can improve delayed retention, but neither is universally superior;
+6. contextual interference shows an average retention/transfer benefit, with weaker/less certain applied transfer effects;
+7. variable practice is not universally superior to constant practice; value depends on retention-vs-transfer target;
+8. whole-vs-part practice remains task-organization/component-separability dependent;
+9. repetition does not require exact kinematic duplication; functional variability can coexist with stable skill;
+10. target-condition specificity remains necessary even when variability/interleaving is used;
+11. fatigue modifies acquisition/retention in a task- and state-specific manner; fatigue practice does not automatically build robustness;
+12. no universal threshold defines when extra practice becomes useless; marginal information/quality is the practical criterion;
+13. direct resistance-exercise evidence remains insufficient for exact compound-lift practice schedules;
+14. no content-level blocker was found; independent closure audit/synthesis remains required.
 
 ### Следующая задача
 
-**NEU-13/PASS-01 — Practice organization content revalidation.**
+**NEU-13/PASS-02 — Closure audit and synthesis.**
 
-NEU-12 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-13 in this completed NEU-12 working block.**
+NEU-13 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-14 in the same working block.**
 
 ---
 
@@ -287,9 +285,9 @@ NEU-12 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-12/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-13/PASS-01_practice_organization_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-13/PASS-01 practice organization content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-13/PASS-02 closure audit and synthesis** и остановиться перед NEU-14.
 
 ---
 
