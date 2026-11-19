@@ -189,7 +189,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-11 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-12 — Explicit/implicit/constraints-based learning — RESEARCHING**.
+Последняя закрытая тема: **NEU-12 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-13 — Practice organization — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -239,33 +241,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-12/PASS-01_explicit_implicit_constraints_based_learning_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-12/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `d94960b40e2999e16897967f9d02d020d10610f8`  
+PASS commit: `4fff8ecb6d958dd1b679f2657bd4043630a0f732`  
+Canonical finding commit: `cf4e3ecc05c38668bfe3fe8f4f49115b5b26070b`  
 Evidence-ledger commit: `f772f82fa07e2bf39dcd1f388bbd72e3568b1834`
 
-NEU-12/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-12/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 12 coverage = **10/10 at content level**;
-2. cognitive/associative/autonomous staging retained as a descriptive heuristic, not a fixed three-state neurobiological law;
-3. explicit and implicit contributions can coexist and common measures/teaching labels do not justify a process-pure additive decomposition;
-4. methods labeled implicit do not guarantee implicit learning and no universal implicit-over-explicit hierarchy is supported;
-5. exploration is structured movement-solution search; variability magnitude alone is not exploration quality;
-6. constraints-led/nonlinear pedagogy is a valid practice-design strategy, but current comparative evidence does not establish universal superiority over linear/explicit coaching;
-7. task, organism and environmental constraints jointly determine functional difficulty;
-8. Challenge Point is retained as a framework, not a validated universal success-rate/difficulty sweet spot;
-9. progression/regression is task-dependent and must preserve eventual target-task specificity; universal easy→hard sequencing is rejected;
-10. direct power-clean evidence supports improvement under both linear and nonlinear pedagogy without a clear between-group advantage;
-11. acute lifting instruction effects are not durable-learning evidence without retention/transfer;
-12. no content-level blocker was found; independent closure audit/synthesis remains required.
+1. exact Area 04 Section 12 coverage = **10/10 PASS**;
+2. Fitts–Posner retained as a descriptive heuristic rather than a fixed three-state neurobiological law;
+3. explicit and implicit contributions can coexist; method labels and common proxies do not justify process-pure additive decomposition;
+4. no universal implicit-over-explicit hierarchy is supported;
+5. analogy/errorless approaches remain context-dependent rather than universally superior;
+6. exploration is structured solution search, not variability magnitude;
+7. constraints-led/nonlinear pedagogy is valid but not universally superior to linear/explicit coaching;
+8. task, organism and environmental constraints interact to define functional difficulty;
+9. Challenge Point is retained as a framework, not a fixed numeric success-rate optimum;
+10. progression/regression is task-dependent and must preserve eventual target-task specificity;
+11. direct power-clean evidence supports improvement under both pedagogies but does not establish separate delayed retention;
+12. acute lifting instruction effects remain performance/control evidence unless delayed retention/transfer is shown;
+13. adaptation-process evidence is not numerically transferred to complex resistance-exercise skill;
+14. no project-relevant blocker remains;
+15. first canonical `NEU-12_explicit_implicit_constraints_based_learning.md` created.
 
 ### Следующая задача
 
-**NEU-12/PASS-02 — Closure audit and synthesis.**
+**NEU-13/PASS-01 — Practice organization content revalidation.**
 
-NEU-12 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-13 in the same working block.**
+NEU-12 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-13 in this completed NEU-12 working block.**
 
 ---
 
@@ -281,9 +287,9 @@ NEU-12 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-12/PASS-01_explicit_implicit_constraints_based_learning_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-12/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-12/PASS-02 closure audit and synthesis** и остановиться перед NEU-13.
+Затем выполнить только записанный выше **NEU-13/PASS-01 practice organization content revalidation** и остановиться перед следующим блоком.
 
 ---
 
