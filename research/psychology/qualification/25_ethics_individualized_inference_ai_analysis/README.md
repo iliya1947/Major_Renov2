@@ -22,7 +22,7 @@ ETH covers generic ethical reasoning about:
 
 ## Current state
 
-**ETH sequence: IN PROGRESS.**
+**ETH sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### ETH-01 — Ethics foundations for individualized psychological inference and AI-assisted analysis
 
@@ -30,33 +30,38 @@ Status: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**
 
 Canonical block:
 
-`ETH-01_ethics_foundations_autonomy_consent_privacy_nonmaleficence_fairness_transparency_contestability_ai_oversight.md`
+ETH-01_ethics_foundations_autonomy_consent_privacy_nonmaleficence_fairness_transparency_contestability_ai_oversight.md
+
+Established the principles layer: autonomy, consent, privacy, nonmaleficence, competence/scope, validation, fairness, transparency, contestability, oversight, role boundaries, dependency risk, and high-stakes proportionality.
+
+### ETH-02 — Applied ethical governance and Phase C sufficiency audit
+
+Status: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**
+
+Canonical block:
+
+ETH-02_applied_ethical_governance_private_model_data_lifecycle_contestability_dependency_high_stakes_fairness_phase_c_audit.md
 
 Established:
 
-1. ethics and law are separate reasoning layers;
-2. the current adopted APA Ethics Code remains the 2017-amended code while revision is still in progress;
-3. autonomy requires meaningful choice, not mere interface consent;
-4. consequential AI use requires proportionate disclosure/informed-consent consideration;
-5. consent is purpose-scoped and does not authorize unlimited future use;
-6. psychological data and strong inferred psychological propositions require privacy/data-minimization controls;
-7. accuracy/usefulness does not by itself make an inference ethical;
-8. AI use requires competence, claim-matched validation, scope control, and version awareness;
-9. fairness is context/subgroup-error dependent rather than one universal parity metric;
-10. transparency/explainability should be proportionate and support understanding/challenge;
-11. contestability requires a real correction/revision path;
-12. human oversight must be meaningful and can itself suffer automation/human bias;
-13. AI must not misrepresent licensure or professional identity;
-14. anthropomorphism, dependency-promoting design, and sycophancy are explicit ethical risk classes;
-15. high-stakes uses require stronger safeguards and should not rely on AI as sole authority when validation/oversight is inadequate;
-16. private psychological models must remain provisional, purpose-bounded, private, and revisable;
-17. a 120-question Ethical Individualized Inference Gate and 18/18 closure audit are canonical.
+1. use-case-specific governance;
+2. end-to-end private-data and inference lifecycle controls;
+3. inference minimization;
+4. disclosure by materiality/stakes;
+5. separate evidence-strength and consequence axes;
+6. contestability with suspension/revision of disputed propositions;
+7. dependency/anthropomorphism/sycophancy safeguards;
+8. explicit high-stakes no-go rules;
+9. fairness and tail-risk monitoring;
+10. model/tool/source requalification triggers;
+11. 120-question Applied Ethical Governance Gate;
+12. Phase C 20/20 sufficiency audit.
 
-**ETH sequence: IN PROGRESS.**
+**Phase C: COMPLETE_FOR_CURRENT_SCOPE.**
 
-Next block:
+Next qualification step:
 
-**ETH-02 — Applied ethical governance and Phase C sufficiency audit: private-model workflow, data lifecycle and disclosure-by-use-case, individualized inference thresholds, correction/appeal/versioning, dependency and anthropomorphism safeguards, high-stakes no-go/escalation rules, fairness monitoring, audit/requalification triggers, and final Phase C readiness audit.**
+**Phase D / Step 1 — cross-domain contradiction audit.**
 
 ## Storage note
 
