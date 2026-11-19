@@ -290,19 +290,20 @@
 - Individualization is empirical and repeatability-based; group moderators generate hypotheses rather than personal prescriptions.
 - Anthropometry remains Area 02/MEC scope; ADHD-specific instructional design remains Area 12/PSY-COA scope.
 - First canonical NEU-21 finding created as v2.0 because no legacy finding existed in the current branch.
-- **NEU-22 — RESEARCHING; PASS-01 COMPLETE.**
+- **NEU-22 — CLOSED_FOR_PRACTICE v2.0.**
 - NEU-22/PASS-01 application-to-resistance-exercise content revalidation completed 2026-11-19; exact Area 04 Section 22 coverage = **8/8 at content/scope level**.
-- New-exercise learning retains the acquisition ≠ delayed-retention boundary; direct squat evidence supports that practice changes and retention can diverge.
-- Technique stabilization is operationalized as repeatable satisfaction of justified task criteria under defined conditions, not identical kinematics.
-- No universal light→working-load learning threshold is retained; graded exposure to the target load context is a practical heuristic.
-- Increasing intensity/fatigue changes the motor problem and can alter velocity, timing, mechanics and variability; load-related change is not automatically movement error.
-- Technical failure is separated from momentary muscular failure, volitional termination and velocity loss; exact technical criteria remain MEC/TEC/MED dependent.
-- Exercise complexity is not intrinsically beneficial; it should serve the adaptation/skill/transfer target rather than become an irrelevant limiter.
-- Structured variability is distinguished from random variability; current direct squat evidence does not establish a delayed-learning superiority.
-- Transfer between related resistance exercises must be tested in the target task; strength specificity/transfer is not direct motor-skill transfer.
-- Evidence ledger `NEU22-01…NEU22-08` added with closure-audit-pending status.
-- No canonical NEU-22 finding created before closure audit.
-- CURRENT NEXT: **NEU-22/PASS-02 — Closure audit and synthesis.**
+- NEU-22/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 22 coverage = **8/8 PASS** and no project-relevant blocker remains.
+- New-exercise learning retains acquisition ≠ delayed retention; one successful coached session does not establish durable technique learning.
+- Technique stabilization is operationalized as repeatable acceptable control under defined constraints with delayed reproducibility, not identical kinematics.
+- No universal light→working-load motor-learning threshold is retained; historical/current load-progression recommendations are programming rules rather than “skill learned” cutoffs.
+- Increasing intensity/fatigue changes observable motor output and can alter mechanics/coordination; load-related change is not automatically movement error.
+- Technical failure is a project operational task-criterion endpoint distinct from momentary muscular failure, volitional failure and velocity loss; exact criteria remain MEC/TEC/MED dependent.
+- Exercise complexity is purpose relative; technical complexity is real, but no universal threshold or intrinsic adaptation advantage is retained.
+- Structured variability is distinguished from random variability; direct squat evidence supports immediate feasibility/accuracy, not superior delayed learning or transfer.
+- Transfer between related resistance exercises must be tested in the target task; strength transfer/task specificity is not motor-skill transfer.
+- Evidence ledger `NEU22-01…NEU22-08` finalized; first canonical `NEU-22_application_to_resistance_exercise.md` created.
+- **NEU-01…NEU-22 — CLOSED_FOR_PRACTICE v2.0; Neurophysiology / Motor Learning dependency complete for current project purpose.**
+- CURRENT NEXT: **BIO-01/PASS-01 — Basic energy concepts content revalidation.**
 
 ## История текущего revalidation cycle
 
