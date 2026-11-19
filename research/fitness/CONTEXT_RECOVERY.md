@@ -127,8 +127,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-03 — **CLOSED_FOR_PRACTICE v2.0**;
 - BIO-04 — **CLOSED_FOR_PRACTICE v2.0**;
 - BIO-05 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 5 closure **8/8 PASS**;
-- BIO-06/PASS-01 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; exact Section 6 content coverage **10/10**;
-- **CURRENT NEXT: BIO-06/PASS-02 — Closure audit and synthesis.**
+- BIO-06 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 6 closure **10/10 PASS**;
+- **CURRENT NEXT: BIO-07/PASS-01 — Macronutrient metabolism / substrate selection content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -178,32 +178,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-06/PASS-01_oxidative_metabolism_mitochondria_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-06/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `acdf71b8e581afdf579b632476f1c35c588e82d4`
+PASS commit: `6b659091de709f960d94543fb35965ba55251e33`  
+Canonical finding commit: `9a949c83beeb795975e69a5fdec69cfd3546fe24`  
+Evidence ledger commit: `6c5ede1bb1d4f980b8d4abd1efc042130ca50a46`  
+Evidence ledger: `BIO06-01…BIO06-10` finalized.
 
-BIO-06/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-06/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 6 coverage = **10/10 at content/scope level**;
-2. PDH retained as regulated carbohydrate-derived pyruvate → acetyl-CoA gateway;
-3. TCA cycle retained as oxidative/reducing-equivalent hub rather than main direct ATP source;
-4. ETC / proton pumping / ATP synthase separated;
-5. O2 retained as terminal electron acceptor without treating O2 availability as universal sole limiter;
-6. theoretical ATP/P/O yields separated from effective in-vivo coupling/yield;
-7. mitochondrial content / respiratory capacity / intrinsic function / coupling separated;
-8. citrate synthase retained as marker, not complete function measure;
-9. mitochondrial biogenesis treated as coordinated remodeling rather than acute PGC-1α signal;
-10. ET/HIT/SIT all capable of increasing mitochondrial content; no universal best modality retained;
-11. resistance-training mitochondrial remodeling retained with hypertrophy/dilution caveat;
-12. no programming prescription authorized from this PASS.
+1. exact Area 05 Section 6 coverage = **10/10 PASS**;
+2. PDH retained as regulated carbohydrate-oxidation gateway, not automatic pyruvate fate;
+3. acetyl-CoA retained as multi-substrate hub;
+4. TCA retained as reducing-equivalent/metabolic hub rather than main direct ATP source;
+5. ETC/proton pumping/ATP synthase separated; Complex II not a proton pump;
+6. O2 retained as terminal electron acceptor without treating O2 as universal sole limiter;
+7. oxidative metabolism retained as concurrent with phosphagen/glycolytic ATP production;
+8. no fixed universal ATP/glucose or P/O value retained;
+9. O2 consumption separated from ATP production;
+10. mitochondrial content / mass-specific OXPHOS / intrinsic function / coupling separated;
+11. CS retained as proxy/marker, not complete function measure;
+12. mitochondrial biogenesis treated as coordinated remodeling;
+13. PGC-1α signaling separated from chronic adaptation;
+14. ET/HIT/SIT all capable of increasing mitochondrial content; no universal best modality retained;
+15. resistance-training mitochondrial adaptation retained with denominator/dilution caveat;
+16. canonical `BIO-06_oxidative_metabolism.md` created.
 
 ### Следующая задача
 
-**BIO-06/PASS-02 — Closure audit and synthesis.**
+**BIO-07/PASS-01 — Macronutrient metabolism / substrate selection content revalidation.**
 
-BIO-06 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start BIO-07 before BIO-06 closure.**
+BIO-06 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-07 in this completed BIO-06 closure block.**
 
 ---
 
@@ -227,7 +234,7 @@ BIO-06 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 `research/fitness/passes/05_bioenergetics/BIO-04/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-06/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-07/PASS-01 — Macronutrient metabolism / substrate selection content revalidation** и остановиться перед следующим блоком.
 
 ---
 
