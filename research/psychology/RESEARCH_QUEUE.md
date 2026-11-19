@@ -14,11 +14,12 @@
 - **MOT sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **AFF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **STR sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **SOC sequence: IN PROGRESS.**
+- **SOC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **SOC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **SOC-05 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **STR-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -411,15 +412,35 @@ Established:
 11. 2026 re-analysis of 31 longitudinal datasets shows contact-attitude causal inference is sensitive to confounding/model specification;
 12. 66-question Social Influence / Identity / Contact Inference Gate and 18/18 closure audit are canonical.
 
+### SOC-05 — Social psychology integration/sufficiency audit
+Canonical block:
+`research/psychology/qualification/08_social_psychology/SOC-05_social_psychology_integration_sufficiency_audit.md`
+
+Established:
+1. SOC-01…04 are internally coherent for generic social reasoning;
+2. observation, state, goal, trait, role, category, identity, norm and behavior are distinct levels;
+3. mentalizing, empathy-related lower-order constructs, accuracy, concern and helping are noninterchangeable;
+4. categorization/stereotype/prejudice/indirect association/discrimination remain distinct;
+5. indirect measures are not individual moral diagnostics and group effects do not identify person mechanisms;
+6. membership/identification/salience/content and descriptive/injunctive/perceived/actual norms are distinct;
+7. public compliance differs from private acceptance;
+8. cooperation differs from altruism, and competition effects are level-specific;
+9. contact inference requires valence, quality, selection, persistence and causal-design controls;
+10. culture, psychometrics, ecological validity and measurement invariance are cross-cutting requirements;
+11. 54-question Integrated Social Psychology Inference Gate and 20/20 closure audit are canonical;
+12. no necessary SOC-06 dependency identified; stable person-difference inference routes to PER.
+
+**SOC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**SOC-05 — Social psychology integration/sufficiency audit: person perception, mentalizing/empathy, categorization/prejudice, identity/norms/influence, contact/cooperation, measurement, and cross-domain boundaries.**
+**PER-01 — Personality foundations: traits versus states, person–situation interaction, Big Five/HEXACO structure, stability/change, rank-order versus mean-level consistency, and measurement boundaries.**
 
-Goal: synthesize SOC-01…04, audit contradictions and remaining gaps, define reusable social-reasoning rules, and either close SOC for current scope or identify one concrete blocking dependency.
+Goal: establish when repeated behavior supports trait inference, distinguish traits from states/situations, map Big Five/HEXACO structure, and separate rank-order stability, mean-level change, ipsative change, and measurement error.
 
 Target domain:
 
-`research/psychology/qualification/08_social_psychology/`
+`research/psychology/qualification/07_personality_and_individual_differences/`
 
 ## Deferred
 
