@@ -27,11 +27,12 @@ Use this file to recover work after a new chat or lost context.
 - MOT sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - AFF sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - STR sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- SOC sequence: **IN PROGRESS**.
+- SOC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - `SOC-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `SOC-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `SOC-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `SOC-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `SOC-05`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - `STR-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `STR-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `STR-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -50,13 +51,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `SOC-05 — Social psychology integration/sufficiency audit: person perception, mentalizing/empathy, categorization/prejudice, identity/norms/influence, contact/cooperation, measurement, and cross-domain boundaries`.
-- Target directory: `research/psychology/qualification/08_social_psychology/`.
+- Next block: `PER-01 — Personality foundations: traits versus states, person–situation interaction, Big Five/HEXACO structure, stability/change, rank-order versus mean-level consistency, and measurement boundaries`.
+- Target directory: `research/psychology/qualification/07_personality_and_individual_differences/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/08_social_psychology/SOC-04_social_identity_norms_conformity_influence_contact_cooperation_measurement.md`
+`research/psychology/qualification/08_social_psychology/SOC-05_social_psychology_integration_sufficiency_audit.md`
 
 ## Hard stop condition
 
