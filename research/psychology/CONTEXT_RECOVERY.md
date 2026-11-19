@@ -29,10 +29,11 @@ Use this file to recover work after a new chat or lost context.
 - STR sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - SOC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - PER sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- DEV sequence: **IN PROGRESS**.
+- DEV sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - `DEV-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `DEV-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `DEV-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `DEV-04`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - `PER-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PER-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PER-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -60,13 +61,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `DEV-04 — Developmental psychology integration/sufficiency audit: developmental clocks, maturation/timing, sensitive periods, transactions/cascades, multi-context pathways, lifespan transitions/aging, cohort/measurement, and cross-domain boundaries`.
+- Next block: `NEU-01 — Neuroscience inference foundations: levels of analysis, localization and networks, lesion/stimulation/fMRI/EEG evidence, reverse inference, neural decoding, causality, and measurement boundaries`.
 - Target directory: `research/psychology/qualification/10_developmental_psychology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/10_developmental_psychology/DEV-03_lifespan_transitions_adulthood_aging_cognitive_social_role_measurement.md`
+`research/psychology/qualification/10_developmental_psychology/DEV-04_developmental_psychology_integration_sufficiency_audit.md`
 
 ## Hard stop condition
 
