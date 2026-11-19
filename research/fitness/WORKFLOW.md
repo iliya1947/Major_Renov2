@@ -1,11 +1,11 @@
 # Рабочий процесс
 
-Живой документ состояния исследования.
+Живой operational-документ текущего состояния квалификации Ники.
 
 ## 1. Цель
 
 Построить достаточно полную и проверенную базу знаний, чтобы затем:
-1. оценить исходное состояние Ильи;
+1. оценить исходное состояние академика;
 2. спроектировать программу для роста мышечной массы и силы;
 3. адаптировать её под домашний инвентарь;
 4. сделать её устойчивой при СДВГ;
@@ -13,7 +13,7 @@
 
 ## 2. Текущий этап
 
-**Этап 2 — системное глубокое исследование. Stage 1 normalization завершён (v1.0).**
+**Этап 2 — квалификация Ники: системная научно-практическая база. Stage 1 normalization завершён (v1.0).**
 
 До завершения этого этапа:
 - не составлять финальную тренировочную программу;
@@ -108,11 +108,11 @@
 - качество доказательств;
 - практическое значение;
 - ограничения;
-- применимость к Илье.
+- применимость к академику.
 
 ### Этап 4 — персональная оценка
 
-Только после достаточной базы собрать фактические данные Ильи:
+Только после достаточной базы собрать фактические данные академика:
 - медицинские ограничения;
 - история тренировок;
 - текущая сила;
@@ -193,7 +193,7 @@
 8. Не размножать одинаковые списки без необходимости.
 9. Новые крупные области — отдельный файл.
 10. Источники не смешивать с финальными выводами.
-11. Персональные данные Ильи не смешивать с общей научной базой.
+11. Персональные данные академика не смешивать с общей научной базой.
 12. Программа не должна содержать необоснованные решения.
 13. После каждого крупного шага обновлять служебные файлы состояния.
 
@@ -210,89 +210,24 @@
 
 ## 8. Текущее следующее действие
 
-Stage 2 / Phase B продолжается.
+**Текущий этап:** квалификация Ники как фитнес-тренера.  
+**Stage:** 2 / Phase B.  
+**Current domain:** 05 — Bioenergetics.
+
+Актуальный qualification-state:
 
 1. Phase A methodology = **SUFFICIENT_FOR_NEXT_PHASE**.
 2. Anatomy ANA-01…ANA-15 = **CLOSED_FOR_PRACTICE v2.0**.
-3. Текущая область: **03 — Physiology**.
-4. PHY-01 = **CLOSED_FOR_PRACTICE v2.0**.
-5. PHY-02 = **CLOSED_FOR_PRACTICE v2.0**.
-6. PHY-03 = **CLOSED_FOR_PRACTICE v2.0**.
-7. PHY-04 = **CLOSED_FOR_PRACTICE v2.0**.
-8. PHY-05 = **CLOSED_FOR_PRACTICE v2.0**.
-9. PHY-06 = **CLOSED_FOR_PRACTICE v2.0**.
-10. PHY-07 = **CLOSED_FOR_PRACTICE v2.0**.
-11. PHY-08 = **CLOSED_FOR_PRACTICE v2.0**.
-12. PHY-09 = **CLOSED_FOR_PRACTICE v2.0**.
-13. PHY-10 = **CLOSED_FOR_PRACTICE v2.0**.
-14. PHY-11 = **CLOSED_FOR_PRACTICE v2.0**.
-15. PHY-12 = **CLOSED_FOR_PRACTICE v2.0**.
-16. PHY-13 = **CLOSED_FOR_PRACTICE v2.0**.
-17. PHY-14 = **CLOSED_FOR_PRACTICE v2.0**.
-18. PHY-14/PASS-01 content revalidation завершён; exact Section 15 coverage **13/13 at content level**.
-19. PHY-14/PASS-02 closure audit / synthesis завершён; exact Section 15 coverage **13/13 PASS**, no project-relevant blocker remains.
-20. First canonical PHY-14 finding created as v2.0.
-21. PHY-15 = **CLOSED_FOR_PRACTICE v2.0**.
-22. PHY-15/PASS-01 respiratory-exercise-physiology content revalidation завершён; exact Section 16 coverage **11/11 at content level**.
-23. PHY-15/PASS-02 closure audit / synthesis завершён; exact Section 16 coverage **11/11 PASS**, no project-relevant blocker remains.
-24. First canonical PHY-15 finding created as v2.0.
-25. PHY-16 = **CLOSED_FOR_PRACTICE v2.0**.
-26. PHY-16/PASS-01 endocrine/immune physiology content revalidation завершён; normalized Sections 17–18 coverage **18/18 at content level**.
-27. PHY-16/PASS-02 closure audit / synthesis завершён; normalized Sections 17–18 coverage **18/18 PASS**, no project-relevant blocker remains.
-28. First canonical PHY-16 finding created as v2.0.
-29. PHY-17 = **CLOSED_FOR_PRACTICE v2.0**.
-30. PHY-17/PASS-01 integrated physiology content revalidation завершён; exact Section 19 coverage **8/8 at content level**.
-31. PHY-17/PASS-02 closure audit / synthesis завершён; exact Section 19 coverage **8/8 PASS**, no project-relevant blocker remains.
-32. First canonical PHY-17 finding created as v2.0.
-33. PHY-18 = **CLOSED_FOR_PRACTICE v2.0**.
-34. PHY-18/PASS-01 detraining/retraining/muscle-memory content revalidation завершён; exact Section 20 coverage **11/11 at content level**.
-35. PHY-18/PASS-02 closure audit / synthesis завершён; exact Section 20 coverage **11/11 PASS**, no project-relevant blocker remains.
-36. Myonuclear evidence provenance corrected during closure; universal human myonuclear permanence remains unsupported.
-37. First canonical PHY-18 finding created as v2.0.
-38. PHY-19 = **CLOSED_FOR_PRACTICE v2.0**.
-39. PHY-19/PASS-01 recovery physiology content revalidation завершён; exact Section 21 coverage **10/10 at content level**.
-40. PHY-19/PASS-02 closure audit / synthesis завершён; exact Section 21 coverage **10/10 PASS**, no project-relevant blocker remains.
-41. First canonical PHY-19 finding created as v2.0.
-42. PHY-20 = **CLOSED_FOR_PRACTICE v2.0**.
-43. PHY-20/PASS-01 environmental physiology content revalidation завершён; exact Section 23 coverage **8/8 at content level**.
-44. PHY-20/PASS-02 closure audit / synthesis завершён; exact Section 23 coverage **8/8 PASS**, no project-relevant blocker remains.
-45. First canonical PHY-20 finding created as v2.0.
-46. PHY-01…PHY-20 = **CLOSED_FOR_PRACTICE v2.0**; Physiology dependency complete for current project purpose.
-47. NEU-01 = **CLOSED_FOR_PRACTICE v2.0**.
-48. NEU-01/PASS-01 nervous-system organization content revalidation завершён; exact Area 04 Section 1 coverage **12/12 at content level**.
-49. NEU-01/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 1 coverage **12/12 PASS**, no project-relevant blocker remains.
-50. First canonical NEU-01 finding created as v2.0.
-51. NEU-02 = **CLOSED_FOR_PRACTICE v2.0**.
-52. NEU-02/PASS-01 motor-units recruitment/rate-coding content revalidation завершён; exact Area 04 Section 2 coverage **12/12 at content level**.
-53. NEU-02/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 2 coverage **12/12 PASS**, no project-relevant blocker remains.
-54. Motor-unit subtype source status clarified; preprint evidence is not closure-critical.
-55. First canonical NEU-02 finding created as v2.0.
-56. NEU-03 = **CLOSED_FOR_PRACTICE v2.0**.
-57. NEU-03/PASS-01 sensory feedback / proprioception content revalidation завершён; exact Area 04 Section 3 coverage **12/12 at content level**.
-58. NEU-03/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 3 coverage **12/12 PASS**, no project-relevant blocker remains.
-59. First canonical NEU-03 finding created as v2.0.
-60. NEU-04 = **CLOSED_FOR_PRACTICE v2.0**.
-61. NEU-04/PASS-01 reflex regulation content revalidation завершён; exact Area 04 Section 4 coverage **8/8 at content level**.
-62. NEU-04/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 4 coverage **8/8 PASS**, no project-relevant blocker remains.
-63. First canonical NEU-04 finding created as v2.0.
-64. NEU-05 = **CLOSED_FOR_PRACTICE v2.0**.
-65. NEU-05/PASS-01 neural force production / voluntary activation / RFD content revalidation завершён; exact Area 04 Section 5 coverage **14/14 at content level**.
-66. NEU-05/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 5 coverage **14/14 PASS**, no project-relevant blocker remains.
-67. First canonical NEU-05 finding created as v2.0.
-68. NEU-06 = **CLOSED_FOR_PRACTICE v2.0**.
-69. NEU-06/PASS-01 neural adaptation to strength training content revalidation завершён; exact Area 04 Section 6 coverage **12/12 at content level**.
-70. NEU-06/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 6 coverage **12/12 PASS**, no project-relevant blocker remains.
-71. First canonical NEU-06 finding created as v2.0.
-72. NEU-07 = **CLOSED_FOR_PRACTICE v2.0**.
-73. NEU-07/PASS-01 bilateral effects / cross-education content revalidation завершён; exact Area 04 Section 7 coverage **7/7 at content level**.
-74. NEU-07/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 7 coverage **7/7 PASS**, no project-relevant blocker remains.
-75. First canonical NEU-07 finding created as v2.0.
-76. NEU-08 = **CLOSED_FOR_PRACTICE v2.0**.
-77. NEU-08/PASS-01 neuromuscular fatigue content revalidation завершён; exact Area 04 Section 8 coverage **10/10 at content level**.
-78. NEU-08/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 8 coverage **10/10 PASS**, no project-relevant blocker remains.
-79. First canonical NEU-08 finding created as v2.0.
-80. Следующий один блок: **NEU-09/PASS-01 — Motor control content revalidation**.
-81. NEU-10 автоматически не запускать после следующего блока; сохраняется one block → state update → STOP.
+3. Physiology PHY-01…PHY-20 = **CLOSED_FOR_PRACTICE v2.0**.
+4. Neurophysiology / Motor Learning NEU-01…NEU-22 = **CLOSED_FOR_PRACTICE v2.0**.
+5. BIO-01 = **CLOSED_FOR_PRACTICE v2.0**.
+6. BIO-02 = **CLOSED_FOR_PRACTICE v2.0**.
+7. BIO-03 = **CLOSED_FOR_PRACTICE v2.0**.
+8. BIO-04 = **CLOSED_FOR_PRACTICE v2.0**.
+9. **CURRENT NEXT: BIO-05/PASS-01 — Acid–base physiology and buffering content revalidation.**
+10. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
+
+Авторитет текущей точки: PR #5 identity/workspace lock → фактическая ветка → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → последний PASS.
 
 ## 9. Зафиксированный общий план
 
@@ -305,11 +240,11 @@ Stage 2 / Phase B продолжается.
    - область → тема → подтема → исследовательские вопросы.
 4. Провести глубокое исследование каждой темы с опорой на актуальные источники, без ограничения одним проходом.
 5. Синтезировать устойчивые выводы в отдельный слой findings и связать ключевые утверждения с источниками через EVIDENCE_LEDGER.md.
-6. После достаточной научной базы провести персональную оценку Ильи.
+6. После достаточной научной базы провести персональную оценку академика.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **NEU-09/PASS-01 — Motor control content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **BIO-05/PASS-01 — Acid–base physiology and buffering content revalidation**.
 
 
 ## 10. Stage 0B — результат
@@ -369,7 +304,7 @@ Stage 1: **COMPLETE v1.0**.
    - `SOURCE_STATUS_LOG.md`.
 4. Исторический статус Area 13: **RESEARCH_COMPLETE + SYNTHESIZED v1.0** — **superseded**. Текущий статус области остаётся `RESEARCHING` до methodology-sufficiency audit и закрытия тех RES gaps, которые реально блокируют оценку fitness evidence. Полная глубокая revalidation всех RES-02…RES-29 не является автоматическим требованием.
 
-Историческая restart-точка начиналась с RES, но текущий authoritative route после Methodology Sufficiency Audit — **Phase B / Anatomy**; next action задаётся разделом 8 и `RESEARCH_QUEUE.md`.
+Историческая restart-точка начиналась с RES, затем Phase B была разблокирована через Anatomy. **Текущий authoritative route задаётся разделом 8, `CONTEXT_RECOVERY.md` и `RESEARCH_QUEUE.md`; сейчас это Bioenergetics / BIO-05.**
 
 
 ## 13. Размер исследовательского прохода и жёсткий stop-condition
@@ -412,7 +347,7 @@ Stage 1: **COMPLETE v1.0**.
 
 1. Для RES-прохода должна быть названа конкретная задача оценки fitness-литературы, которую без него нельзя надёжно выполнить.
 2. Наличие ещё одной методологической семьи, варианта или taxonomy gap само по себе не является достаточным основанием для нового PASS.
-3. Если gap не способен существенно изменить оценку доказательств, перенос на Илью или последующее тренировочное решение, он уходит в deferred/watchlist.
+3. Если gap не способен существенно изменить оценку доказательств, перенос на академика или последующее тренировочное решение, он уходит в deferred/watchlist.
 4. Глубина релевантного PASS не ограничивается; ограничивается только **нерелевантное расширение scope**.
 5. `RESEARCH_ORDER.md` задаёт смысл Phase A и имеет приоритет при конфликте с локальными backlog-формулировками.
 
