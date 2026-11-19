@@ -36,8 +36,9 @@
 - **REL sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **REL-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **REL-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
-- **DEC sequence: IN PROGRESS.**
+- **DEC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **DEC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **DEC-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -1041,15 +1042,40 @@ Established:
 
 **DEC sequence: IN PROGRESS.**
 
+### DEC-02 — Applied decision quality and forecasting and sufficiency audit
+
+Canonical block:
+`research/psychology/qualification/19_decision_strategy_and_prediction/DEC-02_applied_decision_quality_forecasting_information_value_aggregation_aids_debiasing_real_life_sufficiency_audit.md`
+
+Established:
+
+1. forecast quality is multidimensional: calibration, discrimination, sharpness/resolution, proper score, and utility;
+2. one realized event cannot validate/invalidate one probability forecast;
+3. Brier score is bounded and population-dependent rather than a pure calibration statistic;
+4. crowd aggregation depends on independence/error diversity rather than crowd size alone;
+5. advice weight must be separated from actual advisor accuracy and rhetorical persuasiveness;
+6. information value is action-relative and can be outweighed by search/delay/emotional cost;
+7. sampling and stopping quality are separate;
+8. multi-attribute choice requires explicit structure and protection against quantification fixation;
+9. reversibility changes optimal deliberation/commitment policy;
+10. decision aids improve several process outcomes without guaranteeing downstream welfare;
+11. debiasing training has small average targeted-task effects with unresolved far transfer;
+12. real-life transformative decisions cannot be reduced automatically to small-world lottery tasks;
+13. person-level decision competence requires repeated multimethod evidence;
+14. a 112-question Applied Decision Quality Inference Gate and 20/20 sufficiency audit are canonical;
+15. no DEC-03 dependency is identified.
+
+**DEC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**DEC-02 — Applied decision quality and forecasting: probabilistic forecasting/scoring, overconfidence decomposition, advice/aggregation, multi-attribute decisions, value of information, reversible versus irreversible decisions, decision aids, debiasing durability, real-world/ecological validity, and person-level decision competence.**
+**SAF-01 — Safety and crisis foundations: acute-risk recognition, emergency/urgent/routine thresholds, direct-versus-inferred risk evidence, uncertainty, medical/psychiatric escalation boundaries, remote-assessment limits, and referral logic.**
 
-Goal: close the applied decision-support dependency without turning DEC into a self-help list of biases.
+Goal: begin Phase C SAF with a general safety-triage architecture before any crisis-category specifics.
 
 Target domain:
 
-`research/psychology/qualification/19_decision_strategy_and_prediction/`
+`research/psychology/qualification/24_safety_crisis_referral_thresholds/`
 
 ## Deferred
 
