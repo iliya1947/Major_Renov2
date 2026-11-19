@@ -21,11 +21,41 @@ DEC covers generic psychological reasoning about:
 
 ## Current state
 
-**DEC sequence: NOT_STARTED.**
+**DEC sequence: IN PROGRESS.**
+
+### DEC-01 — Judgment and decision foundations
+
+Status: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**
+
+Canonical block:
+
+`DEC-01_judgment_decision_foundations_normative_descriptive_risk_uncertainty_heuristics_framing_calibration_choice_architecture.md`
+
+Established:
+
+1. normative and descriptive decision questions are distinct;
+2. the relevant normative benchmark must be identified before labeling a response biased/irrational;
+3. decision quality is distinct from realized outcome quality;
+4. risk and ambiguity/uncertainty are distinct;
+5. expected utility is a major benchmark/model rather than a complete descriptive psychological law;
+6. prospect-theory patterns are robust but model fit does not establish one mechanism or stable trait;
+7. loss aversion is not treated as a universal fixed ~2x coefficient;
+8. framing effects are robust/heterogeneous and do not identify one mechanism;
+9. heuristics are strategies rather than errors by definition;
+10. bias labels describe response patterns before they explain mechanisms;
+11. base-rate use varies across individuals and probability representations;
+12. probability format, denominator, absolute/relative risk, and visual representation change decision interpretation;
+13. calibration, discrimination, confidence, and different forms of overconfidence are distinct;
+14. dual-process language is not reified into two literal modules or fast=biased/slow=rational;
+15. cross-task risk-preference convergence is low enough to block one-task global trait inference;
+16. defaults/choice architecture influence behavior without automatically improving welfare;
+17. a 104-question Judgment / Decision Foundations Inference Gate and 18/18 closure audit are canonical.
+
+**DEC sequence: IN PROGRESS.**
 
 Next block:
 
-**DEC-01 — Judgment and decision foundations: normative versus descriptive models, probability/risk representation, heuristics and biases, framing/reference dependence, calibration, base rates, choice architecture, and inference limits.**
+**DEC-02 — Applied decision quality and forecasting: probabilistic forecasting/scoring, overconfidence decomposition, advice/aggregation, multi-attribute decisions, value of information, reversible versus irreversible decisions, decision aids, debiasing durability, real-world/ecological validity, and person-level decision competence.**
 
 ## Storage note
 
