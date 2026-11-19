@@ -31,8 +31,9 @@
 
 CLN: **COMPLETE_FOR_CURRENT_SCOPE** after CLN-03.  
 NDEV: **COMPLETE_FOR_CURRENT_SCOPE** after NDEV-02.  
-Current next domain: BHC.  
-Next block: BHC-01 — behavior change and intervention-science foundations.
+Current domain: BHC — **IN PROGRESS**.  
+BHC-01: **CLOSED_FOR_PRACTICE v1.0**.  
+Next block: BHC-02 — psychological intervention evidence architecture.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 Canonical BHC storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
