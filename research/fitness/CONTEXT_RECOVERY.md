@@ -197,7 +197,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-15 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-16 — Cueing — NOT STARTED**.
+Текущая тема: **NEU-16 — Cueing — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -247,41 +247,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-15/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-16/PASS-01_cueing_revalidation.md`
 
-PASS commit: `752c1167236b09c794d0f78dcb042d944790fe75`  
-Canonical finding commit: `7e18fd682a1097a7e83c1b4752aeb6240fc885a1`  
-Evidence ledger: existing `NEU15-01…NEU15-12` re-audited; no closure-critical rewrite required.
+PASS commit: `868935cb097f39f287977de714f6412daa87afa3`  
+Evidence-ledger commit: `e21b6e0f1212f516a5386ed08799dd65adad8958`
 
-NEU-15/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-16/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 15 coverage = **15/15 PASS**;
-2. intrinsic and augmented feedback remain distinct sources;
-3. KR and KP remain distinct content categories; descriptive vs prescriptive KP is closure-critical;
-4. no universal KR-vs-KP hierarchy is retained;
-5. immediate/delayed and concurrent/terminal timing effects remain task dependent;
-6. universal reduced-feedback-frequency superiority / simple guidance-hypothesis rule is rejected;
-7. feedback frequency alone does not predict motor learning;
-8. faded feedback has positive task-specific evidence but no universal fade schedule;
-9. bandwidth feedback changes both frequency and information meaning; no universal band exists;
-10. summary feedback has no universal summary length;
-11. self-controlled feedback shows promising retention/transfer benefit but heterogeneity/publication-bias concerns limit universal claims;
-12. dependency must be demonstrated by no-feedback withdrawal/retention/transfer;
-13. learner error estimation materially changes feedback effects and should not be replaced permanently by augmented feedback;
-14. RT feedback improves acute output but acute performance ≠ durable technique learning;
-15. direct visual-feedback squat retention evidence exists but is narrow;
-16. technology/AI is not inherently superior to trainer feedback;
-17. exact compound-lift feedback architecture remains downstream;
-18. no project-relevant blocker remains;
-19. first canonical `NEU-15_feedback.md` created.
+1. exact Area 04 Section 16 coverage = **11/11 at content/scope level**;
+2. one-cue-at-a-time is retained only as a practical default; no universal optimal cue count exists;
+3. multiple simultaneous explicit rules can interact negatively with working-memory capacity;
+4. brevity is not equivalent to cue quality; generic short directives can fail when necessary information is missing;
+5. cue specificity means informational precision, not verbosity or kinematic micromanagement;
+6. external/internal cue direction remains task/outcome dependent under the NEU-14 boundary;
+7. analogy cues are promising but heterogeneous/high-risk-of-bias and do not prove implicit process purity;
+8. process-vs-outcome target and internal-vs-external focus are separate cue dimensions;
+9. cue semantics/action verbs can change acute RT performance;
+10. cue-to-error-cause matching is retained as a practical heuristic; direct causal trials are sparse and exact diagnosis belongs NEU-18;
+11. individual cue response/interpretation varies; individualization should be empirical rather than typological;
+12. no universal cue-removal schedule is established; cue-free execution/retention should be tested directly;
+13. cognitive overload is instruction-load × task-demand × learner-capacity interaction, not a fixed cue number;
+14. direct RT cueing evidence is mostly acute and does not establish durable compound-lift cue architecture;
+15. ADHD-specific cue count/wording/timing is explicitly deferred by source scope to Area 12 / PSY-COA;
+16. no content-level blocker was found; independent closure audit remains required.
 
 ### Следующая задача
 
-**NEU-16/PASS-01 — Cueing content revalidation.**
+**NEU-16/PASS-02 — Closure audit and synthesis.**
 
-NEU-15 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-16 in this completed NEU-15 working block.**
+NEU-16 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-17 in the same working block.**
 
 ---
 
@@ -297,9 +293,9 @@ NEU-15 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-15/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-16/PASS-01_cueing_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-16/PASS-01 cueing content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-16/PASS-02 closure audit and synthesis** и остановиться перед NEU-17.
 
 ---
 
