@@ -132,8 +132,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-08 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 8 closure **10/10 PASS**;
 - BIO-09 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 9 closure **9/9 PASS**;
 - BIO-10 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 10 closure **9/9 PASS**;
-- BIO-11 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 11 coverage **10/10 at content/scope level**;
-- **CURRENT NEXT: BIO-11/PASS-02 — Closure audit and synthesis.**
+- BIO-11 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 11 closure **10/10 PASS**;
+- **CURRENT NEXT: BIO-12/PASS-01 — Resistance training bioenergetics content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -183,35 +183,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-11/PASS-01_metabolic_fatigue_limiting_factors_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-11/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `8938b7902be0296fe8b4ca1a6a67e76fdc3583ab`
+PASS commit: `0891f67cfd334216a4379bd8dc32ed60465ce7ba`
 
-BIO-11/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-11/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 11 coverage = **10/10 at content/scope level**;
-2. no content-level blocker was found;
-3. fatigue retained as task-specific, multi-mechanistic and not reducible to one metabolite;
-4. PCr depletion retained as a high-power/repeated-bout contributor without equating it to ATP depletion or complete fatigue diagnosis;
-5. low glycogen can impair exercise capacity in some tasks, but is not a universal short-set failure mechanism;
-6. Pi retained as a major fatigue-relevant metabolite, while no universal human Pi failure threshold is authorized;
-7. ionic disturbance retained as a multi-ion excitability/homeostasis problem rather than a K+-only switch;
-8. severe acidosis can contribute to force/power loss, but H+/pH is not a universal sole fatigue cause;
-9. metabolic disturbance can express through E–C/Ca2+ mechanisms; detailed ownership remains PHY-10;
-10. O2 delivery, peripheral extraction/distribution and mitochondrial utilization remain distinct;
-11. systemic O2 delivery can be a major/primary limiter in maximal aerobic contexts, while mitochondrial capacity is important but not sufficient alone;
-12. heat and dehydration are distinct interacting stressors; no universal dehydration or temperature threshold is retained;
-13. the dominant metabolic limiter can change by task, starting state, environment and time within the same task;
-14. BIO-11 remains **not CLOSED_FOR_PRACTICE** pending independent PASS-02 audit;
-15. canonical BIO-11 finding and final BIO11 evidence-ledger rows are intentionally not created before closure audit.
+1. exact Area 05 Section 11 coverage = **10/10 PASS**;
+2. PASS-01 unresolved gaps = **24/24 RESOLVED**;
+3. no project-relevant blocker remains;
+4. metabolic fatigue retained as task-, state-, time- and environment-dependent rather than one-metabolite fatigue;
+5. PCr retained as a high-power/repeated-bout constraint without equating depletion to ATP depletion or complete fatigue diagnosis;
+6. glycogen retained as task-specific; low glycogen can impair some high-intensity exercise, while no universal glycogen threshold or one glycogen→Ca2+ pathway is retained;
+7. Pi retained as a major fatigue-relevant metabolite, but no universal human Pi threshold or Pi-first hierarchy is retained;
+8. severe intracellular acidosis can contribute to force/power loss, but H+/pH is not a universal sole cause;
+9. ionic fatigue retained as a multi-ion excitability/homeostasis problem; plasma K+ is not treated as local muscle interstitial K+;
+10. E–C/Ca2+ integration retained while detailed ownership remains PHY/NEU;
+11. O2 delivery, local distribution/extraction and mitochondrial utilization remain distinct;
+12. systemic O2 delivery can be primary for VO2max in elite endurance contexts without universal transfer to other tasks/populations;
+13. mitochondrial capacity retained as an important peripheral determinant, not a complete performance explanation or pathology label;
+14. heat and hydration state retained as distinct interacting stressors; no universal dehydration/body-mass-loss or temperature threshold is retained;
+15. WMS 2024 medical heat-illness diagnosis/treatment boundary remains MED;
+16. task profiles retained as hypothesis-generating rather than deterministic laws;
+17. canonical `BIO-11_metabolic_fatigue_limiting_factors.md` created;
+18. evidence ledger `BIO11-01…BIO11-10` finalized;
+19. BIO-11 = **CLOSED_FOR_PRACTICE v2.0**.
 
 ### Следующая задача
 
-**BIO-11/PASS-02 — Closure audit and synthesis.**
+**BIO-12/PASS-01 — Resistance training bioenergetics content revalidation.**
 
-BIO-11 is **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING** after PASS-01. Start PASS-02 only after the next user continue signal; one signal = one saved PASS/block → STOP.
+BIO-11 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-12 only after the next user continue signal; one signal = one saved PASS/block → STOP.
 
 ---
 
@@ -233,9 +237,9 @@ BIO-11 is **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING** after PASS-01. S
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-11/PASS-01_metabolic_fatigue_limiting_factors_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-11/PASS-02_closure_audit_and_synthesis.md`
 
-Затем при следующем пользовательском continue выполнить только записанный выше **BIO-11/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
+Затем при следующем пользовательском continue выполнить только записанный выше **BIO-12/PASS-01 — Resistance training bioenergetics content revalidation** и остановиться перед следующим блоком.
 
 ---
 
