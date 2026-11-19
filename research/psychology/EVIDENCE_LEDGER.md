@@ -47,6 +47,11 @@
 | PSY-G41 | Partner attributions and perceived responsiveness are psychologically meaningful but are not objective motive/behavior truth | REL-02; SOC | HIGH | Relationship-perception inference | ACCEPTED |
 | PSY-G42 | Bidirectional conflict/aggression does not automatically imply equal power, coercion, impact, or responsibility | REL-02 | HIGH | Safety/power inference | ACCEPTED |
 | PSY-G43 | Coercive control/IPV must not be reframed as an ordinary symmetric communication mismatch | REL-02; CDC/WHO | HIGH | Relationship safety boundary | ACCEPTED |
+| PSY-G44 | A decision pattern should be labeled biased/irrational only after the normative benchmark and task representation are explicit | DEC-01; COG-07 | HIGH | Judgment/rationality inference | ACCEPTED |
+| PSY-G45 | Decision quality and realized outcome quality are distinct under uncertainty | DEC-01 | HIGH | Decision evaluation | ACCEPTED |
+| PSY-G46 | Prospect-theory or loss-aversion parameter fit does not by itself identify a stable person trait or unique mechanism | DEC-01; PSYCHOMETRICS | HIGH | Risk-choice inference | ACCEPTED |
+| PSY-G47 | Calibration, discrimination, confidence, and overconfidence subtypes are noninterchangeable | DEC-01; MET; PSYCHOMETRICS | HIGH | Forecast/confidence inference | ACCEPTED |
+| PSY-G48 | One risky-choice task does not establish a coherent global risk-preference trait because cross-measure convergence is limited | DEC-01 | HIGH | Risk-preference inference | ACCEPTED |
 
 ## Правила
 
