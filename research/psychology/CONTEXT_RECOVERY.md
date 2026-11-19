@@ -24,23 +24,24 @@ Use this file to recover work after a new chat or lost context.
 - EXE foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - MET foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - LEA sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- MOT sequence: **IN PROGRESS**.
+- MOT sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - `MOT-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `MOT-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `MOT-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `MOT-04`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - `LEA-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `MOT-04 — Motivation integration and sufficiency audit: needs, incentives, value, effort, goal pursuit, state dependence and measurement boundaries`.
-- Target directory: `research/psychology/qualification/06_motivation_and_behavior/`.
+- Next block: `AFF-01 — Emotion foundations: affect, emotion, mood, appraisal, dimensions, and measurement boundaries`.
+- Target directory: `research/psychology/qualification/05_emotion_and_regulation/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/06_motivation_and_behavior/MOT-03_goal_pursuit_self_determination_intention_action_persistence_disengagement_measurement.md`
+`research/psychology/qualification/06_motivation_and_behavior/MOT-04_motivation_integration_sufficiency_audit.md`
 
 ## Hard stop condition
 
