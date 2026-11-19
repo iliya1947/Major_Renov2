@@ -7,11 +7,13 @@ This directory stores topic-level qualification material for **Executive functio
 ## Completed blocks
 
 1. `EXE-01_executive_functions_cognitive_control_architecture.md` — executive-function/cognitive-control architecture, unity/diversity, task impurity, goal representation, response selection/inhibition, switching, monitoring, proactive/reactive control, effort/allocation, and a reusable Executive Control Inference Gate.
+2. `EXE-02_goal_representation_proactive_reactive_hierarchical_control.md` — goal/task representations, maintenance/shielding/updating, hierarchical control, proactive/reactive modes, context processing, control-state reconfiguration, and a reusable Goal-Control Inference Gate.
 
 ## Current domain status
 
 - **EXE-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- Next planned block: **EXE-02 — Goal representation, proactive/reactive control, and hierarchical task control.**
+- **EXE-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- Next planned block: **EXE-03 — Response selection, inhibition, stopping, and interference control.**
 
 ## Content rule
 
