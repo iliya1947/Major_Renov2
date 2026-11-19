@@ -189,7 +189,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-11 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-12 — Explicit/implicit/constraints-based learning — NOT STARTED**.
+Текущая тема: **NEU-12 — Explicit/implicit/constraints-based learning — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -239,36 +239,33 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-11/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-12/PASS-01_explicit_implicit_constraints_based_learning_revalidation.md`
 
-PASS commit: `97fe1fdd3e21e1e91ea4c5645767b9cdb0ee5839`  
-Canonical finding commit: `4806ad30360fd9945b9e08f0ee00f4ac34622a93`  
-Evidence-ledger commit: `81ca8477849392ef8f68041e1e4d5860269c5069`
+PASS commit: `d94960b40e2999e16897967f9d02d020d10610f8`  
+Evidence-ledger commit: `f772f82fa07e2bf39dcd1f388bbd72e3568b1834`
 
-NEU-11/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-12/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 11 coverage = **9/9 PASS**;
-2. motor performance and durable learning remain distinct;
-3. acquisition is practice-phase performance and cannot establish learning alone;
-4. retention requires delayed, explicitly defined testing;
-5. transfer must be measured in the actual untrained target condition;
-6. generalization breadth is distinct from retention strength, with terminology overlap preserved;
-7. automaticity remains graded/partial rather than binary;
-8. relearning/savings remains distinct from overt retention;
-9. fatigue robustness and pressure robustness remain state/context specific;
-10. exercise technique is a practiced motor skill, not only declarative verbal knowledge;
-11. learned technique does not require one universal movement geometry;
-12. measurement outcomes remain non-interchangeable;
-13. no project-relevant blocker remains;
-14. first canonical `NEU-11_learning_vs_performance_retention_transfer.md` created.
+1. exact Area 04 Section 12 coverage = **10/10 at content level**;
+2. cognitive/associative/autonomous staging retained as a descriptive heuristic, not a fixed three-state neurobiological law;
+3. explicit and implicit contributions can coexist and common measures/teaching labels do not justify a process-pure additive decomposition;
+4. methods labeled implicit do not guarantee implicit learning and no universal implicit-over-explicit hierarchy is supported;
+5. exploration is structured movement-solution search; variability magnitude alone is not exploration quality;
+6. constraints-led/nonlinear pedagogy is a valid practice-design strategy, but current comparative evidence does not establish universal superiority over linear/explicit coaching;
+7. task, organism and environmental constraints jointly determine functional difficulty;
+8. Challenge Point is retained as a framework, not a validated universal success-rate/difficulty sweet spot;
+9. progression/regression is task-dependent and must preserve eventual target-task specificity; universal easy→hard sequencing is rejected;
+10. direct power-clean evidence supports improvement under both linear and nonlinear pedagogy without a clear between-group advantage;
+11. acute lifting instruction effects are not durable-learning evidence without retention/transfer;
+12. no content-level blocker was found; independent closure audit/synthesis remains required.
 
 ### Следующая задача
 
-**NEU-12/PASS-01 — Explicit/implicit/constraints-based learning content revalidation.**
+**NEU-12/PASS-02 — Closure audit and synthesis.**
 
-NEU-12 maps to Area 04 Section 12 (**10 exact items**). After the next one block, save state and STOP.
+NEU-12 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-13 in the same working block.**
 
 ---
 
@@ -284,9 +281,9 @@ NEU-12 maps to Area 04 Section 12 (**10 exact items**). After the next one block
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-11/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-12/PASS-01_explicit_implicit_constraints_based_learning_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-12/PASS-01 explicit/implicit/constraints-based learning content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-12/PASS-02 closure audit and synthesis** и остановиться перед NEU-13.
 
 ---
 
