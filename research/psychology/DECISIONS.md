@@ -160,3 +160,32 @@ Reconsideration trigger: отдельная migration/reorganization decision.
 4. individualized ethical cases/private psychological facts никогда не сохраняются в repo.
 
 Reconsideration trigger: отдельная migration/reorganization decision.
+
+
+### Решение 16
+**Stage 1 qualification закрывается как COMPLETE_FOR_CURRENT_SCOPE; Stage 2 private application разрешён к началу после INT-05.**
+
+Причина: Phase A–C закрыты для текущего scope, INT-01 не выявил blocking cross-domain contradiction, INT-02 формализовал person-level transfer, INT-03 — error repair, INT-04 — operational routing, INT-05 — final sufficiency audit 24/24 PASS.
+
+Основания:
+
+- `DOMAIN_STATUS.md`;
+- `WORKFLOW.md`;
+- `qualification/26_integration/INT-01...`;
+- `INT-02...`;
+- `INT-03...`;
+- `INT-04...`;
+- `INT-05_final_sufficiency_audit_stage2_readiness_requalification_contract.md`.
+
+Последствия:
+
+1. generic qualification больше не продолжается по инерции;
+2. текущий рабочий режим = Stage 2 private application;
+3. первый private task = baseline reconciliation текущей приватной модели с qualification stack;
+4. individualized output остаётся вне GitHub;
+5. psychiatry/psychopharmacology, behavioral genetics, psychoanalysis/psychodynamics и formal systems modeling остаются trigger-based specialty gaps;
+6. strong specialty claim требует targeted requalification;
+7. mutable/current claim требует проверки exact current primary/authoritative source;
+8. qualification completion не отменяет diagnosis/prescribing/legal/high-stakes no-go boundaries.
+
+Reconsideration trigger: major source/manual update, correction/retraction, new generic gap, repeated analytic error, specialty trigger, new high-stakes use-case.
