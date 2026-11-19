@@ -32,7 +32,7 @@ Status: **IN PROGRESS**.
 | Domain | Status |
 |---|---|
 | CLN | COMPLETE_FOR_CURRENT_SCOPE — CLN-01/02/03 complete |
-| NDEV | NEXT — canonical storage: `qualification/21_neurodevelopmental_conditions/` |
+| NDEV | IN_PROGRESS — NDEV-01 complete; NDEV-02 next |
 | BHC | NOT_STARTED |
 | REL | NOT_STARTED |
 | DEC | NOT_STARTED |
