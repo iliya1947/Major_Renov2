@@ -103,6 +103,14 @@
 | PSY-G94 | Significant private-model updates must explicitly choose retain/strengthen/weaken/split/merge/revise relation/retire/add, propagate dependencies, and define a revisit trigger | INT-02; PRIVATE_MODEL_UPDATE_CARD | HIGH | Private-model revision | ACCEPTED |
 | PSY-G95 | Information gathering for individualized inference should be discriminating and purpose-limited: collect new data when it can separate hypotheses or test a critical premise, not merely because more private information is available | INT-02; DEC-02; ETH-02 | HIGH | Information-value/privacy | ACCEPTED |
 
+| PSY-G96 | Correct outcome does not validate an invalid reasoning route; conclusion accuracy and inferential-process validity must be audited separately | INT-03; PSY-RES; DEC | HIGH | Error analysis/calibration | ACCEPTED |
+| PSY-G97 | Analytic repair should target the earliest material failing stage; downstream hedging or wording changes do not repair an invalid upstream construct, measurement, causal, or applicability step | INT-03; INT-01/02 | HIGH | Error repair | ACCEPTED |
+| PSY-G98 | Analytic errors are nonexclusive and can cascade; a case may require one primary root-stage tag plus multiple secondary failure tags | INT-03 | HIGH | Error taxonomy | ACCEPTED |
+| PSY-G99 | Corrections must propagate through evidence dependencies: fixing a premise without reopening materially dependent propositions leaves the model analytically stale | INT-03; INT-02 | HIGH | Correction/model maintenance | ACCEPTED |
+| PSY-G100 | Consequence severity changes required handling, oversight, and suspension thresholds but does not alter the truth value or epistemic probability of the proposition | INT-03; ETH-02; SAF | HIGH | Error severity/high-stakes handling | ACCEPTED |
+| PSY-G101 | Guardrails are claim-specific constraints, not universal bans; avoiding overreach must not erase legitimate uses of self-report, correlational evidence, population priors, neural evidence, diagnosis, or safety action | INT-03; INT-01 | HIGH | Regression guard application | ACCEPTED |
+| PSY-G102 | A reasoning error can be commission or omission; failure to represent a material contradiction, medical/safety signal, correction, or applicability limitation can be as consequential as an unsupported positive claim | INT-03; SAF; ETH; PSY-RES | HIGH | Omission-error detection | ACCEPTED |
+
 ## Правила
 
 1. Одна строка = один существенный проверяемый guardrail.
