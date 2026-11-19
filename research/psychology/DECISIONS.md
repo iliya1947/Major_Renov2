@@ -119,3 +119,16 @@ Reconsideration trigger: отдельная migration/reorganization decision.
 4. приватные relationship histories/messages никогда не сохраняются в repo.
 
 Reconsideration trigger: отдельная migration/reorganization decision.
+
+
+### Решение 13
+**Phase C DEC переиспользует существующий `19_decision_strategy_and_prediction/` как canonical storage.**
+
+Причина: исторический purpose этого каталога уже соответствует текущему DEC dependency (judgment, decision-making, prediction/risk) достаточно точно; создание нового storage ID не закрывает никакого reasoning gap и лишь дублировало бы структуру.
+
+Последствия:
+1. `19_decision_strategy_and_prediction/` — canonical DEC storage;
+2. новый DEC-каталог не создаётся;
+3. DEC-01 начинается только отдельным continuation после purpose/question gate.
+
+Reconsideration trigger: если фактический DEC scope позже перестанет помещаться в этот storage без смыслового смешения.
