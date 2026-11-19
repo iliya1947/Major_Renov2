@@ -7,6 +7,7 @@
 - No personal data stored.
 - **Phase A — Research and inference methodology: CLOSED_FOR_PRACTICE v1.0.**
 - **Phase B — Core psychological science: IN PROGRESS.**
+- **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **COG-01 — CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS.**
 - **COG-02 — CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS.**
 - **COG-03 — CLOSED_FOR_PRACTICE v1.0 — 15/15 PASS.**
@@ -14,6 +15,7 @@
 - **COG-05 — CLOSED_FOR_PRACTICE v1.0 — 17/17 PASS.**
 - **COG-06 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
 - **COG-07 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **COG-08 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 
 ## Completed Phase A
 
@@ -58,37 +60,41 @@ Canonical block:
 Canonical block:
 `research/psychology/qualification/03_cognitive_psychology/COG-07_reasoning_inference_deduction_induction_probability_causality.md`
 
+### COG-08 — Language
+Canonical block:
+`research/psychology/qualification/03_cognitive_psychology/COG-08_language_lexical_syntax_comprehension_production_prediction_thought.md`
+
 Established:
 
-1. reasoning != rationality;
-2. descriptive process and normative evaluation are separate;
-3. normative standards can conflict and require explicit arbitration;
-4. deductive validity != truth/plausibility;
-5. induction is graded, defeasible, and dependent on sampling/knowledge;
-6. probabilistic reasoning depends on representation, priors, likelihoods, numeracy, and strategy;
-7. probability-judgment errors do not identify one universal mechanism;
-8. relational/analogical inference depends on relational structure, not surface similarity alone;
-9. association != intervention != counterfactual causal inference;
-10. counterfactual reasoning is structured simulation constrained by a world model;
-11. model-based/mental-model accounts are useful but not treated as one final architecture;
-12. heuristic use != irrationality;
-13. bias labels describe patterns before mechanisms;
-14. dual-process/System-1/System-2 language is not reified as two literal modules;
-15. deliberation can control, generate, justify, or regulate rather than merely override intuition;
-16. bounded/resource/ecological rationality is represented but must generate testable constraints;
-17. reasoning tasks are mixtures of memory, semantics, language, control, and domain knowledge;
-18. stable reasoning-trait inference requires repeated cross-task evidence;
-19. a 50-question Reasoning Inference Gate is canonical.
+1. language is a family of interacting processes rather than one scalar ability;
+2. linguistic form != meaning;
+3. lexical access != conceptual/semantic knowledge;
+4. morphology != syntax != semantics != pragmatics;
+5. syntax is not reducible to linear word order;
+6. comprehension is incremental and ambiguity-sensitive;
+7. linguistic prediction is dynamic, multifactorial, and not obligatory;
+8. prediction != post-input integration, and surprisal fit != mechanistic identity with an LLM;
+9. production requires message, lexical, morphosyntactic, form, motor, and monitoring/repair stages;
+10. comprehension and production are distinct but tightly coupled in natural conversation;
+11. core language != full social communication/pragmatics;
+12. language != general thought/reasoning, while language can still influence and support cognition;
+13. the claim that language is primarily a communication tool is retained as a theoretical position, not settled final fact;
+14. speech != language; spoken, written, and signed modalities combine core language with modality-specific interfaces;
+15. multilingualism is heterogeneous and should not be treated as an exception case;
+16. bilingual language control != universal domain-general cognitive advantage;
+17. language tasks are task-impure and surface errors require stage localization;
+18. stable language ability inference requires repeated cross-task/context evidence;
+19. a 50-question Language Inference Gate is canonical.
 
 ## Current next action
 
-**COG-08 — Language: lexical, semantic, syntactic, comprehension/production, prediction, and language–thought boundaries.**
+**EXE-01 — Executive functions and cognitive control: architecture, scope, and core distinctions.**
 
-Goal: establish the architecture of language processing, separate language from semantic cognition and general reasoning, distinguish comprehension/production and lexical/syntactic/semantic levels, and define how prediction, context, multilingualism, and task demands affect inference.
+Goal: establish a current map of cognitive control/executive functions, separate goal maintenance, updating, response selection/inhibition, task switching, monitoring, and control allocation, and define their interfaces with attention, working memory, motivation, and metacognition without treating "executive function" as one unitary capacity.
 
 Target domain:
 
-`research/psychology/qualification/03_cognitive_psychology/`
+`research/psychology/qualification/04_executive_functions_and_metacognition/`
 
 ## Deferred
 
