@@ -40,15 +40,17 @@ If control files disagree:
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **IN PROGRESS**.
-- Current domain: **CLN / psychopathology**.
+- Current domain: **NDEV / neurodevelopmental conditions — NEXT**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- Next block: **CLN-03 — Disorder-family pattern recognition and exclusion boundaries**.
+- CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
+- CLN sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
+- Next block: **NDEV-01 — Neurodevelopmental foundations: developmental onset and course, ADHD/autism boundaries, executive-function variability, masking/compensation, comorbidity, and differential limits**.
 - Target directory: `research/psychology/qualification/12_psychopathology/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/12_psychopathology/CLN-02_psychopathology_mechanisms_course_transdiagnostic_onset_maintenance_remission_recurrence_state_trait_causal_limits.md`
+`research/psychology/qualification/12_psychopathology/CLN-03_disorder_family_pattern_recognition_exclusion_boundaries_internalizing_psychosis_bipolar_ocd_trauma_eating_dissociation_substance_personality.md`
 
 ## 5. Cabinet architecture state
 
@@ -118,6 +120,6 @@ Stop immediately if:
 
 After recovery, the next qualification block remains:
 
-**CLN-03 — Disorder-family pattern recognition and exclusion boundaries.**
+**NDEV-01 — Neurodevelopmental foundations: developmental onset and course, ADHD/autism boundaries, executive-function variability, masking/compensation, comorbidity, and differential limits.**
 
-Architecture repair itself does not advance the research queue.
+Canonical target: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
