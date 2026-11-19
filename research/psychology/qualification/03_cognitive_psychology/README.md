@@ -6,32 +6,26 @@ This directory stores topic-level qualification material for **Cognitive psychol
 
 ## Completed blocks
 
-1. `COG-01_cognition_foundations_architecture_scope_distinctions.md` — cognition architecture, perception/attention/working-memory/long-term-memory/reasoning/language distinctions, learning and executive-control interfaces, task impurity, and downstream routing.
-2. `COG-02_perception_sensory_evidence_representations_context.md` — sensory evidence, perceptual representations, context/priors, cognitive penetrability limits, sensitivity versus criterion, multisensory integration, perception–action coupling, and a reusable Perception Inference Gate.
-3. `COG-03_attention_selection_priority_capture_sustained_attention.md` — selective attention, priority control, goal/salience/selection-history influences, attentional capture, sustained attention/vigilance, divided attention, state/trait limits, and a reusable Attention Inference Gate.
-4. `COG-04_working_memory_maintenance_updating_capacity_interference.md` — working-memory model families, maintenance/updating/binding, capacity/interference, attention/control/LTM interfaces, task-family distinctions, transfer limits, and a reusable Working Memory Inference Gate.
-5. `COG-05_long_term_memory_encoding_consolidation_retrieval_reconstruction.md` — declarative memory architecture, encoding/consolidation/retrieval separation, episodic/semantic structure, recognition/recollection/familiarity, forgetting, reconstruction, autobiographical-memory limits, reconsolidation boundaries, and a reusable Long-Term Memory Inference Gate.
-6. `COG-06_semantic_cognition_concepts_representation_control.md` — semantic representation/control, concepts/categories, categorization models, abstraction, concrete/abstract concepts, semantic relations, task impurity, and a reusable Semantic Cognition Inference Gate.
-7. `COG-07_reasoning_inference_deduction_induction_probability_causality.md` — descriptive/normative reasoning boundaries, deduction, induction, probability, relational/analogical inference, causal/counterfactual reasoning, dual-process limits, bounded rationality, and a reusable Reasoning Inference Gate.
-8. `COG-08_language_lexical_syntax_comprehension_production_prediction_thought.md` — lexical/morphosyntactic processing, comprehension/production, prediction, pragmatics, multilingualism, language–thought boundaries, task impurity, and a reusable Language Inference Gate.
-9. `LEA-01_learning_architecture_conditioning_prediction_error_habit_extinction_reconsolidation.md` — learning/performance boundaries, Pavlovian/instrumental learning, contingency and prediction error, RL/model limits, goal-directed/habit boundaries, extinction/relapse, reconsolidation boundary conditions, and a reusable Learning Architecture Inference Gate.
-10. `LEA-02_associative_learning_contingency_blocking_conditioned_inhibition_pit.md` — contingency/timing, conditioned inhibition versus latent inhibition, blocking/overshadowing, cue competition, PIT, awareness/expectancy boundaries, and a reusable Associative Learning Inference Gate.
+1. `COG-01_cognition_foundations_architecture_scope_distinctions.md`
+2. `COG-02_perception_sensory_evidence_representations_context.md`
+3. `COG-03_attention_selection_priority_capture_sustained_attention.md`
+4. `COG-04_working_memory_maintenance_updating_capacity_interference.md`
+5. `COG-05_long_term_memory_encoding_consolidation_retrieval_reconstruction.md`
+6. `COG-06_semantic_cognition_concepts_representation_control.md`
+7. `COG-07_reasoning_inference_deduction_induction_probability_causality.md`
+8. `COG-08_language_lexical_syntax_comprehension_production_prediction_thought.md`
+9. `LEA-01_learning_architecture_conditioning_prediction_error_habit_extinction_reconsolidation.md`
+10. `LEA-02_associative_learning_contingency_blocking_conditioned_inhibition_pit.md`
+11. `LEA-03_reinforcement_learning_prediction_error_state_representation_dopamine.md` — TD/RPE, learning-rate interpretation, state representation, memory/RL mixtures, model-free/model-based limits, computational psychometrics, and dopamine boundaries.
 
 ## Current domain status
 
-- **COG-01 — CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS.**
-- **COG-02 — CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS.**
-- **COG-03 — CLOSED_FOR_PRACTICE v1.0 — 15/15 PASS.**
-- **COG-04 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
-- **COG-05 — CLOSED_FOR_PRACTICE v1.0 — 17/17 PASS.**
-- **COG-06 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
-- **COG-07 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- **COG-08 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- **COG-01…08: COMPLETE_FOR_CURRENT_SCOPE.**
 - **LEA-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **LEA-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA sequence: IN PROGRESS.**
-- Next planned block: **LEA-03 — Reinforcement learning and prediction error: TD/RPE, learning rates, state representation, model-free/model-based limits, and dopamine boundaries.**
+- Next planned block: **LEA-04 — Habit formation and goal-directed/habit arbitration: outcome devaluation, contingency degradation, automaticity, overtraining, and measurement validity.**
 
 ## Content rule
 
