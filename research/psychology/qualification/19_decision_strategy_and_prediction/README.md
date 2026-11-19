@@ -21,7 +21,7 @@ DEC covers generic psychological reasoning about:
 
 ## Current state
 
-**DEC sequence: IN PROGRESS.**
+**DEC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### DEC-01 — Judgment and decision foundations
 
@@ -53,9 +53,40 @@ Established:
 
 **DEC sequence: IN PROGRESS.**
 
-Next block:
+### DEC-02 — Applied decision quality and forecasting and sufficiency audit
 
-**DEC-02 — Applied decision quality and forecasting: probabilistic forecasting/scoring, overconfidence decomposition, advice/aggregation, multi-attribute decisions, value of information, reversible versus irreversible decisions, decision aids, debiasing durability, real-world/ecological validity, and person-level decision competence.**
+Status: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**
+
+Canonical block:
+
+`DEC-02_applied_decision_quality_forecasting_information_value_aggregation_aids_debiasing_real_life_sufficiency_audit.md`
+
+Established:
+
+1. probabilistic forecasts require repeated evaluation and cannot be judged from one realized event;
+2. calibration, discrimination, sharpness/resolution, proper score, and decision utility are distinct;
+3. Brier score is not a pure calibration measure and cross-population comparisons can mislead;
+4. collective forecasting can be strongly calibrated without implying individual or universal-domain calibration;
+5. aggregation benefits depend on independence, diversity, expertise, and aggregation rule;
+6. advice weight should not be driven by persuasiveness/confidence alone;
+7. information value depends on decision impact minus search/delay/emotional costs;
+8. sampling quality and stopping/termination quality are distinct;
+9. multi-attribute decisions require explicit attributes, weights/thresholds, uncertainty, and protection against quantification fixation;
+10. reversibility changes optimal commitment policy and can make early action plus correction rational;
+11. major real-life decisions can involve self-change, irreversibility, and uncertain experiential value beyond small-lottery models;
+12. decision aids can improve knowledge, risk understanding, participation, and values-choice congruence without guaranteeing downstream welfare improvement;
+13. debiasing interventions show small average targeted-task effects while durability/far transfer remain uncertain;
+14. person-level decision competence is multidimensional and requires repeated multimethod psychometric evidence;
+15. a 112-question Applied Decision Quality Inference Gate and 20/20 DEC sufficiency audit are canonical;
+16. no scientifically necessary DEC-03 dependency is identified.
+
+**DEC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
+Next Phase C dependency:
+
+**SAF — safety boundaries, crisis recognition, and referral thresholds.**
+
+Canonical storage: `research/psychology/qualification/24_safety_crisis_referral_thresholds/`.
 
 ## Storage note
 
