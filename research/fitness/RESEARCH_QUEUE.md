@@ -384,7 +384,19 @@
 - ET/HIT/SIT all capable of increasing mitochondrial content; no universal best modality retained.
 - Resistance training can remodel mitochondrial respiration/content; hypertrophy-related denominator/dilution effects retained.
 - Evidence ledger `BIO06-01…BIO06-10` finalized; canonical `BIO-06_oxidative_metabolism.md` created.
-- **CURRENT NEXT: BIO-07/PASS-01 — Macronutrient metabolism / substrate selection content revalidation.**
+- **BIO-07 — IN PROGRESS.**
+- BIO-07/PASS-01 macronutrient metabolism / substrate selection content revalidation completed 2026-11-19; exact Area 05 Section 7 coverage = **10/10 at content/scope level**; no content-level blocker found.
+- Carbohydrate, fat and amino-acid contributions are treated as concurrent and context-dependent; muscle glycogen, blood glucose and exogenous carbohydrate remain distinct source pools.
+- Lipolysis, plasma FFA availability, muscle uptake, mitochondrial entry, beta-oxidation and whole-body fat oxidation remain non-equivalent.
+- Increasing intensity generally shifts fuel use toward carbohydrate; absolute fat oxidation can peak at a submaximal intensity, but no universal Fatmax/crossover percentage is retained.
+- Duration changes both macronutrient contribution and source-pool contribution; no universal “after X minutes fat takes over” rule is retained.
+- Training-status effects require explicit absolute-vs-relative workload matching.
+- Lower glycogen can reduce endogenous carbohydrate oxidation and increase fat oxidation without eliminating exogenous carbohydrate oxidation.
+- Fasted exercise can increase acute fat oxidation, but acute substrate oxidation is not translated directly into chronic fat loss.
+- Protein/amino-acid contribution is retained as usually small/subsidiary but non-zero and context-dependent.
+- Metabolic flexibility is retained as adaptive fuel switching, not maximal fat oxidation or a single RER/Fatmax value.
+- RER/indirect calorimetry is treated as a method-dependent whole-body estimate with important high-intensity/non-steady-state limitations.
+- **CURRENT NEXT: BIO-07/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
