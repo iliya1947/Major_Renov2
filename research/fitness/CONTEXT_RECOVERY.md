@@ -93,7 +93,7 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 ## 3. Текущее состояние
 
-Текущая рабочая область: **03 — Physiology / Phase B**.
+Текущая рабочая область: **04 — Neurophysiology / Motor Learning / Phase B**.
 
 Последняя закрытая тема: **ANA-01 — CLOSED_FOR_PRACTICE v2.0**.
 
@@ -177,7 +177,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-05 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-06 — Neural adaptation to strength training — NOT STARTED**.
+Текущая тема: **NEU-06 — Neural adaptation to strength training — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -227,36 +227,32 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-05/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-06/PASS-01_neural_adaptation_strength_training_revalidation.md`
 
-PASS commit: `33880c745053f5c6b59225421217232c8ae8deeb`  
-Canonical finding commit: `4f78b5f3471396cb7a02c3c44eb60e3e9bb02653`
+PASS commit: `3bff5d6d77d0b12c77b658d503fbc1702234d43e`
 
-NEU-05/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-06/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 5 coverage = **14/14 PASS**;
-2. recruitment and rate coding remain complementary, task-dependent motor-unit control mechanisms;
-3. neural drive is defined as ensemble active-motoneuron discharge and is not equated with surface EMG;
-4. voluntary activation is a muscle/method/protocol-specific stimulation construct rather than a universal neural-capacity percentage;
-5. agonist EMG is not treated as direct muscle force;
-6. antagonist coactivation remains a task-dependent torque-cost/stability-control tradeoff;
-7. synergist/intermuscular coordination remains adaptable and task specific;
-8. intramuscular coordination is defined through motor-unit population control;
-9. force steadiness remains distinct from maximal strength;
-10. RFD remains time-window specific, with stronger neural constraints early and increasing muscle-tendon/maximal-force contribution later;
-11. explosive voluntary activation remains distinct from plateau VA;
-12. maximal strength remains a neural + muscular + mechanical outcome;
-13. power remains a neural + force–velocity + mechanical/technical outcome;
-14. no project-relevant blocker remains;
-15. first canonical `NEU-05_neural_force_production_voluntary_activation_rfd.md` created.
+1. exact Area 04 Section 6 coverage = **12/12 at content level**;
+2. early strength gain can be strongly neural/skill-mediated before large hypertrophy is detectable, but is not defined as purely neural;
+3. motor-unit recruitment and firing behavior adapt with substantial task/protocol heterogeneity;
+4. neural drive remains ensemble motor-neuron output and is not equated with normalized surface EMG;
+5. antagonist coactivation has no universal downward adaptation rule;
+6. intermuscular coordination adapts in task/load-specific ways;
+7. strength adaptation contains substantial task-specific skill;
+8. cortical/corticospinal adaptation is supported, but TMS marker direction/site attribution is not universal;
+9. spinal/motoneuron adaptation is supported, but H-reflex/V-wave/motor-unit measures are not interchangeable;
+10. retention and neural detraining are differential, not one-clock processes;
+11. rapid retraining is supported functionally, but a unique causal neural-memory mechanism is not established;
+12. no content-level blocker was found; closure requires PASS-02.
 
 ### Следующая задача
 
-**NEU-06/PASS-01 — Neural adaptation to strength training content revalidation.**
+**NEU-06/PASS-02 — Closure audit and synthesis.**
 
-NEU-06 maps to Area 04 Section 6. NEU-06 has not been started. After the next one block, save state and STOP.
+After the next one block, save state and STOP.
 
 ---
 
@@ -274,7 +270,7 @@ NEU-06 maps to Area 04 Section 6. NEU-06 has not been started. After the next on
 
 `research/fitness/passes/04_neurophysiology_motor_learning/NEU-05/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-06/PASS-01 neural adaptation to strength training content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-06/PASS-02 closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
