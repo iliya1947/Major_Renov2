@@ -8,7 +8,7 @@ BHC covers generic behavior-change and intervention science, including intervent
 
 ## Current state
 
-**BHC sequence: IN PROGRESS.**
+**BHC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### BHC-01 — Behavior change and intervention-science foundations
 
@@ -40,9 +40,40 @@ Established:
 
 **BHC sequence: IN PROGRESS.**
 
-Next block:
+### BHC-02 — Psychological intervention evidence architecture and sufficiency audit
 
-**BHC-02 — Psychological intervention evidence architecture: psychotherapy families, common versus specific factors, alliance/expectancy/provider effects, comparative efficacy, bona-fide versus control comparisons, harms, treatment selection, and limits of school-level claims.**
+Status: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**
+
+Canonical block:
+
+`BHC-02_psychological_intervention_evidence_psychotherapy_families_common_specific_alliance_provider_harms_personalization_sufficiency_audit.md`
+
+Established:
+
+1. therapy-family labels describe intervention traditions/packages, not one mechanism;
+2. multiple psychotherapy families have evidence across adult psychiatric disorders;
+3. bona fide head-to-head differences are often modest but non-significance is not equivalence;
+4. condition-specific differences remain important and prevent a universal "all therapies equal" rule;
+5. common and specific factors are not mutually exclusive and neither is established as the sole causal architecture;
+6. psychotherapy process-outcome evidence is mostly correlational and cannot be read as causal variance decomposition;
+7. alliance is a robust outcome correlate but may be bidirectional and intertwined with technique/early response;
+8. expectancy is a meaningful process correlate without being a universal causal mechanism;
+9. therapist-level outcome variance exists, while mechanisms explaining therapist effects remain uncertain;
+10. therapist competence, allegiance and context constrain school-level comparisons;
+11. psychotherapy harms/deterioration require active measurement and are underreported;
+12. patient preferences matter, especially for satisfaction/completion, but average outcome effects are generally small;
+13. generic personalization does not automatically improve outcomes;
+14. ML/provider-matching evidence is promising but requires comparative prospective validation;
+15. a 100-question Psychological Intervention Evidence Gate and 20/20 BHC sufficiency audit are canonical;
+16. no scientifically necessary BHC-03 dependency is identified.
+
+**BHC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
+Next Phase C dependency:
+
+**REL — interpersonal processes, attachment research, conflict and communication.**
+
+Canonical storage: `research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`.
 
 ## Storage note
 
