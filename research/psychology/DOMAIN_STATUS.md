@@ -32,8 +32,8 @@ Status: **IN PROGRESS**.
 | Domain | Status |
 |---|---|
 | CLN | COMPLETE_FOR_CURRENT_SCOPE — CLN-01/02/03 complete |
-| NDEV | IN_PROGRESS — NDEV-01 complete; NDEV-02 next |
-| BHC | NOT_STARTED |
+| NDEV | COMPLETE_FOR_CURRENT_SCOPE — NDEV-01/02 complete |
+| BHC | NEXT — canonical storage: `qualification/22_behavior_change_and_intervention_science/` |
 | REL | NOT_STARTED |
 | DEC | NOT_STARTED |
 | SAF | NOT_STARTED |
