@@ -34,8 +34,9 @@ NDEV: **COMPLETE_FOR_CURRENT_SCOPE** after NDEV-02.
 BHC: **COMPLETE_FOR_CURRENT_SCOPE** after BHC-02.  
 REL: **COMPLETE_FOR_CURRENT_SCOPE** after REL-02.  
 DEC: **COMPLETE_FOR_CURRENT_SCOPE** after DEC-02.  
-Current next domain: SAF.  
-Next block: SAF-01 — safety and crisis foundations.
+Current domain: SAF — **IN PROGRESS**.  
+SAF-01: **CLOSED_FOR_PRACTICE v1.0**.  
+Next block: SAF-02 — safety management and continuity.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 Canonical BHC storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
