@@ -400,7 +400,18 @@
 - RER/indirect calorimetry retained as a method-dependent whole-body estimator with high-intensity/non-steady-state limitations.
 - Fuel-selection phenotype remains separate from performance outcome; LCHF/KD-related fat-oxidation increases do not establish universal performance superiority/inferiority.
 - Evidence ledger `BIO07-01…BIO07-10` finalized; canonical `BIO-07_macronutrient_metabolism_substrate_selection.md` created.
-- **CURRENT NEXT: BIO-08/PASS-01 — Interaction of energy systems content revalidation.**
+- **BIO-08 — IN PROGRESS.**
+- BIO-08/PASS-01 interaction of energy systems content revalidation completed 2026-11-19; exact Area 05 Section 8 coverage = **10/10 at content/scope level**; no content-level blocker found.
+- Phosphagen, glycolytic and oxidative ATP-resynthesis pathways retained as concurrently active/interacting; dominance is relative rather than exclusive.
+- Intensity and duration redistribute contribution continuously; no universal system-switch time is retained.
+- The 2026 pooled maximal-exercise model's ~78.6 s equal anaerobic/aerobic contribution estimate is retained only as a method- and population-dependent aggregate, not an individual physiological boundary.
+- Contribution percentages are treated as method-conditioned estimates; MAOD, PCr-La-O2, VO2/lactate/EPOC-based and model-derived values are not interchangeable.
+- Repeated sets/sprints begin from altered PCr/metabolite/VO2 states; later-bout contribution is not assumed equal to the first bout.
+- Repeated-sprint glycolytic contribution can decline while oxidative contribution rises despite continued maximal intent.
+- Prolonged low/moderate-intensity activity is oxidative-dominant but not oxidative-exclusive.
+- Resistance exercise retained as mixed phosphagen/glycolytic/oxidative metabolism with strong protocol and measurement dependence.
+- Recovery intervals retained as metabolically active; oxidative metabolism supports PCr resynthesis and restoration, without equating recovery metabolism with EPOC.
+- **CURRENT NEXT: BIO-08/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
