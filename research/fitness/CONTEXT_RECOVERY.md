@@ -205,7 +205,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-19 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-20 — Arousal/stress effects on motor execution — RESEARCHING**.
+Последняя закрытая тема: **NEU-20 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-21 — Individual differences — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -255,37 +257,40 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-20/PASS-01_arousal_stress_motor_execution_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-20/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `79092bc0c187e25feebc74c4639ba2a9f8bf94f9`  
-Evidence-ledger commit: `0806b26264647c9748fe2b77fad1756fd36733a5`
+PASS commit: `f1af0719aa74f3327f3bfe86d15addb2698019cb`  
+Canonical finding commit: `2b32a610f0273f76315a9ee4e61f0f82ff45ea00`  
+Evidence ledger: existing `NEU20-01…NEU20-12` re-audited; no closure-critical rewrite required.
 
-NEU-20/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-20/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 20 coverage = **7/7 at content/scope level**;
-2. arousal, stress, anxiety and pressure are distinct constructs and should not be collapsed;
+1. exact Area 04 Section 20 coverage = **7/7 PASS at content/scope level**;
+2. arousal, stress, anxiety and pressure remain distinct constructs;
 3. pressure can facilitate, preserve or impair performance;
-4. no universal optimal arousal level or universal inverted-U motor law is retained;
+4. no universal inverted-U motor law or one optimal arousal target is retained;
 5. attentional narrowing can be adaptive or maladaptive depending on task information needs;
-6. pressure can alter kinematics, muscle activity, timing and accuracy, but no universal coordination signature exists;
-7. choking is a substantial pressure-related decrement and should not label every poor attempt;
-8. self-focus, distraction, overarousal and internal-model accounts are candidate mechanisms rather than one universal mechanism;
-9. manageable pressure/anxiety training can improve later pressure robustness in some tasks;
-10. automaticity/expertise changes attentional-control requirements but does not create pressure immunity;
-11. self-selected psyching-up can acutely improve deadlift velocity in strength athletes, but this is performance—not learning—evidence;
-12. counter-choking interventions show pooled benefits, especially in closed skills, without one universal strategy;
-13. direct compound-lift pressure/choking technique evidence remains sparse;
-14. sport-psychology intervention design remains Area 12 / PSY-COA scope;
-15. acute pressure-related performance loss does not establish loss of learning;
-16. no content-level blocker was found; independent closure audit remains required.
+6. pressure can alter coordination without one universal motor signature;
+7. choking is a consequential pressure-related decrement outside expected variability, not any poor attempt;
+8. choking mechanisms remain heterogeneous;
+9. automaticity changes attentional-control demands but does not create pressure immunity;
+10. pressure robustness can be trained in some tasks;
+11. anti-choking interventions show average benefit without one universal strategy;
+12. self-selected psyching-up can acutely improve strength performance, but acute benefit ≠ learning;
+13. ordinary retention and pressure robustness remain distinct skill properties;
+14. acute pressure-related decrement does not establish loss of learning;
+15. direct compound-lift pressure/technical-degradation evidence remains sparse;
+16. sport-psychology intervention selection remains downstream Area 12 / PSY-COA;
+17. no project-relevant blocker remains;
+18. first canonical `NEU-20_arousal_stress_motor_execution.md` created.
 
 ### Следующая задача
 
-**NEU-20/PASS-02 — Closure audit and synthesis.**
+**NEU-21/PASS-01 — Individual differences content revalidation.**
 
-NEU-20 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start the next topic in the same working block.**
+NEU-20 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-21 in this completed NEU-20 working block.**
 
 ---
 
@@ -301,9 +306,9 @@ NEU-20 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-20/PASS-01_arousal_stress_motor_execution_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-20/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-20/PASS-02 closure audit and synthesis** и остановиться перед следующим topic.
+Затем выполнить только записанный выше **NEU-21/PASS-01 individual differences content revalidation** и остановиться перед следующим block.
 
 ---
 
