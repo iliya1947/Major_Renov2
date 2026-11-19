@@ -14,6 +14,7 @@
 - **MOT sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **AFF sequence: IN PROGRESS.**
 - **AFF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **AFF-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -199,11 +200,27 @@ Established:
 
 **AFF sequence: IN PROGRESS.**
 
+### AFF-02 — Emotion regulation architecture
+Canonical block:
+`research/psychology/qualification/05_emotion_and_regulation/AFF-02_emotion_regulation_process_reappraisal_acceptance_suppression_avoidance_flexibility_measurement.md`
+
+Established:
+1. regulation is separated from spontaneous emotion change and emotion generation;
+2. situation selection/modification, attentional deployment, cognitive change and response modulation are distinct strategy families;
+3. identification, selection, implementation and monitoring are separate regulation stages;
+4. strategy effectiveness is relative to the regulation goal, context, intensity, time horizon and outcome channel;
+5. reappraisal, acceptance, expressive suppression, thought suppression, distraction, rumination, worry and avoidance are operationally distinct;
+6. no strategy is intrinsically adaptive/maladaptive across all contexts; suppression and distraction evidence is explicitly context-sensitive;
+7. strategy–situation fit, polyregulation and sequencing are distinguished from mere strategy count/switching;
+8. frequency, ability, effectiveness, effort, repertoire and flexibility are separate measurement targets;
+9. 2026 EMA evidence shows strong intensity/confounding effects on apparent daily-life strategy effectiveness;
+10. 54-question Emotion Regulation Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**AFF-02 — Emotion regulation architecture: situation selection/modification, attentional deployment, appraisal/reappraisal, acceptance, suppression, avoidance, and measurement validity.**
+**AFF-03 — Emotion dynamics and regulation over time: emotional inertia, recovery, variability, context sensitivity, mixed states, interpersonal regulation, and ecological measurement.**
 
-Goal: compare emotion-regulation strategies by mechanism, timing, target, context and measurement rather than labeling strategies intrinsically healthy/unhealthy.
+Goal: examine within-person affective trajectories, emotional inertia/recovery, variability, recurrence, mixed states, strategy sequencing, co-regulation and ecological measurement before integrating the AFF domain.
 
 Target domain:
 
