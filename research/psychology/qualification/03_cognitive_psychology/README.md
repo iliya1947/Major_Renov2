@@ -12,6 +12,7 @@ This directory stores topic-level qualification material for **Cognitive psychol
 4. `COG-04_working_memory_maintenance_updating_capacity_interference.md` — working-memory model families, maintenance/updating/binding, capacity/interference, attention/control/LTM interfaces, task-family distinctions, transfer limits, and a reusable Working Memory Inference Gate.
 5. `COG-05_long_term_memory_encoding_consolidation_retrieval_reconstruction.md` — declarative memory architecture, encoding/consolidation/retrieval separation, episodic/semantic structure, recognition/recollection/familiarity, forgetting, reconstruction, autobiographical-memory limits, reconsolidation boundaries, and a reusable Long-Term Memory Inference Gate.
 6. `COG-06_semantic_cognition_concepts_representation_control.md` — semantic representation/control, concepts/categories, categorization models, abstraction, concrete/abstract concepts, semantic relations, task impurity, and a reusable Semantic Cognition Inference Gate.
+7. `COG-07_reasoning_inference_deduction_induction_probability_causality.md` — descriptive/normative reasoning boundaries, deduction, induction, probability, relational/analogical inference, causal/counterfactual reasoning, dual-process limits, bounded rationality, and a reusable Reasoning Inference Gate.
 
 ## Current domain status
 
@@ -21,7 +22,8 @@ This directory stores topic-level qualification material for **Cognitive psychol
 - **COG-04 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
 - **COG-05 — CLOSED_FOR_PRACTICE v1.0 — 17/17 PASS.**
 - **COG-06 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
-- Next planned block: **COG-07 — Reasoning and inference: deduction, induction, probabilistic, relational, causal, and model-based inference.**
+- **COG-07 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- Next planned block: **COG-08 — Language: lexical, semantic, syntactic, comprehension/production, prediction, and language–thought boundaries.**
 
 ## Content rule
 
