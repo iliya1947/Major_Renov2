@@ -415,7 +415,18 @@
 - PCr resynthesis remains distinct from complete metabolic recovery and from EPOC as a whole.
 - Integrated bout percentage remains distinct from instantaneous ATP-production rate.
 - Evidence ledger `BIO08-01…BIO08-10` finalized; canonical `BIO-08_energy_system_interaction.md` created.
-- **CURRENT NEXT: BIO-09/PASS-01 — Oxygen uptake / aerobic contribution content revalidation.**
+- **BIO-09 — IN PROGRESS.**
+- BIO-09/PASS-01 oxygen uptake / aerobic contribution content revalidation completed 2026-11-19; exact Area 05 Section 9 coverage = **9/9 at content/scope level**; no content-level blocker found.
+- VO2 retained as an integrated oxygen-consumption flux; pulmonary VO2 is not direct local-muscle mitochondrial ATP production.
+- Oxygen deficit retained as a model-derived transient gap between modeled oxidative requirement and measured oxygen uptake, not literal whole-body oxygen shortage or direct anaerobic ATP measurement.
+- VO2 kinetics retained as time-, intensity- and model-dependent; the slow component is robust as a phenomenon but its exact mechanism remains unsettled.
+- Moderate-domain exercise generally reaches steady state, heavy-domain exercise can reach delayed steady state, and severe-domain exercise normally does not reach true metabolic steady state before exhaustion.
+- VO2max retained as an integrated oxygen-cascade capacity; VO2peak remains operationally distinct and plateau/verification criteria are not treated as infallible universal rules.
+- High-intensity exercise retains non-zero and increasing aerobic contribution; anaerobic dominance does not mean aerobic silence.
+- EPOC retained as a multi-process postexercise oxygen-consumption response; EPOC ≠ PCr resynthesis ≠ one simple oxygen debt, and no universal large calorie effect is retained.
+- Between-bout recovery retained as oxidatively active; elevated recovery VO2 does not equal complete metabolic recovery.
+- O2 delivery, peripheral extraction and mitochondrial utilization retained as distinct interacting components; VO2max limitation is context/training-state dependent rather than universally cardiac-only or mitochondrial-only.
+- **CURRENT NEXT: BIO-09/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
