@@ -28,10 +28,11 @@ Use this file to recover work after a new chat or lost context.
 - AFF sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - STR sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - SOC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- PER sequence: **IN PROGRESS**.
+- PER sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - `PER-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PER-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PER-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `PER-04`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - `SOC-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `SOC-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `SOC-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -55,13 +56,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `PER-04 — Personality and individual-differences integration/sufficiency audit: traits/states, person–situation dynamics, hierarchy, criterion validity, development/change, multi-method measurement, and cross-domain boundaries`.
+- Next block: `DEV-01 — Developmental foundations: age, maturation, developmental timing, sensitive periods, continuity/change, plasticity, cohort effects, and measurement boundaries`.
 - Target directory: `research/psychology/qualification/07_personality_and_individual_differences/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/07_personality_and_individual_differences/PER-03_personality_development_life_events_volitional_change_interventions_causal_inference.md`
+`research/psychology/qualification/07_personality_and_individual_differences/PER-04_personality_individual_differences_integration_sufficiency_audit.md`
 
 ## Hard stop condition
 
