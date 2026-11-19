@@ -207,7 +207,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-20 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-21 — Individual differences — NOT STARTED**.
+Текущая тема: **NEU-21 — Individual differences — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -257,40 +257,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-20/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-21/PASS-01_individual_differences_revalidation.md`
 
-PASS commit: `f1af0719aa74f3327f3bfe86d15addb2698019cb`  
-Canonical finding commit: `2b32a610f0273f76315a9ee4e61f0f82ff45ea00`  
-Evidence ledger: existing `NEU20-01…NEU20-12` re-audited; no closure-critical rewrite required.
+PASS commit: `c71fd41d61ed8444df331169299bcd0d206d82ec`  
+Evidence-ledger commit: `91adfa78ec6d85d5540b2999234c658d8e94a149`
 
-NEU-20/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-21/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 20 coverage = **7/7 PASS at content/scope level**;
-2. arousal, stress, anxiety and pressure remain distinct constructs;
-3. pressure can facilitate, preserve or impair performance;
-4. no universal inverted-U motor law or one optimal arousal target is retained;
-5. attentional narrowing can be adaptive or maladaptive depending on task information needs;
-6. pressure can alter coordination without one universal motor signature;
-7. choking is a consequential pressure-related decrement outside expected variability, not any poor attempt;
-8. choking mechanisms remain heterogeneous;
-9. automaticity changes attentional-control demands but does not create pressure immunity;
-10. pressure robustness can be trained in some tasks;
-11. anti-choking interventions show average benefit without one universal strategy;
-12. self-selected psyching-up can acutely improve strength performance, but acute benefit ≠ learning;
-13. ordinary retention and pressure robustness remain distinct skill properties;
-14. acute pressure-related decrement does not establish loss of learning;
-15. direct compound-lift pressure/technical-degradation evidence remains sparse;
-16. sport-psychology intervention selection remains downstream Area 12 / PSY-COA;
-17. no project-relevant blocker remains;
-18. first canonical `NEU-20_arousal_stress_motor_execution.md` created.
+1. exact Area 04 Section 21 coverage = **10/10 at content/scope level**;
+2. training age is a crude exposure descriptor and is not equivalent to task-specific expertise or proficiency;
+3. healthy aging changes motor-learning components heterogeneously rather than producing one global learning deficit;
+4. biological age must be explicitly operationalized and cannot be substituted by chronological age;
+5. previous motor experience can facilitate, interfere or fail to transfer depending on overlap with the new task;
+6. skilled limb dominance is strongly task/practice dependent rather than a universal dominant-limb motor-capacity advantage;
+7. interlimb transfer can be asymmetric in specific tasks and does not imply one universal side-first training rule;
+8. working-memory/motor-working-memory and related cognitive capacities can moderate learning phases but do not prescribe one fixed instructional style;
+9. attention control varies between individuals but does not map directly onto one motor attentional-focus/cue prescription;
+10. ADHD-specific instructional design remains explicitly deferred to Area 12 / PSY-COA;
+11. fatigue effects on motor learning are heterogeneous and stable fatigue sensitivity requires repeated task-specific measurement;
+12. resistance-training fatigability depends on protocol and participant characteristics rather than one stable phenotype;
+13. cue preference/choice can affect interpretation or acute performance but does not establish durable cue superiority or a permanent learner type;
+14. anthropometry remains Area 02/MEC scope;
+15. individualization should be empirical/dynamic rather than typological;
+16. no content-level blocker was found; independent closure audit remains required.
 
 ### Следующая задача
 
-**NEU-21/PASS-01 — Individual differences content revalidation.**
+**NEU-21/PASS-02 — Closure audit and synthesis.**
 
-NEU-20 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-21 in this completed NEU-20 working block.**
+NEU-21 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-22 in the same working block.**
 
 ---
 
@@ -306,9 +303,9 @@ NEU-20 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-20/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-21/PASS-01_individual_differences_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-21/PASS-01 individual differences content revalidation** и остановиться перед следующим block.
+Затем выполнить только записанный выше **NEU-21/PASS-02 closure audit and synthesis** и остановиться перед NEU-22.
 
 ---
 
