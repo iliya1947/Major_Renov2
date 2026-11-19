@@ -32,7 +32,11 @@
 5. Только после audit pass создаётся новый synthesis.
 6. Только после этого topic может получить `CLOSED_FOR_PRACTICE`.
 
-## Статус
+## Статус restart-документа
 
-Текущий topic: **RES-01**  
-Текущий pass: **RES-01/PASS-01 — scope and question framing**.
+Ниже зафиксирована **историческая стартовая точка перезапуска от 2026-11-16**, а не текущий qualification-state:
+
+- restart starting topic: **RES-01**;
+- restart starting pass: **RES-01/PASS-01 — scope and question framing**.
+
+**Текущую рабочую точку из этого файла не восстанавливать.** Для актуального состояния использовать PR #5 identity/workspace lock → `AGENT.md` → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → фактический HEAD.
