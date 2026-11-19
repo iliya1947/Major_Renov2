@@ -10,9 +10,8 @@
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **LEA sequence: NEXT.**
-- **MET-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- **MET-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **LEA sequence: IN PROGRESS.**
+- **LEA-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 
 ## Completed Phase A
 
@@ -41,51 +40,52 @@ Canonical blocks:
 Canonical blocks:
 - `EXE-01` through `EXE-06` in `research/psychology/qualification/04_executive_functions_and_metacognition/`.
 
-## Phase B / MET completed
+## Phase B / MET
 
-### MET-01 — Metacognition: monitoring, confidence, calibration, control, and first-order/second-order boundaries
+**MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
+Canonical blocks:
+- `MET-01` through `MET-02` in `research/psychology/qualification/04_executive_functions_and_metacognition/`.
+
+## Phase B / LEA completed
+
+### LEA-01 — Learning architecture: conditioning, prediction error, habit, extinction, and reconsolidation boundaries
 
 Canonical block:
 
-`research/psychology/qualification/04_executive_functions_and_metacognition/MET-01_metacognition_monitoring_confidence_calibration_control.md`
-
-### MET-02 — Metacognitive control: information seeking, revision, abstention, strategy selection, and stopping rules
-
-Canonical block:
-
-`research/psychology/qualification/04_executive_functions_and_metacognition/MET-02_metacognitive_control_information_revision_abstention_stopping.md`
+`research/psychology/qualification/03_cognitive_psychology/LEA-01_learning_architecture_conditioning_prediction_error_habit_extinction_reconsolidation.md`
 
 Established:
 
-1. metacognitive monitoring != metacognitive control;
-2. confidence is an input to control, not a complete policy;
-3. information seeking != information-search quality;
-4. sampling quality != search-termination quality;
-5. information seeking is value/cost sensitive rather than a simple inverse-confidence reflex;
-6. low confidence can guide search even when confidence itself is poorly calibrated;
-7. more search can amplify error when monitoring/source selection is poor;
-8. search can reduce several forms of uncertainty and is shaped by learned task/environment knowledge;
-9. question/help seeking are adaptive information-acquisition policies under appropriate source/value conditions;
-10. social information use depends jointly on own uncertainty and source confidence/reliability;
-11. high confidence can reduce feedback seeking/processing by lowering expected information value;
-12. external/online search can become habitual rather than uncertainty-driven;
-13. change of mind != indecision and revision quality must be measured;
-14. post-decision evidence can update confidence and choices but can also be distorted by confidence-dependent confirmation;
-15. confidence/JOL elicitation can alter first-order processing, so metacognitive measurement can be reactive;
-16. abstention != inability and opt-out frequency != opt-out threshold;
-17. more abstention does not automatically improve accuracy;
-18. stopping/giving up can be an adaptive global resource-allocation decision;
-19. answer, opt-out, and time stopping criteria can be dissociable;
-20. strategy selection and study allocation depend on goals, costs, time, learning, and executive implementation;
-21. metacognitive control != motivation != executive capacity;
-22. stable person-level control inference requires repeated cross-domain monitoring/control separation;
-23. a 54-question Metacognitive Control Inference Gate is canonical.
+1. learning != immediate performance expression;
+2. associative learning can encode S–O, A/R–O, S–R, S–S, and context–outcome relations;
+3. Pavlovian != instrumental learning, while PIT links them;
+4. negative reinforcement != punishment and reward != reinforcement by definition;
+5. contiguity != contingency != causal belief;
+6. prediction error is an update/teaching signal rather than the learned representation itself;
+7. scalar reward prediction error != all forms of surprise/prediction mismatch;
+8. dopamine often supports RPE accounts but is not reducible to one scalar RPE signal;
+9. timing, state representation, memory, and contingency constrain prediction-error learning;
+10. computational RL fit != literal mechanism;
+11. model-free/model-based != habit/goal-directed without behavioral validation;
+12. working memory/perseveration can mimic or alter human RL estimates;
+13. goal-directed action requires current action–outcome/value sensitivity;
+14. repetition/frequency/automaticity/persistence != habit;
+15. habit inference requires a successful devaluation/contingency manipulation, and current human habit measures show validity/convergence limits;
+16. extinction != erasure != ordinary forgetting;
+17. spontaneous recovery, renewal, and reinstatement demonstrate context/time-dependent return of responding;
+18. reduced instrumental responding after extinction does not imply loss of goal-directed outcome knowledge;
+19. retrieval/reactivation != memory destabilization/reconsolidation;
+20. prediction error, memory strength, retrieval conditions, and related factors can bound reconsolidation-oriented updating;
+21. retrieval-extinction effects do not by themselves prove reconsolidation rewriting;
+22. associative learning in humans can involve explicit expectancies/inference while retaining residual cue-driven influence;
+23. a 52-question Learning Architecture Inference Gate is canonical.
 
 ## Current next action
 
-**LEA-01 — Learning architecture: conditioning, prediction error, habit, extinction, and reconsolidation boundaries.**
+**LEA-02 — Associative learning: contingency, blocking, conditioned inhibition, Pavlovian/instrumental structure, and transfer.**
 
-Goal: establish a current architecture of learning; separate associative learning, reinforcement/prediction-error learning, habit formation, extinction/new learning, and memory reconsolidation; define boundaries between learned prediction, causal belief, habit, and deliberate goal-directed control.
+Goal: deepen associative learning mechanisms; separate temporal pairing from contingency, cue–outcome from action–outcome relations, prediction-error and inference accounts of blocking/conditioned inhibition, and automatic versus explicit contributions to Pavlovian-to-instrumental transfer.
 
 Target domain:
 
