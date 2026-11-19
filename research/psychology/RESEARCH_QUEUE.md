@@ -235,7 +235,7 @@ Established:
 9. experience, expression, perception and elicitation are separate scientific targets;
 10. a 52-question Emotion Inference Gate and 18/18 closure audit are canonical.
 
-**AFF sequence: IN PROGRESS.**
+**AFF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### AFF-02 — Emotion regulation architecture
 Canonical block:
@@ -306,7 +306,7 @@ Established:
 10. resilience must be defined relative to adversity and separated into capacity/factor, process/mechanism, outcome and recovery;
 11. 56-question Stress Measurement and Inference Gate and 18/18 closure audit are canonical.
 
-**STR sequence: IN PROGRESS.**
+**STR sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### STR-02 — Stress physiology and temporal measurement
 Canonical block:
@@ -380,7 +380,7 @@ Established:
 10. observer agreement, target self-report, consensus ground truth, confidence, and criterion accuracy are distinct;
 11. 60-question Social Cognition Inference Gate and 18/18 closure audit are canonical.
 
-**SOC sequence: IN PROGRESS.**
+**SOC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### SOC-02 — Empathy and interpersonal accuracy
 Canonical block:
@@ -475,7 +475,7 @@ Established:
 10. cross-cultural mean comparisons require measurement-invariance caution;
 11. 64-question Personality Foundations Inference Gate and 18/18 closure audit are canonical.
 
-**PER sequence: IN PROGRESS.**
+**PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ## Phase B / PER completed
 
@@ -497,7 +497,7 @@ Established:
 11. cross-cultural mean comparisons require measurement invariance; translation alone is insufficient;
 12. 60-question Personality Foundations Inference Gate and 18/18 closure audit are canonical.
 
-**PER sequence: IN PROGRESS.**
+**PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### PER-02 — Personality hierarchy and criterion validity
 Canonical block:
@@ -579,7 +579,7 @@ Established:
 12. developmental cascades/transactions are frameworks, not causal proof;
 13. 70-question Developmental Timing / Measurement Inference Gate and 18/18 closure audit are canonical.
 
-**DEV sequence: IN PROGRESS.**
+**DEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### DEV-02 — Developmental mechanisms and trajectories
 Canonical block:
@@ -726,7 +726,7 @@ Established:
 
 **NEU sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
-## Phase B / PSYCHOMETRICS in progress
+## Phase B / PSYCHOMETRICS completed
 
 ### PSYCHOMETRICS-01 — Applied measurement foundations
 
@@ -750,7 +750,7 @@ Established:
 13. technology-based and automated assessment does not bypass validity, fairness, and precision requirements;
 14. a 72-question Applied Psychometrics Inference Gate and 18/18 closure audit are canonical.
 
-**PSYCHOMETRICS sequence: IN PROGRESS.**
+**PSYCHOMETRICS sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### PSYCHOMETRICS-02 — Latent-variable and item-response measurement
 
@@ -797,7 +797,7 @@ Established:
 
 **Phase B — Core psychological science: COMPLETE_FOR_CURRENT_SCOPE.**
 
-## Phase C / CLN in progress
+## Phase C / CLN completed
 
 ### CLN-01 — Psychopathology foundations
 
@@ -820,7 +820,7 @@ Established:
 12. symptom-level research still requires psychometric validation;
 13. a 78-question Psychopathology Foundations Inference Gate and 18/18 closure audit are canonical.
 
-**CLN sequence: IN PROGRESS.**
+**CLN sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### CLN-02 — Psychopathology mechanisms and course
 
