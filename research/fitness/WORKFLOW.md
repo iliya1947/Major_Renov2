@@ -271,8 +271,11 @@ Stage 2 / Phase B продолжается.
 57. NEU-03/PASS-01 sensory feedback / proprioception content revalidation завершён; exact Area 04 Section 3 coverage **12/12 at content level**.
 58. NEU-03/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 3 coverage **12/12 PASS**, no project-relevant blocker remains.
 59. First canonical NEU-03 finding created as v2.0.
-60. Следующий один блок: **NEU-04/PASS-01 — Reflex regulation content revalidation**.
-61. NEU-05 автоматически не запускать после следующего блока; сохраняется one block → state update → STOP.
+60. NEU-04 = **RESEARCHING**.
+61. NEU-04/PASS-01 reflex regulation content revalidation завершён; exact Area 04 Section 4 coverage **8/8 at content level**.
+62. NEU-04 closure audit / synthesis ещё не выполнен; canonical finding ещё не создан.
+63. Следующий один блок: **NEU-04/PASS-02 — Closure audit and synthesis**.
+64. NEU-05 автоматически не запускать после PASS-02; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -289,7 +292,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **NEU-04/PASS-01 — Reflex regulation content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **NEU-04/PASS-02 — Closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
