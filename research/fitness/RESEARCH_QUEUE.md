@@ -226,7 +226,17 @@
 - Direct RT cueing evidence remains mostly acute; durable compound-lift cue architecture is unresolved.
 - ADHD-specific cue architecture remains deliberately deferred to Area 12 / PSY-COA.
 - First canonical NEU-16 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **NEU-17/PASS-01 — Demonstration / video / modeling content revalidation.**
+- **NEU-17 — RESEARCHING.**
+- NEU-17/PASS-01 demonstration/video/modeling content revalidation completed 2026-11-19; exact Area 04 Section 17 coverage = **10/10 at content level**.
+- Observational learning is useful versus no observation but does not replace physical practice.
+- Expert, peer/novice and self-models have different information functions; no universal model hierarchy is retained.
+- 2026 self-modeling meta-analysis shows positive post-test performance but no significant 1-week persistence; a 2026 critical review identifies major power/blinding/retention limitations.
+- Slow motion is not universally superior to real time; interactive learner-controlled replay is a distinct intervention.
+- Combined pre-practice + early interspersed demonstrations can be useful, but no universal observation schedule exists.
+- Attention guidance toward relevant model features can improve learning; “watch everything” is not sufficient instruction.
+- Anthropometry/mobility can alter movement geometry, but anthropometry is not a deterministic technique formula.
+- Direct compound-lift observational-modeling evidence remains sparse; own-video squat feedback provides narrow direct retention evidence.
+- CURRENT NEXT: **NEU-17/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
