@@ -39,6 +39,8 @@
 - **DEC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **DEC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEC-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
+- **SAF sequence: IN PROGRESS.**
+- **SAF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -1067,11 +1069,36 @@ Established:
 
 **DEC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase C / SAF in progress
+
+### SAF-01 — Safety and crisis foundations
+
+Canonical block:
+`research/psychology/qualification/24_safety_crisis_referral_thresholds/SAF-01_safety_crisis_foundations_acute_risk_self_harm_suicide_triage_medical_psychiatric_remote_referral.md`
+
+Established:
+
+1. screening, assessment, prediction, formulation, and disposition are separate;
+2. validated suicide screening can trigger further assessment but does not yield exact future-suicide prediction;
+3. NICE low/medium/high global risk categories are not used to predict future suicide/self-harm or decide discharge/treatment;
+4. direct suicide questioning is appropriate;
+5. self-harm and suicidal intent are noninterchangeable;
+6. intrusive thoughts are not automatically intent;
+7. intent, plan, access, prior behavior, recent change, medical/psychiatric state, and environment are separate evidence channels;
+8. emergency/urgent/routine are service/action thresholds rather than fixed numeric risk tiers;
+9. physical and psychosocial care run in parallel after self-harm;
+10. delirium, suspected mania/severe depression, possible psychosis, and severe withdrawal have explicit escalation boundaries;
+11. safety planning is not a no-suicide contract;
+12. remote/telehealth and AI assessment limits are explicit;
+13. a 112-question Safety / Crisis Foundations Inference Gate and 18/18 closure audit are canonical.
+
+**SAF sequence: IN PROGRESS.**
+
 ## Current next action
 
-**SAF-01 — Safety and crisis foundations: acute-risk recognition, emergency/urgent/routine thresholds, direct-versus-inferred risk evidence, uncertainty, medical/psychiatric escalation boundaries, remote-assessment limits, and referral logic.**
+**SAF-02 — Safety management and continuity: post-crisis transitions, follow-up/contact, lethal-means safety evidence, safety/crisis response planning evidence, repeat self-harm, violence/safeguarding escalation, refusal/capacity/confidentiality boundaries, documentation/handoff, remote/AI crisis boundaries, and SAF sufficiency audit.**
 
-Goal: begin Phase C SAF with a general safety-triage architecture before any crisis-category specifics.
+Goal: close the safety-management/continuity dependency after SAF-01 without turning SAF into a pseudo-clinical or jurisdiction-specific crisis manual.
 
 Target domain:
 
