@@ -126,7 +126,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-02 — **CLOSED_FOR_PRACTICE v2.0**;
 - BIO-03 — **CLOSED_FOR_PRACTICE v2.0**;
 - BIO-04 — **CLOSED_FOR_PRACTICE v2.0**;
-- **CURRENT NEXT: BIO-05/PASS-01 — Acid–base physiology and buffering content revalidation.**
+- BIO-05/PASS-01 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; exact Section 5 content coverage **8/8**;
+- **CURRENT NEXT: BIO-05/PASS-02 — Closure audit and synthesis.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -176,7 +177,26 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-04/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-05/PASS-01_acid_base_buffering_content_revalidation.md`
+
+PASS commit: `c8cffac5cae5d0279c841cede68726d3bacf0bf1`
+
+BIO-05/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+
+Content result:
+
+1. exact Area 05 Section 5 coverage = **8/8 at content/scope level**;
+2. muscle/interstitial/blood pH separated;
+3. exercise acidosis treated as integrated ATP-turnover/physicochemical/buffering/transport state;
+4. lactate ≠ H+ and lactate formation ≠ direct lactic-acid dissociation;
+5. intracellular buffering separated from H+ equivalent efflux;
+6. extracellular bicarbonate system retained without reducing acid–base physiology to bicarbonate alone;
+7. MCT/NHE1/bicarbonate transport retained as parallel pH-regulation pathways;
+8. severe acidosis can contribute to fatigue but is not the sole mechanism;
+9. exercise burn is not attributed to lactate alone;
+10. pH recovery separated from lactate disappearance;
+11. no universal pH failure threshold or recovery time retained;
+12. supplementation prescription remains NUT; exact work:rest remains BIO-12/PRO.
 
 PASS commit: `15f2a10b3e6290b89800e8abcd1980f782f2e669`  
 Canonical finding commit: `7667eb4e8371cb11a647096aadce1ca408f1f419`  
@@ -213,7 +233,7 @@ Closure result:
 
 ### Следующая задача
 
-**BIO-05/PASS-01 — Acid–base physiology and buffering content revalidation.**
+**BIO-05/PASS-02 — Closure audit and synthesis.**
 
 BIO-04 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-05 in this completed BIO-04 closure block.**
 
@@ -239,7 +259,7 @@ BIO-04 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 `research/fitness/passes/05_bioenergetics/BIO-04/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-05/PASS-01 — Acid–base physiology and buffering content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-05/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
