@@ -41,6 +41,34 @@
 | ERR-030 | Use-permission conflation | Сильная evidence принимается за разрешение использовать proposition для любой цели/high-stakes decision | Separate confidence/evidence from stakes and use-permission state | ACTIVE |
 | ERR-031 | Discriminating-test neglect | Собираются новые descriptive details без вопроса, какое evidence реально различит H1/H2 | Information-value gate + prospective discriminating prediction | ACTIVE |
 
+| ERR-032 | Correct-answer validation | Случайно правильный итог может использоваться как подтверждение invalid inference route | Audit outcome correctness and reasoning validity separately; luck does not validate method | ACTIVE |
+| ERR-033 | Error-stage mislocalization | Исправляется видимый downstream symptom, а earliest invalid step остаётся | Identify earliest material T01–T12 failure before repair; rebuild downstream from that point | ACTIVE |
+| ERR-034 | Single-error assumption | Цепочка с несколькими независимыми failures принудительно получает один label | Use primary root-stage tag plus secondary error tags | ACTIVE |
+| ERR-035 | Dependency-repair omission | Исправленная premise не приводит к пересмотру зависимых propositions | Mandatory dependency propagation after factual/model correction | ACTIVE |
+| ERR-036 | Severity blindness | Одинаковая inferential weakness обрабатывается одинаково при low-stakes и high-stakes consequence | Separate error detection from R0–R4 consequence handling and S0–S4 use stakes | ACTIVE |
+| ERR-037 | Guardrail absolutism | Valid caution превращается в universal ban: например self-report/correlation/population/neural evidence объявляются бесполезными | Claim-specific evidence routing; guardrails block invalid upgrades, not legitimate evidence use | ACTIVE |
+
+## INT-03 taxonomy map
+
+Canonical taxonomy: `qualification/26_integration/INT-03_analytic_error_taxonomy_failure_stages_cascades_detection_repair_regression.md`.
+
+Primary stage families:
+
+1. T01 — purpose / scope / governance;
+2. T02 — construct / claim typing;
+3. T03 — measurement / provenance;
+4. T04 — design / causality / bias;
+5. T05 — synthesis / generalization / applicability;
+6. T06 — individual transfer;
+7. T07 — temporal / state-trait / development;
+8. T08 — cross-domain / level translation;
+9. T09 — confidence / calibration / evidence dependence;
+10. T10 — ethics / privacy / contestability;
+11. T11 — safety / action / authority;
+12. T12 — model maintenance / versioning.
+
+Use the earliest material failing stage as primary. Preserve additional independent failures as secondary tags.
+
 ## Обязательная regression check
 
 Перед сильным персональным выводом в приватном проекте проверить минимум:
