@@ -181,7 +181,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-07 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-08 — Neuromuscular fatigue — RESEARCHING**.
+Последняя закрытая тема: **NEU-08 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-09 — Motor control — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -231,32 +233,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-08/PASS-01_neuromuscular_fatigue_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-08/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `9e1d4066c8661b1cd1ca3ea6f6e68ec4dc273e2d`
+PASS commit: `188e752d0ed0e2caa03ad13100a607bbe78f7b0b`  
+Canonical finding commit: `47937107270d498ecfcf6f5ebe71b5b1403e9ecf`
 
-NEU-08/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-08/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 8 coverage = **10/10 at content level**;
-2. central fatigue is reduced effective voluntary neural drive/activation capacity and is not equated with mental fatigue or one biomarker;
-3. peripheral fatigue remains a distinct but interacting class owned mechanistically by PHY-10;
-4. VA can decline with fatigue but is protocol/method dependent and is not a universal CNS-capacity score;
-5. motor-unit firing responses are non-uniform across units/tasks;
-6. recruitment demand often rises during submaximal fatigue but depends on initial activation and remaining reserve;
-7. coordination/coherence changes are heterogeneous and task/training dependent;
-8. fatigue can impair active proprioceptive accuracy without implying global sensory failure;
-9. fatigue changes movement strategy/technique without one universal technical-failure or injury pattern;
+1. exact Area 04 Section 8 coverage = **10/10 PASS**;
+2. central fatigue remains distinct from mental fatigue and one-marker interpretations;
+3. peripheral fatigue remains distinct and can dominate despite relatively preserved activation;
+4. VA is method-/task-dependent and is not a literal CNS-capacity percentage;
+5. motor-unit firing responses remain non-uniform;
+6. recruitment compensation remains task constrained;
+7. coordination/coherence changes are heterogeneous;
+8. proprioceptive impairment is submodality specific rather than global;
+9. fatigue-related technique changes are real without one universal failure/injury pattern;
 10. task dependency is the organizing rule;
 11. recovery follows multiple outcome-specific clocks;
-12. no content-level blocker was found; closure requires PASS-02.
+12. consistency with PHY-10, NEU-05 and NEU-06 confirmed;
+13. no project-relevant blocker remains;
+14. first canonical `NEU-08_neuromuscular_fatigue.md` created.
 
 ### Следующая задача
 
-**NEU-08/PASS-02 — Closure audit and synthesis.**
+**NEU-09/PASS-01 — Motor control content revalidation.**
 
-After the next one block, save state and STOP.
+NEU-09 maps to Area 04 Section 9 (16 exact items). After the next one block, save state and STOP.
 
 ---
 
@@ -272,9 +277,9 @@ After the next one block, save state and STOP.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-08/PASS-01_neuromuscular_fatigue_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-08/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-08/PASS-02 closure audit and synthesis** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-09/PASS-01 motor control content revalidation** и остановиться перед следующим блоком.
 
 ---
 
