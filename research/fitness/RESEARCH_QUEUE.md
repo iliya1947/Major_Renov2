@@ -238,7 +238,17 @@
 - Anthropometry/mobility can alter movement geometry, but anthropometry is not a deterministic technique formula and exact copying of expert geometry is rejected.
 - Direct compound-lift observational-modeling evidence remains sparse; own-video squat feedback provides narrow direct retention evidence.
 - First canonical NEU-17 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **NEU-18/PASS-01 — Errors and correction content revalidation.**
+- **NEU-18 — RESEARCHING.**
+- NEU-18/PASS-01 errors-and-correction content revalidation completed 2026-11-19; exact Area 04 Section 18 coverage = **11/11 at content level**.
+- Outcome error, movement-criterion error and sensory prediction error are separated; movement variability is not automatically error.
+- Stable vs random error is retained only as an operational recurrence distinction; stability does not identify cause.
+- Strength/capacity, mobility, load, fatigue and cueing are candidate causes that require measurement/perturbation rather than appearance-based diagnosis.
+- Current powerlifting evidence confirms load- and fatigue-dependent mechanics; such changes are not automatically lost technique.
+- Solution variability can support transfer when task error remains controlled; different-from-model is not itself wrong.
+- Cause-first correction and one-constraint perturbation are retained as practical diagnostic heuristics, not one-to-one causal laws.
+- Task/environment manipulation is legitimate but 2026 errorless-learning evidence does not support universal superiority.
+- Direct compound-lift causal error→correction maps remain sparse and are deferred to MEC/TEC.
+- CURRENT NEXT: **NEU-18/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
