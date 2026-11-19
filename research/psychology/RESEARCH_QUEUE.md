@@ -33,6 +33,8 @@
 - **BHC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **BHC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **BHC-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
+- **REL sequence: IN PROGRESS.**
+- **REL-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -963,11 +965,34 @@ Established:
 
 **BHC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase C / REL in progress
+
+### REL-01 — Interpersonal and attachment foundations
+
+Canonical block:
+`research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/REL-01_interpersonal_attachment_foundations_dimensions_measurement_dyadic_partner_effects_regulation_continuity_change_limits.md`
+
+Established:
+
+1. adult attachment is a relational-regulatory construct rather than diagnosis/personality essence;
+2. anxiety/avoidance dimensions are primary; four-category prototypes are not natural kinds;
+3. ECR-family and AAI/interview methods are not interchangeable;
+4. global, relationship-specific, trait, and state attachment are distinct;
+5. actor, partner, and shared-couple effects must be separated;
+6. dyadic associations do not automatically establish partner causality;
+7. support/responsiveness/dyadic coping/autonomy are attachment-relevant but mechanism claims remain design-limited;
+8. early relationships predict adult attachment probabilistically rather than deterministically;
+9. adult attachment can change, and transient state change is not enduring trait change;
+10. coercion/power/safety concerns override attachment labeling;
+11. a 96-question Attachment / Dyadic Inference Gate and 18/18 closure audit are canonical.
+
+**REL sequence: IN PROGRESS.**
+
 ## Current next action
 
-**REL-01 — Interpersonal/attachment foundations: attachment constructs and measurement, adult attachment dimensions versus categories, close-relationship regulation, partner effects, reciprocity, developmental continuity/change, and inference limits.**
+**REL-02 — Conflict and communication architecture: demand/withdraw and reciprocal escalation, validation/invalidation, responsiveness, repair, attribution, power/asymmetry, boundaries, coercive versus ordinary conflict, communication measurement, and causal limits.**
 
-Goal: begin Phase C REL with an evidence-calibrated interpersonal/attachment architecture before conflict and communication-specific work.
+Goal: close the conflict/communication dependency without reducing relationship science to communication tips or attachment labels.
 
 Target domain:
 
