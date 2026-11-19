@@ -33,7 +33,7 @@ Status: **IN PROGRESS**.
 |---|---|
 | CLN | COMPLETE_FOR_CURRENT_SCOPE — CLN-01/02/03 complete |
 | NDEV | COMPLETE_FOR_CURRENT_SCOPE — NDEV-01/02 complete |
-| BHC | NEXT — canonical storage: `qualification/22_behavior_change_and_intervention_science/` |
+| BHC | IN_PROGRESS — BHC-01 complete; BHC-02 next |
 | REL | NOT_STARTED |
 | DEC | NOT_STARTED |
 | SAF | NOT_STARTED |
