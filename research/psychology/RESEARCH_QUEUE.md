@@ -11,6 +11,7 @@
 - **Phase D — Integration: IN PROGRESS.**
 - **INT-01 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
 - **INT-02 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
+- **INT-03 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
@@ -1247,11 +1248,37 @@ Established:
 
 **Phase D: IN PROGRESS.**
 
+## Phase D / INT-03 completed
+
+### INT-03 — Analytic error taxonomy
+
+Canonical block:
+`research/psychology/qualification/26_integration/INT-03_analytic_error_taxonomy_failure_stages_cascades_detection_repair_regression.md`
+
+Established:
+
+1. 12 reusable failure stages: purpose/scope, construct/claim, measurement/provenance, design/causality, applicability, person transfer, temporal/state-trait, cross-domain level, confidence/dependence, ethics/privacy, safety/action, and model maintenance;
+2. root error and downstream manifestation are separated;
+3. primary and secondary error tags can coexist;
+4. all ERR-001…031 are routed into the taxonomy;
+5. domain-level failures are treated as instances rather than duplicated ledger classes;
+6. correct conclusion does not validate invalid reasoning;
+7. wrong probabilistic outcome does not automatically invalidate sound reasoning;
+8. commission and omission errors are both represented;
+9. R0–R4 internal consequence handling changes repair/oversight, not truth;
+10. repair starts at the earliest material failing stage and propagates through dependencies;
+11. six new meta-error classes ERR-032…037 are canonical;
+12. a 144-question Analytic Error Taxonomy Gate and 20/20 closure audit are canonical.
+
+**INT-03: CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
+
+**Phase D: IN PROGRESS.**
+
 ## Current next action
 
-**INT-03 — Analytic error taxonomy.**
+**INT-04 — Reusable reasoning checklists.**
 
-Goal: unify ERROR_LEDGER classes, domain-specific failure modes, INT-01 cross-domain errors, and INT-02 transfer/model-maintenance errors into one taxonomy organized by where reasoning fails, with detection rules and regression guards.
+Goal: compress the full qualification into concise operational checklists for actual private work, with escalation to deeper gates only when needed.
 
 ## Deferred
 
