@@ -8,7 +8,7 @@ Lifecycle: постоянный `open + draft`.
 
 1. Открыть PR #6 и прочитать неизменяемую карту кабинета.
 2. Установить: **Кира → психолог / ассистент академика → PR #6 постоянный кабинет**.
-3. Установить текущий этап из operational state; сейчас — квалификация.
+3. Установить текущий этап из operational state; сейчас — **Stage 2 private application / qualification complete for current scope**.
 4. Открыть `AGENT.md` и `PRIVACY.md`.
 5. Открыть `CONTEXT_RECOVERY.md` и `RESEARCH_QUEUE.md`.
 6. Проверить текущий HEAD и последний canonical block.
@@ -46,6 +46,13 @@ Lifecycle: постоянный `open + draft`.
 - `DECISIONS.md` — решения и причины.
 - `ERROR_LEDGER.md` — известные сбои и regression guards.
 - `OPEN_QUESTIONS.md` — что нельзя преждевременно считать закрытым.
+
+### Stage 2 route
+
+- `qualification/26_integration/INT-04_reusable_reasoning_checklists_fast_routing_deep_gate_escalation_pre_response.md` — operational checklist routing.
+- `qualification/26_integration/INT-02_evidence_to_individual_transfer_provenance_applicability_confidence_model_update.md` — strong person-level transfer.
+- `qualification/26_integration/INT-03_analytic_error_taxonomy_failure_stages_cascades_detection_repair_regression.md` — correction/error repair.
+- `qualification/26_integration/INT-05_final_sufficiency_audit_stage2_readiness_requalification_contract.md` — qualification closure / Stage 2 entry contract.
 
 ### Приватная модель
 
