@@ -1372,6 +1372,6 @@ Phase B -> **IN PROGRESS**.
 **Next: applied PSYCHOMETRICS — measurement construction, reliability, validity, invariance, norms, score interpretation, individual-difference inference, change measurement, and decision thresholds.**
 
 Target directory:
-research/psychology/qualification/04_measurement_and_psychometrics/ or the canonical PSYCHOMETRICS directory specified by the current repository dependency map.
+`research/psychology/qualification/02_psychometrics_and_assessment/`.
 
 No individualized psychological material belongs in this repository.
