@@ -36,6 +36,8 @@
 - **REL sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **REL-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **REL-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
+- **DEC sequence: IN PROGRESS.**
+- **DEC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -1014,11 +1016,36 @@ Established:
 
 **REL sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase C / DEC in progress
+
+### DEC-01 — Judgment and decision foundations
+
+Canonical block:
+`research/psychology/qualification/19_decision_strategy_and_prediction/DEC-01_judgment_decision_foundations_normative_descriptive_risk_uncertainty_heuristics_framing_calibration_choice_architecture.md`
+
+Established:
+
+1. normative and descriptive decision models are separated;
+2. decision quality is separated from realized outcome;
+3. risk is separated from ambiguity/uncertainty;
+4. expected utility/prospect theory are bounded as models rather than person-level mechanism truth;
+5. loss aversion is not a universal fixed coefficient;
+6. framing/reference dependence is represented without one-mechanism overclaim;
+7. heuristics are not errors by definition and bias labels do not identify mechanisms;
+8. base-rate/Bayesian reasoning and probability representation are explicit;
+9. calibration/discrimination/confidence/overconfidence are separated;
+10. fast/slow dual-process language is not reified;
+11. risk-preference measures show limited cross-task coherence;
+12. choice architecture/defaults influence behavior without automatically improving welfare;
+13. a 104-question Judgment / Decision Foundations Inference Gate and 18/18 closure audit are canonical.
+
+**DEC sequence: IN PROGRESS.**
+
 ## Current next action
 
-**DEC-01 — Judgment and decision foundations: normative versus descriptive models, probability/risk representation, heuristics and biases, framing/reference dependence, calibration, base rates, choice architecture, and inference limits.**
+**DEC-02 — Applied decision quality and forecasting: probabilistic forecasting/scoring, overconfidence decomposition, advice/aggregation, multi-attribute decisions, value of information, reversible versus irreversible decisions, decision aids, debiasing durability, real-world/ecological validity, and person-level decision competence.**
 
-Goal: begin Phase C DEC without turning it into a catalogue of named biases.
+Goal: close the applied decision-support dependency without turning DEC into a self-help list of biases.
 
 Target domain:
 
