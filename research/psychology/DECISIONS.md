@@ -146,3 +146,17 @@ Reconsideration trigger: если фактический DEC scope позже п
 4. individualized crisis/safety material никогда не сохраняется в repo.
 
 Reconsideration trigger: отдельная migration/reorganization decision.
+
+
+### Решение 15
+**ETH получает отдельный canonical storage `25_ethics_individualized_inference_ai_analysis/`.**
+
+Причина: Phase C ETH касается ethical boundaries individualized psychological inference и AI-assisted analysis; исторический `20_systems_modeling_of_personality/` относится к systems modeling и не закрывает ethical dependency.
+
+Последствия:
+1. `25_ethics_individualized_inference_ai_analysis/` — canonical ETH storage;
+2. `20_systems_modeling_of_personality/` сохраняется отдельным историческим тематическим каталогом;
+3. ETH-01 начинается только отдельным continuation после purpose/question gate;
+4. individualized ethical cases/private psychological facts никогда не сохраняются в repo.
+
+Reconsideration trigger: отдельная migration/reorganization decision.
