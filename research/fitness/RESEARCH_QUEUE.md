@@ -262,19 +262,21 @@
 - Consolidation is not synonymous with sleep/offline gain; retention, interference and savings/relearning remain distinct outcomes.
 - Clinical neurorehabilitation principles are conceptual constraints, not validated numerical healthy-fitness prescriptions; even intensive clinical task-specific training does not guarantee added functional benefit.
 - First canonical NEU-19 finding created as v2.0 because no legacy finding existed in the current branch.
-- **NEU-20 — RESEARCHING.**
+- **NEU-20 — CLOSED_FOR_PRACTICE v2.0.**
 - NEU-20/PASS-01 arousal/stress content revalidation completed 2026-11-19; exact Area 04 Section 20 coverage = **7/7 at content/scope level**.
-- Arousal, stress, anxiety and performance pressure are separated; pressure can facilitate, preserve or impair performance.
-- No universal inverted-U arousal law or one optimal arousal level is retained across motor tasks.
-- Attentional narrowing is not inherently harmful; pressure failure is framed as task-relevant attentional-control mismatch.
-- Choking is a substantial acute pressure-related performance decrement, not any poor attempt; mechanisms remain heterogeneous.
-- Manageable pressure/anxiety training can improve later pressure robustness in some tasks, but exact dose/mechanism is unresolved.
-- Automaticity/expertise changes control requirements but does not confer pressure immunity.
-- Strength-specific 2026 evidence supports acute psyching-up benefit for deadlift velocity, not motor learning.
-- Sport-psychology intervention design is explicitly deferred to Area 12 / PSY-COA.
-- Acute pressure-related performance deterioration is not loss of learning; baseline/no-pressure retest is required before such inference.
-- Direct compound-lift pressure/choking technique evidence remains sparse.
-- CURRENT NEXT: **NEU-20/PASS-02 — Closure audit and synthesis.**
+- NEU-20/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 20 coverage = **7/7 PASS** and no project-relevant blocker remains.
+- Arousal, stress, anxiety and performance pressure remain distinct constructs; pressure can facilitate, preserve or impair performance.
+- No universal inverted-U motor law or one optimal arousal level is retained.
+- Attentional narrowing is task-information dependent rather than inherently harmful.
+- Choking is a consequential pressure-related decrement outside expected variation, not any poor attempt; mechanisms remain heterogeneous.
+- Manageable pressure training can improve later robustness in some tasks, but exact dose/mechanism is unresolved.
+- Automaticity/expertise changes control demands without creating pressure immunity.
+- Self-selected psyching-up can acutely improve deadlift velocity, but acute strength benefit is not motor-learning evidence.
+- Pressure robustness and ordinary skill retention remain separate outcomes.
+- Sport-psychology intervention design remains Area 12 / PSY-COA scope.
+- Direct compound-lift pressure/technical-degradation evidence remains sparse.
+- First canonical NEU-20 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **NEU-21/PASS-01 — Individual differences content revalidation.**
 
 ## История текущего revalidation cycle
 
