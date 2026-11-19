@@ -40,7 +40,7 @@ If control files disagree:
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **IN PROGRESS**.
-- Current domain: **SAF / safety boundaries, crisis recognition, and referral thresholds — NEXT**.
+- Current domain: **SAF / safety boundaries, crisis recognition, and referral thresholds — IN PROGRESS**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
@@ -57,12 +57,14 @@ If control files disagree:
 - DEC-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - DEC-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - DEC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- Next block: **SAF-01 — Safety and crisis foundations: acute-risk recognition, emergency/urgent/routine thresholds, direct-versus-inferred risk evidence, uncertainty, medical/psychiatric escalation boundaries, remote-assessment limits, and referral logic**.
+- SAF-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- SAF sequence: **IN PROGRESS**.
+- Next block: **SAF-02 — Safety management and continuity: post-crisis transitions, follow-up/contact, lethal-means safety evidence, safety/crisis response planning evidence, repeat self-harm, violence/safeguarding escalation, refusal/capacity/confidentiality boundaries, documentation/handoff, remote/AI crisis boundaries, and SAF sufficiency audit**.
 - Target directory: `research/psychology/qualification/24_safety_crisis_referral_thresholds/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/19_decision_strategy_and_prediction/DEC-02_applied_decision_quality_forecasting_information_value_aggregation_aids_debiasing_real_life_sufficiency_audit.md`
+`research/psychology/qualification/24_safety_crisis_referral_thresholds/SAF-01_safety_crisis_foundations_acute_risk_self_harm_suicide_triage_medical_psychiatric_remote_referral.md`
 
 ## 5. Cabinet architecture state
 
@@ -132,6 +134,6 @@ Stop immediately if:
 
 After recovery, the next qualification block remains:
 
-**SAF-01 — Safety and crisis foundations: acute-risk recognition, emergency/urgent/routine thresholds, direct-versus-inferred risk evidence, uncertainty, medical/psychiatric escalation boundaries, remote-assessment limits, and referral logic.**
+**SAF-02 — Safety management and continuity: post-crisis transitions, follow-up/contact, lethal-means safety evidence, safety/crisis response planning evidence, repeat self-harm, violence/safeguarding escalation, refusal/capacity/confidentiality boundaries, documentation/handoff, remote/AI crisis boundaries, and SAF sufficiency audit.**
 
 Canonical target: `research/psychology/qualification/24_safety_crisis_referral_thresholds/`.
