@@ -12,6 +12,7 @@
 - **INT-01 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
 - **INT-02 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
 - **INT-03 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
+- **INT-04 — CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
@@ -1274,11 +1275,37 @@ Established:
 
 **Phase D: IN PROGRESS.**
 
+## Phase D / INT-04 completed
+
+### INT-04 — Reusable reasoning checklists
+
+Canonical block:
+`research/psychology/qualification/26_integration/INT-04_reusable_reasoning_checklists_fast_routing_deep_gate_escalation_pre_response.md`
+
+Established:
+
+1. C0 universal preflight and C12 final pre-response audit;
+2. trigger-based specialist checklists for low-stakes reflection, strong individualized inference, causality, state/trait, measurement, clinical/NDEV, relationships, intervention/decision, safety/high-stakes, private-model update, correction/error repair, and source/version verification;
+3. Q0–Q4 depth routing separates micro/focused/integrated/deep/external-process work;
+4. short checklists never replace a canonical deep gate after an escalation trigger;
+5. FAST-12, STRONG-16, REPAIR-12, HIGH-STAKES-12, and FINAL-8 compact cards are canonical;
+6. checklist completion/item count does not create evidence, validity, or confidence;
+7. critical invalidity can block inference regardless of passed checklist items;
+8. checklist over-routing and unnecessary clinicalization are explicitly prevented;
+9. checklist under-routing of strong/high-stakes claims is explicitly prevented;
+10. source/version freshness has a dedicated trigger;
+11. ERR-038…043 and PSY-G103…108 encode checklist-layer regression guards;
+12. a 96-question Checklist Architecture Audit and 20/20 closure audit are canonical.
+
+**INT-04: CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS.**
+
+**Phase D: IN PROGRESS.**
+
 ## Current next action
 
-**INT-04 — Reusable reasoning checklists.**
+**INT-05 — Final sufficiency audit for project purpose.**
 
-Goal: compress the full qualification into concise operational checklists for actual private work, with escalation to deeper gates only when needed.
+Goal: determine whether the complete qualification stack is sufficient to leave qualification and begin systematic private application, or whether any material knowledge/governance/operational gap still blocks that transition.
 
 ## Deferred
 
