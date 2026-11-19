@@ -287,9 +287,12 @@ Stage 2 / Phase B продолжается.
 73. NEU-07/PASS-01 bilateral effects / cross-education content revalidation завершён; exact Area 04 Section 7 coverage **7/7 at content level**.
 74. NEU-07/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 7 coverage **7/7 PASS**, no project-relevant blocker remains.
 75. First canonical NEU-07 finding created as v2.0.
-76. NEU-08/PASS-01 neuromuscular fatigue content revalidation завершён; exact Area 04 Section 8 coverage **10/10 at content level**; audit/synthesis pending.
-77. Следующий один блок: **NEU-08/PASS-02 — Closure audit and synthesis**.
-78. NEU-09 автоматически не запускать после следующего блока; сохраняется one block → state update → STOP.
+76. NEU-08 = **CLOSED_FOR_PRACTICE v2.0**.
+77. NEU-08/PASS-01 neuromuscular fatigue content revalidation завершён; exact Area 04 Section 8 coverage **10/10 at content level**.
+78. NEU-08/PASS-02 closure audit / synthesis завершён; exact Area 04 Section 8 coverage **10/10 PASS**, no project-relevant blocker remains.
+79. First canonical NEU-08 finding created as v2.0.
+80. Следующий один блок: **NEU-09/PASS-01 — Motor control content revalidation**.
+81. NEU-10 автоматически не запускать после следующего блока; сохраняется one block → state update → STOP.
 
 ## 9. Зафиксированный общий план
 
@@ -306,7 +309,7 @@ Stage 2 / Phase B продолжается.
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **NEU-08/PASS-02 — Closure audit and synthesis**.
+Ближайшая задача: Stage 2 / Phase B — **NEU-09/PASS-01 — Motor control content revalidation**.
 
 
 ## 10. Stage 0B — результат
