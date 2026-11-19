@@ -40,7 +40,7 @@ If control files disagree:
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **IN PROGRESS**.
-- Current domain: **REL / interpersonal processes, attachment, conflict and communication — NEXT**.
+- Current domain: **REL / interpersonal processes, attachment, conflict and communication — IN PROGRESS**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
@@ -51,12 +51,14 @@ If control files disagree:
 - BHC-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - BHC-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - BHC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- Next block: **REL-01 — Interpersonal/attachment foundations: attachment constructs and measurement, adult attachment dimensions versus categories, close-relationship regulation, partner effects, reciprocity, developmental continuity/change, and inference limits**.
+- REL-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- REL sequence: **IN PROGRESS**.
+- Next block: **REL-02 — Conflict and communication architecture: demand/withdraw and reciprocal escalation, validation/invalidation, responsiveness, repair, attribution, power/asymmetry, boundaries, coercive versus ordinary conflict, communication measurement, and causal limits**.
 - Target directory: `research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/22_behavior_change_and_intervention_science/BHC-02_psychological_intervention_evidence_psychotherapy_families_common_specific_alliance_provider_harms_personalization_sufficiency_audit.md`
+`research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/REL-01_interpersonal_attachment_foundations_dimensions_measurement_dyadic_partner_effects_regulation_continuity_change_limits.md`
 
 ## 5. Cabinet architecture state
 
@@ -126,6 +128,6 @@ Stop immediately if:
 
 After recovery, the next qualification block remains:
 
-**REL-01 — Interpersonal/attachment foundations: attachment constructs and measurement, adult attachment dimensions versus categories, close-relationship regulation, partner effects, reciprocity, developmental continuity/change, and inference limits.**
+**REL-02 — Conflict and communication architecture: demand/withdraw and reciprocal escalation, validation/invalidation, responsiveness, repair, attribution, power/asymmetry, boundaries, coercive versus ordinary conflict, communication measurement, and causal limits.**
 
 Canonical target: `research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`.
