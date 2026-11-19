@@ -190,7 +190,12 @@
 - Explicit/implicit process purity, universal implicit-over-explicit superiority, variability-as-exploration, universal constraints-led superiority, fixed challenge-point sweet spots and universal easy→hard progression remain rejected as unsupported overclaims.
 - Power-clean evidence supports improvement under both linear/explicit and nonlinear/constraints-led teaching but does not establish delayed-retention or universal superiority.
 - First canonical NEU-12 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **NEU-13/PASS-01 — Practice organization content revalidation.**
+- **NEU-13 — RESEARCHING.**
+- NEU-13/PASS-01 practice-organization content revalidation completed 2026-11-19; exact Area 04 Section 13 coverage = **12/12 at content level**.
+- Frequency, volume and distribution are separated; distributed/massed and blocked/random effects remain task/context dependent rather than universal laws.
+- Contextual interference has an average retention/transfer benefit, but applied transfer effects are smaller/less certain; variable practice is not universally superior to constant practice.
+- Direct RT evidence is insufficient to prescribe exact blocked/random, distributed/massed, constant/variable or whole/part schedules for compound-lift technique.
+- CURRENT NEXT: **NEU-13/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
