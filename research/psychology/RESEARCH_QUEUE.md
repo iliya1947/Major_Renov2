@@ -13,6 +13,8 @@
 - **LEA sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MOT sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **AFF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- **STR sequence: IN PROGRESS.**
+- **STR-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -252,11 +254,32 @@ Established:
 
 **AFF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase B / STR completed
+
+### STR-01 — Stress foundations
+Canonical block:
+`research/psychology/qualification/15_stress_trauma_and_adaptation/STR-01_stress_foundations_stressor_response_appraisal_allostasis_coping_resilience_measurement.md`
+
+Established:
+1. stressor exposure, appraisal, stress response, recovery and downstream outcome are distinct;
+2. stress is not synonymous with negative affect, arousal, cortisol or one RDoC construct;
+3. acute, repeated-acute and chronic stress require explicit temporal/exposure definitions;
+4. challenge/threat and perceived control are context-sensitive appraisal variables rather than universal outcome labels;
+5. ANS, HPA, immune, subjective, cognitive and behavioral stress responses have different timing and may diverge;
+6. cortisol awakening, diurnal cortisol and laboratory cortisol reactivity are noninterchangeable;
+7. TSST evidence supports a multichannel acute stress response rather than one latent stress-intensity score;
+8. homeostasis, allostasis and allostatic load are distinguished; current AL indices remain heterogeneous and partly overlap cardiometabolic disease burden;
+9. coping overlaps emotion regulation but can additionally target stressors/resources; strategy value depends on controllability and outcome;
+10. resilience must be defined relative to adversity and separated into capacity/factor, process/mechanism, outcome and recovery;
+11. 56-question Stress Measurement and Inference Gate and 18/18 closure audit are canonical.
+
+**STR sequence: IN PROGRESS.**
+
 ## Current next action
 
-**STR-01 — Stress foundations: stressor, stress response, appraisal, acute/chronic stress, homeostasis/allostasis, coping, resilience, and measurement boundaries.**
+**STR-02 — Stress physiology and temporal measurement: HPA axis, autonomic regulation, cortisol/catecholamines, inflammation, circadian effects, acute reactivity/recovery, chronic dysregulation, and biomarker validity.**
 
-Goal: distinguish stressor from stress response; acute/chronic exposure; appraisal and controllability; homeostasis/allostasis/allostatic load; coping versus emotion regulation; resilience, adaptation and recovery; and measurement/causal limits.
+Goal: deepen the biological/temporal architecture of acute and chronic stress, including system-specific kinetics, biomarker validity and recovery before later coping/resilience integration.
 
 Target domain:
 
