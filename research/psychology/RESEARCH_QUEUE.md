@@ -6,7 +6,7 @@
 - Privacy contract established.
 - No personal data stored.
 - **Phase A — Research and inference methodology: CLOSED_FOR_PRACTICE v1.0.**
-- **Phase B — Core psychological science: IN PROGRESS.**
+- **Phase B — Core psychological science: COMPLETE_FOR_CURRENT_SCOPE.**
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
@@ -18,9 +18,10 @@
 - **PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **DEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **NEU sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **PSYCHOMETRICS sequence: IN PROGRESS.**
+- **PSYCHOMETRICS sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **PSYCHOMETRICS-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PSYCHOMETRICS-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **PSYCHOMETRICS-03 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -769,15 +770,37 @@ Established:
 14. calibration, linking, population transport and item drift constrain latent-score comparability;
 15. 84-question Latent Measurement / IRT Inference Gate and 18/18 closure audit are canonical.
 
+### PSYCHOMETRICS-03 — Integration and sufficiency audit
+
+Canonical block:
+`research/psychology/qualification/02_psychometrics_and_assessment/PSYCHOMETRICS-03_psychometrics_integration_sufficiency_audit.md`
+
+Established:
+
+1. PSYCHOMETRICS-01 score/use-level rules and PSYCHOMETRICS-02 item/model-level rules are internally consistent;
+2. CTT reliability, SEM/cSEM and IRT information are complementary precision frameworks rather than competing truth claims;
+3. simple versus latent scoring is evaluated by inferential value rather than model sophistication;
+4. fit, structural validity, construct validity and person-score precision remain separate targets;
+5. invariance and DIF are complementary, while fairness remains broader than either;
+6. longitudinal score change requires both precision and measurement comparability/item-parameter stability;
+7. the only blocking integration gap was absence of one canonical uncertainty stack;
+8. response, model, parameter, person-score, transport, norm, decision and validity uncertainty are now explicitly separated;
+9. a 64-question Integrated Psychometrics Inference Gate and 20/20 closure audit are canonical;
+10. no scientifically necessary PSYCHOMETRICS-04 dependency is identified.
+
+**PSYCHOMETRICS sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
+**Phase B — Core psychological science: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**PSYCHOMETRICS-03 — Psychometrics integration and sufficiency audit: score-use × model-level consistency, individual interpretation, fairness, change, and closure decision.**
+**CLN-01 — Psychopathology foundations: symptom, syndrome, disorder, impairment, dimensional and categorical models, comorbidity, differential inference, and diagnostic validity limits.**
 
-Goal: audit PSYCHOMETRICS-01 and -02 as one inference system, repair any contradiction or missing bridge, and decide whether the psychometrics domain and Phase B are sufficient for current project purpose.
+Goal: begin Phase C by establishing a scientifically defensible psychopathology framework that separates symptoms, syndromes, diagnosis, mechanisms, impairment, dimensional variation, comorbidity and differential inference.
 
 Target domain:
 
-`research/psychology/qualification/02_psychometrics_and_assessment/`
+`research/psychology/qualification/12_psychopathology/`
 
 ## Deferred
 
