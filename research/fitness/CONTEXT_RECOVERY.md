@@ -259,43 +259,41 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-01/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-02/PASS-01_phosphagen_system_revalidation.md`
 
-PASS commit: `071e7813c67f40e42381b87e217b4704bf5afb6c`  
-Canonical finding commit: `25d721533a13762d9e720cca9579e03c0d8ee98f`  
-Evidence ledger commit: `b81e171d7193cf929f43375f5cc13efb49c7aa75`  
-Evidence ledger: `BIO01-01…BIO01-08` finalized.
+PASS commit: `79b247cc31c82cfee23d83c01923cb8ab36d5fd7`  
+Evidence ledger commit: `9bd216fc7e875024def3396a45805e657879adcd`  
+Evidence ledger: `BIO02-01…BIO02-10` added with **closure audit pending** status.
 
-BIO-01/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-02/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 05 Section 1 coverage = **8/8 PASS**;
-2. energy is treated as conserved/transferred/transformed rather than created;
-3. “ATP energy currency” is retained only as shorthand;
-4. preferred technical framing is activated carrier / immediate phosphoryl-transfer and free-energy intermediary;
-5. ATP pool and ATP turnover are distinct;
-6. high ATP flux can coexist with stable or near-stable ATP concentration;
-7. ATP concentration can still decline under sufficiently severe energetic demand;
-8. [ATP] and ΔGATP are distinct variables;
-9. actual ΔG is condition dependent and distinct from biochemical standard transformed ΔG°′;
-10. exergonic/endergonic classify thermodynamic driving force rather than reaction speed;
-11. activation energy is a kinetic barrier distinct from ΔG;
-12. coupled reactions are judged by the net combined ΔG;
-13. enzyme catalysis lowers activation barriers without changing reaction equilibrium;
-14. ATP hydrolysis is not explained as energy release from bond breaking itself;
-15. muscle ATP stores are retained qualitatively as small relative to exercise demand;
-16. no universal ATP concentration, “seconds stored ATP”, ΔGATP or ATP-turnover value is retained;
-17. continuous ATP resynthesis is required;
-18. exact PCr/glycolytic/oxidative pathway partitioning remains BIO-02/03/06/08;
-19. no project-relevant blocker remains;
-20. first canonical `BIO-01_basic_energy_concepts.md` created.
+1. exact Area 05 Section 2 coverage = **12/12 at content/scope level**;
+2. stored ATP and PCr are distinct pools; PCr supports ATP regeneration through CK rather than directly replacing ATP at ATPases;
+3. CK reaction is reversible and shifts toward ATP regeneration during high demand and toward PCr resynthesis during recovery;
+4. CK/PCr is retained as a temporal/spatial energy-buffering system without requiring one literal universal shuttle topology;
+5. adenylate kinase provides secondary nucleotide buffering through `2 ADP ↔ ATP + AMP`;
+6. phosphagen ATP regeneration has very high rate but finite capacity;
+7. PCr makes a major early contribution to very brief maximal work but is not the sole ATP source and no universal phosphagen-only time window exists;
+8. PCr can be heavily depleted during short maximal exercise;
+9. PCr depletion is not equivalent to ATP depletion or fatigue;
+10. post-exercise PCr resynthesis is predominantly oxidative;
+11. O2 availability can alter PCr recovery, but oxygen delivery is not universally the sole rate-limiting factor in healthy normoxia;
+12. PCr recovery kinetics depend on depletion, pH, mitochondrial capacity, recruitment, protocol and measurement;
+13. no universal full-PCr-recovery time or fixed rest-duration→%PCr-restored mapping is retained;
+14. longer rest generally permits greater PCr reconstitution and can support repeated high-intensity performance;
+15. exact rest prescription remains BIO-12/PRO;
+16. creatine availability can modify the creatine-PCr system, while dosing/efficacy/safety remain NUT;
+17. exact energy-system partitioning remains BIO-08;
+18. no content-level blocker remains;
+19. no canonical BIO-02 finding created because closure audit is still required.
 
 ### Следующая задача
 
-**BIO-02/PASS-01 — Phosphagen system content revalidation.**
+**BIO-02/PASS-02 — Closure audit and synthesis.**
 
-BIO-01 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-02 in this completed BIO-01 closure block.**
+BIO-02 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start BIO-03 in this completed BIO-02/PASS-01 working block.**
 
 ---
 
@@ -311,9 +309,9 @@ BIO-01 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-01/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-02/PASS-01_phosphagen_system_revalidation.md`
 
-Затем выполнить только записанный выше **BIO-02/PASS-01 — Phosphagen system content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-02/PASS-02 — Closure audit and synthesis** и остановиться перед BIO-03.
 
 ---
 
