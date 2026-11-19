@@ -199,7 +199,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-16 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-17 — Demonstration / video / modeling — NOT STARTED**.
+Текущая тема: **NEU-17 — Demonstration / video / modeling — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -249,41 +249,37 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-16/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-17/PASS-01_demonstration_video_modeling_revalidation.md`
 
-PASS commit: `1771001bda22f50c18c63243c425d83de141b35f`  
-Canonical finding commit: `d5de7f0c64a4eb7399297d90befafdd460080a40`  
-Evidence ledger: existing `NEU16-01…NEU16-13` re-audited; no closure-critical rewrite required.
+PASS commit: `9148aee5dc3231aae308034bf139e44982081885`  
+Evidence-ledger commit: `2db76f75fdb86b45832726b3688a7673fba78760`
 
-NEU-16/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-17/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 16 coverage = **11/11 PASS at content/scope level**;
-2. one-cue-at-a-time remains a practical default, not a universal law;
-3. multiple explicit rules can exceed available working-memory resources in some learners;
-4. brevity is not equivalent to cue quality;
-5. detailed instruction can be necessary when a generic cue lacks the information needed to alter the target coordination;
-6. specificity means task-relevant informational precision, not verbosity or kinematic micromanagement;
-7. external/internal cue direction remains task/outcome dependent under NEU-14;
-8. analogy cueing is promising but heterogeneous/high-risk-of-bias and does not prove implicit process purity;
-9. process-vs-outcome target and internal-vs-external direction remain separate dimensions;
-10. cue semantics/action verbs can matter independently of broad cue category;
-11. individualization should be based on observed task response and interpretation, not fixed learner typology;
-12. cue-to-error-cause matching remains a practical heuristic pending direct causal trials;
-13. no universal cue-removal schedule exists; independence must be tested without the cue;
-14. cognitive overload is instruction load × task demand × learner capacity, not a fixed cue threshold;
-15. direct RT cueing evidence is mostly acute; acute response ≠ durable learning;
-16. the canonical information rule is **minimum sufficient information**, not “less is always better”;
-17. ADHD-specific cue architecture remains deferred to Area 12 / PSY-COA;
-18. no project-relevant blocker remains;
-19. first canonical `NEU-16_cueing.md` created.
+1. exact Area 04 Section 17 coverage = **10/10 at content level**;
+2. observational learning improves motor-skill learning versus no observation in PE/sport contexts but is not equivalent to physical practice;
+3. expert models provide a clear successful reference but are not universally superior to self/peer/novice models;
+4. peer/novice models can provide useful error-comparison information; mixed expert+novice observation can outperform single-model conditions in some tasks;
+5. 2026 self-modeling meta-analysis shows a positive post-test effect but no significant 1-week persistence and high heterogeneity;
+6. 2026-11-09 methodological critical review identifies severe underpowering, limited blinding and sparse retention/transfer testing in self-modeling/feedforward literature;
+7. self-modeling and video feedback are different instructional functions;
+8. own-video feedback has direct novice-squat retention evidence under one small protocol;
+9. slow-motion demonstration is not universally superior to real time;
+10. learner-controlled interactive replay can improve retention in some tasks but its effect cannot be attributed to slow motion alone;
+11. combined pre-practice + early interspersed observation can be useful, but no universal demonstration schedule exists;
+12. attention guidance toward task-relevant model features can improve learning;
+13. observation can train—and potentially bias—error-detection/reference mechanisms;
+14. anthropometry/mobility can alter movement geometry, so exact copying of another lifter's positions is not justified; anthropometry is not deterministic;
+15. direct compound-lift observational-modeling evidence remains sparse;
+16. no content-level blocker was found; independent closure audit remains required.
 
 ### Следующая задача
 
-**NEU-17/PASS-01 — Demonstration / video / modeling content revalidation.**
+**NEU-17/PASS-02 — Closure audit and synthesis.**
 
-NEU-16 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-17 in this completed NEU-16 working block.**
+NEU-17 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-18 in the same working block.**
 
 ---
 
@@ -299,9 +295,9 @@ NEU-16 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-16/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-17/PASS-01_demonstration_video_modeling_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-17/PASS-01 demonstration / video / modeling content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-17/PASS-02 closure audit and synthesis** и остановиться перед NEU-18.
 
 ---
 
