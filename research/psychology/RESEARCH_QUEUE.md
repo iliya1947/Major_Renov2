@@ -12,6 +12,7 @@
 - **COG-03 — CLOSED_FOR_PRACTICE v1.0 — 15/15 PASS.**
 - **COG-04 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
 - **COG-05 — CLOSED_FOR_PRACTICE v1.0 — 17/17 PASS.**
+- **COG-06 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
 
 ## Completed Phase A
 
@@ -48,32 +49,35 @@ Canonical block:
 Canonical block:
 `research/psychology/qualification/03_cognitive_psychology/COG-05_long_term_memory_encoding_consolidation_retrieval_reconstruction.md`
 
+### COG-06 — Semantic cognition and concepts
+Canonical block:
+`research/psychology/qualification/03_cognitive_psychology/COG-06_semantic_cognition_concepts_representation_control.md`
+
 Established:
 
-1. encoding, consolidation/retention, and retrieval are distinct inferential stages;
-2. episodic and semantic memory are distinguishable but interacting;
-3. item memory != source/context memory;
-4. systems consolidation remains a live theoretical debate rather than one universal transfer story;
-5. retrieval is cue-dependent and accessibility != availability;
-6. recall != recognition;
-7. recognition can involve recollection and familiarity;
-8. episodic remembering is trace-constrained and reconstructive;
-9. confidence/vividness != objective accuracy;
-10. autobiographical memory is psychologically meaningful but historically fallible;
-11. autobiographical memory can be shaped by retelling, emotion, current goals, and culture;
-12. forgetting has multiple mechanisms and can be adaptive;
-13. retrieval can strengthen some memories and suppress competitors;
-14. reactivation != reconsolidation;
-15. memory updating/reconsolidation requires boundary-condition evidence;
-16. memory tasks are mixtures of encoding, retrieval, decision, language, and control demands;
-17. individualized memory evidence separates current remembered content, historical claim, current meaning, and proposed mechanism;
-18. a 45-question Long-Term Memory Inference Gate is canonical.
+1. semantic cognition is representation plus context-sensitive use, not a static store;
+2. semantic knowledge != language != episodic memory;
+3. word != concept != category;
+4. categorization can depend on similarity, exemplars, prototypes, rules, knowledge, and context;
+5. no single categorization architecture is treated as settled;
+6. semantic representation != semantic control;
+7. semantic control overlaps with but is not reducible to domain-general cognitive control;
+8. Controlled Semantic Cognition and hub-and-spoke are influential working frameworks rather than final doctrine;
+9. distributed/modality-related, heteromodal, linguistic, and control contributions can coexist;
+10. concrete/abstract is not one binary mechanism and abstract concepts are heterogeneous;
+11. abstraction != specificity != category level;
+12. taxonomic, thematic, associative, similarity, and synonym relations are separated;
+13. computational semantic distance is model-dependent and needs human validation;
+14. semantic knowledge can be present despite access/control or lexical failures;
+15. naming, fluency, and other semantic tasks are task-impure;
+16. expertise, culture, context, and learning history alter semantic performance/structure;
+17. a 37-question Semantic Cognition Inference Gate is canonical.
 
 ## Current next action
 
-**COG-06 — Semantic cognition and concepts: representation, categorization, abstraction, and semantic control.**
+**COG-07 — Reasoning and inference: deduction, induction, probabilistic, relational, causal, and model-based inference.**
 
-Goal: establish how conceptual knowledge is represented and used, distinguish semantic representation from language and episodic memory, compare distributed/hub/control accounts, and define limits on category/concept inference.
+Goal: establish a current map of reasoning processes, separate descriptive performance from normative rationality, distinguish deduction/induction/probabilistic/relational/causal inference, and define how memory, language, knowledge, and cognitive control contribute without turning "reasoning" into one unitary faculty.
 
 Target domain:
 
