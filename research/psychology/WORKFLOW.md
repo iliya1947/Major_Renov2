@@ -53,16 +53,17 @@ Canonical ETH storage: `research/psychology/qualification/25_ethics_individualiz
 
 INT-01 — cross-domain contradiction audit: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
 INT-02 — evidence-to-individual transfer rules: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
+INT-03 — analytic error taxonomy: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
 Blocking canonical contradictions: **0**.  
-Next block: **INT-03 — analytic error taxonomy**.  
+Next block: **INT-04 — reusable reasoning checklists**.  
 Canonical integration storage: `research/psychology/qualification/26_integration/`.
 
 Sequence:
 
 1. cross-domain contradiction audit — **complete**;
 2. evidence-to-individual transfer rules — **complete**;
-3. analytic error taxonomy — **next**;
-4. reusable reasoning checklists;
+3. analytic error taxonomy — **complete**;
+4. reusable reasoning checklists — **next**;
 5. final sufficiency audit.
 
 ## 4. Правило qualification block
