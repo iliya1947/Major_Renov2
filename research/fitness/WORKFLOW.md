@@ -225,8 +225,9 @@
 7. BIO-03 = **CLOSED_FOR_PRACTICE v2.0**.
 8. BIO-04 = **CLOSED_FOR_PRACTICE v2.0**.
 9. BIO-05 = **CLOSED_FOR_PRACTICE v2.0**; PASS-01 + PASS-02 complete, exact Section 5 closure **8/8 PASS**.
-10. **CURRENT NEXT: BIO-06/PASS-01 — Oxidative phosphorylation / mitochondria content revalidation.**
-11. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
+10. BIO-06/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**, exact Section 6 content coverage **10/10**.
+11. **CURRENT NEXT: BIO-06/PASS-02 — Closure audit and synthesis.**
+12. После одного следующего законченного блока: сохранить state → STOP; BIO-07 автоматически не запускать.
 
 Авторитет текущей точки: PR #5 identity/workspace lock → фактическая ветка → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → последний PASS.
 
@@ -245,7 +246,7 @@
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **BIO-06/PASS-01 — Oxidative phosphorylation / mitochondria content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **BIO-06/PASS-02 — Closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
