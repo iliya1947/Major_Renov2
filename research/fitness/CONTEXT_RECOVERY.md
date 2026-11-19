@@ -187,7 +187,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-10 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-11 — Learning vs performance / retention / transfer — RESEARCHING**.
+Последняя закрытая тема: **NEU-11 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-12 — Explicit/implicit/constraints-based learning — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -237,33 +239,36 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-11/PASS-01_learning_vs_performance_retention_transfer_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-11/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `a58d44fdc4f3b9222d92fd1f1c12f9e759330807`  
+PASS commit: `97fe1fdd3e21e1e91ea4c5645767b9cdb0ee5839`  
+Canonical finding commit: `4806ad30360fd9945b9e08f0ee00f4ac34622a93`  
 Evidence-ledger commit: `81ca8477849392ef8f68041e1e4d5860269c5069`
 
-NEU-11/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-11/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 11 coverage = **9/9 at content level**;
-2. practice performance and durable motor learning are distinct;
-3. acquisition is practice-phase performance and does not prove learning;
-4. retention requires a delayed, explicitly defined test and remains task/outcome specific;
+1. exact Area 04 Section 11 coverage = **9/9 PASS**;
+2. motor performance and durable learning remain distinct;
+3. acquisition is practice-phase performance and cannot establish learning alone;
+4. retention requires delayed, explicitly defined testing;
 5. transfer must be measured in the actual untrained target condition;
-6. generalization breadth is distinct from retention strength, and terminology overlaps with transfer across subfields;
-7. automaticity is gradual/partial rather than an all-or-none state;
-8. relearning/savings is distinct from overt retention and can reveal retained learning history;
-9. fatigue robustness and pressure robustness are state/context specific and cannot be inferred from rested retention;
+6. generalization breadth is distinct from retention strength, with terminology overlap preserved;
+7. automaticity remains graded/partial rather than binary;
+8. relearning/savings remains distinct from overt retention;
+9. fatigue robustness and pressure robustness remain state/context specific;
 10. exercise technique is a practiced motor skill, not only declarative verbal knowledge;
-11. learned technique does not imply one universal movement geometry;
-12. no content-level blocker was found; independent closure audit/synthesis is still required.
+11. learned technique does not require one universal movement geometry;
+12. measurement outcomes remain non-interchangeable;
+13. no project-relevant blocker remains;
+14. first canonical `NEU-11_learning_vs_performance_retention_transfer.md` created.
 
 ### Следующая задача
 
-**NEU-11/PASS-02 — Closure audit and synthesis.**
+**NEU-12/PASS-01 — Explicit/implicit/constraints-based learning content revalidation.**
 
-NEU-11 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-12 in the same working block.**
+NEU-12 maps to Area 04 Section 12 (**10 exact items**). After the next one block, save state and STOP.
 
 ---
 
@@ -279,9 +284,9 @@ NEU-11 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-11/PASS-01_learning_vs_performance_retention_transfer_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-11/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-11/PASS-02 closure audit and synthesis** и остановиться перед NEU-12.
+Затем выполнить только записанный выше **NEU-12/PASS-01 explicit/implicit/constraints-based learning content revalidation** и остановиться перед следующим блоком.
 
 ---
 
