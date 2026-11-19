@@ -415,18 +415,23 @@
 - PCr resynthesis remains distinct from complete metabolic recovery and from EPOC as a whole.
 - Integrated bout percentage remains distinct from instantaneous ATP-production rate.
 - Evidence ledger `BIO08-01…BIO08-10` finalized; canonical `BIO-08_energy_system_interaction.md` created.
-- **BIO-09 — IN PROGRESS.**
-- BIO-09/PASS-01 oxygen uptake / aerobic contribution content revalidation completed 2026-11-19; exact Area 05 Section 9 coverage = **9/9 at content/scope level**; no content-level blocker found.
-- VO2 retained as an integrated oxygen-consumption flux; pulmonary VO2 is not direct local-muscle mitochondrial ATP production.
-- Oxygen deficit retained as a model-derived transient gap between modeled oxidative requirement and measured oxygen uptake, not literal whole-body oxygen shortage or direct anaerobic ATP measurement.
-- VO2 kinetics retained as time-, intensity- and model-dependent; the slow component is robust as a phenomenon but its exact mechanism remains unsettled.
-- Moderate-domain exercise generally reaches steady state, heavy-domain exercise can reach delayed steady state, and severe-domain exercise normally does not reach true metabolic steady state before exhaustion.
-- VO2max retained as an integrated oxygen-cascade capacity; VO2peak remains operationally distinct and plateau/verification criteria are not treated as infallible universal rules.
-- High-intensity exercise retains non-zero and increasing aerobic contribution; anaerobic dominance does not mean aerobic silence.
-- EPOC retained as a multi-process postexercise oxygen-consumption response; EPOC ≠ PCr resynthesis ≠ one simple oxygen debt, and no universal large calorie effect is retained.
-- Between-bout recovery retained as oxidatively active; elevated recovery VO2 does not equal complete metabolic recovery.
-- O2 delivery, peripheral extraction and mitochondrial utilization retained as distinct interacting components; VO2max limitation is context/training-state dependent rather than universally cardiac-only or mitochondrial-only.
-- **CURRENT NEXT: BIO-09/PASS-02 — Closure audit and synthesis.**
+- **BIO-09 — CLOSED_FOR_PRACTICE v2.0.**
+- BIO-09/PASS-01 oxygen uptake / aerobic contribution content revalidation completed 2026-11-19; exact Area 05 Section 9 coverage = **9/9 at content/scope level**.
+- BIO-09/PASS-02 independent closure audit / synthesis completed 2026-11-19; exact Section 9 coverage = **9/9 PASS** and no project-relevant blocker remains.
+- VO2 retained as integrated whole-body oxygen-consumption flux rather than direct local muscle ATP production.
+- Oxygen deficit retained as indirect/model-derived transition-energy estimate rather than literal body O2 shortage or direct anaerobic ATP measurement.
+- Pulmonary VO2 and local muscle VO2 remain coupled but non-identical during rapid transitions.
+- VO2 kinetics retained as intensity/state/method dependent; kinetics speed remains distinct from VO2max and performance.
+- VO2 slow component retained as a robust phenomenon with unresolved exact mechanism; no single glycolytic/fibre-recruitment explanation is canonized.
+- Moderate/heavy/severe domains retained as differing in steady-state behavior, while exact boundary identification remains method dependent; CP and MLSS are not treated as perfectly interchangeable individual markers.
+- VO2max retained as integrated oxygen-cascade capacity; VO2peak remains operationally distinct.
+- Plateau and verification evidence can support maximality, but no verification protocol is retained as an infallible universal gold standard.
+- High-intensity exercise retains non-zero and increasing aerobic contribution.
+- EPOC retained as multi-process postexercise oxygen consumption; EPOC ≠ PCr resynthesis ≠ one simple oxygen debt, and no universal large calorie afterburn is retained.
+- Between-bout recovery retained as oxidatively active; elevated recovery VO2 does not imply complete recovery.
+- O2 delivery, extraction and mitochondrial utilization remain distinct interacting determinants; dominant VO2max/VO2-kinetics limitations are population/training-state dependent.
+- Evidence ledger `BIO09-01…BIO09-09` finalized; canonical `BIO-09_oxygen_uptake_aerobic_contribution.md` created.
+- **CURRENT NEXT: BIO-10/PASS-01 — Substrate depletion and repletion content revalidation.**
 
 ## История текущего revalidation cycle
 
