@@ -175,7 +175,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-04 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-05 — Neural force production / voluntary activation / RFD — NOT STARTED**.
+Текущая тема: **NEU-05 — Neural force production / voluntary activation / RFD — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -225,35 +225,40 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-04/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-05/PASS-01_neural_force_production_voluntary_activation_rfd_revalidation.md`
 
-PASS commit: `36b82b67b020c5fa99d1e6cde8cc7d88177265da`  
-Canonical finding commit: `1f4c8840f8172fb8cc830c4a4cf8c99ca271fd92`
+PASS commit: `1368c461c575a8e07520dd5e947ec9147fee455f`  
+Evidence-ledger commit: `42d349709e5d2fad67428f61c46ce4d506f46b61`
 
-NEU-04/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-05/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Exact content coverage:
+- `areas/04_neurophysiology_motor_learning.md` Section 5 = **14/14 at content level**.
 
-1. exact Area 04 Section 4 coverage = **8/8 PASS**;
-2. stretch reflex remains multi-latency and task dependent;
-3. monosynaptic Ia→alpha-MN arc is the shortest component rather than the whole reflex response;
-4. H-reflex remains an experimental spinal probe distinct from natural stretch/tendon reflex;
-5. reciprocal inhibition remains task/phase dependent;
-6. GTO/Ib force feedback remains distributed and is not modeled as a high-force emergency shut-off;
-7. presynaptic/PAD control remains mechanistically nuanced and not uniformly inhibitory;
-8. rapid corrective responses combine spinal and supraspinal pathways;
-9. current human evidence supports online reticulospinal contribution to long-latency stretch responses;
-10. SSC remains a neural + muscle–tendon + history-dependent phenomenon;
-11. ~250 ms remains an operational SSC heuristic rather than a biological neural threshold;
-12. reflex amplitude is not treated as a universal performance-quality score;
-13. no project-relevant blocker remains;
-14. first canonical `NEU-04_reflex_regulation.md` created.
+PASS-01 established:
+
+1. recruitment and rate coding jointly regulate motor output and inherit NEU-02 task/context boundaries;
+2. neural drive is the ensemble discharge of active spinal motor neurons, not raw or normalized surface EMG;
+3. EMG is an indirect conditional proxy whose interpretation depends on motor-unit, membrane, geometry and normalization factors;
+4. voluntary activation is a stimulation-based, muscle/method-specific measurement construct rather than a universal neural-capacity percentage;
+5. agonist activation contributes to force but EMG amplitude is not direct agonist force;
+6. antagonist coactivation is a task-dependent torque-cost/stability-control tradeoff rather than universally bad activation;
+7. synergist/intermuscular coordination can adapt through timing, weighting and coupling changes;
+8. intramuscular coordination is defined through motor-unit population control rather than vague “mind-muscle” language;
+9. force steadiness is distinct from maximal strength and is strongly influenced by variability of shared synaptic input;
+10. RFD is time-window specific: early RFD is strongly constrained by rapid neural activation while later RFD increasingly includes maximal-force and muscle-tendon/contractile determinants;
+11. explosive voluntary activation is rapid drive development at contraction onset and is distinct from plateau VA;
+12. maximal strength is a neural + muscular + mechanical outcome;
+13. power is a neural + force–velocity + mechanical/technical outcome;
+14. exact Section 5 coverage = **14/14 at content level**;
+15. no content-level blocker was found;
+16. canonical NEU-05 finding is deferred until closure audit.
 
 ### Следующая задача
 
-**NEU-05/PASS-01 — Neural force production / voluntary activation / RFD content revalidation.**
+**NEU-05/PASS-02 — Closure audit and synthesis.**
 
-NEU-05 maps to Area 04 Section 5. NEU-05 has not been started. After the next one block, save state and STOP.
+After PASS-02 save state and STOP. Do not start NEU-06 automatically.
 
 ---
 
@@ -269,9 +274,9 @@ NEU-05 maps to Area 04 Section 5. NEU-05 has not been started. After the next on
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-04/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-05/PASS-01_neural_force_production_voluntary_activation_rfd_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-05/PASS-01 neural force production / voluntary activation / RFD content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-05/PASS-02 closure audit and synthesis** и остановиться перед NEU-06.
 
 ---
 
