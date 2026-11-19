@@ -32,6 +32,7 @@ Use this file to recover work after a new chat or lost context.
 - DEV sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - NEU sequence: **IN PROGRESS**.
 - `NEU-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `NEU-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `DEV-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `DEV-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `DEV-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -63,13 +64,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `NEU-02 — Neurochemical and neuromodulatory inference: dopamine, serotonin, norepinephrine, acetylcholine, receptors/transporters, PET/pharmacology, neurotransmitter release, causal attribution, and measurement boundaries`.
+- Next block: `NEU-03 — Neural systems and plasticity inference: excitation/inhibition balance, oscillations/synchrony, synaptic plasticity/LTP-LTD, structural plasticity, myelination, neurogenesis, network homeostasis, and measurement boundaries`.
 - Target directory: `research/psychology/qualification/11_neuropsychology_and_neuroscience/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-01_neuroscience_inference_foundations_localization_networks_lesion_stimulation_fmri_eeg_decoding_causality.md`
+`research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-02_neurochemical_neuromodulatory_inference_dopamine_serotonin_norepinephrine_acetylcholine_pet_pharmacology.md`
 
 ## Hard stop condition
 
