@@ -30,8 +30,9 @@
 Статус: **IN PROGRESS**.
 
 CLN: **COMPLETE_FOR_CURRENT_SCOPE** after CLN-03.  
-Current next domain: NDEV.  
-Next block: NDEV-01 — neurodevelopmental foundations.
+Current domain: NDEV — **IN PROGRESS**.  
+NDEV-01: **CLOSED_FOR_PRACTICE v1.0**.  
+Next block: NDEV-02 — broader neurodevelopmental differential.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 
