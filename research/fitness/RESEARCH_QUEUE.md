@@ -357,7 +357,18 @@
 - Lactate accumulation does not cause DOMS.
 - Lactate is exercise responsive but is neither the sole cause nor a specific standalone marker of fatigue/readiness.
 - Evidence ledger `BIO04-01…BIO04-09` finalized; first canonical `BIO-04_lactate_metabolism.md` created.
-- CURRENT NEXT: **BIO-05/PASS-01 — Acid–base physiology and buffering content revalidation.**
+- **BIO-05 — RESEARCHING / PASS-01 COMPLETE.**
+- BIO-05/PASS-01 acid–base physiology and buffering content revalidation completed 2026-11-19; exact Area 05 Section 5 coverage = **8/8 at content/scope level**.
+- Muscle pHi, interstitial pH and blood pH are treated as distinct compartments.
+- Exercise acidification is retained as an integrated ATP-turnover / physicochemical / buffering / transport state rather than a one-metabolite “lactic acid” mechanism.
+- Lactate concentration ≠ H+ concentration; LDH lactate formation is not treated as direct lactic-acid dissociation.
+- Intracellular buffering is separated from proton-equivalent efflux; carnosine is one contributor, not the sole muscle buffer.
+- Extracellular bicarbonate/CO2 buffering can alter transmembrane gradients, but bicarbonate is not the whole acid–base system and is not a universal performance limiter.
+- Muscle H+ equivalent transport includes MCT lactate/H+ cotransport, NHE1 and bicarbonate-dependent transport.
+- Severe intracellular acidosis can contribute to force/power fatigue, but fatigue remains multifactorial and interacts with Pi/H2PO4−, K+, Ca2+ and other disturbances.
+- Exercise “burn” is not a lactate sensor; combined metabolites and group III/IV afferent processing are retained.
+- pH recovery ≠ lactate disappearance; no universal pH-recovery time/rest prescription is retained.
+- **CURRENT NEXT: BIO-05/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
