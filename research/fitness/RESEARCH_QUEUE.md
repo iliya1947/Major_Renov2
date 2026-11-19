@@ -184,11 +184,13 @@
 - NEU-11/PASS-01 learning-vs-performance / retention / transfer content revalidation completed 2026-11-19; exact Area 04 Section 11 coverage = **9/9 at content level**.
 - NEU-11/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 11 coverage = **9/9 PASS** and no project-relevant blocker remains.
 - First canonical NEU-11 finding created as v2.0 because no legacy finding existed in the current branch.
-- **NEU-12 — RESEARCHING.**
+- **NEU-12 — CLOSED_FOR_PRACTICE v2.0.**
 - NEU-12/PASS-01 explicit/implicit/constraints-based learning content revalidation completed 2026-11-19; exact Area 04 Section 12 coverage = **10/10 at content level**.
-- Explicit/implicit process-purity, constraints-led superiority, exploration-as-variability, universal challenge-point sweet spots and universal easy→hard progression were rejected as unsupported overclaims.
-- Direct power-clean evidence supports improvement under both linear/explicit and nonlinear/constraints-led teaching without establishing universal superiority of either.
-- CURRENT NEXT: **NEU-12/PASS-02 — Closure audit and synthesis.**
+- NEU-12/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 12 coverage = **10/10 PASS** and no project-relevant blocker remains.
+- Explicit/implicit process purity, universal implicit-over-explicit superiority, variability-as-exploration, universal constraints-led superiority, fixed challenge-point sweet spots and universal easy→hard progression remain rejected as unsupported overclaims.
+- Power-clean evidence supports improvement under both linear/explicit and nonlinear/constraints-led teaching but does not establish delayed-retention or universal superiority.
+- First canonical NEU-12 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **NEU-13/PASS-01 — Practice organization content revalidation.**
 
 ## История текущего revalidation cycle
 
