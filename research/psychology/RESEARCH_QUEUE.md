@@ -15,6 +15,7 @@
 - **LEA-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **LEA-05 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 
 ## Phase B / LEA completed
 
@@ -73,11 +74,26 @@ Established:
 9. human 2025–2026 tests strongly constrain claims about habit measurement validity;
 10. a 48-question Habit Inference Gate and 18/18 closure audit are canonical.
 
+### LEA-05 — Extinction, return of responding, and reconsolidation
+Canonical block:
+`research/psychology/qualification/03_cognitive_psychology/LEA-05_extinction_renewal_reinstatement_inhibitory_learning_reconsolidation_validity.md`
+
+Established:
+1. extinction attenuation does not uniquely prove original memory erasure;
+2. spontaneous recovery, renewal (ABA/ABC/AAB), reinstatement, reacquisition and instrumental resurgence are separable recovery tests;
+3. inhibitory learning is a leading explanation but not a unique implementation;
+4. retrieval, destabilization, and reconsolidation are distinct inferential steps;
+5. prediction error can participate in extinction/state inference and does not uniquely establish reconsolidation;
+6. reminder timing, memory strength/age, context and probe structure constrain interpretation;
+7. classic animal molecular reconsolidation effects should not be confused with inconsistent human retrieval-extinction efficacy;
+8. successful updating and low relapse are behavioral outcomes, not proof of a specific trace modification;
+9. a 54-question Extinction/Reconsolidation Inference Gate and 18/18 audit are canonical.
+
 ## Current next action
 
-**LEA-05 — Extinction, renewal/reinstatement, inhibitory learning, and reconsolidation: boundary conditions and evidence validity.**
+**LEA-06 — Learning synthesis and sufficiency audit: associative, RL, habit, extinction/reconsolidation inference integration and unresolved dependencies.**
 
-Goal: separate extinction learning from erasure; examine spontaneous recovery, renewal, reinstatement, reacquisition, reconsolidation retrieval/destabilization boundary conditions, and the validity of human translation.
+Goal: audit whether LEA-01...05 jointly support reliable practical reasoning, identify contradictions and gaps, and either close LEA for present scope or route specific gaps to downstream domains.
 
 Target domain:
 
