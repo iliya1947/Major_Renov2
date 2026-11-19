@@ -17,6 +17,7 @@ This directory stores topic-level qualification material for **Cognitive psychol
 9. `LEA-01_learning_architecture_conditioning_prediction_error_habit_extinction_reconsolidation.md`
 10. `LEA-02_associative_learning_contingency_blocking_conditioned_inhibition_pit.md`
 11. `LEA-03_reinforcement_learning_prediction_error_state_representation_dopamine.md` — TD/RPE, learning-rate interpretation, state representation, memory/RL mixtures, model-free/model-based limits, computational psychometrics, and dopamine boundaries.
+12. `LEA-04_habit_formation_goal_directed_arbitration_devaluation_contingency_automaticity_validity.md` — devaluation/contingency validity, habit expression versus acquisition, overtraining, time pressure, automaticity, divergent measurement, and the 48-question Habit Inference Gate.
 
 ## Current domain status
 
@@ -24,8 +25,9 @@ This directory stores topic-level qualification material for **Cognitive psychol
 - **LEA-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **LEA-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA sequence: IN PROGRESS.**
-- Next planned block: **LEA-04 — Habit formation and goal-directed/habit arbitration: outcome devaluation, contingency degradation, automaticity, overtraining, and measurement validity.**
+- Next planned block: **LEA-05 — Extinction, renewal/reinstatement, inhibitory learning, and reconsolidation: boundary conditions and evidence validity.**
 
 ## Content rule
 
