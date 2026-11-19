@@ -57,6 +57,11 @@
 | PSY-G51 | Crowd/advice quality depends on source accuracy, independence, and calibration; consensus or confidence is not truth | DEC-02; SOC | HIGH | Advice/aggregation inference | ACCEPTED |
 | PSY-G52 | More information is not automatically better; information value depends on whether it can change action relative to its costs | DEC-02; MET | HIGH | Information-search inference | ACCEPTED |
 | PSY-G53 | Decision-aid or debiasing improvements on process/task outcomes do not automatically establish downstream welfare improvement or durable far transfer | DEC-02; BHC | HIGH | Decision-support inference | ACCEPTED |
+| PSY-G54 | Suicide/self-harm screening is not future-outcome prediction; a negative screen does not guarantee safety | SAF-01; NICE NG225; NIMH ASQ | HIGH | Safety inference | ACCEPTED |
+| PSY-G55 | Global low/medium/high risk categories should not be used to predict future suicide/self-harm or determine treatment/discharge | SAF-01; NICE NG225 | HIGH | Safety triage | ACCEPTED |
+| PSY-G56 | Self-harm, suicidal ideation, intent, plan, access, and past behavior are distinct safety variables | SAF-01 | HIGH | Suicide/self-harm inference | ACCEPTED |
+| PSY-G57 | Acute confusion/delirium and severe withdrawal are medical red flags and should not be psychologized first | SAF-01; NICE CG103/CG100 | HIGH | Medical-safety boundary | ACCEPTED |
+| PSY-G58 | Remote/AI conversation is not equivalent to formal in-person risk assessment and must preserve uncertainty/emergency-routing limits | SAF-01; HHS telebehavioral guidance | HIGH | Remote-safety inference | ACCEPTED |
 
 ## Правила
 
