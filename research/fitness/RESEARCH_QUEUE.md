@@ -198,13 +198,15 @@
 - Diminishing marginal practice efficiency is retained only as a context-specific pattern, not a universal law; plateau does not prove further practice is useless.
 - Direct RT evidence remains insufficient to prescribe exact practice schedules for compound-lift technique.
 - First canonical NEU-13 finding created as v2.0 because no legacy finding existed in the current branch.
-- **NEU-14 — RESEARCHING.**
+- **NEU-14 — CLOSED_FOR_PRACTICE v2.0.**
 - NEU-14/PASS-01 attention-and-focus content revalidation completed 2026-11-19; exact Area 04 Section 14 coverage = **10/10 at content level**.
-- Universal external-focus superiority was rejected: positive older meta-analytic evidence is materially challenged by reporting-bias-adjusted reanalysis and cue-classification sensitivity.
-- Internal focus is not universally harmful; task-relevant internal focus can alter recruitment/proprioceptive processing, but EMG/performance effects are not durable technique-learning evidence.
+- NEU-14/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 14 coverage = **10/10 PASS** and no project-relevant blocker remains.
+- Universal external-focus superiority remains rejected after reporting-bias correction; a new 2026 complex-skill trial favoring external focus is treated as task-specific positive evidence, not a field-level reversal.
+- Focus classification, expertise, task information and measured outcome materially affect interpretation; internal focus is not universally harmful.
 - Dual-task cost is not a pure automaticity metric; automaticity remains graded and task specific.
 - Direct compound-lift attentional-focus retention/transfer evidence remains sparse.
-- CURRENT NEXT: **NEU-14/PASS-02 — Closure audit and synthesis.**
+- First canonical NEU-14 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **NEU-15/PASS-01 — Feedback content revalidation.**
 
 ## История текущего revalidation cycle
 
