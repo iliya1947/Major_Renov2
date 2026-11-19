@@ -25,13 +25,14 @@ Use this file to recover work after a new chat or lost context.
 - MET foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - LEA sequence: **IN PROGRESS**.
 - `LEA-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- Next block: `LEA-02 — Associative learning: contingency, blocking, conditioned inhibition, Pavlovian/instrumental structure, and transfer`.
+- `LEA-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- Next block: `LEA-03 — Reinforcement learning and prediction error: TD/RPE, learning rates, state representation, model-free/model-based limits, and dopamine boundaries`.
 - Target directory: `research/psychology/qualification/03_cognitive_psychology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/03_cognitive_psychology/LEA-01_learning_architecture_conditioning_prediction_error_habit_extinction_reconsolidation.md`
+`research/psychology/qualification/03_cognitive_psychology/LEA-02_associative_learning_contingency_blocking_conditioned_inhibition_pit.md`
 
 ## Hard stop condition
 
