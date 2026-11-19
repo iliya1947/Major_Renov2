@@ -7,7 +7,7 @@
 - No personal data stored.
 - **Phase A — Research and inference methodology: CLOSED_FOR_PRACTICE v1.0.**
 - **Phase B — Core psychological science: COMPLETE_FOR_CURRENT_SCOPE.**
-- **Phase C — Applied and clinical interfaces: IN PROGRESS.**
+- **Phase C — Applied and clinical interfaces: COMPLETE_FOR_CURRENT_SCOPE.**
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
@@ -42,8 +42,9 @@
 - **SAF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **SAF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SAF-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
-- **ETH sequence: IN PROGRESS.**
+- **ETH sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **ETH-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **ETH-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -1146,17 +1147,53 @@ Established:
 14. private models are provisional, purpose-bounded, private, and revisable;
 15. a 120-question Ethical Individualized Inference Gate and 18/18 closure audit are canonical.
 
-**ETH sequence: IN PROGRESS.**
+**ETH sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
+### ETH-02 — Applied ethical governance and Phase C sufficiency audit
+
+Canonical block:
+research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/ETH-02_applied_ethical_governance_private_model_data_lifecycle_contestability_dependency_high_stakes_fairness_phase_c_audit.md
+
+Established:
+
+1. governance is use-case-specific rather than assigned globally to an AI model;
+2. private-data governance covers purpose, selection, provenance, inference, retention, surfacing, correction, retirement, and secondary-use gates;
+3. data minimization is extended to inference minimization;
+4. disclosure scales with materiality and consequence;
+5. epistemic strength and downstream stakes are controlled on separate axes;
+6. strong individualized inference requires direct evidence, alternatives, applicability, calibrated confidence, and a disconfirmation path;
+7. user challenge can suspend a disputed proposition from consequential use and reopen dependent conclusions;
+8. dependency/anthropomorphism controls prohibit exclusivity, reciprocal emotional obligation, social displacement, and engagement optimization against user interests;
+9. high-stakes clinical, emergency, legal, forensic, capacity, custody, employment and comparable decisions cannot use AI as sole authority;
+10. fairness monitoring is version/context/subgroup/tail-failure sensitive rather than a one-time aggregate-accuracy check;
+11. post-use monitoring includes feedback, incidents, near misses, version drift, appeal/override, suspension and requalification;
+12. a 120-question Applied Ethical Governance Gate and 20/20 Phase C sufficiency audit are canonical;
+13. ETH sequence is complete for current scope;
+14. Phase C is complete for current scope.
+
+**ETH sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
+## Phase C closure
+
+**Phase C — Applied and clinical interfaces: COMPLETE_FOR_CURRENT_SCOPE.**
+
+Completed domains:
+
+- CLN;
+- NDEV;
+- BHC;
+- REL;
+- DEC;
+- SAF;
+- ETH.
+
+Remaining work is integration, not an identified missing Phase C domain.
 
 ## Current next action
 
-**ETH-02 — Applied ethical governance and Phase C sufficiency audit: private-model workflow, data lifecycle and disclosure-by-use-case, individualized inference thresholds, correction/appeal/versioning, dependency and anthropomorphism safeguards, high-stakes no-go/escalation rules, fairness monitoring, audit/requalification triggers, and final Phase C readiness audit.**
+**Phase D / Step 1 — Cross-domain contradiction audit.**
 
-Goal: convert ETH-01 principles into operational controls for this cabinet's future individualized work and determine whether Phase C is complete.
-
-Target domain:
-
-`research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/`
+Goal: test the full qualification stack for incompatible definitions, conflicting guardrails, duplicated rules, hidden priority conflicts, and domain rules that require targeted requalification before evidence-to-individual integration.
 
 ## Deferred
 
