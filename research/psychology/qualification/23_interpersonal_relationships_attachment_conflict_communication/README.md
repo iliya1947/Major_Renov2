@@ -20,7 +20,9 @@ REL covers generic interpersonal processes relevant to reliable psychological re
 
 **REL sequence: NOT_STARTED.**
 
-Next block will be defined from the REL purpose gate before research begins.
+Next block:
+
+**REL-01 — Interpersonal/attachment foundations: attachment constructs and measurement, adult attachment dimensions versus categories, close-relationship regulation, partner effects, reciprocity, developmental continuity/change, and inference limits.**
 
 ## Storage note
 
