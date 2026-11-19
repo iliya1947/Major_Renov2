@@ -160,7 +160,15 @@ Canonical transfer protocol: `qualification/26_integration/INT-02_evidence_to_in
 
 Значимое изменение модели проходит `PRIVATE_MODEL_UPDATE_CARD.md` v2, aligned with INT-02.
 
-Заполненную карточку в repository не сохранять.
+Canonical checklist layer: `qualification/26_integration/INT-04_reusable_reasoning_checklists_fast_routing_deep_gate_escalation_pre_response.md`.
+
+Default operational route:
+
+`C0 universal preflight -> minimum triggered specialist checklist(s) -> canonical deep gate if triggered -> C12 final pre-response audit`.
+
+Короткий checklist не заменяет INT/domain gate после escalation trigger.
+
+Заполненную карточку или индивидуальный checklist в repository не сохранять.
 
 ## 10. Regression control
 
