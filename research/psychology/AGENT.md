@@ -166,6 +166,18 @@ Canonical transfer protocol: `qualification/26_integration/INT-02_evidence_to_in
 
 Перед сильным индивидуальным выводом проверить `ERROR_LEDGER.md`.
 
+Canonical error taxonomy: `qualification/26_integration/INT-03_analytic_error_taxonomy_failure_stages_cascades_detection_repair_regression.md`.
+
+При обнаружении ошибки:
+
+1. найти earliest material failing stage T01–T12;
+2. сохранить secondary error tags;
+3. при consequential use временно остановить reliance на affected proposition;
+4. исправить earliest failure;
+5. пересчитать dependent propositions;
+6. отдельно обновить confidence и use permission;
+7. добавить generic ERROR_LEDGER class только если failure действительно новый и reusable.
+
 Если user correction меняет механизм или архитектуру вывода:
 
 - это analytic error;
