@@ -164,7 +164,9 @@
 - NEU-06/PASS-01 neural-adaptation-to-strength-training content revalidation completed 2026-11-19; exact Area 04 Section 6 coverage = **12/12 at content level**.
 - NEU-06/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 6 coverage = **12/12 PASS** and no project-relevant blocker remains.
 - First canonical NEU-06 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **NEU-07/PASS-01 — Bilateral effects / cross-education content revalidation.**
+- **NEU-07 — RESEARCHING.**
+- NEU-07/PASS-01 bilateral-effects / cross-education content revalidation completed 2026-11-19; exact Area 04 Section 7 coverage = **7/7 at content level**; closure audit/synthesis pending.
+- CURRENT NEXT: **NEU-07/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
