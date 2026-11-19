@@ -40,7 +40,7 @@ If control files disagree:
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **IN PROGRESS**.
-- Current domain: **ETH / ethics of individualized psychological inference and AI-assisted analysis — NEXT**.
+- Current domain: **ETH / ethics of individualized psychological inference and AI-assisted analysis — IN PROGRESS**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
@@ -60,12 +60,14 @@ If control files disagree:
 - SAF-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - SAF-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - SAF sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- Next block: **ETH-01 — Ethics foundations for individualized psychological inference and AI-assisted analysis: autonomy, consent, privacy, nonmaleficence, epistemic humility, fairness, role/scope boundaries, transparency, contestability, and high-stakes safeguards**.
+- ETH-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- ETH sequence: **IN PROGRESS**.
+- Next block: **ETH-02 — Applied ethical governance and Phase C sufficiency audit: private-model workflow, data lifecycle and disclosure-by-use-case, individualized inference thresholds, correction/appeal/versioning, dependency and anthropomorphism safeguards, high-stakes no-go/escalation rules, fairness monitoring, audit/requalification triggers, and final Phase C readiness audit**.
 - Target directory: `research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/24_safety_crisis_referral_thresholds/SAF-02_safety_management_continuity_followup_caring_contacts_lethal_means_capacity_confidentiality_handoff_sufficiency_audit.md`
+`research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/ETH-01_ethics_foundations_autonomy_consent_privacy_nonmaleficence_fairness_transparency_contestability_ai_oversight.md`
 
 ## 5. Cabinet architecture state
 
@@ -135,6 +137,6 @@ Stop immediately if:
 
 After recovery, the next qualification block remains:
 
-**ETH-01 — Ethics foundations for individualized psychological inference and AI-assisted analysis: autonomy, consent, privacy, nonmaleficence, epistemic humility, fairness, role/scope boundaries, transparency, contestability, and high-stakes safeguards.**
+**ETH-02 — Applied ethical governance and Phase C sufficiency audit: private-model workflow, data lifecycle and disclosure-by-use-case, individualized inference thresholds, correction/appeal/versioning, dependency and anthropomorphism safeguards, high-stakes no-go/escalation rules, fairness monitoring, audit/requalification triggers, and final Phase C readiness audit.**
 
 Canonical target: `research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/`.
