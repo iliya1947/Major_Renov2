@@ -45,8 +45,8 @@ Status: **IN_PROGRESS**.
 
 1. INT-01 — cross-domain contradiction audit — **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**;
 2. INT-02 — evidence-to-individual transfer rules — **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**;
-3. INT-03 — analytic error taxonomy — **NEXT**;
-4. INT-04 — reusable reasoning checklists;
+3. INT-03 — analytic error taxonomy — **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**;
+4. INT-04 — reusable reasoning checklists — **NEXT**;
 5. INT-05 — final sufficiency audit.
 
 Current blocking cross-domain contradictions: **0 identified by INT-01**.
