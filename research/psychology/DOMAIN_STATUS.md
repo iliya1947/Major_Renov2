@@ -33,8 +33,8 @@ Status: **IN PROGRESS**.
 |---|---|
 | CLN | COMPLETE_FOR_CURRENT_SCOPE — CLN-01/02/03 complete |
 | NDEV | COMPLETE_FOR_CURRENT_SCOPE — NDEV-01/02 complete |
-| BHC | IN_PROGRESS — BHC-01 complete; BHC-02 next |
-| REL | NOT_STARTED |
+| BHC | COMPLETE_FOR_CURRENT_SCOPE — BHC-01/02 complete |
+| REL | NEXT — canonical storage: `qualification/23_interpersonal_relationships_attachment_conflict_communication/` |
 | DEC | NOT_STARTED |
 | SAF | NOT_STARTED |
 | ETH | NOT_STARTED |
