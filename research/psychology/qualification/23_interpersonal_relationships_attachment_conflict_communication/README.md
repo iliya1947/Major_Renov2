@@ -18,11 +18,37 @@ REL covers generic interpersonal processes relevant to reliable psychological re
 
 ## Current state
 
-**REL sequence: NOT_STARTED.**
+**REL sequence: IN PROGRESS.**
+
+### REL-01 — Interpersonal and attachment foundations
+
+Status: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**
+
+Canonical block:
+
+`REL-01_interpersonal_attachment_foundations_dimensions_measurement_dyadic_partner_effects_regulation_continuity_change_limits.md`
+
+Established:
+
+1. attachment is a relational-regulatory construct, not a psychiatric diagnosis or personality essence;
+2. adult attachment is best handled primarily as continuous anxiety/avoidance dimensions rather than four natural person types;
+3. categorical prototypes may summarize dimensional configurations but cutoffs should not be reified;
+4. ECR-family self-report and AAI-style interview measures target different attachment constructs and converge only partially;
+5. global, relationship-specific, trait, and momentary state attachment are distinct levels;
+6. one relationship or one conflict episode cannot establish a global attachment orientation;
+7. actor, partner, and shared-couple effects are different and dyadic nonindependence must be modeled;
+8. cross-partner correlation/APIM coefficient is not automatically a causal partner effect;
+9. partner responsiveness, dyadic coping, autonomy, and support are plausible relational processes but mediation remains design-limited;
+10. early relationship experience predicts adult attachment probabilistically rather than deterministically;
+11. adult attachment can change after life/relationship events and short-term state change is not enduring trait change;
+12. coercion/safety concerns cannot be normalized as attachment insecurity;
+13. a 96-question Attachment / Dyadic Inference Gate and 18/18 closure audit are canonical.
+
+**REL sequence: IN PROGRESS.**
 
 Next block:
 
-**REL-01 — Interpersonal/attachment foundations: attachment constructs and measurement, adult attachment dimensions versus categories, close-relationship regulation, partner effects, reciprocity, developmental continuity/change, and inference limits.**
+**REL-02 — Conflict and communication architecture: demand/withdraw and reciprocal escalation, validation/invalidation, responsiveness, repair, attribution, power/asymmetry, boundaries, coercive versus ordinary conflict, communication measurement, and causal limits.**
 
 ## Storage note
 
