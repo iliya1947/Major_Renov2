@@ -118,6 +118,13 @@
 | PSY-G107 | Source/version verification is a triggered reasoning step: mutable standards, laws, diagnostic guidance, tools, and current research require exact current-source verification before material reliance | INT-04; AGENT; SOURCE_STATUS_LOG | HIGH | Source freshness/version control | ACCEPTED |
 | PSY-G108 | Checklist alternatives must be plausible and discriminating; ritual alternatives added only to satisfy a form do not reduce confirmation bias or improve inference | INT-04; INT-02 | HIGH | Competing-hypothesis workflow | ACCEPTED |
 
+| PSY-G109 | Qualification closure is purpose-relative: COMPLETE_FOR_CURRENT_SCOPE means sufficient for the current project purpose, not complete knowledge of psychology or permanent validity | INT-05; AGENT; RESEARCH_ORDER | HIGH | Qualification closure | ACCEPTED |
+| PSY-G110 | A specialty with no canonical qualification block must not be treated as qualified merely because an adjacent domain or storage README exists; material specialty use requires targeted requalification | INT-05; qualification/README | HIGH | Specialty routing | ACCEPTED |
+| PSY-G111 | An empty SOURCE_STATUS_LOG means no source-status change is recorded; it does not establish that all sources have been continuously rechecked or remain current | INT-05; SOURCE_STATUS_LOG | HIGH | Source freshness/status | ACCEPTED |
+| PSY-G112 | Stage 2 private application inherits all qualification gates; qualification completion is not permission to bypass purpose, evidence, applicability, uncertainty, safety, ethics, privacy, or requalification controls | INT-05; INT-04; WORKFLOW | HIGH | Post-qualification operation | ACCEPTED |
+| PSY-G113 | An open question is nonblocking when it is not material to the current claim and a safe defer/targeted-requalification route exists; open uncertainty is not itself a qualification failure | INT-05; OPEN_QUESTIONS | HIGH | Sufficiency/governance | ACCEPTED |
+| PSY-G114 | A private model or private document using a theoretical vocabulary does not itself provide qualification in that framework or independent evidence for its mechanisms | INT-05; INT-02; ERR-023 | HIGH | Private-model/theory use | ACCEPTED |
+
 ## Правила
 
 1. Одна строка = один существенный проверяемый guardrail.
