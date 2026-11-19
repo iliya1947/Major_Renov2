@@ -27,8 +27,9 @@
 - **CLN-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **CLN-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **CLN-03 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
-- **NDEV sequence: IN PROGRESS.**
+- **NDEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **NDEV-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **NDEV-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -892,15 +893,34 @@ Established:
 
 **NDEV sequence: IN PROGRESS.**
 
+### NDEV-02 — Broader neurodevelopmental differential and sufficiency audit
+
+Canonical block:
+`research/psychology/qualification/21_neurodevelopmental_conditions/NDEV-02_broader_neurodevelopmental_differential_intellectual_adaptive_language_learning_motor_tics_sufficiency_audit.md`
+
+Established:
+
+1. IQ and adaptive functioning are separate and both matter for intellectual-disability inference;
+2. developmental language/pragmatic difficulties are separated from autism, multilingual difference, ADHD-related pragmatics, and acquired language loss;
+3. developmental learning disorder requires specific academic impairment plus adequate learning opportunity, developmental persistence, and functional evidence;
+4. DCD requires independent motor-coordination evidence rather than generic clumsiness;
+5. tics, compulsions, stereotypies, habits, and functional tic-like behaviors are differentiated;
+6. acquired regression/loss is separated from developmental acquisition difficulty;
+7. co-occurring developmental conditions require independent core evidence and double-counting control;
+8. a 96-question Broader Neurodevelopmental Differential Gate and 20/20 sufficiency audit are canonical;
+9. no NDEV-03 dependency is identified.
+
+**NDEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**NDEV-02 — Broader neurodevelopmental differential: intellectual developmental disorder/adaptive functioning, language and social-communication disorders, specific learning disorder, developmental coordination disorder, tic/Tourette spectrum, uneven developmental profiles, and cross-condition comorbidity/boundaries.**
+**BHC-01 — Behavior change and intervention-science foundations: efficacy versus effectiveness, intervention package versus mechanism, mediation/moderation, adherence/engagement, maintenance/relapse, implementation/context, heterogeneity, and causal limits.**
 
-Goal: close the remaining broad neurodevelopmental differential gap without turning NDEV into a disorder encyclopedia.
+Goal: begin Phase C BHC with a general intervention-inference architecture before any therapy-specific material.
 
 Target domain:
 
-`research/psychology/qualification/21_neurodevelopmental_conditions/`
+`research/psychology/qualification/22_behavior_change_and_intervention_science/`
 
 ## Deferred
 
