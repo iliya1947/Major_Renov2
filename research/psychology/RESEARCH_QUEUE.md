@@ -23,9 +23,10 @@
 - **PSYCHOMETRICS-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PSYCHOMETRICS-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PSYCHOMETRICS-03 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
-- **CLN sequence: IN PROGRESS.**
+- **CLN sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **CLN-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **CLN-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **CLN-03 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -841,15 +842,38 @@ Established:
 11. resilience/protection are context-, time-, and outcome-dependent;
 12. an 82-question Psychopathology Mechanisms / Course Inference Gate and 18/18 closure audit are canonical.
 
+### CLN-03 — Disorder-family pattern recognition and exclusion boundaries
+
+Canonical block:
+`research/psychology/qualification/12_psychopathology/CLN-03_disorder_family_pattern_recognition_exclusion_boundaries_internalizing_psychosis_bipolar_ocd_trauma_eating_dissociation_substance_personality.md`
+
+Established:
+
+1. disorder-family inference begins with phenomenology, function, time/course, reality/insight and exclusion priority rather than one salient feature;
+2. psychosis is a symptom domain and does not equal schizophrenia;
+3. depressive presentation does not establish unipolar disorder; bipolar inference requires lifetime episode architecture;
+4. intrusive thoughts do not equal intent; OCD requires obsession/compulsion structure rather than generic repetition;
+5. trauma exposure does not equal PTSD;
+6. dissociation and psychosis require phenomenological separation;
+7. eating-disorder differential uses restriction, binge/loss-of-control, compensation and eating-function architecture rather than body weight alone;
+8. somatic symptom disorder is not inferred from normal medical tests;
+9. substance-induced versus independent disorder requires exposure-course analysis;
+10. personality pathology requires enduring cross-context pattern evidence;
+11. developmental baseline versus acquired episode is a mandatory differential axis;
+12. a 96-question Disorder-Family Differential Gate and 20/20 CLN sufficiency audit are canonical;
+13. no CLN-04 dependency is identified.
+
+**CLN sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**CLN-03 — Disorder-family pattern recognition and exclusion boundaries: internalizing, psychotic-spectrum, bipolar-spectrum, obsessive-compulsive-related, trauma-related, eating, somatic/dissociative, substance-related, and personality pathology — without encyclopedic criterion memorization.**
+**NDEV-01 — Neurodevelopmental foundations: developmental onset and course, ADHD/autism boundaries, executive-function variability, masking/compensation, comorbidity, and differential limits.**
 
-Goal: establish high-value discriminating architecture among major disorder families and major medical/substance/developmental exclusions without turning Phase C into DSM criterion memorization.
+Goal: begin the NDEV Phase C domain by separating developmental trait architecture from acquired/episodic psychopathology and establishing calibrated ADHD/autism differential boundaries.
 
 Target domain:
 
-`research/psychology/qualification/12_psychopathology/`
+`research/psychology/qualification/21_neurodevelopmental_conditions/`
 
 ## Deferred
 
