@@ -111,6 +111,13 @@
 | PSY-G101 | Guardrails are claim-specific constraints, not universal bans; avoiding overreach must not erase legitimate uses of self-report, correlational evidence, population priors, neural evidence, diagnosis, or safety action | INT-03; INT-01 | HIGH | Regression guard application | ACCEPTED |
 | PSY-G102 | A reasoning error can be commission or omission; failure to represent a material contradiction, medical/safety signal, correction, or applicability limitation can be as consequential as an unsupported positive claim | INT-03; SAF; ETH; PSY-RES | HIGH | Omission-error detection | ACCEPTED |
 
+| PSY-G103 | Operational checklists are routing/compression tools and do not create evidence or validate an inference merely by completion | INT-04; INT-03 | HIGH | Checklist-based reasoning | ACCEPTED |
+| PSY-G104 | Checklist depth should be proportional to claim complexity/stakes: lightweight paths fit bounded low-stakes reflection, while strong person-specific, causal, clinical, safety, or high-stakes claims require specialist/deep gates | INT-04; INT-01/02; ETH/SAF | HIGH | Reasoning-depth routing | ACCEPTED |
+| PSY-G105 | A single critical invalidity can block a conclusion despite many passed checklist items; checklist item counts must not be converted into confidence or validity scores | INT-04; PSYCHOMETRICS; INT-03 | HIGH | Checklist interpretation | ACCEPTED |
+| PSY-G106 | Strong individualized claims should use a universal preflight, the minimum relevant specialist checklist(s), mandatory deep-gate escalation on trigger, and a final pre-response anti-overclaim audit | INT-04 | HIGH | Operational individualized workflow | ACCEPTED |
+| PSY-G107 | Source/version verification is a triggered reasoning step: mutable standards, laws, diagnostic guidance, tools, and current research require exact current-source verification before material reliance | INT-04; AGENT; SOURCE_STATUS_LOG | HIGH | Source freshness/version control | ACCEPTED |
+| PSY-G108 | Checklist alternatives must be plausible and discriminating; ritual alternatives added only to satisfy a form do not reduce confirmation bias or improve inference | INT-04; INT-02 | HIGH | Competing-hypothesis workflow | ACCEPTED |
+
 ## Правила
 
 1. Одна строка = один существенный проверяемый guardrail.
