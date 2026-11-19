@@ -38,7 +38,7 @@ SAF: **COMPLETE_FOR_CURRENT_SCOPE** after SAF-02.
 ETH: **COMPLETE_FOR_CURRENT_SCOPE** after ETH-02.  
 ETH-01: **CLOSED_FOR_PRACTICE v1.0**.  
 ETH-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.  
-Next qualification step: **Phase D / Step 1 — cross-domain contradiction audit**.
+Phase D entry dependency: **satisfied by INT-01 cross-domain contradiction audit**.
 
 Canonical NDEV storage: `research/psychology/qualification/21_neurodevelopmental_conditions/`.
 Canonical BHC storage: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
@@ -49,12 +49,17 @@ Canonical ETH storage: `research/psychology/qualification/25_ethics_individualiz
 
 ### Phase D — integration
 
-Статус: **NOT_STARTED**.
+Статус: **IN PROGRESS**.
 
-Следующий этап квалификации:
+INT-01 — cross-domain contradiction audit: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
+Blocking canonical contradictions: **0**.  
+Next block: **INT-02 — evidence-to-individual transfer rules**.  
+Canonical integration storage: `research/psychology/qualification/26_integration/`.
 
-1. cross-domain contradiction audit;
-2. evidence-to-individual transfer rules;
+Sequence:
+
+1. cross-domain contradiction audit — **complete**;
+2. evidence-to-individual transfer rules — **next**;
 3. analytic error taxonomy;
 4. reusable reasoning checklists;
 5. final sufficiency audit.
