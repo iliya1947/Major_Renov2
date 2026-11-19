@@ -22,15 +22,17 @@ Use this file to recover work after a new chat or lost context.
 - Phase B core psychological science: **IN PROGRESS**.
 - COG foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - EXE foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- MET sequence: **IN PROGRESS**.
+- MET foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
+- LEA sequence: **NEXT**.
 - `MET-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- Next block: `MET-02 — Metacognitive control: information seeking, revision, abstention, strategy selection, and stopping rules`.
-- Target directory: `research/psychology/qualification/04_executive_functions_and_metacognition/`.
+- `MET-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- Next block: `LEA-01 — Learning architecture: conditioning, prediction error, habit, extinction, and reconsolidation boundaries`.
+- Target directory: `research/psychology/qualification/03_cognitive_psychology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/04_executive_functions_and_metacognition/MET-01_metacognition_monitoring_confidence_calibration_control.md`
+`research/psychology/qualification/04_executive_functions_and_metacognition/MET-02_metacognitive_control_information_revision_abstention_stopping.md`
 
 ## Hard stop condition
 
