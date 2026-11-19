@@ -37,7 +37,7 @@ Status: **IN PROGRESS**.
 | REL | COMPLETE_FOR_CURRENT_SCOPE — REL-01/02 complete |
 | DEC | COMPLETE_FOR_CURRENT_SCOPE — DEC-01/02 complete |
 | SAF | COMPLETE_FOR_CURRENT_SCOPE — SAF-01/02 complete |
-| ETH | NEXT — ETH-01; canonical storage: `qualification/25_ethics_individualized_inference_ai_analysis/` |
+| ETH | IN_PROGRESS — ETH-01 complete; ETH-02 next |
 
 ## Phase D — integration
 
