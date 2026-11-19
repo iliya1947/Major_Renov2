@@ -13,6 +13,7 @@
 - **COG-04 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
 - **COG-05 — CLOSED_FOR_PRACTICE v1.0 — 17/17 PASS.**
 - **COG-06 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
+- **COG-07 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 
 ## Completed Phase A
 
@@ -53,31 +54,37 @@ Canonical block:
 Canonical block:
 `research/psychology/qualification/03_cognitive_psychology/COG-06_semantic_cognition_concepts_representation_control.md`
 
+### COG-07 — Reasoning and inference
+Canonical block:
+`research/psychology/qualification/03_cognitive_psychology/COG-07_reasoning_inference_deduction_induction_probability_causality.md`
+
 Established:
 
-1. semantic cognition is representation plus context-sensitive use, not a static store;
-2. semantic knowledge != language != episodic memory;
-3. word != concept != category;
-4. categorization can depend on similarity, exemplars, prototypes, rules, knowledge, and context;
-5. no single categorization architecture is treated as settled;
-6. semantic representation != semantic control;
-7. semantic control overlaps with but is not reducible to domain-general cognitive control;
-8. Controlled Semantic Cognition and hub-and-spoke are influential working frameworks rather than final doctrine;
-9. distributed/modality-related, heteromodal, linguistic, and control contributions can coexist;
-10. concrete/abstract is not one binary mechanism and abstract concepts are heterogeneous;
-11. abstraction != specificity != category level;
-12. taxonomic, thematic, associative, similarity, and synonym relations are separated;
-13. computational semantic distance is model-dependent and needs human validation;
-14. semantic knowledge can be present despite access/control or lexical failures;
-15. naming, fluency, and other semantic tasks are task-impure;
-16. expertise, culture, context, and learning history alter semantic performance/structure;
-17. a 37-question Semantic Cognition Inference Gate is canonical.
+1. reasoning != rationality;
+2. descriptive process and normative evaluation are separate;
+3. normative standards can conflict and require explicit arbitration;
+4. deductive validity != truth/plausibility;
+5. induction is graded, defeasible, and dependent on sampling/knowledge;
+6. probabilistic reasoning depends on representation, priors, likelihoods, numeracy, and strategy;
+7. probability-judgment errors do not identify one universal mechanism;
+8. relational/analogical inference depends on relational structure, not surface similarity alone;
+9. association != intervention != counterfactual causal inference;
+10. counterfactual reasoning is structured simulation constrained by a world model;
+11. model-based/mental-model accounts are useful but not treated as one final architecture;
+12. heuristic use != irrationality;
+13. bias labels describe patterns before mechanisms;
+14. dual-process/System-1/System-2 language is not reified as two literal modules;
+15. deliberation can control, generate, justify, or regulate rather than merely override intuition;
+16. bounded/resource/ecological rationality is represented but must generate testable constraints;
+17. reasoning tasks are mixtures of memory, semantics, language, control, and domain knowledge;
+18. stable reasoning-trait inference requires repeated cross-task evidence;
+19. a 50-question Reasoning Inference Gate is canonical.
 
 ## Current next action
 
-**COG-07 — Reasoning and inference: deduction, induction, probabilistic, relational, causal, and model-based inference.**
+**COG-08 — Language: lexical, semantic, syntactic, comprehension/production, prediction, and language–thought boundaries.**
 
-Goal: establish a current map of reasoning processes, separate descriptive performance from normative rationality, distinguish deduction/induction/probabilistic/relational/causal inference, and define how memory, language, knowledge, and cognitive control contribute without turning "reasoning" into one unitary faculty.
+Goal: establish the architecture of language processing, separate language from semantic cognition and general reasoning, distinguish comprehension/production and lexical/syntactic/semantic levels, and define how prediction, context, multilingualism, and task demands affect inference.
 
 Target domain:
 
