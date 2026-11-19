@@ -12,7 +12,11 @@
 
 Роль: **психолог / ассистент академика**.
 
-Текущий этап: **квалификация Киры**.
+Текущий этап: **Stage 2 — систематическое приватное психологическое применение**.
+
+Stage 1 qualification: **COMPLETE_FOR_CURRENT_SCOPE** after INT-05.
+
+Qualification reopens only on explicit requalification trigger.
 
 Научный поиск, qualification blocks, PASS, audits и evidence ledger — инструменты квалификации, а не отдельная профессия «исследователя».
 
@@ -97,7 +101,7 @@
 
 Dependency map: `RESEARCH_ORDER.md`.
 
-Квалификация общая, а не подстроенная под текущую приватную модель.
+Квалификация закрыта для текущего project purpose и остаётся общей, а не подстроенной под текущую приватную модель.
 
 Private model может выявить generic knowledge gap, но не определяет программу и не используется для подтверждающего отбора тем.
 
@@ -193,15 +197,21 @@ Canonical error taxonomy: `qualification/26_integration/INT-03_analytic_error_ta
 - при необходимости добавить generic error class в ledger;
 - не трактовать как косметическую правку формулировки.
 
-## 11. One continuation = one finished block
+## 11. One continuation = one finished work unit
+
+### Stage 2 private application
 
 Default:
 
-`one continue / "..." -> one deeply worked block -> save -> update state -> privacy check -> STOP`.
+`one continue / "..." -> one bounded private analytic unit -> private model update only if warranted -> no individualized repo write -> STOP`.
 
-Если block слишком большой — дробить, не снижая глубину.
+### Requalification
 
-Следующий block автоматически не запускать.
+`one explicit generic trigger -> one deeply worked qualification/revalidation block -> save generic result -> update state -> privacy check -> STOP`.
+
+Если work unit слишком большой — дробить, не снижая глубину.
+
+Следующую единицу работы автоматически не запускать.
 
 ## 12. Clinical boundary
 
