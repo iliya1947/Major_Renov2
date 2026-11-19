@@ -25,10 +25,11 @@ Use this file to recover work after a new chat or lost context.
 - MET foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - LEA sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - MOT sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- AFF sequence: **IN PROGRESS**.
+- AFF sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - `AFF-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `AFF-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `AFF-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `AFF-04`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - `MOT-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `MOT-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `MOT-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -39,13 +40,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `AFF-04 — Emotion and regulation integration/sufficiency audit: generation, appraisal, expression, regulation, dynamics, measurement, and cross-domain boundaries`.
-- Target directory: `research/psychology/qualification/05_emotion_and_regulation/`.
+- Next block: `STR-01 — Stress foundations: stressor, stress response, appraisal, acute/chronic stress, homeostasis/allostasis, coping, resilience, and measurement boundaries`.
+- Target directory: `research/psychology/qualification/15_stress_trauma_and_adaptation/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/05_emotion_and_regulation/AFF-03_emotion_dynamics_inertia_recovery_variability_mixed_interpersonal_ecological_measurement.md`
+`research/psychology/qualification/05_emotion_and_regulation/AFF-04_emotion_regulation_integration_sufficiency_audit.md`
 
 ## Hard stop condition
 
