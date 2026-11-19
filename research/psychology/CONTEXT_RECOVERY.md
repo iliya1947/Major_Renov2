@@ -33,6 +33,7 @@ Use this file to recover work after a new chat or lost context.
 - NEU sequence: **IN PROGRESS**.
 - `NEU-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `NEU-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `NEU-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `DEV-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `DEV-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `DEV-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -64,13 +65,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `NEU-03 — Neural systems and plasticity inference: excitation/inhibition balance, oscillations/synchrony, synaptic plasticity/LTP-LTD, structural plasticity, myelination, neurogenesis, network homeostasis, and measurement boundaries`.
+- Next block: `NEU-04 — Cognitive/affective neuroscience integration/sufficiency audit: levels/methods, localization/networks, neurochemistry, neural systems/plasticity, causal evidence, measurement, and cross-domain boundaries`.
 - Target directory: `research/psychology/qualification/11_neuropsychology_and_neuroscience/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-02_neurochemical_neuromodulatory_inference_dopamine_serotonin_norepinephrine_acetylcholine_pet_pharmacology.md`
+`research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-03_neural_systems_plasticity_ei_oscillations_ltp_structural_myelin_neurogenesis_homeostasis.md`
 
 ## Hard stop condition
 
