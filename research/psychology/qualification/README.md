@@ -1,8 +1,8 @@
 # Qualification
 
-This directory contains the structured qualification curriculum for Kira's psychology research line.
+This directory contains storage locations for Kira's structured psychology qualification.
 
-Each numbered directory is one competency domain. Topic files will be added inside the relevant domain as research progresses.
+**Important:** directory numbers are storage identifiers, not the authoritative curriculum order. The active dependency order is defined only by `research/psychology/RESEARCH_ORDER.md`. Existing numbered paths are preserved for repository history/stability even when the active curriculum evolves.
 
 ## Domains
 
@@ -26,9 +26,19 @@ Each numbered directory is one competency domain. Topic files will be added insi
 18. `18_language_semantics_and_communication/` — Language, semantics, and communication
 19. `19_decision_strategy_and_prediction/` — Decision-making, strategy, and prediction
 20. `20_systems_modeling_of_personality/` — Systems modeling of personality
+21. `21_neurodevelopmental_conditions/` — Neurodevelopmental conditions (canonical NDEV Phase C storage)
 
 ## Privacy rule
 
 Only public scientific knowledge, generic methodology, and non-user-derived training material may be stored here.
 
 No individualized project data, user observations, personal examples, quotes, psychological profiles, health information, or indirect identifiers may be committed anywhere under this directory.
+
+
+## Active-order rule
+
+1. Use `RESEARCH_ORDER.md` to decide what comes next.
+2. Use this README only to locate stored domain material.
+3. Do not infer qualification order from directory numbers.
+4. Do not renumber existing domain directories merely to match a revised dependency map.
+5. If a new active domain has no canonical storage path, create a new stable directory and record the mapping before starting its first research block.
