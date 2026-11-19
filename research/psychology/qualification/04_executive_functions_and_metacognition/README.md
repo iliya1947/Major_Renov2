@@ -4,6 +4,15 @@
 
 This directory stores topic-level qualification material for **Executive functions and metacognition**.
 
+## Completed blocks
+
+1. `EXE-01_executive_functions_cognitive_control_architecture.md` — executive-function/cognitive-control architecture, unity/diversity, task impurity, goal representation, response selection/inhibition, switching, monitoring, proactive/reactive control, effort/allocation, and a reusable Executive Control Inference Gate.
+
+## Current domain status
+
+- **EXE-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- Next planned block: **EXE-02 — Goal representation, proactive/reactive control, and hierarchical task control.**
+
 ## Content rule
 
 Add separate files for distinct topics, mechanisms, methods, or evidence reviews as the qualification program progresses.
