@@ -156,10 +156,11 @@
 - NEU-04/PASS-01 reflex-regulation content revalidation completed 2026-11-19; exact Area 04 Section 4 coverage = **8/8 at content level**.
 - NEU-04/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 4 coverage = **8/8 PASS** and no project-relevant blocker remains.
 - First canonical NEU-04 finding created as v2.0 because no legacy finding existed in the current branch.
-- **NEU-05 — RESEARCHING.**
-- NEU-05/PASS-01 neural-force-production / voluntary-activation / RFD content revalidation completed 2026-11-19; exact Area 04 Section 5 coverage = **14/14 at content level**; closure audit/synthesis pending.
-- Added NEU05-01…NEU05-13 to EVIDENCE_LEDGER.
-- CURRENT NEXT: **NEU-05/PASS-02 — Closure audit and synthesis.**
+- **NEU-05 — CLOSED_FOR_PRACTICE v2.0.**
+- NEU-05/PASS-01 neural-force-production / voluntary-activation / RFD content revalidation completed 2026-11-19; exact Area 04 Section 5 coverage = **14/14 at content level**.
+- NEU-05/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 5 coverage = **14/14 PASS** and no project-relevant blocker remains.
+- First canonical NEU-05 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **NEU-06 — Neural adaptation to strength training.**
 
 ## История текущего revalidation cycle
 
