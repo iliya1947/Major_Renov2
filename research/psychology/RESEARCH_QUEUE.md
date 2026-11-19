@@ -10,12 +10,13 @@
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **LEA sequence: IN PROGRESS.**
+- **LEA sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **LEA-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-05 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **LEA-06 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 
 ## Phase B / LEA completed
 
@@ -89,15 +90,31 @@ Established:
 8. successful updating and low relapse are behavioral outcomes, not proof of a specific trace modification;
 9. a 54-question Extinction/Reconsolidation Inference Gate and 18/18 audit are canonical.
 
+### LEA-06 — Learning integration and sufficiency audit
+Canonical block:
+`research/psychology/qualification/03_cognitive_psychology/LEA-06_learning_integration_sufficiency_audit.md`
+
+Established:
+
+1. LEA-01…05 conceptual boundaries agree in their core working rules;
+2. learning/performance, S–O/R–O/S–R/state/value/representation and acquisition/expression are separated;
+3. PE, computational RL, habit and extinction/reconsolidation do not uniquely identify each other;
+4. habit-test manipulation validity, RL recovery/identifiability and extinction recovery checks are required;
+5. evidence-to-individual translation remains task/context-sensitive and clinical attribution requires downstream evidence;
+6. 40-question Integrated Learning Inference Gate and 20/20 internal sufficiency audit completed;
+7. no scientifically necessary LEA-07 dependency identified; unresolved questions routed to MOT/AFF/STR/SOC/NEU/PSYCHOMETRICS/CLN/NDEV/BHC/DEC.
+
+**LEA sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**LEA-06 — Learning synthesis and sufficiency audit: associative, RL, habit, extinction/reconsolidation inference integration and unresolved dependencies.**
+**MOT-01 — Motivation foundations: needs, incentives, value, effort, goal pursuit, and construct boundaries.**
 
-Goal: audit whether LEA-01...05 jointly support reliable practical reasoning, identify contradictions and gaps, and either close LEA for present scope or route specific gaps to downstream domains.
+Goal: integrate motivation constructs, needs/incentive distinctions, valuation, opportunity costs, effort allocation and goal pursuit without equating reward learning with motivated action.
 
 Target domain:
 
-`research/psychology/qualification/03_cognitive_psychology/`
+`research/psychology/qualification/06_motivation_and_behavior/`
 
 ## Deferred
 
