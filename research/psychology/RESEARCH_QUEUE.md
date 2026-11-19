@@ -13,10 +13,11 @@
 - **LEA sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MOT sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **AFF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **STR sequence: IN PROGRESS.**
+- **STR sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **STR-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **STR-04 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **AFF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -311,15 +312,34 @@ Established:
 11. protective/promotive factors differ from causal mechanisms and trajectory classes are model-dependent;
 12. 60-question Coping and Resilience Inference Gate and 18/18 closure audit are canonical.
 
+### STR-04 — Stress/coping/resilience integration and sufficiency audit
+Canonical block:
+`research/psychology/qualification/15_stress_trauma_and_adaptation/STR-04_stress_coping_resilience_integration_sufficiency_audit.md`
+
+Established:
+1. STR-01…03 core rules are internally coherent for generic psychological reasoning;
+2. stressor exposure, subjective stress, physiology and cumulative burden are distinct targets;
+3. acute/repeated/chronic stress and reactivity/recovery/habituation have separate temporal meanings;
+4. HPA/ANS/immune biomarkers require channel-specific timing and cannot serve as one universal stress meter;
+5. coping must be interpreted through controllability, goals, resources and strategy–situation fit;
+6. coping flexibility is not strategy count, switching, or psychological flexibility by default;
+7. social support is a robust resource/correlate but not one identified causal resilience mechanism;
+8. resilience requires adversity-qualified, outcome- and time-specific longitudinal inference;
+9. scales, factors, mechanisms and trajectory classes are noninterchangeable;
+10. 52-question Integrated Stress/Coping/Resilience Inference Gate and 20/20 closure audit are canonical;
+11. no necessary STR-05 foundation identified; trauma/clinical dependencies remain routed downstream.
+
+**STR sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**STR-04 — Stress, coping, and resilience integration/sufficiency audit: stressor/appraisal/physiology, coping fit, allostasis, resilience processes, trajectories, measurement, and cross-domain boundaries.**
+**SOC-01 — Social cognition foundations: person perception, attribution, mentalizing, social inference, context, bias, and measurement boundaries.**
 
-Goal: integrate STR-01…03, audit contradictions and unresolved gaps, decide whether the STR foundation is sufficient for generic stress reasoning, and route trauma-specific/clinical dependencies separately.
+Goal: establish social-cognition foundations, including person perception, attribution, mentalizing, context dependence, bias, observer inference, and measurement limits without treating behavior as transparent evidence of internal traits or intentions.
 
 Target domain:
 
-`research/psychology/qualification/15_stress_trauma_and_adaptation/`
+`research/psychology/qualification/08_social_psychology/`
 
 ## Deferred
 
