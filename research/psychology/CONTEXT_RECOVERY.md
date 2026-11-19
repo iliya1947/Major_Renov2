@@ -39,8 +39,8 @@ If control files disagree:
 - Stage: qualification.
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
-- Phase C: **IN PROGRESS**.
-- Current domain: **ETH / ethics of individualized psychological inference and AI-assisted analysis — IN PROGRESS**.
+- Phase C: **COMPLETE_FOR_CURRENT_SCOPE**.
+- ETH domain: **COMPLETE_FOR_CURRENT_SCOPE**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
@@ -61,13 +61,15 @@ If control files disagree:
 - SAF-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - SAF sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - ETH-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- ETH sequence: **IN PROGRESS**.
-- Next block: **ETH-02 — Applied ethical governance and Phase C sufficiency audit: private-model workflow, data lifecycle and disclosure-by-use-case, individualized inference thresholds, correction/appeal/versioning, dependency and anthropomorphism safeguards, high-stakes no-go/escalation rules, fairness monitoring, audit/requalification triggers, and final Phase C readiness audit**.
-- Target directory: `research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/`.
+- ETH-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
+- ETH sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
+- Phase D: **NOT_STARTED**.
+- Next qualification step: **Phase D / Step 1 — cross-domain contradiction audit**.
+- ETH directory: research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/ETH-01_ethics_foundations_autonomy_consent_privacy_nonmaleficence_fairness_transparency_contestability_ai_oversight.md`
+`research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/ETH-02_applied_ethical_governance_private_model_data_lifecycle_contestability_dependency_high_stakes_fairness_phase_c_audit.md`
 
 ## 5. Cabinet architecture state
 
@@ -135,8 +137,8 @@ Stop immediately if:
 
 ## 10. Next action
 
-After recovery, the next qualification block remains:
+After recovery, the next qualification step is:
 
-**ETH-02 — Applied ethical governance and Phase C sufficiency audit: private-model workflow, data lifecycle and disclosure-by-use-case, individualized inference thresholds, correction/appeal/versioning, dependency and anthropomorphism safeguards, high-stakes no-go/escalation rules, fairness monitoring, audit/requalification triggers, and final Phase C readiness audit.**
+**Phase D / Step 1 — cross-domain contradiction audit across methodology, core psychological science, and applied/clinical interfaces.**
 
-Canonical target: `research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/`.
+Do not reopen Phase C merely to extend taxonomy; reopen a domain only if Phase D identifies a material contradiction or knowledge gap.
