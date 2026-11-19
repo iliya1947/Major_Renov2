@@ -445,7 +445,20 @@
 - Substrate repletion remains non-equivalent to functional/performance recovery or global readiness.
 - Endurance, sprint/HIIT and resistance exercise retain different likely depletion profiles without fixed mode signatures; mechanical work alone does not predict depletion.
 - Evidence ledger `BIO10-01…BIO10-10` finalized; canonical `BIO-10_substrate_depletion_repletion.md` created.
-- **CURRENT NEXT: BIO-11/PASS-01 — Metabolic fatigue and limiting factors content revalidation.**
+- **BIO-11 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- BIO-11/PASS-01 metabolic fatigue / limiting factors content revalidation completed 2026-11-19; exact Area 05 Section 11 coverage = **10/10 at content/scope level**.
+- PCr depletion retained as a high-power/repeated-bout contributor without equating PCr depletion to ATP depletion or complete fatigue diagnosis.
+- Glycogen availability retained as task-specific: low glycogen can impair some high-intensity exercise capacity, but no universal short-set failure mechanism or threshold is retained.
+- Pi retained as a major fatigue-relevant metabolite; current human/animal mechanistic evidence supports contractile/Ca2+ effects, but no universal human Pi failure threshold is retained.
+- Ionic disturbance retained as a multi-ion excitability/homeostasis problem; K+ is important but not a one-ion universal switch.
+- Severe acidosis can contribute to fatigue, while H+/pH is not retained as the universal sole cause and lactate is not treated as the acid.
+- Metabolic/ionic disturbance can be expressed through E–C/Ca2+ impairment; detailed E–C physiology remains owned by PHY-10.
+- O2 delivery, extraction/distribution and mitochondrial utilization remain distinct; dominant aerobic limitation is task/population/environment dependent.
+- Mitochondrial capacity is an important peripheral determinant but not a sufficient whole-body performance explanation or synonym for pathology.
+- Heat and dehydration are retained as distinct interacting stressors; no universal dehydration/body-mass-loss or temperature failure threshold is retained.
+- Task-specific limitation is the core rule: the dominant limiter can change by task, starting state, environment and time within the same bout.
+- BIO-11 remains **not CLOSED_FOR_PRACTICE**; no canonical finding or final BIO11 ledger rows are authorized before PASS-02.
+- **CURRENT NEXT: BIO-11/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
