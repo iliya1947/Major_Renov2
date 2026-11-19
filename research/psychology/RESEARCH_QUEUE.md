@@ -12,10 +12,11 @@
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **LEA sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MOT sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **AFF sequence: IN PROGRESS.**
+- **AFF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **AFF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **AFF-04 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **MOT-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -233,15 +234,33 @@ Established:
 9. EMA lag, missingness, sampling density, measurement reactivity and within-person/between-person separation are inference requirements;
 10. 56-question Emotional Dynamics Inference Gate and 18/18 closure audit are canonical.
 
+### AFF-04 — Emotion and regulation integration/sufficiency audit
+Canonical block:
+`research/psychology/qualification/05_emotion_and_regulation/AFF-04_emotion_regulation_integration_sufficiency_audit.md`
+
+Established:
+1. AFF-01…03 core rules are internally coherent for practical reasoning;
+2. dimensional/category/appraisal accounts can coexist when their targets and methods are explicit;
+3. experience, expression, physiology, perception and arousal remain noninterchangeable;
+4. regulation strategies have context-, goal-, intensity-, culture-, channel- and time-dependent value;
+5. strategy use/frequency, ability, effectiveness, repertoire and flexibility are distinct;
+6. mean affect, variability, instability, inertia, recovery and recurrence are distinct temporal properties;
+7. synchrony is not equivalent to co-regulation or successful interpersonal regulation;
+8. self-report/lab/EMA/classifier/time-series sophistication never replaces construct validity;
+9. 48-question Integrated Emotion Inference Gate and 20/20 closure audit are canonical;
+10. no necessary AFF-05 dependency identified; open questions route to STR/SOC/REL/PER/DEV/NEU/PSYCHOMETRICS/CLN/BHC.
+
+**AFF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**AFF-04 — Emotion and regulation integration/sufficiency audit: generation, appraisal, expression, regulation, dynamics, measurement, and cross-domain boundaries.**
+**STR-01 — Stress foundations: stressor, stress response, appraisal, acute/chronic stress, homeostasis/allostasis, coping, resilience, and measurement boundaries.**
 
-Goal: synthesize AFF-01…03, audit contradictions and unresolved evidence gaps, define reusable emotion reasoning rules, and either close AFF for current scope or route specific dependencies.
+Goal: distinguish stressor from stress response; acute/chronic exposure; appraisal and controllability; homeostasis/allostasis/allostatic load; coping versus emotion regulation; resilience, adaptation and recovery; and measurement/causal limits.
 
 Target domain:
 
-`research/psychology/qualification/05_emotion_and_regulation/`
+`research/psychology/qualification/15_stress_trauma_and_adaptation/`
 
 ## Deferred
 
