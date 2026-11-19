@@ -128,8 +128,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-04 — **CLOSED_FOR_PRACTICE v2.0**;
 - BIO-05 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 5 closure **8/8 PASS**;
 - BIO-06 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 6 closure **10/10 PASS**;
-- BIO-07 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 7 coverage **10/10 at content/scope level**;
-- **CURRENT NEXT: BIO-07/PASS-02 — Closure audit and synthesis.**
+- BIO-07 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 7 closure **10/10 PASS**;
+- **CURRENT NEXT: BIO-08/PASS-01 — Interaction of energy systems content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -179,35 +179,42 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-07/PASS-01_macronutrient_metabolism_substrate_selection_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-07/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `99997a9c2e958da4961c72b93ae244a9b5b6b29c`
+PASS commit: `536e4aeadcbe159071a575b890f5dcfb39f5ee3f`  
+Canonical finding commit: `052acebb44ba74876a20447fc251b91657990715`  
+Evidence ledger commit: `87fc5291d5302bea43c60cfd553814c57d6566d6`  
+Evidence ledger: `BIO07-01…BIO07-10` finalized.
 
-BIO-07/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-07/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 7 coverage = **10/10 at content/scope level**;
-2. carbohydrate, fat and amino-acid contributions retained as concurrent/context dependent rather than binary systems;
-3. muscle glycogen, blood glucose and exogenous carbohydrate separated as distinct carbohydrate source pools;
-4. lipolysis, FFA availability, muscle uptake, mitochondrial entry, beta-oxidation and whole-body fat oxidation separated;
-5. increasing intensity retained as generally shifting fuel selection toward carbohydrate without a binary fat-off switch;
-6. no universal Fatmax/crossover percentage retained;
-7. duration retained as changing both macronutrient contribution and source-pool contribution; no universal time-based “fat takeover”;
-8. training-status interpretation requires explicit absolute-vs-relative workload matching;
-9. low glycogen retained as capable of lowering endogenous carbohydrate oxidation and increasing fat oxidation without eliminating exogenous carbohydrate oxidation;
-10. fasted state can increase acute fat oxidation, but acute oxidation is not translated directly into chronic fat loss;
-11. protein/amino-acid contribution retained as usually subsidiary but non-zero and context dependent;
-12. metabolic flexibility retained as adaptive fuel switching, not maximal fat oxidation or one RER/Fatmax number;
-13. RER/indirect calorimetry retained as method-dependent whole-body estimation with high-intensity/non-steady-state limitations;
-14. no content-level blocker found;
-15. no canonical BIO-07 finding or finalized BIO07 evidence-ledger rows created before independent PASS-02 closure audit.
+1. exact Area 05 Section 7 coverage = **10/10 PASS**;
+2. carbohydrate retained as both glycolytic/substrate-level and oxidative fuel;
+3. muscle glycogen, blood/liver-derived glucose and exogenous carbohydrate kept as distinct source pools;
+4. lipolysis, FFA availability, uptake, mitochondrial entry and beta-oxidation kept separate;
+5. beta-oxidation retained without a universal single rate-limiting-step claim;
+6. protein/amino-acid contribution retained as small/subsidiary but non-zero; pooled ~3.28% endurance estimate not universalized;
+7. increasing intensity retained as generally shifting fuel use toward carbohydrate without a binary switch;
+8. no universal Fatmax/crossover percentage retained; Fatmax ≠ LT/GET by definition;
+9. duration retained as interacting with intensity, glycogen and feeding rather than producing a fixed “fat takeover” time;
+10. training-status effects require both absolute and relative workload context;
+11. low glycogen can lower endogenous carbohydrate oxidation and raise fat oxidation without eliminating exogenous carbohydrate oxidation;
+12. low glycogen kept distinct from low energy availability;
+13. PFO/Fatmax can shift with substrate availability without intrinsic mitochondrial coupling change;
+14. fed/fasted acute substrate effects kept separate from chronic body-composition outcomes;
+15. metabolic flexibility retained as adaptive fuel switching rather than maximal fat oxidation;
+16. no standardized universal exercise-derived metabolic-flexibility score retained;
+17. RER retained as method-dependent whole-body estimation rather than direct local muscle flux;
+18. fuel-selection phenotype kept separate from performance outcome;
+19. canonical `BIO-07_macronutrient_metabolism_substrate_selection.md` created.
 
 ### Следующая задача
 
-**BIO-07/PASS-02 — Closure audit and synthesis.**
+**BIO-08/PASS-01 — Interaction of energy systems content revalidation.**
 
-BIO-07 remains **not CLOSED_FOR_PRACTICE** after PASS-01. After the next one block, save state and STOP. **Do not start BIO-08 unless BIO-07/PASS-02 independently authorizes closure and the user later gives the next continue signal.**
+BIO-07 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-08 until the user gives the next continue signal.**
 
 ---
 
@@ -229,9 +236,9 @@ BIO-07 remains **not CLOSED_FOR_PRACTICE** after PASS-01. After the next one blo
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-07/PASS-01_macronutrient_metabolism_substrate_selection_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-07/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-07/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-08/PASS-01 — Interaction of energy systems content revalidation** и остановиться перед следующим блоком.
 
 ---
 
