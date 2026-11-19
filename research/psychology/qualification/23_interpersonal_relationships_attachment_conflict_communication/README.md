@@ -18,7 +18,7 @@ REL covers generic interpersonal processes relevant to reliable psychological re
 
 ## Current state
 
-**REL sequence: IN PROGRESS.**
+**REL sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
 ### REL-01 — Interpersonal and attachment foundations
 
@@ -46,9 +46,39 @@ Established:
 
 **REL sequence: IN PROGRESS.**
 
-Next block:
+### REL-02 — Conflict and communication architecture and sufficiency audit
 
-**REL-02 — Conflict and communication architecture: demand/withdraw and reciprocal escalation, validation/invalidation, responsiveness, repair, attribution, power/asymmetry, boundaries, coercive versus ordinary conflict, communication measurement, and causal limits.**
+Status: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**
+
+Canonical block:
+
+`REL-02_conflict_communication_reciprocal_sequences_validation_repair_power_coercion_measurement_sufficiency_audit.md`
+
+Established:
+
+1. conflict is modeled as a reciprocal temporal sequence rather than a stable person trait;
+2. demand–withdraw is dyadic/contextual and neither demand nor withdrawal has a fixed meaning;
+3. validation is separated from agreement/capitulation;
+4. perceived invalidation and responsiveness are separated from objective behavior;
+5. partner attributions are not motive truth and show cultural variation;
+6. repair is breach-specific and broader than apology wording;
+7. power can be subjective, dyadic, structural, and asymmetric;
+8. ordinary disagreement is separated from psychological aggression and coercive control;
+9. bidirectional aggression does not automatically imply symmetric power/responsibility;
+10. self-report, partner-report, observational, naturalistic, and diary methods are separate evidence channels;
+11. communication coding requires cultural/language validity;
+12. longitudinal/APIM/mediation results do not automatically establish causal interpersonal mechanisms;
+13. safety/power analysis overrides symmetric couple-process framing where coercion/violence is present;
+14. a 104-question Conflict / Communication Inference Gate and 20/20 REL sufficiency audit are canonical;
+15. no scientifically necessary REL-03 dependency is identified.
+
+**REL sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
+Next Phase C dependency:
+
+**DEC — judgment, decision-making, heuristics, and risk.**
+
+Canonical storage: `research/psychology/qualification/19_decision_strategy_and_prediction/`.
 
 ## Storage note
 
