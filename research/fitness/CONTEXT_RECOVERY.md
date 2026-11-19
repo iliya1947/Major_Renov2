@@ -203,7 +203,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-18 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-19 — Neuroplasticity — RESEARCHING**.
+Последняя закрытая тема: **NEU-19 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-20 — Arousal/stress effects on motor execution — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -253,38 +255,41 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-19/PASS-01_neuroplasticity_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-19/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `2515c69450e95fa41363b29155c79500cfb20ec2`  
-Independent current-source audit commit: `ee15de73a54900c7d9937959ade6a44389c3744c`  
-Evidence-ledger commit: `8ba9a623142301234e200e142bf6b38b0f327b5a`
+PASS commit: `b17e8f997e0a04b7d5e491965f9836083cbf9f10`  
+Canonical finding commit: `a2eda4e04d2ec27c9c693c54e864f622592d9f20`  
+PASS-01 independent current-source audit commit: `ee15de73a54900c7d9937959ade6a44389c3744c`  
+Evidence ledger: existing `NEU19-01…NEU19-13` re-audited; no closure-critical rewrite required.
 
-NEU-19/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-19/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 19 coverage = **10/10 at content level**;
-2. experience-dependent neuroplasticity is real, but no single MRI/TMS/BDNF marker defines learning;
-3. use-dependent repetition can bias motor representation but is only one learning process;
-4. behavioral improvement can occur without detectable change in common corticospinal/spinal markers;
-5. resistance training can modify central neural excitability, with protocol/pathway-specific profiles and substantial heterogeneity;
-6. specificity constrains adaptation; extensive training can strengthen retention while narrowing generalization;
-7. specificity does not imply constant-practice superiority;
-8. repetition matters but no universal neural-plasticity repetition threshold is established;
-9. “salience” is not one standardized variable; reward can facilitate learning, but more reward/success is not monotonically better;
-10. consolidation means stabilization/reorganization and is not synonymous with sleep or observable offline gain;
-11. retention is graded and decays with nonuse at task-dependent rates;
-12. memory interference depends on similarity/context and is distinct from contextual interference;
-13. savings/relearning can expose latent prior learning and is not equivalent to overt retention or broad transfer;
-14. neural markers are mechanism probes, not direct coaching optimization targets;
-15. classic Kleim/Jones principles were explicitly framed for rehabilitation after brain damage and cannot be imported as numerical healthy-fitness prescriptions;
-16. no content-level blocker was found; independent closure audit remains required.
+1. exact Area 04 Section 19 coverage = **10/10 PASS**;
+2. neuroplasticity is a broad neural-change construct, not a single biomarker or behavioral outcome;
+3. experience-dependent and use-dependent plasticity remain distinct from complete motor learning;
+4. behavioral learning and specific neural markers are non-equivalent;
+5. RT induces central neural adaptations, but adaptation profiles are protocol/pathway specific;
+6. no single neural mechanism or marker explains strength gain;
+7. specificity and transfer coexist; prolonged practice can strengthen retention while narrowing generalization;
+8. repetition has no universal neuroplasticity count/threshold;
+9. salience must be operationalized; reward/motivation is one implementation and more success/reward is not monotonically better;
+10. consolidation is broader than sleep or offline gain;
+11. retention is delayed behavior and must be separated from relearning;
+12. interference is similarity/context/timing dependent and distinct from contextual interference;
+13. savings/relearning demonstrates prior-learning influence but not intact overt retention or broad transfer;
+14. classic neurorehabilitation principles are conceptual constraints, not healthy-fitness dose prescriptions;
+15. even in neurorehabilitation, more intensive task-specific practice does not automatically produce superior functional outcomes;
+16. neural markers are mechanism probes, not direct coaching optimization targets;
+17. no project-relevant blocker remains;
+18. first canonical `NEU-19_neuroplasticity.md` created.
 
 ### Следующая задача
 
-**NEU-19/PASS-02 — Closure audit and synthesis.**
+**NEU-20/PASS-01 — Arousal/stress effects on motor execution content revalidation.**
 
-NEU-19 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-20 in the same working block.**
+NEU-19 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-20 in this completed NEU-19 working block.**
 
 ---
 
@@ -300,9 +305,9 @@ NEU-19 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-19/PASS-01_neuroplasticity_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-19/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-19/PASS-02 closure audit and synthesis** и остановиться перед NEU-20.
+Затем выполнить только записанный выше **NEU-20/PASS-01 arousal/stress effects on motor execution content revalidation** и остановиться перед следующим блоком.
 
 ---
 
