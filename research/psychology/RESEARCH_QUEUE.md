@@ -9,14 +9,10 @@
 - **Phase B — Core psychological science: IN PROGRESS.**
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **MET sequence: IN PROGRESS.**
-- **EXE-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- **EXE-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- **EXE-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- **EXE-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- **EXE-05 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- **EXE-06 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- **LEA sequence: NEXT.**
 - **MET-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **MET-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 
 ## Completed Phase A
 
@@ -53,38 +49,47 @@ Canonical block:
 
 `research/psychology/qualification/04_executive_functions_and_metacognition/MET-01_metacognition_monitoring_confidence_calibration_control.md`
 
+### MET-02 — Metacognitive control: information seeking, revision, abstention, strategy selection, and stopping rules
+
+Canonical block:
+
+`research/psychology/qualification/04_executive_functions_and_metacognition/MET-02_metacognitive_control_information_revision_abstention_stopping.md`
+
 Established:
 
-1. first-order task performance != second-order metacognitive judgment;
-2. metacognition is broader than confidence ratings;
-3. local confidence != global self-belief;
-4. prospective != retrospective metacognition;
-5. mean confidence/metacognitive bias != metacognitive sensitivity;
-6. calibration != discrimination/sensitivity;
-7. d′ != meta-d′;
-8. meta-d′/M-ratio are model-derived measures, not assumption-free introspective-access meters;
-9. current metacognition metrics can depend substantially on first-order performance;
-10. no current metacognition measure is universally optimal;
-11. high split-half reliability can coexist with weak test-retest reliability;
-12. trial count and exact metric constrain individual-difference inference;
-13. metacognitive monitoring != metacognitive control;
-14. error awareness != global metacognitive ability;
-15. domain generality/specificity is an empirical question rather than an assumption;
-16. task-based metacognition != questionnaire/self-report metacognition;
-17. response style and inattentive responding can generate spurious confidence/self-report associations;
-18. global self-beliefs can be altered by feedback independently of objective performance;
-19. introspective explanation is evidence about reported reasons/self-model, not direct proof of causal mechanism;
-20. a 52-question Metacognitive Inference Gate is canonical.
+1. metacognitive monitoring != metacognitive control;
+2. confidence is an input to control, not a complete policy;
+3. information seeking != information-search quality;
+4. sampling quality != search-termination quality;
+5. information seeking is value/cost sensitive rather than a simple inverse-confidence reflex;
+6. low confidence can guide search even when confidence itself is poorly calibrated;
+7. more search can amplify error when monitoring/source selection is poor;
+8. search can reduce several forms of uncertainty and is shaped by learned task/environment knowledge;
+9. question/help seeking are adaptive information-acquisition policies under appropriate source/value conditions;
+10. social information use depends jointly on own uncertainty and source confidence/reliability;
+11. high confidence can reduce feedback seeking/processing by lowering expected information value;
+12. external/online search can become habitual rather than uncertainty-driven;
+13. change of mind != indecision and revision quality must be measured;
+14. post-decision evidence can update confidence and choices but can also be distorted by confidence-dependent confirmation;
+15. confidence/JOL elicitation can alter first-order processing, so metacognitive measurement can be reactive;
+16. abstention != inability and opt-out frequency != opt-out threshold;
+17. more abstention does not automatically improve accuracy;
+18. stopping/giving up can be an adaptive global resource-allocation decision;
+19. answer, opt-out, and time stopping criteria can be dissociable;
+20. strategy selection and study allocation depend on goals, costs, time, learning, and executive implementation;
+21. metacognitive control != motivation != executive capacity;
+22. stable person-level control inference requires repeated cross-domain monitoring/control separation;
+23. a 54-question Metacognitive Control Inference Gate is canonical.
 
 ## Current next action
 
-**MET-02 — Metacognitive control: information seeking, revision, abstention, strategy selection, and stopping rules.**
+**LEA-01 — Learning architecture: conditioning, prediction error, habit, extinction, and reconsolidation boundaries.**
 
-Goal: establish how monitoring signals are converted into actions; separate confidence/uncertainty from information seeking, change-of-mind, help seeking, abstention, strategy selection, study allocation, and stopping; define when good monitoring fails to produce good control and vice versa.
+Goal: establish a current architecture of learning; separate associative learning, reinforcement/prediction-error learning, habit formation, extinction/new learning, and memory reconsolidation; define boundaries between learned prediction, causal belief, habit, and deliberate goal-directed control.
 
 Target domain:
 
-`research/psychology/qualification/04_executive_functions_and_metacognition/`
+`research/psychology/qualification/03_cognitive_psychology/`
 
 ## Deferred
 
