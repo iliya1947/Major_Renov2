@@ -132,3 +132,17 @@ Reconsideration trigger: отдельная migration/reorganization decision.
 3. DEC-01 начинается только отдельным continuation после purpose/question gate.
 
 Reconsideration trigger: если фактический DEC scope позже перестанет помещаться в этот storage без смыслового смешения.
+
+
+### Решение 14
+**SAF получает отдельный canonical storage `24_safety_crisis_referral_thresholds/`.**
+
+Причина: Phase C SAF касается safety boundaries, crisis recognition и referral thresholds и не должен смешиваться с уже завершённым STR-каталогом `15_stress_trauma_and_adaptation/`.
+
+Последствия:
+1. `24_safety_crisis_referral_thresholds/` — canonical SAF storage;
+2. `15_stress_trauma_and_adaptation/` сохраняется как canonical STR storage;
+3. SAF-01 начинается только отдельным continuation после purpose/question gate;
+4. individualized crisis/safety material никогда не сохраняется в repo.
+
+Reconsideration trigger: отдельная migration/reorganization decision.
