@@ -40,7 +40,7 @@ If control files disagree:
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **IN PROGRESS**.
-- Current domain: **BHC / behavior change and intervention science — IN PROGRESS**.
+- Current domain: **REL / interpersonal processes, attachment, conflict and communication — NEXT**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
@@ -49,13 +49,14 @@ If control files disagree:
 - NDEV-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - NDEV sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - BHC-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- BHC sequence: **IN PROGRESS**.
-- Next block: **BHC-02 — Psychological intervention evidence architecture: psychotherapy families, common versus specific factors, alliance/expectancy/provider effects, comparative efficacy, bona-fide versus control comparisons, harms, treatment selection, and limits of school-level claims**.
-- Target directory: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
+- BHC-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
+- BHC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
+- Next block: **REL-01 — Interpersonal/attachment foundations: attachment constructs and measurement, adult attachment dimensions versus categories, close-relationship regulation, partner effects, reciprocity, developmental continuity/change, and inference limits**.
+- Target directory: `research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/22_behavior_change_and_intervention_science/BHC-01_behavior_change_intervention_science_foundations_efficacy_effectiveness_mechanism_fidelity_implementation_heterogeneity.md`
+`research/psychology/qualification/22_behavior_change_and_intervention_science/BHC-02_psychological_intervention_evidence_psychotherapy_families_common_specific_alliance_provider_harms_personalization_sufficiency_audit.md`
 
 ## 5. Cabinet architecture state
 
@@ -125,6 +126,6 @@ Stop immediately if:
 
 After recovery, the next qualification block remains:
 
-**BHC-02 — Psychological intervention evidence architecture: psychotherapy families, common versus specific factors, alliance/expectancy/provider effects, comparative efficacy, bona-fide versus control comparisons, harms, treatment selection, and limits of school-level claims.**
+**REL-01 — Interpersonal/attachment foundations: attachment constructs and measurement, adult attachment dimensions versus categories, close-relationship regulation, partner effects, reciprocity, developmental continuity/change, and inference limits.**
 
-Canonical target: `research/psychology/qualification/22_behavior_change_and_intervention_science/`.
+Canonical target: `research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`.
