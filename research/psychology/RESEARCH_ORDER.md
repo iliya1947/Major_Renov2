@@ -42,10 +42,12 @@ The order is dependency-driven, not a claim that psychology has one universal hi
 
 ## Phase D — Integration
 
-1. cross-domain contradiction audit;
-2. evidence-to-individual transfer rules;
-3. analytic error taxonomy;
-4. reusable reasoning checklists;
-5. final sufficiency audit for project purpose.
+Canonical storage: `research/psychology/qualification/26_integration/`.
+
+1. INT-01 — cross-domain contradiction audit — **complete**;
+2. INT-02 — evidence-to-individual transfer rules — **next**;
+3. INT-03 — analytic error taxonomy;
+4. INT-04 — reusable reasoning checklists;
+5. INT-05 — final sufficiency audit for project purpose.
 
 Do not advance merely because a taxonomy is incomplete. Advance when remaining gaps no longer block reliable reasoning.
