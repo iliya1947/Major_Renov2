@@ -35,7 +35,7 @@ Status: **IN PROGRESS**.
 | NDEV | COMPLETE_FOR_CURRENT_SCOPE — NDEV-01/02 complete |
 | BHC | COMPLETE_FOR_CURRENT_SCOPE — BHC-01/02 complete |
 | REL | COMPLETE_FOR_CURRENT_SCOPE — REL-01/02 complete |
-| DEC | NEXT — DEC-01; canonical storage: `qualification/19_decision_strategy_and_prediction/` |
+| DEC | IN_PROGRESS — DEC-01 complete; DEC-02 next |
 | SAF | NOT_STARTED |
 | ETH | NOT_STARTED |
 
