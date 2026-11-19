@@ -129,7 +129,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-05 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 5 closure **8/8 PASS**;
 - BIO-06 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 6 closure **10/10 PASS**;
 - BIO-07 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 7 closure **10/10 PASS**;
-- **CURRENT NEXT: BIO-08/PASS-01 — Interaction of energy systems content revalidation.**
+- BIO-08 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 8 coverage **10/10 at content/scope level**;
+- **CURRENT NEXT: BIO-08/PASS-02 — Closure audit and synthesis.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -179,42 +180,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-07/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-08/PASS-01_energy_system_interaction_content_revalidation.md`
 
-PASS commit: `536e4aeadcbe159071a575b890f5dcfb39f5ee3f`  
-Canonical finding commit: `052acebb44ba74876a20447fc251b91657990715`  
-Evidence ledger commit: `87fc5291d5302bea43c60cfd553814c57d6566d6`  
-Evidence ledger: `BIO07-01…BIO07-10` finalized.
+PASS commit: `60d4182d52424617134fe5186e8684bedbddff0e`
 
-BIO-07/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-08/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 05 Section 7 coverage = **10/10 PASS**;
-2. carbohydrate retained as both glycolytic/substrate-level and oxidative fuel;
-3. muscle glycogen, blood/liver-derived glucose and exogenous carbohydrate kept as distinct source pools;
-4. lipolysis, FFA availability, uptake, mitochondrial entry and beta-oxidation kept separate;
-5. beta-oxidation retained without a universal single rate-limiting-step claim;
-6. protein/amino-acid contribution retained as small/subsidiary but non-zero; pooled ~3.28% endurance estimate not universalized;
-7. increasing intensity retained as generally shifting fuel use toward carbohydrate without a binary switch;
-8. no universal Fatmax/crossover percentage retained; Fatmax ≠ LT/GET by definition;
-9. duration retained as interacting with intensity, glycogen and feeding rather than producing a fixed “fat takeover” time;
-10. training-status effects require both absolute and relative workload context;
-11. low glycogen can lower endogenous carbohydrate oxidation and raise fat oxidation without eliminating exogenous carbohydrate oxidation;
-12. low glycogen kept distinct from low energy availability;
-13. PFO/Fatmax can shift with substrate availability without intrinsic mitochondrial coupling change;
-14. fed/fasted acute substrate effects kept separate from chronic body-composition outcomes;
-15. metabolic flexibility retained as adaptive fuel switching rather than maximal fat oxidation;
-16. no standardized universal exercise-derived metabolic-flexibility score retained;
-17. RER retained as method-dependent whole-body estimation rather than direct local muscle flux;
-18. fuel-selection phenotype kept separate from performance outcome;
-19. canonical `BIO-07_macronutrient_metabolism_substrate_selection.md` created.
+1. exact Area 05 Section 8 coverage = **10/10 at content/scope level**;
+2. phosphagen, glycolytic and oxidative pathways retained as concurrently active/interacting rather than sequential isolated systems;
+3. dominant pathway separated from exclusive pathway;
+4. intensity/duration retained as continuously redistributing contribution;
+5. no universal system-switch time retained;
+6. pooled ~78.6 s equal anaerobic/aerobic contribution estimate retained only as a method-dependent aggregate from maximal-exercise literature;
+7. energy-system percentages treated as method-conditioned estimates rather than direct universal measurements;
+8. repeated sets/sprints retained as starting from altered PCr/metabolite/VO2 states;
+9. repeated-sprint glycolytic contribution can fall while oxidative contribution rises despite maximal intent;
+10. prolonged low/moderate-intensity exercise retained as oxidative-dominant but not oxidative-exclusive;
+11. resistance exercise retained as metabolically mixed and protocol dependent;
+12. recovery intervals retained as metabolically active with oxidative support of PCr resynthesis/restoration;
+13. recovery oxidative metabolism kept distinct from EPOC as a complete construct;
+14. no content-level blocker found;
+15. no canonical BIO-08 finding or finalized BIO08 evidence-ledger rows created before PASS-02.
 
 ### Следующая задача
 
-**BIO-08/PASS-01 — Interaction of energy systems content revalidation.**
+**BIO-08/PASS-02 — Closure audit and synthesis.**
 
-BIO-07 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-08 until the user gives the next continue signal.**
+BIO-08 remains **not CLOSED_FOR_PRACTICE** after PASS-01. After the next one block, save state and STOP. **Do not start BIO-09 unless BIO-08/PASS-02 independently authorizes closure and the user later gives the next continue signal.**
 
 ---
 
@@ -236,9 +230,9 @@ BIO-07 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-07/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-08/PASS-01_energy_system_interaction_content_revalidation.md`
 
-Затем выполнить только записанный выше **BIO-08/PASS-01 — Interaction of energy systems content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-08/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
