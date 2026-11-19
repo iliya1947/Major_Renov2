@@ -30,6 +30,8 @@
 - **NDEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **NDEV-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NDEV-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
+- **BHC sequence: IN PROGRESS.**
+- **BHC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -912,11 +914,37 @@ Established:
 
 **NDEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase C / BHC in progress
+
+### BHC-01 — Behavior change and intervention-science foundations
+
+Canonical block:
+`research/psychology/qualification/22_behavior_change_and_intervention_science/BHC-01_behavior_change_intervention_science_foundations_efficacy_effectiveness_mechanism_fidelity_implementation_heterogeneity.md`
+
+Established:
+
+1. efficacy, effectiveness, and implementation success are distinct;
+2. package efficacy does not identify active components or mechanisms;
+3. target engagement is necessary but insufficient for mechanism;
+4. mediator, moderator, and mechanism are noninterchangeable;
+5. fidelity separates design, training, delivery, receipt, and enactment;
+6. initiation, attendance, adherence, completion, dropout, and research attrition are distinct;
+7. more dose is not universally better;
+8. end-of-treatment benefit is not maintenance;
+9. implementation outcomes differ from clinical outcomes;
+10. reach, context, and transport are explicit;
+11. intervention versus implementation failure must be decomposed;
+12. harms/unintended effects require assessment;
+13. average treatment effect does not establish individualized benefit;
+14. a 96-question Intervention Science Inference Gate and 18/18 closure audit are canonical.
+
+**BHC sequence: IN PROGRESS.**
+
 ## Current next action
 
-**BHC-01 — Behavior change and intervention-science foundations: efficacy versus effectiveness, intervention package versus mechanism, mediation/moderation, adherence/engagement, maintenance/relapse, implementation/context, heterogeneity, and causal limits.**
+**BHC-02 — Psychological intervention evidence architecture: psychotherapy families, common versus specific factors, alliance/expectancy/provider effects, comparative efficacy, bona-fide versus control comparisons, harms, treatment selection, and limits of school-level claims.**
 
-Goal: begin Phase C BHC with a general intervention-inference architecture before any therapy-specific material.
+Goal: establish evidence-calibrated competence about psychological interventions themselves without turning BHC into a therapy-school catalogue.
 
 Target domain:
 
