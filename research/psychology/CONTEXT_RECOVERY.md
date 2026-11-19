@@ -25,13 +25,14 @@ Use this file to recover work after a new chat or lost context.
 - `EXE-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `EXE-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `EXE-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- Next block: `EXE-04 — Task switching, cognitive flexibility, set shifting, and reconfiguration costs`.
+- `EXE-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- Next block: `EXE-05 — Performance monitoring, conflict/error signals, adaptation, and control adjustment`.
 - Target directory: `research/psychology/qualification/04_executive_functions_and_metacognition/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/04_executive_functions_and_metacognition/EXE-03_response_selection_inhibition_stopping_interference_control.md`
+`research/psychology/qualification/04_executive_functions_and_metacognition/EXE-04_task_switching_cognitive_flexibility_reconfiguration.md`
 
 ## Hard stop condition
 
