@@ -207,7 +207,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-20 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-21 — Individual differences — RESEARCHING**.
+Последняя закрытая тема: **NEU-21 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-22 — Application to resistance exercise — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -257,37 +259,40 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-21/PASS-01_individual_differences_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-21/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `c71fd41d61ed8444df331169299bcd0d206d82ec`  
-Evidence-ledger commit: `91adfa78ec6d85d5540b2999234c658d8e94a149`
+PASS commit: `d016d7ff901a799fbdd4ffba64c336147cdbb2f6`  
+Canonical finding commit: `c3343eb167b26d23a9cfd929120e04ab39ea586e`  
+Evidence ledger: existing `NEU21-01…NEU21-13` re-audited; no closure-critical rewrite required.
 
-NEU-21/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-21/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 21 coverage = **10/10 at content/scope level**;
-2. training age is a crude exposure descriptor and is not equivalent to task-specific expertise or proficiency;
-3. healthy aging changes motor-learning components heterogeneously rather than producing one global learning deficit;
-4. biological age must be explicitly operationalized and cannot be substituted by chronological age;
-5. previous motor experience can facilitate, interfere or fail to transfer depending on overlap with the new task;
-6. skilled limb dominance is strongly task/practice dependent rather than a universal dominant-limb motor-capacity advantage;
-7. interlimb transfer can be asymmetric in specific tasks and does not imply one universal side-first training rule;
-8. working-memory/motor-working-memory and related cognitive capacities can moderate learning phases but do not prescribe one fixed instructional style;
-9. attention control varies between individuals but does not map directly onto one motor attentional-focus/cue prescription;
-10. ADHD-specific instructional design remains explicitly deferred to Area 12 / PSY-COA;
-11. fatigue effects on motor learning are heterogeneous and stable fatigue sensitivity requires repeated task-specific measurement;
-12. resistance-training fatigability depends on protocol and participant characteristics rather than one stable phenotype;
-13. cue preference/choice can affect interpretation or acute performance but does not establish durable cue superiority or a permanent learner type;
-14. anthropometry remains Area 02/MEC scope;
-15. individualization should be empirical/dynamic rather than typological;
-16. no content-level blocker was found; independent closure audit remains required.
+1. exact Area 04 Section 21 coverage = **10/10 PASS at content/scope level**;
+2. training age is a crude descriptor and is not equivalent to task-specific expertise;
+3. healthy aging effects are learning-process specific rather than globally negative;
+4. biological age requires an explicit measure and is not calendar age;
+5. prior motor experience can facilitate, interfere or fail to transfer;
+6. skilled dominance is predominantly task/practice specific;
+7. interlimb transfer can be asymmetric without implying a universal side-first rule;
+8. working-memory/cognitive capacities can moderate learning but do not define one learner type;
+9. attention profile is multidimensional and does not prescribe attentional focus;
+10. ADHD-specific instructional design remains Area 12 / PSY-COA;
+11. fatigue effects are heterogeneous and protocol/state dependent;
+12. stable fatigue sensitivity requires repeated task-specific evidence;
+13. cue preference can inform testing but does not establish durable cue superiority;
+14. anthropometry remains Area 02/MEC;
+15. individualization should be empirical, repeatable and dynamic;
+16. group moderators are hypothesis generators, not personal prescriptions;
+17. no project-relevant blocker remains;
+18. first canonical `NEU-21_individual_differences.md` created.
 
 ### Следующая задача
 
-**NEU-21/PASS-02 — Closure audit and synthesis.**
+**NEU-22/PASS-01 — Application to resistance exercise content revalidation.**
 
-NEU-21 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-22 in the same working block.**
+NEU-21 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-22 in this completed NEU-21 working block.**
 
 ---
 
@@ -303,9 +308,9 @@ NEU-21 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-21/PASS-01_individual_differences_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-21/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-21/PASS-02 closure audit and synthesis** и остановиться перед NEU-22.
+Затем выполнить только записанный выше **NEU-22/PASS-01 application to resistance exercise content revalidation** и остановиться перед следующим блоком.
 
 ---
 
