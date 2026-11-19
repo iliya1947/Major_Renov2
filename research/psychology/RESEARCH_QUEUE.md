@@ -18,6 +18,7 @@
 - **PER sequence: IN PROGRESS.**
 - **PER-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PER-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **PER-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **SOC-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -497,11 +498,31 @@ Established:
 12. prediction and incremental R² do not establish causal mechanism;
 13. 66-question Personality Hierarchy / Criterion Validity Inference Gate and 18/18 closure audit are canonical.
 
+### PER-03 — Personality development and intentional change
+Canonical block:
+`research/psychology/qualification/07_personality_and_individual_differences/PER-03_personality_development_life_events_volitional_change_interventions_causal_inference.md`
+
+Established:
+1. observed score change must be separated from enduring trait change, state fluctuation, measurement error, response shift and recontextualization;
+2. life-event effects require separation of selection, anticipation, normative development and socialization;
+3. 2024 life-event meta-analysis shows reliable but generally small and heterogeneous event-related trait changes;
+4. 2025 coordinated analysis across seven panels (N=196,256) found average event-related Big Five change around b_std=.06;
+5. 2026 evidence shows substantial heterogeneity in event-related change across person, timing, perception and method;
+6. randomized peer-group evidence demonstrates regression-to-the-mean risk in apparent socialization;
+7. 2026 military-training evidence separates baseline selection from group-differential change during exposure;
+8. desire to change personality alone weakly predicts realized change;
+9. structured volitional personality interventions show promising but still limited average effects;
+10. PEACH evidence supports intended self-/some observer-reported change while long-term maintenance requires attrition caution;
+11. 2025 intervention work shows repeated state deviation, commitment and engagement as plausible proximal pathways but not uniquely identified mechanisms;
+12. 2025 randomized self-improvement/self-acceptance work demonstrates expectancy/demand and control-group sensitivity;
+13. corrected 2026 intervention-tailoring evidence is version-controlled and restricted to proximal outcomes;
+14. 70-question Personality Development / Change Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**PER-03 — Personality development and intentional change: life events, goals, state change, trait change, intervention effects, selection versus socialization, causal inference, and measurement boundaries.**
+**PER-04 — Personality and individual-differences integration/sufficiency audit: traits/states, person–situation dynamics, hierarchy, criterion validity, development/change, multi-method measurement, and cross-domain boundaries.**
 
-Goal: establish when personality change is plausibly real and causal, separate life-event selection from socialization, distinguish desired change from actual trait change, and evaluate intervention persistence versus short-term state/retest effects.
+Goal: synthesize PER-01…03, audit contradictions and remaining gaps, define reusable personality reasoning rules, and either close PER for current scope or identify one concrete blocking dependency before DEV.
 
 Target domain:
 
