@@ -14,6 +14,8 @@
 - **MOT sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **AFF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **STR sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- **SOC sequence: IN PROGRESS.**
+- **SOC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **STR-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -331,11 +333,32 @@ Established:
 
 **STR sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase B / SOC completed
+
+### SOC-01 — Social cognition foundations
+Canonical block:
+`research/psychology/qualification/08_social_psychology/SOC-01_social_cognition_person_perception_attribution_mentalizing_context_bias_measurement.md`
+
+Established:
+1. social cognition is inference under uncertainty rather than transparent mind reading;
+2. observable behavior, trait, state, goal, intention, role, and situational constraint are distinct explanatory levels;
+3. first impressions are structured and multimodal but consensus is not accuracy;
+4. facial trustworthiness judgments have only modest criterion accuracy and cannot support physiognomic individual inference;
+5. spontaneous trait inference is robust on average but does not establish trait causality;
+6. correspondence/fundamental attribution concepts require contextual boundaries and actor–observer asymmetry is not a universal effect;
+7. mentalizing/ToM, perspective taking, empathy, and interpersonal accuracy are noninterchangeable;
+8. adult ToM measurement is highly heterogeneous with ceiling, reliability, construct-validity, and cognitive-demand limitations;
+9. social-cognition tests require cultural/population/ecological validation;
+10. observer agreement, target self-report, consensus ground truth, confidence, and criterion accuracy are distinct;
+11. 60-question Social Cognition Inference Gate and 18/18 closure audit are canonical.
+
+**SOC sequence: IN PROGRESS.**
+
 ## Current next action
 
-**SOC-01 — Social cognition foundations: person perception, attribution, mentalizing, social inference, context, bias, and measurement boundaries.**
+**SOC-02 — Empathy and interpersonal accuracy: cognitive/affective empathy, emotional contagion, compassion/empathic concern, perspective taking, self–other distinction, empathic accuracy, context, and measurement validity.**
 
-Goal: establish social-cognition foundations, including person perception, attribution, mentalizing, context dependence, bias, observer inference, and measurement limits without treating behavior as transparent evidence of internal traits or intentions.
+Goal: distinguish cognitive and affective empathy, contagion, compassion/concern, perspective taking, empathic accuracy, self–other boundaries, state/trait context and measurement without collapsing them into one empathy score.
 
 Target domain:
 
