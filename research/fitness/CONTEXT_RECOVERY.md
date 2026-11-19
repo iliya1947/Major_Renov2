@@ -183,7 +183,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-08 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-09 — Motor control — NOT STARTED**.
+Последняя закрытая тема: **NEU-09 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-10 — Balance / neuromotor fitness — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -233,30 +235,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-09/PASS-01_motor_control_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-09/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `2c989b0bdec0a9178a92a5e54522b444f3f2e86d`
+PASS commit: `be7bcd02284c676c51d34889fd478f02a66547ff`  
+Canonical finding commit: `16232ca624d4addaf72b18816384e390ec831b33`  
+Evidence-ledger commit: `bf09982b3a858c04674c38ee653e28e61defa16e`
 
-NEU-09/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-09/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 9 coverage = **16/16 at content level**;
-2. feedforward and feedback retained as complementary, coupled control processes;
-3. internal models retained as a useful computational framework, not a literal established neural object;
-4. degrees-of-freedom redundancy retained as motor abundance permitting multiple task-successful solutions;
-5. coordination and muscle-synergy analyses remain task-/method-dependent; extracted factors do not prove fixed CNS modules;
-6. stability is not equivalent to minimal variability, and functional variability must be judged against the controlled task variable;
-7. force control, postural control, joint stabilization and anticipatory postural adjustments were separated without collapsing them into one construct;
-8. fatigue and novel load can reorganize coordination without one universal degradation pattern;
-9. direct resistance-training transfer was checked against current squat coordination/variability evidence;
-10. no content-level blocker was found; independent closure audit/synthesis is still required.
+1. exact Area 04 Section 9 coverage = **16/16 PASS**;
+2. feedforward and feedback remain coupled complementary control processes;
+3. internal models remain a computational framework; exact neural implementation is not treated as settled;
+4. motor redundancy is retained as possible motor abundance with multiple valid solutions;
+5. coordination and extracted muscle synergies remain task-/method-dependent;
+6. stability is not equivalent to minimal variability;
+7. functional variability requires task-goal and structure analysis rather than magnitude alone;
+8. force control, postural control, joint stabilization and APAs remain distinct constructs;
+9. fatigue and novel load can reorganize coordination without one universal degradation/failure pattern;
+10. direct resistance-training transfer is supported but limited by task/method specificity;
+11. PMID 39298439 correction (PMID 40131897) was checked and is figure-order only, not result-changing;
+12. no project-relevant blocker remains;
+13. first canonical `NEU-09_motor_control.md` created.
 
 ### Следующая задача
 
-**NEU-09/PASS-02 — Closure audit and synthesis.**
+**NEU-10/PASS-01 — Balance / neuromotor fitness content revalidation.**
 
-NEU-09 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-10 in the same working block.**
+NEU-10 maps to Area 04 Section 10 (**10 exact items**). After the next one block, save state and STOP.
 
 ---
 
@@ -272,9 +279,9 @@ NEU-09 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-09/PASS-01_motor_control_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-09/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-09/PASS-02 closure audit and synthesis** и остановиться перед NEU-10.
+Затем выполнить только записанный выше **NEU-10/PASS-01 balance / neuromotor fitness content revalidation** и остановиться перед следующим блоком.
 
 ---
 
