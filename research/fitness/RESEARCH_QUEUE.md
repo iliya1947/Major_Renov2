@@ -176,9 +176,11 @@
 - NEU-09/PASS-01 motor-control content revalidation completed 2026-11-19; exact Area 04 Section 9 coverage = **16/16 at content level**.
 - NEU-09/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 9 coverage = **16/16 PASS** and no project-relevant blocker remains.
 - First canonical NEU-09 finding created as v2.0 because no legacy finding existed in the current branch.
-- **NEU-10 — RESEARCHING.**
+- **NEU-10 — CLOSED_FOR_PRACTICE v2.0.**
 - NEU-10/PASS-01 balance / neuromotor-fitness content revalidation completed 2026-11-19; exact Area 04 Section 10 coverage = **10/10 at content level**.
-- CURRENT NEXT: **NEU-10/PASS-02 — Closure audit and synthesis.**
+- NEU-10/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 10 coverage = **10/10 PASS** and no project-relevant blocker remains.
+- First canonical NEU-10 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **NEU-11/PASS-01 — Learning vs performance / retention / transfer content revalidation.**
 
 ## История текущего revalidation cycle
 
