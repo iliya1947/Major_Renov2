@@ -12,6 +12,7 @@
 - **EXE-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **EXE-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 
 ## Completed Phase A
 
@@ -47,33 +48,37 @@ Canonical block:
 Canonical block:
 `research/psychology/qualification/04_executive_functions_and_metacognition/EXE-03_response_selection_inhibition_stopping_interference_control.md`
 
+### EXE-04 — Task switching, cognitive flexibility, set shifting, and reconfiguration
+Canonical block:
+`research/psychology/qualification/04_executive_functions_and_metacognition/EXE-04_task_switching_cognitive_flexibility_reconfiguration.md`
+
 Established:
 
-1. response selection != inhibition;
-2. restraint/withholding != cancellation/stopping;
-3. Go/No-Go and Stop-Signal are distinct inhibition paradigms, not interchangeable tests;
-4. SSRT is a latent model-derived estimate, not directly observed stopping speed;
-5. stop-signal detection, trigger-failure probability, and stop-process latency are separable contributors;
-6. race-model assumptions, strategic slowing, Go omissions, trial count, and estimation method constrain SSRT interpretation;
-7. common SST inhibition measures have limited temporal stability for trait inference;
-8. response inhibition != impulsivity != everyday self-control;
-9. selective stopping can add action-discrimination/reprogramming demands;
-10. Stroop, Simon, and Flanker sample different forms of interference and are not interchangeable;
-11. classic congruency effects can mix facilitation and interference;
-12. conflict detection != inhibitory suppression;
-13. attentional distractor suppression != motor stopping;
-14. absence of distraction does not uniquely identify active suppression;
-15. memory retrieval/thought suppression has distinct representational demands despite possible cross-domain control overlap;
-16. direct suppression, substitution, avoidance, and retrieval competition are distinct mechanisms;
-17. stopping-related ERP/neural markers are not unique direct inhibition readouts;
-18. stable person-level inhibition claims require reliability, repeated occasions, and cross-task convergence;
-19. a 50-question Inhibition Inference Gate is canonical.
+1. task switching != broad cognitive flexibility;
+2. task sets contain structured stimulus/rule/response/context information;
+3. rule retrieval != rule discovery, so TSP and WCST are not interchangeable;
+4. local switch cost != mixing/global cost;
+5. switch and mixing costs can dissociate and reflect different control demands;
+6. switch cost is multi-determined rather than pure task-set reconfiguration;
+7. preparatory and post-target sources of switch cost are separable;
+8. residual interference/task-set inertia != reconfiguration;
+9. N-2 repetition costs support backward-inhibition-like dynamics but are not pure inhibition measures;
+10. cue, stimulus-set, task-rule, and response-set changes must be distinguished;
+11. task similarity/dissimilarity effects depend on the representational dimension and paradigm;
+12. cognitive stability and flexibility can be partly independent rather than one strict continuum;
+13. switch readiness adapts to context, switch probability, reward, and recent switching history;
+14. ability/willingness to switch are separated in voluntary switching;
+15. paradigm timing, cue informativeness, stimulus complexity, and base-task structure materially alter switch cost;
+16. robust group-level switch costs do not guarantee reliable individual-difference scores;
+17. practice effects constrain longitudinal interpretation;
+18. laboratory task switching != real-world adaptability;
+19. a 50-question Task Switching / Flexibility Inference Gate is canonical.
 
 ## Current next action
 
-**EXE-04 — Task switching, cognitive flexibility, set shifting, and reconfiguration costs.**
+**EXE-05 — Performance monitoring, conflict/error signals, adaptation, and control adjustment.**
 
-Goal: separate switch cost, mixing cost, task-set reconfiguration, residual interference, cue processing, hierarchical switching, stability/flexibility tradeoffs, and real-world flexibility; define what task-switching paradigms can and cannot support at process and trait levels.
+Goal: separate error detection, conflict monitoring, surprise, post-error behavior, confidence/awareness, and adaptive control adjustment; define what ERN/Pe, post-error slowing, conflict-adaptation effects, and behavioral monitoring measures can and cannot support.
 
 Target domain:
 
