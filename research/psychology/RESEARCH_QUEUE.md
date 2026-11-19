@@ -18,6 +18,7 @@
 - **PER sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **DEV sequence: IN PROGRESS.**
 - **DEV-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **DEV-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PER-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PER-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PER-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -564,11 +565,30 @@ Established:
 
 **DEV sequence: IN PROGRESS.**
 
+### DEV-02 — Developmental mechanisms and trajectories
+Canonical block:
+`research/psychology/qualification/10_developmental_psychology/DEV-02_developmental_mechanisms_transactions_cascades_context_susceptibility_causal_inference.md`
+
+Established:
+1. development is transactional and person↔environment influence must be distinguished from simple longitudinal correlation;
+2. parent-driven and child-driven pathways can coexist and vary by age/method/timescale;
+3. family, peer, school and community contexts are noninterchangeable developmental levels;
+4. peer similarity requires separation of selection from socialization/influence;
+5. developmental cascades require evidence for each temporally ordered link and cannot be inferred from correlated trajectories alone;
+6. cumulative burden, exposure type, timing, duration, recurrence and sensitive-period hypotheses must be compared explicitly;
+7. cumulative-risk counts are predictive summaries, not mechanistic dose measures;
+8. diathesis–stress, vantage sensitivity and differential susceptibility are distinct interaction models;
+9. large 2025 four-cohort IPD evidence favors additive effects in most tested infant-characteristic × parenting combinations and blocks default susceptibility claims;
+10. equifinality/multifinality prevent deterministic reconstruction or forecasting of developmental pathways;
+11. latent trajectory classes are model-dependent summaries rather than natural developmental types;
+12. cross-lagged, fixed-effect, within-person and mediation models remain assumption-bound and do not automatically identify causality;
+13. 72-question Developmental Trajectories / Transactions Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**DEV-02 — Developmental mechanisms and trajectories: transactional processes, developmental cascades, equifinality/multifinality, family/peer/school contexts, cumulative and timing effects, differential susceptibility, and causal inference.**
+**DEV-03 — Lifespan developmental transitions and aging: childhood/adolescence/emerging adulthood, adulthood/midlife, later life, role transitions, cognitive/social/personality trajectories, healthy aging, cohort/selection effects, and measurement boundaries.**
 
-Goal: establish how reciprocal person–environment transactions and cross-domain cascades generate divergent developmental pathways, while separating cumulative exposure, developmental timing, susceptibility, context and causal identification.
+Goal: extend the developmental framework across the full lifespan, separating normative age trends, role transitions, cohort/period effects, healthy aging and pathological decline, while preserving individual-trajectory and measurement uncertainty.
 
 Target domain:
 
