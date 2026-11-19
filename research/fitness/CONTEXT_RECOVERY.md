@@ -259,40 +259,44 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-03/PASS-01_glycolysis_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-03/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `2218b749e71544cf36af87c89b6a82c7c4a9b9d8`  
-Evidence ledger commit: `3c8aa36e54c32410e6c114ca59a3b79ec41aeda9`  
-Evidence ledger: `BIO03-01…BIO03-10` added with **closure audit pending** status.
+PASS commit: `e33f3cbd3ace3c4afa8be4c2365231ab278f69aa`  
+Canonical finding commit: `21e86067ef709ac48ad0e98f1aeff163eba1a943`  
+Evidence ledger commit: `16d0a7c91dc7a84e6116ab33b3092dddee4c8de9`  
+Evidence ledger: `BIO03-01…BIO03-10` finalized.
 
-BIO-03/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-03/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 3 coverage = **11/11 at content/scope level**;
+1. exact Area 05 Section 3 coverage = **11/11 PASS**;
 2. glycolysis is cytosolic and does not directly consume molecular O2;
-3. high glycolytic flux and lactate formation can occur in oxygenated skeletal muscle;
+3. “anaerobic glycolysis” remains only conventional shorthand and is not interpreted as proof of tissue anoxia;
 4. free glucose and muscle glycogen converge at G6P but differ in ATP entry cost;
-5. classic net glycolytic yield is 2 ATP from free glucose and 3 ATP for most glycogen-derived glucosyl units entering as G6P, with branch-point nuance;
-6. glycolytic ATP yield is distinct from glycolytic ATP-production rate and total downstream oxidative ATP yield;
-7. pyruvate is a branch-point metabolite rather than a uniquely “aerobic” product;
-8. LDH-mediated lactate formation regenerates cytosolic NAD+; mitochondrial redox shuttles provide another redox-handling route;
-9. lactate formation is not evidence of tissue anoxia;
-10. glycolytic ATP flux can rise rapidly during high-intensity work while phosphagen and oxidative pathways remain concurrently active;
-11. glycolytic rate can decline during continuing maximal work;
-12. high-intensity/resistance exercise can substantially reduce muscle glycogen, but depletion is protocol dependent and not equivalent to total exhaustion;
-13. low glycogen can impair some high-intensity tasks but is not a universal sole fatigue cause;
-14. glycogen repletion is time/nutrient dependent; exact carbohydrate prescription remains BIO-10/NUT;
-15. glycolytic enzyme content/activity is trainable but adaptation is protocol/enzyme specific and not a direct surrogate for in-vivo flux/performance;
-16. deep lactate transport/oxidation/shuttle/threshold work remains BIO-04;
-17. no content-level blocker remains;
-18. no canonical BIO-03 finding created because closure audit is still required.
+5. free glucose yields net 2 glycolytic ATP;
+6. most α-1,4 glycogen-derived glucosyl units entering through G1P→G6P yield net 3 ATP, while branch-point residues prevent treating 3 ATP as an exact whole-polymer average;
+7. glycolytic ATP yield, ATP-production rate and total downstream oxidative carbohydrate ATP yield are distinct;
+8. pyruvate is a branch-point metabolite;
+9. the LDH reaction is a downstream reversible redox reaction coupled to glycolysis rather than a core glycolytic step;
+10. lactate formation regenerates NAD+ and does not establish tissue anoxia;
+11. mitochondrial redox shuttles provide another route for cytosolic reducing-equivalent handling;
+12. glycolytic ATP flux can rise rapidly during high-intensity work;
+13. phosphagen, glycolytic and oxidative pathways operate concurrently;
+14. glycolytic rate can decline during ongoing maximal work;
+15. resistance/high-intensity exercise can substantially reduce muscle glycogen, but depletion is protocol/task dependent and not equivalent to complete glycogen exhaustion;
+16. low glycogen can impair some high-intensity tasks but is not a universal fatigue threshold;
+17. glycogen repletion is time/nutrient dependent; exact carbohydrate prescription remains BIO-10/NUT;
+18. glycolytic enzyme content/activity is trainable but adaptation is protocol/enzyme specific and not a direct surrogate for in-vivo flux or performance;
+19. BIO-04/05/06/08/10/11/12, TST, PRO and NUT boundaries remain intact;
+20. no project-relevant blocker remains;
+21. first canonical `BIO-03_glycolysis.md` created.
 
 ### Следующая задача
 
-**BIO-03/PASS-02 — Closure audit and synthesis.**
+**BIO-04/PASS-01 — Lactate metabolism content revalidation.**
 
-BIO-03 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start BIO-04 in this completed BIO-03/PASS-01 working block.**
+BIO-03 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-04 in this completed BIO-03 closure block.**
 
 ---
 
@@ -308,9 +312,9 @@ BIO-03 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-03/PASS-01_glycolysis_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-03/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-03/PASS-02 — Closure audit and synthesis** и остановиться перед BIO-04.
+Затем выполнить только записанный выше **BIO-04/PASS-01 — Lactate metabolism content revalidation** и остановиться перед следующим блоком.
 
 ---
 
