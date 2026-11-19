@@ -18,16 +18,15 @@ Use this file to recover work after a new chat or lost context.
 - Assistant role: **Kira**.
 - Branch: `research/psychology-foundation`.
 - Privacy mode: **NO PERSONAL DATA IN REPOSITORY**.
-- **Phase A methodology: CLOSED_FOR_PRACTICE v1.0 — final sufficiency audit 16/16 PASS.**
-- PSY-RES-10 identified and repaired one blocking gap: minimum statistical-inference control.
-- Next phase: **Phase B — Core psychological science**.
-- Next block: `COG-01 — Cognition foundations: architecture, scope, and core distinctions`.
-- Target directory: `research/psychology/qualification/03_cognitive_psychology/`.
+- Phase A methodology: **CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS**.
+- Phase B core psychological science: **IN PROGRESS**.
+- `COG-01`: **CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS**.
+- Next block: `COG-02 — Perception: sensory evidence, representations, and contextual/top-down effects`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/01_research_methodology/PSY-RES-10_methodology_sufficiency_audit.md`
+`research/psychology/qualification/03_cognitive_psychology/COG-01_cognition_foundations_architecture_scope_distinctions.md`
 
 ## Hard stop condition
 
