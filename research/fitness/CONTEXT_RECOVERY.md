@@ -129,8 +129,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-05 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 5 closure **8/8 PASS**;
 - BIO-06 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 6 closure **10/10 PASS**;
 - BIO-07 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 7 closure **10/10 PASS**;
-- BIO-08 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 8 coverage **10/10 at content/scope level**;
-- **CURRENT NEXT: BIO-08/PASS-02 — Closure audit and synthesis.**
+- BIO-08 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 8 closure **10/10 PASS**;
+- **CURRENT NEXT: BIO-09/PASS-01 — Oxygen uptake / aerobic contribution content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -180,35 +180,42 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-08/PASS-01_energy_system_interaction_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-08/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `60d4182d52424617134fe5186e8684bedbddff0e`
+PASS commit: `785a87581500a115320f0b555296b5b00547a77e`  
+Canonical finding commit: `e23da48c38e003a227e7f93514f688beb0c678c5`  
+Evidence ledger commit: `77ea8763cbc47b5acdbfb6a9b244177f1c99009a`  
+Evidence ledger: `BIO08-01…BIO08-10` finalized.
 
-BIO-08/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-08/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 8 coverage = **10/10 at content/scope level**;
-2. phosphagen, glycolytic and oxidative pathways retained as concurrently active/interacting rather than sequential isolated systems;
-3. dominant pathway separated from exclusive pathway;
+1. exact Area 05 Section 8 coverage = **10/10 PASS**;
+2. overlapping pathway model retained at whole-muscle/task level rather than literal equal non-zero flux in every fibre/instant;
+3. dominant pathway retained as relative rather than exclusive;
 4. intensity/duration retained as continuously redistributing contribution;
-5. no universal system-switch time retained;
-6. pooled ~78.6 s equal anaerobic/aerobic contribution estimate retained only as a method-dependent aggregate from maximal-exercise literature;
-7. energy-system percentages treated as method-conditioned estimates rather than direct universal measurements;
-8. repeated sets/sprints retained as starting from altered PCr/metabolite/VO2 states;
-9. repeated-sprint glycolytic contribution can fall while oxidative contribution rises despite maximal intent;
-10. prolonged low/moderate-intensity exercise retained as oxidative-dominant but not oxidative-exclusive;
-11. resistance exercise retained as metabolically mixed and protocol dependent;
-12. recovery intervals retained as metabolically active with oxidative support of PCr resynthesis/restoration;
-13. recovery oxidative metabolism kept distinct from EPOC as a complete construct;
-14. no content-level blocker found;
-15. no canonical BIO-08 finding or finalized BIO08 evidence-ledger rows created before PASS-02.
+5. no universal time-based system-switch chart retained;
+6. ~78.6 s equal anaerobic/aerobic contribution retained only as pooled regression estimate, not physiological threshold;
+7. energy-system percentages retained as method-conditioned estimates;
+8. blood lactate separated from direct glycolytic ATP flux;
+9. VO2 separated from total ATP production;
+10. repeated sets/sprints retained as starting from altered metabolic states;
+11. repeated-sprint glycolytic contribution can fall despite continued maximal intent;
+12. prolonged low/moderate-intensity exercise retained as oxidative-dominant but not oxidative-exclusive;
+13. resistance exercise retained as metabolically mixed and protocol dependent;
+14. recovery intervals retained as metabolically active;
+15. PCr resynthesis retained as oxidative but state/method dependent rather than universally O2-limited;
+16. no universal fixed PCr recovery duration retained;
+17. PCr resynthesis kept distinct from EPOC;
+18. integrated bout percentage kept distinct from instantaneous ATP flux;
+19. canonical `BIO-08_energy_system_interaction.md` created.
 
 ### Следующая задача
 
-**BIO-08/PASS-02 — Closure audit and synthesis.**
+**BIO-09/PASS-01 — Oxygen uptake / aerobic contribution content revalidation.**
 
-BIO-08 remains **not CLOSED_FOR_PRACTICE** after PASS-01. After the next one block, save state and STOP. **Do not start BIO-09 unless BIO-08/PASS-02 independently authorizes closure and the user later gives the next continue signal.**
+BIO-08 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-09 until the user gives the next continue signal.**
 
 ---
 
@@ -230,9 +237,9 @@ BIO-08 remains **not CLOSED_FOR_PRACTICE** after PASS-01. After the next one blo
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-08/PASS-01_energy_system_interaction_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-08/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-08/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-09/PASS-01 — Oxygen uptake / aerobic contribution content revalidation** и остановиться перед следующим блоком.
 
 ---
 
