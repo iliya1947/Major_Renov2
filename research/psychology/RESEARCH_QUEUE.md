@@ -8,12 +8,14 @@
 - **Phase A — Research and inference methodology: CLOSED_FOR_PRACTICE v1.0.**
 - **Phase B — Core psychological science: IN PROGRESS.**
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- **EXE sequence: IN PROGRESS.**
+- **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- **MET sequence: NEXT.**
 - **EXE-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE-05 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **EXE-06 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 
 ## Completed Phase A
 
@@ -57,33 +59,38 @@ Canonical block:
 Canonical block:
 `research/psychology/qualification/04_executive_functions_and_metacognition/EXE-05_performance_monitoring_error_conflict_adaptation_control_adjustment.md`
 
+### EXE-06 — Control allocation, cognitive effort, demand avoidance, and expected value of control
+Canonical block:
+`research/psychology/qualification/04_executive_functions_and_metacognition/EXE-06_control_allocation_cognitive_effort_demand_avoidance_expected_value.md`
+
 Established:
 
-1. performance monitoring is broader than error detection;
-2. internal monitoring != external feedback monitoring;
-3. error detection != conscious error awareness;
-4. error != conflict != surprise != uncertainty;
-5. monitoring signal != subsequent control adjustment;
-6. ERN/Ne and Pe are related but distinct error-related signals and are not unique direct readouts of awareness/control;
-7. ERP reliability is task/scoring specific and analytic pipelines remain highly heterogeneous;
-8. PES is a behavioral phenomenon, not a mechanism;
-9. PES can reflect adaptive caution/preparation or nonadaptive orienting/interruption;
-10. slowing must be linked to an explicit performance benefit before calling it adaptive;
-11. threshold, nondecision time, preparation, and other process changes can underlie PES;
-12. CSE != pure conflict adaptation;
-13. feature binding and contingency learning contribute to CSE, while confound-minimized CSE remains robust;
-14. CSE is stronger within task than between tasks and can reflect task-local plus smaller global components;
-15. objective congruency can trigger sequential adjustment independently of conflict magnitude in some paradigms;
-16. error awareness != confidence/metacognition as a whole;
-17. monitoring can occur without immediate adjustment, and adjustment can be absent, delayed, adaptive, or excessive;
-18. stable person-level monitoring claims require adequate event counts, reliability, repeated occasions, and cross-task evidence;
-19. a 48-question Performance Monitoring Inference Gate is canonical.
+1. control capacity != control allocation;
+2. control allocation != successful implementation;
+3. objective task demand != actual control exertion != subjective effort != aversiveness;
+4. task difficulty != cognitive effort by definition;
+5. the source of cognitive-effort cost remains theoretically unresolved across multiple live accounts;
+6. EVC is an influential normative/computational framework, not a final literal mechanism;
+7. expected payoff, efficacy, future learning value, and time horizon shape allocation;
+8. people do not universally minimize immediate effort;
+9. effort can be avoided, tolerated, or sometimes intrinsically valued depending on context;
+10. demand avoidance != a pure effort measure;
+11. DST and COG-ED are not interchangeable and show different psychometric properties;
+12. effort discounting can be confounded with delay, error probability, skill, and reward;
+13. opportunity-cost accounts remain live but do not explain all current evidence;
+14. control-state switching itself can carry effort cost;
+15. subjective effort and pupil/arousal measures are not direct control-intensity meters;
+16. skill, expertise, fatigue, boredom, effort beliefs, and intrinsic meaning can alter effort valuation;
+17. reducing task demand does not guarantee improved performance because effort can be conserved rather than redeployed;
+18. laboratory effort choice != real-world engagement without direct ecological validation;
+19. stable person-level effort/motivation claims require triangulation of capacity, allocation, subjective effort, performance, and repeated context;
+20. a 50-question Control Allocation / Effort Inference Gate is canonical.
 
 ## Current next action
 
-**EXE-06 — Control allocation, cognitive effort, demand avoidance, and expected value of control.**
+**MET-01 — Metacognition: monitoring, confidence, calibration, control, and first-order/second-order boundaries.**
 
-Goal: separate control capacity from willingness to deploy control; compare expected-value-of-control, effort-cost, demand-avoidance, opportunity-cost, and learning accounts; distinguish subjective effort from objective demand and define limits on person-level inference from effort choices.
+Goal: establish the architecture of metacognitive monitoring and control; distinguish confidence from accuracy, calibration from discrimination, error awareness from global metacognitive sensitivity, and first-order task performance from second-order insight; define measurement limits for confidence ratings, meta-d', calibration, and self-report.
 
 Target domain:
 
