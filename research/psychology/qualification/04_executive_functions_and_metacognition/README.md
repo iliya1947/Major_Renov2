@@ -12,6 +12,7 @@ This directory stores topic-level qualification material for **Executive functio
 4. `EXE-04_task_switching_cognitive_flexibility_reconfiguration.md` — local switch versus mixing costs, reconfiguration versus residual interference, cue/stimulus/response-set switching, stability/flexibility, voluntary switch readiness, measurement limits, and a reusable Task Switching / Flexibility Inference Gate.
 5. `EXE-05_performance_monitoring_error_conflict_adaptation_control_adjustment.md` — error/conflict/surprise monitoring, ERN/Pe limits, post-error slowing, congruency-sequence effects, adaptation versus awareness, measurement limits, and a reusable Performance Monitoring Inference Gate.
 6. `EXE-06_control_allocation_cognitive_effort_demand_avoidance_expected_value.md` — capacity versus allocation, objective demand versus subjective effort, EVC, demand avoidance/discounting, effort-cost theories, learning value, measurement limits, and a reusable Control Allocation / Effort Inference Gate.
+7. `MET-01_metacognition_monitoring_confidence_calibration_control.md` — first-order/second-order boundaries, confidence bias, calibration, metacognitive sensitivity/efficiency, local/global self-evaluation, prospective/retrospective judgments, task/self-report limits, and a reusable Metacognitive Inference Gate.
 
 ## Current domain status
 
@@ -22,7 +23,9 @@ This directory stores topic-level qualification material for **Executive functio
 - **EXE-05 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE-06 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
-- Next planned block: **MET-01 — Metacognition: monitoring, confidence, calibration, control, and first-order/second-order boundaries.**
+- **MET-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **MET sequence: IN PROGRESS.**
+- Next planned block: **MET-02 — Metacognitive control: information seeking, revision, abstention, strategy selection, and stopping rules.**
 
 ## Content rule
 
