@@ -21,12 +21,13 @@ Use this file to recover work after a new chat or lost context.
 - Phase A methodology: **CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS**.
 - Phase B core psychological science: **IN PROGRESS**.
 - `COG-01`: **CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS**.
-- Next block: `COG-02 — Perception: sensory evidence, representations, and contextual/top-down effects`.
+- `COG-02`: **CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS**.
+- Next block: `COG-03 — Attention: selection, priority, capture, sustained attention, and control interfaces`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/03_cognitive_psychology/COG-01_cognition_foundations_architecture_scope_distinctions.md`
+`research/psychology/qualification/03_cognitive_psychology/COG-02_perception_sensory_evidence_representations_context.md`
 
 ## Hard stop condition
 
