@@ -54,8 +54,9 @@ Canonical ETH storage: `research/psychology/qualification/25_ethics_individualiz
 INT-01 — cross-domain contradiction audit: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
 INT-02 — evidence-to-individual transfer rules: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
 INT-03 — analytic error taxonomy: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
+INT-04 — reusable reasoning checklists: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
 Blocking canonical contradictions: **0**.  
-Next block: **INT-04 — reusable reasoning checklists**.  
+Next block: **INT-05 — final sufficiency audit for project purpose**.  
 Canonical integration storage: `research/psychology/qualification/26_integration/`.
 
 Sequence:
@@ -63,8 +64,8 @@ Sequence:
 1. cross-domain contradiction audit — **complete**;
 2. evidence-to-individual transfer rules — **complete**;
 3. analytic error taxonomy — **complete**;
-4. reusable reasoning checklists — **next**;
-5. final sufficiency audit.
+4. reusable reasoning checklists — **complete**;
+5. final sufficiency audit — **next**.
 
 ## 4. Правило qualification block
 
@@ -92,6 +93,10 @@ Generic protocol:
 `purpose -> minimal proposition -> claim type -> provenance -> direct/proxy -> measurement -> population prior -> applicability -> individual evidence -> alternatives -> contradictions -> dependence -> prediction/test -> evidence level -> confidence -> stakes/use permission -> model update / no update -> monitoring/revision`.
 
 Canonical transfer rules: `qualification/26_integration/INT-02_evidence_to_individual_transfer_provenance_applicability_confidence_model_update.md`.
+
+Operational checklist layer: `qualification/26_integration/INT-04_reusable_reasoning_checklists_fast_routing_deep_gate_escalation_pre_response.md`.
+
+Default private reasoning route: `C0 preflight -> minimum triggered checklist(s) -> deep gate if triggered -> C12 final pre-response audit`.
 
 Для значимого изменения использовать `PRIVATE_MODEL_UPDATE_CARD.md` как структуру, но **не коммитить заполненную карточку**.
 
