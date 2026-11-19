@@ -130,8 +130,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-06 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 6 closure **10/10 PASS**;
 - BIO-07 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 7 closure **10/10 PASS**;
 - BIO-08 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 8 closure **10/10 PASS**;
-- BIO-09 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 9 coverage **9/9 at content/scope level**;
-- **CURRENT NEXT: BIO-09/PASS-02 — Closure audit and synthesis.**
+- BIO-09 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 9 closure **9/9 PASS**;
+- **CURRENT NEXT: BIO-10/PASS-01 — Substrate depletion and repletion content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -181,37 +181,41 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-09/PASS-01_oxygen_uptake_aerobic_contribution_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-09/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `b93d2a48bf7785b8183ba046d87179ba55414b68`
+PASS commit: `7ecf6a1c22f086b2418a571d7c0b90ce3b7a5b7d`  
+Canonical finding commit: `a9f77b07f666202fd8ce239de17b0e0c7ea009f7`  
+Evidence ledger commit: `6e8a79ebeb3f85703a5d2c9ad24c3a36226b7927`  
+Evidence ledger: `BIO09-01…BIO09-09` finalized.
 
-BIO-09/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-09/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 9 coverage = **9/9 at content/scope level**;
-2. VO2 retained as integrated whole-body oxygen-consumption flux rather than direct muscle ATP production;
-3. oxygen deficit retained as an indirect/model-derived transient construct rather than literal whole-body O2 shortage;
-4. pulmonary VO2 and local muscle VO2 kept non-equivalent during transitions;
-5. VO2 kinetics retained as intensity-, state-, analysis- and model-dependent;
-6. moderate/heavy/severe steady-state behavior explicitly separated;
-7. VO2 slow component retained as a real phenomenon while its exact mechanism remains unresolved;
-8. VO2max retained as integrated oxygen-cascade capacity; VO2peak kept operationally distinct;
-9. plateau and verification methods retained as protocol-dependent rather than infallible universal criteria;
-10. aerobic contribution retained during high-intensity exercise;
-11. EPOC retained as multi-process recovery oxygen consumption, not PCr resynthesis or one simple oxygen debt;
-12. EPOC magnitude/duration retained as dose/protocol dependent and not a universally large calorie effect;
-13. between-bout recovery retained as oxidatively active without equating elevated VO2 to complete recovery;
-14. O2 delivery, extraction and mitochondrial utilization kept distinct;
-15. VO2max limitation retained as context/training-state dependent;
-16. no content-level blocker found;
-17. no canonical BIO-09 finding or finalized BIO09 evidence-ledger rows created before PASS-02.
+1. exact Area 05 Section 9 coverage = **9/9 PASS**;
+2. VO2 retained as integrated oxygen-consumption flux, not direct local ATP production;
+3. oxygen deficit retained as indirect/model-derived transition-energy construct;
+4. pulmonary and muscle VO2 kept coupled but non-identical during transitions;
+5. VO2 kinetics retained as state/intensity/analysis dependent;
+6. VO2 slow component retained as established phenomenon with unresolved exact mechanism;
+7. moderate/heavy/severe domains retained with distinct steady-state behavior;
+8. CP and MLSS not treated as perfectly interchangeable individual boundary markers;
+9. VO2max retained as integrated oxygen-cascade capacity;
+10. VO2peak kept operationally distinct from confirmed VO2max;
+11. plateau and verification evidence retained as supportive but protocol dependent, not infallible universal criteria;
+12. high-intensity exercise retained as having non-zero/increasing aerobic contribution;
+13. EPOC retained as multi-process recovery oxygen consumption rather than one simple oxygen debt or PCr resynthesis;
+14. no universal large EPOC calorie effect retained;
+15. between-bout recovery retained as oxidatively active without equating high VO2 to complete recovery;
+16. O2 delivery, extraction and mitochondrial utilization kept distinct;
+17. dominant VO2max/VO2-kinetics limitation retained as population/training-state dependent;
+18. canonical `BIO-09_oxygen_uptake_aerobic_contribution.md` created.
 
 ### Следующая задача
 
-**BIO-09/PASS-02 — Closure audit and synthesis.**
+**BIO-10/PASS-01 — Substrate depletion and repletion content revalidation.**
 
-BIO-09 remains **not CLOSED_FOR_PRACTICE** after PASS-01. After the next one block, save state and STOP. **Do not start BIO-10 unless BIO-09/PASS-02 independently authorizes closure and the user later gives the next continue signal.**
+BIO-09 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-10 until the user gives the next continue signal.**
 
 ---
 
@@ -233,9 +237,9 @@ BIO-09 remains **not CLOSED_FOR_PRACTICE** after PASS-01. After the next one blo
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-09/PASS-01_oxygen_uptake_aerobic_contribution_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-09/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-09/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-10/PASS-01 — Substrate depletion and repletion content revalidation** и остановиться перед следующим блоком.
 
 ---
 
