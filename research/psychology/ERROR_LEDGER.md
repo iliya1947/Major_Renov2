@@ -30,6 +30,17 @@
 | ERR-020 | Domain averaging | Реальные competing theories или разные constructs могут быть искусственно усреднены ради единой истории | Distinguish scope/level collision from genuine empirical tension; preserve unresolved alternatives | ACTIVE |
 | ERR-021 | Evidence-hierarchy absolutism | Один тип evidence может быть объявлен универсально высшим независимо от target claim | Claim-specific evidence routing; no universal biological/self-report/RCT hierarchy | ACTIVE |
 
+| ERR-022 | Provenance loss | Индивидуальная proposition сохраняется, а исходный raw source уже нельзя восстановить | Mandatory provenance field; downgrade/reopen proposition when provenance is lost | ACTIVE |
+| ERR-023 | Private-model recursion | Existing model proposition начинает подтверждать сама себя через последующую интерпретацию неоднозначных данных | Trace support back to raw observations and generic evidence; model output is derived evidence | ACTIVE |
+| ERR-024 | Applicability shortcut | Strong population evidence переносится при mismatch construct/population/context/timescale/use | Explicit applicability chain before person transfer | ACTIVE |
+| ERR-025 | Directness illusion | Direct observation behavior принимается за direct evidence motive/trait/mechanism | Directness is claim-relative; type inferential links | ACTIVE |
+| ERR-026 | Evidence-count inflation | Retellings, correlated sources, same-method measures or repeated AI outputs считаются независимыми подтверждениями | Evidence-dependency graph + source/method independence check | ACTIVE |
+| ERR-027 | Confidence inheritance | Downstream proposition наследует confidence исходной premise несмотря на дополнительные inference links | Assign confidence per proposition; propagate critical-premise uncertainty | ACTIVE |
+| ERR-028 | Model-update overfitting | Stable private architecture меняется после каждого local/state observation | No-update option + state/context/timescale gate + change-severity level | ACTIVE |
+| ERR-029 | Model-update inertia | Сильное противоречие игнорируется, потому что старая модель связная и привычная | Mandatory contradiction path + weaken/split/retire options + dependency propagation | ACTIVE |
+| ERR-030 | Use-permission conflation | Сильная evidence принимается за разрешение использовать proposition для любой цели/high-stakes decision | Separate confidence/evidence from stakes and use-permission state | ACTIVE |
+| ERR-031 | Discriminating-test neglect | Собираются новые descriptive details без вопроса, какое evidence реально различит H1/H2 | Information-value gate + prospective discriminating prediction | ACTIVE |
+
 ## Обязательная regression check
 
 Перед сильным персональным выводом в приватном проекте проверить минимум:
