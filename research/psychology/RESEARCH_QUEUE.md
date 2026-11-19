@@ -7,6 +7,7 @@
 - No personal data stored.
 - **Phase A — Research and inference methodology: CLOSED_FOR_PRACTICE v1.0.**
 - **Phase B — Core psychological science: COMPLETE_FOR_CURRENT_SCOPE.**
+- **Phase C — Applied and clinical interfaces: IN PROGRESS.**
 - **COG foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
@@ -22,6 +23,8 @@
 - **PSYCHOMETRICS-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PSYCHOMETRICS-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **PSYCHOMETRICS-03 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
+- **CLN sequence: IN PROGRESS.**
+- **CLN-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -792,11 +795,36 @@ Established:
 
 **Phase B — Core psychological science: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase C / CLN in progress
+
+### CLN-01 — Psychopathology foundations
+
+Canonical block:
+`research/psychology/qualification/12_psychopathology/CLN-01_psychopathology_foundations_symptom_syndrome_disorder_impairment_dimensions_comorbidity_differential_validity.md`
+
+Established:
+
+1. symptom, sign, syndrome, disorder, diagnosis, formulation and mechanism are distinct;
+2. DSM-5-TR and ICD-11/CDDR are clinical classification anchors rather than causal ontologies;
+3. distress, impairment, dysfunction and risk are separate clinical-significance dimensions;
+4. categorical decisions can be imposed on continuous psychopathology dimensions without implying natural biological boundaries;
+5. reliability, validity and clinical utility of a diagnosis are nonidentical;
+6. heterogeneity and comorbidity require decomposition rather than automatic disease counting;
+7. HiTOP provides dimensional hierarchical organization but is not formal DSM/ICD diagnosis or causal theory;
+8. the p factor must not be reified as one universal psychopathology mechanism;
+9. RDoC is an NIMH research framework, explicitly not a diagnostic guide;
+10. differential inference requires medical, substance/medication, developmental, contextual and psychiatric alternatives;
+11. screening and diagnosis are separated and base-rate reasoning is required;
+12. symptom-level research still requires psychometric validation;
+13. a 78-question Psychopathology Foundations Inference Gate and 18/18 closure audit are canonical.
+
+**CLN sequence: IN PROGRESS.**
+
 ## Current next action
 
-**CLN-01 — Psychopathology foundations: symptom, syndrome, disorder, impairment, dimensional and categorical models, comorbidity, differential inference, and diagnostic validity limits.**
+**CLN-02 — Psychopathology mechanisms and course: transdiagnostic processes, onset/maintenance/remission, recurrence, risk/protective factors, state-trait separation, and causal-model limits.**
 
-Goal: begin Phase C by establishing a scientifically defensible psychopathology framework that separates symptoms, syndromes, diagnosis, mechanisms, impairment, dimensional variation, comorbidity and differential inference.
+Goal: close the mechanism/course dependency left open by CLN-01 without building a disorder-by-disorder encyclopedia.
 
 Target domain:
 
