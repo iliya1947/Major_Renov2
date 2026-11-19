@@ -29,6 +29,7 @@ Use this file to recover work after a new chat or lost context.
 - STR sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - SOC sequence: **IN PROGRESS**.
 - `SOC-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `SOC-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `STR-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `STR-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `STR-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -47,13 +48,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `SOC-02 — Empathy and interpersonal accuracy: cognitive/affective empathy, emotional contagion, compassion/empathic concern, perspective taking, self–other distinction, empathic accuracy, context, and measurement validity`.
+- Next block: `SOC-03 — Social categorization, stereotypes, prejudice, implicit/explicit bias, individuating information, intergroup perception, and measurement boundaries`.
 - Target directory: `research/psychology/qualification/08_social_psychology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/08_social_psychology/SOC-01_social_cognition_person_perception_attribution_mentalizing_context_bias_measurement.md`
+`research/psychology/qualification/08_social_psychology/SOC-02_empathy_interpersonal_accuracy_contagion_compassion_self_other_measurement.md`
 
 ## Hard stop condition
 
