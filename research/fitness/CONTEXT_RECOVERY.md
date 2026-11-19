@@ -259,44 +259,42 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-03/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-04/PASS-01_lactate_metabolism_revalidation.md`
 
-PASS commit: `e33f3cbd3ace3c4afa8be4c2365231ab278f69aa`  
-Canonical finding commit: `21e86067ef709ac48ad0e98f1aeff163eba1a943`  
-Evidence ledger commit: `16d0a7c91dc7a84e6116ab33b3092dddee4c8de9`  
-Evidence ledger: `BIO03-01…BIO03-10` finalized.
+PASS commit: `4610420953e731968e525ec93b06f60e2803b97b`  
+Evidence ledger commit: `c303c296f278cf164b9980a1acb572fdede86306`  
+Evidence ledger: `BIO04-01…BIO04-09` added with **closure audit pending** status.
 
-BIO-03/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-04/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 05 Section 3 coverage = **11/11 PASS**;
-2. glycolysis is cytosolic and does not directly consume molecular O2;
-3. “anaerobic glycolysis” remains only conventional shorthand and is not interpreted as proof of tissue anoxia;
-4. free glucose and muscle glycogen converge at G6P but differ in ATP entry cost;
-5. free glucose yields net 2 glycolytic ATP;
-6. most α-1,4 glycogen-derived glucosyl units entering through G1P→G6P yield net 3 ATP, while branch-point residues prevent treating 3 ATP as an exact whole-polymer average;
-7. glycolytic ATP yield, ATP-production rate and total downstream oxidative carbohydrate ATP yield are distinct;
-8. pyruvate is a branch-point metabolite;
-9. the LDH reaction is a downstream reversible redox reaction coupled to glycolysis rather than a core glycolytic step;
-10. lactate formation regenerates NAD+ and does not establish tissue anoxia;
-11. mitochondrial redox shuttles provide another route for cytosolic reducing-equivalent handling;
-12. glycolytic ATP flux can rise rapidly during high-intensity work;
-13. phosphagen, glycolytic and oxidative pathways operate concurrently;
-14. glycolytic rate can decline during ongoing maximal work;
-15. resistance/high-intensity exercise can substantially reduce muscle glycogen, but depletion is protocol/task dependent and not equivalent to complete glycogen exhaustion;
-16. low glycogen can impair some high-intensity tasks but is not a universal fatigue threshold;
-17. glycogen repletion is time/nutrient dependent; exact carbohydrate prescription remains BIO-10/NUT;
-18. glycolytic enzyme content/activity is trainable but adaptation is protocol/enzyme specific and not a direct surrogate for in-vivo flux or performance;
-19. BIO-04/05/06/08/10/11/12, TST, PRO and NUT boundaries remain intact;
-20. no project-relevant blocker remains;
-21. first canonical `BIO-03_glycolysis.md` created.
+1. exact Area 05 Section 4 coverage = **9/9 at content/scope level**;
+2. lactate is a recyclable metabolic intermediate/fuel rather than metabolic waste;
+3. lactate production, net tissue release, circulating appearance/disappearance and blood concentration are distinct;
+4. blood [lactate] is a dynamic balance variable rather than a direct production-flux measure;
+5. lactate oxidation is a major route of disposal during exercise and lactate-derived carbon can materially support oxidative metabolism;
+6. cell-cell/interorgan lactate shuttling is strongly supported;
+7. exact intracellular mitochondrial lactate-shuttle topology remains debated and is not hard-coded;
+8. MCT1/MCT4 mediate proton-coupled gradient-dependent transport; typical MCT1-uptake/MCT4-efflux roles are physiological biases, not irreversible directions;
+9. lactate thresholds/turnpoints are method-defined constructs and must be named;
+10. fixed 4 mmol/L is not a universal individual physiological threshold;
+11. MLSS is protocol/criterion dependent;
+12. blood lactate and intramuscular lactate are related but non-equivalent;
+13. blood lactate is not a direct universal measure of local glycolytic ATP flux;
+14. lactate accumulation does not cause DOMS;
+15. lactate itself is not the sole cause of fatigue;
+16. lactate alone lacks specificity as a fatigue/readiness biomarker;
+17. acid-base causation remains BIO-05;
+18. detailed threshold testing/programming remains BIO-09/TST/PRO;
+19. no content-level blocker remains;
+20. no canonical BIO-04 finding created because closure audit is still required.
 
 ### Следующая задача
 
-**BIO-04/PASS-01 — Lactate metabolism content revalidation.**
+**BIO-04/PASS-02 — Closure audit and synthesis.**
 
-BIO-03 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-04 in this completed BIO-03 closure block.**
+BIO-04 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start BIO-05 in this completed BIO-04/PASS-01 working block.**
 
 ---
 
@@ -312,9 +310,9 @@ BIO-03 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-03/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-04/PASS-01_lactate_metabolism_revalidation.md`
 
-Затем выполнить только записанный выше **BIO-04/PASS-01 — Lactate metabolism content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-04/PASS-02 — Closure audit and synthesis** и остановиться перед BIO-05.
 
 ---
 
