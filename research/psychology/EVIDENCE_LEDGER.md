@@ -22,6 +22,11 @@
 | PSY-G16 | Executive-function weakness is not a diagnostic biomarker for ADHD or autism | NDEV-01; EXE; PSYCHOMETRICS | HIGH | NDEV cognitive-profile inference | ACCEPTED |
 | PSY-G17 | Camouflaging/masking can alter observability but is neither absence-of-autism evidence nor diagnostic proof of autism | NDEV-01 | HIGH | Autism assessment / late recognition | ACCEPTED |
 | PSY-G18 | ADHD and autism may co-occur; overlapping manifestations must not be double counted without independent evidence | NDEV-01 | HIGH | ADHD–autism differential | ACCEPTED |
+| PSY-G19 | Intellectual disability requires both intellectual-function and adaptive-function evidence; IQ alone is insufficient | NDEV-02; WHO ICD-11; AAIDD | HIGH | Intellectual-developmental inference | ACCEPTED |
+| PSY-G20 | Pragmatic-language difficulty alone does not establish autism; developmental language/SCD/ADHD/acquired alternatives remain | NDEV-02 | HIGH | Social-communication differential | ACCEPTED |
+| PSY-G21 | Poor academic performance or one low score does not establish developmental learning disorder | NDEV-02; PSYCHOMETRICS | HIGH | Learning-disorder inference | ACCEPTED |
+| PSY-G22 | Generic clumsiness does not establish DCD; independent motor evidence and neurological/sensory exclusions are required | NDEV-02 | HIGH | Motor-developmental inference | ACCEPTED |
+| PSY-G23 | Repetitive movement is not automatically a tic, compulsion, stereotypy, or habit; phenomenology/function/course must discriminate | NDEV-02 | HIGH | Tic/repetitive-behavior differential | ACCEPTED |
 
 ## Правила
 
