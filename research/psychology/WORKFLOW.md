@@ -52,15 +52,16 @@ Canonical ETH storage: `research/psychology/qualification/25_ethics_individualiz
 Статус: **IN PROGRESS**.
 
 INT-01 — cross-domain contradiction audit: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
+INT-02 — evidence-to-individual transfer rules: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**.  
 Blocking canonical contradictions: **0**.  
-Next block: **INT-02 — evidence-to-individual transfer rules**.  
+Next block: **INT-03 — analytic error taxonomy**.  
 Canonical integration storage: `research/psychology/qualification/26_integration/`.
 
 Sequence:
 
 1. cross-domain contradiction audit — **complete**;
-2. evidence-to-individual transfer rules — **next**;
-3. analytic error taxonomy;
+2. evidence-to-individual transfer rules — **complete**;
+3. analytic error taxonomy — **next**;
 4. reusable reasoning checklists;
 5. final sufficiency audit.
 
@@ -87,7 +88,9 @@ Sequence:
 
 Generic protocol:
 
-`observation -> candidate explanations -> contradiction check -> generic evidence -> individual evidence -> inference -> confidence -> model update / no update`.
+`purpose -> minimal proposition -> claim type -> provenance -> direct/proxy -> measurement -> population prior -> applicability -> individual evidence -> alternatives -> contradictions -> dependence -> prediction/test -> evidence level -> confidence -> stakes/use permission -> model update / no update -> monitoring/revision`.
+
+Canonical transfer rules: `qualification/26_integration/INT-02_evidence_to_individual_transfer_provenance_applicability_confidence_model_update.md`.
 
 Для значимого изменения использовать `PRIVATE_MODEL_UPDATE_CARD.md` как структуру, но **не коммитить заполненную карточку**.
 
