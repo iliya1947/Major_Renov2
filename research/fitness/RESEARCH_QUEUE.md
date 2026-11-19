@@ -206,14 +206,16 @@
 - Dual-task cost is not a pure automaticity metric; automaticity remains graded and task specific.
 - Direct compound-lift attentional-focus retention/transfer evidence remains sparse.
 - First canonical NEU-14 finding created as v2.0 because no legacy finding existed in the current branch.
-- **NEU-15 — RESEARCHING.**
+- **NEU-15 — CLOSED_FOR_PRACTICE v2.0.**
 - NEU-15/PASS-01 feedback content revalidation completed 2026-11-19; exact Area 04 Section 15 coverage = **15/15 at content level**.
-- KR/KP, feedback modality, timing and schedule are separated; prescriptive-vs-descriptive KP is closure-critical.
-- Universal reduced-feedback-frequency superiority was rejected: 2022 meta-analysis found no robust frequency effect or acquisition-to-retention reversal.
-- Concurrent feedback can improve guided practice while terminal/delayed or learner-controlled feedback can improve no-feedback retention in some tasks; no universal timing rule is retained.
-- Self-controlled feedback is promising for retention/transfer but publication-bias/heterogeneity concerns remain.
-- Direct RT feedback improves acute performance and has limited squat-retention evidence, but does not define one optimal compound-lift feedback schedule.
-- CURRENT NEXT: **NEU-15/PASS-02 — Closure audit and synthesis.**
+- NEU-15/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 15 coverage = **15/15 PASS** and no project-relevant blocker remains.
+- KR/KP, descriptive/prescriptive KP, modality, timing, frequency and schedule remain separate feedback dimensions.
+- Universal reduced-feedback-frequency superiority / simple guidance-hypothesis rule remains rejected; feedback frequency alone does not predict learning.
+- Faded, bandwidth, summary and self-controlled feedback remain conditional strategies rather than universal optima.
+- Feedback dependency must be demonstrated after withdrawal; learner error estimation is retained as a key moderator of feedback use.
+- Direct visual-feedback squat retention evidence exists, but exact compound-lift feedback architecture remains unresolved.
+- First canonical NEU-15 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **NEU-16/PASS-01 — Cueing content revalidation.**
 
 ## История текущего revalidation cycle
 
