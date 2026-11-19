@@ -26,10 +26,11 @@ Use this file to recover work after a new chat or lost context.
 - LEA sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - MOT sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - AFF sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- STR sequence: **IN PROGRESS**.
+- STR sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - `STR-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `STR-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `STR-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `STR-04`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - `AFF-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `AFF-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `AFF-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -44,13 +45,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `STR-04 — Stress, coping, and resilience integration/sufficiency audit: stressor/appraisal/physiology, coping fit, allostasis, resilience processes, trajectories, measurement, and cross-domain boundaries`.
-- Target directory: `research/psychology/qualification/15_stress_trauma_and_adaptation/`.
+- Next block: `SOC-01 — Social cognition foundations: person perception, attribution, mentalizing, social inference, context, bias, and measurement boundaries`.
+- Target directory: `research/psychology/qualification/08_social_psychology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/15_stress_trauma_and_adaptation/STR-03_coping_resilience_controllability_flexibility_support_resources_trajectories_measurement.md`
+`research/psychology/qualification/15_stress_trauma_and_adaptation/STR-04_stress_coping_resilience_integration_sufficiency_audit.md`
 
 ## Hard stop condition
 
