@@ -13,6 +13,7 @@ This directory stores topic-level qualification material for **Cognitive psychol
 5. `COG-05_long_term_memory_encoding_consolidation_retrieval_reconstruction.md` — declarative memory architecture, encoding/consolidation/retrieval separation, episodic/semantic structure, recognition/recollection/familiarity, forgetting, reconstruction, autobiographical-memory limits, reconsolidation boundaries, and a reusable Long-Term Memory Inference Gate.
 6. `COG-06_semantic_cognition_concepts_representation_control.md` — semantic representation/control, concepts/categories, categorization models, abstraction, concrete/abstract concepts, semantic relations, task impurity, and a reusable Semantic Cognition Inference Gate.
 7. `COG-07_reasoning_inference_deduction_induction_probability_causality.md` — descriptive/normative reasoning boundaries, deduction, induction, probability, relational/analogical inference, causal/counterfactual reasoning, dual-process limits, bounded rationality, and a reusable Reasoning Inference Gate.
+8. `COG-08_language_lexical_syntax_comprehension_production_prediction_thought.md` — lexical/morphosyntactic processing, comprehension/production, prediction, pragmatics, multilingualism, language–thought boundaries, task impurity, and a reusable Language Inference Gate.
 
 ## Current domain status
 
@@ -23,7 +24,9 @@ This directory stores topic-level qualification material for **Cognitive psychol
 - **COG-05 — CLOSED_FOR_PRACTICE v1.0 — 17/17 PASS.**
 - **COG-06 — CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS.**
 - **COG-07 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- Next planned block: **COG-08 — Language: lexical, semantic, syntactic, comprehension/production, prediction, and language–thought boundaries.**
+- **COG-08 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- Planned COG foundation sequence is complete for current qualification scope.
+- Next domain: **EXE — Executive functions and cognitive control.**
 
 ## Content rule
 
