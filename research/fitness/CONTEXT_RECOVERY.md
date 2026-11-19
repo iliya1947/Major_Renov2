@@ -126,8 +126,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-02 — **CLOSED_FOR_PRACTICE v2.0**;
 - BIO-03 — **CLOSED_FOR_PRACTICE v2.0**;
 - BIO-04 — **CLOSED_FOR_PRACTICE v2.0**;
-- BIO-05/PASS-01 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; exact Section 5 content coverage **8/8**;
-- **CURRENT NEXT: BIO-05/PASS-02 — Closure audit and synthesis.**
+- BIO-05 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 5 closure **8/8 PASS**;
+- **CURRENT NEXT: BIO-06/PASS-01 — Oxidative phosphorylation / mitochondria content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -177,65 +177,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-05/PASS-01_acid_base_buffering_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-05/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `c8cffac5cae5d0279c841cede68726d3bacf0bf1`
+PASS commit: `50eb50ea7977860811df3199937ebdd6ec53da1f`  
+Canonical finding commit: `9449105d823af68c8e1014d5d2639814489bb429`  
+Evidence ledger commit: `1645b62ac55e81220beb2f3ca88bb0d8786c4768`  
+Evidence ledger: `BIO05-01…BIO05-09` finalized.
 
-BIO-05/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
-
-Content result:
-
-1. exact Area 05 Section 5 coverage = **8/8 at content/scope level**;
-2. muscle/interstitial/blood pH separated;
-3. exercise acidosis treated as integrated ATP-turnover/physicochemical/buffering/transport state;
-4. lactate ≠ H+ and lactate formation ≠ direct lactic-acid dissociation;
-5. intracellular buffering separated from H+ equivalent efflux;
-6. extracellular bicarbonate system retained without reducing acid–base physiology to bicarbonate alone;
-7. MCT/NHE1/bicarbonate transport retained as parallel pH-regulation pathways;
-8. severe acidosis can contribute to fatigue but is not the sole mechanism;
-9. exercise burn is not attributed to lactate alone;
-10. pH recovery separated from lactate disappearance;
-11. no universal pH failure threshold or recovery time retained;
-12. supplementation prescription remains NUT; exact work:rest remains BIO-12/PRO.
-
-PASS commit: `15f2a10b3e6290b89800e8abcd1980f782f2e669`  
-Canonical finding commit: `7667eb4e8371cb11a647096aadce1ca408f1f419`  
-Evidence ledger commit: `e7e8a0393dad80b1cea118c0ff866565f0a651cb`  
-Evidence ledger: `BIO04-01…BIO04-09` finalized.
-
-BIO-04/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-05/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
 Closure result:
 
-1. exact Area 05 Section 4 coverage = **9/9 PASS**;
-2. lactate is a recyclable metabolic intermediate/fuel rather than waste;
-3. lactate production, net tissue release, circulating appearance/disappearance and blood concentration are distinct;
-4. blood [lactate] is a balance/state variable rather than a direct production flux;
-5. “clearance” is acceptable shorthand but disappearance/disposal is preferred mechanistically;
-6. lactate oxidation is a major exercise fate;
-7. cell-cell/interorgan lactate shuttling is strongly supported;
-8. exact intracellular mitochondrial lactate-shuttle topology remains contested and is not hard-coded;
-9. MCT1/MCT4 transport is proton-coupled and gradient/state dependent;
-10. typical MCT1-uptake/MCT4-efflux roles are directional biases rather than irreversible directions;
-11. lactate threshold/turnpoint methods must be named;
-12. fixed 4 mmol/L is not a universal individual threshold;
-13. MLSS is protocol/criterion dependent;
-14. CP/MLSS/threshold constructs are related but not automatically interchangeable;
-15. blood lactate and intramuscular lactate are non-equivalent;
-16. blood lactate is not a universal direct measure of local glycolytic ATP flux, though validated model-based estimates can be useful in defined settings;
-17. lactate does not cause DOMS;
-18. lactate is not the sole cause of fatigue;
-19. lactate alone lacks specificity as a fatigue/readiness biomarker;
-20. detailed acid-base causation remains BIO-05;
-21. threshold testing/programming remains BIO-09/TST/PRO;
-22. no project-relevant blocker remains;
-23. first canonical `BIO-04_lactate_metabolism.md` created.
+1. exact Area 05 Section 5 coverage = **8/8 PASS**;
+2. muscle/interstitial/blood pH remain non-equivalent compartments;
+3. exercise acidification uses a dual biochemical + physicochemical model rather than one-cause “lactic acid” or ATP-hydrolysis-only explanations;
+4. lactate ≠ H+, while lactate can still participate through transport/strong-ion effects;
+5. intracellular buffering ≠ proton efflux;
+6. bicarbonate/CO2 is major extracellular acid–base machinery but not the whole system;
+7. MCT/NHE/bicarbonate transport all contribute to pH regulation;
+8. pH recovery ≠ lactate disappearance;
+9. severe acidosis can contribute to force/power fatigue but is not the sole cause;
+10. exercise burn is not a lactate sensor;
+11. no universal critical pH, acid-clearance time or rest prescription is retained;
+12. canonical `BIO-05_acid_base_buffering.md` created.
 
 ### Следующая задача
 
-**BIO-05/PASS-02 — Closure audit and synthesis.**
+**BIO-06/PASS-01 — Oxidative phosphorylation / mitochondria content revalidation.**
 
-BIO-04 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-05 in this completed BIO-04 closure block.**
+BIO-05 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-06 in this completed BIO-05 closure block.**
 
 ---
 
@@ -259,7 +229,7 @@ BIO-04 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 `research/fitness/passes/05_bioenergetics/BIO-04/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-05/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **BIO-06/PASS-01 — Oxidative phosphorylation / mitochondria content revalidation** и остановиться перед следующим блоком.
 
 ---
 
