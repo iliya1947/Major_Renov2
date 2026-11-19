@@ -29,6 +29,8 @@ Use this file to recover work after a new chat or lost context.
 - STR sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - SOC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - PER sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
+- DEV sequence: **IN PROGRESS**.
+- `DEV-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PER-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PER-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PER-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -56,13 +58,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `DEV-01 — Developmental foundations: age, maturation, developmental timing, sensitive periods, continuity/change, plasticity, cohort effects, and measurement boundaries`.
-- Target directory: `research/psychology/qualification/07_personality_and_individual_differences/`.
+- Next block: `DEV-02 — Developmental mechanisms and trajectories: transactional processes, developmental cascades, equifinality/multifinality, family/peer/school contexts, cumulative and timing effects, differential susceptibility, and causal inference`.
+- Target directory: `research/psychology/qualification/10_developmental_psychology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/07_personality_and_individual_differences/PER-04_personality_individual_differences_integration_sufficiency_audit.md`
+`research/psychology/qualification/10_developmental_psychology/DEV-01_developmental_foundations_age_maturation_timing_sensitive_periods_continuity_cohort_measurement.md`
 
 ## Hard stop condition
 
