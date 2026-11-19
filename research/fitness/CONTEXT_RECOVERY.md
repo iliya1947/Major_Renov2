@@ -179,7 +179,9 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-06 — CLOSED_FOR_PRACTICE v2.0**.
 
-Текущая тема: **NEU-07 — Bilateral effects / cross-education — RESEARCHING**.
+Последняя закрытая тема: **NEU-07 — CLOSED_FOR_PRACTICE v2.0**.
+
+Следующая тема: **NEU-08 — Neuromuscular fatigue — NOT STARTED**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -229,30 +231,32 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-07/PASS-01_bilateral_effects_cross_education_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-07/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `4d01c0f6e59d32aa39d493359e0f5c7b914e70b4`
+PASS commit: `2b63348ec1f4483020810d0b433bed82aaa3e328`  
+Canonical finding commit: `c18c7791fca17c932af1c10fedcbc482e17675c3`
 
-NEU-07/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+NEU-07/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 04 Section 7 coverage = **7/7 at content level**;
-2. bilateral deficit/facilitation are task/test/training-specific bilateral-index phenomena rather than fixed neural traits;
-3. unilateral vs bilateral strength adaptation follows specificity;
-4. cross-education reliably transfers some strength to the contralateral untrained limb, with variable magnitude;
-5. contralateral neural adaptations include motor-unit/shared-input and cortical/spinal candidates, but no single master mechanism is established;
-6. dominant→nondominant transfer superiority is not supported as a practical rule;
-7. unilateral variants are useful under limited external load because they increase relative per-limb challenge; this is distinct from cross-education;
-8. contralateral strength transfer does not imply equal contralateral hypertrophy;
-9. immobilization-related preservation is distinct from ordinary muscle growth;
-10. no content-level blocker was found; closure requires PASS-02.
+1. exact Area 04 Section 7 coverage = **7/7 PASS**;
+2. bilateral deficit/facilitation remain task/test/training-specific bilateral-index phenomena;
+3. unilateral vs bilateral strength adaptation follows specificity rather than global superiority;
+4. cross-education of strength is established but variable in magnitude;
+5. contralateral neural adaptations are supported without one master cortical/spinal mechanism;
+6. dominant→nondominant superiority is not reliable enough for a practical rule;
+7. unilateral exercise remains useful under limited load primarily via direct per-limb challenge;
+8. contralateral strength transfer is not equated with contralateral hypertrophy;
+9. immobilization preservation is separated from ordinary muscle growth;
+10. no project-relevant blocker remains;
+11. first canonical `NEU-07_bilateral_effects_cross_education.md` created.
 
 ### Следующая задача
 
-**NEU-07/PASS-02 — Closure audit and synthesis.**
+**NEU-08/PASS-01 — Neuromuscular fatigue content revalidation.**
 
-After the next one block, save state and STOP.
+NEU-08 maps to Area 04 Section 8 (10 exact items). After the next one block, save state and STOP.
 
 ---
 
@@ -268,9 +272,9 @@ After the next one block, save state and STOP.
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-07/PASS-01_bilateral_effects_cross_education_revalidation.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-07/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **NEU-07/PASS-02 closure audit and synthesis** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-08/PASS-01 neuromuscular fatigue content revalidation** и остановиться перед следующим блоком.
 
 ---
 
