@@ -233,35 +233,30 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-08/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-09/PASS-01_motor_control_revalidation.md`
 
-PASS commit: `188e752d0ed0e2caa03ad13100a607bbe78f7b0b`  
-Canonical finding commit: `47937107270d498ecfcf6f5ebe71b5b1403e9ecf`
+PASS commit: `2c989b0bdec0a9178a92a5e54522b444f3f2e86d`
 
-NEU-08/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-09/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 8 coverage = **10/10 PASS**;
-2. central fatigue remains distinct from mental fatigue and one-marker interpretations;
-3. peripheral fatigue remains distinct and can dominate despite relatively preserved activation;
-4. VA is method-/task-dependent and is not a literal CNS-capacity percentage;
-5. motor-unit firing responses remain non-uniform;
-6. recruitment compensation remains task constrained;
-7. coordination/coherence changes are heterogeneous;
-8. proprioceptive impairment is submodality specific rather than global;
-9. fatigue-related technique changes are real without one universal failure/injury pattern;
-10. task dependency is the organizing rule;
-11. recovery follows multiple outcome-specific clocks;
-12. consistency with PHY-10, NEU-05 and NEU-06 confirmed;
-13. no project-relevant blocker remains;
-14. first canonical `NEU-08_neuromuscular_fatigue.md` created.
+1. exact Area 04 Section 9 coverage = **16/16 at content level**;
+2. feedforward and feedback retained as complementary, coupled control processes;
+3. internal models retained as a useful computational framework, not a literal established neural object;
+4. degrees-of-freedom redundancy retained as motor abundance permitting multiple task-successful solutions;
+5. coordination and muscle-synergy analyses remain task-/method-dependent; extracted factors do not prove fixed CNS modules;
+6. stability is not equivalent to minimal variability, and functional variability must be judged against the controlled task variable;
+7. force control, postural control, joint stabilization and anticipatory postural adjustments were separated without collapsing them into one construct;
+8. fatigue and novel load can reorganize coordination without one universal degradation pattern;
+9. direct resistance-training transfer was checked against current squat coordination/variability evidence;
+10. no content-level blocker was found; independent closure audit/synthesis is still required.
 
 ### Следующая задача
 
-**NEU-09/PASS-01 — Motor control content revalidation.**
+**NEU-09/PASS-02 — Closure audit and synthesis.**
 
-NEU-09 maps to Area 04 Section 9 (16 exact items). After the next one block, save state and STOP.
+NEU-09 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-10 in the same working block.**
 
 ---
 
@@ -277,9 +272,9 @@ NEU-09 maps to Area 04 Section 9 (16 exact items). After the next one block, sav
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-08/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-09/PASS-01_motor_control_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-09/PASS-01 motor control content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-09/PASS-02 closure audit and synthesis** и остановиться перед NEU-10.
 
 ---
 
