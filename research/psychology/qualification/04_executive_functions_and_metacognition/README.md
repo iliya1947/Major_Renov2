@@ -13,6 +13,7 @@ This directory stores topic-level qualification material for **Executive functio
 5. `EXE-05_performance_monitoring_error_conflict_adaptation_control_adjustment.md` — error/conflict/surprise monitoring, ERN/Pe limits, post-error slowing, congruency-sequence effects, adaptation versus awareness, measurement limits, and a reusable Performance Monitoring Inference Gate.
 6. `EXE-06_control_allocation_cognitive_effort_demand_avoidance_expected_value.md` — capacity versus allocation, objective demand versus subjective effort, EVC, demand avoidance/discounting, effort-cost theories, learning value, measurement limits, and a reusable Control Allocation / Effort Inference Gate.
 7. `MET-01_metacognition_monitoring_confidence_calibration_control.md` — first-order/second-order boundaries, confidence bias, calibration, metacognitive sensitivity/efficiency, local/global self-evaluation, prospective/retrospective judgments, task/self-report limits, and a reusable Metacognitive Inference Gate.
+8. `MET-02_metacognitive_control_information_revision_abstention_stopping.md` — information seeking, revision, abstention, help/social information use, strategy selection, study allocation, stopping rules, measurement reactivity, and a reusable Metacognitive Control Inference Gate.
 
 ## Current domain status
 
@@ -24,8 +25,9 @@ This directory stores topic-level qualification material for **Executive functio
 - **EXE-06 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **EXE foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MET-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
-- **MET sequence: IN PROGRESS.**
-- Next planned block: **MET-02 — Metacognitive control: information seeking, revision, abstention, strategy selection, and stopping rules.**
+- **MET-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- Next Phase-B block: **LEA-01 — Learning architecture: conditioning, prediction error, habit, extinction, and reconsolidation boundaries.**
 
 ## Content rule
 
