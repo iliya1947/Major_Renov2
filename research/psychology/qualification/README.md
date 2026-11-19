@@ -27,6 +27,7 @@ This directory contains storage locations for Kira's structured psychology quali
 19. `19_decision_strategy_and_prediction/` — Decision-making, strategy, and prediction
 20. `20_systems_modeling_of_personality/` — Systems modeling of personality
 21. `21_neurodevelopmental_conditions/` — Neurodevelopmental conditions (canonical NDEV Phase C storage)
+22. `22_behavior_change_and_intervention_science/` — Behavior change and intervention science (canonical BHC Phase C storage)
 
 ## Privacy rule
 
