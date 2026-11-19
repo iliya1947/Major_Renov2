@@ -276,18 +276,21 @@
 - Sport-psychology intervention design remains Area 12 / PSY-COA scope.
 - Direct compound-lift pressure/technical-degradation evidence remains sparse.
 - First canonical NEU-20 finding created as v2.0 because no legacy finding existed in the current branch.
-- **NEU-21 — RESEARCHING.**
+- **NEU-21 — CLOSED_FOR_PRACTICE v2.0.**
 - NEU-21/PASS-01 individual-differences content revalidation completed 2026-11-19; exact Area 04 Section 21 coverage = **10/10 at content/scope level**.
-- Training age is retained only as a crude exposure proxy; task-specific expertise/proficiency is more informative for motor-learning decisions.
-- Healthy aging does not produce one global motor-learning deficit; explicit, implicit and procedural components can change differently.
-- Biological age must be explicitly operationalized and is not interchangeable with chronological age.
+- NEU-21/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 21 coverage = **10/10 PASS** and no project-relevant blocker remains.
+- Training age remains a crude exposure proxy; task-specific expertise/proficiency is more informative.
+- Healthy aging does not create one global motor-learning deficit; age effects are process specific.
+- Biological age requires explicit operationalization and is not interchangeable with chronological age.
 - Previous motor experience can facilitate, interfere or fail to transfer depending on task-structure overlap.
-- Skilled limb dominance is task/practice dependent rather than a universal dominant-limb motor-capacity advantage.
-- Working-memory and attention-control differences can moderate learning/instruction but do not justify fixed learner typologies.
+- Skilled limb dominance is task/practice dependent rather than a universal dominant-limb capacity advantage.
+- Working-memory and attention-control differences can moderate learning but do not justify fixed learner typologies.
 - Fatigue effects are heterogeneous; stable fatigue sensitivity requires repeated task-specific measurement.
-- Preferred/efficient cueing style must be tested practically; preference does not establish durable cue superiority.
+- Preferred/efficient cueing style must be tested dynamically; preference does not establish durable cue superiority.
+- Individualization is empirical and repeatability-based; group moderators generate hypotheses rather than personal prescriptions.
 - Anthropometry remains Area 02/MEC scope; ADHD-specific instructional design remains Area 12/PSY-COA scope.
-- CURRENT NEXT: **NEU-21/PASS-02 — Closure audit and synthesis.**
+- First canonical NEU-21 finding created as v2.0 because no legacy finding existed in the current branch.
+- CURRENT NEXT: **NEU-22/PASS-01 — Application to resistance exercise content revalidation.**
 
 ## История текущего revalidation cycle
 
