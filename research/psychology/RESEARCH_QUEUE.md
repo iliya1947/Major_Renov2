@@ -12,6 +12,8 @@
 - **MET foundation sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **LEA sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **MOT sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+- **AFF sequence: IN PROGRESS.**
+- **AFF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -177,11 +179,31 @@ Established:
 
 **MOT sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase B / AFF completed
+
+### AFF-01 — Emotion foundations
+Canonical block:
+`research/psychology/qualification/05_emotion_and_regulation/AFF-01_emotion_foundations_affect_mood_appraisal_dimensions_expression_measurement.md`
+
+Established:
+1. affect, core affect, emotion, mood, feeling and emotion concept are distinct targets;
+2. valence and arousal are important dimensions but do not exhaust emotion structure;
+3. arousal is multidimensional and measurement-channel dependent;
+4. dimensional, categorical, appraisal and constructionist accounts are not interchangeable and need discriminating tests;
+5. 2024 appraisal meta-analysis supports systematic appraisal–emotion associations without one-to-one determinism;
+6. interoception contributes to emotional processing but is not a direct emotion meter;
+7. physiological patterns, facial expressions and self-report are complementary rather than universal gold standards;
+8. face–context integration and culture constrain emotion inference from expression;
+9. experience, expression, perception and elicitation are separate scientific targets;
+10. a 52-question Emotion Inference Gate and 18/18 closure audit are canonical.
+
+**AFF sequence: IN PROGRESS.**
+
 ## Current next action
 
-**AFF-01 — Emotion foundations: affect, emotion, mood, appraisal, dimensions, and measurement boundaries.**
+**AFF-02 — Emotion regulation architecture: situation selection/modification, attentional deployment, appraisal/reappraisal, acceptance, suppression, avoidance, and measurement validity.**
 
-Goal: separate affect, emotion, mood, valence/arousal, appraisal, subjective report and expression; evaluate dimensional and constructionist accounts, measurement and inference validity.
+Goal: compare emotion-regulation strategies by mechanism, timing, target, context and measurement rather than labeling strategies intrinsically healthy/unhealthy.
 
 Target domain:
 
