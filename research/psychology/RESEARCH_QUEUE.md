@@ -30,8 +30,9 @@
 - **NDEV sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **NDEV-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NDEV-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
-- **BHC sequence: IN PROGRESS.**
+- **BHC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **BHC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **BHC-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -940,15 +941,37 @@ Established:
 
 **BHC sequence: IN PROGRESS.**
 
+### BHC-02 — Psychological intervention evidence architecture and sufficiency audit
+
+Canonical block:
+`research/psychology/qualification/22_behavior_change_and_intervention_science/BHC-02_psychological_intervention_evidence_psychotherapy_families_common_specific_alliance_provider_harms_personalization_sufficiency_audit.md`
+
+Established:
+
+1. therapy-family labels are packages/traditions rather than mechanism identities;
+2. multiple psychotherapy families have evidence across adult psychiatric disorders;
+3. bona fide therapy differences are often modest, but no-difference findings are not exact equivalence;
+4. condition-specific treatment evidence remains important;
+5. common and specific factors are not mutually exclusive and neither is established as the sole causal architecture;
+6. alliance/process correlations do not become mechanism proof;
+7. therapist effects exist but are not fixed therapist-trait effects;
+8. psychotherapy harms/deterioration require active measurement and are underreported;
+9. preference effects are generally small and strongest for satisfaction/completion;
+10. personalization/matching requires comparative prospective validation;
+11. a 100-question Psychological Intervention Evidence Gate and 20/20 sufficiency audit are canonical;
+12. no BHC-03 dependency is identified.
+
+**BHC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**BHC-02 — Psychological intervention evidence architecture: psychotherapy families, common versus specific factors, alliance/expectancy/provider effects, comparative efficacy, bona-fide versus control comparisons, harms, treatment selection, and limits of school-level claims.**
+**REL-01 — Interpersonal/attachment foundations: attachment constructs and measurement, adult attachment dimensions versus categories, close-relationship regulation, partner effects, reciprocity, developmental continuity/change, and inference limits.**
 
-Goal: establish evidence-calibrated competence about psychological interventions themselves without turning BHC into a therapy-school catalogue.
+Goal: begin Phase C REL with an evidence-calibrated interpersonal/attachment architecture before conflict and communication-specific work.
 
 Target domain:
 
-`research/psychology/qualification/22_behavior_change_and_intervention_science/`
+`research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`
 
 ## Deferred
 
