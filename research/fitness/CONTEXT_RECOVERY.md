@@ -201,7 +201,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-17 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-18 — Errors and correction — NOT STARTED**.
+Текущая тема: **NEU-18 — Errors and correction — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -251,42 +251,38 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-17/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-18/PASS-01_errors_and_correction_revalidation.md`
 
-PASS commit: `a127ca0ce7df8839413220b1fd5ddf77b5e762a0`  
-Canonical finding commit: `a283eaf1120a955ce7e8202798e97ceb32ef0cc6`  
-Evidence ledger: existing `NEU17-01…NEU17-14` re-audited; no closure-critical rewrite required.
+PASS commit: `7094716f2b7e6a86c2f5f342bbcd9f43ca5bfe8a`  
+Evidence-ledger commit: `12e84e454104263bc81c33d0b19c539511cb1ca0`
 
-NEU-17/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-18/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 17 coverage = **10/10 PASS**;
-2. observational learning is useful but does not replace physical practice;
-3. expert models provide a clear successful reference but are not universally superior;
-4. peer/novice/error models can provide useful contrast;
-5. mixed expert+novice modeling can improve stability/generalization in some tasks;
-6. self-modeling has a positive post-test meta-analytic effect but no robust demonstrated one-week persistence;
-7. 2026 methodological review materially lowers confidence in universal self-modeling/feedforward recommendations;
-8. self-modeling and video feedback remain distinct functions;
-9. own-video feedback has direct but narrow novice-squat retention evidence;
-10. slow motion is not universally better than real time;
-11. interactive playback is multifactorial and cannot be reduced to slow-motion effect;
-12. pre-practice and interspersed observation can both be useful; no universal schedule exists;
-13. observation target matters and “watch everything” is not sufficient instruction;
-14. observation can build or bias error-detection/reference mechanisms;
-15. camera angle can change acquisition without necessarily changing retention;
-16. morphology/mobility can alter movement geometry, but anthropometry does not deterministically prescribe technique;
-17. exact copying of another lifter's geometry is rejected;
-18. direct compound-lift observational-modeling evidence remains sparse;
-19. no project-relevant blocker remains;
-20. first canonical `NEU-17_demonstration_video_modeling.md` created.
+1. exact Area 04 Section 18 coverage = **11/11 at content level**;
+2. outcome/task-performance error, movement-criterion error and sensory prediction error are distinct and must not be collapsed;
+3. stable vs random error is used only as an operational recurrence distinction; recurrence does not identify mechanism;
+4. movement variability is not automatically error; solution variability can support transfer while error variability can impair it;
+5. misunderstanding/goal uncertainty can create a wrong task representation and persist through practice;
+6. strength/capacity can constrain mechanics, but visual appearance cannot identify one weak muscle;
+7. limited mobility can alter movement geometry, but a visual deviation does not prove a mobility cause;
+8. load itself changes joint contributions/kinematics even in elite lifters;
+9. fatigue/proximity to failure alters velocity and mechanics; state-dependent change is not equivalent to lost learning;
+10. cueing/instruction can create or reorganize a movement solution and therefore become a candidate cause of a new deviation;
+11. inappropriate movement solution is defined relative to task-relevant criteria, not similarity to an expert template;
+12. cause-first correction and one-constraint-at-a-time perturbation are retained as practical diagnostic heuristics, not universal causal treatment laws;
+13. task/environment manipulation can directly change the solution, but errorless learning does not show universal superiority and current certainty is low;
+14. heel elevation is a concrete example of constraint manipulation changing squat kinematics without proving durable learning or “better technique”;
+15. movement deviation is not pathology; MED owns medical diagnosis;
+16. direct compound-lift causal error maps remain insufficient for universal correction recipes;
+17. no content-level blocker was found; independent closure audit remains required.
 
 ### Следующая задача
 
-**NEU-18/PASS-01 — Errors and correction content revalidation.**
+**NEU-18/PASS-02 — Closure audit and synthesis.**
 
-NEU-17 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-18 in this completed NEU-17 working block.**
+NEU-18 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-19 in the same working block.**
 
 ---
 
@@ -302,9 +298,9 @@ NEU-17 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-17/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-18/PASS-01_errors_and_correction_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-18/PASS-01 errors and correction content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-18/PASS-02 closure audit and synthesis** и остановиться перед NEU-19.
 
 ---
 
