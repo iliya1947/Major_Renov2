@@ -62,6 +62,11 @@
 | PSY-G56 | Self-harm, suicidal ideation, intent, plan, access, and past behavior are distinct safety variables | SAF-01 | HIGH | Suicide/self-harm inference | ACCEPTED |
 | PSY-G57 | Acute confusion/delirium and severe withdrawal are medical red flags and should not be psychologized first | SAF-01; NICE CG103/CG100 | HIGH | Medical-safety boundary | ACCEPTED |
 | PSY-G58 | Remote/AI conversation is not equivalent to formal in-person risk assessment and must preserve uncertainty/emergency-routing limits | SAF-01; HHS telebehavioral guidance | HIGH | Remote-safety inference | ACCEPTED |
+| PSY-G59 | Discharge/referral does not establish safety or successful linkage; transition and follow-up are separate safety processes | SAF-02; NICE NG225 | HIGH | Post-crisis continuity | ACCEPTED |
+| PSY-G60 | Caring contacts/brief contacts have outcome-specific supportive evidence and must not be described as universally preventing suicide | SAF-02; VA/DoD 2024; 2026 BIC meta-analysis | HIGH | Post-acute intervention inference | ACCEPTED |
+| PSY-G61 | Individual lethal-means counseling and population means-restriction evidence are distinct and should not share one assumed effect size | SAF-02 | HIGH | Lethal-means inference | ACCEPTED |
+| PSY-G62 | Capacity is decision-specific; diagnosis, risky/unwise choice, refusal, and poor insight do not by themselves establish incapacity | SAF-02; NICE NG108 | HIGH | Capacity boundary | ACCEPTED |
+| PSY-G63 | Confidentiality/safety exceptions are jurisdiction-specific and should be necessary/proportionate rather than generalized from one legal system | SAF-02 | HIGH | Confidentiality boundary | ACCEPTED |
 
 ## Правила
 
