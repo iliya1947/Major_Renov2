@@ -15,6 +15,7 @@
 - **AFF sequence: IN PROGRESS.**
 - **AFF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **AFF-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **AFF-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -216,11 +217,27 @@ Established:
 9. 2026 EMA evidence shows strong intensity/confounding effects on apparent daily-life strategy effectiveness;
 10. 54-question Emotion Regulation Inference Gate and 18/18 closure audit are canonical.
 
+### AFF-03 — Emotion dynamics and ecological/interpersonal measurement
+Canonical block:
+`research/psychology/qualification/05_emotion_and_regulation/AFF-03_emotion_dynamics_inertia_recovery_variability_mixed_interpersonal_ecological_measurement.md`
+
+Established:
+1. mean affect, variability, instability, inertia, reactivity, recovery, recurrence and synchrony are distinct dynamic targets;
+2. inertia is not equivalent to stability/flexibility and depends on innovation variance, timescale, sampling interval and model;
+3. 2026 methodological review's seven inertia challenges are canonical: stability conflation, oscillation, distributional assumptions, temporal resolution, timescale mismatch, cross-level effects, stationarity/ergodicity;
+4. 2026 state-dependent inertia evidence shows ordinary linear carry-over can hide asymmetric recovery/persistence;
+5. event exposure, reactivity, recovery and recurrence must be separated;
+6. rumination/strategy–inertia associations are modest and dataset-dependent;
+7. mixed emotion means co-occurring valences and must not be operationalized from PA–NA correlation alone;
+8. synchrony, interpersonal regulation, sharing, co-rumination and co-regulation are distinct;
+9. EMA lag, missingness, sampling density, measurement reactivity and within-person/between-person separation are inference requirements;
+10. 56-question Emotional Dynamics Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**AFF-03 — Emotion dynamics and regulation over time: emotional inertia, recovery, variability, context sensitivity, mixed states, interpersonal regulation, and ecological measurement.**
+**AFF-04 — Emotion and regulation integration/sufficiency audit: generation, appraisal, expression, regulation, dynamics, measurement, and cross-domain boundaries.**
 
-Goal: examine within-person affective trajectories, emotional inertia/recovery, variability, recurrence, mixed states, strategy sequencing, co-regulation and ecological measurement before integrating the AFF domain.
+Goal: synthesize AFF-01…03, audit contradictions and unresolved evidence gaps, define reusable emotion reasoning rules, and either close AFF for current scope or route specific dependencies.
 
 Target domain:
 
