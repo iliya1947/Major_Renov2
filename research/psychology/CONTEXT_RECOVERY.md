@@ -30,10 +30,11 @@ Use this file to recover work after a new chat or lost context.
 - SOC sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - PER sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - DEV sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- NEU sequence: **IN PROGRESS**.
+- NEU sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - `NEU-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `NEU-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `NEU-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `NEU-04`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - `DEV-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `DEV-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `DEV-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -65,13 +66,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `NEU-04 — Cognitive/affective neuroscience integration/sufficiency audit: levels/methods, localization/networks, neurochemistry, neural systems/plasticity, causal evidence, measurement, and cross-domain boundaries`.
-- Target directory: `research/psychology/qualification/11_neuropsychology_and_neuroscience/`.
+- Next block: `PSYCHOMETRICS-01 — Applied measurement foundations: score meaning, reliability, validity, dimensionality, measurement invariance, norms, change, and individual interpretation`.
+- Target directory: `research/psychology/qualification/02_psychometrics_and_assessment/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-03_neural_systems_plasticity_ei_oscillations_ltp_structural_myelin_neurogenesis_homeostasis.md`
+`research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-04_cognitive_affective_neuroscience_integration_sufficiency_audit.md`
 
 ## Hard stop condition
 
