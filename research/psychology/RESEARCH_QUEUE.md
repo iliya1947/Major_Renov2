@@ -39,8 +39,9 @@
 - **DEC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **DEC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **DEC-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
-- **SAF sequence: IN PROGRESS.**
+- **SAF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **SAF-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **SAF-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -1094,15 +1095,39 @@ Established:
 
 **SAF sequence: IN PROGRESS.**
 
+### SAF-02 — Safety management and continuity and sufficiency audit
+
+Canonical block:
+`research/psychology/qualification/24_safety_crisis_referral_thresholds/SAF-02_safety_management_continuity_followup_caring_contacts_lethal_means_capacity_confidentiality_handoff_sufficiency_audit.md`
+
+Established:
+
+1. discharge is a transition rather than proof of safety;
+2. aftercare/handoff/linkage are separate processes;
+3. NICE 48-hour aftercare applies when ongoing safety concerns remain after self-harm;
+4. caring contacts have a weak-for VA/DoD recommendation and outcome-specific evidence;
+5. 2026 adult BIC meta-analysis supports lower suicide re-attempts on average but not every safety outcome;
+6. safety planning/caring contacts/follow-up/therapy are distinct layers;
+7. individual lethal-means counseling and population means-restriction evidence are separate;
+8. repeat self-harm requires reassessment and coordination rather than moral labeling;
+9. capacity is decision-specific and risky/unwise choice does not establish incapacity;
+10. refusal/diagnosis/insight do not substitute for capacity assessment;
+11. confidentiality exceptions are jurisdiction-specific;
+12. safeguarding/handoff/re-escalation/remote-AI boundaries are explicit;
+13. a 120-question Safety Management / Continuity Inference Gate and 20/20 sufficiency audit are canonical;
+14. no SAF-03 dependency is identified.
+
+**SAF sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**SAF-02 — Safety management and continuity: post-crisis transitions, follow-up/contact, lethal-means safety evidence, safety/crisis response planning evidence, repeat self-harm, violence/safeguarding escalation, refusal/capacity/confidentiality boundaries, documentation/handoff, remote/AI crisis boundaries, and SAF sufficiency audit.**
+**ETH-01 — Ethics foundations for individualized psychological inference and AI-assisted analysis: autonomy, consent, privacy, nonmaleficence, epistemic humility, fairness, role/scope boundaries, transparency, contestability, and high-stakes safeguards.**
 
-Goal: close the safety-management/continuity dependency after SAF-01 without turning SAF into a pseudo-clinical or jurisdiction-specific crisis manual.
+Goal: begin Phase C ETH with the generic ethical constraints required before final integration and private-model application.
 
 Target domain:
 
-`research/psychology/qualification/24_safety_crisis_referral_thresholds/`
+`research/psychology/qualification/25_ethics_individualized_inference_ai_analysis/`
 
 ## Deferred
 
