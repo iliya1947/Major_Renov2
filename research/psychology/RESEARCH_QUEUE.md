@@ -33,8 +33,9 @@
 - **BHC sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **BHC-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **BHC-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
-- **REL sequence: IN PROGRESS.**
+- **REL sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 - **REL-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **REL-02 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -988,15 +989,40 @@ Established:
 
 **REL sequence: IN PROGRESS.**
 
+### REL-02 — Conflict and communication architecture and sufficiency audit
+
+Canonical block:
+`research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/REL-02_conflict_communication_reciprocal_sequences_validation_repair_power_coercion_measurement_sufficiency_audit.md`
+
+Established:
+
+1. conflict is a temporal dyadic sequence, not a stable person label;
+2. demand–withdraw, demand–demand and withdraw–withdraw require context/function/sequence analysis;
+3. validation is separated from agreement/capitulation;
+4. perceived invalidation/responsiveness are not objective behavior truth;
+5. attributions are not direct motive readouts and vary culturally;
+6. repair is breach-specific and broader than apology wording;
+7. power/asymmetry and subjective versus objective influence are explicit;
+8. boundaries are operationalized and separated from controlling another person's autonomy;
+9. coercive control/IPV is separated from ordinary disagreement;
+10. bidirectional aggression does not imply symmetric power/responsibility;
+11. self-report, observation, naturalistic and diary communication measures are separate evidence channels;
+12. communication coding requires language/cultural validity;
+13. APIM/mediation/longitudinal prediction do not automatically establish causality;
+14. a 104-question Conflict / Communication Inference Gate and 20/20 REL sufficiency audit are canonical;
+15. no REL-03 dependency is identified.
+
+**REL sequence: COMPLETE_FOR_CURRENT_SCOPE.**
+
 ## Current next action
 
-**REL-02 — Conflict and communication architecture: demand/withdraw and reciprocal escalation, validation/invalidation, responsiveness, repair, attribution, power/asymmetry, boundaries, coercive versus ordinary conflict, communication measurement, and causal limits.**
+**DEC-01 — Judgment and decision foundations: normative versus descriptive models, probability/risk representation, heuristics and biases, framing/reference dependence, calibration, base rates, choice architecture, and inference limits.**
 
-Goal: close the conflict/communication dependency without reducing relationship science to communication tips or attachment labels.
+Goal: begin Phase C DEC without turning it into a catalogue of named biases.
 
 Target domain:
 
-`research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/`
+`research/psychology/qualification/19_decision_strategy_and_prediction/`
 
 ## Deferred
 
