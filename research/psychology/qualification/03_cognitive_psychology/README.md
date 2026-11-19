@@ -18,6 +18,7 @@ This directory stores topic-level qualification material for **Cognitive psychol
 10. `LEA-02_associative_learning_contingency_blocking_conditioned_inhibition_pit.md`
 11. `LEA-03_reinforcement_learning_prediction_error_state_representation_dopamine.md` — TD/RPE, learning-rate interpretation, state representation, memory/RL mixtures, model-free/model-based limits, computational psychometrics, and dopamine boundaries.
 12. `LEA-04_habit_formation_goal_directed_arbitration_devaluation_contingency_automaticity_validity.md` — devaluation/contingency validity, habit expression versus acquisition, overtraining, time pressure, automaticity, divergent measurement, and the 48-question Habit Inference Gate.
+13. `LEA-05_extinction_renewal_reinstatement_inhibitory_learning_reconsolidation_validity.md` — Pavlovian/instrumental extinction, spontaneous recovery, renewal, reinstatement, resurgence, retrieval/destabilization/reconsolidation boundaries, replication and 54-question inference gate.
 
 ## Current domain status
 
@@ -26,8 +27,9 @@ This directory stores topic-level qualification material for **Cognitive psychol
 - **LEA-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **LEA-05 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA sequence: IN PROGRESS.**
-- Next planned block: **LEA-05 — Extinction, renewal/reinstatement, inhibitory learning, and reconsolidation: boundary conditions and evidence validity.**
+- Next planned block: **LEA-06 — Learning synthesis and sufficiency audit: associative, RL, habit, extinction/reconsolidation inference integration and unresolved dependencies.**
 
 ## Content rule
 
