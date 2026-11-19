@@ -31,6 +31,8 @@ Use this file to recover work after a new chat or lost context.
 - PER sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - DEV sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - NEU sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
+- PSYCHOMETRICS sequence: **IN PROGRESS**.
+- `PSYCHOMETRICS-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `NEU-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `NEU-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `NEU-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -66,13 +68,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `PSYCHOMETRICS-01 — Applied measurement foundations: score meaning, reliability, validity, dimensionality, measurement invariance, norms, change, and individual interpretation`.
+- Next block: `PSYCHOMETRICS-02 — Latent-variable and item-response measurement: CTT vs IRT/Rasch, item information, local independence, DIF, factor scores, scoring, test construction, and person-level model limits`.
 - Target directory: `research/psychology/qualification/02_psychometrics_and_assessment/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/11_neuropsychology_and_neuroscience/NEU-04_cognitive_affective_neuroscience_integration_sufficiency_audit.md`
+`research/psychology/qualification/02_psychometrics_and_assessment/PSYCHOMETRICS-01_applied_measurement_score_meaning_precision_validity_invariance_norms_change_individual_interpretation.md`
 
 ## Hard stop condition
 
