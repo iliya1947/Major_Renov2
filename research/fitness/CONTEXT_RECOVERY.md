@@ -259,42 +259,46 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-04/PASS-01_lactate_metabolism_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-04/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `4610420953e731968e525ec93b06f60e2803b97b`  
-Evidence ledger commit: `c303c296f278cf164b9980a1acb572fdede86306`  
-Evidence ledger: `BIO04-01…BIO04-09` added with **closure audit pending** status.
+PASS commit: `15f2a10b3e6290b89800e8abcd1980f782f2e669`  
+Canonical finding commit: `7667eb4e8371cb11a647096aadce1ca408f1f419`  
+Evidence ledger commit: `e7e8a0393dad80b1cea118c0ff866565f0a651cb`  
+Evidence ledger: `BIO04-01…BIO04-09` finalized.
 
-BIO-04/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-04/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 4 coverage = **9/9 at content/scope level**;
-2. lactate is a recyclable metabolic intermediate/fuel rather than metabolic waste;
+1. exact Area 05 Section 4 coverage = **9/9 PASS**;
+2. lactate is a recyclable metabolic intermediate/fuel rather than waste;
 3. lactate production, net tissue release, circulating appearance/disappearance and blood concentration are distinct;
-4. blood [lactate] is a dynamic balance variable rather than a direct production-flux measure;
-5. lactate oxidation is a major route of disposal during exercise and lactate-derived carbon can materially support oxidative metabolism;
-6. cell-cell/interorgan lactate shuttling is strongly supported;
-7. exact intracellular mitochondrial lactate-shuttle topology remains debated and is not hard-coded;
-8. MCT1/MCT4 mediate proton-coupled gradient-dependent transport; typical MCT1-uptake/MCT4-efflux roles are physiological biases, not irreversible directions;
-9. lactate thresholds/turnpoints are method-defined constructs and must be named;
-10. fixed 4 mmol/L is not a universal individual physiological threshold;
-11. MLSS is protocol/criterion dependent;
-12. blood lactate and intramuscular lactate are related but non-equivalent;
-13. blood lactate is not a direct universal measure of local glycolytic ATP flux;
-14. lactate accumulation does not cause DOMS;
-15. lactate itself is not the sole cause of fatigue;
-16. lactate alone lacks specificity as a fatigue/readiness biomarker;
-17. acid-base causation remains BIO-05;
-18. detailed threshold testing/programming remains BIO-09/TST/PRO;
-19. no content-level blocker remains;
-20. no canonical BIO-04 finding created because closure audit is still required.
+4. blood [lactate] is a balance/state variable rather than a direct production flux;
+5. “clearance” is acceptable shorthand but disappearance/disposal is preferred mechanistically;
+6. lactate oxidation is a major exercise fate;
+7. cell-cell/interorgan lactate shuttling is strongly supported;
+8. exact intracellular mitochondrial lactate-shuttle topology remains contested and is not hard-coded;
+9. MCT1/MCT4 transport is proton-coupled and gradient/state dependent;
+10. typical MCT1-uptake/MCT4-efflux roles are directional biases rather than irreversible directions;
+11. lactate threshold/turnpoint methods must be named;
+12. fixed 4 mmol/L is not a universal individual threshold;
+13. MLSS is protocol/criterion dependent;
+14. CP/MLSS/threshold constructs are related but not automatically interchangeable;
+15. blood lactate and intramuscular lactate are non-equivalent;
+16. blood lactate is not a universal direct measure of local glycolytic ATP flux, though validated model-based estimates can be useful in defined settings;
+17. lactate does not cause DOMS;
+18. lactate is not the sole cause of fatigue;
+19. lactate alone lacks specificity as a fatigue/readiness biomarker;
+20. detailed acid-base causation remains BIO-05;
+21. threshold testing/programming remains BIO-09/TST/PRO;
+22. no project-relevant blocker remains;
+23. first canonical `BIO-04_lactate_metabolism.md` created.
 
 ### Следующая задача
 
-**BIO-04/PASS-02 — Closure audit and synthesis.**
+**BIO-05/PASS-01 — Acid–base physiology and buffering content revalidation.**
 
-BIO-04 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start BIO-05 in this completed BIO-04/PASS-01 working block.**
+BIO-04 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start BIO-05 in this completed BIO-04 closure block.**
 
 ---
 
@@ -310,9 +314,9 @@ BIO-04 remains **RESEARCHING**. After the next one block, save state and STOP. *
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-04/PASS-01_lactate_metabolism_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-04/PASS-02_closure_audit_and_synthesis.md`
 
-Затем выполнить только записанный выше **BIO-04/PASS-02 — Closure audit and synthesis** и остановиться перед BIO-05.
+Затем выполнить только записанный выше **BIO-05/PASS-01 — Acid–base physiology and buffering content revalidation** и остановиться перед следующим блоком.
 
 ---
 
