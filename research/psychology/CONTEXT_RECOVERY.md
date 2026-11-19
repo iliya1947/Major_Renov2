@@ -28,6 +28,7 @@ Use this file to recover work after a new chat or lost context.
 - AFF sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - STR sequence: **IN PROGRESS**.
 - `STR-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `STR-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `AFF-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `AFF-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `AFF-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -42,13 +43,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `STR-02 — Stress physiology and temporal measurement: HPA axis, autonomic regulation, cortisol/catecholamines, inflammation, circadian effects, acute reactivity/recovery, chronic dysregulation, and biomarker validity`.
+- Next block: `STR-03 — Coping and resilience architecture: controllability, problem/emotion/meaning-focused coping, avoidance, support, resource models, resilience factors versus mechanisms, trajectories, and measurement validity`.
 - Target directory: `research/psychology/qualification/15_stress_trauma_and_adaptation/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/15_stress_trauma_and_adaptation/STR-01_stress_foundations_stressor_response_appraisal_allostasis_coping_resilience_measurement.md`
+`research/psychology/qualification/15_stress_trauma_and_adaptation/STR-02_stress_physiology_hpa_ans_cortisol_inflammation_reactivity_recovery_biomarker_validity.md`
 
 ## Hard stop condition
 
