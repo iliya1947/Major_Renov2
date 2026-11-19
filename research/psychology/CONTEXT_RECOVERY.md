@@ -26,13 +26,14 @@ Use this file to recover work after a new chat or lost context.
 - LEA sequence: **IN PROGRESS**.
 - `LEA-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- Next block: `LEA-03 — Reinforcement learning and prediction error: TD/RPE, learning rates, state representation, model-free/model-based limits, and dopamine boundaries`.
+- `LEA-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- Next block: `LEA-04 — Habit formation and goal-directed/habit arbitration: outcome devaluation, contingency degradation, automaticity, overtraining, and measurement validity`.
 - Target directory: `research/psychology/qualification/03_cognitive_psychology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/03_cognitive_psychology/LEA-02_associative_learning_contingency_blocking_conditioned_inhibition_pit.md`
+`research/psychology/qualification/03_cognitive_psychology/LEA-03_reinforcement_learning_prediction_error_state_representation_dopamine.md`
 
 ## Hard stop condition
 
