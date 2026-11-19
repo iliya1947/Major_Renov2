@@ -133,8 +133,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-09 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 9 closure **9/9 PASS**;
 - BIO-10 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 10 closure **9/9 PASS**;
 - BIO-11 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 11 closure **10/10 PASS**;
-- BIO-12 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 12 coverage **13/13 at content/scope level**;
-- **CURRENT NEXT: BIO-12/PASS-02 — Closure audit and synthesis.**
+- BIO-12 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 12 closure **13/13 PASS**;
+- **CURRENT NEXT: BIO-13/PASS-01 — Energy-system development content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -184,38 +184,41 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-12/PASS-01_resistance_training_bioenergetics_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-12/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `df0536338f4eedf1cfd3fd57dd03691e861d6adb`
+PASS commit: `eea5528317891df7e41389b2a3bdf04a8f817c00`
 
-BIO-12/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-12/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 12 coverage = **13/13 at content/scope level**;
-2. no content-level blocker was found;
-3. resistance exercise retained as metabolically mixed rather than anaerobic-only;
-4. within-set energy demand retained as a function of load, reps, tempo, duration, effort, exercise, muscle mass and starting metabolic state rather than one scalar variable;
-5. repetition-tempo effects are matching-dependent: slower tempo can extend TUT/local deoxygenation while faster tempo can permit greater external work and, under matched TUT, greater lactate/HR;
-6. %1RM is not retained as a standalone metabolic dose; lighter/moderate loads near failure can be highly metabolically demanding;
-7. more repetitions per continuous set and higher density generally increase acute metabolic disturbance, but exact magnitude is protocol dependent;
-8. closer proximity to failure generally increases acute metabolic stress/fatigue, while literal failure is not required for chronic adaptation;
-9. rest interval is retained as part of the next set's metabolic starting state; no fixed rest→PCr-recovery mapping is retained;
-10. repeated-set PCr recovery is oxidative and variable; PCr restoration is not complete performance recovery;
-11. moderate/high-rep continuous sets can have substantial glycolytic contribution without a fixed “glycolytic rep range”;
-12. oxidative metabolism contributes during resistance work and between sets; resistance exercise is not anaerobic-only;
-13. higher training density and circuit structures can increase cardiorespiratory/metabolic strain but may reduce mechanical quality;
-14. supersets are retained as time-efficient with generally higher acute internal/metabolic load; superset type materially changes volume/performance effects;
-15. acute metabolic stress, lactate, pump/cell swelling and time-under-tension are not retained as validated independent causal hypertrophy doses;
-16. BIO-12 remains **not CLOSED_FOR_PRACTICE** pending independent PASS-02 audit;
-17. canonical BIO-12 finding and final BIO12 evidence-ledger rows are intentionally not created before closure audit;
-18. PASS-01 defines **30 unresolved audit checks** for PASS-02.
+1. exact Area 05 Section 12 coverage = **13/13 PASS**;
+2. PASS-01 unresolved gaps = **30/30 RESOLVED**;
+3. no project-relevant blocker remains;
+4. resistance training retained as metabolically mixed rather than anaerobic-only; mixed metabolism does not mean equal pathway flux;
+5. set energetic demand retained as jointly constrained by load, reps, tempo, duration, effort, exercise and starting metabolic state rather than one scalar dose;
+6. resistance-exercise energy expenditure remains method conditioned; indirect calorimetry does not directly capture total non-oxidative ATP turnover;
+7. tempo effects retained as matching-dependent; nVCO2/SmO2 are not treated as direct ATP-flux measurements;
+8. %1RM retained as a mechanical constraint rather than standalone metabolic dose; 30–90% 1RM similarity under failure is protocol-specific rather than universal;
+9. more repetitions per continuous set and closer proximity to failure generally increase acute internal strain, while literal failure is not required for chronic adaptation;
+10. rest interval changes the next set's starting state; no fixed rest→PCr-recovery percentage is retained;
+11. repeated-set PCr recovery retained as oxidative/state dependent and non-equivalent to complete performance recovery;
+12. glycolytic contribution can be substantial in longer/moderate-high-rep sets, but blood/muscle lactate is not direct glycolytic ATP accounting and no rep-range energy-system zones are retained;
+13. oxidative metabolism contributes during work and is central to between-set recovery;
+14. density, set configuration and rest redistribution alter internal strain independently of volume load;
+15. supersets retained as time efficient with generally higher acute internal/metabolic load, while superset type matters and pooled chronic similarity does not mean equivalence for every lift/outcome;
+16. circuit RT can substantially increase cardiorespiratory/metabolic demand without one universal circuit profile;
+17. metabolic stress/pump/cell swelling are not established as necessary or independently sufficient causal hypertrophy doses;
+18. acute energy cost does not rank chronic adaptation or guarantee chronic fat loss;
+19. canonical `BIO-12_resistance_training_bioenergetics.md` created;
+20. evidence ledger `BIO12-01…BIO12-10` finalized;
+21. BIO-12 = **CLOSED_FOR_PRACTICE v2.0**.
 
 ### Следующая задача
 
-**BIO-12/PASS-02 — Closure audit and synthesis.**
+**BIO-13/PASS-01 — Energy-system development content revalidation.**
 
-BIO-12 is **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING** after PASS-01. Start PASS-02 only after the next user continue signal; one signal = one saved PASS/block → STOP.
+BIO-12 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-13 only after the next user continue signal; one signal = one saved PASS/block → STOP.
 
 ---
 
@@ -237,9 +240,9 @@ BIO-12 is **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING** after PASS-01. S
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-12/PASS-01_resistance_training_bioenergetics_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-12/PASS-02_closure_audit_and_synthesis.md`
 
-Затем при следующем пользовательском continue выполнить только записанный выше **BIO-12/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
+Затем при следующем пользовательском continue выполнить только записанный выше **BIO-13/PASS-01 — Energy-system development content revalidation** и остановиться перед следующим блоком.
 
 ---
 
