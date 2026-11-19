@@ -27,19 +27,20 @@ Use this file to recover work after a new chat or lost context.
 - MOT sequence: **IN PROGRESS**.
 - `MOT-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `MOT-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `MOT-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `MOT-03 — Goal pursuit, self-determination, intention–action gap, persistence/disengagement, and regulation-quality measurement validity`.
+- Next block: `MOT-04 — Motivation integration and sufficiency audit: needs, incentives, value, effort, goal pursuit, state dependence and measurement boundaries`.
 - Target directory: `research/psychology/qualification/06_motivation_and_behavior/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/06_motivation_and_behavior/MOT-02_reward_valuation_probability_delay_effort_opportunity_cost_measurement_validity.md`
+`research/psychology/qualification/06_motivation_and_behavior/MOT-03_goal_pursuit_self_determination_intention_action_persistence_disengagement_measurement.md`
 
 ## Hard stop condition
 
