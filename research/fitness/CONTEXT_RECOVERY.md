@@ -135,8 +135,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-11 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 11 closure **10/10 PASS**;
 - BIO-12 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 12 closure **13/13 PASS**;
 - BIO-13 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 13 closure **10/10 PASS**;
-- BIO-14 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 14 coverage **7/7 at content/scope level**;
-- **CURRENT NEXT: BIO-14/PASS-02 — Closure audit and synthesis.**
+- BIO-14 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 14 closure **7/7 PASS**;
+- **CURRENT NEXT: BIO-15/PASS-01 — Aerobic capacity and economy content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -186,38 +186,43 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-14/PASS-01_anaerobic_power_capacity_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-14/PASS-02_closure_audit_and_synthesis.md`
 
-PASS commit: `893c7cb01c801cf9df38d6f5f248a8ad15813317`
+PASS commit: `a270d30f732283c097b297aa13faa393232ead35`
 
-BIO-14/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
+BIO-14/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
 
-Content result:
+Closure result:
 
-1. exact Area 05 Section 14 coverage = **7/7 at content/scope level**;
-2. no content-level blocker was found;
-3. anaerobic power and anaerobic capacity retained as distinct constructs: rate/output vs finite integrated high-intensity capability;
-4. external mechanical power retained as non-equivalent to ATP-production rate;
-5. peak power and mean power retained as distinct operational outputs; neither is mapped one-to-one to phosphagen or glycolytic metabolism;
-6. mean power is not retained as a direct biochemical anaerobic-capacity measurement;
-7. repeated-bout ability retained as distinct from first-bout peak power and dependent on recovery state;
-8. repeated high-intensity performance retained as mixed-metabolic because oxidative ATP supports PCr resynthesis and recovery;
-9. PCr recovery remains oxidative and variable; no fixed rest→%PCr or full-performance-recovery rule is retained;
-10. fatigue/decrement metrics are not retained as one-mechanism biomarkers and can be confounded by initial output;
-11. Wingate-type outputs are retained as protocol-specific performance metrics rather than direct pathway measurements;
-12. MAOD/oxygen-deficit and PCr–La–O2 approaches remain model-derived/indirect rather than direct in-vivo pathway-flux measurements;
-13. testing methods remain TST-owned for reliability, validity, standardization, familiarization, scaling and MDC;
-14. current external PubMed/web search did not return usable results in this PASS, therefore no new unverified test-specific PMID was introduced;
-15. **PASS-02 must reattempt current external verification before closure**;
-16. BIO-14 remains **not CLOSED_FOR_PRACTICE**;
-17. canonical BIO-14 finding and final BIO14 evidence-ledger rows are intentionally not created before closure audit;
-18. PASS-01 defines **33 unresolved audit checks** for PASS-02.
+1. exact Area 05 Section 14 coverage = **7/7 PASS**;
+2. PASS-01 audit checks = **33/33 RESOLVED**;
+3. no BIO-14 project-relevant blocker remains;
+4. anaerobic power and anaerobic capacity retained as distinct constructs: high output/rate vs task/method-defined integrated high-intensity capability;
+5. external mechanical power retained as non-equivalent to ATP-production rate;
+6. peak and mean power retained as distinct protocol-specific outputs; neither maps one-to-one to phosphagen/glycolytic metabolism;
+7. anaerobic capacity is not retained as a directly measurable literal non-oxidative energy tank;
+8. fatigue/decrement retained as descriptive performance information rather than a one-mechanism biomarker; low decrement can be confounded by initial output;
+9. repeated-bout ability retained as distinct from first-bout power and as mixed-metabolic;
+10. oxidative ATP support of PCr resynthesis/recovery retained without redefining repeated-sprint work as an aerobic-capacity test;
+11. PCr recovery retained as important, oxidative and variable but non-equivalent to complete readiness;
+12. no fixed rest→%PCr/full-recovery mapping is retained;
+13. phosphagen and glycolytic pathways remain overlapping; blood lactate is not direct glycolytic ATP flux;
+14. Wingate-type outputs retained as protocol-specific performance metrics rather than direct biochemical measurements;
+15. MAOD/oxygen-deficit and PCr–La–O2 retained as indirect/model-derived estimates;
+16. mode/duration/load/familiarization/scaling retained as interpretation constraints;
+17. current external PubMed/web test-specific search was reattempted but returned no usable literature;
+18. therefore **Информация не проверена** for additional current 2025–2026 protocol-specific Wingate validity/reliability and active-vs-passive repeated-sprint recovery evidence;
+19. these claims are not used for BIO-14 closure and remain TST/PRO-owned;
+20. current official NSCA 5th-edition architecture confirms bioenergetics and test-quality/selection/administration/scoring as separate competency layers;
+21. canonical `BIO-14_anaerobic_power_capacity.md` created;
+22. evidence ledger `BIO14-01…BIO14-10` finalized;
+23. BIO-14 = **CLOSED_FOR_PRACTICE v2.0**.
 
 ### Следующая задача
 
-**BIO-14/PASS-02 — Closure audit and synthesis.**
+**BIO-15/PASS-01 — Aerobic capacity and economy content revalidation.**
 
-BIO-14 is **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING** after PASS-01. Start PASS-02 only after the next user continue signal; one signal = one saved PASS/block → STOP.
+BIO-14 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-15 only after the next user continue signal; one signal = one saved PASS/block → STOP.
 
 ---
 
@@ -239,9 +244,9 @@ BIO-14 is **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING** after PASS-01. S
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-14/PASS-01_anaerobic_power_capacity_content_revalidation.md`
+`research/fitness/passes/05_bioenergetics/BIO-14/PASS-02_closure_audit_and_synthesis.md`
 
-Затем при следующем пользовательском continue выполнить только записанный выше **BIO-14/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
+Затем при следующем пользовательском continue выполнить только записанный выше **BIO-15/PASS-01 — Aerobic capacity and economy content revalidation** и остановиться перед следующим блоком.
 
 ---
 
