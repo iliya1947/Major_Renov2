@@ -23,19 +23,20 @@ Use this file to recover work after a new chat or lost context.
 - COG foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - EXE foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - MET foundation sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- LEA sequence: **IN PROGRESS**.
+- LEA sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
 - `LEA-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
-- Next block: `LEA-06 — Learning synthesis and sufficiency audit: associative, RL, habit, extinction/reconsolidation inference integration and unresolved dependencies`.
-- Target directory: `research/psychology/qualification/03_cognitive_psychology/`.
+- `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
+- Next block: `MOT-01 — Motivation foundations: needs, incentives, value, effort, goal pursuit, and construct boundaries`.
+- Target directory: `research/psychology/qualification/06_motivation_and_behavior/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/03_cognitive_psychology/LEA-05_extinction_renewal_reinstatement_inhibitory_learning_reconsolidation_validity.md`
+`research/psychology/qualification/03_cognitive_psychology/LEA-06_learning_integration_sufficiency_audit.md`
 
 ## Hard stop condition
 
