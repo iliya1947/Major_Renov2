@@ -14,6 +14,7 @@
 - **MOT sequence: IN PROGRESS.**
 - **MOT-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **MOT-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **MOT-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -143,11 +144,27 @@ Established:
 7. reliability, parameter recovery, cross-task validity and ecological generalization are independent requirements;
 8. 50-question Reward Valuation and Effort Inference Gate with 18/18 internal audit is canonical.
 
+### MOT-03 — Goal pursuit, self-determination and adjustment
+Canonical block:
+`research/psychology/qualification/06_motivation_and_behavior/MOT-03_goal_pursuit_self_determination_intention_action_persistence_disengagement_measurement.md`
+
+Established:
+1. goal value, attainability, commitment, intention, implementation and progress are separable;
+2. autonomous and controlled regulation can coexist and differ from intrinsic pleasure;
+3. approach/avoidance and self-determination are distinct dimensions;
+4. 2023 physical-activity meta-analysis quantified a 47.6% intention–behavior gap among intenders under its domain-specific definitions;
+5. 2024 implementation-intentions meta-analysis examined 642 tests, without implying universal compliance or habit;
+6. goal specificity, difficulty, feedback and experience moderate action results;
+7. disengagement, reengagement and flexibility are distinct, and goals have different hierarchical levels;
+8. 2025/2026 goal-adjustment meta-analysis covered 235 studies with important heterogeneity, publication-bias and causal-inference limitations;
+9. persistence and disengagement require context/attainability checks rather than character judgments;
+10. 52-question Goal Pursuit Inference Gate and 18/18 internal closure audit are canonical.
+
 ## Current next action
 
-**MOT-03 — Goal pursuit, self-determination, intention–action gap, persistence/disengagement, and regulation-quality measurement validity.**
+**MOT-04 — Motivation integration and sufficiency audit: needs, incentives, value, effort, goal pursuit, state dependence and measurement boundaries.**
 
-Goal: examine goal commitment, autonomous/controlled regulation, intention–action translation, implementation plans, persistence and adaptive disengagement with measurement-validity checks.
+Goal: synthesize MOT-01…03, audit contradictions and empirical limits, route unresolved dependencies and decide whether the MOT foundation is sufficient for current practical inference.
 
 Target domain:
 
