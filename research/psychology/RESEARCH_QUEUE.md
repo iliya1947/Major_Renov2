@@ -14,6 +14,7 @@
 - **LEA-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **LEA-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
+- **LEA-04 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 
 ## Phase B / LEA completed
 
@@ -55,11 +56,28 @@ Established:
 22. neural model-free/model-based signals need not equal actual behavioral control;
 23. a 52-question Reinforcement Learning Inference Gate is canonical.
 
+### LEA-04 — Habit formation and goal-directed control measurement
+Canonical block:
+`research/psychology/qualification/03_cognitive_psychology/LEA-04_habit_formation_goal_directed_arbitration_devaluation_contingency_automaticity_validity.md`
+
+Established:
+
+1. goal-directed action requires R–O knowledge and current outcome-value sensitivity;
+2. devaluation/contingency insensitivity alone does not identify the S–R mechanism;
+3. devaluation manipulation effectiveness must be validated before assigning habit scores;
+4. overtraining effects in humans are paradigm-dependent and sometimes fail replication;
+5. automatic response preparation may emerge before later goal-directed correction;
+6. response initiation, preparation, outcome devaluation, and remapping are not interchangeable measurements;
+7. within-task reliability need not imply cross-task convergence;
+8. frequency, routine, automaticity, skill, computational model-free control, and S–R habit are distinct constructs;
+9. human 2025–2026 tests strongly constrain claims about habit measurement validity;
+10. a 48-question Habit Inference Gate and 18/18 closure audit are canonical.
+
 ## Current next action
 
-**LEA-04 — Habit formation and goal-directed/habit arbitration: outcome devaluation, contingency degradation, automaticity, overtraining, and measurement validity.**
+**LEA-05 — Extinction, renewal/reinstatement, inhibitory learning, and reconsolidation: boundary conditions and evidence validity.**
 
-Goal: deepen behavioral definitions of goal-directed and habitual control; audit devaluation and contingency-degradation paradigms, distinguish repetition/automaticity from genuine outcome insensitivity, evaluate overtraining and time-pressure measures, and define current human habit measurement limits.
+Goal: separate extinction learning from erasure; examine spontaneous recovery, renewal, reinstatement, reacquisition, reconsolidation retrieval/destabilization boundary conditions, and the validity of human translation.
 
 Target domain:
 
