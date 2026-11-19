@@ -181,7 +181,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-07 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-08 — Neuromuscular fatigue — NOT STARTED**.
+Текущая тема: **NEU-08 — Neuromuscular fatigue — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -231,32 +231,32 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-07/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-08/PASS-01_neuromuscular_fatigue_revalidation.md`
 
-PASS commit: `2b63348ec1f4483020810d0b433bed82aaa3e328`  
-Canonical finding commit: `c18c7791fca17c932af1c10fedcbc482e17675c3`
+PASS commit: `9e1d4066c8661b1cd1ca3ea6f6e68ec4dc273e2d`
 
-NEU-07/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-08/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 7 coverage = **7/7 PASS**;
-2. bilateral deficit/facilitation remain task/test/training-specific bilateral-index phenomena;
-3. unilateral vs bilateral strength adaptation follows specificity rather than global superiority;
-4. cross-education of strength is established but variable in magnitude;
-5. contralateral neural adaptations are supported without one master cortical/spinal mechanism;
-6. dominant→nondominant superiority is not reliable enough for a practical rule;
-7. unilateral exercise remains useful under limited load primarily via direct per-limb challenge;
-8. contralateral strength transfer is not equated with contralateral hypertrophy;
-9. immobilization preservation is separated from ordinary muscle growth;
-10. no project-relevant blocker remains;
-11. first canonical `NEU-07_bilateral_effects_cross_education.md` created.
+1. exact Area 04 Section 8 coverage = **10/10 at content level**;
+2. central fatigue is reduced effective voluntary neural drive/activation capacity and is not equated with mental fatigue or one biomarker;
+3. peripheral fatigue remains a distinct but interacting class owned mechanistically by PHY-10;
+4. VA can decline with fatigue but is protocol/method dependent and is not a universal CNS-capacity score;
+5. motor-unit firing responses are non-uniform across units/tasks;
+6. recruitment demand often rises during submaximal fatigue but depends on initial activation and remaining reserve;
+7. coordination/coherence changes are heterogeneous and task/training dependent;
+8. fatigue can impair active proprioceptive accuracy without implying global sensory failure;
+9. fatigue changes movement strategy/technique without one universal technical-failure or injury pattern;
+10. task dependency is the organizing rule;
+11. recovery follows multiple outcome-specific clocks;
+12. no content-level blocker was found; closure requires PASS-02.
 
 ### Следующая задача
 
-**NEU-08/PASS-01 — Neuromuscular fatigue content revalidation.**
+**NEU-08/PASS-02 — Closure audit and synthesis.**
 
-NEU-08 maps to Area 04 Section 8 (10 exact items). After the next one block, save state and STOP.
+After the next one block, save state and STOP.
 
 ---
 
@@ -272,9 +272,9 @@ NEU-08 maps to Area 04 Section 8 (10 exact items). After the next one block, sav
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-07/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-08/PASS-01_neuromuscular_fatigue_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-08/PASS-01 neuromuscular fatigue content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-08/PASS-02 closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
