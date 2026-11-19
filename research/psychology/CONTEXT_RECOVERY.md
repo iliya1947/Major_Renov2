@@ -23,12 +23,13 @@ Use this file to recover work after a new chat or lost context.
 - `COG-01`: **CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS**.
 - `COG-02`: **CLOSED_FOR_PRACTICE v1.0 — 14/14 PASS**.
 - `COG-03`: **CLOSED_FOR_PRACTICE v1.0 — 15/15 PASS**.
-- Next block: `COG-04 — Working memory: maintenance, updating, capacity, interference, and attention/LTM interfaces`.
+- `COG-04`: **CLOSED_FOR_PRACTICE v1.0 — 16/16 PASS**.
+- Next block: `COG-05 — Long-term memory: encoding, consolidation, retrieval, episodic/semantic structure, forgetting, and reconstruction`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/03_cognitive_psychology/COG-03_attention_selection_priority_capture_sustained_attention.md`
+`research/psychology/qualification/03_cognitive_psychology/COG-04_working_memory_maintenance_updating_capacity_interference.md`
 
 ## Hard stop condition
 
