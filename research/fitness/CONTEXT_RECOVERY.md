@@ -193,7 +193,7 @@ Area 03 / normalized **PHY-01…PHY-20 — CLOSED_FOR_PRACTICE v2.0 for current 
 
 Последняя закрытая тема: **NEU-13 — CLOSED_FOR_PRACTICE v2.0**.
 
-Следующая тема: **NEU-14 — Attention and focus — NOT STARTED**.
+Текущая тема: **NEU-14 — Attention and focus — RESEARCHING**.
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -243,40 +243,35 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-13/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-14/PASS-01_attention_and_focus_revalidation.md`
 
-PASS commit: `d0a78e74eb15ba00354edf145c40febcdb0da500`  
-Canonical finding commit: `027967e2b0c95dff9fd417f9e90556632eda4f5a`  
-Evidence-ledger refinement commit: `1f69749ed47ed13253405b4b2a16e9fc2366d6e3`
+PASS commit: `9c4d82b8f7e798fa81e7bb0c0769c0eac6973f09`  
+Evidence-ledger commit: `a222709d35fd0b066b32d0f7d3346c9f558bec26`
 
-NEU-13/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+NEU-14/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 04 Section 13 coverage = **12/12 PASS**;
-2. practice frequency, volume and distribution remain distinct dimensions;
-3. no universal motor-skill practice-frequency optimum is established;
-4. distributed practice is not universally superior to massed motor practice;
-5. blocked practice can improve acquisition and is not inherently inferior;
-6. random/interleaved practice has an average delayed-learning benefit but is not universally superior;
-7. contextual-interference effects are substantially moderated and weaker/more heterogeneous in applied settings;
-8. contextual interference does not mean chaos or maximal randomness;
-9. blocked/random and constant/variable remain separate schedule dimensions;
-10. variable practice is not universally superior; relevance depends on retention/transfer target;
-11. whole-vs-part choice depends on task architecture and transfer back to the whole task;
-12. repetition does not require exact kinematic duplication;
-13. diminishing marginal efficiency is retained only as a context-specific pattern; plateau does not prove additional practice is useless;
-14. no universal repetition stopping threshold exists;
-15. fatigue modifies learning in task/state-specific ways and fatigue practice does not automatically create robustness;
-16. direct compound-lift schedule evidence remains sparse;
-17. no project-relevant blocker remains;
-18. first canonical `NEU-13_practice_organization.md` created.
+1. exact Area 04 Section 14 coverage = **10/10 at content level**;
+2. internal/external focus are attentional-direction constructs, not explicit/implicit learning labels;
+3. older meta-analytic evidence favoring external focus is materially challenged by 2024 reporting-bias-adjusted reanalysis; universal external superiority is not retained;
+4. 2026 network meta-analysis shows cue classification and expertise materially alter attentional-focus rankings;
+5. no-focus/control conditions do not guarantee absence of attentional focus; neutral/minimal cueing remains a practical option, not a process-pure state;
+6. attentional breadth (narrow/broad) is orthogonal to internal/external direction; direct compound-lift breadth evidence is sparse;
+7. concurrent cognitive load can impair explicit learning components, but no universal cue-count threshold follows;
+8. dual-task cost probes attentional demand but is not a pure automaticity score;
+9. automaticity remains graded and task specific;
+10. internal focus can be useful for diagnosed correction, proprioception or target-muscle recruitment, but EMG/performance outcomes are not durable technique-learning evidence;
+11. resistance-exercise evidence is outcome dependent: external focus can improve some acute strength/endurance/velocity outcomes, while internal target-muscle focus can alter recruitment and in one small RCT increased elbow-flexor hypertrophy;
+12. reinvestment/conscious control is not universally harmful, but risk of performance decrement increases in some pressure/object-manipulation/speed contexts;
+13. direct delayed retention/transfer evidence for compound-lift attentional-focus strategies remains sparse;
+14. no content-level blocker was found; independent closure audit remains required.
 
 ### Следующая задача
 
-**NEU-14/PASS-01 — Attention and focus content revalidation.**
+**NEU-14/PASS-02 — Closure audit and synthesis.**
 
-NEU-13 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and STOP. **Do not start NEU-14 in this completed NEU-13 working block.**
+NEU-14 remains **RESEARCHING**. After the next one block, save state and STOP. **Do not start NEU-15 in the same working block.**
 
 ---
 
@@ -292,9 +287,9 @@ NEU-13 = **CLOSED_FOR_PRACTICE v2.0**. After the next one block, save state and 
 
 Для текущей точки открыть:
 
-`research/fitness/passes/04_neurophysiology_motor_learning/NEU-13/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/04_neurophysiology_motor_learning/NEU-14/PASS-01_attention_and_focus_revalidation.md`
 
-Затем выполнить только записанный выше **NEU-14/PASS-01 attention and focus content revalidation** и остановиться перед следующим блоком.
+Затем выполнить только записанный выше **NEU-14/PASS-02 closure audit and synthesis** и остановиться перед NEU-15.
 
 ---
 
