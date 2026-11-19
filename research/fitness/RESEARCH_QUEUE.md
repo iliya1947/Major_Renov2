@@ -431,7 +431,18 @@
 - Between-bout recovery retained as oxidatively active; elevated recovery VO2 does not imply complete recovery.
 - O2 delivery, extraction and mitochondrial utilization remain distinct interacting determinants; dominant VO2max/VO2-kinetics limitations are population/training-state dependent.
 - Evidence ledger `BIO09-01…BIO09-09` finalized; canonical `BIO-09_oxygen_uptake_aerobic_contribution.md` created.
-- **CURRENT NEXT: BIO-10/PASS-01 — Substrate depletion and repletion content revalidation.**
+- **BIO-10 — IN PROGRESS.**
+- BIO-10/PASS-01 substrate depletion / repletion content revalidation completed 2026-11-19; exact Area 05 Section 10 coverage = **9/9 at content/scope level**; no content-level blocker found.
+- PCr depletion/repletion retained as a rapid, oxidative recovery process with state/method-dependent kinetics; no fixed universal full-repletion time is retained.
+- Muscle glycogen depletion retained as task-, recruitment- and protocol-dependent; resistance exercise can materially deplete glycogen, but exact magnitude is highly variable.
+- Muscle and liver glycogen retained as distinct stores with different exercise roles and recovery kinetics; liver glycogen can recover faster than muscle glycogen under some carbohydrate-fed conditions.
+- IMTG/IMCL retained as a meaningful endurance substrate with fibre-, mode-, diet- and measurement-dependent depletion/repletion; severe intermittent work does not necessarily deplete it.
+- Blood glucose retained as a regulated circulating concentration/flux, not a storage depot; stable concentration can coexist with high glucose turnover.
+- Recovery time course retained as substrate specific: PCr, liver glycogen, muscle glycogen, IMTG and blood glucose do not share one repletion timeline.
+- Nutritional effects retained as pool specific; carbohydrate strongly affects glycogen restoration, while dietary fat can affect IMTG restoration and carbohydrate does not directly refill PCr.
+- Substrate repletion kept non-equivalent to performance/force recovery or full readiness.
+- Endurance, sprint/HIIT and resistance exercise retained as producing different substrate-depletion profiles.
+- **CURRENT NEXT: BIO-10/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
