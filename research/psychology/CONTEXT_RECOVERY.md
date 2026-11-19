@@ -32,6 +32,7 @@ Use this file to recover work after a new chat or lost context.
 - DEV sequence: **IN PROGRESS**.
 - `DEV-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `DEV-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- `DEV-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PER-01`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PER-02`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `PER-03`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
@@ -59,13 +60,13 @@ Use this file to recover work after a new chat or lost context.
 - `LEA-04`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-05`: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - `LEA-06`: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
-- Next block: `DEV-03 — Lifespan developmental transitions and aging: childhood/adolescence/emerging adulthood, adulthood/midlife, later life, role transitions, cognitive/social/personality trajectories, healthy aging, cohort/selection effects, and measurement boundaries`.
+- Next block: `DEV-04 — Developmental psychology integration/sufficiency audit: developmental clocks, maturation/timing, sensitive periods, transactions/cascades, multi-context pathways, lifespan transitions/aging, cohort/measurement, and cross-domain boundaries`.
 - Target directory: `research/psychology/qualification/10_developmental_psychology/`.
 - No individualized psychological profile is stored here.
 
 ## Latest canonical block
 
-`research/psychology/qualification/10_developmental_psychology/DEV-02_developmental_mechanisms_transactions_cascades_context_susceptibility_causal_inference.md`
+`research/psychology/qualification/10_developmental_psychology/DEV-03_lifespan_transitions_adulthood_aging_cognitive_social_role_measurement.md`
 
 ## Hard stop condition
 
