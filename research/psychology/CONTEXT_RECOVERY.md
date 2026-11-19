@@ -40,7 +40,7 @@ If control files disagree:
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **IN PROGRESS**.
-- Current domain: **DEC / judgment, decision-making, heuristics, and risk — NEXT**.
+- Current domain: **DEC / judgment, decision-making, heuristics, and risk — IN PROGRESS**.
 - CLN-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-02: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - CLN-03: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
@@ -54,12 +54,14 @@ If control files disagree:
 - REL-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
 - REL-02: **COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS**.
 - REL sequence: **COMPLETE_FOR_CURRENT_SCOPE**.
-- Next block: **DEC-01 — Judgment and decision foundations: normative versus descriptive models, probability/risk representation, heuristics and biases, framing/reference dependence, calibration, base rates, choice architecture, and inference limits**.
+- DEC-01: **CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS**.
+- DEC sequence: **IN PROGRESS**.
+- Next block: **DEC-02 — Applied decision quality and forecasting: probabilistic forecasting/scoring, overconfidence decomposition, advice/aggregation, multi-attribute decisions, value of information, reversible versus irreversible decisions, decision aids, debiasing durability, real-world/ecological validity, and person-level decision competence**.
 - Target directory: `research/psychology/qualification/19_decision_strategy_and_prediction/`.
 
 ## 4. Latest canonical block
 
-`research/psychology/qualification/23_interpersonal_relationships_attachment_conflict_communication/REL-02_conflict_communication_reciprocal_sequences_validation_repair_power_coercion_measurement_sufficiency_audit.md`
+`research/psychology/qualification/19_decision_strategy_and_prediction/DEC-01_judgment_decision_foundations_normative_descriptive_risk_uncertainty_heuristics_framing_calibration_choice_architecture.md`
 
 ## 5. Cabinet architecture state
 
@@ -129,6 +131,6 @@ Stop immediately if:
 
 After recovery, the next qualification block remains:
 
-**DEC-01 — Judgment and decision foundations: normative versus descriptive models, probability/risk representation, heuristics and biases, framing/reference dependence, calibration, base rates, choice architecture, and inference limits.**
+**DEC-02 — Applied decision quality and forecasting: probabilistic forecasting/scoring, overconfidence decomposition, advice/aggregation, multi-attribute decisions, value of information, reversible versus irreversible decisions, decision aids, debiasing durability, real-world/ecological validity, and person-level decision competence.**
 
 Canonical target: `research/psychology/qualification/19_decision_strategy_and_prediction/`.
