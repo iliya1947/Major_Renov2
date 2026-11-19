@@ -54,18 +54,41 @@ Established:
 11. stop/defer/escalate routing;
 12. 144-question Integrated Evidence-to-Individual Transfer Gate.
 
+### INT-03 — Analytic error taxonomy
+
+Status: **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**
+
+Canonical block:
+
+INT-03_analytic_error_taxonomy_failure_stages_cascades_detection_repair_regression.md
+
+Established:
+
+1. 12 stage-based analytic error families from purpose through model maintenance;
+2. root error versus downstream manifestation distinction;
+3. nonexclusive primary + secondary error tagging;
+4. mapping of ERR-001…031 into the taxonomy;
+5. domain failure families treated as reusable instances rather than duplicated ledger classes;
+6. error cascade patterns;
+7. correct-output/invalid-reasoning and wrong-output/valid-probabilistic-reasoning separation;
+8. commission versus omission failures;
+9. internal R0–R4 consequence handling;
+10. earliest-failure repair and dependency propagation;
+11. six new integration-level meta-errors;
+12. 144-question Analytic Error Taxonomy Gate.
+
 ## Next block
 
-**INT-03 — Analytic error taxonomy.**
+**INT-04 — Reusable reasoning checklists.**
 
-Goal: unify existing generic error classes and domain-specific failure modes into one taxonomy organized by the stage where reasoning fails.
+Goal: compress the qualification into short operational checklists that route to deeper gates only when the case requires them.
 
 ## Planned Phase D sequence
 
 1. INT-01 — cross-domain contradiction audit — **complete**;
 2. INT-02 — evidence-to-individual transfer rules — **complete**;
-3. INT-03 — analytic error taxonomy — **next**;
-4. INT-04 — reusable reasoning checklists;
+3. INT-03 — analytic error taxonomy — **complete**;
+4. INT-04 — reusable reasoning checklists — **next**;
 5. INT-05 — final sufficiency audit for project purpose.
 
 ## Privacy boundary
