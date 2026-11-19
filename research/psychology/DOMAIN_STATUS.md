@@ -41,15 +41,15 @@ Status: **COMPLETE_FOR_CURRENT_SCOPE**.
 
 ## Phase D — integration
 
-Status: **NOT_STARTED**.
+Status: **IN_PROGRESS**.
 
-**Next:** Step 1 — cross-domain contradiction audit.
+1. INT-01 — cross-domain contradiction audit — **CLOSED_FOR_PRACTICE v1.0 — 20/20 PASS**;
+2. INT-02 — evidence-to-individual transfer rules — **NEXT**;
+3. INT-03 — analytic error taxonomy;
+4. INT-04 — reusable reasoning checklists;
+5. INT-05 — final sufficiency audit.
 
-1. cross-domain contradiction audit;
-2. evidence-to-individual transfer rules;
-3. analytic error taxonomy;
-4. reusable reasoning checklists;
-5. final sufficiency audit.
+Current blocking cross-domain contradictions: **0 identified by INT-01**.
 
 ## Rule
 
