@@ -152,7 +152,10 @@
 - NEU-03/PASS-01 sensory-feedback/proprioception content revalidation completed 2026-11-19; exact Area 04 Section 3 coverage = **12/12 at content level**.
 - NEU-03/PASS-02 closure audit / synthesis completed 2026-11-19; exact Area 04 Section 3 coverage = **12/12 PASS** and no project-relevant blocker remains.
 - First canonical NEU-03 finding created as v2.0 because no legacy finding existed in the current branch.
-- CURRENT NEXT: **NEU-04 — Reflex regulation.**
+- **NEU-04 — RESEARCHING.**
+- NEU-04/PASS-01 reflex-regulation content revalidation completed 2026-11-19; exact Area 04 Section 4 coverage = **8/8 at content level**; closure audit/synthesis pending.
+- Added NEU04-01…NEU04-09 to EVIDENCE_LEDGER.
+- CURRENT NEXT: **NEU-04/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
