@@ -256,6 +256,7 @@ Phase A methodology:
 `research/fitness/passes/04_neurophysiology_motor_learning/NEU-19/PASS-01_neuroplasticity_revalidation.md`
 
 PASS commit: `2515c69450e95fa41363b29155c79500cfb20ec2`  
+Independent current-source audit commit: `ee15de73a54900c7d9937959ade6a44389c3744c`  
 Evidence-ledger commit: `8ba9a623142301234e200e142bf6b38b0f327b5a`
 
 NEU-19/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
