@@ -27,6 +27,8 @@
 - **CLN-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **CLN-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **CLN-03 — COMPLETE_FOR_CURRENT_SCOPE — 20/20 PASS.**
+- **NDEV sequence: IN PROGRESS.**
+- **NDEV-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-01 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-02 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
 - **NEU-03 — CLOSED_FOR_PRACTICE v1.0 — 18/18 PASS.**
@@ -865,11 +867,36 @@ Established:
 
 **CLN sequence: COMPLETE_FOR_CURRENT_SCOPE.**
 
+## Phase C / NDEV in progress
+
+### NDEV-01 — Neurodevelopmental foundations
+
+Canonical block:
+`research/psychology/qualification/21_neurodevelopmental_conditions/NDEV-01_neurodevelopmental_foundations_adhd_autism_onset_course_executive_function_masking_comorbidity_differential_limits.md`
+
+Established:
+
+1. developmental onset, manifestation, recognition, and diagnosis are distinct;
+2. adult diagnosis does not imply adult onset;
+3. ADHD requires developmental/cross-setting architecture and major state/medical/sleep/substance mimics remain explicit;
+4. adult ADHD is valid while genuinely de novo adult-onset ADHD remains unsettled;
+5. autism requires developmental social-communication plus restricted/repetitive architecture;
+6. increased demands and learned strategies can alter observability without changing developmental origin;
+7. ADHD and autism can co-occur without automatically double counting overlapping manifestations;
+8. executive-function deficits are heterogeneous and not diagnostic biomarkers;
+9. task-based EF and everyday EF ratings are distinct evidence channels;
+10. camouflaging is multidimensional, not uniquely autistic, not female-only, and not diagnostic proof;
+11. no single autism tool or ADHD screening score establishes diagnosis;
+12. high cognitive ability can coexist with developmental impairment;
+13. a 90-question Neurodevelopmental Foundations Inference Gate and 18/18 closure audit are canonical.
+
+**NDEV sequence: IN PROGRESS.**
+
 ## Current next action
 
-**NDEV-01 — Neurodevelopmental foundations: developmental onset and course, ADHD/autism boundaries, executive-function variability, masking/compensation, comorbidity, and differential limits.**
+**NDEV-02 — Broader neurodevelopmental differential: intellectual developmental disorder/adaptive functioning, language and social-communication disorders, specific learning disorder, developmental coordination disorder, tic/Tourette spectrum, uneven developmental profiles, and cross-condition comorbidity/boundaries.**
 
-Goal: begin the NDEV Phase C domain by separating developmental trait architecture from acquired/episodic psychopathology and establishing calibrated ADHD/autism differential boundaries.
+Goal: close the remaining broad neurodevelopmental differential gap without turning NDEV into a disorder encyclopedia.
 
 Target domain:
 
