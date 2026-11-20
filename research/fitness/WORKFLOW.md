@@ -254,8 +254,9 @@
 36. MEC-04 = **CLOSED_FOR_PRACTICE v2.0**.
 37. PASS-01 exact Section 4 **10/10**, checks **30/30**; PASS-02 independent closure/gap audit **33/33 PASS**; no source-map mutation required.
 38. Canonical MEC-04 and finalized evidence ledger created.
-39. **CURRENT NEXT: MEC-05/PASS-01 — Lever systems content revalidation.**
-40. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
+39. MEC-05/PASS-01 = **CONTENT PASS COMPLETE**; exact Area 06 Section 5 coverage **10/10**, content checks **30/30**, independent closure/gap audit pending.
+40. **CURRENT NEXT: MEC-05/PASS-02 — independent closure/gap audit and synthesis.**
+41. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
 
 Авторитет текущей точки: PR #5 identity/workspace lock → фактическая ветка → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → последний PASS.
 
@@ -274,7 +275,7 @@
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **MEC-05/PASS-01 — Lever systems content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **MEC-05/PASS-02 — independent closure/gap audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
