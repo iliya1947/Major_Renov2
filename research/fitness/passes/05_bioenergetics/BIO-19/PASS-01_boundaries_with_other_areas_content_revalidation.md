@@ -887,7 +887,7 @@ It uses the professional architecture as:
 2. **NSCA — Essentials of Strength Training and Conditioning, 5th Edition**  
    Current NSCA table of contents checked 2026-11-20.  
    Chapter 3 Bioenergetics; Chapters 10–11 Nutrition; Chapter 18 Program Design/Rest Periods.  
-   https://www.nsca.com/essentials-strength/
+   https://dxpprod.nsca.com/essentials-strength/
 
 3. **ACSM — Updated ACSM-EP / ACSM-CEP certification requirements**  
    Page revised 2026-02-06.  
