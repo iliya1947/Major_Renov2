@@ -532,7 +532,23 @@
 - Elite endurance systemic O2-delivery limitation is not generalized to all populations; sex-specific mechanism claims are kept evidence-stratified.
 - Oxidative metabolism retained as mechanistically relevant to resistance-set recovery, while whole-body VO2max is only a weak direct recovery proxy in current resistance-trained evidence.
 - Evidence ledger `BIO15-01…BIO15-10` finalized; canonical `BIO-15_aerobic_capacity_economy.md` created.
-- **CURRENT NEXT: BIO-16/PASS-01 — Training adaptations content revalidation.**
+- **BIO-16 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- BIO-16/PASS-01 training-adaptations content revalidation completed 2026-11-20; exact Area 05 Section 16 coverage = **10/10 at content/scope level**.
+- Metabolic adaptation retained as multilevel; molecular/biochemical changes are non-equivalent to pathway flux or task performance.
+- Mitochondrial content/function remain non-equivalent; ET/HIT/SIT can all produce mitochondrial adaptation.
+- Enzyme adaptations retained as enzyme/protocol specific; enzyme activity is not in-vivo flux.
+- GLUT4/MCT substrate-transport adaptations retained with abundance/translocation/flux boundaries.
+- Training can increase glycogen storage/repletion capacity, but current glycogen availability remains state/nutrition dependent.
+- Buffering capacity can adapt in some high-intensity protocols but is not a universal response to hard training.
+- MCT1 is more consistently training responsive than MCT4; blood-lactate curves are not direct transporter readouts.
+- PCr recovery kinetics can improve in selected protocols but remain local/method/pH dependent and non-equivalent to global readiness.
+- Training-mode specificity retained as graded rather than exclusive; different modes can converge on overlapping adaptations.
+- Detraining retained as trait/time specific; no universal decay half-time is retained.
+- Human HIIT retraining evidence supports retained epigenetic/gene-expression memory but did not show enhanced physiological retraining response.
+- Molecular memory, retained phenotype and accelerated regain are explicitly non-equivalent.
+- BIO-16 remains **not CLOSED_FOR_PRACTICE**; canonical finding and final BIO16 ledger rows are deferred until PASS-02.
+- PASS-01 records **40 unresolved audit checks** for independent closure review.
+- **CURRENT NEXT: BIO-16/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
