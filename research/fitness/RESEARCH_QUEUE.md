@@ -587,19 +587,15 @@
 - Full BIO-01…BIO-18 audit found no direct numeric nutrition/rest prescriptions, no clinical diagnosis from metabolic markers, and no unresolved testing/readiness ownership violation.
 - Evidence ledger `BIO19-01…BIO19-07` finalized; canonical `BIO-19_boundaries_with_other_areas.md` created.
 - **BIO-01…BIO-19 — CLOSED_FOR_PRACTICE v2.0; Bioenergetics dependency complete for current project purpose.**
-- **MEC-01 — RESEARCHING; PASS-03 gap content complete, repeat closure audit pending.**
-- MEC-01/PASS-01 Newtonian-mechanics/vectors content revalidation completed 2026-11-20; original Area 06 Section 1 coverage = **15/15**, content checks **45/45 RESOLVED**.
-- MEC-01/PASS-02 independent closure/gap audit found **1 blocking rotational-dynamics cluster**: rotational inertia, angular momentum and angular impulse.
-- MEC-01/PASS-03 closed that content gap: **12/12 gap checks PASS**.
-- Area 06 Section 1 corrected from **15 to 18 exact items** by adding rotational inertia / mass moment of inertia, angular momentum and angular impulse.
-- Current rotational foundation now retains: `I = ∫r⊥²dm`; fixed-axis/principal-axis `L = Iω` boundary; general `Στ_ext = dL/dt`; angular impulse `∫τdt = ΔL`; conservation of angular momentum when net external torque is zero.
-- `τ = Iα` retained only as a simple fixed-axis/constant-I form, not the universal 3D rotational law.
-- Radius of gyration retained as `I = mk²`, with anthropometric coefficient estimation deferred to MEC-16/21.
-- Human inverse-dynamics relevance confirmed by current 2025 body-segment inertial-parameter literature; detailed parameter estimation/model error remains downstream.
-- `MEC01-11…MEC01-13` moved to revalidated/audit-pending. All `MEC01-01…MEC01-13` remain audit-pending until repeat closure.
-- Canonical MEC-01 finding **not created**; `CLOSED_FOR_PRACTICE` **not assigned**.
-- Revised current Section 1 content coverage = **18/18**.
-- **CURRENT NEXT: MEC-01/PASS-04 — repeat independent closure audit and synthesis after rotational-dynamics gap repair.**
+- **MEC-01 — CLOSED_FOR_PRACTICE v2.0.**
+- MEC-01/PASS-01 completed original Newtonian/vector content revalidation: **15/15**, **45/45 checks**.
+- MEC-01/PASS-02 independently refused closure after finding the rotational-dynamics gap.
+- MEC-01/PASS-03 repaired the gap by adding rotational inertia, angular momentum and angular impulse: **12/12 PASS**; Area 06 Section 1 corrected to **18 exact items**.
+- MEC-01/PASS-04 repeat independent closure audit completed 2026-11-20: **40/40 PASS**, corrected Section 1 = **18/18 PASS**, no project-relevant blocker remains.
+- Final rotational foundation: `I = ∫r⊥²dm`; `L = r×p`; fixed/principal-axis `L=Iω`; `Στ_ext=dL/dt`; `∫τdt=ΔL`; `τ=Iα` only under simple fixed-axis/constant-I assumptions.
+- Mechanical and metabolic quantities remain non-equivalent; detailed torque geometry, anthropometric BSIPs, ballistic application, work/power and inverse-dynamics uncertainty remain downstream MEC topics.
+- Evidence ledger `MEC01-01…MEC01-13` finalized; canonical `MEC-01_newtonian_mechanics_vectors.md` created.
+- **CURRENT NEXT: MEC-02/PASS-01 — Kinematics content revalidation.**
 
 ## История текущего revalidation cycle
 
