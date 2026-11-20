@@ -157,10 +157,11 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - PASS-01 original content **14/14**, **42/42**; PASS-02 found free-body/terminology repair cluster; PASS-03 repaired it **12/12**; PASS-04 repeat closure audit **40/40 PASS**.
 - Corrected Area 06 Section 3 = **15/15 exact items PASS**.
 - Canonical `MEC-03_kinetics.md` created; `MEC03-01…MEC03-16` finalized.
-- MEC-04/PASS-01 — **CONTENT PASS COMPLETE**; exact Section 4 coverage **10/10**, content checks **30/30**, closure/gap audit pending.
-- Moment-arm geometry, joint-angle dependence, mechanical-advantage and torque-vs-difficulty boundaries explicitly revalidated.
-- Canonical MEC-04 finding not created; `MEC04-01…MEC04-12` remain audit-pending.
-- **CURRENT NEXT: MEC-04/PASS-02 — independent closure/gap audit and synthesis.**
+- MEC-04 — **CLOSED_FOR_PRACTICE v2.0**.
+- PASS-01 content **10/10**, **30/30**; PASS-02 independent closure/gap audit **33/33 PASS**.
+- Area 06 Section 4 remains **10/10 exact items PASS**; no source-map mutation required.
+- Canonical `MEC-04_torque_moment_arms.md` created; `MEC04-01…MEC04-12` finalized.
+- **CURRENT NEXT: MEC-05/PASS-01 — Lever systems content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
