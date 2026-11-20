@@ -120,3 +120,17 @@ Gap content закрыт в `MEC-03/PASS-03`; окончательная closure
 - `MEC-03 = CLOSED_FOR_PRACTICE v2.0`.
 
 Следующий topic: `MEC-04 — Torque / moment arms`.
+
+## MEC-04 closure 2026-11-20
+
+MEC-04/PASS-02 independent closure/gap audit:
+- exact Section 4 = **10/10 PASS**;
+- total closure matrix = **33/33 PASS**;
+- no source-map mutation required;
+- line of action retained inside perpendicular-moment-arm definition;
+- reference-axis / center-of-rotation details remain cross-cutting with MEC-02/MEC-12/MEC-21;
+- geometric vs tendon-excursion moment arms retained as alternative estimation routes with method-specific assumptions, not separate physical concepts;
+- external joint moment retained as mechanical-demand descriptor, not total exercise difficulty/training stimulus;
+- `MEC-04 = CLOSED_FOR_PRACTICE v2.0`.
+
+Следующий topic: `MEC-05 — Lever systems`.
