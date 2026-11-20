@@ -59,3 +59,22 @@ Gap content закрыт в `MEC-01/PASS-03`; окончательная closure
 - `MEC-01 = CLOSED_FOR_PRACTICE v2.0`.
 
 Следующий topic: `MEC-02 — Kinematics`.
+
+## MEC-02 coordinate/orientation correction 2026-11-20
+
+MEC-02/PASS-02 выявил foundational gap: Section 2 содержал joint angles / planes / axes / trajectories, но не имел явных:
+- reference frames / coordinate systems;
+- orientation / 3D rotation representation.
+
+В Section 2 добавлены:
+- Reference frames / coordinate systems;
+- Orientation / 3D rotation representation.
+
+Причина:
+- position/vector components требуют defined frame;
+- joint kinematics требуют proximal/distal segment frames;
+- 3D orientation не эквивалентна одному scalar angle;
+- Euler/Cardan/JCS components зависят от convention/sequence;
+- current ISB standards отдельно поддерживают global coordinate systems, whole-body orientation и joint coordinate systems.
+
+Gap content закрыт в `MEC-02/PASS-03`; окончательная closure MEC-02 остаётся за repeat audit.
