@@ -144,11 +144,12 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-19 — **CLOSED_FOR_PRACTICE v2.0**; PASS-01 content **6/6**, PASS-02 closure audit **36/36 PASS**.
 - **BIO-01…BIO-19 — CLOSED_FOR_PRACTICE v2.0; Bioenergetics dependency complete for current project purpose.**
 - **CURRENT DOMAIN: 06 — Biomechanics.**
-- MEC-01/PASS-01 — **CONTENT PASS COMPLETE**; exact Section 1 coverage **15/15**, content checks **45/45**.
-- MEC-01/PASS-02 — **GAP AUDIT COMPLETE; CLOSURE NOT AUTHORIZED**.
-- Blocking cluster: **rotational inertia / angular momentum / angular impulse** missing between angular kinematics and torque.
-- Canonical MEC-01 finding not created; existing MEC01 ledger rows remain audit-pending.
-- **CURRENT NEXT: MEC-01/PASS-03 — rotational inertia, angular momentum and angular impulse gap closure.**
+- MEC-01/PASS-01 — **CONTENT PASS COMPLETE**; original Section 1 coverage **15/15**, content checks **45/45**.
+- MEC-01/PASS-02 — **GAP AUDIT COMPLETE; rotational-dynamics blocker identified**.
+- MEC-01/PASS-03 — **GAP CONTENT COMPLETE**; rotational inertia / angular momentum / angular impulse **12/12 PASS**.
+- Area 06 Section 1 corrected to **18 exact items**; revised content coverage **18/18**.
+- Canonical MEC-01 finding not created; all MEC01 ledger rows remain audit-pending.
+- **CURRENT NEXT: MEC-01/PASS-04 — repeat independent closure audit and synthesis after rotational-dynamics gap repair.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
