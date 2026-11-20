@@ -532,23 +532,26 @@
 - Elite endurance systemic O2-delivery limitation is not generalized to all populations; sex-specific mechanism claims are kept evidence-stratified.
 - Oxidative metabolism retained as mechanistically relevant to resistance-set recovery, while whole-body VO2max is only a weak direct recovery proxy in current resistance-trained evidence.
 - Evidence ledger `BIO15-01…BIO15-10` finalized; canonical `BIO-15_aerobic_capacity_economy.md` created.
-- **BIO-16 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- **BIO-16 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-16/PASS-01 training-adaptations content revalidation completed 2026-11-20; exact Area 05 Section 16 coverage = **10/10 at content/scope level**.
+- BIO-16/PASS-02 independent closure audit / synthesis completed 2026-11-20; exact Section 16 coverage = **10/10 PASS** and no BIO-16 project-relevant blocker remains.
+- PASS-01 audit checks = **40/40 RESOLVED**.
 - Metabolic adaptation retained as multilevel; molecular/biochemical changes are non-equivalent to pathway flux or task performance.
+- PGC-1α retained as signaling/biogenesis-associated marker rather than mitochondrial biogenesis itself.
 - Mitochondrial content/function remain non-equivalent; ET/HIT/SIT can all produce mitochondrial adaptation.
+- Concurrent RT+ET can retain mitochondrial/aerobic adaptation in many contexts, but reduced endurance dose can attenuate VO2max gains; linked correction verified as duplicate abstract-sentence correction only.
 - Enzyme adaptations retained as enzyme/protocol specific; enzyme activity is not in-vivo flux.
-- GLUT4/MCT substrate-transport adaptations retained with abundance/translocation/flux boundaries.
-- Training can increase glycogen storage/repletion capacity, but current glycogen availability remains state/nutrition dependent.
-- Buffering capacity can adapt in some high-intensity protocols but is not a universal response to hard training.
-- MCT1 is more consistently training responsive than MCT4; blood-lactate curves are not direct transporter readouts.
-- PCr recovery kinetics can improve in selected protocols but remain local/method/pH dependent and non-equivalent to global readiness.
-- Training-mode specificity retained as graded rather than exclusive; different modes can converge on overlapping adaptations.
+- GLUT4/MCT/FAT transport adaptation retained with abundance/trafficking/flux boundaries.
+- Training can increase glycogen storage/repletion capacity, while actual glycogen availability remains state/nutrition dependent.
+- Buffering adaptation retained as protocol-specific rather than universal.
+- Human MCT1 protein response retained as more consistent than MCT4; blood-lactate curves are not direct transporter readouts.
+- PCr recovery kinetics can adapt but remain local/method/pH dependent and non-equivalent to VO2max/global readiness.
+- Training-mode specificity retained as graded rather than exclusive; overlapping biological adaptation does not imply identical task transfer.
 - Detraining retained as trait/time specific; no universal decay half-time is retained.
-- Human HIIT retraining evidence supports retained epigenetic/gene-expression memory but did not show enhanced physiological retraining response.
-- Molecular memory, retained phenotype and accelerated regain are explicitly non-equivalent.
-- BIO-16 remains **not CLOSED_FOR_PRACTICE**; canonical finding and final BIO16 ledger rows are deferred until PASS-02.
-- PASS-01 records **40 unresolved audit checks** for independent closure review.
-- **CURRENT NEXT: BIO-16/PASS-02 — Closure audit and synthesis.**
+- Human HIIT retraining evidence supports retained epigenetic/gene-expression memory but not enhanced physiological retraining response in the corrected current article.
+- Molecular memory, retained phenotype and accelerated regain remain non-equivalent.
+- Evidence ledger `BIO16-01…BIO16-10` finalized; canonical `BIO-16_training_adaptations.md` created.
+- **CURRENT NEXT: BIO-17/PASS-01 — Individual differences content revalidation.**
 
 ## История текущего revalidation cycle
 
