@@ -613,20 +613,18 @@
 - Partial/Total JRF retained as explicit project reporting convention following Baltzopoulos; not claimed as universal field-wide wording.
 - Task-level force/load-velocity profile remains distinct from intrinsic muscle F-V owned by PHY/MEC-08; current NSCA generic competency wording is preserved as professional scope.
 - Evidence ledger `MEC03-01…MEC03-16` finalized; canonical `MEC-03_kinetics.md` created.
-- **MEC-04 — RESEARCHING; PASS-01 complete, independent closure/gap audit pending.**
-- MEC-04/PASS-01 torque/moment-arm content revalidation completed 2026-11-20; exact Area 06 Section 4 coverage = **10/10 at content/scope level**.
-- PASS-01 content checks = **30/30 RESOLVED**.
-- Torque/moment retained as force × perpendicular distance about a specified reference; moment arm is the perpendicular distance to the force line of action, not generic segment length.
-- External and internal muscle moment arms are explicitly separated; same kg/force does not imply same joint moment.
-- Current evidence confirms muscle moment arms vary with joint angle, joint/DOF and person; population-average moment arms are not individual constants.
-- Simple moment balance explains why muscle force can greatly exceed external load when internal moment arms are short, but does not uniquely solve multimuscle force sharing.
-- Mechanical advantage is retained as a geometry/force-transformation concept, **not training advantage**.
-- Constant nominal load can create changing joint moment through ROM because external moment arm changes; dynamic inertial effects can add further demand.
-- External joint moment is retained as a mechanical-demand descriptor, not a complete measure of exercise difficulty, hypertrophy stimulus or injury risk.
-- Evidence ledger `MEC04-01…MEC04-12` added as revalidated, **MEC-04 audit pending**.
-- No source-map mutation in PASS-01; PASS-02 must independently test whether line of action/reference axis/moment-arm-method concepts need explicit map status and whether the “exercise difficulty” wording should be tightened.
-- Canonical MEC-04 finding **not created**; `CLOSED_FOR_PRACTICE` **not assigned**.
-- **CURRENT NEXT: MEC-04/PASS-02 — independent closure/gap audit and synthesis.**
+- **MEC-04 — CLOSED_FOR_PRACTICE v2.0.**
+- MEC-04/PASS-01 completed torque/moment-arm content revalidation: **10/10 exact items**, **30/30 checks**.
+- MEC-04/PASS-02 independent closure/gap audit completed 2026-11-20: **33/33 PASS**.
+- No source-map mutation was required.
+- Line of action remains part of the perpendicular-moment-arm definition; reference-axis/center-of-rotation details remain cross-cutting with MEC-02/MEC-12/MEC-21.
+- Geometric and tendon-excursion moment-arm methods are retained as alternative estimation routes with different assumptions and possible in-vivo disagreement, not separate physical constructs.
+- External and internal moment arms remain distinct; same kg/force does not imply same joint moment.
+- Moment arms remain joint-, DOF-, angle-, method- and person-dependent in exact magnitude.
+- Mechanical advantage remains a force-transformation concept, not training advantage.
+- External joint moment remains a mechanical-demand descriptor, not total exercise difficulty, muscle force, hypertrophy stimulus or injury risk.
+- Evidence ledger `MEC04-01…MEC04-12` finalized; canonical `MEC-04_torque_moment_arms.md` created.
+- **CURRENT NEXT: MEC-05/PASS-01 — Lever systems content revalidation.**
 
 ## История текущего revalidation cycle
 
