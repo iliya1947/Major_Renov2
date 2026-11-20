@@ -116,9 +116,7 @@ Confidence: **HIGH**.
 
 For point position:
 
-[
-{}^{G}mathbf r_P
-]
+`r_P expressed in global frame G`
 
 denotes conceptually:
 
@@ -168,9 +166,7 @@ Biomechanical standards commonly use orthogonal right-handed coordinate systems.
 
 For orthonormal axes:
 
-[
-hat{mathbf e}_x	imeshat{mathbf e}_y=hat{mathbf e}_z
-]
+`e_x × e_y = e_z`
 
 The exact anatomical mapping of x/y/z varies by convention.
 
@@ -188,9 +184,7 @@ For a joint connecting proximal and distal segments, joint orientation is fundam
 
 Conceptually:
 
-[
-R_{proximal	o distal}
-]
+`R_proximal→distal`
 
 contains the distal-frame orientation relative to the proximal frame.
 
@@ -241,9 +235,7 @@ For a rigid segment in 3D:
 
 Therefore a full rigid-body trajectory may require:
 
-[
-	ext{pose}(t)={mathbf r(t),R(t)}
-]
+`pose(t) = {r(t), R(t)}`
 
 where (R(t)) denotes orientation.
 
@@ -278,9 +270,7 @@ Confidence: **HIGH**.
 
 A 3D orientation can be represented by a rotation matrix:
 
-[
-Rin SO(3)
-]
+`R ∈ SO(3)`
 
 At trainer-relevant level, the important properties are:
 
@@ -344,10 +334,7 @@ Finite 3D rotations are non-commutative.
 
 In general:
 
-[
-R_x(alpha)R_y(eta)
-eq R_y(eta)R_x(alpha)
-]
+`R_x(α)R_y(β) ≠ R_y(β)R_x(α)`
 
 Therefore changing the order of finite rotations can change the resulting orientation or, when decomposing the same orientation, change the reported angle components.
 
@@ -428,9 +415,7 @@ If:
 
 then the joint-level quantity is based on their relative orientation, conceptually of the form:
 
-[
-R_P^D=(R_G^P)^{-1}R_G^D
-]
+`R_P^D = (R_G^P)^−1 R_G^D`
 
 for a consistent convention.
 
@@ -470,15 +455,11 @@ Canonical handoff:
 
 Point trajectory:
 
-[
-mathbf r(t)
-]
+`r(t)`
 
 Orientation trajectory:
 
-[
-R(t)
-]
+`R(t)`
 
 Rigid-body pose trajectory requires both.
 
@@ -496,9 +477,7 @@ Confidence: **HIGH**.
 
 A joint-angle curve:
 
-[
-q(t)
-]
+`q(t)`
 
 is a chosen coordinate representation of relative orientation through time.
 
@@ -519,9 +498,7 @@ Confidence: **HIGH**.
 
 For a scalar variable (q(t)):
 
-[
-ROM_q=q_{max}-q_{min}
-]
+`ROM_q = q_max − q_min`
 
 is a valid excursion descriptor when:
 - (q) is defined;
