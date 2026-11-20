@@ -194,20 +194,11 @@ Position locates a point relative to a chosen origin/reference frame.
 
 In Cartesian 3D form:
 
-[
-mathbf r(t)=
-egin{bmatrix}
-x(t)\
-y(t)\
-z(t)
-end{bmatrix}
-]
+`r(t) = [x(t), y(t), z(t)]^T`
 
 SI unit for linear position:
 
-[
-mathrm{m}
-]
+`m`
 
 Position is generally vector-valued in a coordinate system.
 
@@ -239,16 +230,11 @@ Confidence: **HIGH**.
 
 Displacement is the change in position:
 
-[
-Deltamathbf r=
-mathbf r_2-mathbf r_1
-]
+`Δr = r₂ − r₁`
 
 SI:
 
-[
-mathrm{m}
-]
+`m`
 
 It is a vector.
 
@@ -288,15 +274,11 @@ Distance is scalar path length.
 
 For a trajectory (mathbf r(t)):
 
-[
-s=int |mathrm dmathbf r|
-]
+`s = ∫ |dr|`
 
 SI:
 
-[
-mathrm{m}
-]
+`m`
 
 Distance is:
 - non-negative;
@@ -304,9 +286,7 @@ Distance is:
 
 For a given interval:
 
-[
-sgeq |Deltamathbf r|
-]
+`s ≥ |Δr|`
 
 with equality only when the path corresponds to the direct displacement without reversals/detours.
 
@@ -333,31 +313,21 @@ Confidence: **HIGH**.
 
 Instantaneous linear velocity:
 
-[
-mathbf v=
-rac{dmathbf r}{dt}
-]
+`v = dr/dt`
 
 Average velocity:
 
-[
-mathbf v_{avg}=
-rac{Deltamathbf r}{Delta t}
-]
+`v_avg = Δr/Δt`
 
 SI:
 
-[
-mathrm{m/s}
-]
+`m/s`
 
 Velocity is a vector.
 
 Speed:
 
-[
-v_{speed}=|mathbf v|
-]
+`speed = |v|`
 
 is scalar.
 
@@ -365,9 +335,7 @@ is scalar.
 
 For a full repetition returning to its starting position:
 
-[
-Deltamathbf rapprox0
-]
+`Δr ≈ 0`
 
 so average velocity over the entire cycle may be near zero.
 
@@ -387,23 +355,15 @@ Confidence: **HIGH**.
 
 Instantaneous acceleration:
 
-[
-mathbf a=
-rac{dmathbf v}{dt}
-]
+`a = dv/dt`
 
 Average:
 
-[
-mathbf a_{avg}=
-rac{Deltamathbf v}{Delta t}
-]
+`a_avg = Δv/Δt`
 
 SI:
 
-[
-mathrm{m/s^2}
-]
+`m/s²`
 
 Acceleration can reflect:
 - speed increase;
@@ -455,15 +415,11 @@ Confidence: **HIGH**.
 
 For simple planar/fixed-axis rotation:
 
-[
-Delta	heta=	heta_2-	heta_1
-]
+`Δθ = θ₂ − θ₁`
 
 SI coherent angle unit:
 
-[
-mathrm{rad}
-]
+`rad`
 
 Degrees are widely used for reporting human joint angles, but radian is the coherent SI angle unit.
 
@@ -475,9 +431,7 @@ NASA's current angular-motion material explicitly distinguishes them.
 
 For a point at radius (r) in ideal fixed-axis rotation:
 
-[
-s=r	heta
-]
+`s = rθ`
 
 Thus:
 - same angular displacement;
@@ -520,24 +474,17 @@ Confidence: **HIGH**.
 
 For simple fixed-axis rotation:
 
-[
-omega=
-rac{d	heta}{dt}
-]
+`ω = dθ/dt`
 
 SI:
 
-[
-mathrm{rad/s}
-]
+`rad/s`
 
 Angular velocity has axis/direction information.
 
 For ideal rigid fixed-axis rotation:
 
-[
-v_t=omega r
-]
+`v_t = ωr`
 
 so points farther from the axis have greater tangential speed at the same angular velocity.
 
@@ -567,16 +514,11 @@ Confidence: **HIGH**.
 
 For simple fixed-axis rotation:
 
-[
-alpha=
-rac{domega}{dt}
-]
+`α = dω/dt`
 
 SI:
 
-[
-mathrm{rad/s^2}
-]
+`rad/s²`
 
 Angular acceleration describes:
 - change in angular speed;
@@ -731,9 +673,7 @@ A trajectory is the time-ordered path of:
 
 Mathematically:
 
-[
-mathbf r(t)
-]
+`r(t)`
 
 and derived quantities may include:
 - velocity trajectory;
@@ -782,9 +722,7 @@ Confidence: **HIGH**.
 
 For a defined angle/position variable:
 
-[
-ROM=x_{max}-x_{min}
-]
+`ROM = x_max − x_min`
 
 where (x) may be:
 - angular;
@@ -855,9 +793,7 @@ Useful kinematic temporal variables can include:
 
 SI time unit:
 
-[
-mathrm{s}
-]
+`s`
 
 ## 35. Temporal characteristic vs tempo prescription
 
@@ -1004,9 +940,7 @@ MEC-03/MEC-04 explain:
 
 Forbidden chain:
 
-[
-	ext{joint angle/velocity} Rightarrow 	ext{known muscle force}
-]
+`joint angle/velocity ⇒ known muscle force`
 
 without a kinetic/model layer.
 
