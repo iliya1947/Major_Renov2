@@ -604,19 +604,16 @@
 - Rotation-sequence dependence and scalar-ROM boundaries remain explicit; measurement/calibration/filtering/2D-vs-3D validity remain MEC-21/TST.
 - PASS-04 integrity audit found and repaired Markdown/LaTeX escape corruption in PASS-01/PASS-03; no control-character corruption remains.
 - Evidence ledger `MEC02-01…MEC02-12` finalized; canonical `MEC-02_kinematics.md` created.
-- **MEC-03 — RESEARCHING; PASS-03 repair content complete, repeat closure audit pending.**
-- MEC-03/PASS-01 completed original Section 3 kinetics content revalidation: **14/14**, content checks **42/42 RESOLVED**.
-- MEC-03/PASS-02 found **1 repair cluster**: missing free-body/system-boundary foundation plus JRF/inertial/F-V terminology ambiguity.
-- MEC-03/PASS-03 repaired the cluster: **12/12 repair checks PASS**.
-- Area 06 Section 3 corrected from **14 to 15 exact items** by adding **Free-body diagrams / system-boundary analysis**.
-- Source-map wording corrected: JRF → **partial vs total definition/reporting**; inertial forces → **D'Alembert pseudo-force vs distributed-mass inertial contribution**; F-V → **task-level force/load-velocity curve/profile**.
-- FBD chain is explicit: system definition → external forces/moments on selected free body → Newton-Euler balance → inferred kinetic resultants.
-- Newton-third-law pair placement is explicit: both members do not appear on one free body.
-- Task-level F-V remains distinct from intrinsic muscle F-V owned by PHY/MEC-08.
-- `MEC03-13…MEC03-16` moved to revalidated/audit-pending. All `MEC03-01…MEC03-16` remain audit-pending until repeat closure.
-- Canonical MEC-03 finding **not created**; `CLOSED_FOR_PRACTICE` **not assigned**.
-- Revised current Section 3 content coverage = **15/15**.
-- **CURRENT NEXT: MEC-03/PASS-04 — repeat independent closure audit and synthesis after free-body/terminology repair.**
+- **MEC-03 — CLOSED_FOR_PRACTICE v2.0.**
+- MEC-03/PASS-01 original kinetics content revalidation: **14/14**, **42/42 checks**.
+- MEC-03/PASS-02 independently refused closure after identifying the free-body/system-boundary and terminology repair cluster.
+- MEC-03/PASS-03 repaired the cluster: **12/12 PASS**; Section 3 corrected to **15 exact items**.
+- MEC-03/PASS-04 repeat independent closure audit completed 2026-11-20: **40/40 PASS**, corrected Section 3 = **15/15 PASS**, no project-relevant blocker remains.
+- Final kinetics foundation: system definition → FBD → external force/moment inventory → Newton-Euler → correctly scoped kinetic resultants.
+- Partial/Total JRF retained as explicit project reporting convention following Baltzopoulos; not claimed as universal field-wide wording.
+- Task-level force/load-velocity profile remains distinct from intrinsic muscle F-V owned by PHY/MEC-08; current NSCA generic competency wording is preserved as professional scope.
+- Evidence ledger `MEC03-01…MEC03-16` finalized; canonical `MEC-03_kinetics.md` created.
+- **CURRENT NEXT: MEC-04/PASS-01 — Torque / moment arms content revalidation.**
 
 ## История текущего revalidation cycle
 
