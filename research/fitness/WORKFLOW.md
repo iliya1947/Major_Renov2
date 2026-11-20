@@ -241,10 +241,10 @@
 23. BIO-19 = **CLOSED_FOR_PRACTICE v2.0**; PASS-01 exact Section 19 content **6/6**, PASS-02 closure audit **36/36 PASS**.
 24. **BIO-01…BIO-19 = CLOSED_FOR_PRACTICE v2.0; Bioenergetics dependency complete for current project purpose.**
 25. **CURRENT DOMAIN: 06 — Biomechanics.**
-26. MEC-01/PASS-01 = **CONTENT PASS COMPLETE**; original Area 06 Section 1 coverage **15/15**, content checks **45/45**.
-27. MEC-01/PASS-02 = **GAP AUDIT COMPLETE**; blocker cluster = rotational inertia + angular momentum + angular impulse.
-28. MEC-01/PASS-03 = **GAP CONTENT COMPLETE**; gap checks **12/12 PASS**, Area 06 Section 1 corrected to **18 exact items**, revised content coverage **18/18**.
-29. **CURRENT NEXT: MEC-01/PASS-04 — repeat independent closure audit and synthesis after rotational-dynamics gap repair.**
+26. MEC-01 = **CLOSED_FOR_PRACTICE v2.0**.
+27. PASS-01 original Section 1 **15/15**, checks **45/45**; PASS-02 gap audit found rotational-dynamics blocker; PASS-03 repair **12/12**; PASS-04 repeat closure audit **40/40 PASS**.
+28. Corrected Area 06 Section 1 = **18/18 exact items PASS**; canonical MEC-01 and finalized evidence ledger created.
+29. **CURRENT NEXT: MEC-02/PASS-01 — Kinematics content revalidation.**
 30. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
 
 Авторитет текущей точки: PR #5 identity/workspace lock → фактическая ветка → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → последний PASS.
@@ -264,7 +264,7 @@
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **MEC-01/PASS-04 — repeat independent closure audit and synthesis after rotational-dynamics gap repair**.
+Ближайшая задача: Stage 2 / Phase B — **MEC-02/PASS-01 — Kinematics content revalidation**.
 
 
 ## 10. Stage 0B — результат
