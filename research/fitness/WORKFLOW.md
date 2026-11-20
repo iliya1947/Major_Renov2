@@ -244,11 +244,12 @@
 26. MEC-01 = **CLOSED_FOR_PRACTICE v2.0**.
 27. PASS-01 original Section 1 **15/15**, checks **45/45**; PASS-02 gap audit found rotational-dynamics blocker; PASS-03 repair **12/12**; PASS-04 repeat closure audit **40/40 PASS**.
 28. Corrected Area 06 Section 1 = **18/18 exact items PASS**; canonical MEC-01 and finalized evidence ledger created.
-29. MEC-02/PASS-01 = **CONTENT PASS COMPLETE**; original Area 06 Section 2 coverage **14/14**, content checks **42/42**.
-30. MEC-02/PASS-02 = **GAP AUDIT COMPLETE**; blocker cluster = reference/coordinate frames + 3D orientation representation.
-31. MEC-02/PASS-03 = **GAP CONTENT COMPLETE**; gap checks **14/14 PASS**, Area 06 Section 2 corrected to **16 exact items**, revised content coverage **16/16**.
-32. **CURRENT NEXT: MEC-02/PASS-04 — repeat independent closure audit and synthesis after coordinate/orientation repair.**
-33. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
+29. MEC-02 = **CLOSED_FOR_PRACTICE v2.0**.
+30. PASS-01 original Section 2 **14/14**, checks **42/42**; PASS-02 gap audit found coordinate/orientation blocker; PASS-03 repair **14/14**; PASS-04 repeat closure audit **38/38 PASS**.
+31. Corrected Area 06 Section 2 = **16/16 exact items PASS**; canonical MEC-02 and finalized evidence ledger created.
+32. PASS-04 integrity audit repaired PASS-01/PASS-03 math/Markdown escape corruption and reverified the audit trail.
+33. **CURRENT NEXT: MEC-03/PASS-01 — Kinetics content revalidation.**
+34. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
 
 Авторитет текущей точки: PR #5 identity/workspace lock → фактическая ветка → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → последний PASS.
 
@@ -267,7 +268,7 @@
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **MEC-02/PASS-04 — repeat independent closure audit and synthesis after coordinate/orientation repair**.
+Ближайшая задача: Stage 2 / Phase B — **MEC-03/PASS-01 — Kinetics content revalidation**.
 
 
 ## 10. Stage 0B — результат
