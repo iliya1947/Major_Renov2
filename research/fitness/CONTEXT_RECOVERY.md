@@ -138,7 +138,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-14 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 14 closure **7/7 PASS**;
 - BIO-15 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 15 closure **7/7 PASS**;
 - BIO-16 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 16 closure **10/10 PASS**;
-- **CURRENT NEXT: BIO-17/PASS-01 — Individual differences content revalidation.**
+- BIO-17 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 17 coverage **11/11 at content/scope level**;
+- **CURRENT NEXT: BIO-17/PASS-02 — Closure audit and synthesis.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -188,45 +189,39 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-16/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-17/PASS-01_individual_differences_content_revalidation.md`
 
-PASS commit: `b8b351cafa3eb08687303e70875b11179937828d`
+PASS commit: `55dc1ead0a586ed00b0f49629e1ce3a9e0490346`
 
-BIO-16/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-17/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 05 Section 16 coverage = **10/10 PASS**;
-2. PASS-01 audit checks = **40/40 RESOLVED**;
-3. no BIO-16 project-relevant blocker remains;
-4. metabolic adaptation retained as multilevel; signaling, protein/transporter abundance, enzyme activity, organelle content/function, substrate storage, recovery kinetics, whole-body physiology and performance remain non-equivalent;
-5. PGC-1α retained as biogenesis-associated signaling marker rather than mitochondrial biogenesis itself;
-6. mitochondrial content and intrinsic function remain distinct; ET/HIT/SIT can all produce mitochondrial adaptation;
-7. concurrent RT+ET can retain mitochondrial/aerobic adaptation in many contexts, while reduced endurance dose can attenuate VO2max gains; linked correction verified as duplicate-abstract-sentence correction only;
-8. enzyme adaptation retained as enzyme/protocol specific; assay activity is not in-vivo pathway flux;
-9. GLUT4/MCT/FAT transporter adaptation retained with protein/trafficking/flux boundaries;
-10. glycogen storage/repletion capacity retained as trainable but non-equivalent to current nutrition-dependent glycogen availability;
-11. buffering capacity retained as protocol-specific rather than universal after hard training;
-12. human MCT1 protein response retained as more consistent than MCT4; gene expression, protein and transport flux remain distinct;
-13. lower blood lactate is not retained as direct evidence of lower production or one clearance mechanism;
-14. PCr-recovery kinetics retained as a local, trainable, protocol/pH/method-dependent phenotype rather than global readiness;
-15. aerobic/repeated-bout recovery retained as multicomponent;
-16. training specificity retained as biased rather than exclusive; overlapping biological adaptation does not imply identical task transfer;
-17. detraining retained as trait/time specific; no universal decay half-time is retained;
-18. partial training may preserve selected adaptations, but exact maintenance dose remains PRO-owned;
-19. human HIIT evidence supports retained epigenetic/gene-expression memory while current corrected article still reports no enhanced physiological retraining response;
-20. molecular retention, phenotype retention and accelerated regain remain three separate claims;
-21. animal metabolic-memory evidence remains mechanistic only;
-22. one prior response is not retained as a stable individual responder phenotype;
-23. canonical `BIO-16_training_adaptations.md` created;
-24. evidence ledger `BIO16-01…BIO16-10` finalized;
-25. BIO-16 = **CLOSED_FOR_PRACTICE v2.0**.
+1. exact Area 05 Section 17 coverage = **11/11 at content/scope level**;
+2. no content-level blocker was found;
+3. individual differences are separated into relatively stable traits, trained phenotype, current metabolic state and environmental/recovery context;
+4. observed response variability is explicitly separated from true treatment-response heterogeneity, measurement error and within-person variability;
+5. one training block is insufficient to assign a stable responder/non-responder identity;
+6. training status is retained as task/domain specific; same external workload can represent different relative metabolic demand;
+7. muscle fiber composition is retained as local/plastic phenotype rather than whole-person energy-system identity;
+8. biological age modifies baseline physiology and adaptation context but is not retained as deterministic loss of trainability;
+9. biological sex is retained as a context-dependent population modifier; current fat-oxidation evidence does not support a universal “women always oxidize more fat” rule;
+10. nutrition and energy availability are separated; LEA is non-equivalent to REDs and no universal 30 kcal/kg FFM/day diagnostic threshold is retained;
+11. glycogen status is retained as transient/local state; same carbohydrate intake can produce different glycogen concentrations;
+12. creatine stores are retained as variable state; store response and performance response remain non-equivalent;
+13. sleep/stress are retained as indirect performance/recovery modifiers rather than direct metabolic diagnoses;
+14. current sports-genetics evidence is retained as polygenic/contextual and insufficient for routine individual training prescription;
+15. environmental heat/hypoxia context can change internal load; acute exposure and chronic acclimation/training adaptation are separated;
+16. stable/demographic traits are not used to explain performance before current state, measurement and task equivalence are considered;
+17. BIO-17 remains **not CLOSED_FOR_PRACTICE** pending independent PASS-02 audit;
+18. canonical BIO-17 finding and final BIO17 evidence-ledger rows are intentionally not created before closure audit;
+19. PASS-01 defines **45 unresolved audit checks** for PASS-02.
 
 ### Следующая задача
 
-**BIO-17/PASS-01 — Individual differences content revalidation.**
+**BIO-17/PASS-02 — Closure audit and synthesis.**
 
-BIO-16 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-17 only after the next user continue signal; one signal = one saved PASS/block → STOP.
+BIO-17 is **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING** after PASS-01. Start PASS-02 only after the next user continue signal; one signal = one saved PASS/block → STOP.
 
 ---
 
@@ -248,9 +243,9 @@ BIO-16 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-17 only after th
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-16/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-17/PASS-01_individual_differences_content_revalidation.md`
 
-Затем при следующем пользовательском continue выполнить только записанный выше **BIO-17/PASS-01 — Individual differences content revalidation** и остановиться перед следующим блоком.
+Затем при следующем пользовательском continue выполнить только записанный выше **BIO-17/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
