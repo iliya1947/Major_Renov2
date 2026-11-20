@@ -137,7 +137,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-13 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 13 closure **10/10 PASS**;
 - BIO-14 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 14 closure **7/7 PASS**;
 - BIO-15 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 15 closure **7/7 PASS**;
-- **CURRENT NEXT: BIO-16/PASS-01 — Training adaptations content revalidation.**
+- BIO-16 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 16 coverage **10/10 at content/scope level**;
+- **CURRENT NEXT: BIO-16/PASS-02 — Closure audit and synthesis.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -187,44 +188,40 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-15/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-16/PASS-01_training_adaptations_content_revalidation.md`
 
-PASS commit: `dfc3294f999dc0a897a6d448876a5d83cd7251f1`
+PASS commit: `f7c3254b9f4e32efcf525644d6877aa1230150da`
 
-BIO-15/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-16/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 05 Section 15 coverage = **7/7 PASS**;
-2. PASS-01 audit checks = **35/35 RESOLVED**;
-3. no BIO-15 project-relevant blocker remains;
-4. VO2max retained as integrated whole-body oxygen-cascade capacity rather than a complete endurance-performance score;
-5. VO2peak retained as highest observed test VO2 and non-equivalent to automatically confirmed VO2max;
-6. fractional utilization retained as a context-dependent descriptive construct rather than a universally strong independent performance determinant;
-7. LT/VT/GET/RCP/CP/CS/MLSS retained as related but method-defined constructs rather than one interchangeable threshold;
-8. CP vs MLSS pooled difference is not retained as an individual correction factor;
-9. exercise economy retained as task-context oxygen/energy cost and separated from VO2max and mechanical efficiency;
-10. economy retained as speed/workload, mode, environment, equipment and fatigue-state dependent;
-11. 1% treadmill incline is not retained as a universal overground-equivalence correction;
-12. strength training can improve running economy in selected endurance contexts, but current evidence is heterogeneous and includes null RCT evidence;
-13. mitochondrial content/function remain non-equivalent; ET/HIT/SIT can all increase mitochondrial content;
-14. mitochondrial adaptation retained as important but insufficient by itself for VO2max/performance;
-15. capillarization retained as trainable but metric dependent; capillary density alone does not define total microvascular adaptation;
-16. central and peripheral adaptations retained as potentially coexisting and non-equivalent to current rate limitation;
-17. elite-athlete systemic O2-delivery limitation is not generalized to all populations;
-18. current sex-specific evidence is treated conservatively; no universal sex-specific central/peripheral model is retained;
-19. oxidative metabolism retained as mechanistically relevant to resistance-set recovery;
-20. direct evidence in resistance-trained men/women shows whole-body VO2max is only a weak predictor of within-set fatigue/between-set recovery in tested tasks;
-21. local oxidative/PCr-recovery physiology and whole-body VO2max remain non-equivalent;
-22. canonical `BIO-15_aerobic_capacity_economy.md` created;
-23. evidence ledger `BIO15-01…BIO15-10` finalized;
-24. BIO-15 = **CLOSED_FOR_PRACTICE v2.0**.
+1. exact Area 05 Section 16 coverage = **10/10 at content/scope level**;
+2. no content-level blocker was found;
+3. chronic metabolic adaptation retained as multilevel: signaling → protein/transporter/enzyme → organelle/substrate/recovery → physiology/performance, with no guaranteed one-to-one mapping;
+4. mitochondrial content and intrinsic function remain non-equivalent; ET/HIT/SIT can all produce mitochondrial adaptation;
+5. enzyme adaptation retained as enzyme/protocol specific; assay activity is not in-vivo pathway flux;
+6. substrate-transport adaptation includes GLUT4 and MCT systems, while abundance/translocation/flux/whole-body outcome remain distinct;
+7. training can increase glycogen storage/repletion capacity, but capacity is non-equivalent to current glycogen availability and remains nutrition dependent;
+8. muscle buffering capacity can increase in some high-intensity protocols but is not a universal consequence of hard training;
+9. MCT1 is more consistently training responsive than MCT4; blood-lactate behavior is not a direct transporter readout;
+10. PCr recovery kinetics can adapt in selected protocols but remain local, pH/protocol/method dependent and non-equivalent to global readiness;
+11. “aerobic recovery” retained as multicomponent rather than one universal recovery-speed trait;
+12. specificity retained as mode/task biased but non-exclusive because different modes can produce overlapping metabolic adaptations;
+13. detraining retained as trait- and time-specific rather than synchronized loss;
+14. oxidative adaptations can decline faster than some glycolytic/structural traits in classic human evidence, without retaining universal half-times;
+15. retraining retained as effective but not guaranteed to be physiologically faster than initial training;
+16. human HIIT evidence shows retained epigenetic/gene-expression signatures through detraining/retraining, while physiological adaptation was not significantly enhanced on retraining;
+17. molecular memory, retained phenotype and accelerated physiological regain are explicitly separated;
+18. BIO-16 remains **not CLOSED_FOR_PRACTICE** pending independent PASS-02 audit;
+19. canonical BIO-16 finding and final BIO16 evidence-ledger rows are intentionally not created before closure audit;
+20. PASS-01 defines **40 unresolved audit checks** for PASS-02.
 
 ### Следующая задача
 
-**BIO-16/PASS-01 — Training adaptations content revalidation.**
+**BIO-16/PASS-02 — Closure audit and synthesis.**
 
-BIO-15 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-16 only after the next user continue signal; one signal = one saved PASS/block → STOP.
+BIO-16 is **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING** after PASS-01. Start PASS-02 only after the next user continue signal; one signal = one saved PASS/block → STOP.
 
 ---
 
@@ -246,9 +243,9 @@ BIO-15 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-16 only after th
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-15/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-16/PASS-01_training_adaptations_content_revalidation.md`
 
-Затем при следующем пользовательском continue выполнить только записанный выше **BIO-16/PASS-01 — Training adaptations content revalidation** и остановиться перед следующим блоком.
+Затем при следующем пользовательском continue выполнить только записанный выше **BIO-16/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
