@@ -153,7 +153,10 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - Corrected Area 06 Section 2 = **16/16 exact items PASS**.
 - PASS-04 integrity audit repaired PASS-01/PASS-03 escape corruption; no control-character corruption remains.
 - Canonical `MEC-02_kinematics.md` created; `MEC02-01…MEC02-12` finalized.
-- **CURRENT NEXT: MEC-03/PASS-01 — Kinetics content revalidation.**
+- MEC-03/PASS-01 — **CONTENT PASS COMPLETE**; exact Section 3 coverage **14/14**, content checks **42/42**, closure/gap audit pending.
+- Terminology risks reserved for independent audit: `inertial forces`, `joint reaction force`, generic `force-velocity curve`.
+- Canonical MEC-03 finding not created; `MEC03-01…MEC03-12` remain audit-pending.
+- **CURRENT NEXT: MEC-03/PASS-02 — independent closure/gap audit and synthesis.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
