@@ -238,8 +238,9 @@
 20. BIO-16 = **CLOSED_FOR_PRACTICE v2.0**; PASS-02 closure audit complete, exact Section 16 coverage **10/10 PASS**.
 21. BIO-17 = **CLOSED_FOR_PRACTICE v2.0**; PASS-02 closure audit complete, exact Section 17 coverage **11/11 PASS**.
 22. BIO-18 = **CLOSED_FOR_PRACTICE v2.0**; PASS-02 closure audit complete, exact Section 18 coverage **6/6 PASS**.
-23. **CURRENT NEXT: BIO-19/PASS-01 — Boundaries with other areas content revalidation.**
-24. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
+23. BIO-19/PASS-01 = **CONTENT PASS COMPLETE**; exact Section 19 coverage **6/6**, boundary checks **24/24**, closure audit pending.
+24. **CURRENT NEXT: BIO-19/PASS-02 — independent closure audit and synthesis.**
+25. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
 
 Авторитет текущей точки: PR #5 identity/workspace lock → фактическая ветка → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → последний PASS.
 
@@ -258,7 +259,7 @@
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **BIO-19/PASS-01 — Boundaries with other areas content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **BIO-19/PASS-02 — independent closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
