@@ -551,7 +551,22 @@
 - Human HIIT retraining evidence supports retained epigenetic/gene-expression memory but not enhanced physiological retraining response in the corrected current article.
 - Molecular memory, retained phenotype and accelerated regain remain non-equivalent.
 - Evidence ledger `BIO16-01…BIO16-10` finalized; canonical `BIO-16_training_adaptations.md` created.
-- **CURRENT NEXT: BIO-17/PASS-01 — Individual differences content revalidation.**
+- **BIO-17 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- BIO-17/PASS-01 individual-differences content revalidation completed 2026-11-20; exact Area 05 Section 17 coverage = **11/11 at content/scope level**.
+- Individual differences retained as four layers: relatively stable traits, trained phenotype, current metabolic state, and current recovery/environmental context.
+- Observed response variability is non-equivalent to true treatment-response heterogeneity; measurement error and within-person variability must be considered before responder labels.
+- Training status retained as task/domain specific; same external workload can represent different relative metabolic demand.
+- Muscle fiber composition retained as local/plastic rather than a deterministic whole-person energy-system identity.
+- Biological age retained as context modifier without implying loss of trainability; biological sex retained as context-dependent rather than a universal substrate-use rule.
+- Nutrition and energy availability separated; LEA is non-equivalent to REDs and no universal numeric diagnostic threshold is retained.
+- Glycogen status retained as transient/local and not inferable precisely from carbohydrate intake alone.
+- Creatine stores retained as variable state; muscle-store response and performance response remain distinct.
+- Sleep/stress retained as indirect performance/recovery modifiers rather than direct bioenergetic diagnoses.
+- Current sports-genetics evidence retained as polygenic/contextual and insufficient for routine individual training prescription.
+- Environmental conditions retained as internal-load modifiers; acute heat/hypoxia effects and chronic acclimation/adaptation remain separate.
+- BIO-17 remains **not CLOSED_FOR_PRACTICE**; canonical finding and final BIO17 ledger rows are deferred until PASS-02.
+- PASS-01 records **45 unresolved audit checks** for independent closure review.
+- **CURRENT NEXT: BIO-17/PASS-02 — Closure audit and synthesis.**
 
 ## История текущего revalidation cycle
 
