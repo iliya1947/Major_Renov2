@@ -111,14 +111,15 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 
 **Этап:** квалификация Ники как фитнес-тренера.  
 **Phase:** Stage 2 / Phase B.  
-**Текущий qualification domain:** **05 — Bioenergetics**.
+**Текущий qualification domain:** **06 — Biomechanics**.
 
 Крупные dependencies:
 
 - Anatomy — **CLOSED_FOR_PRACTICE v2.0**;
 - Physiology — **CLOSED_FOR_PRACTICE v2.0**;
 - Neurophysiology / Motor Learning — **CLOSED_FOR_PRACTICE v2.0**;
-- Bioenergetics — **RESEARCHING as part of qualification**.
+- Bioenergetics — **CLOSED_FOR_PRACTICE v2.0**;
+- Biomechanics — **RESEARCHING as part of qualification**.
 
 Текущая точка:
 
@@ -143,8 +144,11 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-19 — **CLOSED_FOR_PRACTICE v2.0**; PASS-01 content **6/6**, PASS-02 closure audit **36/36 PASS**.
 - **BIO-01…BIO-19 — CLOSED_FOR_PRACTICE v2.0; Bioenergetics dependency complete for current project purpose.**
 - **CURRENT DOMAIN: 06 — Biomechanics.**
-- MEC-01/PASS-01 — **CONTENT PASS COMPLETE**; exact Section 1 coverage **15/15**, content checks **45/45**, closure audit pending.
-- **CURRENT NEXT: MEC-01/PASS-02 — independent closure audit and synthesis.**
+- MEC-01/PASS-01 — **CONTENT PASS COMPLETE**; exact Section 1 coverage **15/15**, content checks **45/45**.
+- MEC-01/PASS-02 — **GAP AUDIT COMPLETE; CLOSURE NOT AUTHORIZED**.
+- Blocking cluster: **rotational inertia / angular momentum / angular impulse** missing between angular kinematics and torque.
+- Canonical MEC-01 finding not created; existing MEC01 ledger rows remain audit-pending.
+- **CURRENT NEXT: MEC-01/PASS-03 — rotational inertia, angular momentum and angular impulse gap closure.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
