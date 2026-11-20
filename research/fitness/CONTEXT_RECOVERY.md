@@ -140,8 +140,10 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-16 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 16 closure **10/10 PASS**;
 - BIO-17 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 17 closure **11/11 PASS**;
 - BIO-18 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 18 closure **6/6 PASS**;
-- BIO-19/PASS-01 — **CONTENT PASS COMPLETE**; exact Section 19 coverage **6/6**, boundary checks **24/24**, closure audit pending.
-- **CURRENT NEXT: BIO-19/PASS-02 — independent closure audit and synthesis.**
+- BIO-19 — **CLOSED_FOR_PRACTICE v2.0**; PASS-01 content **6/6**, PASS-02 closure audit **36/36 PASS**.
+- **BIO-01…BIO-19 — CLOSED_FOR_PRACTICE v2.0; Bioenergetics dependency complete for current project purpose.**
+- **CURRENT DOMAIN: 06 — Biomechanics.**
+- **CURRENT NEXT: MEC-01/PASS-01 — Newtonian mechanics / vectors content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
