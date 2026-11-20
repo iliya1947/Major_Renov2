@@ -516,21 +516,23 @@
 - Current external test-specific PubMed/web search was reattempted but returned no usable results; **Информация не проверена** for additional current 2025–2026 Wingate protocol-specific validity/reliability and active-vs-passive repeated-sprint recovery literature.
 - Those unverified protocol-specific claims are not used for BIO-14 closure and remain TST/PRO-owned.
 - Evidence ledger `BIO14-01…BIO14-10` finalized; canonical `BIO-14_anaerobic_power_capacity.md` created.
-- **BIO-15 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- **BIO-15 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-15/PASS-01 aerobic capacity/economy content revalidation completed 2026-11-20; exact Area 05 Section 15 coverage = **7/7 at content/scope level**.
+- BIO-15/PASS-02 independent closure audit / synthesis completed 2026-11-20; exact Section 15 coverage = **7/7 PASS** and no BIO-15 project-relevant blocker remains.
+- PASS-01 audit checks = **35/35 RESOLVED**.
 - VO2max retained as integrated whole-body oxygen-cascade capacity rather than a complete endurance-performance score; VO2peak remains operationally distinct.
-- LT/VT/GET/CP/CS/MLSS retained as related but method-defined landmarks rather than one universally interchangeable threshold.
-- Exercise economy retained as standardized submaximal task cost and separated from VO2max and mechanical efficiency.
-- Economy retained as speed/workload, mode, environment and fatigue-state dependent; treadmill-to-overground transfer is not assumed.
-- Strength training can improve running economy in selected endurance populations without VO2max improvement, but current evidence is heterogeneous and includes a 2026 null RCT.
-- Mitochondrial content/function remain non-equivalent; ET/HIT/SIT can all increase mitochondrial content.
-- Capillary adaptation retained as peripheral oxygen-exchange support; capillary density and capillary-to-fiber metrics remain non-equivalent and detailed physiology remains PHY-owned.
-- Central and peripheral adaptations retained as integrated/state dependent rather than mutually exclusive.
-- Elite endurance O2-delivery limitation is not generalized to all populations.
-- Oxidative metabolism retained as relevant to resistance-training recovery, while direct evidence shows whole-body VO2max is only weakly associated with within-set fatigue/between-set recovery.
-- BIO-15 remains **not CLOSED_FOR_PRACTICE**; canonical finding and final BIO15 ledger rows are deferred until PASS-02.
-- PASS-01 records **35 unresolved audit checks** for independent closure review.
-- **CURRENT NEXT: BIO-15/PASS-02 — Closure audit and synthesis.**
+- Fractional utilization retained as context-dependent rather than a universally strong independent performance determinant.
+- LT/VT/GET/RCP/CP/CS/MLSS retained as related but method-defined constructs; CP–MLSS pooled mean difference is not an individual correction factor.
+- Exercise economy retained as task-context oxygen/energy cost distinct from VO2max and mechanical efficiency.
+- Economy retained as speed/workload, mode, environment, equipment and fatigue-state dependent; fixed 1% treadmill incline is not a universal overground correction.
+- Strength training can improve running economy in selected endurance contexts without VO2max change, but current evidence is heterogeneous and includes null RCT evidence.
+- Mitochondrial content/function remain non-equivalent; ET/HIT/SIT can all increase mitochondrial content without guaranteeing equal individual performance adaptation.
+- Capillarization retained as trainable but metric dependent; capillary density alone does not define total microvascular adaptation.
+- Central and peripheral adaptations can coexist and are non-equivalent to the current rate-limiting step.
+- Elite endurance systemic O2-delivery limitation is not generalized to all populations; sex-specific mechanism claims are kept evidence-stratified.
+- Oxidative metabolism retained as mechanistically relevant to resistance-set recovery, while whole-body VO2max is only a weak direct recovery proxy in current resistance-trained evidence.
+- Evidence ledger `BIO15-01…BIO15-10` finalized; canonical `BIO-15_aerobic_capacity_economy.md` created.
+- **CURRENT NEXT: BIO-16/PASS-01 — Training adaptations content revalidation.**
 
 ## История текущего revalidation cycle
 
