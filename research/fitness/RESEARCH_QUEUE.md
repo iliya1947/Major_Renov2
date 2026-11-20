@@ -579,19 +579,15 @@
 - Acute metabolic response remains non-equivalent to chronic programming superiority; ACSM 2026 and tempo/rest syntheses are used as chronic-outcome boundaries.
 - Energy-system programming retained as integrated manipulation of intensity, duration, recovery, mode and total exposure/state; ratio alone is incomplete.
 - Evidence ledger `BIO18-01…BIO18-06` finalized; canonical `BIO-18_practical_connection_programming.md` created.
-- **BIO-19 — RESEARCHING; PASS-01 complete, closure audit pending.**
-- BIO-19/PASS-01 boundaries-with-other-areas content revalidation completed 2026-11-20; exact Area 05 Section 19 coverage = **6/6 at content/scope level**.
-- PASS-01 boundary checks = **24/24 RESOLVED**.
-- Boundary model retained as **claim-level routing**, not keyword deletion: BIO owns energetic mechanism/state; adjacent areas own whole-system physiology, prescription, nutrition intervention, measurement, or pathology as appropriate.
-- Muscle contraction/fatigue: BIO owns metabolic contributors; PHY-02/PHY-10 own integrated contraction/fatigue mechanisms.
-- Cardiovascular/respiratory delivery: BIO owns energetic consequence and delivery-vs-utilization constraints; PHY-14/15/17 own detailed delivery physiology.
-- Work:rest: BIO owns acute metabolic consequences; PRO-09/PRO-13 own exact rest/density prescription.
-- Substrate repletion: BIO owns pool physiology; NUT owns intake/timing/dose/food/supplement intervention.
-- VO2/lactate/anaerobic-capacity testing: BIO owns construct meaning and interpretation limits; TST owns protocol, validity/reliability, standardization and monitoring use.
-- Medical metabolic disease: BIO owns normal/performance metabolism; MED owns pathology, medications, contraindications and referral.
-- Current NSCA/ACSM professional architectures are consistent with these separations; ERS 2026 CPET standard reinforces method-dependence of measured VO2peak, and ADA 2026 reinforces clinical-context ownership for metabolic disease.
-- Evidence ledger `BIO19-01…BIO19-07` added as revalidated, **BIO-19 audit pending**.
-- **CURRENT NEXT: BIO-19/PASS-02 — independent closure audit and synthesis.**
+- **BIO-19 — CLOSED_FOR_PRACTICE v2.0.**
+- BIO-19/PASS-01 boundaries-with-other-areas content revalidation completed 2026-11-20; exact Area 05 Section 19 coverage = **6/6 at content/scope level**, boundary checks **24/24 RESOLVED**.
+- BIO-19/PASS-02 independent closure audit / synthesis completed 2026-11-20; total closure audit = **36/36 PASS** and no project-relevant blocker remains.
+- Canonical boundary model: ownership follows **claim/evidence/decision level**, not keyword. BIO owns energetic mechanism/state; PHY whole-system physiology; PRO training prescription; NUT nutrition intervention; TST measurement/testing; MED pathology/clinical risk.
+- REC and IND remain explicit secondary handoffs through `TOPIC_OWNERSHIP.md`: BIO owns substrate/PCr restoration and response mechanisms; REC owns practical recovery, IND person-specific adaptive decisions.
+- Full BIO-01…BIO-18 audit found no direct numeric nutrition/rest prescriptions, no clinical diagnosis from metabolic markers, and no unresolved testing/readiness ownership violation.
+- Evidence ledger `BIO19-01…BIO19-07` finalized; canonical `BIO-19_boundaries_with_other_areas.md` created.
+- **BIO-01…BIO-19 — CLOSED_FOR_PRACTICE v2.0; Bioenergetics dependency complete for current project purpose.**
+- **CURRENT NEXT: MEC-01/PASS-01 — Newtonian mechanics / vectors content revalidation.**
 
 ## История текущего revalidation cycle
 
