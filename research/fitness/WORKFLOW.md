@@ -248,8 +248,9 @@
 30. PASS-01 original Section 2 **14/14**, checks **42/42**; PASS-02 gap audit found coordinate/orientation blocker; PASS-03 repair **14/14**; PASS-04 repeat closure audit **38/38 PASS**.
 31. Corrected Area 06 Section 2 = **16/16 exact items PASS**; canonical MEC-02 and finalized evidence ledger created.
 32. PASS-04 integrity audit repaired PASS-01/PASS-03 math/Markdown escape corruption and reverified the audit trail.
-33. **CURRENT NEXT: MEC-03/PASS-01 — Kinetics content revalidation.**
-34. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
+33. MEC-03/PASS-01 = **CONTENT PASS COMPLETE**; exact Area 06 Section 3 coverage **14/14**, content checks **42/42**, independent closure/gap audit pending.
+34. **CURRENT NEXT: MEC-03/PASS-02 — independent closure/gap audit and synthesis.**
+35. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
 
 Авторитет текущей точки: PR #5 identity/workspace lock → фактическая ветка → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → последний PASS.
 
@@ -268,7 +269,7 @@
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **MEC-03/PASS-01 — Kinetics content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **MEC-03/PASS-02 — independent closure/gap audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
