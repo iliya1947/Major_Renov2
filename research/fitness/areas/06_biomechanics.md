@@ -41,6 +41,8 @@
 12. Segment trajectories.
 13. Range of motion.
 14. Temporal characteristics of movement.
+15. Reference frames / coordinate systems.
+16. Orientation / 3D rotation representation.
 
 ## 3. Кинетика
 
