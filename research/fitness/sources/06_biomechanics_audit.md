@@ -108,3 +108,15 @@ Section 3 исправлен:
 Revised Section 3 = **15 exact items**.
 
 Gap content закрыт в `MEC-03/PASS-03`; окончательная closure остаётся за repeat audit.
+
+## MEC-03 closure 2026-11-20
+
+После free-body/terminology repair:
+- Section 3 = **15 exact items**;
+- MEC-03/PASS-03 repair content = **12/12 PASS**;
+- MEC-03/PASS-04 repeat closure audit = **40/40 PASS**;
+- Partial/Total JRF retained as project reporting convention following Baltzopoulos, not claimed as universal field-wide wording;
+- generic NSCA force-velocity competency wording is preserved as professional scope, while project ownership separates task-level profile from intrinsic muscle F-V;
+- `MEC-03 = CLOSED_FOR_PRACTICE v2.0`.
+
+Следующий topic: `MEC-04 — Torque / moment arms`.
