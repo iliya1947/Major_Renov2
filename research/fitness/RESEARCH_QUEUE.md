@@ -566,21 +566,20 @@
 - Sports genetics retained as polygenic/contextual and insufficient for routine individual prescription; ancestry/external-validation limits apply.
 - Environmental conditions retained as internal-load modifiers; acute heat/hypoxia effects and chronic acclimation/adaptation remain separate, and hypoxia is not a universal endurance upgrade.
 - Evidence ledger `BIO17-01…BIO17-11` finalized; canonical `BIO-17_individual_differences.md` created.
-- **BIO-18 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- **BIO-18 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-18/PASS-01 practical-programming-connection content revalidation completed 2026-11-20; exact Area 05 Section 18 coverage = **6/6 at content/scope level**.
-- Short heavy and high-repetition sets retained as different mechanical/energetic tasks, without a universal heavy-long-rest/highrep-short-rest rule.
-- Rest retained as part of the physiological dose: same external load/reps after different recovery is not the same internal state.
-- Rest placement/distribution retained as capable of changing velocity/power maintenance and perceived/internal load.
-- Repeated-set wording corrected: energetic mix shifts with incomplete PCr recovery and increasing oxidative support, but glycolytic contribution is not guaranteed to rise monotonically.
-- Dense circuits retained as potentially strongly cardiorespiratory, while the actual limiter remains mixed/task specific.
-- Volume-matched RFT-vs-EMOM evidence retained as support that time/rest structure materially changes HR, VO2, lactate and RPE.
-- Same rep count at different tempos retained as metabolically incomplete because TUT/load/work rate/oxygenation can differ.
-- Tempo effects retained as matching-constraint dependent; no universal slow=more-metabolic rule.
-- Energy-system training retained as integrated manipulation of intensity, duration, recovery, mode and total exposure; work:rest ratio alone is incomplete.
-- Acute metabolic strain remains non-equivalent to chronic programming superiority; ACSM 2026 chronic outcomes are used as a boundary.
-- BIO-18 remains **not CLOSED_FOR_PRACTICE**; canonical finding and final BIO18 ledger rows are deferred until PASS-02.
-- PASS-01 records **35 unresolved audit checks** for independent closure review.
-- **CURRENT NEXT: BIO-18/PASS-02 — Closure audit and synthesis.**
+- BIO-18/PASS-02 independent closure audit / synthesis completed 2026-11-20; exact Section 18 coverage = **6/6 PASS** and no BIO-18 project-relevant blocker remains.
+- PASS-01 audit checks = **35/35 RESOLVED**.
+- Rep range retained as non-deterministic for rest; heavy and high-repetition sets can both require substantial recovery depending on target output.
+- Rest retained as a multicomponent physiological phase; same external set after different recovery is not the same internal physiological task.
+- Total rest and rest placement remain distinct; RR/cluster structures can preserve selected acute mechanical outputs without proving universal chronic superiority.
+- Source-map repeated-set wording is corrected: energetic mix changes across repeated sets, oxidative recovery support is important, and glycolytic contribution is not guaranteed to rise monotonically.
+- Dense circuits retained as potentially partly cardiorespiratory-limited while remaining mixed/local/technical tasks.
+- Tempo effects retained as matching-constraint dependent; no universally “more metabolic” tempo is retained.
+- Acute metabolic response remains non-equivalent to chronic programming superiority; ACSM 2026 and tempo/rest syntheses are used as chronic-outcome boundaries.
+- Energy-system programming retained as integrated manipulation of intensity, duration, recovery, mode and total exposure/state; ratio alone is incomplete.
+- Evidence ledger `BIO18-01…BIO18-06` finalized; canonical `BIO-18_practical_connection_programming.md` created.
+- **CURRENT NEXT: BIO-19/PASS-01 — Boundaries with other areas content revalidation.**
 
 ## История текущего revalidation cycle
 
