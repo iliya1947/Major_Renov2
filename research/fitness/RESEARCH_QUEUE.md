@@ -587,16 +587,17 @@
 - Full BIO-01…BIO-18 audit found no direct numeric nutrition/rest prescriptions, no clinical diagnosis from metabolic markers, and no unresolved testing/readiness ownership violation.
 - Evidence ledger `BIO19-01…BIO19-07` finalized; canonical `BIO-19_boundaries_with_other_areas.md` created.
 - **BIO-01…BIO-19 — CLOSED_FOR_PRACTICE v2.0; Bioenergetics dependency complete for current project purpose.**
-- **MEC-01 — RESEARCHING; PASS-01 complete, closure audit pending.**
-- MEC-01/PASS-01 Newtonian-mechanics/vectors content revalidation completed 2026-11-20; exact Area 06 Section 1 coverage = **15/15 at content/scope level**.
-- PASS-01 content checks = **45/45 RESOLVED**.
-- Current SI baseline revalidated against BIPM SI Brochure 9th edition v4.01 (June 2026): kg, N, J, W, m/s, m/s², rad/s and rad/s² kept dimensionally distinct.
-- Core non-equivalences fixed: mass ≠ weight; kg ≠ N; momentum ≠ force; impulse ≠ peak force; velocity ≠ speed; work ≠ energy ≠ power; mechanical work/power ≠ metabolic energy/ATP flux; angular velocity/acceleration ≠ linear counterparts.
-- Newton's second law retained in momentum form `ΣF_ext = dp/dt`, with `ΣF = ma` only as the constant-mass reduction.
-- Newton's third-law pairs explicitly act on different bodies; net/resultant force is the vector sum, not the sum of force magnitudes.
-- Source-map duplication `Acceleration` vs `Linear acceleration` normalized as general concept vs translational application; no source-map edit made in PASS-01.
-- Evidence ledger `MEC01-01…MEC01-10` added as revalidated, **MEC-01 audit pending**.
-- **CURRENT NEXT: MEC-01/PASS-02 — independent closure audit and synthesis.**
+- **MEC-01 — RESEARCHING; closure not authorized after PASS-02 gap audit.**
+- MEC-01/PASS-01 Newtonian-mechanics/vectors content revalidation completed 2026-11-20; exact Area 06 Section 1 coverage = **15/15 at content/scope level**, content checks **45/45 RESOLVED**.
+- MEC-01/PASS-02 independent closure/gap audit completed 2026-11-20.
+- PASS-02 confirmed all PASS-01 linear/SI/vector content remains valid, but found **1 blocking rotational-dynamics cluster**.
+- Blocking missing constructs: **mass moment of inertia / rotational inertia**, **angular momentum**, and the **angular impulse / torque→ΔL** bridge.
+- Blocker is project-relevant because MEC-16 anthropometry, MEC-17 inertia/ballistics and MEC-21 inverse-dynamics modeling depend on segment/load mass distribution and rotational dynamics.
+- `Acceleration` vs `Linear acceleration` normalization accepted; no source-map edit required.
+- Detailed rotational work/power/energy remain deferred to MEC-18; they are not separate MEC-01 blockers.
+- Existing `MEC01-01…MEC01-10` remain valid but audit-pending; `MEC01-11…MEC01-13` record the verified gap constructs and require a dedicated content pass.
+- Canonical MEC-01 finding **not created**; `CLOSED_FOR_PRACTICE` **not assigned**.
+- **CURRENT NEXT: MEC-01/PASS-03 — rotational inertia, angular momentum and angular impulse gap closure.**
 
 ## История текущего revalidation cycle
 
