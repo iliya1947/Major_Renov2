@@ -237,8 +237,9 @@
 19. BIO-15 = **CLOSED_FOR_PRACTICE v2.0**; PASS-02 closure audit complete, exact Section 15 coverage **7/7 PASS**.
 20. BIO-16 = **CLOSED_FOR_PRACTICE v2.0**; PASS-02 closure audit complete, exact Section 16 coverage **10/10 PASS**.
 21. BIO-17 = **CLOSED_FOR_PRACTICE v2.0**; PASS-02 closure audit complete, exact Section 17 coverage **11/11 PASS**.
-22. **CURRENT NEXT: BIO-18/PASS-01 — Practical connection to programming content revalidation.**
-23. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
+22. BIO-18 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 18 coverage **6/6 at content/scope level**.
+23. **CURRENT NEXT: BIO-18/PASS-02 — Closure audit and synthesis.**
+24. После одного следующего законченного блока: сохранить state → STOP; следующий PASS автоматически не запускать.
 
 Авторитет текущей точки: PR #5 identity/workspace lock → фактическая ветка → `CONTEXT_RECOVERY.md` → `RESEARCH_QUEUE.md` → последний PASS.
 
@@ -257,7 +258,7 @@
 7. На её основе спроектировать программу под цели масса + сила, доступный инвентарь и СДВГ.
 8. Запустить тренировочный цикл с логированием, обратной связью и изменениями только по установленной причине.
 
-Ближайшая задача: Stage 2 / Phase B — **BIO-18/PASS-01 — Practical connection to programming content revalidation**.
+Ближайшая задача: Stage 2 / Phase B — **BIO-18/PASS-02 — Closure audit and synthesis**.
 
 
 ## 10. Stage 0B — результат
