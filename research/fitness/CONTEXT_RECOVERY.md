@@ -148,12 +148,12 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - PASS-01 original content **15/15**, **45/45**; PASS-02 found rotational-dynamics blocker; PASS-03 repaired it **12/12**; PASS-04 repeat closure audit **40/40 PASS**.
 - Corrected Area 06 Section 1 = **18/18 exact items PASS**.
 - Canonical `MEC-01_newtonian_mechanics_vectors.md` created; `MEC01-01…MEC01-13` finalized.
-- MEC-02/PASS-01 — **CONTENT PASS COMPLETE**; original Section 2 coverage **14/14**, content checks **42/42**.
-- MEC-02/PASS-02 — **GAP AUDIT COMPLETE; reference/orientation blocker identified**.
-- MEC-02/PASS-03 — **GAP CONTENT COMPLETE**; reference frames / coordinate systems + 3D orientation representation **14/14 PASS**.
-- Area 06 Section 2 corrected to **16 exact items**; revised content coverage **16/16**.
-- Canonical MEC-02 finding not created; all `MEC02-01…MEC02-12` remain audit-pending.
-- **CURRENT NEXT: MEC-02/PASS-04 — repeat independent closure audit and synthesis after coordinate/orientation repair.**
+- MEC-02 — **CLOSED_FOR_PRACTICE v2.0**.
+- PASS-01 original content **14/14**, **42/42**; PASS-02 found coordinate/orientation blocker; PASS-03 repaired it **14/14**; PASS-04 repeat closure audit **38/38 PASS**.
+- Corrected Area 06 Section 2 = **16/16 exact items PASS**.
+- PASS-04 integrity audit repaired PASS-01/PASS-03 escape corruption; no control-character corruption remains.
+- Canonical `MEC-02_kinematics.md` created; `MEC02-01…MEC02-12` finalized.
+- **CURRENT NEXT: MEC-03/PASS-01 — Kinetics content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
