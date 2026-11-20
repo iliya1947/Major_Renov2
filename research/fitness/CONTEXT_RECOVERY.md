@@ -153,12 +153,11 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - Corrected Area 06 Section 2 = **16/16 exact items PASS**.
 - PASS-04 integrity audit repaired PASS-01/PASS-03 escape corruption; no control-character corruption remains.
 - Canonical `MEC-02_kinematics.md` created; `MEC02-01…MEC02-12` finalized.
-- MEC-03/PASS-01 — **CONTENT PASS COMPLETE**; original Section 3 coverage **14/14**, content checks **42/42**.
-- MEC-03/PASS-02 — **GAP AUDIT COMPLETE; free-body/terminology repair identified**.
-- MEC-03/PASS-03 — **REPAIR CONTENT COMPLETE**; free-body/system-boundary + JRF/inertial/F-V terminology **12/12 PASS**.
-- Area 06 Section 3 corrected to **15 exact items**; revised content coverage **15/15**.
-- Canonical MEC-03 finding not created; all `MEC03-01…MEC03-16` remain audit-pending.
-- **CURRENT NEXT: MEC-03/PASS-04 — repeat independent closure audit and synthesis after free-body/terminology repair.**
+- MEC-03 — **CLOSED_FOR_PRACTICE v2.0**.
+- PASS-01 original content **14/14**, **42/42**; PASS-02 found free-body/terminology repair cluster; PASS-03 repaired it **12/12**; PASS-04 repeat closure audit **40/40 PASS**.
+- Corrected Area 06 Section 3 = **15/15 exact items PASS**.
+- Canonical `MEC-03_kinetics.md` created; `MEC03-01…MEC03-16` finalized.
+- **CURRENT NEXT: MEC-04/PASS-01 — Torque / moment arms content revalidation.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
