@@ -595,19 +595,18 @@
 - Final rotational foundation: `I = ∫r⊥²dm`; `L = r×p`; fixed/principal-axis `L=Iω`; `Στ_ext=dL/dt`; `∫τdt=ΔL`; `τ=Iα` only under simple fixed-axis/constant-I assumptions.
 - Mechanical and metabolic quantities remain non-equivalent; detailed torque geometry, anthropometric BSIPs, ballistic application, work/power and inverse-dynamics uncertainty remain downstream MEC topics.
 - Evidence ledger `MEC01-01…MEC01-13` finalized; canonical `MEC-01_newtonian_mechanics_vectors.md` created.
-- **MEC-02 — RESEARCHING; PASS-01 complete, independent closure/gap audit pending.**
-- MEC-02/PASS-01 kinematics content revalidation completed 2026-11-20; exact Area 06 Section 2 coverage = **14/14 at content/scope level**.
-- PASS-01 content checks = **42/42 RESOLVED**.
-- Kinematics retained as motion description rather than kinetic causation: position/displacement/distance, velocity/acceleration, angular motion, planes/axes, joint angles, trajectories, ROM and temporal characteristics.
-- Coordinate/reference-frame discipline made explicit as a cross-cutting prerequisite: origin, axes, segment/global frame and sign convention must be defined before interpreting positions or angles.
-- Core non-equivalences fixed: displacement ≠ distance; velocity ≠ speed; acceleration ≠ force; joint angle ≠ global segment angle; trajectory ≠ endpoint displacement; ROM ≠ one universal anatomical property; timing ≠ tempo prescription.
-- 3D joint-angle interpretation is convention dependent: segment coordinate systems and Cardan/Euler/JCS sequence must be defined; current 2025 evidence confirms sequence-dependent reported components.
-- Anatomical planes/axes retained as descriptive references rather than proof that real human movement is perfectly planar or has a fixed physical joint axis.
-- Measurement validity/error remains MEC-21/TST; kinematic differences alone do not establish muscle force, training superiority or injury risk.
-- Evidence ledger `MEC02-01…MEC02-10` added as revalidated, **MEC-02 audit pending**.
-- No source-map mutation in PASS-01; PASS-02 must independently decide whether reference frame / coordinate system or orientation representation deserves an explicit Section 2 item.
-- Canonical MEC-02 finding **not created**; `CLOSED_FOR_PRACTICE` **not assigned**.
-- **CURRENT NEXT: MEC-02/PASS-02 — independent closure/gap audit and synthesis.**
+- **MEC-02 — RESEARCHING; closure not authorized after PASS-02 gap audit.**
+- MEC-02/PASS-01 completed exact Section 2 content revalidation: **14/14**, content checks **42/42 RESOLVED**.
+- MEC-02/PASS-02 independent closure/gap audit completed 2026-11-20.
+- PASS-02 found **1 blocking reference/orientation cluster**.
+- Missing foundational constructs: **reference frames / coordinate systems** and **3D orientation / rotation representation**.
+- Current ISB standards explicitly separate global coordinate systems, whole-body orientation and joint coordinate systems; 2024 ISB recommendations require kinematic-model definition/reporting for reproducibility.
+- Current 2025 Cardan-sequence evidence confirms that different rotation sequences can materially change reported joint-angle components for some multiplanar joints.
+- Helical/screw-axis detail remains deferred to MEC-12/21; it is not a separate MEC-02 blocker.
+- Scalar ROM remains acceptable only for an explicitly defined scalar variable; orientation/pose trajectory refinement belongs inside the same gap repair.
+- Existing `MEC02-01…MEC02-10` remain valid but audit-pending; `MEC02-11…MEC02-12` record the verified gap and require a dedicated content pass.
+- Source map **not yet changed**; canonical MEC-02 finding **not created**; `CLOSED_FOR_PRACTICE` **not assigned**.
+- **CURRENT NEXT: MEC-02/PASS-03 — reference frames, coordinate systems and 3D orientation representation gap closure.**
 
 ## История текущего revalidation cycle
 
