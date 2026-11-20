@@ -551,22 +551,22 @@
 - Human HIIT retraining evidence supports retained epigenetic/gene-expression memory but not enhanced physiological retraining response in the corrected current article.
 - Molecular memory, retained phenotype and accelerated regain remain non-equivalent.
 - Evidence ledger `BIO16-01…BIO16-10` finalized; canonical `BIO-16_training_adaptations.md` created.
-- **BIO-17 — CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING.**
+- **BIO-17 — CLOSED_FOR_PRACTICE v2.0.**
 - BIO-17/PASS-01 individual-differences content revalidation completed 2026-11-20; exact Area 05 Section 17 coverage = **11/11 at content/scope level**.
-- Individual differences retained as four layers: relatively stable traits, trained phenotype, current metabolic state, and current recovery/environmental context.
-- Observed response variability is non-equivalent to true treatment-response heterogeneity; measurement error and within-person variability must be considered before responder labels.
+- BIO-17/PASS-02 independent closure audit / synthesis completed 2026-11-20; exact Section 17 coverage = **11/11 PASS** and no BIO-17 project-relevant blocker remains.
+- PASS-01 audit checks = **45/45 RESOLVED**.
+- Observed response variability remains non-equivalent to proven true/stable treatment-response heterogeneity; one block is insufficient for responder labels.
 - Training status retained as task/domain specific; same external workload can represent different relative metabolic demand.
-- Muscle fiber composition retained as local/plastic rather than a deterministic whole-person energy-system identity.
-- Biological age retained as context modifier without implying loss of trainability; biological sex retained as context-dependent rather than a universal substrate-use rule.
-- Nutrition and energy availability separated; LEA is non-equivalent to REDs and no universal numeric diagnostic threshold is retained.
-- Glycogen status retained as transient/local and not inferable precisely from carbohydrate intake alone.
-- Creatine stores retained as variable state; muscle-store response and performance response remain distinct.
-- Sleep/stress retained as indirect performance/recovery modifiers rather than direct bioenergetic diagnoses.
-- Current sports-genetics evidence retained as polygenic/contextual and insufficient for routine individual training prescription.
-- Environmental conditions retained as internal-load modifiers; acute heat/hypoxia effects and chronic acclimation/adaptation remain separate.
-- BIO-17 remains **not CLOSED_FOR_PRACTICE**; canonical finding and final BIO17 ledger rows are deferred until PASS-02.
-- PASS-01 records **45 unresolved audit checks** for independent closure review.
-- **CURRENT NEXT: BIO-17/PASS-02 — Closure audit and synthesis.**
+- Fiber composition retained as local, heterogeneous and plastic rather than deterministic whole-person identity.
+- Biological age retained as context modifier without implying loss of trainability; biological sex retained as probabilistic/context-dependent rather than a universal substrate-use rule.
+- Nutrition, energy availability and glycogen remain distinct; calculated EA has meaningful uncertainty, LEA is non-equivalent to REDs, and no universal 30 kcal/kg FFM/day diagnostic threshold is retained.
+- Glycogen retained as transient/local; same carbohydrate exposure can produce different glycogen states.
+- Creatine stores retained as variable state; store response and performance response remain distinct.
+- Sleep/stress retained as indirect performance/recovery modifiers rather than direct metabolic diagnoses.
+- Sports genetics retained as polygenic/contextual and insufficient for routine individual prescription; ancestry/external-validation limits apply.
+- Environmental conditions retained as internal-load modifiers; acute heat/hypoxia effects and chronic acclimation/adaptation remain separate, and hypoxia is not a universal endurance upgrade.
+- Evidence ledger `BIO17-01…BIO17-11` finalized; canonical `BIO-17_individual_differences.md` created.
+- **CURRENT NEXT: BIO-18/PASS-01 — Practical connection to programming content revalidation.**
 
 ## История текущего revalidation cycle
 
