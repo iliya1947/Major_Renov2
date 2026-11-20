@@ -134,3 +134,26 @@ MEC-04/PASS-02 independent closure/gap audit:
 - `MEC-04 = CLOSED_FOR_PRACTICE v2.0`.
 
 Следующий topic: `MEC-05 — Lever systems`.
+
+## MEC-05 independent closure audit 2026-11-20
+
+MEC-05/PASS-01 covered all **10/10 exact Section 5 items** and resolved **30/30 content checks**.
+
+MEC-05/PASS-02 independently **refused closure** after finding a targeted wording/provenance repair cluster:
+
+- item 7, `Human movement as predominantly third-class leverage`, is broader than the evidence and must be narrowed to a common human musculoskeletal teaching/model statement with explicit limits of universal classification;
+- item 8 must make the direction of force mechanical advantage and reciprocal displacement/velocity ratio explicit;
+- item 9 must distinguish geometric displacement/velocity amplification from realized dynamic speed and anatomical ROM;
+- current OpenStax A&P §11.1 supports generic musculoskeletal lever mapping, but not the class-taxonomy / third-class-prevalence attribution by itself.
+
+Polet & Labonte 2024 plus the McHenry/Arnold dynamic-lever exchange support the retained boundary: instantaneous force/velocity gearing remains reciprocal, while realized whole-movement performance is not determined by lever ratio alone.
+
+No 11th Section 5 item is required. This is a precision/provenance repair, not a taxonomy expansion.
+
+Status after PASS-02:
+- source map unchanged in this pass;
+- `MEC05-01…MEC05-12` remain audit-pending;
+- canonical MEC-05 finding not created;
+- `CLOSED_FOR_PRACTICE` not assigned.
+
+Next one block: `MEC-05/PASS-03 — lever-map wording / evidence-provenance repair`.
