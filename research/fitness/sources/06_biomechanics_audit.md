@@ -89,3 +89,22 @@ Gap content закрыт в `MEC-02/PASS-03`; окончательная closure
 - `MEC-02 = CLOSED_FOR_PRACTICE v2.0`.
 
 Следующий topic: `MEC-03 — Kinetics`.
+
+## MEC-03 free-body/terminology correction 2026-11-20
+
+MEC-03/PASS-02 выявил foundational repair cluster:
+
+- отсутствовал explicit Free-body diagrams / system-boundary analysis;
+- Joint reaction force требовал Partial vs Total definition/reporting;
+- Inertial forces требовал separation D'Alembert pseudo-force vs real distributed-mass inertial contribution;
+- generic Force-velocity curve конфликтовал с MEC-08 intrinsic muscle F-V.
+
+Section 3 исправлен:
+- Joint reaction force → **Joint reaction force — partial vs total definition/reporting**;
+- Inertial forces → **Inertial terms / D'Alembert pseudo-forces and distributed-mass inertial contributions**;
+- Force-velocity curve → **Task-level force/load-velocity curve or profile**;
+- добавлен **Free-body diagrams / system-boundary analysis**.
+
+Revised Section 3 = **15 exact items**.
+
+Gap content закрыт в `MEC-03/PASS-03`; окончательная closure остаётся за repeat audit.
