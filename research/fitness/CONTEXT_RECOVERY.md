@@ -154,10 +154,11 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - PASS-04 integrity audit repaired PASS-01/PASS-03 escape corruption; no control-character corruption remains.
 - Canonical `MEC-02_kinematics.md` created; `MEC02-01…MEC02-12` finalized.
 - MEC-03/PASS-01 — **CONTENT PASS COMPLETE**; original Section 3 coverage **14/14**, content checks **42/42**.
-- MEC-03/PASS-02 — **GAP AUDIT COMPLETE; CLOSURE NOT AUTHORIZED**.
-- Repair cluster: missing **free-body diagrams / system-boundary analysis** + terminology repairs for JRF, inertial terms and task-level force/load-velocity profile.
-- Source map not yet changed; canonical MEC-03 finding not created; all MEC03 ledger rows remain audit-pending/content-required as applicable.
-- **CURRENT NEXT: MEC-03/PASS-03 — free-body diagrams and kinetics terminology repair.**
+- MEC-03/PASS-02 — **GAP AUDIT COMPLETE; free-body/terminology repair identified**.
+- MEC-03/PASS-03 — **REPAIR CONTENT COMPLETE**; free-body/system-boundary + JRF/inertial/F-V terminology **12/12 PASS**.
+- Area 06 Section 3 corrected to **15 exact items**; revised content coverage **15/15**.
+- Canonical MEC-03 finding not created; all `MEC03-01…MEC03-16` remain audit-pending.
+- **CURRENT NEXT: MEC-03/PASS-04 — repeat independent closure audit and synthesis after free-body/terminology repair.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
