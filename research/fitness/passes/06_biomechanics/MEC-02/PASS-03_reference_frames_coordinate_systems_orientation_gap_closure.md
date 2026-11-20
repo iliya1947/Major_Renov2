@@ -136,7 +136,7 @@ Confidence: **HIGH**.
 
 ## 6. Vector components across frames
 
-For a vector (mathbf v):
+For a vector `v`:
 
 - the physical vector can remain unchanged;
 - its component triplet changes when the basis changes.
