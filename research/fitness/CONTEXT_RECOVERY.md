@@ -1,0 +1,338 @@
+# Context Recovery / Session Handoff
+
+Этот файл — **третья точка входа после неизменяемой карты кабинета в PR #5 и `AGENT.md`** при потере контекста чата, переходе в новый чат, смене модели или восстановлении после лимита контекста.
+
+Его задача — восстановить **операционное состояние квалификации Ники**, не переопределяя её роль.
+
+---
+
+## 1. Что это за рабочее пространство
+
+PR: **#5 — постоянный рабочий кабинет Ники**  
+Repository: `iliya1947/Major_Renov2`  
+Working branch: `research/fitness-foundation`  
+Base branch: `main`
+
+Локальная идентичность уже зафиксирована в PR #5:
+
+- ассистент: **Ника**;
+- роль: **фитнес-тренер академика**;
+- текущий этап: **квалификация Ники**;
+- научный поиск / PASS / findings / evidence — инструменты квалификации;
+- PR #5 — постоянный `open + draft` кабинет, не merge-кандидат.
+
+Главная цель текущего этапа:
+
+1. довести научно-практическую квалификацию Ники до достаточного уровня;
+2. после этого отдельно оценить исходное состояние академика;
+3. затем спроектировать персональную систему для роста мышечной массы и силы;
+4. адаптировать её под домашний инвентарь и реальные условия;
+5. сделать выполнение устойчивым с учётом СДВГ;
+6. сопровождать, отслеживать результат и корректировать систему по данным.
+
+**Сейчас финальную персональную тренировочную программу строить нельзя: сначала квалификация, затем отдельная персональная оценка.**
+
+---
+
+## 2. Текущий квалификационный режим
+
+Текущий этап: **квалификация Ники / Stage 2 — системная научно-практическая база после restart; Phase A methodology sufficient, Phase B продолжается**.
+
+Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как завершённые.
+
+После Stage 2 restart старые RES/ANA findings остаются **legacy reconnaissance drafts**, если не были revalidated. Methodology Sufficiency Audit разрешает использовать RES-03…RES-29 как operational baseline без автоматической полной revalidation; это не превращает их в full revalidated findings.
+
+Для topic, который выбран для новой глубокой revalidation, обязательная схема:
+
+`granular passes → отдельный gap/audit pass → новый synthesis → CLOSED_FOR_PRACTICE`
+
+Правила:
+
+1. Один topic может занимать любое число PASS.
+2. Один PASS должен иметь узкий scope.
+3. Каждый PASS должен завершаться сохранением результата в репозиторий.
+4. Каждый PASS фиксирует:
+   - scope;
+   - sources checked;
+   - established findings;
+   - unresolved issues;
+   - next pass.
+5. Нельзя закрывать topic только потому, что найден правдоподобный ответ.
+6. `CLOSED_FOR_PRACTICE` разрешён только после отдельного audit pass и нового synthesis.
+7. Старые марафонные conclusions нельзя автоматически считать повторно подтверждёнными.
+8. История/summary ChatGPT не является авторитетным источником состояния проекта, если она конфликтует с репозиторием.
+
+### Локальная идентичность ассистента
+
+Роль здесь **не восстанавливается из этого файла заново**: она уже зафиксирована неизменяемой картой PR #5.
+
+- **Ника**;
+- **фитнес-тренер академика**;
+- текущий этап — **квалификация Ники**.
+
+Научная работа в этом каталоге — средство квалификации, а не отдельная роль «исследователя».
+
+Не смешивать Нику с Кирой (психология) или другими ассистентами. Внешний ChatGPT-проект не переопределяет локальную роль PR #5.
+
+### Критический operational lesson: не запускать цепочку PASS одним заходом
+
+Это правило появилось после **двух реальных сбоев**.
+
+1. В предыдущем чате длинный исследовательский заход на ANA-12 завис примерно на полчаса: новые сообщения пользователя не обрабатывались, и выполнение пришлось вручную остановить.
+2. 16.11.2026 после корректного завершения RES-02/PASS-06B фитнес-ассистент автоматически продолжил цепочку: PASS-06C → 07A → 07B → 08A → 08B → 08C → 08D → 09A → 09B, закрыл RES-02 и перешёл к RES-03. Это было признано повторением того же класса ошибки — слишком большой непрерывный рабочий заход.
+3. Для очистки PR ветка была возвращена к последнему корректному post-PASS-06B состоянию:
+   `fdbbe72c47d28cfa36373d6b0c73e5629b884247`
+   и поверх него были заново применены только правила workflow/handoff.
+4. Удалённые марафонные материалы PASS-06C и далее **не являются текущими валидированными результатами проекта**. Их нужно исследовать заново отдельными проходами; не восстанавливать их как завершённые только потому, что старые SHA могут существовать в истории GitHub.
+
+Жёсткое правило:
+
+1. Полнота topic не ограничивается — PASS может быть сколько угодно.
+2. Ограничивается только размер одного непрерывного захода, **не глубина исследования**.
+3. Один непрерывный рабочий заход по умолчанию = **один узкий законченный PASS или меньший блок**.
+4. Узкий блок нужно исследовать **тщательно**, а не поверхностно. Нельзя превращать правило дробления в быстрый пролёт по множеству PASS.
+5. Если PASS слишком большой для тщательной проработки за один устойчивый заход — дробить его ещё мельче **до начала или по ходу исследования**, сохраняя глубину каждого micro-block.
+6. Критерий завершения блока — достаточное покрытие заявленного scope с источниками, ограничениями, противоречиями и unresolved gaps; формально заполненный файл сам по себе не означает завершённость.
+7. После блока обязательно сохранить результат, обновить state-файлы и остановиться.
+8. **Не выполнять следующий PASS автоматически**, даже если `Next pass` уже известен.
+9. Пользовательское `...` = выполнить следующий один очевидный блок без подтверждения, затем снова остановиться.
+10. Ошибка марафонского прогона 16.11.2026 состояла не только в отсутствии STOP: много PASS были пройдены одним заходом, что создало риск поверхностного покрытия и ложной завершённости. Этот режим запрещён.
+11. **Не пытаться закрыть каноническую тему целиком за одно сообщение/один ход**, если это требует сокращать глубину. Число сообщений, PASS и micro-pass по одной теме не ограничено.
+12. Если для максимального покрытия темы нужны дополнительные ходы, продолжать её столько раз, сколько требуется; дробление — штатный способ сохранить глубину, а не повод упрощать исследование.
+13. Цель Stage 2 — не скорость прохождения списка, а **достаточная и проверенная научно-практическая квалификация Ники без известных существенных пробелов**, на которой затем можно обоснованно провести персональную оценку академика и построить программу массы + силы под реальные условия и СДВГ.
+
+Короткий stop-condition:
+
+`один continue → один глубоко проработанный сохранённый PASS/block → STOP`
+
+---
+
+## 3. Текущее состояние
+
+**Этап:** квалификация Ники как фитнес-тренера.  
+**Phase:** Stage 2 / Phase B.  
+**Текущий qualification domain:** **06 — Biomechanics**.
+
+Крупные dependencies:
+
+- Anatomy — **CLOSED_FOR_PRACTICE v2.0**;
+- Physiology — **CLOSED_FOR_PRACTICE v2.0**;
+- Neurophysiology / Motor Learning — **CLOSED_FOR_PRACTICE v2.0**;
+- Bioenergetics — **CLOSED_FOR_PRACTICE v2.0**;
+- Biomechanics — **RESEARCHING as part of qualification**.
+
+Текущая точка:
+
+- BIO-01 — **CLOSED_FOR_PRACTICE v2.0**;
+- BIO-02 — **CLOSED_FOR_PRACTICE v2.0**;
+- BIO-03 — **CLOSED_FOR_PRACTICE v2.0**;
+- BIO-04 — **CLOSED_FOR_PRACTICE v2.0**;
+- BIO-05 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 5 closure **8/8 PASS**;
+- BIO-06 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 6 closure **10/10 PASS**;
+- BIO-07 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 7 closure **10/10 PASS**;
+- BIO-08 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 8 closure **10/10 PASS**;
+- BIO-09 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 9 closure **9/9 PASS**;
+- BIO-10 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 10 closure **9/9 PASS**;
+- BIO-11 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 11 closure **10/10 PASS**;
+- BIO-12 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 12 closure **13/13 PASS**;
+- BIO-13 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 13 closure **10/10 PASS**;
+- BIO-14 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 14 closure **7/7 PASS**;
+- BIO-15 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 15 closure **7/7 PASS**;
+- BIO-16 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 16 closure **10/10 PASS**;
+- BIO-17 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 17 closure **11/11 PASS**;
+- BIO-18 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 18 closure **6/6 PASS**;
+- BIO-19 — **CLOSED_FOR_PRACTICE v2.0**; PASS-01 content **6/6**, PASS-02 closure audit **36/36 PASS**.
+- **BIO-01…BIO-19 — CLOSED_FOR_PRACTICE v2.0; Bioenergetics dependency complete for current project purpose.**
+- **CURRENT DOMAIN: 06 — Biomechanics.**
+- MEC-01 — **CLOSED_FOR_PRACTICE v2.0**.
+- PASS-01 original content **15/15**, **45/45**; PASS-02 found rotational-dynamics blocker; PASS-03 repaired it **12/12**; PASS-04 repeat closure audit **40/40 PASS**.
+- Corrected Area 06 Section 1 = **18/18 exact items PASS**.
+- Canonical `MEC-01_newtonian_mechanics_vectors.md` created; `MEC01-01…MEC01-13` finalized.
+- MEC-02 — **CLOSED_FOR_PRACTICE v2.0**.
+- PASS-01 original content **14/14**, **42/42**; PASS-02 found coordinate/orientation blocker; PASS-03 repaired it **14/14**; PASS-04 repeat closure audit **38/38 PASS**.
+- Corrected Area 06 Section 2 = **16/16 exact items PASS**.
+- PASS-04 integrity audit repaired PASS-01/PASS-03 escape corruption; no control-character corruption remains.
+- Canonical `MEC-02_kinematics.md` created; `MEC02-01…MEC02-12` finalized.
+- MEC-03 — **CLOSED_FOR_PRACTICE v2.0**.
+- PASS-01 original content **14/14**, **42/42**; PASS-02 found free-body/terminology repair cluster; PASS-03 repaired it **12/12**; PASS-04 repeat closure audit **40/40 PASS**.
+- Corrected Area 06 Section 3 = **15/15 exact items PASS**.
+- Canonical `MEC-03_kinetics.md` created; `MEC03-01…MEC03-16` finalized.
+- MEC-04 — **CLOSED_FOR_PRACTICE v2.0**.
+- PASS-01 content **10/10**, **30/30**; PASS-02 independent closure/gap audit **33/33 PASS**.
+- Area 06 Section 4 remains **10/10 exact items PASS**; no source-map mutation required.
+- Canonical `MEC-04_torque_moment_arms.md` created; `MEC04-01…MEC04-12` finalized.
+- MEC-05/PASS-01 — **CONTENT PASS COMPLETE**; exact Section 5 coverage **10/10**, content checks **30/30**.
+- MEC-05/PASS-02 — **CLOSURE REFUSED — TARGETED WORDING / PROVENANCE REPAIR REQUIRED**.
+- Exact Section 5 remains **10/10 content-covered**, but only **7/10 items are safe for closure**; items 7–9 require wording repair.
+- Item 7: replace broad “human movement predominantly third-class” wording with a bounded common-musculoskeletal-model formulation.
+- Item 8: state force mechanical advantage together with the reciprocal displacement/velocity ratio explicitly.
+- Item 9: distinguish geometric displacement/velocity amplification from realized dynamic speed and anatomical ROM.
+- Current OpenStax A&P §11.1 supports generic human lever mapping but does not directly supply the class-taxonomy / third-class-prevalence claim; `MEC05` provenance therefore needs repair.
+- No 11th Section 5 item is required; PASS-02 found a precision/provenance gap, not a taxonomy gap.
+- Source map was **not mutated in PASS-02**; canonical MEC-05 finding was **not created**; `MEC05-01…MEC05-12` remain audit-pending.
+- **CURRENT NEXT: MEC-05/PASS-03 — lever-map wording / evidence-provenance repair.**
+
+Phase A methodology:
+- **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
+- `RES-01 — question formulation` → **CLOSED_FOR_PRACTICE**;
+- `RES-02 — study designs` → **SUFFICIENT_FOR_PHASE_A**; residual F-taxonomy deferred;
+- `RES-03…RES-29` → legacy operational baseline + trigger-based revalidation, не обязательная последовательная deep revalidation.
+
+### Завершено в текущем revalidation cycle
+
+- `RES-01 — question formulation` → **CLOSED_FOR_PRACTICE** после `PASS-16`.
+- `RES-02 — study designs` → granular base до PASS-06F7, **SUFFICIENT_FOR_PHASE_A**.
+- В RES-02 текущей валидной базой считаются:
+  - `PASS-01` — scope and study-design taxonomy;
+  - `PASS-02` — randomized experimental designs;
+  - `PASS-03` — nonrandomized/quasi-experimental designs;
+  - `PASS-04` — observational analytic designs;
+  - `PASS-05A` — self-controlled observational designs;
+  - `PASS-05B` — descriptive/frequency designs;
+  - `PASS-06A` — diagnostic accuracy + measurement-property study structures.
+- Прежний широкий `PASS-06B_prognosis_prediction_designs.md` по явному решению пользователя **SUPERSEDED FOR CURRENT REVALIDATION** и сохраняется только как исторический материал.
+- Новая granular revalidation prognosis/prediction начата.
+- Завершены:
+  - `PASS-06B1` — prognosis core taxonomy and longitudinal structure;
+  - `PASS-06B2` — longitudinal cohort structures for prognosis;
+  - `PASS-06B3` — routine-care data sources for prognosis;
+  - `PASS-06B4` — outcome-dependent sampling in prognosis;
+  - `PASS-06B5` — prediction-model development study structures;
+  - `PASS-06B6` — internal validation structures;
+  - `PASS-06B7` — internal-external and external validation structures;
+  - `PASS-06B8` — model recalibration, updating and extension structures;
+  - `PASS-06B9` — prediction-model impact and utility study structures;
+  - `PASS-06B10` — prediction-performance estimand architecture;
+  - `PASS-06B11` — prediction under treatment and management;
+  - `PASS-06B12` — dynamic and landmark prediction structures;
+  - `PASS-06B13` — prediction-branch integration audit;
+  - `PASS-06B14` — diagnostic prediction models vs diagnostic test accuracy;
+  - `PASS-06B15` — competing risks / recurrent events / multistate prediction;
+  - `PASS-06B16` — post-deployment lifecycle and continual updating;
+  - `PASS-06B17` — final prediction-branch gap audit after B14–B16;
+  - `PASS-06B18` — multicategory and ordinal prediction-model structures;
+  - `PASS-06B19` — multiple-outcome, composite and joint-risk prediction structures;
+  - `PASS-06B20` — diagnostic outcome-dependent sampling and absolute-probability recovery;
+  - `PASS-06B21` — repeat final prediction-branch gap audit after PASS-06B18…B20;
+  - `PASS-06B22` — current continuous-value prediction and estimation equations;
+  - `PASS-06B23` — final prediction-branch closure/gap audit after PASS-06B22;
+  - `PASS-06B24` — prediction-branch structural synthesis.
+
+Последний содержательный PASS:
+
+`research/fitness/passes/05_bioenergetics/BIO-18/PASS-02_closure_audit_and_synthesis.md`
+
+PASS commit: `367ce3844237d3eba65b75ebffc365ce77be8f47`
+
+BIO-18/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+
+Closure result:
+
+1. exact Area 05 Section 18 coverage = **6/6 PASS**;
+2. PASS-01 audit checks = **35/35 RESOLVED**;
+3. no BIO-18 project-relevant blocker remains;
+4. rep range does not determine a fixed rest interval; heavy and high-repetition sets can both require substantial recovery depending on the target output;
+5. rest remains a multicomponent physiological phase rather than “dead time”; PCr restoration is important but not the sole recovery mechanism;
+6. same external load/reps after different recovery can represent a different internal physiological task;
+7. total rest and rest placement remain distinct variables; current RR/cluster syntheses support better preservation of selected acute mechanical outputs vs traditional sets;
+8. source-map wording “repeated sets become progressively more glycolytic/oxidative” is canonically corrected: repeated sets change energetic mix, oxidative recovery support is important, and glycolytic contribution is not guaranteed to rise monotonically;
+9. HR/VO2/lactate remain insufficient to assign exact pathway shares or one circuit limiter;
+10. dense circuits can become partly cardiorespiratory-limited but remain mixed/local/technical tasks;
+11. volume-matched RFT-vs-EMOM evidence supports that time/rest structure can materially change internal strain at the same work volume;
+12. tempo effects remain matching-constraint dependent; TUT-matched, failure-matched and velocity-loss-matched studies answer different questions rather than establishing one universally “more metabolic” tempo;
+13. current tempo meta-analysis and ACSM 2026 are used to enforce acute-vs-chronic separation: acute metabolic differences do not establish chronic hypertrophy/strength superiority;
+14. energy-system programming remains an integrated intensity + duration + recovery + mode + total-exposure/state problem;
+15. work:rest ratio alone remains incomplete because absolute durations matter;
+16. mechanism → acute consequence → chronic evidence → individual decision is retained only as a practical heuristic;
+17. BIO explains physiological consequences; exact prescription remains PRO/IND-owned;
+18. canonical `BIO-18_practical_connection_programming.md` created;
+19. evidence ledger `BIO18-01…BIO18-06` finalized;
+20. BIO-18 = **CLOSED_FOR_PRACTICE v2.0**.
+
+### Следующая задача
+
+**BIO-19/PASS-01 — Boundaries with other areas content revalidation.**
+
+BIO-18 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-19 only after the next user continue signal; one signal = one saved PASS/block → STOP.
+
+---
+
+## 4. Что читать после открытия этого файла
+
+К моменту открытия этого файла уже должны быть прочитаны:
+
+1. неизменяемая карта кабинета в PR #5;
+2. `AGENT.md`.
+
+Дальше для быстрого восстановления:
+
+1. `RESEARCH_QUEUE.md` — самый свежий next action;
+2. последний завершённый PASS текущей темы;
+3. фактический HEAD ветки;
+4. `RESEARCH_ORDER.md` — dependency order;
+5. `WORKFLOW.md` — общий процесс только при необходимости;
+6. `EVIDENCE_POLICY.md` / `RESEARCH_TEMPLATE.md` — перед новым квалификационным научным блоком.
+
+Для текущей точки открыть:
+
+`research/fitness/passes/05_bioenergetics/BIO-18/PASS-02_closure_audit_and_synthesis.md`
+
+Затем при следующем пользовательском continue выполнить только записанный выше **BIO-19/PASS-01 — Boundaries with other areas content revalidation** и остановиться перед следующим блоком.
+
+---
+
+## 5. Протокол восстановления после потери чата
+
+Если новый чат не знает контекст:
+
+1. Найти и открыть PR `iliya1947/Major_Renov2#5`.
+2. Прочитать неизменяемую карту кабинета и установить: **Ника → фитнес-тренер академика → текущий этап квалификация → PR #5 постоянный кабинет**.
+3. Проверить, что рабочая ветка — `research/fitness-foundation`.
+4. Открыть `research/fitness/AGENT.md`.
+5. Открыть этот файл.
+6. Открыть `RESEARCH_QUEUE.md`.
+7. Проверить фактический HEAD, последний завершённый PASS и его `Next pass`.
+8. Если state-файлы расходятся:
+   - не переопределять роль;
+   - не гадать о current state;
+   - считать более свежий фактический branch-state авторитетным для operational state;
+   - проверить последние PASS-файлы;
+   - исправить handoff/state.
+9. Не восстанавливать роль или задачу по старым Project chats, memory summary или предположениям, если PR/repo state доступны.
+10. После восстановления продолжать с сохранённой точки, не повторяя закрытые PASS без явной причины.
+
+---
+
+## 6. Что нельзя делать после восстановления
+
+1. Не начинать с персональной программы до завершения достаточной квалификации и отдельной персональной оценки.
+2. Не перескакивать к ANA/PHY и следующим областям, пока dependency-order не разрешает это.
+3. Не считать legacy findings валидированными только потому, что они существуют.
+4. Не смешивать scientific taxonomy, risk-of-bias appraisal и статистические детали без необходимости текущего PASS.
+5. Не закрывать RES-02 до последующих branches, gap audit и нового synthesis.
+6. Не заменять первичные/авторитетные методологические источники пересказами, если актуальный source доступен.
+7. Не додумывать отсутствующий контекст из старых сообщений.
+
+---
+
+## 7. Обязательное обновление этого файла
+
+**После каждого завершённого PASS или смены текущего qualification-state этот файл нужно обновлять.**
+
+Минимально обновить:
+
+1. `Последний содержательный PASS`;
+2. его commit;
+3. список завершённых PASS текущего topic;
+4. `Следующая задача`;
+5. при необходимости текущую область/topic/status.
+
+Этот файл должен оставаться коротким operational snapshot, а не превращаться в дубль `WORKFLOW.md`.
+
+Если возникает конфликт между:
+- историей чата;
+- старым summary;
+- старым handoff;
+- текущим состоянием репозитория,
+
+**авторитет имеет фактическое состояние рабочей ветки и наиболее свежие служебные файлы репозитория.**
