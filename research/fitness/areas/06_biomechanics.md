@@ -51,15 +51,16 @@
 3. Ground-reaction force.
 4. Muscle force.
 5. Tendon force.
-6. Joint reaction force.
+6. Joint reaction force — partial vs total definition/reporting.
 7. Friction.
 8. Normal force.
-9. Inertial forces.
+9. Inertial terms / D'Alembert pseudo-forces and distributed-mass inertial contributions.
 10. External moment.
 11. Internal moment.
 12. Net joint moment.
 13. Force-time curve.
-14. Force-velocity curve.
+14. Task-level force/load-velocity curve or profile.
+15. Free-body diagrams / system-boundary analysis.
 
 ## 4. Torque, moments and moment arms
 
