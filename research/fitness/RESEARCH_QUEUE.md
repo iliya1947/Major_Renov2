@@ -604,7 +604,21 @@
 - Rotation-sequence dependence and scalar-ROM boundaries remain explicit; measurement/calibration/filtering/2D-vs-3D validity remain MEC-21/TST.
 - PASS-04 integrity audit found and repaired Markdown/LaTeX escape corruption in PASS-01/PASS-03; no control-character corruption remains.
 - Evidence ledger `MEC02-01…MEC02-12` finalized; canonical `MEC-02_kinematics.md` created.
-- **CURRENT NEXT: MEC-03/PASS-01 — Kinetics content revalidation.**
+- **MEC-03 — RESEARCHING; PASS-01 complete, independent closure/gap audit pending.**
+- MEC-03/PASS-01 kinetics content revalidation completed 2026-11-20; exact Area 06 Section 3 coverage = **14/14 at content/scope level**.
+- PASS-01 content checks = **42/42 RESOLVED**.
+- External/internal force classification retained as **system-boundary dependent**; GRF is an external contact force and is non-equivalent to muscle/joint contact force.
+- Muscle force is not directly recoverable from EMG or net joint moment; tendon force and muscle force remain related but non-identical method/model-dependent quantities.
+- Joint-reaction terminology is explicitly bounded: inverse-dynamics resultant/intersegmental force ≠ automatically total articular contact load; current modeling evidence confirms model dependence.
+- Friction/normal-force basics revalidated; normal force ≠ body weight and static friction need not equal μN except at its limiting condition.
+- `Inertial forces` retained with a terminology warning: D'Alembert pseudo-force/bookkeeping term is distinct from real dynamic inertial effects of distributed mass.
+- External/internal/net joint moments retained as convention-dependent resultants; net joint moment cannot uniquely identify individual muscle force, co-contraction or joint-contact loading.
+- Force-time curve metrics retained as non-equivalent and processing-dependent: peak force ≠ impulse ≠ RFD.
+- Force-velocity terminology split conceptually: intrinsic muscle F-V relationship ≠ task-level force/load-velocity profile.
+- Evidence ledger `MEC03-01…MEC03-12` added as revalidated, **MEC-03 audit pending**.
+- No source-map mutation in PASS-01; PASS-02 must independently test the wording/sufficiency of `Inertial forces`, `Joint reaction force`, and generic `Force-velocity curve`.
+- Canonical MEC-03 finding **not created**; `CLOSED_FOR_PRACTICE` **not assigned**.
+- **CURRENT NEXT: MEC-03/PASS-02 — independent closure/gap audit and synthesis.**
 
 ## История текущего revalidation cycle
 
