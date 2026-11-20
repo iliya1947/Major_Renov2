@@ -19,7 +19,7 @@
 | 03 | Общая и мышечная физиология | MAP_READY | RESEARCH_COMPLETE | NOT_STARTED | NOT_STARTED |
 | 04 | Нейрофизиология и моторное обучение | MAP_READY | RESEARCH_COMPLETE | NOT_STARTED | NOT_STARTED |
 | 05 | Биоэнергетика | MAP_READY | RESEARCH_COMPLETE | NOT_STARTED | NOT_STARTED |
-| 06 | Биомеханика | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
+| 06 | Биомеханика | MAP_READY | RESEARCHING | NOT_STARTED | NOT_STARTED |
 | 07 | Программирование тренировок | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 08 | Техника и выбор упражнений | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
 | 09 | Тестирование и мониторинг | MAP_READY | NOT_STARTED | NOT_STARTED | NOT_STARTED |
