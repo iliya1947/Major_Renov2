@@ -21,6 +21,9 @@
 13. Angular acceleration.
 14. Newton's laws.
 15. Vectors and resultant forces.
+16. Rotational inertia / mass moment of inertia.
+17. Angular momentum.
+18. Angular impulse.
 
 ## 2. Кинематика
 
