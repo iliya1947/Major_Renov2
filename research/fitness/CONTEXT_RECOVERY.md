@@ -139,7 +139,8 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - BIO-15 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 15 closure **7/7 PASS**;
 - BIO-16 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 16 closure **10/10 PASS**;
 - BIO-17 — **CLOSED_FOR_PRACTICE v2.0**; exact Section 17 closure **11/11 PASS**;
-- **CURRENT NEXT: BIO-18/PASS-01 — Practical connection to programming content revalidation.**
+- BIO-18 — **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**; PASS-01 exact Section 18 coverage **6/6 at content/scope level**;
+- **CURRENT NEXT: BIO-18/PASS-02 — Closure audit and synthesis.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
@@ -189,41 +190,38 @@ Phase A methodology:
 
 Последний содержательный PASS:
 
-`research/fitness/passes/05_bioenergetics/BIO-17/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-18/PASS-01_practical_connection_programming_content_revalidation.md`
 
-PASS commit: `f4f31cd2b1e9c288650a313434ec5f832e1dc78e`
+PASS commit: `cbafd5c224777c1d4180529a60e9ff46470094be`
 
-BIO-17/PASS-02 = **CLOSURE AUDIT COMPLETE — CLOSED_FOR_PRACTICE AUTHORIZED**.
+BIO-18/PASS-01 = **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING**.
 
-Closure result:
+Content result:
 
-1. exact Area 05 Section 17 coverage = **11/11 PASS**;
-2. PASS-01 audit checks = **45/45 RESOLVED**;
-3. no BIO-17 project-relevant blocker remains;
-4. observed response variation remains non-equivalent to proven stable treatment-response heterogeneity;
-5. one training block is insufficient to assign responder/non-responder identity;
-6. training status remains task/domain specific and same external workload can represent different relative metabolic demand;
-7. fiber composition remains local, heterogeneous and plastic rather than deterministic whole-person energy-system identity;
-8. age modifies physiology and context but does not abolish trainability or dictate programming;
-9. sex-linked physiology remains a contextual/probabilistic modifier whose apparent effects depend on scaling, body composition, fitness, mode and relative intensity;
-10. nutrition, energy availability and glycogen remain distinct constructs;
-11. calculated EA has meaningful measurement uncertainty; LEA is non-equivalent to REDs and no universal 30 kcal/kg FFM/day diagnostic threshold is retained;
-12. glycogen remains a transient local state; same carbohydrate exposure does not guarantee the same glycogen concentration;
-13. creatine stores vary, but store response and performance response remain distinct; baseline store level is not retained as a deterministic performance-response predictor;
-14. sleep/stress remain indirect performance/recovery modifiers and do not diagnose one metabolic deficit;
-15. current sports-genetics evidence remains insufficient for routine individual training prescription; ancestry/validation limits apply to polygenic prediction;
-16. environment changes internal load; acute heat/hypoxia effects and chronic acclimation/adaptation remain separate;
-17. hypoxic training is not retained as a universal endurance upgrade;
-18. current-state/measurement explanations should be checked before immutable-trait explanations as a coaching heuristic, not a causal law;
-19. canonical `BIO-17_individual_differences.md` created;
-20. evidence ledger `BIO17-01…BIO17-11` finalized;
-21. BIO-17 = **CLOSED_FOR_PRACTICE v2.0**.
+1. exact Area 05 Section 18 coverage = **6/6 at content/scope level**;
+2. no content-level blocker was found;
+3. short heavy and high-repetition sets retained as different mechanical/energetic profiles, but no universal heavy-long-rest/highrep-short-rest rule is retained;
+4. rest interval retained as part of the physiological state of the next set; same load/reps after different recovery is not the same internal metabolic task;
+5. current rest-redistribution evidence supports that rest placement can preserve mean velocity/power and alter perceived/internal load;
+6. exact source-map wording “repeated sets become progressively more glycolytic/oxidative” is corrected: repeated sets change energetic mix because PCr recovery is incomplete and oxidative recovery becomes increasingly important, while glycolytic contribution is not guaranteed to rise monotonically;
+7. high-density circuits retained as capable of substantial cardiorespiratory demand, but high HR/VO2 does not prove the cardiorespiratory system is the sole limiter;
+8. volume-matched RFT vs EMOM evidence shows shorter/compressed time structure can materially increase HR, VO2, lactate and RPE;
+9. same repetition count at different tempos can represent different time-domain/metabolic tasks because TUT, load, work rate and oxygenation can change;
+10. tempo findings are retained as matching-constraint dependent; slow tempo is not universally more metabolically demanding;
+11. “train an energy system” retained as manipulating an integrated demand profile through intensity, duration, recovery, mode and total exposure rather than isolating one pathway;
+12. work:rest ratio alone remains incomplete because absolute work/rest durations matter;
+13. acute metabolic strain is explicitly separated from chronic programming superiority;
+14. current ACSM 2026 position stand is used as a chronic-outcome boundary: acute bioenergetic differences do not automatically establish better strength/hypertrophy/power programming;
+15. BIO explains physiological consequences; exact rest/density/tempo/conditioning prescription remains PRO-owned;
+16. BIO-18 remains **not CLOSED_FOR_PRACTICE** pending independent PASS-02 audit;
+17. canonical BIO-18 finding and final BIO18 evidence-ledger rows are intentionally not created before closure audit;
+18. PASS-01 defines **35 unresolved audit checks** for PASS-02.
 
 ### Следующая задача
 
-**BIO-18/PASS-01 — Practical connection to programming content revalidation.**
+**BIO-18/PASS-02 — Closure audit and synthesis.**
 
-BIO-17 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-18 only after the next user continue signal; one signal = one saved PASS/block → STOP.
+BIO-18 is **CONTENT PASS COMPLETE — AUDIT/SYNTHESIS PENDING** after PASS-01. Start PASS-02 only after the next user continue signal; one signal = one saved PASS/block → STOP.
 
 ---
 
@@ -245,9 +243,9 @@ BIO-17 is **CLOSED_FOR_PRACTICE v2.0** after PASS-02. Start BIO-18 only after th
 
 Для текущей точки открыть:
 
-`research/fitness/passes/05_bioenergetics/BIO-17/PASS-02_closure_audit_and_synthesis.md`
+`research/fitness/passes/05_bioenergetics/BIO-18/PASS-01_practical_connection_programming_content_revalidation.md`
 
-Затем при следующем пользовательском continue выполнить только записанный выше **BIO-18/PASS-01 — Practical connection to programming content revalidation** и остановиться перед следующим блоком.
+Затем при следующем пользовательском continue выполнить только записанный выше **BIO-18/PASS-02 — Closure audit and synthesis** и остановиться перед следующим блоком.
 
 ---
 
