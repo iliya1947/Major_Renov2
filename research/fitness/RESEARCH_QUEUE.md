@@ -595,19 +595,16 @@
 - Final rotational foundation: `I = ∫r⊥²dm`; `L = r×p`; fixed/principal-axis `L=Iω`; `Στ_ext=dL/dt`; `∫τdt=ΔL`; `τ=Iα` only under simple fixed-axis/constant-I assumptions.
 - Mechanical and metabolic quantities remain non-equivalent; detailed torque geometry, anthropometric BSIPs, ballistic application, work/power and inverse-dynamics uncertainty remain downstream MEC topics.
 - Evidence ledger `MEC01-01…MEC01-13` finalized; canonical `MEC-01_newtonian_mechanics_vectors.md` created.
-- **MEC-02 — RESEARCHING; PASS-03 gap content complete, repeat closure audit pending.**
-- MEC-02/PASS-01 completed original Section 2 kinematics content revalidation: **14/14**, content checks **42/42 RESOLVED**.
-- MEC-02/PASS-02 found **1 blocking reference/orientation cluster**: reference frames / coordinate systems + 3D orientation / rotation representation.
-- MEC-02/PASS-03 closed that content gap: **14/14 gap checks PASS**.
-- Area 06 Section 2 corrected from **14 to 16 exact items** by adding Reference frames / coordinate systems and Orientation / 3D rotation representation.
-- Current kinematic foundation now distinguishes: global vs local/segment frames; position vs orientation vs pose; relative segment orientation vs global segment orientation; physical orientation vs Euler/Cardan/JCS representation.
-- Rotation-matrix and quaternion representations are retained conceptually; numerical implementation, calibration, filtering, drift and singularity handling remain MEC-21/TST.
-- Euler/Cardan sequence/order dependence and gimbal-lock boundary are explicit; current 2025 evidence confirms joint-specific sequence sensitivity.
-- Segment trajectories now include position and, where relevant, orientation/pose trajectory; scalar ROM remains valid only for a defined scalar variable/convention.
-- `MEC02-11…MEC02-12` moved to revalidated/audit-pending. All `MEC02-01…MEC02-12` remain audit-pending until repeat closure.
-- Canonical MEC-02 finding **not created**; `CLOSED_FOR_PRACTICE` **not assigned**.
-- Revised current Section 2 content coverage = **16/16**.
-- **CURRENT NEXT: MEC-02/PASS-04 — repeat independent closure audit and synthesis after coordinate/orientation repair.**
+- **MEC-02 — CLOSED_FOR_PRACTICE v2.0.**
+- MEC-02/PASS-01 original kinematics content revalidation: **14/14**, **42/42 checks**.
+- MEC-02/PASS-02 independently refused closure after identifying the coordinate/orientation gap.
+- MEC-02/PASS-03 repaired the gap by adding reference frames / coordinate systems and orientation / 3D rotation representation: **14/14 PASS**; Section 2 corrected to **16 exact items**.
+- MEC-02/PASS-04 repeat independent closure audit completed 2026-11-20: **38/38 PASS**, corrected Section 2 = **16/16 PASS**, no project-relevant blocker remains.
+- Final kinematic foundation: frame-conditioned position/vector components; global vs local segment frames; physical orientation vs Euler/Cardan/JCS representation; pose = position + orientation; relative segment orientation as the basis of joint kinematics.
+- Rotation-sequence dependence and scalar-ROM boundaries remain explicit; measurement/calibration/filtering/2D-vs-3D validity remain MEC-21/TST.
+- PASS-04 integrity audit found and repaired Markdown/LaTeX escape corruption in PASS-01/PASS-03; no control-character corruption remains.
+- Evidence ledger `MEC02-01…MEC02-12` finalized; canonical `MEC-02_kinematics.md` created.
+- **CURRENT NEXT: MEC-03/PASS-01 — Kinetics content revalidation.**
 
 ## История текущего revalidation cycle
 
