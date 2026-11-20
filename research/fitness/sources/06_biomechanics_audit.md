@@ -78,3 +78,14 @@ MEC-02/PASS-02 выявил foundational gap: Section 2 содержал joint a
 - current ISB standards отдельно поддерживают global coordinate systems, whole-body orientation и joint coordinate systems.
 
 Gap content закрыт в `MEC-02/PASS-03`; окончательная closure MEC-02 остаётся за repeat audit.
+
+## MEC-02 closure 2026-11-20
+
+После coordinate/orientation correction:
+- Section 2 = **16 exact items**;
+- MEC-02/PASS-03 gap content = **14/14 PASS**;
+- MEC-02/PASS-04 repeat closure audit = **38/38 PASS**;
+- PASS-01/PASS-03 math/Markdown escape corruption исправлен и повторно проверен;
+- `MEC-02 = CLOSED_FOR_PRACTICE v2.0`.
+
+Следующий topic: `MEC-03 — Kinetics`.
