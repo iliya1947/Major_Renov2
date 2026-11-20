@@ -33,3 +33,20 @@
 ## Ограничение
 
 На этапе глубокого исследования конкретных упражнений будут нужны отдельные biomechanical studies и качественные обзоры. Карта компетенций не доказывает конкретный лучший вариант техники.
+
+## Коррекция после deep revalidation 2026-11-20
+
+MEC-01/PASS-02 выявил реальный foundational gap, не замеченный в Stage 0 audit: карта содержала angular velocity, angular acceleration и downstream torque, но не содержала явного rotational-dynamics bridge.
+
+В Section 1 добавлены:
+- rotational inertia / mass moment of inertia;
+- angular momentum;
+- angular impulse.
+
+Причина:
+- rotational response зависит от mass distribution относительно оси, а не только от total mass;
+- torque является rate of change of angular momentum;
+- later MEC-16 anthropometry, MEC-17 inertia/ballistics и MEC-21 inverse dynamics требуют этой базы.
+
+Gap content закрыт в `MEC-01/PASS-03`; окончательная closure MEC-01 остаётся за repeat audit.
+
