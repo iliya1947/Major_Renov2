@@ -50,3 +50,12 @@ MEC-01/PASS-02 выявил реальный foundational gap, не замече
 
 Gap content закрыт в `MEC-01/PASS-03`; окончательная closure MEC-01 остаётся за repeat audit.
 
+## MEC-01 closure 2026-11-20
+
+После rotational-dynamics correction:
+- Section 1 = **18 exact items**;
+- MEC-01/PASS-03 gap content = **12/12 PASS**;
+- MEC-01/PASS-04 repeat closure audit = **40/40 PASS**;
+- `MEC-01 = CLOSED_FOR_PRACTICE v2.0`.
+
+Следующий topic: `MEC-02 — Kinematics`.
