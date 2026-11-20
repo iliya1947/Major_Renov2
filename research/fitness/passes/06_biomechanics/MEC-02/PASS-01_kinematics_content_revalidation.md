@@ -272,7 +272,7 @@ Confidence: **HIGH**.
 
 Distance is scalar path length.
 
-For a trajectory (mathbf r(t)):
+For a trajectory `r(t)`:
 
 `s = ∫ |dr|`
 
