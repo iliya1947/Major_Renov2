@@ -624,19 +624,16 @@
 - Mechanical advantage remains a force-transformation concept, not training advantage.
 - External joint moment remains a mechanical-demand descriptor, not total exercise difficulty, muscle force, hypertrophy stimulus or injury risk.
 - Evidence ledger `MEC04-01…MEC04-12` finalized; canonical `MEC-04_torque_moment_arms.md` created.
-- **MEC-05 — RESEARCHING; PASS-01 complete, independent closure/gap audit pending.**
-- MEC-05/PASS-01 lever-systems content revalidation completed 2026-11-20; exact Area 06 Section 5 coverage = **10/10 at content/scope level**.
-- PASS-01 content checks = **30/30 RESOLVED**.
-- Fulcrum, effort and resistance are treated as roles within a defined lever model, not permanent anatomical labels.
-- First/second/third-class lever definitions revalidated by relative ordering of fulcrum/effort/resistance.
-- Many human limb actions are commonly modeled as third-class levers, but human movement is explicitly **not universally third-class** and lever class can change with task/system definition.
-- Mechanical advantage/disadvantage is retained as a force/displacement transformation ratio, not training advantage/disadvantage.
-- Short internal leverage can geometrically amplify distal excursion/velocity per unit muscle excursion, but does **not guarantee higher realized dynamic speed**; muscle F-V, inertia, elasticity and load remain relevant.
-- Anatomical and external lever systems are treated as coupled: the same anatomy can face different external leverage, and the same equipment can produce different internal mechanics across people.
-- Evidence ledger `MEC05-01…MEC05-12` added as revalidated, **MEC-05 audit pending**.
-- No source-map mutation in PASS-01; PASS-02 must independently audit third-class wording, tiptoe second-class example, ideal-vs-actual MA, geometric speed/ROM wording, and whether nested gearing needs explicit map status.
-- Canonical MEC-05 finding **not created**; `CLOSED_FOR_PRACTICE` **not assigned**.
-- **CURRENT NEXT: MEC-05/PASS-02 — independent closure/gap audit and synthesis.**
+- **MEC-05 — RESEARCHING; PASS-02 closure refused, targeted wording/provenance repair required.**
+- MEC-05/PASS-01 content revalidation remains **10/10 content-covered; 30/30 checks resolved**.
+- MEC-05/PASS-02 independently found three closure blockers in existing map wording, not a missing topic.
+- Section 5 item 7 must narrow the third-class statement to a common human musculoskeletal model with explicit limits of universal classification.
+- Section 5 item 8 must state force mechanical advantage together with its reciprocal displacement/velocity ratio.
+- Section 5 item 9 must distinguish geometric displacement/velocity amplification from realized speed and anatomical ROM.
+- Current OpenStax A&P §11.1 supports generic musculoskeletal lever mapping but not the class/prevalence attribution used in the draft ledger; `MEC05` provenance repair is required.
+- No new Section 5 item is needed; the map remains 10 items until targeted wording repair.
+- Canonical MEC-05 finding is still **not created**; `CLOSED_FOR_PRACTICE` is **not assigned**; `MEC05-01…MEC05-12` remain audit-pending.
+- **CURRENT NEXT: MEC-05/PASS-03 — lever-map wording / evidence-provenance repair.**
 
 ## История текущего revalidation cycle
 
