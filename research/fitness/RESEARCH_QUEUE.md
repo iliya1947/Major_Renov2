@@ -624,7 +624,19 @@
 - Mechanical advantage remains a force-transformation concept, not training advantage.
 - External joint moment remains a mechanical-demand descriptor, not total exercise difficulty, muscle force, hypertrophy stimulus or injury risk.
 - Evidence ledger `MEC04-01…MEC04-12` finalized; canonical `MEC-04_torque_moment_arms.md` created.
-- **CURRENT NEXT: MEC-05/PASS-01 — Lever systems content revalidation.**
+- **MEC-05 — RESEARCHING; PASS-01 complete, independent closure/gap audit pending.**
+- MEC-05/PASS-01 lever-systems content revalidation completed 2026-11-20; exact Area 06 Section 5 coverage = **10/10 at content/scope level**.
+- PASS-01 content checks = **30/30 RESOLVED**.
+- Fulcrum, effort and resistance are treated as roles within a defined lever model, not permanent anatomical labels.
+- First/second/third-class lever definitions revalidated by relative ordering of fulcrum/effort/resistance.
+- Many human limb actions are commonly modeled as third-class levers, but human movement is explicitly **not universally third-class** and lever class can change with task/system definition.
+- Mechanical advantage/disadvantage is retained as a force/displacement transformation ratio, not training advantage/disadvantage.
+- Short internal leverage can geometrically amplify distal excursion/velocity per unit muscle excursion, but does **not guarantee higher realized dynamic speed**; muscle F-V, inertia, elasticity and load remain relevant.
+- Anatomical and external lever systems are treated as coupled: the same anatomy can face different external leverage, and the same equipment can produce different internal mechanics across people.
+- Evidence ledger `MEC05-01…MEC05-12` added as revalidated, **MEC-05 audit pending**.
+- No source-map mutation in PASS-01; PASS-02 must independently audit third-class wording, tiptoe second-class example, ideal-vs-actual MA, geometric speed/ROM wording, and whether nested gearing needs explicit map status.
+- Canonical MEC-05 finding **not created**; `CLOSED_FOR_PRACTICE` **not assigned**.
+- **CURRENT NEXT: MEC-05/PASS-02 — independent closure/gap audit and synthesis.**
 
 ## История текущего revalidation cycle
 
