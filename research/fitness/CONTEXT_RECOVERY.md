@@ -161,7 +161,10 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - PASS-01 content **10/10**, **30/30**; PASS-02 independent closure/gap audit **33/33 PASS**.
 - Area 06 Section 4 remains **10/10 exact items PASS**; no source-map mutation required.
 - Canonical `MEC-04_torque_moment_arms.md` created; `MEC04-01…MEC04-12` finalized.
-- **CURRENT NEXT: MEC-05/PASS-01 — Lever systems content revalidation.**
+- MEC-05/PASS-01 — **CONTENT PASS COMPLETE**; exact Section 5 coverage **10/10**, content checks **30/30**, closure/gap audit pending.
+- Lever-class taxonomy, mechanical-advantage/disadvantage, third-class prevalence and speed/ROM dynamic boundaries explicitly revalidated.
+- Canonical MEC-05 finding not created; `MEC05-01…MEC05-12` remain audit-pending.
+- **CURRENT NEXT: MEC-05/PASS-02 — independent closure/gap audit and synthesis.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
