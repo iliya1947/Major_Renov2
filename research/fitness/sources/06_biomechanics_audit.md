@@ -157,3 +157,27 @@ Status after PASS-02:
 - `CLOSED_FOR_PRACTICE` not assigned.
 
 Next one block: `MEC-05/PASS-03 — lever-map wording / evidence-provenance repair`.
+
+## MEC-05 repair pass 2026-11-22
+
+MEC-05/PASS-03 repaired the wording/provenance cluster identified by PASS-02.
+
+Source-map repairs, with Section 5 preserved at **10 exact items**:
+- item 7 → **Third-class leverage as a common human musculoskeletal model — limits of universal classification**;
+- item 8 → **Mechanical advantage/disadvantage — force ratio and reciprocal displacement/velocity ratio**;
+- item 9 → **Low mechanical advantage — geometric displacement/velocity amplification and limits for realized speed/anatomical ROM**.
+
+Provenance repairs:
+- Oregon State Open A&P 2e §11.2 and Medicine LibreTexts Human Anatomy (OERI) §10.2 are now the explicit class-taxonomy teaching sources;
+- OpenStax A&P §11.1 is retained only for generic bone/joint/muscle/load lever mapping, not as sole direct support for class taxonomy or third-class prevalence;
+- Polet & Labonte 2024 is the main current gearing source for reciprocal instantaneous force vs velocity/displacement ratios and the non-one-to-one relation between gear ratio and complete dynamic performance.
+
+Evidence ledger:
+- `MEC05-02…MEC05-08` wording/provenance repaired;
+- all `MEC05-01…MEC05-12` remain non-final as **MEC-05 REPEAT AUDIT PENDING**.
+
+PASS-03 repair audit: **12/12 PASS**.
+
+Canonical MEC-05 finding is still not created and `CLOSED_FOR_PRACTICE` is not assigned.
+
+Next one block: `MEC-05/PASS-04 — repeat independent closure audit and synthesis after wording/provenance repair`.
