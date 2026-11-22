@@ -624,16 +624,17 @@
 - Mechanical advantage remains a force-transformation concept, not training advantage.
 - External joint moment remains a mechanical-demand descriptor, not total exercise difficulty, muscle force, hypertrophy stimulus or injury risk.
 - Evidence ledger `MEC04-01…MEC04-12` finalized; canonical `MEC-04_torque_moment_arms.md` created.
-- **MEC-05 — RESEARCHING; PASS-02 closure refused, targeted wording/provenance repair required.**
+- **MEC-05 — RESEARCHING; PASS-03 repair complete, repeat closure audit pending.**
 - MEC-05/PASS-01 content revalidation remains **10/10 content-covered; 30/30 checks resolved**.
-- MEC-05/PASS-02 independently found three closure blockers in existing map wording, not a missing topic.
-- Section 5 item 7 must narrow the third-class statement to a common human musculoskeletal model with explicit limits of universal classification.
-- Section 5 item 8 must state force mechanical advantage together with its reciprocal displacement/velocity ratio.
-- Section 5 item 9 must distinguish geometric displacement/velocity amplification from realized speed and anatomical ROM.
-- Current OpenStax A&P §11.1 supports generic musculoskeletal lever mapping but not the class/prevalence attribution used in the draft ledger; `MEC05` provenance repair is required.
-- No new Section 5 item is needed; the map remains 10 items until targeted wording repair.
-- Canonical MEC-05 finding is still **not created**; `CLOSED_FOR_PRACTICE` is **not assigned**; `MEC05-01…MEC05-12` remain audit-pending.
-- **CURRENT NEXT: MEC-05/PASS-03 — lever-map wording / evidence-provenance repair.**
+- MEC-05/PASS-02 refused closure and identified a bounded wording/provenance cluster.
+- MEC-05/PASS-03 repaired that cluster: **12/12 repair checks PASS**.
+- Section 5 remains **10 exact items**; item 7 now narrows third-class prevalence to a bounded human musculoskeletal model.
+- Item 8 now states force mechanical advantage and reciprocal displacement/velocity ratio explicitly.
+- Item 9 now separates geometric displacement/velocity amplification from realized dynamic speed and anatomical ROM.
+- Class/prevalence evidence now uses exact current anatomy teaching sources; OpenStax A&P §11.1 is retained only for generic lever mapping.
+- `MEC05-01…MEC05-12` remain **MEC-05 REPEAT AUDIT PENDING**.
+- Canonical MEC-05 finding is still **not created**; `CLOSED_FOR_PRACTICE` is **not assigned**.
+- **CURRENT NEXT: MEC-05/PASS-04 — repeat independent closure audit and synthesis after wording/provenance repair.**
 
 ## История текущего revalidation cycle
 
