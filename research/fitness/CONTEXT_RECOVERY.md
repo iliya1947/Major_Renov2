@@ -162,15 +162,16 @@ Stage 0A, Stage 0B и Stage 1 normalization v1.0 сохранены как за�
 - Area 06 Section 4 remains **10/10 exact items PASS**; no source-map mutation required.
 - Canonical `MEC-04_torque_moment_arms.md` created; `MEC04-01…MEC04-12` finalized.
 - MEC-05/PASS-01 — **CONTENT PASS COMPLETE**; exact Section 5 coverage **10/10**, content checks **30/30**.
-- MEC-05/PASS-02 — **CLOSURE REFUSED — TARGETED WORDING / PROVENANCE REPAIR REQUIRED**.
-- Exact Section 5 remains **10/10 content-covered**, but only **7/10 items are safe for closure**; items 7–9 require wording repair.
-- Item 7: replace broad “human movement predominantly third-class” wording with a bounded common-musculoskeletal-model formulation.
-- Item 8: state force mechanical advantage together with the reciprocal displacement/velocity ratio explicitly.
-- Item 9: distinguish geometric displacement/velocity amplification from realized dynamic speed and anatomical ROM.
-- Current OpenStax A&P §11.1 supports generic human lever mapping but does not directly supply the class-taxonomy / third-class-prevalence claim; `MEC05` provenance therefore needs repair.
-- No 11th Section 5 item is required; PASS-02 found a precision/provenance gap, not a taxonomy gap.
-- Source map was **not mutated in PASS-02**; canonical MEC-05 finding was **not created**; `MEC05-01…MEC05-12` remain audit-pending.
-- **CURRENT NEXT: MEC-05/PASS-03 — lever-map wording / evidence-provenance repair.**
+- MEC-05/PASS-02 — **CLOSURE REFUSED** after identifying the bounded wording/provenance repair cluster.
+- MEC-05/PASS-03 — **REPAIR CONTENT COMPLETE; 12/12 PASS; REPEAT CLOSURE AUDIT PENDING**.
+- Area 06 Section 5 remains **10 exact items**; no 11th item was added.
+- Item 7 now treats third-class leverage as a common human musculoskeletal model with explicit limits of universal classification.
+- Item 8 now states force mechanical advantage and reciprocal displacement/velocity ratio explicitly.
+- Item 9 now separates geometric displacement/velocity amplification from realized dynamic speed and anatomical ROM.
+- Class/prevalence provenance was repaired using current Oregon State Open A&P 2e and Medicine LibreTexts Human Anatomy (OERI); OpenStax A&P §11.1 is retained only for generic lever mapping.
+- `MEC05-01…MEC05-12` remain **MEC-05 REPEAT AUDIT PENDING**.
+- Canonical MEC-05 finding is **not created**; `CLOSED_FOR_PRACTICE` is **not assigned**.
+- **CURRENT NEXT: MEC-05/PASS-04 — repeat independent closure audit and synthesis after wording/provenance repair.**
 
 Phase A methodology:
 - **PHASE_A_SUFFICIENT_TO_PROCEED** по audit от 2026-11-18;
