@@ -83,9 +83,9 @@
 4. First-class lever.
 5. Second-class lever.
 6. Third-class lever.
-7. Human movement as predominantly third-class leverage.
-8. Mechanical advantage/disadvantage.
-9. Why poor mechanical advantage can be useful for speed/ROM.
+7. Third-class leverage as a common human musculoskeletal model — limits of universal classification.
+8. Mechanical advantage/disadvantage — force ratio and reciprocal displacement/velocity ratio.
+9. Low mechanical advantage — geometric displacement/velocity amplification and limits for realized speed/anatomical ROM.
 10. Interaction of anatomical and external levers.
 
 ## 6. Center of mass, base of support and stability
