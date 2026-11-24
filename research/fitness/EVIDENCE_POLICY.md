@@ -53,3 +53,8 @@
 7. реальной переносимости;
 8. СДВГ и поведению;
 9. текущей фазе программы.
+
+
+## v3 provenance override — effective 2026-11-24
+
+All pre-v3 materials are LEGACY_UNVERIFIED_FOR_REUSE by default; their labels do not demonstrate competency. Do not interpret this as all claims being false. A material claim used in a decision must have an actually inspected, identifiable source and matching passage/section/table or reproducible derivation, access level, limitations and applicability. Distinguish metadata/abstract/partial text/full text; do not claim full reading without reaching the end. Record missing source access and do not fill gaps by assertion. Date/version for changing information; primary/authoritative sources when appropriate. Match evidence type to question rather than applying a rigid hierarchy. Critical safety/provenance errors block readiness regardless of scores. Existing confidence labels are historical until verified for the relevant claim. No mass revalidation unless specific decision or discovered error pattern warrants it. See QUALIFICATION_ARCHITECTURE.md.
