@@ -133,6 +133,10 @@ Purpose gate ограничивает лишние блоки **внутри п�
 - privacy transform;
 - closure criterion.
 
+### Stage 2 — pre-interview regression gate (ERR-048)
+
+Before each question in an individualized interview, privately identify the concrete unresolved proposition, check the latest accessible private model and relevant prior answers, and specify what genuinely new observation the answer could supply. If existing material suffices, synthesize it instead of asking again. If corroboration is needed, ask for a distinct episode or criterion and make its purpose clear. Do not impose mutually exclusive answers on compatible or context-dependent processes. Do not treat a refusal to elaborate as missing data to pursue. After a recurrence of ERR-048, stop elicitation and reconcile accumulated evidence before asking another question. No private content or completed checks belong in the repository.
+
 ## 8. Evidence discipline
 
 Соблюдать `EVIDENCE_POLICY.md`.
