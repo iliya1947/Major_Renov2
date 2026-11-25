@@ -60,6 +60,8 @@
 | ERR-046 | Empty-source-log false assurance | Пустой SOURCE_STATUS_LOG ошибочно трактуется как доказательство, что все sources current и без corrections/retractions | Empty log = no change recorded only; verify mutable/current source at time of material use | ACTIVE |
 | ERR-047 | Stage-transition guard bypass | После окончания qualification Stage 2 воспринимается как разрешение пропустить purpose/evidence/SAF/ETH/requalification gates | Stage 2 inherits INT-04 routing, INT-02 transfer, INT-03 repair, SAF/ETH and privacy controls | ACTIVE |
 
+| ERR-048 | Context-blind elicitation / imposed alternatives | Interview question re-elicits an already documented proposition without a new discriminating purpose, or frames compatible/context-dependent processes as exclusive choices and restricts a valid open answer | Before asking, check current private model and raw reports; identify actual gap and information value; distinguish cross-context corroboration from redundancy; ask open, episode-specific questions without forced exclusivity unless empirically justified. | ACTIVE |
+
 ## INT-03 taxonomy map
 
 Canonical taxonomy: `qualification/26_integration/INT-03_analytic_error_taxonomy_failure_stages_cascades_detection_repair_regression.md`.
@@ -93,6 +95,8 @@ INT-04 checklist-layer routing:
 - ERR-045 Unqualified-specialty overreach -> primarily T01/T05/T08;
 - ERR-046 Empty-source-log false assurance -> primarily T03/T12;
 - ERR-047 Stage-transition guard bypass -> primarily T01, secondarily T10/T11/T12.
+
+- ERR-048 Context-blind elicitation / imposed alternatives -> primarily T01, secondarily T02/T03/T04; cause not established; applies to Stage 2 interview routing and private-model update protocol; no private case content retained.
 
 ## Обязательная regression check
 
