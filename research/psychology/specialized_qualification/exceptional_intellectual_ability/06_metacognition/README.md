@@ -19,3 +19,6 @@
 5. Сохранить блоки в этом каталоге и обновить локальные реестры; закрытие по [ASSESSMENT_PROTOCOL](../ASSESSMENT_PROTOCOL.md).
 
 Навигация: [план](../CURRICULUM.md) · [карта](../RESEARCH_MAP.md) · [очередь](../RESEARCH_QUEUE.md) · [шаблон](../RESEARCH_TEMPLATE.md).
+
+## Handoff из GFT-05
+GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE; Q-05-tail OPEN, AC factor disputed. GFT-06.1 — метакогнитивный мониторинг, уверенность, калибровка и измерение. Различить мониторинг и контроль, точность и bias уверенности, надежность и применимость; проверить MET/EXE/INT-02 перед началом. Исследование GFT-06 ещё не начато.

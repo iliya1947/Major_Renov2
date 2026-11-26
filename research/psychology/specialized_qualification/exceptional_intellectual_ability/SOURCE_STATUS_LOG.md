@@ -186,3 +186,6 @@ E01 PubMed авторская аннотация прочитана; E02 инд�
 
 ## 26.11.2026 — GFT-05.3
 E01 publisher methods/results excerpts; E02 PubMed author abstract and figures; E03 publisher methods/Table 1/results excerpts (PMC reCAPTCHA); E04 indexed author abstract/method; E05 indexed abstract (PubMed reCAPTCHA); E06 publisher abstract, restricted full text; E07 review abstract/index; E08/E09 indexed abstracts; E10 candidate only, correction PMID 40274724 not verified. No claim of complete reading or full correction/retraction audit. Q-05-tail OPEN.
+
+## 26.11.2026 — GFT-05.4
+Rey-Mermet 2025 publisher introduction/conclusion excerpts and Robison 2026 discussion excerpts reopened; no complete rereading. Welhaf erratum 10.3758/s13423-025-02664-y (24.04.2025) PubMed and publisher metadata verified, correction body paywalled. Haneefa 2026 indexed metadata, publisher full URL inaccessible. Q-05-tail OPEN; no systematic or complete correction/retraction audit.

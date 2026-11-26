@@ -257,3 +257,6 @@
 | GFT-05.3-E08 | 10.1177/0956797617706086 | contextual thought sampling, indexed abstract, N=274 |
 | GFT-05.3-E09 | PMID 22468669 | aptitude performance association, indexed abstract |
 | GFT-05.3-E10 | 10.3758/s13423-025-02650-4 | candidate only, correction PMID 40274724 not checked |
+
+## GFT-05.4 — 26.11.2026
+[Integration audit](05_cognitive_processes/GFT-05.4_cognitive_processes_integration_transfer_and_sufficiency_audit.md). Reused 05.1–05.3 cards, not independent replications. Rechecked publisher excerpts: 10.3758/s13423-025-02696-4 and 10.3758/s13428-025-02897-8; AC factor and speed discriminability remain disputed. Correction 10.3758/s13423-025-02664-y verified bibliographically, body inaccessible, 05.3-E10 not used. Haneefa 10.1080/23279095.2026.2673177 publisher full text unavailable, selection/IQ range not verified. Q-05-tail OPEN. No new independent effect estimates.

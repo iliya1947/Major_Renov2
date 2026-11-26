@@ -1,6 +1,6 @@
 # GFT-05 — Когнитивные процессы
 
-Статус: IN_PROGRESS. GFT-05.1–05.3 завершены в ограниченном объёме.
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE (общепсихологический научно-методический уровень). GFT-05.1–05.4 завершены. Q-05-tail OPEN.
 
 ## Программа
 Рабочая память, скорость обработки, внимание, гибкость, обучение, интуиция, автоматизация; воображение, внутренняя симуляция, формирование мыслей, взаимодействие автоматических и сознательных когнитивных процессов.
@@ -31,4 +31,6 @@ GFT-01–04 COMPLETE_FOR_SPECIFIED_SCOPE. GFT-05.1 — рабочая памят
 - [GFT-05.1 — Working memory, attention, processing speed and flexibility](GFT-05.1_working_memory_attention_processing_speed_and_flexibility.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-05.2 — Learning, intuition, automaticity and expertise](GFT-05.2_learning_intuition_automaticity_and_expertise.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-05.3 — Imagery, simulation, thought formation and control](GFT-05.3_imagery_simulation_thought_formation_and_control.md): COMPLETE_FOR_SPECIFIED_SCOPE.
-- GFT-05.4 — интеграционный аудит когнитивных процессов, переноса и достаточности.
+- [GFT-05.4 — Integration, transfer and sufficiency audit](GFT-05.4_cognitive_processes_integration_transfer_and_sufficiency_audit.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+
+GO for GFT-06. Q-05-tail OPEN; AC factor disputed. GFT-06.1 — метакогнитивный мониторинг, уверенность, калибровка и измерение.
