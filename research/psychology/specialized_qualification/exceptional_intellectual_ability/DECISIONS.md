@@ -32,3 +32,5 @@
 - D-016 (26.11.2026): GFT-06.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-06 IN_PROGRESS. Functional compensation not diagnosis or obligatory removal of supports. Effort source unresolved, tail and source discrepancy remain open. Next 06.4 integration audit; no change to 20 domains/6 phases. T0 unchanged, assessment internal.
 
 - D-017 (26.11.2026): GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE after 06.4; GO for GFT-07. Q-06-source-02 direction resolved from published results, abstract discrepancy open for correction; Q-06-tail remains OPEN. Select 07.1 constructs/measurement/threshold per README, do not begin here. 20 domains/6 phases unchanged, T0 unchanged, no independent competence increase established.
+
+- D-018 (26.11.2026): GFT-07.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-07 IN_PROGRESS. Q-07-tail OPEN, no universal threshold asserted; next 07.2 modeling/scientific thinking and complex problem-solving per program. No change to 20 domains/6 phases, T0 unchanged, internal assessment only.

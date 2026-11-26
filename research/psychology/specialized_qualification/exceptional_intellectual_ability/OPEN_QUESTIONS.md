@@ -86,3 +86,6 @@ Q-06: capacity/allocation/implementation/subjective cost, assisted vs internal p
 
 ## Handoff GFT-06.4 (26.11.2026)
 Q-06 methodological scope closed; domain generality, repeatability and effort mechanism remain unresolved scientific limits. Q-06-source-02 RESOLVED_FOR_REPORTED_DIRECTION; abstract inconsistency OPEN_FOR_PUBLISHER_CORRECTION, Exp2 total effect NS and opposing modeled paths. Q-06-tail OPEN; Q-02/03/04/05-tail OPEN; required checks GFT-16/17/20. GFT-07.1 — дивергентное и конвергентное мышление, измерение креативности и гипотеза порога. GFT-09/12–15/18/19 retain relevant boundaries.
+
+## Handoff GFT-07.1 (26.11.2026)
+Q-07: universal IQ120 threshold not established; mean slopes, necessary-condition boundaries and outcomes distinct; E05 ~120 Davies NS, E09 exploratory102 school fluency. Q-07-tail OPEN: measured adult IQ150–160+ DT/CT/creative relation not established; E05 max147.37, E11 developmental top-tail SAT/reasoning achievement not adult IQ. Q-02–06-tail OPEN. GFT-07.2 — творческое решение сложных задач, построение моделей и научное мышление. GFT-16/17/20 mandatory tail checks.

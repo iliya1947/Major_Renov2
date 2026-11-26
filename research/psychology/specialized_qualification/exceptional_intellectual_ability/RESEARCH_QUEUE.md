@@ -1,6 +1,6 @@
 # Очередь
 
-**Состояние: IN_PROGRESS.** GFT-01–06 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), 6/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail и Q-06-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-07.1 — дивергентное и конвергентное мышление, измерение креативности и гипотеза порога.
+**Состояние: IN_PROGRESS.** GFT-01–06 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 IN_PROGRESS (GFT-07.1 завершена), 6/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail и Q-07-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-07.2 — творческое решение сложных задач, построение моделей и научное мышление.
 
 | ID | Задача | Статус |
 |---|---|---|
@@ -10,7 +10,7 @@
 | GFT-04 | Высокоуровневое мышление | COMPLETE_FOR_SPECIFIED_SCOPE — методический уровень, Q-04-tail OPEN |
 | GFT-05 | Когнитивные процессы | COMPLETE_FOR_SPECIFIED_SCOPE — методический уровень, Q-05-tail OPEN |
 | GFT-06 | Метакогниция и метаконтроль | COMPLETE_FOR_SPECIFIED_SCOPE — методический уровень, Q-06-tail OPEN |
-| GFT-07 | Творчество и сложные задачи | QUEUED |
+| GFT-07 | Творчество и сложные задачи | IN_PROGRESS — GFT-07.1 |
 | GFT-08 | Развитие одарённой личности | QUEUED |
 | GFT-09 | Мотивация | QUEUED |
 | GFT-10 | Эмоциональная психология | QUEUED |

@@ -1,6 +1,6 @@
 # GFT-07 — Творчество и сложные задачи
 
-Статус: QUEUED. Исследования не начаты; научные выводы отсутствуют.
+Статус: IN_PROGRESS. GFT-07.1 COMPLETE_FOR_SPECIFIED_SCOPE (методический уровень). Q-07-tail OPEN.
 
 ## Программа
 Дивергентное и конвергентное мышление, построение моделей, научное мышление, продуктивность.
@@ -21,4 +21,8 @@
 Навигация: [план](../CURRICULUM.md) · [карта](../RESEARCH_MAP.md) · [очередь](../RESEARCH_QUEUE.md) · [шаблон](../RESEARCH_TEMPLATE.md).
 
 ## Handoff из GFT-06
-GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (Q-06-tail OPEN). GFT-07.1 — дивергентное и конвергентное мышление, измерение креативности и гипотеза порога. Перед исследованием проверить COG/MOT/DEC. Не смешивать генерацию идей, оценку, знания, achievement, условия и измерение интеллекта; проверить threshold/continuous models. GFT-07 ещё не начата.
+GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (Q-06-tail OPEN). GFT-07.1 — дивергентное и конвергентное мышление, измерение креативности и гипотеза порога. Перед исследованием проверить COG/MOT/DEC. Не смешивать генерацию идей, оценку, знания, achievement, условия и измерение интеллекта; проверить threshold/continuous models. 
+
+## Научные единицы
+- [GFT-07.1 — DT/CT, measurement and threshold](GFT-07.1_divergent_convergent_thinking_creativity_measurement_threshold.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- GFT-07.2 — творческое решение сложных задач, построение моделей и научное мышление.
