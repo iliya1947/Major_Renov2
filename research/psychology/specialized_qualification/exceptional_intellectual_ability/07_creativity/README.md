@@ -1,6 +1,6 @@
 # GFT-07 — Творчество и сложные задачи
 
-Статус: IN_PROGRESS. GFT-07.1–07.3 COMPLETE_FOR_SPECIFIED_SCOPE (методический уровень). Q-07-tail OPEN.
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE (общепсихологический научно-методический уровень). GFT-07.1–07.4 завершены. Q-07-tail OPEN.
 
 ## Программа
 Дивергентное и конвергентное мышление, построение моделей, научное мышление, продуктивность.
@@ -27,4 +27,6 @@ GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (Q-06-tail OPEN). GFT-07.1 — диверг�
 - [GFT-07.1 — DT/CT, measurement and threshold](GFT-07.1_divergent_convergent_thinking_creativity_measurement_threshold.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-07.2 — Complex problem solving, modeling and scientific reasoning](GFT-07.2_creative_complex_problem_solving_model_construction_and_scientific_reasoning.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-07.3 — Creative productivity, achievement and opportunity](GFT-07.3_creative_productivity_scientific_achievement_and_opportunity.md): COMPLETE_FOR_SPECIFIED_SCOPE.
-- GFT-07.4 — интеграционный аудит творчества, научного мышления, продуктивности и переноса.
+- [GFT-07.4 — Integration and sufficiency audit](GFT-07.4_creativity_scientific_reasoning_productivity_integration_and_sufficiency_audit.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+
+Этап II завершён в установленном объёме. GO for GFT-08; Q-02–07-tail OPEN. GFT-08.1 — возрастная динамика интеллектуальных способностей, развитие и когортные различия.

@@ -22,3 +22,6 @@
 
 ## Уточнение GFT-06.4
 06.2-E02: при расхождении abstract и results не выбирать удобную версию; подтвердить direction по published results, figure caption и discussion. Exp2 opposing modeled direct/indirect effects do not make total effect significant. Не выдавать отсутствие signed preregistered effect за подтверждённую directional correction; absolute bias, signed bias, calibration and sensitivity различать. Не считать успешную опору доказательством дефицита. История сохранена, 06.2 дополнена; Q-06-tail OPEN.
+
+## Уточнение GFT-07.4
+Do not count common recruitment cohort or repeated larger study as independent replication, compare pooled correlations of different outcomes as tested difference, treat estimated knot as significant without slope-change evidence, or equate conditional mean with necessary-condition boundary. Insight may correlate with accuracy in some tasks and be false in others; don't infer general absence/presence of an accuracy advantage. Achievement metrics not equivalent to quality or latent ability. 07.1 addendum and 07.4 A–C internal regression cases; no new independent test.

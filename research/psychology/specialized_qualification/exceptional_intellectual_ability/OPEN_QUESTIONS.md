@@ -95,3 +95,6 @@ Q-07: CPS operationalizations, novelty vs validity, insight confidence vs accura
 
 ## Handoff GFT-07.3 (26.11.2026)
 Q-07: ability, creative potential, activity, quality, quantity, opportunity, recognition, impact and sustainability distinct. Shared larger study Jauk 2013/2014; Park/Kell share SMPY cohort, individual overlap not quantified. Adult measured IQ150–160+ creative/scientific productivity and achievements not established; Q-07-tail OPEN, Q-02–06-tail OPEN. GFT-07.4 — интеграционный аудит творчества, научного мышления, продуктивности и переноса. GFT-08/09 development/motivation; GFT-16/17/20 tail.
+
+## Handoff GFT-07.4 (26.11.2026)
+GFT-07 general method scope closed; universal threshold not established. Q-07-tail OPEN for measured adult IQ150–160+ DT/CT/CPS/scientific reasoning/productivity/achievement; Q-02–06-tail OPEN. Cohort dependence confirmed at recruitment level, exact overlap and meta-analysis dependence not fully determined. GFT-08.1 — возрастная динамика интеллектуальных способностей, развитие и когортные различия. GFT-16/17/20 mandatory tail checks; GFT-18/19 transfer. Stage II completed for specified scope only.

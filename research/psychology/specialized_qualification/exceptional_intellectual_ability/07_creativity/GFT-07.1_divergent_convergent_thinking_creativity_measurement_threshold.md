@@ -63,3 +63,6 @@ Internal rubric: concepts 2 (generation/evaluation/achievement), evidence 2 (E05
 
 ## 6. Handoff
 GFT-07.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-07 IN_PROGRESS. Q-07-tail OPEN: direct validated measured adult IQ150–160+ creativity/DT/CT profile unestablished; E11 developmental high-tail achievement is related but not direct. Q-07 threshold unresolved as universal rule, conditional evidence only. Q-02–06-tail OPEN; Q-06-source-02 reported direction resolved, abstract issue open. GFT-16/17/20 mandatory tail checks, GFT-09 motivation, GFT-18/19 explanatory transfer. 6/20 domains, 23 bounded units. Next: GFT-07.2 — творческое решение сложных задач, построение моделей и научное мышление. Do not start next unit.
+
+## 7. Provenance addendum — GFT-07.4
+07.3 E02–04 and 07.4 §2F supersede only prior uncertainty about study/cohort dependence: Jauk 2013/2014 same larger study; Park 2007/Kell 2013 common SMPY recruitment cohort, exact participant overlap not quantified. Do not count as independent replications or add participant Ns. No adult normed FSIQ remeasurement established. 2026 Chiang data-driven 102 is a study-specific intelligence score breakpoint for AUT fluency, not validated universal IQ cutoff. See [07.4](GFT-07.4_creativity_scientific_reasoning_productivity_integration_and_sufficiency_audit.md). Original record retained.
