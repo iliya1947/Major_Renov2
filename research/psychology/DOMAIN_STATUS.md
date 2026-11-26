@@ -59,7 +59,7 @@ Stage 2 systematic private application: **READY_TO_BEGIN**.
 
 No next general qualification block is scheduled; requalification is trigger-based.
 
-Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, GFT-01 IN_PROGRESS, 0/20 научных областей завершено, T0 зафиксирована (внутренняя оценка), T1 ожидается. Последний ограниченный блок: GFT-01.2. Следующее действие: GFT-01.3; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
+Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, GFT-01 COMPLETE_FOR_SPECIFIED_SCOPE, 1/20 научных областей завершена в установленном объёме, T0 зафиксирована (внутренняя оценка), T1 ожидается. Последний ограниченный блок: GFT-01.3. Следующее действие: GFT-02.1; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
 
 ## Rule
 
