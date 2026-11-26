@@ -2,7 +2,7 @@
 
 ## Active routing — targeted requalification
 
-Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, 0/20 научных областей завершено, T0 зафиксирована (внутренняя оценка), T1 ожидается. Следующее действие: GFT-01.1; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
+Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, GFT-01 IN_PROGRESS, 0/20 научных областей завершено, T0 зафиксирована (внутренняя оценка), T1 ожидается. Последний ограниченный блок: GFT-01.1. Следующее действие: GFT-01.2; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
 
 ## Status (general qualification)
 
@@ -1340,15 +1340,13 @@ Established:
 
 ## Current next action
 
-**Stage 2 / Step 1 — private-only baseline reconciliation of the current psychological model against the completed qualification stack.**
-
-This work occurs only in the private project.
+**GFT-01.2 — active targeted requalification.** GFT-01.1 complete for specified scope. See local GFT RESEARCH_QUEUE and CONTEXT_RECOVERY. Stage 2 private baseline reconciliation is a separate historical route, not the active continuation.
 
 No individualized observations, model propositions, completed checklists, or model-update cards may be written to GitHub.
 
 ## Requalification state
 
-No new general qualification block is queued. A targeted specialty requalification is recorded below; research has not started.
+No new general qualification block is queued. The active targeted specialty is GFT; research has started.
 
 Requalification begins only on an explicit trigger:
 
@@ -1371,7 +1369,7 @@ The following historical directories currently contain README infrastructure onl
 
 Strong specialty claims require targeted requalification before use.
 
-## Targeted requalification — high and exceptional intellectual ability (ACTIVE; scientific blocks not started)
+## Targeted requalification — high and exceptional intellectual ability (ACTIVE; GFT-01 IN_PROGRESS)
 
 Scope audit: the current general qualification contains psychometric precision and ceiling-effect safeguards, individual-difference methodology, and neurodevelopmental compensation boundaries. It has no dedicated canonical specialty block on adult high and exceptional intellectual ability.
 
@@ -1386,5 +1384,5 @@ Historical scope proposal; superseded by audited local CURRICULUM.md, RESEARCH_M
 5. Evidence transportability from child, selected, educational and clinical samples to adults and extreme score ranges; identify sparse evidence and avoid extrapolation.
 6. Integration, alternative explanations, individual applicability and sufficiency audit.
 
-Do not assume a qualitatively distinct cognitive architecture, uniform giftedness traits, or a known IQ from self-report or conversation. The specialty is not a formal credential or diagnostic authority. No empirical conclusion or completion claimed; no private examples or personal data belong in this record.
+Do not assume a qualitatively distinct cognitive architecture, uniform giftedness traits, or a known IQ from self-report or conversation. The specialty is not a formal credential or diagnostic authority. No whole-specialty completion claimed; scoped scientific evidence in local GFT records. No private examples or personal data belong in this record.
 
