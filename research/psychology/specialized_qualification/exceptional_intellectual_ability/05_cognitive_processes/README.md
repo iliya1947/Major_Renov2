@@ -1,6 +1,6 @@
 # GFT-05 — Когнитивные процессы
 
-Статус: IN_PROGRESS. GFT-05.1–05.2 завершены в ограниченном объёме.
+Статус: IN_PROGRESS. GFT-05.1–05.3 завершены в ограниченном объёме.
 
 ## Программа
 Рабочая память, скорость обработки, внимание, гибкость, обучение, интуиция, автоматизация; воображение, внутренняя симуляция, формирование мыслей, взаимодействие автоматических и сознательных когнитивных процессов.
@@ -30,4 +30,5 @@ GFT-01–04 COMPLETE_FOR_SPECIFIED_SCOPE. GFT-05.1 — рабочая памят
 ## Научные единицы
 - [GFT-05.1 — Working memory, attention, processing speed and flexibility](GFT-05.1_working_memory_attention_processing_speed_and_flexibility.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-05.2 — Learning, intuition, automaticity and expertise](GFT-05.2_learning_intuition_automaticity_and_expertise.md): COMPLETE_FOR_SPECIFIED_SCOPE.
-- GFT-05.3 — воображение, внутренняя симуляция и формирование мыслей: спонтанные и намеренные процессы, автоматичность и сознательный контроль.
+- [GFT-05.3 — Imagery, simulation, thought formation and control](GFT-05.3_imagery_simulation_thought_formation_and_control.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- GFT-05.4 — интеграционный аудит когнитивных процессов, переноса и достаточности.

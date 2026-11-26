@@ -241,3 +241,19 @@
 | GFT-05.2-E11 | 10.1016/j.cognition.2008.05.005 | Einstellung у шахматистов | Авторская аннотация Brunel |
 | GFT-05.2-E12 | 10.3390/jintelligence13090115 | 4 эксперимента, параллельные SISL формы | Индекс текста/ограничений; PMC reCAPTCHA, MDPI 429 |
 | GFT-05.2-E13 | PMID 31451633 | Продольная шахматная экспертиза; ассоциации | Индекс аннотации/текста |
+
+## GFT-05.3 — 26.11.2026
+[Evidence cards and internal checks](05_cognitive_processes/GFT-05.3_imagery_simulation_thought_formation_and_control.md). E01–E09 support bounded general distinctions, E10 candidate only (correction not checked); no verified extreme IQ adult sample.
+
+| ID | Source | Scope/access |
+|---|---|---|
+| GFT-05.3-E01 | 10.7554/eLife.72484 | pupil imagery, methods/results excerpts, 42+18 |
+| GFT-05.3-E02 | 10.1016/j.cortex.2020.11.014 | object vs spatial recall, PubMed abstract/figures, 61+52 |
+| GFT-05.3-E03 | 10.1093/texcom/tgab035 | imagery extremes and IQ, publisher methods/table/results excerpts, N=69 |
+| GFT-05.3-E04 | 10.1016/j.concog.2007.12.006 | DES, 30 students, indexed abstract/method |
+| GFT-05.3-E05 | PMID 17126370 | event construction/elaboration, indexed abstract |
+| GFT-05.3-E06 | 10.1177/0956797616634068 | intention, publisher abstract |
+| GFT-05.3-E07 | 10.1038/nrn.2016.113 | dynamic framework, review abstract/index |
+| GFT-05.3-E08 | 10.1177/0956797617706086 | contextual thought sampling, indexed abstract, N=274 |
+| GFT-05.3-E09 | PMID 22468669 | aptitude performance association, indexed abstract |
+| GFT-05.3-E10 | 10.3758/s13423-025-02650-4 | candidate only, correction PMID 40274724 not checked |

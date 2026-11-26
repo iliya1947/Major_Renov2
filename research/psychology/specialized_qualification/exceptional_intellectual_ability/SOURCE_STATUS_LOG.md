@@ -183,3 +183,6 @@ E01 PubMed авторская аннотация прочитана; E02 инд�
 - E12 10.3390/jintelligence13090115: Индекс текста/ограничений; PMC reCAPTCHA, MDPI 429.
 - E13 PMID 31451633: Индекс аннотации/текста.
 Полные тексты и статусы исправлений/отзывов всех источников не проверены. Corrigendum шахматного метаанализа Burgoyne 2016 найден (ScienceDirect S0160289618301831), содержание не извлечено, численные эффекты не использованы. Q-05-tail OPEN.
+
+## 26.11.2026 — GFT-05.3
+E01 publisher methods/results excerpts; E02 PubMed author abstract and figures; E03 publisher methods/Table 1/results excerpts (PMC reCAPTCHA); E04 indexed author abstract/method; E05 indexed abstract (PubMed reCAPTCHA); E06 publisher abstract, restricted full text; E07 review abstract/index; E08/E09 indexed abstracts; E10 candidate only, correction PMID 40274724 not verified. No claim of complete reading or full correction/retraction audit. Q-05-tail OPEN.

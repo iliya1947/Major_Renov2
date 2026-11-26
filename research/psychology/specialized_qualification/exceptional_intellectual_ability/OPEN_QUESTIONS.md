@@ -68,3 +68,6 @@ Q-05: WM, внимание, скорость, гибкость и реально
 
 ## Handoff GFT-05.2 (26.11.2026)
 Q-05: усвоение, удержание, перенос, автоматичность и экспертная интуиция разведены; спор о deliberate practice зависит от определений/коррекции. Q-05-tail OPEN: прямой взрослый IQ 150–160+ для темпа/интуиции/автоматизации не установлен; GFT-16/17/20. GFT-05.3: воображение, внутренняя симуляция, формирование мыслей и сознательный контроль. GFT-08: развитие когнитивных стратегий и роль накопленного опыта. Q-02-tail/Q-03-tail/Q-04-tail OPEN.
+
+## Handoff GFT-05.3 (26.11.2026)
+Q-05: form of experience, operation, simulation quality, initiation, awareness and control separated. Q-05-tail OPEN: no verified adult IQ 150–160+ sample on these processes; E10 correction not checked, no substantive result used. GFT-05.4 integration audit, GFT-06 monitoring/control, GFT-07 creativity, GFT-16/17/20 tail. Q-02/03/04-tail OPEN.
