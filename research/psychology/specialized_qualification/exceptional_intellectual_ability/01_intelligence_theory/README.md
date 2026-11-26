@@ -1,6 +1,6 @@
 # GFT-01 — Теория интеллекта
 
-Статус: IN_PROGRESS. GFT-01.1 завершена в ограниченном объёме; не вся область.
+Статус: IN_PROGRESS. GFT-01.1 и GFT-01.2 завершены в ограниченном объёме; не вся область.
 
 ## Программа
 g, CHC, текучий и кристаллизованный интеллект, иерархия способностей.
@@ -22,4 +22,5 @@ g, CHC, текучий и кристаллизованный интеллект,
 
 ## Научные единицы
 - [GFT-01.1 — Constructs, g, CHC and competing models](GFT-01.1_constructs_g_chc_competing_models.md): COMPLETE_FOR_SPECIFIED_SCOPE; границы в блоке.
-- GFT-01.2 — текучий и кристаллизованный интеллект (Gf/Gc), накопление знаний, инвестиционные модели и предсказательная валидность общих и специфических способностей.
+- [GFT-01.2 — Fluid/crystallized, investment and predictive validity](GFT-01.2_fluid_crystallized_investment_predictive_validity.md): COMPLETE_FOR_SPECIFIED_SCOPE; границы в блоке.
+- GFT-01.3 — интеграция теории интеллекта, проверка переноса и аудит достаточности GFT-01 перед психометрией.
