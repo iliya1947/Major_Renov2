@@ -1,6 +1,6 @@
 # GFT-02 — Психометрия исключительной одарённости
 
-Статус: IN_PROGRESS. GFT-02.1 завершена в ограниченном объёме.
+Статус: IN_PROGRESS. GFT-02.1–02.2 завершены в ограниченном объёме.
 
 ## Программа
 Потолки тестов, расширенные нормы, ошибки измерения, неоднородные профили, редкость экстремальных результатов.
@@ -25,4 +25,5 @@ GFT-01 COMPLETE_FOR_SPECIFIED_SCOPE. Первая единица по очере
 
 ## Научные единицы
 - [GFT-02.1 — IQ metric, norms, ceiling and precision](GFT-02.1_IQ_metric_norms_ceiling_and_measurement_precision.md): COMPLETE_FOR_SPECIFIED_SCOPE.
-- GFT-02.2 — интерпретация неоднородных когнитивных профилей, сопоставимость индексов, надёжность различий и влияние отбора.
+- [GFT-02.2 — Heterogeneous profiles, discrepancies and selection](GFT-02.2_heterogeneous_profiles_discrepancies_and_selection.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- GFT-02.3 — интеграция психометрии верхнего хвоста, проверка доступности технических норм и аудит достаточности GFT-02.
