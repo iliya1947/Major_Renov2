@@ -1,6 +1,6 @@
 # GFT-01 — Теория интеллекта
 
-Статус: IN_PROGRESS. GFT-01.1 и GFT-01.2 завершены в ограниченном объёме; не вся область.
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE. GFT-01.1–01.3 завершены; внутренний аудит достаточности для GFT-02, не независимая аттестация. Специфика измеренного взрослого IQ 150–160+ не установлена.
 
 ## Программа
 g, CHC, текучий и кристаллизованный интеллект, иерархия способностей.
@@ -23,4 +23,6 @@ g, CHC, текучий и кристаллизованный интеллект,
 ## Научные единицы
 - [GFT-01.1 — Constructs, g, CHC and competing models](GFT-01.1_constructs_g_chc_competing_models.md): COMPLETE_FOR_SPECIFIED_SCOPE; границы в блоке.
 - [GFT-01.2 — Fluid/crystallized, investment and predictive validity](GFT-01.2_fluid_crystallized_investment_predictive_validity.md): COMPLETE_FOR_SPECIFIED_SCOPE; границы в блоке.
-- GFT-01.3 — интеграция теории интеллекта, проверка переноса и аудит достаточности GFT-01 перед психометрией.
+- [GFT-01.3 — Integration, transfer and sufficiency audit](GFT-01.3_integration_transfer_and_sufficiency_audit.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+
+Следующая область: GFT-02.1 — психометрический смысл IQ, верхний хвост распределения, нормы, потолки и неопределённость измерения.

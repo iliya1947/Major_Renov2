@@ -19,3 +19,6 @@
 5. Сохранить блоки в этом каталоге и обновить локальные реестры; закрытие по [ASSESSMENT_PROTOCOL](../ASSESSMENT_PROTOCOL.md).
 
 Навигация: [план](../CURRICULUM.md) · [карта](../RESEARCH_MAP.md) · [очередь](../RESEARCH_QUEUE.md) · [шаблон](../RESEARCH_TEMPLATE.md).
+
+## Handoff из GFT-01
+GFT-01 COMPLETE_FOR_SPECIFIED_SCOPE. Первая единица по очереди: GFT-02.1 — психометрический смысл IQ, верхний хвост распределения, нормы, потолки и неопределённость измерения. Проверить нормативные данные, измерительную точность и влияние селекции прежде, чем интерпретировать верхнехвостовой профиль. См. [аудит GFT-01.3](../01_intelligence_theory/GFT-01.3_integration_transfer_and_sufficiency_audit.md). Исследование GFT-02 ещё не начато.
