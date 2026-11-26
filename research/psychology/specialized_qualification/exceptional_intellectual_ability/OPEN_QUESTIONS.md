@@ -77,3 +77,6 @@ Q-05 base methodological scope closed; Q-05-tail OPEN: Haneefa selection and IQ 
 
 ## Handoff GFT-06.1 (26.11.2026)
 Q-06: unresolved domain generality and repeated individual measurement reliability; distinct monitoring and control. Q-06-tail OPEN: direct validated adult IQ 150–160+ metacognitive monitoring profiles/measurement not established. Q-02/03/04/05-tail OPEN. Mandatory tail checks in GFT-16/17/20; GFT-12/13/14 preserve functioning vs measurement. GFT-06.2 — метакогнитивный контроль, выбор стратегии, поиск информации и пересмотр.
+
+## Handoff GFT-06.2 (26.11.2026)
+Q-06: distinct sampling/termination, strategy allocation/implementation, accuracy/utility/coverage and revision. Q-06-source-02 OPEN: Van Marcke & Desender 2025 abstract vs indexed main text Exp1 direction conflict; direction excluded, check full results/correction if accessible. Q-06-tail OPEN: direct adult measured IQ150–160+ control policies not established. Q-02/03/04/05-tail OPEN. GFT-06.3 — саморегуляция, распределение когнитивных ресурсов и компенсация; then integration. GFT-16/17/20 preserve tail checks.

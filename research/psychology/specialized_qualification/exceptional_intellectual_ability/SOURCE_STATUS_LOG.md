@@ -192,3 +192,6 @@ Rey-Mermet 2025 publisher introduction/conclusion excerpts and Robison 2026 disc
 
 ## 26.11.2026 — GFT-06.1
 Rahnev 2025 publisher abstract/introduction/test-retest results/discussion excerpts; Double 2025 publisher abstract/introduction and indexed results; Mazancieux 2026 APS abstract (full access limited); Baer 2026 publisher abstract/figure captions (subscription). E01–E04/E07–E08/E11 author/publisher/indexed abstracts, not full texts. Primary Rouault Gf analysis not extracted (PMC reCAPTCHA); some gifted adolescent sources blocked. No systematic correction/retraction audit. Q-06-tail OPEN. See block for access per source.
+
+## 26.11.2026 — GFT-06.2
+E01 institutional abstract excerpt, PubMed blocked; E02 PubMed author abstract vs indexed publisher body contradiction on Exp1 direction (publisher direct 403, no correction identified in targeted search; direction not used); E03 PubMed author abstract, publisher 403; E04 Cambridge abstract/introduction; E05 Nature results/discussion excerpts; E06 Springer abstract/discussion (overall accuracy difference NS); E07 indexed author abstracts; E08 Springer introduction/discussion excerpts; E09 indexed title/body, PubMed blocked; E10 indexed abstracts. No full reading or systematic correction/retraction audit. Q-06-source-02 and Q-06-tail OPEN.
