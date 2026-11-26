@@ -92,3 +92,6 @@ Q-07: universal IQ120 threshold not established; mean slopes, necessary-conditio
 
 ## Handoff GFT-07.2 (26.11.2026)
 Q-07: CPS operationalizations, novelty vs validity, insight confidence vs accuracy, positive tests vs diagnostic evidence, fitted vs novel predictions, model complexity and transfer. Universal threshold not established. Q-07-tail OPEN also for measured adult IQ150–160+ CPS/modeling/scientific reasoning. Q-02–06-tail OPEN. GFT-07.3 — творческая продуктивность, научные достижения и условия реализации потенциала. GFT-16/17/20 tail; GFT-18/19 model adequacy/revision.
+
+## Handoff GFT-07.3 (26.11.2026)
+Q-07: ability, creative potential, activity, quality, quantity, opportunity, recognition, impact and sustainability distinct. Shared larger study Jauk 2013/2014; Park/Kell share SMPY cohort, individual overlap not quantified. Adult measured IQ150–160+ creative/scientific productivity and achievements not established; Q-07-tail OPEN, Q-02–06-tail OPEN. GFT-07.4 — интеграционный аудит творчества, научного мышления, продуктивности и переноса. GFT-08/09 development/motivation; GFT-16/17/20 tail.

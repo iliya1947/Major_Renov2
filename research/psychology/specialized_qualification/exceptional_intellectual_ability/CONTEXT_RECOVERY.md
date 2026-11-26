@@ -7,7 +7,7 @@
 3. Сверить evidence/error/open questions/decisions и статус источников, если релевантно.
 4. При противоречии остановить предметную работу, восстановить актуальное состояние; не угадывать.
 
-Текущая точка: GFT-01–06 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 IN_PROGRESS (GFT-07.1–07.2 завершены), 6/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail и Q-07-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `07_creativity/GFT-07.2_creative_complex_problem_solving_model_construction_and_scientific_reasoning.md`. Следующая единица: GFT-07.3 — творческая продуктивность, научные достижения и условия реализации потенциала. Персональные данные остаются вне репозитория.
+Текущая точка: GFT-01–06 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 IN_PROGRESS (GFT-07.1–07.3 завершены), 6/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail и Q-07-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `07_creativity/GFT-07.3_creative_productivity_scientific_achievement_and_opportunity.md`. Следующая единица: GFT-07.4 — интеграционный аудит творчества, научного мышления, продуктивности и переноса. Персональные данные остаются вне репозитория.
 
 Q-02-tail: не подтверждена локальная точность экстремального взрослого диапазона, полные технические руководства не получены; ограничение обязательно учитывать в GFT-03–20.
 
@@ -26,3 +26,5 @@ Q-06-tail also covers self-regulation, effort allocation and compensation; direc
 Q-07-tail OPEN: adult measured IQ150–160+ DT/CT/creativity relationship not established; developmental high-tail achievement proxy not substitute. Q-07 universal threshold not established; see 07.1 E05–E09.
 
 Q-07-tail also covers measured adult IQ150–160+ complex problem solving/model construction/scientific reasoning; direct evidence not established.
+
+Q-07-tail also covers measured adult IQ150–160+ creative/scientific productivity and achievement; developmental cohort evidence not adult remeasurement. Source dependence: Jauk 2013/2014 same larger study; Park/Kell share SMPY recruitment cohort; see 07.3 E02–04.

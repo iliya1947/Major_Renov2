@@ -36,3 +36,5 @@
 - D-018 (26.11.2026): GFT-07.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-07 IN_PROGRESS. Q-07-tail OPEN, no universal threshold asserted; next 07.2 modeling/scientific thinking and complex problem-solving per program. No change to 20 domains/6 phases, T0 unchanged, internal assessment only.
 
 - D-019 (26.11.2026): GFT-07.2 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-07 IN_PROGRESS. Distinguish generation and discriminating test, model fit and causal identification, task and transfer. Pre-search 13-field question recorded before search. Next 07.3 achievement/productivity per program; no change to domains/phases. Q-07-tail OPEN, internal assessment only, T0 unchanged.
+
+- D-020 (26.11.2026): GFT-07.3 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-07 IN_PROGRESS. Separate actual achievement, output, quality, recognition and available opportunity; no claim from absent output to latent ability. 13-field pre-search card recorded. Confirm source dependence (Jauk 2013/2014; Park/Kell shared cohort). Next 07.4 integration and sufficiency audit; T0 unchanged, internal assessment only; 20 domains/6 phases unchanged.
