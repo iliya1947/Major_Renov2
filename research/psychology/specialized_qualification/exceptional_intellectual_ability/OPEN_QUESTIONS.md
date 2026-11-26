@@ -80,3 +80,6 @@ Q-06: unresolved domain generality and repeated individual measurement reliabili
 
 ## Handoff GFT-06.2 (26.11.2026)
 Q-06: distinct sampling/termination, strategy allocation/implementation, accuracy/utility/coverage and revision. Q-06-source-02 OPEN: Van Marcke & Desender 2025 abstract vs indexed main text Exp1 direction conflict; direction excluded, check full results/correction if accessible. Q-06-tail OPEN: direct adult measured IQ150–160+ control policies not established. Q-02/03/04/05-tail OPEN. GFT-06.3 — саморегуляция, распределение когнитивных ресурсов и компенсация; then integration. GFT-16/17/20 preserve tail checks.
+
+## Handoff GFT-06.3 (26.11.2026)
+Q-06: capacity/allocation/implementation/subjective cost, assisted vs internal performance, durability and compensation distinguished. Effort mechanism unresolved; Ngai & Gilbert Exp2 absolute vs signed outcome distinction. Q-06-tail OPEN: no verified specific measured adult IQ150–160+ SRL/effort/offloading profile. Q-06-source-02 OPEN, direction excluded. Q-02/03/04/05-tail OPEN. GFT-06.4 — интеграционный аудит метакогниции, метаконтроля, саморегуляции и переноса. GFT-12–15 clinical/functional distinction; GFT-16/17/20 mandatory tail checks.

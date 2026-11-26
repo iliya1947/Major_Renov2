@@ -28,3 +28,5 @@
 - D-014 (26.11.2026): GFT-06.1 complete for specified general methodological scope. GFT-06 IN_PROGRESS. Q-06-tail OPEN; no universal metacognitive factor asserted. Choose control/strategy/information/revision as 06.2 before self-regulation/compensation. No change to 20 domains/6 phases. Internal assessment only, T0 unchanged. Question card formal documentation after initial search recorded as procedural limitation.
 
 - D-015 (26.11.2026): GFT-06.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-06 IN_PROGRESS. E02 direction excluded due to source inconsistency; no universal optimal policy or tail-specific profile asserted. 06.3 self-regulation/resource allocation/compensation selected per program, then integration; no change to 20 domains/6 phases. T0 unchanged, assessment internal.
+
+- D-016 (26.11.2026): GFT-06.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-06 IN_PROGRESS. Functional compensation not diagnosis or obligatory removal of supports. Effort source unresolved, tail and source discrepancy remain open. Next 06.4 integration audit; no change to 20 domains/6 phases. T0 unchanged, assessment internal.
