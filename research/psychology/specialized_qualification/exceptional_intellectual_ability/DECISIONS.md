@@ -40,3 +40,5 @@
 - D-020 (26.11.2026): GFT-07.3 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-07 IN_PROGRESS. Separate actual achievement, output, quality, recognition and available opportunity; no claim from absent output to latent ability. 13-field pre-search card recorded. Confirm source dependence (Jauk 2013/2014; Park/Kell shared cohort). Next 07.4 integration and sufficiency audit; T0 unchanged, internal assessment only; 20 domains/6 phases unchanged.
 
 - D-021 (26.11.2026): GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE after 07.4; Stage II COMPLETE_FOR_SPECIFIED_SCOPE; GO to 08.1 age trajectories and cohort differences from program/README, not started. Q-02–07-tail OPEN. 7/20 domains, 26 bounded units, T0 unchanged, T1 pending, no independent competence increase established. Source dependence clarified; universal threshold not established.
+
+- D-022 (26.11.2026): GFT-08.1 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-08 IN_PROGRESS. Separate age-relative and equated scores, rank and mean/individual/profile change, level vs slope, age/cohort/period and retest/selection. Q-08-tail OPEN. Next 08.2 asynchrony per program; T0 unchanged, internal assessment only; 7/20 areas, 27 bounded units.

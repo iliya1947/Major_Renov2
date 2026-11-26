@@ -7,7 +7,7 @@
 3. Сверить evidence/error/open questions/decisions и статус источников, если релевантно.
 4. При противоречии остановить предметную работу, восстановить актуальное состояние; не угадывать.
 
-Текущая точка: GFT-01–07 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме, 7/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail и Q-07-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `07_creativity/GFT-07.4_creativity_scientific_reasoning_productivity_integration_and_sufficiency_audit.md`. Следующая единица: GFT-08.1 — возрастная динамика интеллектуальных способностей, развитие и когортные различия. Персональные данные остаются вне репозитория.
+Текущая точка: GFT-01–07 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 IN_PROGRESS (GFT-08.1 завершена), 7/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail и Q-08-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `08_personality_development/GFT-08.1_lifespan_cognitive_trajectories_age_cohort_and_selection.md`. Следующая единица: GFT-08.2 — асинхронность развития, неоднородность профиля и границы концепции. Персональные данные остаются вне репозитория.
 
 Q-02-tail: не подтверждена локальная точность экстремального взрослого диапазона, полные технические руководства не получены; ограничение обязательно учитывать в GFT-03–20.
 
@@ -30,3 +30,5 @@ Q-07-tail also covers measured adult IQ150–160+ complex problem solving/model 
 Q-07-tail also covers measured adult IQ150–160+ creative/scientific productivity and achievement; developmental cohort evidence not adult remeasurement. Source dependence: Jauk 2013/2014 same larger study; Park/Kell share SMPY recruitment cohort; see 07.3 E02–04.
 
 Этап II COMPLETE_FOR_SPECIFIED_SCOPE; Q-07-tail OPEN, universal threshold not established. DEV/PER status checked; prerequisite units to verify before 08.1.
+
+Q-08-tail OPEN: measured adult IQ150–160+ longitudinal rank/level/profile, slopes and age/cohort/period effects not established. GFT-08.1 completed; prior DEV/PER relevant openings checked. Fjell 2026 Fig5b correction documented; corrected plot not inspected.

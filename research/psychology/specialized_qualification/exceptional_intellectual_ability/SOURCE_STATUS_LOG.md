@@ -213,3 +213,6 @@ E01 PubMed abstract/Fig2 caption; E02 SAGE methods/results/limitations and other
 
 ## 26.11.2026 — GFT-07.4
 Selected indexed author texts/abstracts for Gerwig, Karwowski, Jauk 2013/2014, Weiss, Chiang (MDPI direct 429; PMC/CUHK indexed), Stadler, Stuyck 2021 (PubMed abstract opened) and 2022 (indexed), Grimmer, Branchini, Park/Kell, cohort descriptions, Bol, Liu, Cebrián, Sio. Indexed PDF excerpts not full PDF analysis. No full primary-data/supplement/correction/retraction or participant overlap audit. Same sources as previous units not independent; 07.1 provenance addendum. Q-07-tail OPEN.
+
+## 26.11.2026 — GFT-08.1
+Indexed author abstracts and HTML excerpts E01–05, E07/E09; PMC/PubMed direct requests challenged, Wiley direct403. E06 LMU author abstract opened, Zurich indexed published methods/results; E08 APS author abstract opened. Fjell et al. 10.1038/s41591-026-04759-y published17 Nov2026; publisher correction24 Nov2026 10.1038/s41591-026-04824-6 incorrect Fig5b amended; indexed HTML correction notice retrieved, direct opens cache miss, corrected figure not inspected; abstract-level only. No complete literature, data, corrections or overlap audit. Cohort overlap LBC/VCAP/BETULA/LOGIC/SHARE noted. Q-08-tail OPEN.
