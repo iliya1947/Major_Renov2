@@ -37,7 +37,7 @@ If control files disagree:
 - Branch: `research/psychology-foundation`.
 - Cabinet: PR #6.
 - Active route: **GFT targeted requalification**. Stage 2 private application remains a separate route within general qualification scope.
-- Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, GFT-01 IN_PROGRESS, 0/20 научных областей завершено, T0 зафиксирована (внутренняя оценка), T1 ожидается. Последний ограниченный блок: GFT-01.1. Следующее действие: GFT-01.2; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
+- Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, GFT-01 IN_PROGRESS, 0/20 научных областей завершено, T0 зафиксирована (внутренняя оценка), T1 ожидается. Последний ограниченный блок: GFT-01.2. Следующее действие: GFT-01.3; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **COMPLETE_FOR_CURRENT_SCOPE**.
@@ -72,13 +72,13 @@ If control files disagree:
 - INT-05: **COMPLETE_FOR_CURRENT_SCOPE v1.0 — 24/24 PASS — GO FOR STAGE 2 WITH SCOPE CONTROLS**.
 - Stage 1 qualification: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Cross-domain blocking contradictions identified by INT-01: **0**.
-- Next ordinary work state: **GFT-01.2** (local GFT controls). Stage 2 private baseline reconciliation is a separate historical route.
+- Next ordinary work state: **GFT-01.3** (local GFT controls). Stage 2 private baseline reconciliation is a separate historical route.
 - No next generic qualification block is scheduled.
 - Integration directory: `research/psychology/qualification/26_integration/`.
 
 ## 4. Latest canonical block
 
-Active GFT block: `specialized_qualification/exceptional_intellectual_ability/01_intelligence_theory/GFT-01.1_constructs_g_chc_competing_models.md` (bounded completion). General qualification canonical block below retains its historical scope.
+Active GFT block: `specialized_qualification/exceptional_intellectual_ability/01_intelligence_theory/GFT-01.2_fluid_crystallized_investment_predictive_validity.md` (bounded completion). General qualification canonical block below retains its historical scope.
 
 `research/psychology/qualification/26_integration/INT-05_final_sufficiency_audit_stage2_readiness_requalification_contract.md`
 
@@ -150,7 +150,7 @@ Stop immediately if:
 
 After recovery, the next qualification step is:
 
-**GFT-01.2 — targeted requalification (see local queue).** Historical Stage 2 baseline route is not the active continuation.
+**GFT-01.3 — targeted requalification (see local queue).** Historical Stage 2 baseline route is not the active continuation.
 
 INT-01 found no blocking canonical contradiction. INT-02 established integrated person-level transfer. INT-03 established the stage-based analytic error taxonomy. INT-04 established operational checklist compression. INT-05 closed qualification for current scope.
 

@@ -2,7 +2,7 @@
 
 ## Active routing — targeted requalification
 
-Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, GFT-01 IN_PROGRESS, 0/20 научных областей завершено, T0 зафиксирована (внутренняя оценка), T1 ожидается. Последний ограниченный блок: GFT-01.1. Следующее действие: GFT-01.2; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
+Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, GFT-01 IN_PROGRESS, 0/20 научных областей завершено, T0 зафиксирована (внутренняя оценка), T1 ожидается. Последний ограниченный блок: GFT-01.2. Следующее действие: GFT-01.3; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
 
 ## Status (general qualification)
 
@@ -1340,7 +1340,7 @@ Established:
 
 ## Current next action
 
-**GFT-01.2 — active targeted requalification.** GFT-01.1 complete for specified scope. See local GFT RESEARCH_QUEUE and CONTEXT_RECOVERY. Stage 2 private baseline reconciliation is a separate historical route, not the active continuation.
+**GFT-01.3 — active targeted requalification.** GFT-01.1 and GFT-01.2 complete for specified scope. See local GFT RESEARCH_QUEUE and CONTEXT_RECOVERY. Stage 2 private baseline reconciliation is a separate historical route, not the active continuation.
 
 No individualized observations, model propositions, completed checklists, or model-update cards may be written to GitHub.
 
