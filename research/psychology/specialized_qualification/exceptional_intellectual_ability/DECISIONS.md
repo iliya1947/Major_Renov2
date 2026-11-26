@@ -44,3 +44,5 @@
 - D-022 (26.11.2026): GFT-08.1 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-08 IN_PROGRESS. Separate age-relative and equated scores, rank and mean/individual/profile change, level vs slope, age/cohort/period and retest/selection. Q-08-tail OPEN. Next 08.2 asynchrony per program; T0 unchanged, internal assessment only; 7/20 areas, 27 bounded units.
 
 - D-023 (26.11.2026): GFT-08.2 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-08 IN_PROGRESS. Asynchrony descriptive hypothesis, not universal validated mechanism; relative weakness not impairment, cross-sectional discrepancy not longitudinal change. Q-08-tail OPEN; Q-08-source-01 wording clarification OPEN. Next 08.3 identity/adaptation/fit per program; T0 unchanged, internal assessment only; 7/20 domains, 28 bounded units.
+
+- D-024 (26.11.2026): GFT-08.3 COMPLETE_FOR_SPECIFIED_SCOPE; identity, ability, selection and contextual fit separate; lived experience not diagnostic or causal evidence. Q-08-tail OPEN; Q-08-source-02 open for clarification. Next 08.4 strategy development/self-learning per curriculum; 7/20 domains, 29 bounded units, internal assessment only, T0 unchanged.
