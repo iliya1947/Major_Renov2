@@ -19,3 +19,6 @@
 5. Сохранить блоки в этом каталоге и обновить локальные реестры; закрытие по [ASSESSMENT_PROTOCOL](../ASSESSMENT_PROTOCOL.md).
 
 Навигация: [план](../CURRICULUM.md) · [карта](../RESEARCH_MAP.md) · [очередь](../RESEARCH_QUEUE.md) · [шаблон](../RESEARCH_TEMPLATE.md).
+
+## Handoff из GFT-02
+GFT-01 и GFT-02 COMPLETE_FOR_SPECIFIED_SCOPE. GFT-03.1 — нейробиология интеллекта: структурные и функциональные корреляты, мозговые сети и ограничения причинных выводов. Проверять измерение интеллекта, возраст, селекцию, диапазон, независимость выборок и границы причинности; не считать IQ 150–160+ измеренным с установленной точностью по умолчанию. См. [GFT-02.3](../02_psychometrics/GFT-02.3_upper_tail_psychometrics_integration_and_sufficiency_audit.md). Исследование GFT-03 ещё не начато.

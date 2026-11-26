@@ -1,6 +1,6 @@
 # GFT-02 — Психометрия исключительной одарённости
 
-Статус: IN_PROGRESS. GFT-02.1–02.2 завершены в ограниченном объёме.
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE. GFT-02.1–02.3 завершены на методическом уровне. Q-02-tail OPEN; не подтверждены конкретные возрастные потолки и локальная точность экстремального взрослого IQ.
 
 ## Программа
 Потолки тестов, расширенные нормы, ошибки измерения, неоднородные профили, редкость экстремальных результатов.
@@ -26,4 +26,6 @@ GFT-01 COMPLETE_FOR_SPECIFIED_SCOPE. Первая единица по очере
 ## Научные единицы
 - [GFT-02.1 — IQ metric, norms, ceiling and precision](GFT-02.1_IQ_metric_norms_ceiling_and_measurement_precision.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-02.2 — Heterogeneous profiles, discrepancies and selection](GFT-02.2_heterogeneous_profiles_discrepancies_and_selection.md): COMPLETE_FOR_SPECIFIED_SCOPE.
-- GFT-02.3 — интеграция психометрии верхнего хвоста, проверка доступности технических норм и аудит достаточности GFT-02.
+- [GFT-02.3 — Upper-tail integration and sufficiency audit](GFT-02.3_upper_tail_psychometrics_integration_and_sufficiency_audit.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+
+Следующая область: GFT-03.1 — нейробиология интеллекта: структурные и функциональные корреляты, мозговые сети и ограничения причинных выводов.
