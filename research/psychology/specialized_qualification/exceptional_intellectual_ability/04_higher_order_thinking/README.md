@@ -1,6 +1,6 @@
 # GFT-04 — Высокоуровневое мышление
 
-Статус: IN_PROGRESS. GFT-04.1–04.3 завершены в ограниченном объёме.
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE. GFT-04.1–04.4 завершены на научно-методическом уровне; Q-04-tail OPEN.
 
 ## Программа
 Абстракция, системное, причинное, стратегическое и интегративное мышление, перенос знаний; рекурсивное, нелинейное и многоперспективное мышление, мысленное моделирование, многоуровневые взаимосвязи, динамическая оценка систем.
@@ -31,4 +31,6 @@ GFT-01–03 COMPLETE_FOR_SPECIFIED_SCOPE. GFT-04.1 — абстрактное и
 - [GFT-04.1 — Abstraction, causal reasoning, mental models and transfer](GFT-04.1_abstraction_causal_reasoning_mental_models_and_transfer.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-04.2 — Systems, recursive and nonlinear thinking](GFT-04.2_systems_recursive_nonlinear_thinking_and_dynamics.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-04.3 — Strategic, integrative and multiperspective thinking](GFT-04.3_strategic_integrative_multiperspective_thinking_and_decision_quality.md): COMPLETE_FOR_SPECIFIED_SCOPE.
-- GFT-04.4 — интеграция высокоуровневого мышления, проверка переноса и аудит достаточности GFT-04.
+- [GFT-04.4 — Integration, transfer and sufficiency audit](GFT-04.4_higher_order_thinking_integration_transfer_and_sufficiency_audit.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+
+Следующая область: GFT-05.1 — рабочая память, внимание, скорость обработки и когнитивная гибкость: измерение, взаимодействие и границы переноса.
