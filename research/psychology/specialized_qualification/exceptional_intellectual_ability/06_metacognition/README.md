@@ -1,6 +1,6 @@
 # GFT-06 — Метакогниция и метаконтроль
 
-Статус: QUEUED. Исследования не начаты; научные выводы отсутствуют.
+Статус: IN_PROGRESS. GFT-06.1 COMPLETE_FOR_SPECIFIED_SCOPE (методический уровень). Q-06-tail OPEN.
 
 ## Программа
 Самонаблюдение, мониторинг, калибровка, контроль, саморегуляция, компенсация.
@@ -21,4 +21,8 @@
 Навигация: [план](../CURRICULUM.md) · [карта](../RESEARCH_MAP.md) · [очередь](../RESEARCH_QUEUE.md) · [шаблон](../RESEARCH_TEMPLATE.md).
 
 ## Handoff из GFT-05
-GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE; Q-05-tail OPEN, AC factor disputed. GFT-06.1 — метакогнитивный мониторинг, уверенность, калибровка и измерение. Различить мониторинг и контроль, точность и bias уверенности, надежность и применимость; проверить MET/EXE/INT-02 перед началом. Исследование GFT-06 ещё не начато.
+GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE; Q-05-tail OPEN, AC factor disputed. GFT-06.1 — метакогнитивный мониторинг, уверенность, калибровка и измерение. Различить мониторинг и контроль, точность и bias уверенности, надежность и применимость; проверить MET/EXE/INT-02 перед началом.
+
+## Научные единицы
+- [GFT-06.1 — Monitoring, confidence, calibration and measurement](GFT-06.1_metacognitive_monitoring_confidence_calibration_and_measurement.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- GFT-06.2 — метакогнитивный контроль, выбор стратегии, поиск информации и пересмотр.

@@ -260,3 +260,6 @@
 
 ## GFT-05.4 — 26.11.2026
 [Integration audit](05_cognitive_processes/GFT-05.4_cognitive_processes_integration_transfer_and_sufficiency_audit.md). Reused 05.1–05.3 cards, not independent replications. Rechecked publisher excerpts: 10.3758/s13423-025-02696-4 and 10.3758/s13428-025-02897-8; AC factor and speed discriminability remain disputed. Correction 10.3758/s13423-025-02664-y verified bibliographically, body inaccessible, 05.3-E10 not used. Haneefa 10.1080/23279095.2026.2673177 publisher full text unavailable, selection/IQ range not verified. Q-05-tail OPEN. No new independent effect estimates.
+
+## GFT-06.1 — 26.11.2026
+[Monitoring and measurement](06_metacognition/GFT-06.1_metacognitive_monitoring_confidence_calibration_and_measurement.md). E01–E03 frameworks/definitions/cue utilization; E04–E05 psychometric repeatability limits, E06 self-report vs online, E07–E10 intelligence/domain specificity with uncertainty, E11 gifted school populations not adult tail. Rahnev 2025 DOI 10.1038/s41467-025-56117-0, Double 2025 DOI 10.3758/s13428-025-02621-6, Mazancieux 2026 DOI 10.1177/09567976251415354, Baer 2026 DOI 10.1038/s41562-026-02443-2. Distinguish calibration, bias, sensitivity, efficiency, task performance and control. Q-06-tail OPEN.

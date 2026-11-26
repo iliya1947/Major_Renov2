@@ -9,7 +9,7 @@
 | GFT-03 | [Нейробиология интеллекта](03_neurobiology/README.md) | COMPLETE_FOR_SPECIFIED_SCOPE (методический уровень) | [GFT-03.1](03_neurobiology/GFT-03.1_brain_structure_function_networks_and_causal_limits.md), [GFT-03.2](03_neurobiology/GFT-03.2_neural_efficiency_task_demands_and_plasticity.md), [GFT-03.3](03_neurobiology/GFT-03.3_genetic_environmental_influences_and_high_ability.md), [GFT-03.4](03_neurobiology/GFT-03.4_neurobiology_integration_transfer_and_sufficiency_audit.md) |
 | GFT-04 | [Высокоуровневое мышление](04_higher_order_thinking/README.md) | COMPLETE_FOR_SPECIFIED_SCOPE (методический уровень) | [GFT-04.1](04_higher_order_thinking/GFT-04.1_abstraction_causal_reasoning_mental_models_and_transfer.md), [GFT-04.2](04_higher_order_thinking/GFT-04.2_systems_recursive_nonlinear_thinking_and_dynamics.md), [GFT-04.3](04_higher_order_thinking/GFT-04.3_strategic_integrative_multiperspective_thinking_and_decision_quality.md), [GFT-04.4](04_higher_order_thinking/GFT-04.4_higher_order_thinking_integration_transfer_and_sufficiency_audit.md) |
 | GFT-05 | [Когнитивные процессы](05_cognitive_processes/README.md) | COMPLETE_FOR_SPECIFIED_SCOPE (методический уровень) | [GFT-05.1](05_cognitive_processes/GFT-05.1_working_memory_attention_processing_speed_and_flexibility.md), [GFT-05.2](05_cognitive_processes/GFT-05.2_learning_intuition_automaticity_and_expertise.md), [GFT-05.3](05_cognitive_processes/GFT-05.3_imagery_simulation_thought_formation_and_control.md), [GFT-05.4](05_cognitive_processes/GFT-05.4_cognitive_processes_integration_transfer_and_sufficiency_audit.md) |
-| GFT-06 | [Метакогниция и метаконтроль](06_metacognition/README.md) | QUEUED | Нет |
+| GFT-06 | [Метакогниция и метаконтроль](06_metacognition/README.md) | IN_PROGRESS | [GFT-06.1](06_metacognition/GFT-06.1_metacognitive_monitoring_confidence_calibration_and_measurement.md) |
 | GFT-07 | [Творчество и сложные задачи](07_creativity/README.md) | QUEUED | Нет |
 | GFT-08 | [Развитие одарённой личности](08_personality_development/README.md) | QUEUED | Нет |
 | GFT-09 | [Мотивация](09_motivation/README.md) | QUEUED | Нет |
@@ -27,7 +27,7 @@
 
 Статусы: QUEUED, IN_PROGRESS, BLOCKED, REVIEW_REQUIRED, COMPLETE_FOR_SPECIFIED_SCOPE. Последний требует проверенной evidence, практических правил, проверок и явно ограниченной области применимости. Нерешённый существенный пробел блокирует итоговую аттестацию, но не требует выдумывать недоступные данные.
 
-GFT-01–05 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, 5/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail и Q-05-tail OPEN. T0 сохранена, T1 ожидается.
+GFT-01–05 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 IN_PROGRESS (GFT-06.1 завершена), 5/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail и Q-06-tail OPEN. T0 сохранена, T1 ожидается.
 
 Q-02-tail OPEN: обязательный остаточный пробел GFT-16/20; не считать точное измерение экстремального взрослого диапазона проверенным.
 

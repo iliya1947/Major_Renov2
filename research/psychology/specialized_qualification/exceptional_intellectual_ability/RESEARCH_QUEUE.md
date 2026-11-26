@@ -1,6 +1,6 @@
 # Очередь
 
-**Состояние: IN_PROGRESS.** GFT-01–05 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, 5/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail и Q-05-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-06.1 — метакогнитивный мониторинг, уверенность, калибровка и измерение.
+**Состояние: IN_PROGRESS.** GFT-01–05 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 IN_PROGRESS (GFT-06.1 завершена), 5/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail и Q-06-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-06.2 — метакогнитивный контроль, выбор стратегии, поиск информации и пересмотр.
 
 | ID | Задача | Статус |
 |---|---|---|
@@ -9,7 +9,7 @@
 | GFT-03 | Нейробиология интеллекта | COMPLETE_FOR_SPECIFIED_SCOPE — методический уровень, Q-03-tail OPEN |
 | GFT-04 | Высокоуровневое мышление | COMPLETE_FOR_SPECIFIED_SCOPE — методический уровень, Q-04-tail OPEN |
 | GFT-05 | Когнитивные процессы | COMPLETE_FOR_SPECIFIED_SCOPE — методический уровень, Q-05-tail OPEN |
-| GFT-06 | Метакогниция и метаконтроль | QUEUED |
+| GFT-06 | Метакогниция и метаконтроль | IN_PROGRESS — GFT-06.1 |
 | GFT-07 | Творчество и сложные задачи | QUEUED |
 | GFT-08 | Развитие одарённой личности | QUEUED |
 | GFT-09 | Мотивация | QUEUED |

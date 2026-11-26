@@ -189,3 +189,6 @@ E01 publisher methods/results excerpts; E02 PubMed author abstract and figures; 
 
 ## 26.11.2026 — GFT-05.4
 Rey-Mermet 2025 publisher introduction/conclusion excerpts and Robison 2026 discussion excerpts reopened; no complete rereading. Welhaf erratum 10.3758/s13423-025-02664-y (24.04.2025) PubMed and publisher metadata verified, correction body paywalled. Haneefa 2026 indexed metadata, publisher full URL inaccessible. Q-05-tail OPEN; no systematic or complete correction/retraction audit.
+
+## 26.11.2026 — GFT-06.1
+Rahnev 2025 publisher abstract/introduction/test-retest results/discussion excerpts; Double 2025 publisher abstract/introduction and indexed results; Mazancieux 2026 APS abstract (full access limited); Baer 2026 publisher abstract/figure captions (subscription). E01–E04/E07–E08/E11 author/publisher/indexed abstracts, not full texts. Primary Rouault Gf analysis not extracted (PMC reCAPTCHA); some gifted adolescent sources blocked. No systematic correction/retraction audit. Q-06-tail OPEN. See block for access per source.

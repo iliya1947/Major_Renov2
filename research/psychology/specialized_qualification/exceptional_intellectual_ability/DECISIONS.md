@@ -24,3 +24,5 @@
 - D-012 (26.11.2026): GFT-04 COMPLETE_FOR_SPECIFIED_SCOPE после 04.4; GO для GFT-05. Q-04-tail OPEN вместе с Q-02-tail/Q-03-tail, ограничения обязательны для GFT-16/17/20. Практический прирост не установлен; T0 неизменна. 20 областей/6 этапов сохранены.
 
 - D-013 (26.11.2026): GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE after 05.4; GO for GFT-06. Q-05-tail remains OPEN together with Q-02/03/04-tail; AC structure unresolved, not a blocker for bounded methodological use. GFT-06.1 selected as monitoring/measurement before control, according to its README. No architecture/order change; T0 unchanged, improvement unverified.
+
+- D-014 (26.11.2026): GFT-06.1 complete for specified general methodological scope. GFT-06 IN_PROGRESS. Q-06-tail OPEN; no universal metacognitive factor asserted. Choose control/strategy/information/revision as 06.2 before self-regulation/compensation. No change to 20 domains/6 phases. Internal assessment only, T0 unchanged. Question card formal documentation after initial search recorded as procedural limitation.
