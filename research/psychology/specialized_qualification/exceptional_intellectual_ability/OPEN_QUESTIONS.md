@@ -89,3 +89,6 @@ Q-06 methodological scope closed; domain generality, repeatability and effort me
 
 ## Handoff GFT-07.1 (26.11.2026)
 Q-07: universal IQ120 threshold not established; mean slopes, necessary-condition boundaries and outcomes distinct; E05 ~120 Davies NS, E09 exploratory102 school fluency. Q-07-tail OPEN: measured adult IQ150–160+ DT/CT/creative relation not established; E05 max147.37, E11 developmental top-tail SAT/reasoning achievement not adult IQ. Q-02–06-tail OPEN. GFT-07.2 — творческое решение сложных задач, построение моделей и научное мышление. GFT-16/17/20 mandatory tail checks.
+
+## Handoff GFT-07.2 (26.11.2026)
+Q-07: CPS operationalizations, novelty vs validity, insight confidence vs accuracy, positive tests vs diagnostic evidence, fitted vs novel predictions, model complexity and transfer. Universal threshold not established. Q-07-tail OPEN also for measured adult IQ150–160+ CPS/modeling/scientific reasoning. Q-02–06-tail OPEN. GFT-07.3 — творческая продуктивность, научные достижения и условия реализации потенциала. GFT-16/17/20 tail; GFT-18/19 model adequacy/revision.
