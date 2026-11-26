@@ -5,7 +5,7 @@
 | ID | Область | Статус | Научные материалы |
 |---|---|---|---|
 | GFT-01 | [Теория интеллекта](01_intelligence_theory/README.md) | COMPLETE_FOR_SPECIFIED_SCOPE | [GFT-01.1](01_intelligence_theory/GFT-01.1_constructs_g_chc_competing_models.md), [GFT-01.2](01_intelligence_theory/GFT-01.2_fluid_crystallized_investment_predictive_validity.md), [GFT-01.3](01_intelligence_theory/GFT-01.3_integration_transfer_and_sufficiency_audit.md) |
-| GFT-02 | [Психометрия исключительной одарённости](02_psychometrics/README.md) | QUEUED | Нет |
+| GFT-02 | [Психометрия исключительной одарённости](02_psychometrics/README.md) | IN_PROGRESS | [GFT-02.1](02_psychometrics/GFT-02.1_IQ_metric_norms_ceiling_and_measurement_precision.md) |
 | GFT-03 | [Нейробиология интеллекта](03_neurobiology/README.md) | QUEUED | Нет |
 | GFT-04 | [Высокоуровневое мышление](04_higher_order_thinking/README.md) | QUEUED | Нет |
 | GFT-05 | [Когнитивные процессы](05_cognitive_processes/README.md) | QUEUED | Нет |
@@ -27,4 +27,4 @@
 
 Статусы: QUEUED, IN_PROGRESS, BLOCKED, REVIEW_REQUIRED, COMPLETE_FOR_SPECIFIED_SCOPE. Последний требует проверенной evidence, практических правил, проверок и явно ограниченной области применимости. Нерешённый существенный пробел блокирует итоговую аттестацию, но не требует выдумывать недоступные данные.
 
-GFT-01.1–01.3 завершены в установленном ограниченном объёме; GFT-01 COMPLETE_FOR_SPECIFIED_SCOPE, 1/20 областей завершена. T0 сохранена, T1 ожидается.
+GFT-01 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-02.1 завершена в ограниченном объёме, GFT-02 IN_PROGRESS, 1/20 областей завершена. T0 сохранена, T1 ожидается.
