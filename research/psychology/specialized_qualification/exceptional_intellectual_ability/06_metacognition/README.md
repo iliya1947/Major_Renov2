@@ -1,6 +1,6 @@
 # GFT-06 — Метакогниция и метаконтроль
 
-Статус: IN_PROGRESS. GFT-06.1–06.3 COMPLETE_FOR_SPECIFIED_SCOPE (методический уровень). Q-06-tail OPEN.
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE (общепсихологический научно-методический уровень). GFT-06.1–06.4 завершены. Q-06-tail OPEN.
 
 ## Программа
 Самонаблюдение, мониторинг, калибровка, контроль, саморегуляция, компенсация.
@@ -27,4 +27,6 @@ GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE; Q-05-tail OPEN, AC factor disputed. GFT-06.
 - [GFT-06.1 — Monitoring, confidence, calibration and measurement](GFT-06.1_metacognitive_monitoring_confidence_calibration_and_measurement.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-06.2 — Control, strategy, information seeking, revision and stopping](GFT-06.2_metacognitive_control_strategy_information_seeking_revision_and_stopping.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-06.3 — Self-regulation, effort allocation and cognitive compensation](GFT-06.3_self_regulation_effort_allocation_and_cognitive_compensation.md): COMPLETE_FOR_SPECIFIED_SCOPE.
-- GFT-06.4 — интеграционный аудит метакогниции, метаконтроля, саморегуляции и переноса.
+- [GFT-06.4 — Integration and sufficiency audit](GFT-06.4_metacognition_control_self_regulation_integration_and_sufficiency_audit.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+
+GO for GFT-07. Q-06-source-02 direction resolved; abstract inconsistency open. GFT-07.1 — дивергентное и конвергентное мышление, измерение креативности и гипотеза порога.

@@ -83,3 +83,6 @@ Q-06: distinct sampling/termination, strategy allocation/implementation, accurac
 
 ## Handoff GFT-06.3 (26.11.2026)
 Q-06: capacity/allocation/implementation/subjective cost, assisted vs internal performance, durability and compensation distinguished. Effort mechanism unresolved; Ngai & Gilbert Exp2 absolute vs signed outcome distinction. Q-06-tail OPEN: no verified specific measured adult IQ150–160+ SRL/effort/offloading profile. Q-06-source-02 OPEN, direction excluded. Q-02/03/04/05-tail OPEN. GFT-06.4 — интеграционный аудит метакогниции, метаконтроля, саморегуляции и переноса. GFT-12–15 clinical/functional distinction; GFT-16/17/20 mandatory tail checks.
+
+## Handoff GFT-06.4 (26.11.2026)
+Q-06 methodological scope closed; domain generality, repeatability and effort mechanism remain unresolved scientific limits. Q-06-source-02 RESOLVED_FOR_REPORTED_DIRECTION; abstract inconsistency OPEN_FOR_PUBLISHER_CORRECTION, Exp2 total effect NS and opposing modeled paths. Q-06-tail OPEN; Q-02/03/04/05-tail OPEN; required checks GFT-16/17/20. GFT-07.1 — дивергентное и конвергентное мышление, измерение креативности и гипотеза порога. GFT-09/12–15/18/19 retain relevant boundaries.

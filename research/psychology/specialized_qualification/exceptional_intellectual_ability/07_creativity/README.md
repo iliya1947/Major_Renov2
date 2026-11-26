@@ -19,3 +19,6 @@
 5. Сохранить блоки в этом каталоге и обновить локальные реестры; закрытие по [ASSESSMENT_PROTOCOL](../ASSESSMENT_PROTOCOL.md).
 
 Навигация: [план](../CURRICULUM.md) · [карта](../RESEARCH_MAP.md) · [очередь](../RESEARCH_QUEUE.md) · [шаблон](../RESEARCH_TEMPLATE.md).
+
+## Handoff из GFT-06
+GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (Q-06-tail OPEN). GFT-07.1 — дивергентное и конвергентное мышление, измерение креативности и гипотеза порога. Перед исследованием проверить COG/MOT/DEC. Не смешивать генерацию идей, оценку, знания, achievement, условия и измерение интеллекта; проверить threshold/continuous models. GFT-07 ещё не начата.
