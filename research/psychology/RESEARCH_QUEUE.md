@@ -1,6 +1,10 @@
 # RESEARCH_QUEUE.md — Psychology Research State
 
-## Status
+## Active routing — targeted requalification
+
+Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, 0/20 научных областей завершено, T0 зафиксирована (внутренняя оценка), T1 ожидается. Следующее действие: GFT-01.1; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
+
+## Status (general qualification)
 
 - Branch initialized.
 - Privacy contract established.
@@ -1367,13 +1371,13 @@ The following historical directories currently contain README infrastructure onl
 
 Strong specialty claims require targeted requalification before use.
 
-## Targeted requalification — high and exceptional intellectual ability (QUEUED, NOT STARTED)
+## Targeted requalification — high and exceptional intellectual ability (ACTIVE; scientific blocks not started)
 
 Scope audit: the current general qualification contains psychometric precision and ceiling-effect safeguards, individual-difference methodology, and neurodevelopmental compensation boundaries. It has no dedicated canonical specialty block on adult high and exceptional intellectual ability.
 
 Trigger: uncovered generic specialty under INT-05 §§XXIII–XXIV. General qualification remains COMPLETE_FOR_CURRENT_SCOPE; strong specialty claims are deferred until targeted requalification is completed.
 
-Proposed scope, to be refined against available evidence:
+Historical scope proposal; superseded by audited local CURRICULUM.md, RESEARCH_MAP.md and ASSESSMENT_PROTOCOL.md:
 
 1. Psychometrics of the upper tail: construct, norms, ceiling effects, score-region precision, extrapolation limits, and selection bias.
 2. Adult development and cognitive profiles at high and exceptional ability levels.

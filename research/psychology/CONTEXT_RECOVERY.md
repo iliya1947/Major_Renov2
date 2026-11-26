@@ -36,7 +36,8 @@ If control files disagree:
 
 - Branch: `research/psychology-foundation`.
 - Cabinet: PR #6.
-- Stage: **Stage 2 private application — READY_TO_BEGIN**.
+- Active route: **GFT targeted requalification**. Stage 2 private application remains a separate route within general qualification scope.
+- Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, 0/20 научных областей завершено, T0 зафиксирована (внутренняя оценка), T1 ожидается. Следующее действие: GFT-01.1; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
 - Phase A: **CLOSED_FOR_PRACTICE**.
 - Phase B: **COMPLETE_FOR_CURRENT_SCOPE**.
 - Phase C: **COMPLETE_FOR_CURRENT_SCOPE**.
@@ -147,7 +148,7 @@ Stop immediately if:
 
 After recovery, the next qualification step is:
 
-**Stage 2 / Step 1 — private-only baseline reconciliation of the current psychological model against the completed qualification stack.**
+**GFT-01.1 — targeted requalification (see local queue).** Historical Stage 2 baseline route is not the active continuation.
 
 INT-01 found no blocking canonical contradiction. INT-02 established integrated person-level transfer. INT-03 established the stage-based analytic error taxonomy. INT-04 established operational checklist compression. INT-05 closed qualification for current scope.
 
