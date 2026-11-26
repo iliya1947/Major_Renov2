@@ -1344,7 +1344,7 @@ No individualized observations, model propositions, completed checklists, or mod
 
 ## Requalification state
 
-No generic qualification block is queued.
+No new general qualification block is queued. A targeted specialty requalification is recorded below; research has not started.
 
 Requalification begins only on an explicit trigger:
 
@@ -1366,3 +1366,21 @@ The following historical directories currently contain README infrastructure onl
 - formal systems modeling of personality.
 
 Strong specialty claims require targeted requalification before use.
+
+## Targeted requalification — high and exceptional intellectual ability (QUEUED, NOT STARTED)
+
+Scope audit: the current general qualification contains psychometric precision and ceiling-effect safeguards, individual-difference methodology, and neurodevelopmental compensation boundaries. It has no dedicated canonical specialty block on adult high and exceptional intellectual ability.
+
+Trigger: uncovered generic specialty under INT-05 §§XXIII–XXIV. General qualification remains COMPLETE_FOR_CURRENT_SCOPE; strong specialty claims are deferred until targeted requalification is completed.
+
+Proposed scope, to be refined against available evidence:
+
+1. Psychometrics of the upper tail: construct, norms, ceiling effects, score-region precision, extrapolation limits, and selection bias.
+2. Adult development and cognitive profiles at high and exceptional ability levels.
+3. Twice-exceptionality and heterogeneous profiles, including ADHD and compensatory strategies.
+4. Motivation, attention, executive function, metacognition, perfectionism, social and emotional functioning: distinguish findings, hypotheses and stereotypes.
+5. Evidence transportability from child, selected, educational and clinical samples to adults and extreme score ranges; identify sparse evidence and avoid extrapolation.
+6. Integration, alternative explanations, individual applicability and sufficiency audit.
+
+Do not assume a qualitatively distinct cognitive architecture, uniform giftedness traits, or a known IQ from self-report or conversation. The specialty is not a formal credential or diagnostic authority. No empirical conclusion or completion claimed; no private examples or personal data belong in this record.
+
