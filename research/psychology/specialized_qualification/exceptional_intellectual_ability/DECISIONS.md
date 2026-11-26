@@ -42,3 +42,5 @@
 - D-021 (26.11.2026): GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE after 07.4; Stage II COMPLETE_FOR_SPECIFIED_SCOPE; GO to 08.1 age trajectories and cohort differences from program/README, not started. Q-02–07-tail OPEN. 7/20 domains, 26 bounded units, T0 unchanged, T1 pending, no independent competence increase established. Source dependence clarified; universal threshold not established.
 
 - D-022 (26.11.2026): GFT-08.1 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-08 IN_PROGRESS. Separate age-relative and equated scores, rank and mean/individual/profile change, level vs slope, age/cohort/period and retest/selection. Q-08-tail OPEN. Next 08.2 asynchrony per program; T0 unchanged, internal assessment only; 7/20 areas, 27 bounded units.
+
+- D-023 (26.11.2026): GFT-08.2 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-08 IN_PROGRESS. Asynchrony descriptive hypothesis, not universal validated mechanism; relative weakness not impairment, cross-sectional discrepancy not longitudinal change. Q-08-tail OPEN; Q-08-source-01 wording clarification OPEN. Next 08.3 identity/adaptation/fit per program; T0 unchanged, internal assessment only; 7/20 domains, 28 bounded units.

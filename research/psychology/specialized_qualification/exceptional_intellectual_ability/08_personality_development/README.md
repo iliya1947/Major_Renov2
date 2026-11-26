@@ -1,6 +1,6 @@
 # GFT-08 — Развитие одарённой личности
 
-Статус: IN_PROGRESS. GFT-08.1 COMPLETE_FOR_SPECIFIED_SCOPE (методический уровень). Q-08-tail OPEN.
+Статус: IN_PROGRESS. GFT-08.1–08.2 COMPLETE_FOR_SPECIFIED_SCOPE (методический уровень). Q-08-tail OPEN.
 
 ## Программа
 Возрастная динамика, асинхронность, идентичность и адаптация взрослых; развитие когнитивных стратегий на протяжении жизни, самообучение и влияние накопленного опыта.
@@ -29,4 +29,5 @@ GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE; этап II закрыт в установ�
 
 ## Научные единицы
 - [GFT-08.1 — Lifespan cognitive trajectories](GFT-08.1_lifespan_cognitive_trajectories_age_cohort_and_selection.md): COMPLETE_FOR_SPECIFIED_SCOPE.
-- GFT-08.2 — асинхронность развития, неоднородность профиля и границы концепции.
+- [GFT-08.2 — Asynchrony and profile heterogeneity](GFT-08.2_asynchronous_development_profile_heterogeneity_and_construct_limits.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- GFT-08.3 — идентичность одарённых взрослых, адаптация и соответствие человека среде.

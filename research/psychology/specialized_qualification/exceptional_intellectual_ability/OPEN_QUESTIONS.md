@@ -101,3 +101,6 @@ GFT-07 general method scope closed; universal threshold not established. Q-07-ta
 
 ## Handoff GFT-08.1 (26.11.2026)
 Q-08-tail OPEN: adult measured IQ150–160+ longitudinal rank/level/profile and age/period/cohort, slope, practice/education effects not established. Q-02–07-tail OPEN. Sample mean moderator not direct tail; Zurich high preschool group max132. Fjell correction Fig5b not independently inspected; no figure-based claims. GFT-08.2 — асинхронность развития, неоднородность профиля и границы концепции. GFT-16/17/20 tail.
+
+## Handoff GFT-08.2 (26.11.2026)
+Q-08-asynchrony UNIVERSAL_MECHANISM_NOT_ESTABLISHED. Distinguish age-relative level, profile difference, differential change, actual limitation and context mismatch. Q-08-tail OPEN also for measured adult IQ150–160+ profile dispersion and multi-domain developmental rates/functioning. Q-08-source-01 OPEN_FOR_CLARIFICATION: single-group preschool SIP study limitation wording inconsistent, no group comparison inferred. Prior Q-02–07-tail OPEN. GFT-08.3 — идентичность одарённых взрослых, адаптация и соответствие человека среде. Candidate 10.1007/s43076-023-00313-8 qualitative follow-up adolescent selection, no direct adult tail evidence.
