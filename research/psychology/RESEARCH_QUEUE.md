@@ -2,7 +2,7 @@
 
 ## Active routing — targeted requalification
 
-Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, GFT-01 COMPLETE_FOR_SPECIFIED_SCOPE, 1/20 научных областей завершена в установленном объёме, T0 зафиксирована (внутренняя оценка), T1 ожидается. Последний ограниченный блок: GFT-01.3. Следующее действие: GFT-02.1; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
+Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, GFT-01 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-02 IN_PROGRESS, 1/20 научных областей завершена в установленном объёме, T0 зафиксирована (внутренняя оценка), T1 ожидается. Последний ограниченный блок: GFT-02.1. Следующее действие: GFT-02.2; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
 
 ## Status (general qualification)
 
@@ -1340,7 +1340,7 @@ Established:
 
 ## Current next action
 
-**GFT-02.1 — active targeted requalification.** GFT-01 complete for specified scope after integration and sufficiency audit. See local GFT RESEARCH_QUEUE and CONTEXT_RECOVERY. Stage 2 private baseline reconciliation is a separate historical route, not the active continuation.
+**GFT-02.2 — active targeted requalification.** GFT-02.1 complete for specified scope; GFT-02 IN_PROGRESS. See local GFT RESEARCH_QUEUE and CONTEXT_RECOVERY. Stage 2 private baseline reconciliation is a separate historical route, not the active continuation.
 
 No individualized observations, model propositions, completed checklists, or model-update cards may be written to GitHub.
 
@@ -1369,7 +1369,7 @@ The following historical directories currently contain README infrastructure onl
 
 Strong specialty claims require targeted requalification before use.
 
-## Targeted requalification — high and exceptional intellectual ability (ACTIVE; GFT-01 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-02 QUEUED)
+## Targeted requalification — high and exceptional intellectual ability (ACTIVE; GFT-01 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-02 IN_PROGRESS)
 
 Scope audit: the current general qualification contains psychometric precision and ceiling-effect safeguards, individual-difference methodology, and neurodevelopmental compensation boundaries. It has no dedicated canonical specialty block on adult high and exceptional intellectual ability.
 
