@@ -1,0 +1,28 @@
+# Статус областей
+
+Инициализация 26.11.2026. 20/20 каталогов спроектировано, 0/20 областей научно завершено, 0 аттестаций. Инициализация не является квалификацией.
+
+| ID | Область | Статус | Научные материалы |
+|---|---|---|---|
+| GFT-01 | [Теория интеллекта](01_intelligence_theory/README.md) | QUEUED | Нет |
+| GFT-02 | [Психометрия исключительной одарённости](02_psychometrics/README.md) | QUEUED | Нет |
+| GFT-03 | [Нейробиология интеллекта](03_neurobiology/README.md) | QUEUED | Нет |
+| GFT-04 | [Высокоуровневое мышление](04_higher_order_thinking/README.md) | QUEUED | Нет |
+| GFT-05 | [Когнитивные процессы](05_cognitive_processes/README.md) | QUEUED | Нет |
+| GFT-06 | [Метакогниция и метаконтроль](06_metacognition/README.md) | QUEUED | Нет |
+| GFT-07 | [Творчество и сложные задачи](07_creativity/README.md) | QUEUED | Нет |
+| GFT-08 | [Развитие одарённой личности](08_personality_development/README.md) | QUEUED | Нет |
+| GFT-09 | [Мотивация](09_motivation/README.md) | QUEUED | Нет |
+| GFT-10 | [Эмоциональная психология](10_emotional_psychology/README.md) | QUEUED | Нет |
+| GFT-11 | [Социальная психология](11_social_psychology/README.md) | QUEUED | Нет |
+| GFT-12 | [Одарённость и СДВГ](12_giftedness_and_adhd/README.md) | QUEUED | Нет |
+| GFT-13 | [Другие дважды исключительные профили](13_other_2e_profiles/README.md) | QUEUED | Нет |
+| GFT-14 | [Компенсация и адаптация](14_compensation_and_adaptation/README.md) | QUEUED | Нет |
+| GFT-15 | [Психологическое благополучие](15_psychological_wellbeing/README.md) | QUEUED | Нет |
+| GFT-16 | [Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | QUEUED | Нет |
+| GFT-17 | [Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | QUEUED | Нет |
+| GFT-18 | [Интегративная психология одарённости](18_integrative_psychology/README.md) | QUEUED | Нет |
+| GFT-19 | [Методология психологического анализа](19_analytical_methodology/README.md) | QUEUED | Нет |
+| GFT-20 | [Интеграционная аттестация](20_final_assessment/README.md) | QUEUED | Нет |
+
+Статусы: QUEUED, IN_PROGRESS, BLOCKED, REVIEW_REQUIRED, COMPLETE_FOR_SPECIFIED_SCOPE. Последний требует проверенной evidence, практических правил, проверок и явно ограниченной области применимости. Нерешённый существенный пробел блокирует итоговую аттестацию, но не требует выдумывать недоступные данные.
