@@ -1,6 +1,6 @@
 # GFT-03 — Нейробиология интеллекта
 
-Статус: IN_PROGRESS. GFT-03.1–03.2 завершены в ограниченном объёме.
+Статус: IN_PROGRESS. GFT-03.1–03.3 завершены в ограниченном объёме.
 
 ## Программа
 Нейронные сети, эффективность, пластичность, генетические и средовые факторы.
@@ -26,4 +26,5 @@ GFT-01 и GFT-02 COMPLETE_FOR_SPECIFIED_SCOPE. GFT-03.1 — нейробиоло
 ## Научные единицы
 - [GFT-03.1 — Brain structure, function, networks and causal limits](GFT-03.1_brain_structure_function_networks_and_causal_limits.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-03.2 — Neural efficiency, task demands and plasticity](GFT-03.2_neural_efficiency_task_demands_and_plasticity.md): COMPLETE_FOR_SPECIFIED_SCOPE.
-- GFT-03.3 — генетические и средовые факторы интеллекта: наследуемость, полигенность, взаимодействие и ограничения причинных выводов.
+- [GFT-03.3 — Genetic and environmental influences and high ability](GFT-03.3_genetic_environmental_influences_and_high_ability.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- GFT-03.4 — интеграция нейробиологии интеллекта, проверка переноса и аудит достаточности GFT-03.
