@@ -2,7 +2,7 @@
 
 ## Active routing — targeted requalification
 
-Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, GFT-01 и GFT-02 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-02 — методический уровень; Q-02-tail OPEN, локальная точность экстремального взрослого диапазона не установлена), GFT-03 COMPLETE_FOR_SPECIFIED_SCOPE (Q-03-tail OPEN), GFT-04 IN_PROGRESS, 3/20 научных областей завершены в установленном объёме, T0 зафиксирована (внутренняя оценка), T1 ожидается. Последний ограниченный блок: GFT-04.1. Следующее действие: GFT-04.2; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
+Активная целевая переквалификация GFT — psychology of high and exceptional intellectual ability. Общая квалификация COMPLETE_FOR_CURRENT_SCOPE сохраняется. Локальная программа: `specialized_qualification/exceptional_intellectual_ability/`; 20 областей / 6 этапов, аудит программы интегрирован, GFT-01 и GFT-02 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-02 — методический уровень; Q-02-tail OPEN, локальная точность экстремального взрослого диапазона не установлена), GFT-03 COMPLETE_FOR_SPECIFIED_SCOPE (Q-03-tail OPEN), GFT-04 IN_PROGRESS (Q-04-tail OPEN), 3/20 научных областей завершены в установленном объёме, T0 зафиксирована (внутренняя оценка), T1 ожидается. Последний ограниченный блок: GFT-04.2. Следующее действие: GFT-04.3; канонический текущий маршрут — локальные RESEARCH_QUEUE.md и CONTEXT_RECOVERY.md. Другие специализации сохраняют собственные статусы; не продолжать их автоматически. Приватное применение остаётся отдельным режимом, без передачи персональных данных.
 
 ## Status (general qualification)
 
@@ -1340,7 +1340,7 @@ Established:
 
 ## Current next action
 
-**GFT-04.2 — active targeted requalification.** GFT-04.1 complete for specified scope; GFT-04 IN_PROGRESS; Q-02-tail and Q-03-tail remain OPEN. See local GFT RESEARCH_QUEUE and CONTEXT_RECOVERY. Stage 2 private baseline reconciliation is a separate historical route, not the active continuation.
+**GFT-04.3 — active targeted requalification.** GFT-04.1–04.2 complete for specified scope; GFT-04 IN_PROGRESS; Q-02-tail and Q-03-tail remain OPEN. See local GFT RESEARCH_QUEUE and CONTEXT_RECOVERY. Stage 2 private baseline reconciliation is a separate historical route, not the active continuation.
 
 No individualized observations, model propositions, completed checklists, or model-update cards may be written to GitHub.
 
