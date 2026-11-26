@@ -100,6 +100,14 @@ All specialist records remain within this directory: research blocks, source led
 
 Only public science, generic methods, independent synthetic examples, blank protocols and nonpersonal progress. No real person-specific observations, communications, derived narratives, paraphrased private conversations, health/family history, individual models or scores, screenshots or identifiers in files, paths, commits, PR metadata/comments or external searches. Inspect exact proposed content before writes and actual changes afterward. If private-data origin or identifiability is uncertain, stop the write.
 
+
+### Mandatory durable checkpoint and context recovery
+
+- Every continuation of specialist qualification must produce a substantive, durable record in this cabinet, including scientific sources and access limits, findings, reasoning rules, assessment results, unresolved gaps, coverage/status and the exact next bounded action. Commit the record to the active qualification branch before declaring the unit complete or starting another unit. Partial or blocked work must be recorded with its actual status, not counted as complete.
+- Verify the resulting commit and reread the saved record from the updated PR HEAD; inspect the change for scope and confidentiality. A chat response, conversation summary or uncommitted draft is not a durable qualification checkpoint. If saving or verification fails, report the failure and stop advancement until resolved.
+- At the start of each continuation, especially in a new chat or after context loss, recover the latest verified checkpoint from the actual cabinet HEAD and inspect the relevant research records. Do not assume prior chat-only research remains available or validated. Resume from the last documented bounded action; do not repeat verified work without a concrete gap.
+- This writing requirement applies only to nonpersonal scientific qualification records. All privacy restrictions above remain mandatory; private relationship analysis and personal material must never be written to the cabinet.
+
 ## 6. Local progress and handoff
 
 - SPQ-00: PLANNING COMPLETE — 36/36 directions mapped to 19 substantive units and one final integration audit. No scientific competence assessed in this planning unit.
