@@ -1,6 +1,6 @@
 # GFT-08 — Развитие одарённой личности
 
-Статус: IN_PROGRESS. GFT-08.1–08.4 COMPLETE_FOR_SPECIFIED_SCOPE (методический уровень). Q-08-tail OPEN.
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE. GFT-08.1–08.5 COMPLETE_FOR_SPECIFIED_SCOPE (методический уровень). Q-08-tail OPEN.
 
 ## Программа
 Возрастная динамика, асинхронность, идентичность и адаптация взрослых; развитие когнитивных стратегий на протяжении жизни, самообучение и влияние накопленного опыта.
@@ -32,4 +32,8 @@ GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE; этап II закрыт в установ�
 - [GFT-08.2 — Asynchrony and profile heterogeneity](GFT-08.2_asynchronous_development_profile_heterogeneity_and_construct_limits.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-08.3 — Adult identity and person-environment fit](GFT-08.3_adult_gifted_identity_adaptation_and_person_environment_fit.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-08.4 — Strategy development and independent learning](GFT-08.4_cognitive_strategy_development_self_directed_learning_and_experience.md): COMPLETE_FOR_SPECIFIED_SCOPE (general methodological content, initial process limitation documented).
-- GFT-08.5 — интеграция, практический перенос и аудит достаточности GFT-08: QUEUED.
+- [GFT-08.5 — Integration and sufficiency audit](GFT-08.5_development_integration_transfer_and_sufficiency_audit.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+
+Q-08-tail OPEN: measured adult IQ150–160+ longitudinal level/rank/profile, cross-domain development, identity/fit and strategy trajectories not established. Q-08-asynchrony UNIVERSAL_MECHANISM_NOT_ESTABLISHED; Q-08-source-01/02/04 OPEN_FOR_CLARIFICATION; Q-08-source-03 corrected main model. 08.4 initial card provenance limitation retained.
+
+Следующая единица: GFT-09.1 — любознательность, потребность в познании, интерес и интеллектуальная вовлечённость.
