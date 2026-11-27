@@ -33,3 +33,7 @@ Check corrigenda before quantitative reuse; E6 and GFT-05.2 E07 superseded. Do n
 
 ## GFT-08.5 — 27.11.2026
 GFT-08.5: check abstract against body before using sample size; retain both if inconsistent. Age-specific covariance and selection on composite can produce average profile differences without within-person changes. No diagnosis from relative weakness; no universal gifted developmental mechanism; no proof of objective skill gain from internal rubric. Corrected stale count: 30 before 08.5, 31 after.
+
+
+## GFT-09.1 — 27.11.2026
+GFT-09.1: do not treat curiosity, NFC, interest or class attendance as intelligence test. State information demand not enduring interest. Null association in selected sample not equivalence; distinguish motive, choice, effort and output. Record N discrepancy; incomplete initial card provenance.
