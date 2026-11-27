@@ -124,3 +124,7 @@ Aggregate synchronization: after GFT-14.1 publication, GFT-19.1 completion by Ki
 
 ## GFT-14.2 — 27.11.2026
 Kira-1: GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level); GFT-14 IN_PROGRESS. Q-14-tail OPEN also for measured adult IQ150–160+ strategy efficacy, moderation and transfer; Q-14-causal OPEN (specific strategy mechanisms, no causal IQ effect); Q-14-measure OPEN; Q-14-source-01 retained; Q-14-source-02 OPEN (2025 Lee full subgroup estimates, 2026 functioning meta-analysis full table/comparators, 2e youth review full methods, adult offloading moderation detailed results unavailable); Q-14-transfer TASK_AND_GOAL_DEPENDENT, no universal generalization. GFT-13 remains dependency for final integration. Next GFT-14.3 — ресурсная стоимость, устойчивость функционирования, маскировка и последствия. T0 unchanged/T1 pending. Q-14-source-03 OPEN (Safren CGI exact estimate excluded).
+
+
+## GFT-13.3 — 27.11.2026
+[GFT-13.3](13_other_2e_profiles/GFT-13.3_heterogeneous_profiles_and_differential_reasoning.md) prospective card 4c2c1116; bounded differential closure, internal assessment only, open adult/source gaps. Next local GFT-13.4; other assignments preserved, T1 pending.

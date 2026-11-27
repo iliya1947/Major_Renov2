@@ -224,3 +224,7 @@ Q-14-source-03 RESOLVED_FOR_REPORTED_ACUTE_ESTIMATE; abstract correction remains
 ## GFT-19.3 — 27.11.2026
 - Q-19-source-03 OPEN: full methods/metrics and comparative evidence in clinical formulation literature, correction/retraction status if materially needed. No claim of workflow clinical efficacy.
 - Q-19-tail and Q-19-source-01/02 remain OPEN. GFT-19.1–19.3 independent method scope completed; GFT-19.4 final integration BLOCKED_DEPENDENCIES pending actual GFT-16/17/18; retain ownership.
+
+
+## GFT-13.3 — 27.11.2026
+GFT-13.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded differential-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-13-profile-calibration OPEN (edition/ability-conditioned norms and independently validated incremental accuracy); Q-13-DLD-DCD-adult OPEN (direct measured high-general-IQ adult comparisons); Q-13-tail OPEN; Q-13-source-05 OPEN (gifted DCD full methods/results and adult instrument recommendations); earlier GFT-13 questions retained. Next GFT-13.4 integration and sufficiency audit. T0 unchanged/T1 pending. Profile calibration requires actual edition/ability-conditioned norms and independent diagnostic validation; DLD/DCD adult direct comparison needs measured general high IQ. Source-05 full gifted DCD results and COSMIN recommendations not retrieved.

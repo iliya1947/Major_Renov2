@@ -121,3 +121,7 @@ Discrepancy not diagnosis; PIQ/VIQ/GAI not FSIQ. Van Viersen 2015 reuses earlier
 
 ## GFT-14.2 — 27.11.2026
 Do not confuse assisted output with acquired skill, task-specific benefit with far transfer, symptoms with actual function, subgroup significance with interaction or strategy use with effect. Do not withdraw necessary supports. IQ cannot prescribe strategy from observational contrasts.
+
+
+## GFT-13.3 — 27.11.2026
+Scatter not pathology; maximum-range mathematical coupling; rarity not specificity; LPA cluster not diagnosis; achievement not IQ; group effects not individual causal compensation; shared symptoms not automatically independent criteria; genetic correlation not prevalence or individual cause. No unmarked adult tail transfer. Same meta-analysis not replication.

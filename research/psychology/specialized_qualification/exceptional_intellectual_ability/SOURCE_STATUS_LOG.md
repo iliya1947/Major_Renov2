@@ -335,3 +335,7 @@ Q-14-source-03 RESOLVED_FOR_REPORTED_ACUTE_ESTIMATE; abstract correction remains
 
 ## 27.11.2026 — GFT-19.3
 E19.3-01 Oxford author abstract/metadata, PubMed reCAPTCHA; E19.3-02 PubMed abstract; E19.3-03/04 indexed author text, Wiley 403; E19.3-05 indexed author text, PMC reCAPTCHA; E19.3-06 Springer open selected sections including limitations, not full end-to-end reading. Q-19-source-03 OPEN; full methods and comprehensive retraction/correction audit not verified. [Details](19_analytical_methodology/GFT-19.3_integrated_individual_analysis_and_revision.md).
+
+
+## GFT-13.3 — 27.11.2026
+[GFT-13.3](13_other_2e_profiles/GFT-13.3_heterogeneous_profiles_and_differential_reasoning.md): Gontkovsky, Atmaca/Baloğlu, Zonca, Blake institutional abstracts, RCSLT FAQ, Young assessment sections, Nature genetic meta selected results/limits directly inspected; other sources indexed. PMC/PubMed CAPTCHA, Wiley/ASHA403, COSMIN cache miss. Q-13-source-05 open. Full manuals/articles not audited.

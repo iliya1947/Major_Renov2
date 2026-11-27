@@ -115,3 +115,7 @@ GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinica
 
 ### Локальный checkpoint GFT-19 — 27.11.2026 (Кира-4)
 [GFT-19.3](19_analytical_methodology/GFT-19.3_integrated_individual_analysis_and_revision.md) COMPLETE_FOR_SPECIFIED_SCOPE; независимая методология завершена, GFT-19 не закрыт. GFT-19.4 BLOCKED_DEPENDENCIES до готовности GFT-16/17/18. Q-19-tail, Q-19-source-01/02/03 OPEN. T0/T1 unchanged. Отдельный prospective commit не подтверждён (GitHub GraphQL error), критерии зафиксированы до поиска в попытке записи.
+
+
+## GFT-13.3 — 27.11.2026 (локальный маршрут)
+GFT-13.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded differential-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-13-profile-calibration OPEN (edition/ability-conditioned norms and independently validated incremental accuracy); Q-13-DLD-DCD-adult OPEN (direct measured high-general-IQ adult comparisons); Q-13-tail OPEN; Q-13-source-05 OPEN (gifted DCD full methods/results and adult instrument recommendations); earlier GFT-13 questions retained. Next GFT-13.4 integration and sufficiency audit. T0 unchanged/T1 pending. Фактический счётчик 12/20 областей, 57 завершённых единиц; незавершённые карточки исключены (GFT-16.1). PARALLEL: локальная точка Кира-2.
