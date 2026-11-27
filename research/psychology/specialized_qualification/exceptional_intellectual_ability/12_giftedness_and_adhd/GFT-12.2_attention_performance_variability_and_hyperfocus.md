@@ -1,0 +1,9 @@
+# GFT-12.2 — Attention, performance variability and hyperfocus in ADHD and high intellectual ability
+
+27.11.2026. IN_PROGRESS. Prospective question card. Starting HEAD 7d3b50c8726c5f40e42b9389dec20930fbf67c8e.
+Purpose: distinguish attentional capacity, deployment, variability, task-dependent engagement and difficulties disengaging; avoid interpreting absorption or fluctuations as diagnostic or as a unique gifted phenotype.
+1. Define sustained/selective attention, vigilance, lapses, reaction-time variability (RTV), mind wandering, hyperfocus, flow, perseveration, productivity and switching. Separate between-person and within-person associations, subjective states and objective performance.
+2. Search primary adult ADHD/control experiments, meta-analyses, hyperfocus questionnaires and counterevidence; include youth and high-IQ comparative studies separately. Recheck 2026 pediatric candidate from 12.1; seek independently measured adult IQ150–160+.
+3. Compare state regulation, motivation/reward, task demands, fatigue/sleep, strategy, motor and measurement factors; distinguish high engagement from impaired disengagement and actual functional cost. No universal mechanism or diagnosis from single metric.
+4. Predict: interest, external structure or immediate feedback may improve performance without excluding ADHD; intense focus can occur outside ADHD. Examine objective and reported measures, error/speed trade-off, time-on-task, distributions, developmental history and ecological validity.
+5. Closure: bounded general scientific-methodological synthesis, direct evidence and limitations, three new wholly invented cases with contradictory updates; six-category rubric all 2, no critical errors; internal same-author assessment only, not T1. No personal data or treatment recommendation.
