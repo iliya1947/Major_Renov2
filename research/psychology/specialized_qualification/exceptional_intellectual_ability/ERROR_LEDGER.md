@@ -69,3 +69,7 @@ GFT-10.3: distinguish strategy choice, implementation, goal and outcome; baselin
 
 ## GFT-10.4 — 27.11.2026
 GFT-10.4: distinguish within-person task activation from between-person ability prediction; do not equate neural, task and self-report measures. Sicorello 2026 challenges common neural marker, not every neural mechanism; Bo 2024 different decomposition retained. Mensa 2023 denominator is analysis-specific; no inference from degrees of freedom to exact group sizes. No gifted emotional phenotype or universal strategy inferred.
+
+
+## GFT-11.1 — 27.11.2026
+GFT-11.1: distinguish perspective taking, obtaining information, inference confidence, calibration and actual accuracy. Social cognition task scores depend on task and criterion; no universal gifted social phenotype. Ceiling effects may limit discrimination but do not prove hidden advantage. Target report is an imperfect criterion; separate target, perceiver, dyad and context. Reused emotion-recognition and Mensa data not independent evidence.
