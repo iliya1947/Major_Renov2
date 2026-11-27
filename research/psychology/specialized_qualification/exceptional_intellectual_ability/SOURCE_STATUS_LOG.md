@@ -230,3 +230,7 @@ See unit E1–20 for access per source. E15 and E19 institutional full author ab
 
 ## GFT-08.5 — 27.11.2026
 E1–3/E5 indexed author abstract/body rechecked; PMC/PubMed direct CAPTCHA. E4 publisher correction text/Table1 inspected. E6 publisher PDF extracted methods/results/discussion; page screenshots failed cache miss; no full paper/supplement or independent figure read; publisher/institutional HTML 403. Q-08-source-04 abstract N87,408 vs body N87,508; no reconciled total. No exhaustive corrections or overlap audit. Q-08-tail OPEN: measured adult IQ150–160+ longitudinal level/rank/profile, cross-domain development, identity/fit and strategy trajectories not established. Q-08-asynchrony UNIVERSAL_MECHANISM_NOT_ESTABLISHED; Q-08-source-01/02/04 OPEN_FOR_CLARIFICATION; Q-08-source-03 corrected main model. 08.4 initial card provenance limitation retained.
+
+
+## GFT-09.1 — 27.11.2026
+E2 ERIC full author abstract read; E1/E3–8 indexed author/publisher excerpts, direct 429/403/CAPTCHA/timeouts; no article read fully or PDF analyzed. No exhaustive overlap/correction audit. Q-09-tail OPEN: measured adult IQ150–160+ curiosity, NFC, interest and intellectual engagement not established. Q-09-source-01 OPEN_FOR_CLARIFICATION: Meier 2014 abstract N921 vs final sample N920. Initial pre-search card provenance incomplete.
