@@ -58,3 +58,7 @@ GFT-10.1 completed for bounded general scientific-methodological scope. Q-10-tai
 
 ## GFT-10.2 — 27.11.2026
 GFT-10.2 completed for bounded general scientific-methodological scope; 38 units, 9/20 domains. Q-10-tail OPEN also for measured adult IQ150–160+ emotion differentiation, emotion knowledge and EI. Q-10-EI UNIVERSAL_ADVANTAGE_NOT_ESTABLISHED; Q-10-measure OPEN (instrument/version/scoring and precision); Q-10-OE retained. Ferrándiz 2026 dimension-specific synthesis constrains older aggregate estimates. Next GFT-10.3 — эмоциональная регуляция, гибкость и когнитивные способности. T0 unchanged/T1 pending.
+
+
+## GFT-10.3 — 27.11.2026
+GFT-10.3 completed for bounded general scientific-methodological scope; 39 units, 9/20 domains. Q-10-tail OPEN also for measured adult IQ150–160+ strategy choice, efficacy and regulatory flexibility. Q-10-flex UNIVERSAL_STRATEGY_SITUATION_RULE_NOT_ESTABLISHED; Q-10-OE/EI/measure retained. Next GFT-10.4 — интеграция эмоциональной психологии, практический перенос и аудит достаточности GFT-10. T0 unchanged/T1 pending.
