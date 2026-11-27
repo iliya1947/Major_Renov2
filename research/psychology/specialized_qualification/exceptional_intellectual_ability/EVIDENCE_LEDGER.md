@@ -305,3 +305,7 @@
 
 ## GFT-09.1 — 27.11.2026
 [GFT-09.1](09_motivation/GFT-09.1_curiosity_need_for_cognition_interest_and_intellectual_engagement.md). E1 2025 NFC/TIE meta-analysis Gf .18, Gc .26, g .23, WM .15; E2 achievement r=.20; E3 I/D curiosity; E4 state curiosity and memory; E5 gifted-class attendance vs ability, N discrepancy; E6 selected math adolescents null NFC association; E7 delay decreases information demand; E8 prior investment evidence; E9 tail search. Q-09-tail OPEN: measured adult IQ150–160+ curiosity, NFC, interest and intellectual engagement not established. Q-09-source-01 OPEN_FOR_CLARIFICATION: Meier 2014 abstract N921 vs final sample N920. Initial pre-search card provenance incomplete.
+
+
+## GFT-09.2 — 27.11.2026
+[GFT-09.2](09_motivation/GFT-09.2_challenge_novelty_boredom_and_task_demands.md). E1 MAC, E2 Feuchter/Preckel 2022 longitudinal N1861 (math-specific boredom intensity effect, all types increased), E3 novelty/complexity and coping appraisal, E4 feedback model, E5 Tam 2025 experimental meaning/attention distinction and null attention manipulation for boredom, E6 effort measures noninterchangeable, E7 flow and retrospective boredom, E8 novelty exploration, E9 gifted samples and trait alternatives. Q-09-tail OPEN also for measured adult IQ150–160+ challenge preference, novelty, boredom and task demands. Q-09-source-01 remains open. Pre-search card committed before public search in GFT-09.2.
