@@ -49,3 +49,7 @@ GFT-09.3: autonomy not independence or enjoyment; Beck autonomy not SDT measure.
 
 ## GFT-09.4 — 27.11.2026
 GFT-09.4: distinguish high standards from perfection requirement, concerns, goal approach/avoidance, costs and attainment. Do not treat adjusted residual strivings as pure people; nonsignificant group difference not equivalence. Cross-lagged paths challenged by alternative models; no causal vicious-loop claim. Adult thesis without nongifted comparison not direct evidence of IQ-specific difference. Pre-search card committed before search.
+
+
+## GFT-09.5 — 27.11.2026
+GFT-09.5: use published results to reconcile direction, not convenient abstract/summary. Hornstra 2023 unstandardized model change contrasts B=.36/.41 both p=.006 in extracted text, grade interactions present; educational statement remains inconsistent. No visual confirmation. No universal latent gifted motive; distinct constructs, conditions, outcome and cost. Null within-group correlations not confirmed between-group differences.
