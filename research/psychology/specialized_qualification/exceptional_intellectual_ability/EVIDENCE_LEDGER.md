@@ -317,3 +317,7 @@
 
 ## GFT-09.4 — 27.11.2026
 [GFT-09.4](09_motivation/GFT-09.4_perfectionism_standards_achievement_motives_and_costs.md). E1 Stricker/Ogurlu gifted student meta-analyses; E2 community adolescents; E3 achievement associations; E4 excellencism distinction and athletic counterexample; E5 procrastination/burnout; E6 umbrella review and adult symptoms; E7 achievement goals and measurement; E8 competing panel models; E9 adult identified-gifted thesis candidate. Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open.
+
+
+## GFT-09.5 — 27.11.2026
+[GFT-09.5](09_motivation/GFT-09.5_motivation_integration_transfer_and_sufficiency_audit.md). E1 NFC/TIE sensitivity and Meier discrepancy; E2 boredom models; E3 Hornstra 2023 extracted Table 5/results direction; E4 perfectionism syntheses and causal uncertainty; E5 Macke adult Mensa work engagement; E6 adult tail search. Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED.
