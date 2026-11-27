@@ -174,3 +174,6 @@ GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOP
 
 ### Локальный checkpoint GFT-18 — 27.11.2026 (Кира-4)
 [GFT-18.2](18_integrative_psychology/GFT-18.2_empirical_cross_process_interactions_and_boundaries.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-18.3 NEXT — итоговая интеграция. GFT-16/17 completion and synthesis verified in scope; Q-18-tail/source-01/02/03 OPEN. GFT-19 parked, T0/T1 unchanged.
+
+### Локальный checkpoint GFT-18 — 27.11.2026 (Кира-4)
+[GFT-18.3](18_integrative_psychology/GFT-18.3_integration_and_sufficiency_audit.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-18 COMPLETE_FOR_SPECIFIED_SCOPE, assignment COMPLETE. Q-18-tail/source-01/02/03/04 OPEN; Q-10-source-01 partial clarification. Return to previously assigned GFT-19.4 NEXT after current dependency recheck; no research on 19.4 started. GFT-20 remains gated, T0/T1 unchanged.
