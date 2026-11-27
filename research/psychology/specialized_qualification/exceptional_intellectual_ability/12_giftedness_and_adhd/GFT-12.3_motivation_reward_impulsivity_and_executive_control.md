@@ -1,0 +1,9 @@
+# GFT-12.3 — Motivation, reward, impulsivity and executive control in ADHD and high intellectual ability
+
+27.11.2026. IN_PROGRESS. Prospective question card. Starting HEAD 107e4626efb741e09e86740b695c9ca267d12d4d.
+Purpose: distinguish motivational value, effort, delay discounting/aversion, reward anticipation and receipt, motor/choice impulsivity, working memory and inhibitory control; avoid treating executive difficulty as lack of desire, or high intelligence as universal compensation.
+1. Seek adult ADHD primary experiments and quantitative syntheses of monetary delay discounting, reward anticipation/outcome, effort and incentives, motor inhibition and executive functions. Include clinical controls, null/contrary effects, developmental differences and task versus daily functioning. Compare independent source lineages.
+2. Reuse 12.1–12.2 direct high-IQ comparisons, seek new measured adult high-IQ and 150–160+ evidence, recheck pediatric Q-12-source-01 if useful. Separate IQ×ADHD interactions from within-ADHD gradients and matched-control contrasts.
+3. Compare multiple-pathway models and rival accounts (learning, opportunity, time uncertainty, subjective effort, competing goals, state, medication/context, measurement). Neural associations are not individual dopamine assays; behavioral effects not diagnostic.
+4. Apply operational alternatives: value/goal vs intention/action, initiation/maintenance/switching, delay choice vs response inhibition, absolute output vs relative deficit/support burden. Specify observations distinguishing explanations, avoid withdrawing necessary supports.
+5. Closure: bounded general scientific-methodological synthesis, source/transfer limitations, three new wholly invented contradiction-update cases, six categories 0–2 all 2 and no critical error for internal closure; no independent validation or T1. No personal data or treatment instruction.
