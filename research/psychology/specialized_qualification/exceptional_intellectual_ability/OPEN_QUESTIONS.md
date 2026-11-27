@@ -139,3 +139,7 @@ Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-so
 
 ## GFT-10.1 — 27.11.2026
 Q-10-tail OPEN: measured adult IQ150–160+ emotional sensitivity, intensity and sensory reactivity not established. Q-10-OE UNIVERSAL_OR_DIAGNOSTIC_PHENOTYPE_NOT_ESTABLISHED; updated 2026 meta-analysis constrains 2016 synthesis; ascertainment and publication bias matter. Next GFT-10.2 — эмоциональная дифференциация, знание эмоций и эмоциональный интеллект.
+
+
+## GFT-10.2 — 27.11.2026
+Q-10-tail OPEN also for measured adult IQ150–160+ emotion differentiation, emotion knowledge and EI. Q-10-EI UNIVERSAL_ADVANTAGE_NOT_ESTABLISHED; Q-10-measure OPEN (instrument/version/scoring and precision); Q-10-OE retained. Ferrándiz 2026 dimension-specific synthesis constrains older aggregate estimates. Next GFT-10.3 — эмоциональная регуляция, гибкость и когнитивные способности.
