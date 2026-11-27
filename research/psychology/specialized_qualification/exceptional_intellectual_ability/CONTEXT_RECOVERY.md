@@ -188,3 +188,7 @@ GFT-20 IN_PROGRESS (Кира-3 ASSIGNED); dependency gate 01–19 verified (19 a
 
 ## GFT-20 — comparative design, 27.11.2026
 GFT-20 IN_PROGRESS (Кира-3 ASSIGNED); T0 read fully, original scores 44/63 unchanged; [COMPARATIVE_DESIGN](20_final_assessment/COMPARATIVE_DESIGN.md) and [T1_TASKS](20_final_assessment/T1_TASKS.md) recorded before responses. Three new paired fictional tasks, 5+2 observations each, approximate stimulus-length and thematic comparability checked, no proven equal difficulty or independent author/evaluator. Internal comparison only; leakage/expectation/practice and historical setting limits explicit. T0/ASSESSMENT_PROTOCOL unchanged. T1 not executed, no responses or scores. Next: record T1 responses under documented conditions before evaluation; separate final six-criterion knowledge/transfer check remains.
+
+
+## GFT-20 — T1 responses, 27.11.2026
+GFT-20 IN_PROGRESS (Кира-3 ASSIGNED); [T1_RESPONSES](20_final_assessment/T1_RESPONSES.md) recorded for all three fixed tasks, both stages, before scoring; no new scientific search. T1 internal/non-blind, known updates, longer responses than T0, uncertain historic conditions/difficulty. T0, protocol, task/design files unchanged. No T1 scores or objective improvement claim. Next: separate comparative scoring A–G with explicit limitations, then separate knowledge/transfer assessment.
