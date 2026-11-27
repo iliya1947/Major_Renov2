@@ -155,3 +155,7 @@ Q-10-tail OPEN for separately measured adult IQ150–160+ emotional processes; Q
 
 ## GFT-11.1 — 27.11.2026
 Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive empathic accuracy; Q-11-measure OPEN (ceiling, reliability, validity, calibration); Q-11-source-01 OPEN (gifted youth task-specific effects and ascertainment). Next GFT-11.2 — эмпатия, сострадание, разделение аффекта и просоциальное поведение.
+
+
+## GFT-11.2 — 27.11.2026
+Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained. Next GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
