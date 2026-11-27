@@ -10,7 +10,7 @@
 |---|---|---|---|
 | GFT-01–12 | — | HISTORICAL_COMPLETE | Завершены в установленном объёме; сохранять результаты и открытые ограничения. |
 | [GFT-13 — Другие дважды исключительные профили](13_other_2e_profiles/README.md) | **Кира-2** | ASSIGNED | GFT-13.1–13.2 COMPLETE_FOR_SPECIFIED_SCOPE; следующий локальный блок GFT-13.3. |
-| [GFT-14 — Компенсация и адаптация](14_compensation_and_adaptation/README.md) | **Кира-1** | ASSIGNED | GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE; следующий локальный блок GFT-14.2. |
+| [GFT-14 — Компенсация и адаптация](14_compensation_and_adaptation/README.md) | **Кира-1** | ASSIGNED | GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE; следующий локальный блок GFT-14.3. |
 | [GFT-15 — Психологическое благополучие](15_psychological_wellbeing/README.md) | — | UNREGISTERED | Назначение не подтверждено. |
 | [GFT-16 — Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | **Кира-3** | ASSIGNED | GFT-16.1 IN_PROGRESS; checkpoint измерения, норм и выборок. |
 | [GFT-17 — Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | — | UNREGISTERED | Назначение не подтверждено. |
@@ -46,3 +46,5 @@ UNREGISTERED означает отсутствие подтверждённой 
 - 27.11.2026 — Кира-1: GFT-14.1 завершён в установленном методическом объёме; GFT-14.2 NEXT. Другие назначения сохранены.
 
 - 27.11.2026 — Кира-2: GFT-13.2 закрыт в ограниченном объёме; GFT-13.3 NEXT; ASSIGNED сохраняется.
+
+- 27.11.2026 — Кира-1: GFT-14.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-14.3 NEXT. Остальные назначения сохранены.

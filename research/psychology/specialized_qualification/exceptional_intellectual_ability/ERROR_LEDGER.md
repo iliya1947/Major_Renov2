@@ -117,3 +117,7 @@ Strategy report, observed behavior, discrepancy and outcome are not interchangea
 
 ## GFT-13.2 — 27.11.2026
 Discrepancy not diagnosis; PIQ/VIQ/GAI not FSIQ. Van Viersen 2015 reuses earlier groups. Lijbers F(3,71)=84 and p<.33 inconsistent with nonsignificance; exclude affected global test, Table6 CIs span zero not equivalence. No causal compensation or unmarked adult transfer. Count completed states not links to question cards; recheck latest HEAD (GFT-19.1 changed from prospective to completed during this work).
+
+
+## GFT-14.2 — 27.11.2026
+Do not confuse assisted output with acquired skill, task-specific benefit with far transfer, symptoms with actual function, subgroup significance with interaction or strategy use with effect. Do not withdraw necessary supports. IQ cannot prescribe strategy from observational contrasts.

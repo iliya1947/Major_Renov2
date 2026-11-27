@@ -120,3 +120,7 @@ Aggregate synchronization: after GFT-14.1 publication, GFT-19.1 completion by Ki
 
 ## GFT-13.2 — 27.11.2026
 [GFT-13.2](13_other_2e_profiles/GFT-13.2_specific_learning_disorders_and_high_ability.md) prospective card 2cdfe196, bounded closure with adult/source gaps and internal assessment only. Next local GFT-13.3; other owners preserved. Recomputed shared total from actual statuses including independently completed GFT-19.1, not stale README.
+
+
+## GFT-14.2 — 27.11.2026
+Kira-1: GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level); GFT-14 IN_PROGRESS. Q-14-tail OPEN also for measured adult IQ150–160+ strategy efficacy, moderation and transfer; Q-14-causal OPEN (specific strategy mechanisms, no causal IQ effect); Q-14-measure OPEN; Q-14-source-01 retained; Q-14-source-02 OPEN (2025 Lee full subgroup estimates, 2026 functioning meta-analysis full table/comparators, 2e youth review full methods, adult offloading moderation detailed results unavailable); Q-14-transfer TASK_AND_GOAL_DEPENDENT, no universal generalization. GFT-13 remains dependency for final integration. Next GFT-14.3 — ресурсная стоимость, устойчивость функционирования, маскировка и последствия. T0 unchanged/T1 pending. Q-14-source-03 OPEN (Safren CGI exact estimate excluded).

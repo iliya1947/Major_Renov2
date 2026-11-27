@@ -19,7 +19,7 @@
 | GFT-11 | Социальная психология | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-11.1–11.5 |
 | GFT-12 | Одарённость и СДВГ | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-12.1–12.4 |
 | GFT-13 | Другие дважды исключительные профили | IN_PROGRESS |
-| GFT-14 | Компенсация и адаптация | IN_PROGRESS — GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE |
+| GFT-14 | Компенсация и адаптация | IN_PROGRESS — GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE |
 | GFT-15 | Психологическое благополучие | QUEUED |
 | GFT-16 | Экстремальный диапазон интеллекта | QUEUED |
 | GFT-17 | Нелинейность интеллектуальных различий | QUEUED |
@@ -96,3 +96,6 @@ Kira-1: GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general construct/measure
 
 ## GFT-13.2 — 27.11.2026 (локальный маршрут)
 GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail OPEN also for SLD; Q-13-SLD-discrepancy NOT_SUFFICIENT_FOR_DIAGNOSIS; Q-13-SLD-compensation HETEROGENEOUS_NOT_CAUSALLY_ESTABLISHED; Q-13-SLD-adult OPEN (measured high general IQ and writing/math comparisons); Q-13-source-04 OPEN (Lijbers 2025 model-change reporting); earlier Q-13 questions retained. Next local GFT-13.3 — heterogeneous profiles and differential assessment. T0 unchanged/T1 pending. Фактический счётчик по завершённым блокам: 12/20 областей, 53 единиц; незавершённые карточки нет не учитываются. PARALLEL: локальная точка только Кира-2.
+
+
+Kira-1: GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level); GFT-14 IN_PROGRESS. Q-14-tail OPEN also for measured adult IQ150–160+ strategy efficacy, moderation and transfer; Q-14-causal OPEN (specific strategy mechanisms, no causal IQ effect); Q-14-measure OPEN; Q-14-source-01 retained; Q-14-source-02 OPEN (2025 Lee full subgroup estimates, 2026 functioning meta-analysis full table/comparators, 2e youth review full methods, adult offloading moderation detailed results unavailable); Q-14-transfer TASK_AND_GOAL_DEPENDENT, no universal generalization. GFT-13 remains dependency for final integration. Next GFT-14.3 — ресурсная стоимость, устойчивость функционирования, маскировка и последствия. T0 unchanged/T1 pending.

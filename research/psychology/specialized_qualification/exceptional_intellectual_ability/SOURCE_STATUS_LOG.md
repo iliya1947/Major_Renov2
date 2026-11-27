@@ -325,3 +325,7 @@ Toffalini/Redvaldsen PDF excerpts, screenshots cache miss; Lenhard publisher HTM
 
 ## 27.11.2026 — GFT-19.2
 E19.2-01/04 selected publisher sections; E19.2-02 repository PDF selected sections and screenshot p.102; not full read/reproduction. E19.2-03 author abstract and metadata, DOI cache miss; E19.2-05 indexed abstract, PMC reCAPTCHA; E19.2-06 indexed excerpts and university metadata, publisher 403. Comprehensive correction/retraction review not established. Q-19-source-02 OPEN. [Details](19_analytical_methodology/GFT-19.2_competing_causal_models_and_revision.md).
+
+
+## GFT-14.2 — 27.11.2026
+Direct selected Solanto PMC methods/results/moderators, Safren PubMed abstract, Grinschgl Sage sections, Dentz/Wood Sage abstracts, Wehman and López-Pinar PubMed abstracts, Lee KCI and Radhakrishnan institutional abstracts. Other results indexed, PubMed CAPTCHA/publisher403/429/cache miss. Q-14-source-02 OPEN; Q-14-source-03 OPEN Safren CGI point estimate/CI precision, exact magnitude excluded. Q-14-tail OPEN also for measured adult IQ150–160+ strategy efficacy, moderation and transfer; Q-14-causal OPEN (specific strategy mechanisms, no causal IQ effect); Q-14-measure OPEN; Q-14-source-01 retained; Q-14-source-02 OPEN (2025 Lee full subgroup estimates, 2026 functioning meta-analysis full table/comparators, 2e youth review full methods, adult offloading moderation detailed results unavailable); Q-14-transfer TASK_AND_GOAL_DEPENDENT, no universal generalization. GFT-13 remains dependency for final integration.
