@@ -160,3 +160,7 @@ Bernstein 2021 abstract 'did not covary' refined to small nonzero pooled associa
 
 ## GFT-17.3 — 27.11.2026
 Outcome noninvariance compromises both linear and nonlinear latent interpretation, not all scales or proof of a new symptom structure. Brown and Czerwiński NLSY cohorts overlap. Bernstein pooled small associations of different signs are not exact null, subgroup result or causal safety. Local derivative not absolute outcome; no adult-tail extrapolation. Do not substitute GFT-15 completion for actual 16.3 (verified before closure).
+
+
+## GFT-20 — 27.11.2026
+T1-C/2: critical factual premise substitution, common specimen → personally familiar specimen; material for interpretation of experience hypothesis. Original T1 preserved, no retrospective edit. Also A/B/C retrospective initial-hypothesis mismatch. Corrective rule and required new assessment in [T1_EVALUATION](20_final_assessment/T1_EVALUATION.md). D=1, E=2 vs T0 E=3; comparative REVIEW_REQUIRED. Correction/retest not yet performed.

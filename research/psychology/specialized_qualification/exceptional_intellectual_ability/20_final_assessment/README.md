@@ -4,7 +4,7 @@
 
 **Ответственная сессия: Кира-3 — ASSIGNED, 27.11.2026.** Основание: «...» после конкретного предложения GFT-20. [Реестр](../PARALLEL_WORK.md).
 
-**Локальная точка:** [ответы T1](T1_RESPONSES.md) зафиксированы до оценивания. Следующий шаг — отдельная сравнительная оценка по A–G; затем междисциплинарная проверка. Итог GFT-20 не установлен.
+**Локальная точка:** [сравнительная оценка T0/T1](T1_EVALUATION.md) — REVIEW_REQUIRED. Критическая ошибка в T1-C, D=1; следующий шаг — отдельное новое задание на коррекцию, затем междисциплинарная проверка. Исходные ответы и баллы не заменять.
 
 ## Программа
 Междисциплинарная проверка знаний, перенос, сложные задачи и остаточные пробелы; сравнительная оценка практического психологического анализа до и после gft на новых сопоставимых синтетических задачах.
@@ -41,3 +41,7 @@ GFT-20 IN_PROGRESS (Кира-3 ASSIGNED); T0 read fully, original scores 44/63 u
 
 ## T1 responses checkpoint — 27.11.2026
 GFT-20 IN_PROGRESS (Кира-3 ASSIGNED); [T1_RESPONSES](20_final_assessment/T1_RESPONSES.md) recorded for all three fixed tasks, both stages, before scoring; no new scientific search. T1 internal/non-blind, known updates, longer responses than T0, uncertain historic conditions/difficulty. T0, protocol, task/design files unchanged. No T1 scores or objective improvement claim. Next: separate comparative scoring A–G with explicit limitations, then separate knowledge/transfer assessment.
+
+
+## Comparative evaluation checkpoint — 27.11.2026
+GFT-20 IN_PROGRESS, comparative T0/T1 REVIEW_REQUIRED. [T1_EVALUATION](20_final_assessment/T1_EVALUATION.md) records all 21 criterion cells and reasons: internal 44→48/63 (+4), 6 increases, 13 unchanged, 2 decreases; D-C=1, E-C=2 (previous 3). Material critical factual substitution in T1-C: common mineral ≠ familiar to this individual. A/B also misdescribe initial assumptions. Original responses/tasks/T0/protocol unchanged. No objective improvement claim; no independent evaluator, equal difficulty or historical conditions established; T1 answers +33.46% words. Next: prospective new correction task; separate six-criterion multidisciplinary assessment remains. Do not overwrite T1 or close GFT-20 until required correction and new test; comparative REVIEW_REQUIRED retained if uncertainty remains.

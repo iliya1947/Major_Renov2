@@ -299,3 +299,7 @@ GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOP
 - Q-19-source-02 partial provenance clarification (Eronen DOI/versioned PDF text; screenshot unavailable), full argument/other sources/status OPEN. Q-19-source-03 OPEN; Q-19-source-04 OPEN (JMIR e99204 full methods/supplements, source status/overlap).
 - GFT-19.1 fixed-intercept identification issue RESOLVED_IN_ILLUSTRATION: original formula split into fixed-intercept and conditional random-intercept specifications; algebra and regression case verified; no causal identification implied. Prior correction delayed after 19.2, history retained.
 - Q-19-tail OPEN; GFT-19 COMPLETE_FOR_SPECIFIED_SCOPE only. GFT-20 owner checks full gate; T0/T1 unchanged.
+
+
+## GFT-20 — 27.11.2026
+Q-20-comparability OPEN: equal difficulty, historic effort/context, independent scoring, response length and expectation/known update effects unresolved; 44→48 internal only. Q-20-revision OPEN: critical substitution common→familiar, new correction task required; original response and scores unchanged. Q-tail/source questions remain OPEN. See [T1_EVALUATION](20_final_assessment/T1_EVALUATION.md). GFT-20 IN_PROGRESS.
