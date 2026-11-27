@@ -312,3 +312,7 @@ Q-20-revision: LOCAL_REGRESSION_PASSED_FOR_SPECIFIED_SCOPE after R1 9/12 and R2 
 
 
 Q-20-knowledge-transfer RETEST_REQUIRED: K3/2 unverified component equivalence; 46/48 internal. Q-20-revision R2 local pass only, general transfer OPEN (new failure on measurement specificity). Q-20-comparability OPEN; comparative REVIEW_REQUIRED. See [integrated assessment](20_final_assessment/INTEGRATED_TEST_EVALUATION.md). Q-tail/source retained.
+
+
+## GFT-20 final — 27.11.2026
+Q-20-revision/Q-20-knowledge-transfer: targeted R2/C1 local correction passed, independent/uncued transfer and full threshold OPEN; K3 and T1-C historical failures retained. Q-20-comparability OPEN, comparative REVIEW_REQUIRED. All Q-tail/source/measurement limits remain. [Final report](20_final_assessment/FINAL_REPORT.md). No successful attestation.

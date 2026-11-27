@@ -25,7 +25,7 @@
 | GFT-17 | Нелинейность интеллектуальных различий | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-17.1–17.3 |
 | GFT-18 | Интегративная психология одарённости | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-18.1–18.3, Q-18-tail/source-01/02/03/04 OPEN |
 | GFT-19 | Методология психологического анализа | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-19.1–19.4, Q-19-tail/source-01–04 retained |
-| GFT-20 | Интеграционная аттестация | IN_PROGRESS — T0/T1 REVIEW_REQUIRED; knowledge/transfer 46/48 RETEST_REQUIRED; next component/operationalization retest (Кира-3) |
+| GFT-20 | Интеграционная аттестация | REVIEW_REQUIRED — final audit recorded; internal cycle ended, no PASS; Кира-3 BLOCKED pending new evaluation conditions |
 
 После каждой единицы обновлять очередь, DOMAIN_STATUS, CONTEXT_RECOVERY и реестры по факту. Один continuation = одна законченная ограниченная единица, затем остановка. Не запускать следующую автоматически.
 
@@ -165,3 +165,7 @@ GFT-20 local correction checkpoint: [R1](20_final_assessment/REVISION_RETEST_EVA
 
 ## GFT-20 — multidisciplinary assessment, 27.11.2026
 GFT-20 multidisciplinary test recorded: [design](20_final_assessment/INTEGRATED_TEST_DESIGN.md), [responses](20_final_assessment/INTEGRATED_TEST_RESPONSES.md), [evaluation](20_final_assessment/INTEGRATED_TEST_EVALUATION.md). Internal 46/48 (K1 12, K2 12, K3 10, K4 12), KNOWLEDGE_TRANSFER_RETEST_REQUIRED; K3/2 material unverified component substitution (current difficulty reading unfamiliar complex words ≠ established current decoding difficulty). Evidence/revision 1 each; preserved original K3 and correct conditional clinical route. R2 local pass retained, uncued transfer not established. T0/T1 44→48 REVIEW_REQUIRED unchanged. Next focused new task on operationalization/component equivalence across time/context; no final PASS or objective improvement. GFT-20 IN_PROGRESS (Кира-3).
+
+
+## GFT-20 — final audit, 27.11.2026
+GFT-20 final audit recorded: [C1](20_final_assessment/COMPONENT_RETEST_EVALUATION.md) 12/12 targeted local pass, [FINAL_REPORT](20_final_assessment/FINAL_REPORT.md) REVIEW_REQUIRED. 19/20 areas closed in scope; 73 unique preparatory units present. T0/T1 44→48/63 internal, critical T1-C D=1; R1 9/12 failed, R2 12/12 local pass, K1–K4 46/48 failed K3 component substitution, C1 12/12 local pass. All original answers/scores/protocol retained. Local correction performed, no independent/uncued general transfer or objective gain established. GFT-20 REVIEW_REQUIRED, Кира-3 BLOCKED pending genuinely new evaluation conditions; no new assignment, no repeated cued testing for a convenient score. All Q-tail/source/clinical/ethical limits retained.
