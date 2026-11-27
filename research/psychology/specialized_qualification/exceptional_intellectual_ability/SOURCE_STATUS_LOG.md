@@ -246,3 +246,7 @@ E6/E7 Utrecht full author abstracts, E9 Elsevier France bilingual author abstrac
 
 ## GFT-09.4 — 27.11.2026
 E1–3 direct ERIC/York St John/PubMed author abstracts, E8 Frontiers HTML excerpts, other indexed author abstracts, institutional cache misses and CAPTCHA. No PDF analyzed or article read fully. No exhaustive overlap/correction audit. Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open.
+
+
+## GFT-09.5 — 27.11.2026
+E5 Lund author abstract read directly; E3 extracted PDF Table 5/results inspected, screenshots p6/p7 failed cache miss; no visual verification; publisher DOI403, MDPI429. Other indexed author/published text. No full article read end-to-end, no exhaustive correction/overlap audit. Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED.
