@@ -313,3 +313,7 @@
 
 ## GFT-09.3 — 27.11.2026
 [GFT-09.3](09_motivation/GFT-09.3_autonomy_goals_and_motivational_regulation.md). E1 SDT volition vs independence; E2 Bureau and Howard; E3 Sezer goal motives; E4 implementation intentions; E5 goal adjustment; E6–8 heterogeneous school motivational profiles; E9 adult gifted sample N106 plus controls, Beck autonomy distinct from SDT; E10 direct-tail search. Q-09-tail OPEN also for measured adult IQ150–160+ autonomy/goal motives, implementation and adjustment. Q-09-source-01/02 OPEN_FOR_CLARIFICATION; Hornstra 2023 abstract vs educational relevance statement disagree on direction of change in external regulation and amotivation. Pre-search card committed before search.
+
+
+## GFT-09.4 — 27.11.2026
+[GFT-09.4](09_motivation/GFT-09.4_perfectionism_standards_achievement_motives_and_costs.md). E1 Stricker/Ogurlu gifted student meta-analyses; E2 community adolescents; E3 achievement associations; E4 excellencism distinction and athletic counterexample; E5 procrastination/burnout; E6 umbrella review and adult symptoms; E7 achievement goals and measurement; E8 competing panel models; E9 adult identified-gifted thesis candidate. Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open.
