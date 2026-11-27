@@ -325,3 +325,7 @@
 
 ## GFT-10.1 — 27.11.2026
 [GFT-10.1](10_emotional_psychology/GFT-10.1_emotional_sensitivity_intensity_and_overexcitability.md). E1 ERS/PERS measurement, E2 2016 OE meta-analysis, E3 construct overlap and psychometrics, E4 adult OE comparison, E5 adult SPS positive vs negative aspects, E6 Mensa AIM/dot-probe, E7 2026 sensory systematic review (5 included), E8 2026 OE meta-analysis (230 effects/20 studies; definition and age moderators, publication bias), E9 direct-tail search. Q-10-tail OPEN: measured adult IQ150–160+ emotional sensitivity, intensity and sensory reactivity not established. Q-10-OE UNIVERSAL_OR_DIAGNOSTIC_PHENOTYPE_NOT_ESTABLISHED; updated Olszewski-Kubilius et al. 2026 meta-analysis constrains 2016 synthesis, ascertainment and publication bias matter.
+
+
+## GFT-10.2 — 27.11.2026
+[GFT-10.2](10_emotional_psychology/GFT-10.2_emotion_differentiation_knowledge_and_emotional_intelligence.md). E1 ED measurement, E2 word knowledge vs fluency, E3 executive tasks and ambulatory ED null findings, E4 behavioral dysregulation and mixed experimental results, E5 EI measures/scoring debate, E6 recognition and academic outcomes, E7 updated gifted EI meta-analysis, E8 adult Mensa knowledge vs processing, E9 2026 methodological meta-synthesis. Q-10-tail OPEN also for measured adult IQ150–160+ emotion differentiation, emotion knowledge and EI. Q-10-EI UNIVERSAL_ADVANTAGE_NOT_ESTABLISHED; Q-10-measure OPEN (instrument/version/scoring and precision); Q-10-OE retained. Ferrándiz 2026 dimension-specific synthesis constrains older aggregate estimates.
