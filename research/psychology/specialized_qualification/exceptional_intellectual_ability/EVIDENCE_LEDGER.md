@@ -337,3 +337,7 @@
 
 ## GFT-10.4 — 27.11.2026
 [GFT-10.4](10_emotional_psychology/GFT-10.4_emotional_psychology_integration_transfer_and_sufficiency_audit.md). E1 updated OE/sensory reviews; E2 gifted EI dimensions; E3 Mensa measure-specific denominator; E4 cognitive-control and strategy scope; E5 Sicorello 2026 neural nonconvergence and Bo 2024 alternative component analysis; E6 Growney et al. 2026 fluid/crystallized cognition; E7 tail search. Q-10-tail OPEN for separately measured adult IQ150–160+ emotional processes; Q-10-OE/EI/flex limitations retained; Q-10-measure/neural/source-01 OPEN (instrument-specific precision, neural prediction across measures, Mensa comparator denominator clarification).
+
+
+## GFT-11.1 — 27.11.2026
+[GFT-11.1](11_social_psychology/GFT-11.1_social_cognition_perspective_taking_and_inference_accuracy.md). E1 intelligence and decoding/RMET; E2 language and formative g; E3 self-report vs performance; E4 perspective taking/getting and feedback; E5 adult ToM psychometrics; E6 target and channel; E7 gifted youth evidence and adult tail; E8 recent latent model candidate. Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive empathic accuracy; Q-11-measure OPEN (ceiling, reliability, validity, calibration); Q-11-source-01 OPEN (gifted youth task-specific effects and ascertainment).
