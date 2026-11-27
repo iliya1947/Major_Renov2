@@ -20,7 +20,7 @@
 | GFT-12 | Одарённость и СДВГ | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-12.1–12.4 |
 | GFT-13 | Другие дважды исключительные профили | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-13.1–13.4 |
 | GFT-14 | Компенсация и адаптация | IN_PROGRESS — GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE |
-| GFT-15 | Психологическое благополучие | QUEUED |
+| GFT-15 | Психологическое благополучие | IN_PROGRESS — GFT-15.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15.2 NEXT (Кира-4) |
 | GFT-16 | Экстремальный диапазон интеллекта | IN_PROGRESS — GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16.2 NEXT (Кира-3) |
 | GFT-17 | Нелинейность интеллектуальных различий | QUEUED |
 | GFT-18 | Интегративная психология одарённости | QUEUED |

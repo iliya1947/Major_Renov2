@@ -240,3 +240,9 @@ Q-16-source-02: SB5 bulletin count 933 not reconciled with SD15 normal model; no
 
 ## GFT-14.3 — 27.11.2026
 Kira-1: GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level); GFT-14 IN_PROGRESS. Q-14-tail OPEN also for measured adult IQ150–160+ costs, recovery, sustainable functioning and camouflaging outcomes; Q-14-measure/causal/transfer retained; Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, no unitary resource; Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED; Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN; Q-14-source-04 OPEN (van der Putten HTML table/narrative discrepancies, PDF screenshots cache miss, affected estimates restricted); Q-14-source-05 OPEN (EMA lag methods, 2026 ADHD qualitative and newer burnout validation full results). Prior source-01/02 OPEN, source-03 acute estimate resolved, abstract correction open. GFT-13 closure recorded by Kira-2; verify its canonical synthesis before 14.4 closure. Next GFT-14.4 — интеграция, практический перенос и аудит достаточности. T0 unchanged/T1 pending.
+
+## GFT-15.1 — 27.11.2026
+- Q-15-tail OPEN: separately measured adult IQ150–160+ prevalence/well-being and stress reactivity not established; no extrapolation.
+- Q-15-source-01 OPEN: UKB corrigendum corrected descriptive Table 1/discussion; visual table screenshot unavailable, supplement/analysis not reproduced. No unverified cells reused.
+- Q-15-source-02 OPEN: full methods/attrition/uncertainty for Wirthwein/Rost, Karpinski and BCS70 nonlinearity; route GFT-17 for full model audit. Q-11-source-04 remains in force for Poirier.
+- GFT-15.1 general scope completed; GFT-15.2 NEXT; GFT-14 dependent integration remains pending.

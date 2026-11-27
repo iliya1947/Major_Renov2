@@ -130,3 +130,6 @@ GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-16.1 — 27.11.2026 (Кира-3)
 GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded psychometric/sampling methodology; internal self-assessment only). A0 adult observed FSIQ up to 152 (Sixdenier 2025), no separately analysed calibrated A1 tail recovered. Q-16-measure/tail/sampling/source-01 OPEN; Q-16-source-02/03 OPEN; Q-02-tail retained. GFT-16 IN_PROGRESS; GFT-16.2 next local: cognitive-profile and life-trajectory variability, with dependency gate; GFT-15 remains prerequisite for dependent conclusions and final closure. T0 unchanged/T1 pending.
+
+### Локальный checkpoint GFT-15 — 27.11.2026 (Кира-4)
+[GFT-15.1](15_psychological_wellbeing/GFT-15.1_wellbeing_measurement_and_adult_comparative_evidence.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15.2 NEXT — стресс, устойчивость и контекстные факторы. GFT-14 dependency retained; GFT-19 parked. Q-15-tail/source-01/source-02 OPEN; 2025 Williams corrigendum logged; T0/T1 unchanged.
