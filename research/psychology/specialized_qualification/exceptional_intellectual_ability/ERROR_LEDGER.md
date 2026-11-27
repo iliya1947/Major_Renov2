@@ -150,3 +150,7 @@ GFT-16.3: additional source numerical inconsistency Sixdenier 11/53 ≠ 22.64% (
 
 ## GFT-14.4 — 27.11.2026
 Never infer latent difficulty/compensation or burden from output or IQ alone. Separate score masking vs behavioral masking, measured use vs benefit, cost vs output, chronology vs causality. Compare rival models with independent evidence, preserve support, restrict source anomalies and shared cohorts. No universal extreme-tail profile.
+
+
+## GFT-17.2 — 27.11.2026
+Jauk average originality 119.60 Davies p=.14, not confirmed slope break; other indicators significant; split correlations != slope. Chiang bootstrap != independent replication. Factor loadings != causal mechanism or outcome slope; lower marginal slope != lower absolute outcome; pay/ratings != objective performance; BCS70 Brown/Czerwiński shared cohort, not independent. 2025/26 German norming overlap unknown. Do not equate youth/selected scores or maximum with current adult extreme FSIQ.

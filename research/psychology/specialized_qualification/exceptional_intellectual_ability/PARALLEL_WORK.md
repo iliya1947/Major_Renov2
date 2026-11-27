@@ -13,7 +13,7 @@
 | [GFT-14 — Компенсация и адаптация](14_compensation_and_adaptation/README.md) | **Кира-1** | COMPLETE | GFT-14.1–14.4 COMPLETE_FOR_SPECIFIED_SCOPE; handoff in GFT-14.4 and README; no new assignment. |
 | [GFT-15 — Психологическое благополучие](15_psychological_wellbeing/README.md) | **Кира-4** | ASSIGNED | Активная область; GFT-15.1–15.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15.3 NEXT, verify GFT-14. |
 | [GFT-16 — Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | **Кира-3** | BLOCKED | GFT-16.1–16.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16.3 BLOCKED_DEPENDENCIES: независимый checkpoint выполнен; итоговая интеграция после завершения GFT-15. |
-| [GFT-17 — Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | **Кира-2** | ASSIGNED | GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17.2 NEXT (независимые части); зависимые выводы/закрытие после GFT-16. |
+| [GFT-17 — Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | **Кира-2** | ASSIGNED | GFT-17.1–17.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17.3 NEXT (интеграция, gate GFT-16). |
 | [GFT-18 — Интегративная психология одарённости](18_integrative_psychology/README.md) | — | UNREGISTERED | Назначение не подтверждено. |
 | [GFT-19 — Методология психологического анализа](19_analytical_methodology/README.md) | **Кира-4** | BLOCKED | Приостановлена; GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 после готовности GFT-16/17/18. Активная работа Киры-4 перенесена на GFT-15 по указанию пользователя; ответственность за возврат сохранена. |
 | [GFT-20 — Интеграционная аттестация](20_final_assessment/README.md) | — | UNREGISTERED | Назначение не подтверждено; соблюдать условия итоговой аттестации. |
@@ -68,3 +68,5 @@ UNREGISTERED означает отсутствие подтверждённой 
 - 27.11.2026 — Кира-3: независимый checkpoint GFT-16.3 выполнен; финальная интеграция и закрытие GFT-16 BLOCKED_DEPENDENCIES до фактической готовности GFT-15. Владелец сохранён, нового назначения нет.
 
 - 27.11.2026 — Кира-1: GFT-14.1–14.4 завершены в установленном научно-методическом объёме; назначение COMPLETE, handoff GFT-15/18/19/20, Q-14 ограничения сохранены. Нового назначения нет.
+
+- 27.11.2026 — Кира-2: GFT-17.2 завершён в независимом сравнительном объёме; GFT-17.3 NEXT, итоговое закрытие зависит от GFT-16.
