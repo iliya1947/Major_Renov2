@@ -129,3 +129,6 @@ Scatter not pathology; maximum-range mathematical coupling; rarity not specifici
 
 ## GFT-13.4 — 27.11.2026
 Lijbers F(3,71)=84 => p=2.6476575812e-23 (scipy.stats.f.sf), contradicts stated nonsignificance; p<.33 alone does not contradict tiny p. F=.84 => p=.4764495, not a verified correction. Exclude affected omnibus inference, Q-13-source-04 open. No causal or diagnostic overclaim, no duplicate source/cohort or unmarked tail transfer.
+
+
+GFT-16.1 checks: distinguish A0 from A1; no adult IQ from childhood SAT or achievements; no norm precision from nominal ceiling or narrow CI; no causal phenotype from max-index selection. Source anomalies Q-16-source-02/03 excluded. Internal cases T16.1-1–3 only; no independent assessment.

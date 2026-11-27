@@ -232,3 +232,7 @@ GFT-13.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded differential-methodological/clini
 
 ## GFT-13.4 — 27.11.2026
 GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological/clinical-literacy scope). Assignment Кира-2 COMPLETE; handoff to GFT-14/18/19/20, no new assignment. Q-13-tail, adult-direct, measure, SLD-adult, profile-calibration, DLD-DCD-adult OPEN; Q-13-source-01 partial, 02–05 OPEN. Profile/group associations not diagnostic, discrepancy not sufficient, causal compensation heterogeneous/unestablished. T0 unchanged/T1 pending. Reopen on applicable adult-tail evidence, source correction, material guideline change or demonstrated transfer failure. Bounded closure does not resolve empirical gaps.
+
+
+GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded psychometric/sampling methodology; internal self-assessment only). A0 adult observed FSIQ up to 152 (Sixdenier 2025), no separately analysed calibrated A1 tail recovered. Q-16-measure/tail/sampling/source-01 OPEN; Q-16-source-02/03 OPEN; Q-02-tail retained. GFT-16 IN_PROGRESS; GFT-16.2 next local: cognitive-profile and life-trajectory variability, with dependency gate; GFT-15 remains prerequisite for dependent conclusions and final closure. T0 unchanged/T1 pending.
+Q-16-source-02: SB5 bulletin count 933 not reconciled with SD15 normal model; no use. Q-16-source-03: Sixdenier 12/53 vs 26.41%; denominator unresolved, affected percentage not adopted.

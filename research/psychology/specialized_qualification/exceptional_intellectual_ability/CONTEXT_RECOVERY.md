@@ -126,3 +126,7 @@ GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13 COMPLETE_FOR_SPECIFIED_SCOP
 
 ### Кира-4: переключение активной области — 27.11.2026
 По прямому указанию пользователя GFT-19 приостановлена: GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-19.4 BLOCKED_DEPENDENCIES до готовности GFT-16/17/18, владелец сохранён; [handoff](19_analytical_methodology/README.md). Активная область [GFT-15](15_psychological_wellbeing/README.md), GFT-15.1 NEXT; научный старт ещё не выполнен. Выбор обусловлен освобождением зависимостей GFT-16/18. Не запускать GFT-19.4 параллельно с GFT-15 автоматически; чужие назначения и T0/T1 неизменны.
+
+
+## GFT-16.1 — 27.11.2026 (Кира-3)
+GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded psychometric/sampling methodology; internal self-assessment only). A0 adult observed FSIQ up to 152 (Sixdenier 2025), no separately analysed calibrated A1 tail recovered. Q-16-measure/tail/sampling/source-01 OPEN; Q-16-source-02/03 OPEN; Q-02-tail retained. GFT-16 IN_PROGRESS; GFT-16.2 next local: cognitive-profile and life-trajectory variability, with dependency gate; GFT-15 remains prerequisite for dependent conclusions and final closure. T0 unchanged/T1 pending.

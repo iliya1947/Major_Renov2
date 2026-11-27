@@ -21,7 +21,7 @@
 | GFT-13 | Другие дважды исключительные профили | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-13.1–13.4 |
 | GFT-14 | Компенсация и адаптация | IN_PROGRESS — GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE |
 | GFT-15 | Психологическое благополучие | QUEUED |
-| GFT-16 | Экстремальный диапазон интеллекта | QUEUED |
+| GFT-16 | Экстремальный диапазон интеллекта | IN_PROGRESS — GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16.2 NEXT (Кира-3) |
 | GFT-17 | Нелинейность интеллектуальных различий | QUEUED |
 | GFT-18 | Интегративная психология одарённости | QUEUED |
 | GFT-19 | Методология психологического анализа | IN_PROGRESS — GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 BLOCKED_DEPENDENCIES (Кира-4, GFT-16/17/18) |
@@ -107,3 +107,6 @@ GFT-13.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded differential-methodological/clini
 
 ## GFT-13.4 — 27.11.2026 (локальный handoff)
 GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological/clinical-literacy scope). Assignment Кира-2 COMPLETE; handoff to GFT-14/18/19/20, no new assignment. Q-13-tail, adult-direct, measure, SLD-adult, profile-calibration, DLD-DCD-adult OPEN; Q-13-source-01 partial, 02–05 OPEN. Profile/group associations not diagnostic, discrepancy not sufficient, causal compensation heterogeneous/unestablished. T0 unchanged/T1 pending. Фактический счётчик: 13/20 областей, 58 завершённых единиц; исключены незавершённые карточки (GFT-16.1). PARALLEL: завершение назначения Кира-2, без автоматического перехода.
+
+
+GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded psychometric/sampling methodology; internal self-assessment only). A0 adult observed FSIQ up to 152 (Sixdenier 2025), no separately analysed calibrated A1 tail recovered. Q-16-measure/tail/sampling/source-01 OPEN; Q-16-source-02/03 OPEN; Q-02-tail retained. GFT-16 IN_PROGRESS; GFT-16.2 next local: cognitive-profile and life-trajectory variability, with dependency gate; GFT-15 remains prerequisite for dependent conclusions and final closure. T0 unchanged/T1 pending.

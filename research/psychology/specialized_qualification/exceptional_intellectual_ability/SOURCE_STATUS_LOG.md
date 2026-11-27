@@ -343,3 +343,6 @@ E19.3-01 Oxford author abstract/metadata, PubMed reCAPTCHA; E19.3-02 PubMed abst
 
 ## GFT-13.4 — 27.11.2026
 [GFT-13.4](13_other_2e_profiles/GFT-13.4_integration_transfer_and_sufficiency_audit.md): Clarke Rutgers author abstract and Van Viersen 2015 Springer discussion directly re-read; Doobay original-text mirror tables, Lijbers publisher text, Wilson/Atmaca author abstracts/reference list and NICE current recommendations indexed. Lijbers direct DOI cache miss. No full manual/article or exhaustive overlap/retraction audit. Q-13-source-01 partial; 02–05 open.
+
+
+GFT-16.1 continuation: Sixdenier publisher abstract and article method/results excerpts via RG; Lang PubMed and author manuscript methods (publisher restricted/IR 403); SB5 bulletin extracted text, screenshot cache miss; Sansone measure section; SMPY project page and Makel/Lubinski abstracts; GRoNC publisher sections. Urban v2 remains index only, Pearson FAQ cache miss, technical manuals not obtained. No full correction/retraction audit.
