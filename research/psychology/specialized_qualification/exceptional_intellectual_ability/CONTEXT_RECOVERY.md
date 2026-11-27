@@ -7,7 +7,7 @@
 3. Сверить evidence/error/open questions/decisions и статус источников, если релевантно.
 4. При противоречии остановить предметную работу, восстановить актуальное состояние; не угадывать.
 
-Текущая точка: GFT-01–07 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 IN_PROGRESS (GFT-08.1–08.3 завершены), 7/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail и Q-08-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `08_personality_development/GFT-08.3_adult_gifted_identity_adaptation_and_person_environment_fit.md`. Следующая единица: GFT-08.4 — развитие когнитивных стратегий, самообучение и накопленный опыт. Персональные данные остаются вне репозитория.
+Текущая точка: GFT-01–07 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 IN_PROGRESS (GFT-08.1–08.4 завершены), 7/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail и Q-08-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `08_personality_development/GFT-08.4_cognitive_strategy_development_self_directed_learning_and_experience.md`. Следующая единица: GFT-08.5 — интеграция, практический перенос и аудит достаточности GFT-08. Персональные данные остаются вне репозитория.
 
 Q-02-tail: не подтверждена локальная точность экстремального взрослого диапазона, полные технические руководства не получены; ограничение обязательно учитывать в GFT-03–20.
 
@@ -36,3 +36,5 @@ Q-08-tail OPEN: measured adult IQ150–160+ longitudinal rank/level/profile, slo
 Q-08-asynchrony UNIVERSAL_MECHANISM_NOT_ESTABLISHED. Q-08-tail also covers profile dispersion and cross-domain trajectories/functioning in measured adult IQ150–160+. Q-08-source-01 OPEN_FOR_CLARIFICATION (2026 single-group SIP study limitations wording); no comparator inference.
 
 Q-08-tail also covers measured adult IQ150–160+ identity/adaptation/fit. Q-08-source-02 OPEN_FOR_CLARIFICATION (Poirier 2025 Table5/results numerical discrepancies); Q-08-source-01 remains open.
+
+Q-08-tail OPEN: specific longitudinal strategy development, self-directed learning and experience effects in measured adult IQ150–160+ not established; Q-08-source-03 corrected main model estimates; initial GFT-08.4 pre-search card provenance missing (documented process deviation).
