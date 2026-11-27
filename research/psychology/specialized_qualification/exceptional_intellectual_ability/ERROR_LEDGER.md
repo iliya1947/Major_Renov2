@@ -97,3 +97,7 @@ Do not equate boredom/hyperfocus, relative IQ-index scatter or normal absolute t
 
 ## GFT-12.2 — 27.11.2026
 Separate mean, within-person variance, time-on-task slope, actual output, engagement and disengagement. RTV and hyperfocus not diagnostic, no assumed improved performance or unique neural mechanism. Contrast clinical controls, task/context, measurement and selection. Do not infer IQ or ADHD from absorbed activity.
+
+
+## GFT-12.3 — 27.11.2026
+Do not equate desire with implementation, monetary delay discounting with motor stopping, reward BOLD with individual dopamine level, or effortful choice with actual effort. Different significance across subgroups does not establish moderation. No high-IQ compensation guarantee or diagnostic threshold.

@@ -1,6 +1,6 @@
 # Очередь
 
-**Состояние: IN_PROGRESS.** GFT-01–11 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 11/20 областей завершены; этап III завершён в установленном объёме. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail, Q-10-tail, Q-11-tail и Q-12-tail OPEN. GFT-12 IN_PROGRESS; GFT-12.1–12.2 COMPLETE_FOR_SPECIFIED_SCOPE. T0 сохранена, T1 ожидается. Следующая единица: GFT-12.3 — мотивация, вознаграждение, импульсивность и исполнительный контроль при СДВГ и высоком интеллекте.
+**Состояние: IN_PROGRESS.** GFT-01–11 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 11/20 областей завершены; этап III завершён в установленном объёме. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail, Q-10-tail, Q-11-tail и Q-12-tail OPEN. GFT-12 IN_PROGRESS; GFT-12.1–12.3 COMPLETE_FOR_SPECIFIED_SCOPE. T0 сохранена, T1 ожидается. Следующая единица: GFT-12.4 — интеграция одарённости и СДВГ, практический перенос и аудит достаточности GFT-12.
 
 | ID | Задача | Статус |
 |---|---|---|
@@ -15,7 +15,7 @@
 | GFT-09 | Мотивация | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-09.1–09.5 |
 | GFT-10 | Эмоциональная психология | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-10.1–10.4 |
 | GFT-11 | Социальная психология | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-11.1–11.5 |
-| GFT-12 | Одарённость и СДВГ | IN_PROGRESS — GFT-12.1–12.2 |
+| GFT-12 | Одарённость и СДВГ | IN_PROGRESS — GFT-12.1–12.3 |
 | GFT-13 | Другие дважды исключительные профили | QUEUED |
 | GFT-14 | Компенсация и адаптация | QUEUED |
 | GFT-15 | Психологическое благополучие | QUEUED |
@@ -75,3 +75,7 @@ GFT-12 IN_PROGRESS; GFT-12.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general clini
 
 GFT-12 IN_PROGRESS; GFT-12.1–12.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level). 11/20 domains, 47 bounded units. Q-12-tail OPEN also for separately measured adult IQ150–160+ attentional variability, hyperfocus and disengagement; Q-12-HF OPEN (construct overlap, measurement, objective and incremental validity; no diagnostic specificity established); Q-12-RTV NONSPECIFIC_GROUP_LEVEL_ASSOCIATION; Q-12-source-01 OPEN after repeat publisher access failure; Q-12-prevalence/measure and prior tail limitations retained. Next GFT-12.3 — мотивация, вознаграждение, импульсивность и исполнительный контроль при СДВГ и высоком интеллекте. T0 unchanged/T1 pending.
 Следующая единица: GFT-12.3 — мотивация, вознаграждение, импульсивность и исполнительный контроль при СДВГ и высоком интеллекте.
+
+
+GFT-12 IN_PROGRESS; GFT-12.1–12.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level). 11/20 domains, 48 bounded units. Q-12-tail OPEN also for separately measured adult IQ150–160+ reward valuation, effort allocation, impulsivity and executive control; Q-12-motivation HETEROGENEOUS_TASK_DEPENDENT_ASSOCIATIONS (single motivational deficit and universal dopamine explanation not established); Q-12-EF GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-12-source-01 OPEN (repeat Nature redirect/PMC cache miss); Q-12-HF/RTV/prevalence/measure and earlier tail limitations retained. Next GFT-12.4 — интеграция одарённости и СДВГ, практический перенос и аудит достаточности GFT-12. T0 unchanged/T1 pending.
+Следующая единица: GFT-12.4 — интеграция одарённости и СДВГ, практический перенос и аудит достаточности GFT-12.

@@ -94,3 +94,7 @@ GFT-12 IN_PROGRESS; GFT-12.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general clini
 
 ## GFT-12.2 — 27.11.2026
 GFT-12 IN_PROGRESS; GFT-12.1–12.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level). 11/20 domains, 47 bounded units. Q-12-tail OPEN also for separately measured adult IQ150–160+ attentional variability, hyperfocus and disengagement; Q-12-HF OPEN (construct overlap, measurement, objective and incremental validity; no diagnostic specificity established); Q-12-RTV NONSPECIFIC_GROUP_LEVEL_ASSOCIATION; Q-12-source-01 OPEN after repeat publisher access failure; Q-12-prevalence/measure and prior tail limitations retained. Next GFT-12.3 — мотивация, вознаграждение, импульсивность и исполнительный контроль при СДВГ и высоком интеллекте. T0 unchanged/T1 pending.
+
+
+## GFT-12.3 — 27.11.2026
+GFT-12 IN_PROGRESS; GFT-12.1–12.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level). 11/20 domains, 48 bounded units. Q-12-tail OPEN also for separately measured adult IQ150–160+ reward valuation, effort allocation, impulsivity and executive control; Q-12-motivation HETEROGENEOUS_TASK_DEPENDENT_ASSOCIATIONS (single motivational deficit and universal dopamine explanation not established); Q-12-EF GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-12-source-01 OPEN (repeat Nature redirect/PMC cache miss); Q-12-HF/RTV/prevalence/measure and earlier tail limitations retained. Next GFT-12.4 — интеграция одарённости и СДВГ, практический перенос и аудит достаточности GFT-12. T0 unchanged/T1 pending.

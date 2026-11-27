@@ -294,3 +294,9 @@ Direct Cambridge author abstracts (Antshel 2009/2010), Springer selected section
 
 ## GFT-12.2 — 27.11.2026
 Groen 2020 institutional author abstract, Ashinoff 2021/Tucha 2015 Springer sections and Marx 2013 PLOS sections; other sources indexed author excerpts only. PubMed/PMC CAPTCHA, Elsevier/SAGE403, Nature redirect (Q-12-source-01 rechecked), Glasgow cache miss. No full article/PDF read or raw-data reanalysis. Q-12-tail OPEN also for separately measured adult IQ150–160+ attentional variability, hyperfocus and disengagement; Q-12-HF OPEN (construct overlap, measurement, objective and incremental validity; no diagnostic specificity established); Q-12-RTV NONSPECIFIC_GROUP_LEVEL_ASSOCIATION; Q-12-source-01 OPEN after repeat publisher access failure; Q-12-prevalence/measure and prior tail limitations retained.
+
+
+## GFT-12.3 — 27.11.2026
+Direct selected Springer Senkowski 2024, Frontiers Wagner 2024, Nature 2025 effort sections; KCL Milioni 2017 and Cambridge Boonstra 2005/Antshel 2010 abstracts. Other results from indexed primary abstracts/excerpts, PMC CAPTCHA; Q-12-source-01 Nature redirect/PMC cache miss. No full papers or raw-data analysis. Q-12-tail OPEN also for separately measured adult IQ150–160+ reward valuation, effort allocation, impulsivity and executive control; Q-12-motivation HETEROGENEOUS_TASK_DEPENDENT_ASSOCIATIONS (single motivational deficit and universal dopamine explanation not established); Q-12-EF GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-12-source-01 OPEN (repeat Nature redirect/PMC cache miss); Q-12-HF/RTV/prevalence/measure and earlier tail limitations retained.
+
+Q-12-source-02 OPEN: complete reward receipt and 2023 effort primary results inaccessible, exact contrasts and dependence not exhaustively verified. Additional PLOS incentive and Nature 2025 effort sections checked; historical checkpoint 38beecf preserved in canonical GFT-12.3.
