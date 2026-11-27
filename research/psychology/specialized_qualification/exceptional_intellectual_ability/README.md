@@ -4,7 +4,7 @@
 
 Цель: углубить психологическую компетентность в работе с высокими и исключительными интеллектуальными способностями взрослых, включая диапазон IQ 150–160+, дважды исключительные профили и интегративный анализ. Диапазоны служат предметом исследования, а не универсальными диагностическими категориями. Не подразумевается наличие особого общего профиля у всех одарённых людей.
 
-20 областей, 6 этапов, 38 ограниченных единиц завершено (GFT-01.1–01.3, GFT-02.1–02.3, GFT-03.1–03.4, GFT-04.1–04.4, GFT-05.1–05.4, GFT-06.1–06.4, GFT-07.1–07.4, GFT-08.1–08.5, GFT-09.1–09.5, GFT-10.1–10.2), 9/20 областей завершены в установленном объёме. Точная полнота программы подлежит научной проверке по мере изучения. Самостоятельное направление, не продолжение другой специализации. Общие правила кабинета: [AGENT](../../AGENT.md), [PRIVACY](../../PRIVACY.md), [EVIDENCE_POLICY](../../EVIDENCE_POLICY.md), [WORKFLOW](../../WORKFLOW.md). Локальные файлы не заменяют эти правила. Никаких индивидуальных данных, клинической сертификации или утверждений о переобучении ИИ.
+20 областей, 6 этапов, 39 ограниченных единиц завершено (GFT-01.1–01.3, GFT-02.1–02.3, GFT-03.1–03.4, GFT-04.1–04.4, GFT-05.1–05.4, GFT-06.1–06.4, GFT-07.1–07.4, GFT-08.1–08.5, GFT-09.1–09.5, GFT-10.1–10.3), 9/20 областей завершены в установленном объёме. Точная полнота программы подлежит научной проверке по мере изучения. Самостоятельное направление, не продолжение другой специализации. Общие правила кабинета: [AGENT](../../AGENT.md), [PRIVACY](../../PRIVACY.md), [EVIDENCE_POLICY](../../EVIDENCE_POLICY.md), [WORKFLOW](../../WORKFLOW.md). Локальные файлы не заменяют эти правила. Никаких индивидуальных данных, клинической сертификации или утверждений о переобучении ИИ.
 
 ## Навигация
 - [CURRICULUM](CURRICULUM.md)
@@ -46,7 +46,7 @@
 
 Аудит HEAD c656858f: расширены 04/05/08/18/19/20, 20 областей/6 этапов сохранены. [T0](20_final_assessment/T0_BASELINE.md) — исходная практическая самопроверка; T1 после программы. Независимая оценка отсутствует.
 
-Текущий маршрут: GFT-01–09 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 9/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail и Q-10-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-10.3 — эмоциональная регуляция, гибкость и когнитивные способности.
+Текущий маршрут: GFT-01–09 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 9/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail и Q-10-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-10.4 — интеграция эмоциональной психологии, практический перенос и аудит достаточности GFT-10.
 
 GFT-09 IN_PROGRESS; GFT-09.1 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN: measured adult IQ150–160+ curiosity, NFC, interest and intellectual engagement not established. Q-09-source-01 OPEN_FOR_CLARIFICATION: Meier 2014 abstract N921 vs final sample N920. Initial pre-search card provenance incomplete.
 
@@ -57,10 +57,13 @@ GFT-09 IN_PROGRESS; GFT-09.1–09.3 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN
 GFT-09 IN_PROGRESS; GFT-09.1–09.4 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open.
 
 GFT-09 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-09.1–09.5 COMPLETE_FOR_SPECIFIED_SCOPE; 9/20 areas, 36 bounded units. Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED.
-Следующая единица: GFT-10.3 — эмоциональная регуляция, гибкость и когнитивные способности.
+Следующая единица: GFT-10.4 — интеграция эмоциональной психологии, практический перенос и аудит достаточности GFT-10.
 
 GFT-10 IN_PROGRESS; GFT-10.1 COMPLETE_FOR_SPECIFIED_SCOPE. Q-10-tail OPEN: measured adult IQ150–160+ emotional sensitivity, intensity and sensory reactivity not established. Q-10-OE UNIVERSAL_OR_DIAGNOSTIC_PHENOTYPE_NOT_ESTABLISHED; updated Olszewski-Kubilius et al. 2026 meta-analysis constrains 2016 synthesis, ascertainment and publication bias matter.
-Следующая единица: GFT-10.3 — эмоциональная регуляция, гибкость и когнитивные способности.
+Следующая единица: GFT-10.4 — интеграция эмоциональной психологии, практический перенос и аудит достаточности GFT-10.
 
 GFT-10 IN_PROGRESS; GFT-10.1–10.2 COMPLETE_FOR_SPECIFIED_SCOPE. Q-10-tail OPEN also for measured adult IQ150–160+ emotion differentiation, emotion knowledge and EI. Q-10-EI UNIVERSAL_ADVANTAGE_NOT_ESTABLISHED; Q-10-measure OPEN (instrument/version/scoring and precision); Q-10-OE retained. Ferrándiz 2026 dimension-specific synthesis constrains older aggregate estimates.
-Следующая единица: GFT-10.3 — эмоциональная регуляция, гибкость и когнитивные способности.
+Следующая единица: GFT-10.4 — интеграция эмоциональной психологии, практический перенос и аудит достаточности GFT-10.
+
+GFT-10 IN_PROGRESS; GFT-10.1–10.3 COMPLETE_FOR_SPECIFIED_SCOPE. Q-10-tail OPEN also for measured adult IQ150–160+ strategy choice, efficacy and regulatory flexibility. Q-10-flex UNIVERSAL_STRATEGY_SITUATION_RULE_NOT_ESTABLISHED; Q-10-OE/EI/measure retained.
+Следующая единица: GFT-10.4 — интеграция эмоциональной психологии, практический перенос и аудит достаточности GFT-10.
