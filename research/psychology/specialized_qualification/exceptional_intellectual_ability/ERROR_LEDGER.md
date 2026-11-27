@@ -73,3 +73,7 @@ GFT-10.4: distinguish within-person task activation from between-person ability 
 
 ## GFT-11.1 — 27.11.2026
 GFT-11.1: distinguish perspective taking, obtaining information, inference confidence, calibration and actual accuracy. Social cognition task scores depend on task and criterion; no universal gifted social phenotype. Ceiling effects may limit discrimination but do not prove hidden advantage. Target report is an imperfect criterion; separate target, perceiver, dyad and context. Reused emotion-recognition and Mensa data not independent evidence.
+
+
+## GFT-11.2 — 27.11.2026
+GFT-11.2: distinguish emotion sharing, distress, concern, intended and enacted help and recipient benefit. Cognitive ability/conditional cooperation cannot establish moral character; perceived impact is not actual benefit, self-report is not action. Stanine upper category cannot resolve IQ150–160+. 2023 mindfulness study reports inconsistent t/p for negative slope; withhold numerical inference; cross-sectional association cannot establish intervention effect.
