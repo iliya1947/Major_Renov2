@@ -7,7 +7,7 @@
 3. Сверить evidence/error/open questions/decisions и статус источников, если релевантно.
 4. При противоречии остановить предметную работу, восстановить актуальное состояние; не угадывать.
 
-Текущая точка: GFT-01–08 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 8/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail и Q-08-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `08_personality_development/GFT-08.5_development_integration_transfer_and_sufficiency_audit.md`. Следующая единица: GFT-09.1 — любознательность, потребность в познании, интерес и интеллектуальная вовлечённость. Персональные данные остаются вне репозитория.
+Текущая точка: GFT-01–08 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 8/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail Q-08-tail и Q-09-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `09_motivation/GFT-09.1_curiosity_need_for_cognition_interest_and_intellectual_engagement.md`. Следующая единица: GFT-09.2 — сложность, новизна, скука и требования задачи. Персональные данные остаются вне репозитория.
 
 Q-02-tail: не подтверждена локальная точность экстремального взрослого диапазона, полные технические руководства не получены; ограничение обязательно учитывать в GFT-03–20.
 
@@ -40,3 +40,5 @@ Q-08-tail also covers measured adult IQ150–160+ identity/adaptation/fit. Q-08-
 Q-08-tail OPEN: specific longitudinal strategy development, self-directed learning and experience effects in measured adult IQ150–160+ not established; Q-08-source-03 corrected main model estimates; initial GFT-08.4 pre-search card provenance missing (documented process deviation).
 
 Q-08-tail OPEN: measured adult IQ150–160+ longitudinal level/rank/profile, cross-domain development, identity/fit and strategy trajectories not established. Q-08-asynchrony UNIVERSAL_MECHANISM_NOT_ESTABLISHED; Q-08-source-01/02/04 OPEN_FOR_CLARIFICATION; Q-08-source-03 corrected main model. 08.4 initial card provenance limitation retained.
+
+GFT-09 IN_PROGRESS; GFT-09.1 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN: measured adult IQ150–160+ curiosity, NFC, interest and intellectual engagement not established. Q-09-source-01 OPEN_FOR_CLARIFICATION: Meier 2014 abstract N921 vs final sample N920. Initial pre-search card provenance incomplete.
