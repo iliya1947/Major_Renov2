@@ -250,3 +250,7 @@ E1–3 direct ERIC/York St John/PubMed author abstracts, E8 Frontiers HTML excer
 
 ## GFT-09.5 — 27.11.2026
 E5 Lund author abstract read directly; E3 extracted PDF Table 5/results inspected, screenshots p6/p7 failed cache miss; no visual verification; publisher DOI403, MDPI429. Other indexed author/published text. No full article read end-to-end, no exhaustive correction/overlap audit. Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED.
+
+
+## GFT-10.1 — 27.11.2026
+E1 Becerra, E2 and E8 ERIC, E3 SAGE and E7 Springer full author abstracts directly read; E8 publisher summary/coding appendix inspected; E7 early unedited version. Other indexed author texts/abstracts; CAPTCHA/429/403/cache misses. No PDF opened, no full article read, no exhaustive correction/overlap audit. Q-10-tail OPEN: measured adult IQ150–160+ emotional sensitivity, intensity and sensory reactivity not established. Q-10-OE UNIVERSAL_OR_DIAGNOSTIC_PHENOTYPE_NOT_ESTABLISHED; updated 2026 meta-analysis constrains 2016 synthesis; ascertainment and publication bias matter.
