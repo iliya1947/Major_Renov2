@@ -357,3 +357,7 @@
 
 ## GFT-11.5 — 27.11.2026
 [GFT-11.5](11_social_psychology/GFT-11.5_social_psychology_integration_transfer_and_sufficiency_audit.md): coverage and contradictions audit, conditional person–partner–context–time transfer, prior evidence not independent. Q-02–11-tail OPEN; Q-11-measure and Q-11-source-01–04 OPEN; Q-11-empathy, Q-11-gap and Q-11-fit universal profile/threshold rules NOT_ESTABLISHED. No newly established extreme-tail phenotype.
+
+
+## GFT-12.1 — 27.11.2026
+[GFT-12.1](12_giftedness_and_adhd/GFT-12.1_definitions_differential_assessment_and_comparative_evidence.md): E1 diagnostic framework; E2 adult IQ-matched comparative studies likely overlapping; E3 normative comparison; E4 protective absolute associations; E5 youth four-group contrasts; E6 youth cohorts; E7 reviews/ascertainment; E8 inaccessible 2026 study. Q-12-tail OPEN (separately measured adult IQ150–160+ ADHD phenotype, prevalence and differential validity not established); Q-12-prevalence OPEN (sampling, case definitions, denominators, no universal rate); Q-12-measure OPEN (within-person discrepancies not diagnostic; absolute/relative criteria and ecological validity); Q-12-source-01 OPEN (2026 pediatric nonlinear study full results unavailable; no adopted effect). Prior Q-02–11-tail and Q-11-source-04 retained.

@@ -286,3 +286,7 @@ UWA, Groningen, Murdoch, ERIC author abstracts and selected SAGE HTML methods/re
 
 ## GFT-11.5 — 27.11.2026
 Selected canonical sections reviewed; institutional author abstracts Yeung 2024, Eyal 2018, Gignac & Zajenkowski 2019 reread; Hornsey 2026 publisher abstract excerpt and index excerpts, PubMed CAPTCHA. No full articles/PDFs, raw-data reanalysis, complete correction/overlap audit or new independent samples. Q-02–11-tail OPEN; Q-11-measure and Q-11-source-01–04 OPEN; Q-11-empathy, Q-11-gap and Q-11-fit universal profile/threshold rules NOT_ESTABLISHED. No newly established extreme-tail phenotype.
+
+
+## GFT-12.1 — 27.11.2026
+Direct Cambridge author abstracts (Antshel 2009/2010), Springer selected sections Cadenas 2020, PubMed abstracts Baggio 2020/Rommelse 2016/Despature 2023, WHO CDDR extracted pp142–149 (screenshots failed), CDC 2026 adult page, NICE older NCBI copy and current index. DSM-5-TR full manual and supplements not independently checked; publisher/cache/CAPTCHA failures, 2026 youth paper results not verified. No full article/manual or raw-data analysis. Q-12-tail OPEN (separately measured adult IQ150–160+ ADHD phenotype, prevalence and differential validity not established); Q-12-prevalence OPEN (sampling, case definitions, denominators, no universal rate); Q-12-measure OPEN (within-person discrepancies not diagnostic; absolute/relative criteria and ecological validity); Q-12-source-01 OPEN (2026 pediatric nonlinear study full results unavailable; no adopted effect). Prior Q-02–11-tail and Q-11-source-04 retained.

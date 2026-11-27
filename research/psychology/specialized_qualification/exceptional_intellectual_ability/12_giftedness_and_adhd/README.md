@@ -1,6 +1,6 @@
 # GFT-12 — Одарённость и СДВГ
 
-Статус: QUEUED. Исследования не начаты; научные выводы отсутствуют.
+Статус: IN_PROGRESS. GFT-12.1 COMPLETE_FOR_SPECIFIED_SCOPE; Q-12-tail OPEN.
 
 ## Программа
 Внимание, гиперфокус, мотивация, импульсивность, исполнительные функции.
@@ -19,3 +19,10 @@
 5. Сохранить блоки в этом каталоге и обновить локальные реестры; закрытие по [ASSESSMENT_PROTOCOL](../ASSESSMENT_PROTOCOL.md).
 
 Навигация: [план](../CURRICULUM.md) · [карта](../RESEARCH_MAP.md) · [очередь](../RESEARCH_QUEUE.md) · [шаблон](../RESEARCH_TEMPLATE.md).
+
+
+## Научные единицы
+- [GFT-12.1 — Definitions, differential assessment and comparative evidence](GFT-12.1_definitions_differential_assessment_and_comparative_evidence.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- GFT-12.2 — внимание, вариативность продуктивности и гиперфокус при СДВГ и высоком интеллекте: QUEUED.
+
+Q-12-tail OPEN (separately measured adult IQ150–160+ ADHD phenotype, prevalence and differential validity not established); Q-12-prevalence OPEN (sampling, case definitions, denominators, no universal rate); Q-12-measure OPEN (within-person discrepancies not diagnostic; absolute/relative criteria and ecological validity); Q-12-source-01 OPEN (2026 pediatric nonlinear study full results unavailable; no adopted effect). Prior Q-02–11-tail and Q-11-source-04 retained.

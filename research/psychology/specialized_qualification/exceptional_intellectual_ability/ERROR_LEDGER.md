@@ -89,3 +89,7 @@ Separate formation, selection, attraction, established relationship quality and 
 
 ## GFT-11.5 — 27.11.2026
 Do not collapse social inference, empathy, helping, communication, compatibility and adaptation into a single gifted phenotype. Correct observed-event prediction does not prove motive accuracy; relationship-stage selection and dependence of evidence matter. Preserve source anomalies and no-tail boundaries.
+
+
+## GFT-12.1 — 27.11.2026
+Do not equate boredom/hyperfocus, relative IQ-index scatter or normal absolute test scores with ADHD presence/absence. Actual functional impairment, developmental history, context, alternatives and supports matter. Avoid using selected sample/review percentages as population prevalence; no IQ-tail diagnostic rule.
