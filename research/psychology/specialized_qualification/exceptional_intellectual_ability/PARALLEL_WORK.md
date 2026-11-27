@@ -11,7 +11,7 @@
 | GFT-01–12 | — | HISTORICAL_COMPLETE | Завершены в установленном объёме; сохранять результаты и открытые ограничения. |
 | [GFT-13 — Другие дважды исключительные профили](13_other_2e_profiles/README.md) | **Кира-2** | COMPLETE | GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; handoff в README GFT-13; открытые ограничения сохранены. Нового назначения нет. |
 | [GFT-14 — Компенсация и адаптация](14_compensation_and_adaptation/README.md) | **Кира-1** | COMPLETE | GFT-14.1–14.4 COMPLETE_FOR_SPECIFIED_SCOPE; handoff in GFT-14.4 and README; no new assignment. |
-| [GFT-15 — Психологическое благополучие](15_psychological_wellbeing/README.md) | **Кира-4** | ASSIGNED | Активная область; GFT-15.1–15.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15.3 NEXT, verify GFT-14. |
+| [GFT-15 — Психологическое благополучие](15_psychological_wellbeing/README.md) | **Кира-4** | COMPLETE | GFT-15.1–15.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-14 verified, handoff in GFT-15.3 and README. No new active assignment; GFT-19 remains BLOCKED. |
 | [GFT-16 — Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | **Кира-3** | BLOCKED | GFT-16.1–16.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16.3 BLOCKED_DEPENDENCIES: независимый checkpoint выполнен; итоговая интеграция после завершения GFT-15. |
 | [GFT-17 — Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | **Кира-2** | ASSIGNED | GFT-17.1–17.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17.3 NEXT (интеграция, gate GFT-16). |
 | [GFT-18 — Интегративная психология одарённости](18_integrative_psychology/README.md) | — | UNREGISTERED | Назначение не подтверждено. |
@@ -70,3 +70,5 @@ UNREGISTERED означает отсутствие подтверждённой 
 - 27.11.2026 — Кира-1: GFT-14.1–14.4 завершены в установленном научно-методическом объёме; назначение COMPLETE, handoff GFT-15/18/19/20, Q-14 ограничения сохранены. Нового назначения нет.
 
 - 27.11.2026 — Кира-2: GFT-17.2 завершён в независимом сравнительном объёме; GFT-17.3 NEXT, итоговое закрытие зависит от GFT-16.
+
+- 27.11.2026 — Кира-4: GFT-15.1–15.3 завершены в установленном научно-методическом объёме; GFT-14.4 проверена, назначение COMPLETE. Handoff GFT-16/18/19/20, Q-15 ограничения сохранены. GFT-19 остаётся BLOCKED; другие назначения не менялись.

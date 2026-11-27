@@ -152,3 +152,6 @@ GFT-16.3 BLOCKED_DEPENDENCIES (independent integration/sufficiency checkpoint co
 
 ## GFT-17.2 — 27.11.2026 (локальный маршрут)
 GFT-17.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded independent comparative evidence and methodological interpretation); GFT-17 IN_PROGRESS. Q-17-tail/invariance OPEN; Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-SLODR supported in many tested samples, mechanism and adult extreme-tail extrapolation OPEN; Q-17-source-01 partially resolved (Jauk/Weiss selected methods/results); Q-17-source-02 OPEN (newer differentiation studies' full methods/overlap, adult-tail support, cohort-specific outcome curvature); earlier Q-02/07/16 limitations retained. GFT-17.3 next: integration/sufficiency audit; final closure requires actual GFT-16 completion. T0 unchanged/T1 pending. Фактический счётчик 14/20 областей, 66 завершённых единиц; исключены незавершённые карточки (GFT-16.3). PARALLEL: Кира-2.
+
+### Локальный checkpoint GFT-15 — 27.11.2026 (Кира-4)
+[GFT-15.3](15_psychological_wellbeing/GFT-15.3_clinical_boundaries_integration_and_sufficiency_audit.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15 COMPLETE_FOR_SPECIFIED_SCOPE, assignment COMPLETE; GFT-14.4 verified. Handoff GFT-16/18/19/20; Q-15-tail/source-01/02/03/04 OPEN. GFT-19.4 remains blocked pending GFT-16/17/18, no new active assignment. T0/T1 unchanged.
