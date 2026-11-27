@@ -123,3 +123,7 @@ Q-09-tail OPEN: measured adult IQ150–160+ curiosity, NFC, interest and intelle
 
 ## GFT-09.2 — 27.11.2026
 Q-09-tail OPEN also for measured adult IQ150–160+ challenge preference, novelty, boredom and task demands. Q-09-source-01 remains open. Pre-search card committed before public search in GFT-09.2. No universal boredom/complexity mechanism established. Next GFT-09.3 — автономия, цели и мотивационная регуляция.
+
+
+## GFT-09.3 — 27.11.2026
+Q-09-tail OPEN also for measured adult IQ150–160+ autonomy/goal motives, implementation and adjustment. Q-09-source-01/02 OPEN_FOR_CLARIFICATION; Hornstra 2023 abstract vs educational relevance statement disagree on direction of change in external regulation and amotivation. Next GFT-09.4 — перфекционизм, стандарты, мотивы достижения и издержки.
