@@ -1,0 +1,10 @@
+# GFT-11.4 — Social compatibility, closeness and adaptation
+
+27.11.2026. IN_PROGRESS. Source HEAD 20421596b61aa0f75000677901aef9ce1c85b8e6. Prospective question card.
+1. Question: what does intellectual ability, partner similarity and person-environment fit predict about social connection, intimacy and adaptation, and under what conditions?
+2. Separate assortment/partner selection, opportunity, perceived similarity, objective cognitive similarity, relationship satisfaction, responsiveness, friendship, loneliness, desired solitude, network size, social functioning and well-being.
+3. Populations: general adults, longitudinal cohorts, gifted youth, selected gifted adults, measured high-ability adults and separately measured IQ150–160+ adults. No unmarked transfer.
+4. Seek primary studies, longitudinal and dyadic designs, meta-analyses, explicit null and opposing results. Search gifted adult social adjustment, partner IQ similarity and relationship quality, actual vs perceived similarity, loneliness and social support, extreme range.
+5. Alternatives: age, education, socioeconomic status, shared settings, interests/values, attachment, personality, mental health, selection/recruitment, relationship duration and cultural context. Distinguish opportunity to meet from preference and consequences of similarity after formation.
+6. Predictions: if cognitive similarity is sufficient, it should predict outcomes after considering other partner properties and sampling; if responsiveness/opportunity explains context-dependent changes, closeness can change without ability change. Neither universal benefit nor deficit assumed. No diagnosis, IQ inference, or deterministic relationship advice.
+7. Closure: bounded general scientific-methodological synthesis, source access and alternatives, three invented cases with updates; six 0–2 categories all 2, no critical error; internal self-assessment explicitly non-independent. Tail gap remains open absent suitable evidence. Privacy: public science and invented cases only.
