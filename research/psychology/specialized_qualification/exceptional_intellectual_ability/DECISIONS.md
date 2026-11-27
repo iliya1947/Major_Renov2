@@ -46,3 +46,7 @@
 - D-023 (26.11.2026): GFT-08.2 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-08 IN_PROGRESS. Asynchrony descriptive hypothesis, not universal validated mechanism; relative weakness not impairment, cross-sectional discrepancy not longitudinal change. Q-08-tail OPEN; Q-08-source-01 wording clarification OPEN. Next 08.3 identity/adaptation/fit per program; T0 unchanged, internal assessment only; 7/20 domains, 28 bounded units.
 
 - D-024 (26.11.2026): GFT-08.3 COMPLETE_FOR_SPECIFIED_SCOPE; identity, ability, selection and contextual fit separate; lived experience not diagnostic or causal evidence. Q-08-tail OPEN; Q-08-source-02 open for clarification. Next 08.4 strategy development/self-learning per curriculum; 7/20 domains, 29 bounded units, internal assessment only, T0 unchanged.
+
+
+## GFT-09.5 — 27.11.2026
+GFT-09.5: GFT-09 closed for specified general scientific-methodological scope, 9/20 domains and 36 bounded units. Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED. Next GFT-10.1 — эмоциональная чувствительность, интенсивность и сверхвозбудимость per program. Internal assessment only; T0 unchanged, T1 pending.
