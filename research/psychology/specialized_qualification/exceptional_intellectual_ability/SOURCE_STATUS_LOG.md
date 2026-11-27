@@ -308,3 +308,6 @@ Direct author abstracts Antshel 2009/2010, Groen 2020, Chong 2023 and von Rhein 
 
 ## GFT-13.1 — 27.11.2026
 [GFT-13.1](13_other_2e_profiles/GFT-13.1_autism_high_ability_differential_and_comparative_evidence.md): Doobay original-text mirror methods/tables1–3/results, Wilson publisher table5, Clarke Rutgers author abstract, Cancino-Barros selected publisher results directly inspected; other adopted sources indexed abstracts/results as specified. NICE403, PMC CAPTCHA, MDPI429, Ashwood timeout. Full current manuals and complete articles not verified. Q-13-source-01 partial, 02/03 open; no exact inaccessible estimates adopted.
+
+## 27.11.2026 — GFT-19.1
+- E19.1-01/02: author indexed abstract/sections, direct PMC reCAPTCHA; reply indexed only. E19.1-03: publisher selected sample/results/discussion/methods, not full text or supplement verification. E19.1-04: indexed author abstract/methods/results, DOI 403 and PubMed reCAPTCHA; Q-19-source-01 OPEN. Comprehensive correction/retraction checks not established; do not infer absence. Details [GFT-19.1](19_analytical_methodology/GFT-19.1_group_to_individual_competing_models.md).

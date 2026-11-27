@@ -102,3 +102,6 @@ GFT-12.1–12.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-12 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-13.1 — 27.11.2026 (локальный маршрут)
 GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail/adult-direct/measure OPEN; Q-13-source-01 partial (Doobay methods/results, adult qualitative indexed methods, Clarke institutional abstract; full access limits remain); Q-13-source-02 OPEN (Gelbar abstract ambiguity); Q-13-source-03 OPEN (camouflaging age moderation wording, no direction adopted); Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC. Next local GFT-13.2 — specific learning disorders and high ability. T0 unchanged/T1 pending. На момент записи по строкам DOMAIN_STATUS: 12/20 областей, 50 завершённых ограниченных единиц. Другие назначения не изменены; в PARALLEL действует локальный next action.
+
+### Локальный checkpoint GFT-19 — 27.11.2026 (Кира-4)
+GFT-19.1 COMPLETE_FOR_SPECIFIED_SCOPE — [блок](19_analytical_methodology/GFT-19.1_group_to_individual_competing_models.md). Следующая локальная единица GFT-19.2 — конкурирующие многоуровневые причинные объяснения, достаточность модели, опровержение и пересмотр. Q-19-source-01 и Q-19-tail OPEN; завершение GFT-19 зависит от GFT-16/17/18. Общий маршрут других сессий и T0/T1 не изменены.

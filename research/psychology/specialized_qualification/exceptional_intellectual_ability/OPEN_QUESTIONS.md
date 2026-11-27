@@ -193,3 +193,8 @@ GFT-12.1–12.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-12 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-13.1 — 27.11.2026
 GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail/adult-direct/measure OPEN; Q-13-source-01 partial (Doobay methods/results, adult qualitative indexed methods, Clarke institutional abstract; full access limits remain); Q-13-source-02 OPEN (Gelbar abstract ambiguity); Q-13-source-03 OPEN (camouflaging age moderation wording, no direction adopted); Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC. Next local GFT-13.2 — specific learning disorders and high ability. T0 unchanged/T1 pending. Q-13-tail: separately measured adult IQ150–160+; adult-direct: measured high-IQ adult matched comparisons and interaction; measure: diagnostic calibration/specificity. Canonical source-01 retained, branch issues now 02/03.
+
+## GFT-19.1 — 27.11.2026
+- Q-19-source-01 OPEN: obtain E19.1-04 full methods and N persons, metrics/uncertainty per validation scenario, before quantitative comparison. No universal effect asserted.
+- Q-19-tail OPEN: direct evidence for adult measured IQ 150–160+ applicability not established; reassess actual GFT-16/17/18 outputs before specific synthesis/closure; general method not a trait of high IQ.
+- Q-19 remains OPEN: GFT-19.1 general methods completed, GFT-19.2 next; domain not complete.
