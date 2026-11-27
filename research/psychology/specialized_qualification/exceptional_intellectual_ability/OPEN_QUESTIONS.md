@@ -119,3 +119,7 @@ Q-08-tail OPEN: measured adult IQ150–160+ longitudinal level/rank/profile, cro
 
 ## GFT-09.1 — 27.11.2026
 Q-09-tail OPEN: measured adult IQ150–160+ curiosity, NFC, interest and intellectual engagement not established. Q-09-source-01 OPEN_FOR_CLARIFICATION: Meier 2014 abstract N921 vs final sample N920. Initial pre-search card provenance incomplete. Next GFT-09.2 — сложность, новизна, скука и требования задачи.
+
+
+## GFT-09.2 — 27.11.2026
+Q-09-tail OPEN also for measured adult IQ150–160+ challenge preference, novelty, boredom and task demands. Q-09-source-01 remains open. Pre-search card committed before public search in GFT-09.2. No universal boredom/complexity mechanism established. Next GFT-09.3 — автономия, цели и мотивационная регуляция.
