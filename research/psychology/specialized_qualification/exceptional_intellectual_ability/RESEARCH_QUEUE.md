@@ -23,7 +23,7 @@
 | GFT-15 | Психологическое благополучие | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-15.1–15.3, Q-15-tail/source-01/02/03/04 OPEN |
 | GFT-16 | Экстремальный диапазон интеллекта | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-16.1–16.3; Кира-3 COMPLETE |
 | GFT-17 | Нелинейность интеллектуальных различий | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-17.1–17.3 |
-| GFT-18 | Интегративная психология одарённости | QUEUED |
+| GFT-18 | Интегративная психология одарённости | IN_PROGRESS — GFT-18.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-18.2 NEXT (Кира-4) |
 | GFT-19 | Методология психологического анализа | IN_PROGRESS — GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 BLOCKED_DEPENDENCIES (Кира-4, GFT-16/17/18) |
 | GFT-20 | Интеграционная аттестация | QUEUED — BLOCKED_DEPENDENCIES (Кира-3; GFT-01–19) |
 

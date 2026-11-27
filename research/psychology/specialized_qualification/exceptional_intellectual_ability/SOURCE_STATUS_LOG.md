@@ -383,3 +383,6 @@ GFT-16.3 final: Bernstein primary PDF selected methods/results/limitations, scre
 
 ## GFT-17.3 — 27.11.2026
 [GFT-17.3](17_nonlinear_differences/GFT-17.3_integration_transfer_and_sufficiency_audit.md): Brown PDF mirror p0 screenshot, selected methods/results/table/limitations; Jauk/Breit indexed original, Weiss429; Czerwiński 2025 accepted manuscript selected methods/discussion plus indexed final publisher text, DOI redirect error. GFT-16.3 read in full after closure; Bernstein result inherited from its source audit, not independently reopened. Full methods/supplements/overlap not fully audited; source-01 partial, source-02 open.
+
+## 27.11.2026 — GFT-18.1
+E18.1-01/02/05 selected Springer HTML sections, E03 institutional author abstract and publisher index, direct 403/PubMed reCAPTCHA; E04 Nature redirected HTML selected methods/results/discussion. No complete reading, supplement/code replication or comprehensive correction/retraction/overlap audit. No PDF analyzed. Q-18-source-01 OPEN. [Details](18_integrative_psychology/GFT-18.1_functional_architecture_dynamic_models_and_identification.md).

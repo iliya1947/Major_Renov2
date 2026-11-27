@@ -280,3 +280,7 @@ GFT-16.1–16.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-17.3 — 27.11.2026
 GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOPE (bounded comparative science and methodology). Кира-2 assignment COMPLETE. Q-17-tail/invariance/source-01–02 remain OPEN/partial; CES-D7/MHI-5 noninvariance evidence added, not all scales; universal threshold not established; SLODR conditional evidence, mechanism/tail open. Q-02/07/15/16 and other prior restrictions retained. Handoff GFT-18/19/20; no new assignment, T0 unchanged/T1 pending. Reopen on applicable A1, source correction, material measurement-method change or practical transfer failure. Outcome-specific invariance needs independent replication, precise local support and validation; prior unresolved source/measurement questions not closed by bounded sufficiency.
+
+## GFT-18.1 — 27.11.2026
+- Q-18-tail OPEN: measured adult IQ150–160+ multidomain dynamic architecture not established; no extrapolation from general methods, selected cohorts or childhood-defined groups.
+- Q-18-source-01 OPEN: full Haslbeck/Ryan simulation methods, E01/02/04/05 supplements/complete methods and correction/overlap audit. No precise simulation or clinical parameters asserted. GFT-18.2 NEXT; final dependency gate GFT-17.

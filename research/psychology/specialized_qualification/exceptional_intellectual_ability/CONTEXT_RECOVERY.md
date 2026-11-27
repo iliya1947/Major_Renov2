@@ -168,3 +168,6 @@ GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-20 — назначение, 27.11.2026
 Кира-3 → GFT-20 по сигналу пользователя «...» после конкретного предложения. GFT-16 COMPLETE сохранён. Назначение BLOCKED, научная область QUEUED; организационная готовность [PREPARATION_GATE](20_final_assessment/PREPARATION_GATE.md), зависимости GFT-18, GFT-19; T0/T1 и ASSESSMENT_PROTOCOL неизменны. Не проводить финальную интеграцию до готовности 01–19.
+
+### Локальный checkpoint GFT-18 — 27.11.2026 (Кира-4)
+[GFT-18.1](18_integrative_psychology/GFT-18.1_functional_architecture_dynamic_models_and_identification.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-18.2 NEXT — эмпирические взаимодействия процессов. GFT-16 bounded completion verified; GFT-17 dependency gate retained. Q-18-tail/source-01 OPEN; GFT-19 parked; T0/T1 unchanged.
