@@ -41,3 +41,7 @@ GFT-09.1: do not treat curiosity, NFC, interest or class attendance as intellige
 
 ## GFT-09.2 — 27.11.2026
 GFT-09.2: distinguish complexity, novelty, difficulty, perceived challenge and value; boredom does not identify IQ or underchallenge. Null attention manipulation in Tam 2025 is not evidence of no attentional role; do not collapse effort-choice measures or subject-specific school outcomes. Pre-search card committed before external search.
+
+
+## GFT-09.3 — 27.11.2026
+GFT-09.3: autonomy not independence or enjoyment; Beck autonomy not SDT measure. Goal value, feasibility, implementation and costs distinct; persistence and adjustment conditional. Do not infer full causal mediation from meta-analytic paths. Hornstra 2023 contradictory direction withheld. Pre-search card committed before search.
