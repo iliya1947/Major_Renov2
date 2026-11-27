@@ -25,7 +25,7 @@
 | GFT-17 | Нелинейность интеллектуальных различий | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-17.1–17.3 |
 | GFT-18 | Интегративная психология одарённости | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-18.1–18.3, Q-18-tail/source-01/02/03/04 OPEN |
 | GFT-19 | Методология психологического анализа | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-19.1–19.4, Q-19-tail/source-01–04 retained |
-| GFT-20 | Интеграционная аттестация | QUEUED — BLOCKED_DEPENDENCIES (Кира-3; GFT-01–19) |
+| GFT-20 | Интеграционная аттестация | IN_PROGRESS — coverage audit recorded; next comparative assessment design (Кира-3); T1 pending |
 
 После каждой единицы обновлять очередь, DOMAIN_STATUS, CONTEXT_RECOVERY и реестры по факту. Один continuation = одна законченная ограниченная единица, затем остановка. Не запускать следующую автоматически.
 
@@ -141,3 +141,7 @@ GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-20 — назначение, 27.11.2026
 Кира-3 → GFT-20 по сигналу пользователя «...» после конкретного предложения. GFT-16 COMPLETE сохранён. Назначение BLOCKED, научная область QUEUED; организационная готовность [PREPARATION_GATE](20_final_assessment/PREPARATION_GATE.md), зависимости GFT-18, GFT-19; T0/T1 и ASSESSMENT_PROTOCOL неизменны. Не проводить финальную интеграцию до готовности 01–19.
+
+
+## GFT-20 — coverage gate, 27.11.2026
+GFT-20 IN_PROGRESS (Кира-3 ASSIGNED); dependency gate 01–19 verified (19 areas, 73 unique units, all 73 structurally checked; closure coverage and selected cross-source limitations reviewed; INT-05/ETH records and T0/protocol history checked). [COVERAGE_AUDIT](20_final_assessment/COVERAGE_AUDIT.md) recorded, not a scientific unit/attestation. No independent evidence audit of every external paper, no established adult-tail phenotype, prior questions OPEN. T0 unchanged and content not opened; T1 not started. Next: comparative assessment design and actual comparability/independence gate, per unchanged ASSESSMENT_PROTOCOL.

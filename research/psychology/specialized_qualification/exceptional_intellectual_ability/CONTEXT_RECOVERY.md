@@ -180,3 +180,7 @@ GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOP
 
 ### Локальный checkpoint GFT-19 — 27.11.2026 (Кира-4)
 [GFT-19.4](19_analytical_methodology/GFT-19.4_dependent_integration_and_sufficiency_audit.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19 COMPLETE_FOR_SPECIFIED_SCOPE, assignment COMPLETE. Dependencies verified; original 19.1 equation repaired, algebra/regression checked. Q-19-source-01/02 partially clarified, 03/04/tail OPEN. Handoff GFT-20 owner Кира-3 to verify actual 01–19 gate. No change to other assignments, T0/T1, no independent attestation or objective gain.
+
+
+## GFT-20 — coverage gate, 27.11.2026
+GFT-20 IN_PROGRESS (Кира-3 ASSIGNED); dependency gate 01–19 verified (19 areas, 73 unique units, all 73 structurally checked; closure coverage and selected cross-source limitations reviewed; INT-05/ETH records and T0/protocol history checked). [COVERAGE_AUDIT](20_final_assessment/COVERAGE_AUDIT.md) recorded, not a scientific unit/attestation. No independent evidence audit of every external paper, no established adult-tail phenotype, prior questions OPEN. T0 unchanged and content not opened; T1 not started. Next: comparative assessment design and actual comparability/independence gate, per unchanged ASSESSMENT_PROTOCOL.
