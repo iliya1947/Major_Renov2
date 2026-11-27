@@ -21,7 +21,7 @@
 | GFT-13 | Другие дважды исключительные профили | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-13.1–13.4 |
 | GFT-14 | Компенсация и адаптация | IN_PROGRESS — GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE |
 | GFT-15 | Психологическое благополучие | IN_PROGRESS — GFT-15.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15.2 NEXT (Кира-4) |
-| GFT-16 | Экстремальный диапазон интеллекта | IN_PROGRESS — GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16.2 NEXT (Кира-3) |
+| GFT-16 | Экстремальный диапазон интеллекта | IN_PROGRESS — GFT-16.1–16.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16.3 NEXT (Кира-3; dependency GFT-15) |
 | GFT-17 | Нелинейность интеллектуальных различий | QUEUED |
 | GFT-18 | Интегративная психология одарённости | QUEUED |
 | GFT-19 | Методология психологического анализа | IN_PROGRESS — GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 BLOCKED_DEPENDENCIES (Кира-4, GFT-16/17/18) |
@@ -113,3 +113,6 @@ GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded psychometric/sampling methodology
 
 
 Kira-1: GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level); GFT-14 IN_PROGRESS. Q-14-tail OPEN also for measured adult IQ150–160+ costs, recovery, sustainable functioning and camouflaging outcomes; Q-14-measure/causal/transfer retained; Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, no unitary resource; Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED; Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN; Q-14-source-04 OPEN (van der Putten HTML table/narrative discrepancies, PDF screenshots cache miss, affected estimates restricted); Q-14-source-05 OPEN (EMA lag methods, 2026 ADHD qualitative and newer burnout validation full results). Prior source-01/02 OPEN, source-03 acute estimate resolved, abstract correction open. GFT-13 closure recorded by Kira-2; verify its canonical synthesis before 14.4 closure. Next GFT-14.4 — интеграция, практический перенос и аудит достаточности. T0 unchanged/T1 pending.
+
+
+GFT-16.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded cognitive-profile/educational-occupational trajectory methodology; internal assessment only). Duke TIP participant-disjoint from Kell 2013 verified (12 excluded); different trajectories in developmental cohorts, not measured adult A1. Q-16-profile/trajectory/source-04 OPEN; Q-16-tail/measure/sampling/source-01–03 retained. Makel 2016 Table 3d corrects Kell 2013 table classification (organic vs inorganic STEM). No established current adult extreme-tail phenotype, causal career threshold or wellbeing claim. Next local GFT-16.3 integration/audit; final closure depends on actual GFT-15 readiness. T0 unchanged/T1 pending.

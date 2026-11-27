@@ -136,3 +136,6 @@ GFT-16.1 checks: distinguish A0 from A1; no adult IQ from childhood SAT or achie
 
 ## GFT-14.3 — 27.11.2026
 Do not infer hidden effort, unitary depletion, inevitable burnout or causal harm from success, masking score or concurrent association. Check fatigue vs performance, time scale, context, reverse direction, measurement overlap and source discrepancies. Preserve support/choice.
+
+
+GFT-16.2 source correction: Makel 2016 Table 3d states Kell 2013 Table 1 organic sciences publications mislabeled STEM; original analyses/figures used inorganic disciplines. Avoid wrong label, no reanalysis or inference change beyond affected classification. Tests: cohort overlap, child score ≠ adult IQ, cross-sectional age ≠ within-person change, equal outcome ≠ equivalent ability, null ≠ equivalence, association ≠ causal effect, no unmarked extrapolation. Internal checks only.

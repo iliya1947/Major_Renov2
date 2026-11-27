@@ -133,3 +133,7 @@ GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded psychometric/sampling methodology
 
 ### Локальный checkpoint GFT-15 — 27.11.2026 (Кира-4)
 [GFT-15.1](15_psychological_wellbeing/GFT-15.1_wellbeing_measurement_and_adult_comparative_evidence.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15.2 NEXT — стресс, устойчивость и контекстные факторы. GFT-14 dependency retained; GFT-19 parked. Q-15-tail/source-01/source-02 OPEN; 2025 Williams corrigendum logged; T0/T1 unchanged.
+
+
+## GFT-16.2 — 27.11.2026 (Кира-3)
+GFT-16.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded cognitive-profile/educational-occupational trajectory methodology; internal assessment only). Duke TIP participant-disjoint from Kell 2013 verified (12 excluded); different trajectories in developmental cohorts, not measured adult A1. Q-16-profile/trajectory/source-04 OPEN; Q-16-tail/measure/sampling/source-01–03 retained. Makel 2016 Table 3d corrects Kell 2013 table classification (organic vs inorganic STEM). No established current adult extreme-tail phenotype, causal career threshold or wellbeing claim. Next local GFT-16.3 integration/audit; final closure depends on actual GFT-15 readiness. T0 unchanged/T1 pending.

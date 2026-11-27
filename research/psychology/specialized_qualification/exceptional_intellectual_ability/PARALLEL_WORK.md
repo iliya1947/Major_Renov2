@@ -12,7 +12,7 @@
 | [GFT-13 — Другие дважды исключительные профили](13_other_2e_profiles/README.md) | **Кира-2** | COMPLETE | GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; handoff в README GFT-13; открытые ограничения сохранены. Нового назначения нет. |
 | [GFT-14 — Компенсация и адаптация](14_compensation_and_adaptation/README.md) | **Кира-1** | ASSIGNED | GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-14.4 NEXT, verify GFT-13 canonical synthesis. |
 | [GFT-15 — Психологическое благополучие](15_psychological_wellbeing/README.md) | **Кира-4** | ASSIGNED | Активная область; GFT-15.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15.2 NEXT. Итоговая интеграция зависит от GFT-14. |
-| [GFT-16 — Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | **Кира-3** | ASSIGNED | GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE; следующий локальный блок GFT-16.2. |
+| [GFT-16 — Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | **Кира-3** | ASSIGNED | GFT-16.1–16.2 COMPLETE_FOR_SPECIFIED_SCOPE; следующий локальный блок GFT-16.3 (финальное закрытие зависит от GFT-15). |
 | [GFT-17 — Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | **Кира-2** | ASSIGNED | GFT-17.1 IN_PROGRESS — формы моделей и идентификация; зависимые выводы/закрытие после GFT-16. |
 | [GFT-18 — Интегративная психология одарённости](18_integrative_psychology/README.md) | — | UNREGISTERED | Назначение не подтверждено. |
 | [GFT-19 — Методология психологического анализа](19_analytical_methodology/README.md) | **Кира-4** | BLOCKED | Приостановлена; GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 после готовности GFT-16/17/18. Активная работа Киры-4 перенесена на GFT-15 по указанию пользователя; ответственность за возврат сохранена. |
@@ -60,3 +60,5 @@ UNREGISTERED означает отсутствие подтверждённой 
 - 27.11.2026 — Кира-2 → GFT-17: продолжение по пользовательскому сигналу «...» после конкретного предложения GFT-17; трактуется как согласие на предложенную область, не самостоятельное назначение. GFT-13 COMPLETE сохранён. Проверены свободный реестр и каталог; GFT-16.1 закрыт, GFT-16 в целом IN_PROGRESS. Только независимая методология до проверки зависимостей.
 
 - 27.11.2026 — Кира-1: GFT-14.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-14.4 NEXT. Остальные назначения сохранены.
+
+- 27.11.2026 — Кира-3: GFT-16.2 завершён в ограниченном объёме; GFT-16.3 NEXT, dependency gate GFT-15. Чужие назначения сохранены.
