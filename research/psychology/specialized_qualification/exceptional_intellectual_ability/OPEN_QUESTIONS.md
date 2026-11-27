@@ -131,3 +131,7 @@ Q-09-tail OPEN also for measured adult IQ150–160+ autonomy/goal motives, imple
 
 ## GFT-09.4 — 27.11.2026
 Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open. Next GFT-09.5 — интеграция мотивации, практический перенос и аудит достаточности GFT-09.
+
+
+## GFT-09.5 — 27.11.2026
+Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED. Next GFT-10.1 — эмоциональная чувствительность, интенсивность и сверхвозбудимость.
