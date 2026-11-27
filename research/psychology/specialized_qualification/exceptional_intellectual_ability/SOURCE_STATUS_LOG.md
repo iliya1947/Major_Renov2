@@ -266,3 +266,7 @@ E3 Nature selected sections; E7 Nature abstract; E6 PubMed abstract; E8 Frontier
 
 ## GFT-10.4 — 27.11.2026
 ERIC and Springer early-version abstracts, Bo 2024 Nature Neuroscience subscription abstract read; Sicorello 2026/Growney 2026 and other indexed author/publisher excerpts. Cache misses/CAPTCHA/403; no PDF analyzed or full article read, no exhaustive overlap/correction audit. Q-10-tail OPEN for separately measured adult IQ150–160+ emotional processes; Q-10-OE/EI/flex limitations retained; Q-10-measure/neural/source-01 OPEN (instrument-specific precision, neural prediction across measures, Mensa comparator denominator clarification).
+
+
+## GFT-11.1 — 27.11.2026
+ERIC/BGU/Birmingham full author abstracts and selected Springer HTML results inspected; other indexed abstracts/excerpts. CAPTCHA/429/cache misses. No PDF analyzed or full article read; no exhaustive correction/overlap audit. Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive empathic accuracy; Q-11-measure OPEN (ceiling, reliability, validity, calibration); Q-11-source-01 OPEN (gifted youth task-specific effects and ascertainment).
