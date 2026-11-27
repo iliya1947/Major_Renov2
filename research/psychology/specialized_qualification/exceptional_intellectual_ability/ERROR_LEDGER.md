@@ -57,3 +57,7 @@ GFT-09.5: use published results to reconcile direction, not convenient abstract/
 
 ## GFT-10.1 — 27.11.2026
 GFT-10.1: distinguish detection threshold, activation, peak, duration, frequency, valence, appraisal, expression and costs. OEQ/SPS/PERS not IQ or clinical diagnostic tests; updated meta-analysis challenges interpretation of older group effects. Null not equivalence, overlap not identity, ascertainment moderation not causal selection proof. Do not infer neural excitability from self-report.
+
+
+## GFT-10.2 — 27.11.2026
+GFT-10.2: differentiate emotion vocabulary, own emotion granularity, knowledge, test performance, self-perceptions and real-world action. ICC not accuracy; null not equivalence. Do not aggregate EI across incomparable measures or infer causal regulation from knowledge. Updated review estimates distinct dimensions, not identical estimand to older aggregate. Prior 10.1 Mensa evidence reused.
