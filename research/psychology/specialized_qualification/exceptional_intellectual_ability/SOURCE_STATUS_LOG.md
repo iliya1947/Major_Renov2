@@ -242,3 +242,7 @@ E2 ERIC full author abstract; E5 SAGE discussion excerpts; other indexed author 
 
 ## GFT-09.3 — 27.11.2026
 E6/E7 Utrecht full author abstracts, E9 Elsevier France bilingual author abstract, E5 Nature abstract and discussion excerpts; other indexed author excerpts. Direct 403/CAPTCHA/cache miss/502. No article fully read or PDF analyzed, no exhaustive overlap/correction audit. Q-09-tail OPEN also for measured adult IQ150–160+ autonomy/goal motives, implementation and adjustment. Q-09-source-01/02 OPEN_FOR_CLARIFICATION; Hornstra 2023 abstract vs educational relevance statement disagree on direction of change in external regulation and amotivation.
+
+
+## GFT-09.4 — 27.11.2026
+E1–3 direct ERIC/York St John/PubMed author abstracts, E8 Frontiers HTML excerpts, other indexed author abstracts, institutional cache misses and CAPTCHA. No PDF analyzed or article read fully. No exhaustive overlap/correction audit. Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open.
