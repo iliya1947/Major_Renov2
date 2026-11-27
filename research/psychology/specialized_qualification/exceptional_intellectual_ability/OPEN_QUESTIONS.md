@@ -127,3 +127,7 @@ Q-09-tail OPEN also for measured adult IQ150–160+ challenge preference, novelt
 
 ## GFT-09.3 — 27.11.2026
 Q-09-tail OPEN also for measured adult IQ150–160+ autonomy/goal motives, implementation and adjustment. Q-09-source-01/02 OPEN_FOR_CLARIFICATION; Hornstra 2023 abstract vs educational relevance statement disagree on direction of change in external regulation and amotivation. Next GFT-09.4 — перфекционизм, стандарты, мотивы достижения и издержки.
+
+
+## GFT-09.4 — 27.11.2026
+Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open. Next GFT-09.5 — интеграция мотивации, практический перенос и аудит достаточности GFT-09.
