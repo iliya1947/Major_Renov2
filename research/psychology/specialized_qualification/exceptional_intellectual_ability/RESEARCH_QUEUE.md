@@ -24,7 +24,7 @@
 | GFT-16 | Экстремальный диапазон интеллекта | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-16.1–16.3; Кира-3 COMPLETE |
 | GFT-17 | Нелинейность интеллектуальных различий | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-17.1–17.3 |
 | GFT-18 | Интегративная психология одарённости | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-18.1–18.3, Q-18-tail/source-01/02/03/04 OPEN |
-| GFT-19 | Методология психологического анализа | IN_PROGRESS — GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 NEXT (Кира-4), dependency recheck |
+| GFT-19 | Методология психологического анализа | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-19.1–19.4, Q-19-tail/source-01–04 retained |
 | GFT-20 | Интеграционная аттестация | QUEUED — BLOCKED_DEPENDENCIES (Кира-3; GFT-01–19) |
 
 После каждой единицы обновлять очередь, DOMAIN_STATUS, CONTEXT_RECOVERY и реестры по факту. Один continuation = одна законченная ограниченная единица, затем остановка. Не запускать следующую автоматически.

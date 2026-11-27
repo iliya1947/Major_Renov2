@@ -15,7 +15,7 @@
 | [GFT-16 — Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | **Кира-3** | COMPLETE | GFT-16.1–16.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15 verified; handoff in GFT-16.3 and README. No new assignment. |
 | [GFT-17 — Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | **Кира-2** | COMPLETE | GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16 gate verified; handoff in GFT-17.3 and README. No new assignment. |
 | [GFT-18 — Интегративная психология одарённости](18_integrative_psychology/README.md) | **Кира-4** | COMPLETE | GFT-18.1–18.3 COMPLETE_FOR_SPECIFIED_SCOPE; dependencies verified; handoff GFT-19/20. |
-| [GFT-19 — Методология психологического анализа](19_analytical_methodology/README.md) | **Кира-4** | ASSIGNED | Возврат по ранее согласованному маршруту; GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 NEXT, recheck dependencies. |
+| [GFT-19 — Методология психологического анализа](19_analytical_methodology/README.md) | **Кира-4** | COMPLETE | GFT-19.1–19.4 COMPLETE_FOR_SPECIFIED_SCOPE; dependencies verified; 19.1 correction and regression; handoff GFT-20. |
 | [GFT-20 — Интеграционная аттестация](20_final_assessment/README.md) | **Кира-3** | BLOCKED | Организационная подготовка; финальная интеграция и T1 только после фактической готовности GFT-01–19. |
 
 UNREGISTERED означает отсутствие подтверждённой записи, а не гарантию, что другой чат не приступил к работе. Не угадывать номера и назначения. При обнаружении чужой работы без владельца — CLAIM_REQUIRED, не захватывать область. Начальное состояние проверено по HEAD 5e82b13ba1eff4e0d183ff117bf476f24d68a922, README областей 13–20 и наличию GFT-13.1.
@@ -82,3 +82,5 @@ UNREGISTERED означает отсутствие подтверждённой 
 - 27.11.2026 — Кира-3 → GFT-20 по сигналу пользователя «...» после конкретного предложения. GFT-16 COMPLETE сохранён. Назначение BLOCKED, научная область QUEUED; организационная готовность [PREPARATION_GATE](20_final_assessment/PREPARATION_GATE.md), зависимости GFT-18, GFT-19; T0/T1 и ASSESSMENT_PROTOCOL неизменны. Не проводить финальную интеграцию до готовности 01–19.
 
 - 27.11.2026 — Кира-4: GFT-18.1–18.3 COMPLETE_FOR_SPECIFIED_SCOPE, назначение COMPLETE; GFT-16/17 проверены, handoff GFT-19/20. Возврат на ранее закреплённую GFT-19 по согласованному маршруту, GFT-19.4 NEXT; научная работа 19.4 ещё не начата. GFT-20 остаётся BLOCKED до выполнения его gate.
+
+- 27.11.2026 — Кира-4: GFT-19.4 и GFT-19 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-02/16/17/18 подтверждены, исходная формула 19.1 исправлена и перепроверена. Handoff GFT-20 (Кира-3), её владелец самостоятельно проверяет gate 01–19; её назначение и научный статус не изменялись. T0/T1 untouched; новой области нет.

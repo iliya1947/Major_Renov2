@@ -293,3 +293,9 @@ GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOP
 ## GFT-18.3 — 27.11.2026
 - Q-18-source-03 remains OPEN: original versioned PDF extraction confirms Table4 p=.04 vs prose .004; visual screenshots unavailable; final models N276 (123/153) vs preprocessing N279 (124/155), further exclusion reason not established, additional age-row discrepancy and test-form equivalence not verified. Q-10-source-01 partial clarification; exact disputed effects not used.
 - Q-18-source-02 Grimm sign/CI unresolved after targeted recheck; previous limitations retained. Q-18-source-04 OPEN: qualitative follow-up full methods and cohort overlap, full source-status/independence audit; Loossens exact summary percentage discrepancy not used. Q-18-tail/source-01 OPEN; no A1 architecture. GFT-18 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 NEXT, GFT-20 remains gated.
+
+## GFT-19.4 — 27.11.2026
+- Q-19-source-01 PARTIALLY_RESOLVED (indexed N242 and known-user MAE comparison); full methods/uncertainty/new-user scenario and correction status remain OPEN.
+- Q-19-source-02 partial provenance clarification (Eronen DOI/versioned PDF text; screenshot unavailable), full argument/other sources/status OPEN. Q-19-source-03 OPEN; Q-19-source-04 OPEN (JMIR e99204 full methods/supplements, source status/overlap).
+- GFT-19.1 fixed-intercept identification issue RESOLVED_IN_ILLUSTRATION: original formula split into fixed-intercept and conditional random-intercept specifications; algebra and regression case verified; no causal identification implied. Prior correction delayed after 19.2, history retained.
+- Q-19-tail OPEN; GFT-19 COMPLETE_FOR_SPECIFIED_SCOPE only. GFT-20 owner checks full gate; T0/T1 unchanged.
