@@ -447,3 +447,6 @@ GFT-16.3 audit: rechecked selected source fragments for Sixdenier, SB5 bulletin,
 
 
 E16.3a Bernstein 2021 primary PDF (reused E15.3-05, SMPY), small pooled associations, no baseline wellbeing, developmental not A1, supplement missing; E16.3b GFT-15 inherited synthesis. [Final](16_exceptional_intelligence/GFT-16.3_integration_and_sufficiency_audit.md).
+
+## GFT-17.3 — 27.11.2026
+[GFT-17.3](17_nonlinear_differences/GFT-17.3_integration_transfer_and_sufficiency_audit.md): source rechecks, Brown selected full-text methods/results, E17.3a DOI10.1016/j.intell.2025.101963 CES-D7/MHI-5 outcome noninvariance, shared NLSY cohorts; final GFT-16 dependency and Bernstein interpretation reconciled. GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOPE (bounded comparative science and methodology). Кира-2 assignment COMPLETE. Q-17-tail/invariance/source-01–02 remain OPEN/partial; CES-D7/MHI-5 noninvariance evidence added, not all scales; universal threshold not established; SLODR conditional evidence, mechanism/tail open. Q-02/07/15/16 and other prior restrictions retained. Handoff GFT-18/19/20; no new assignment, T0 unchanged/T1 pending.

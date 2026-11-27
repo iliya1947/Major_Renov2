@@ -157,3 +157,6 @@ Jauk average originality 119.60 Davies p=.14, not confirmed slope break; other i
 
 
 Bernstein 2021 abstract 'did not covary' refined to small nonzero pooled associations (Study1 r=-.06, Study2 r=.11); no exact null or causal safety, subgroup estimates unavailable. D–F internal check no critical error identified; not independent.
+
+## GFT-17.3 — 27.11.2026
+Outcome noninvariance compromises both linear and nonlinear latent interpretation, not all scales or proof of a new symptom structure. Brown and Czerwiński NLSY cohorts overlap. Bernstein pooled small associations of different signs are not exact null, subgroup result or causal safety. Local derivative not absolute outcome; no adult-tail extrapolation. Do not substitute GFT-15 completion for actual 16.3 (verified before closure).

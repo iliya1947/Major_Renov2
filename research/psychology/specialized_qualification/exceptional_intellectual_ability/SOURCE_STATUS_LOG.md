@@ -380,3 +380,6 @@ WHO direct HTML fact sheet and occupational FAQ (fact sheet index vs fetched pag
 
 
 GFT-16.3 final: Bernstein primary PDF selected methods/results/limitations, screenshots p2/p4 successful; APA supplement landing accessible PDF cache miss; subgroup effects not verified; Q-16-source-05 OPEN. Other GFT-15 sources inherited, no comprehensive new source audit.
+
+## GFT-17.3 — 27.11.2026
+[GFT-17.3](17_nonlinear_differences/GFT-17.3_integration_transfer_and_sufficiency_audit.md): Brown PDF mirror p0 screenshot, selected methods/results/table/limitations; Jauk/Breit indexed original, Weiss429; Czerwiński 2025 accepted manuscript selected methods/discussion plus indexed final publisher text, DOI redirect error. GFT-16.3 read in full after closure; Bernstein result inherited from its source audit, not independently reopened. Full methods/supplements/overlap not fully audited; source-01 partial, source-02 open.

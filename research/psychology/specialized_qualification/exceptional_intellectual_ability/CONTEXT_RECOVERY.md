@@ -161,3 +161,6 @@ GFT-15 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOP
 
 
 GFT-16.1–16.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16 COMPLETE_FOR_SPECIFIED_SCOPE (bounded methodology, not empirical adult extreme-tail validation). GFT-15 actual closure verified. Dependent integration/internal check 12/12, not independent/T1. Bernstein 2021 primary PDF: pooled small nonzero associations, no baseline wellbeing, developmental cohort; supplement unavailable, Q-16-source-05 OPEN. Prior Q-16 and Q-tail remain OPEN. Handoff GFT-17/18/19/20; Кира-3 COMPLETE; no new assignment. T0/T1 unchanged.
+
+## GFT-17.3 — 27.11.2026 (локальный handoff)
+GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOPE (bounded comparative science and methodology). Кира-2 assignment COMPLETE. Q-17-tail/invariance/source-01–02 remain OPEN/partial; CES-D7/MHI-5 noninvariance evidence added, not all scales; universal threshold not established; SLODR conditional evidence, mechanism/tail open. Q-02/07/15/16 and other prior restrictions retained. Handoff GFT-18/19/20; no new assignment, T0 unchanged/T1 pending. Фактический счётчик: 17/20 областей, 69 завершённых единиц; исключены незавершённые карточки (нет). PARALLEL: завершение назначения Кира-2.

@@ -1,6 +1,6 @@
 # GFT-17 — Нелинейность интеллектуальных различий
 
-Статус: IN_PROGRESS; GFT-17.1–17.2 COMPLETE_FOR_SPECIFIED_SCOPE (независимый методический и сравнительный объём).
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17.1–17.3 завершены в ограниченном научно-методическом объёме.
 
 ## Программа
 Проверка сохранения или изменения закономерностей на верхнем хвосте.
@@ -32,3 +32,8 @@ GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (independent methodological scope); GFT-17
 GFT-17.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded independent comparative evidence and methodological interpretation); GFT-17 IN_PROGRESS. Q-17-tail/invariance OPEN; Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-SLODR supported in many tested samples, mechanism and adult extreme-tail extrapolation OPEN; Q-17-source-01 partially resolved (Jauk/Weiss selected methods/results); Q-17-source-02 OPEN (newer differentiation studies' full methods/overlap, adult-tail support, cohort-specific outcome curvature); earlier Q-02/07/16 limitations retained. GFT-17.3 next: integration/sufficiency audit; final closure requires actual GFT-16 completion. T0 unchanged/T1 pending.
 - [GFT-17.2](GFT-17.2_empirical_nonlinearity_thresholds_and_counterevidence.md) — завершён в ограниченном объёме, внутренний 12/12.
 - GFT-17.3 NEXT: интеграция/аудит; проверить актуальный GFT-16, при отсутствии готовности зависимое закрытие BLOCKED_DEPENDENCIES.
+
+## Итог и handoff — 27.11.2026
+GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOPE (bounded comparative science and methodology). Кира-2 assignment COMPLETE. Q-17-tail/invariance/source-01–02 remain OPEN/partial; CES-D7/MHI-5 noninvariance evidence added, not all scales; universal threshold not established; SLODR conditional evidence, mechanism/tail open. Q-02/07/15/16 and other prior restrictions retained. Handoff GFT-18/19/20; no new assignment, T0 unchanged/T1 pending.
+- [GFT-17.3](GFT-17.3_integration_transfer_and_sufficiency_audit.md) — итоговая интеграция после проверенного завершения GFT-16; внутренний 12/12, не независимая оценка.
+- Кира-2: назначение COMPLETE; новой области нет.

@@ -22,7 +22,7 @@
 | GFT-14 | Компенсация и адаптация | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-14.1–14.4 |
 | GFT-15 | Психологическое благополучие | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-15.1–15.3, Q-15-tail/source-01/02/03/04 OPEN |
 | GFT-16 | Экстремальный диапазон интеллекта | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-16.1–16.3; Кира-3 COMPLETE |
-| GFT-17 | Нелинейность интеллектуальных различий | IN_PROGRESS |
+| GFT-17 | Нелинейность интеллектуальных различий | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-17.1–17.3 |
 | GFT-18 | Интегративная психология одарённости | QUEUED |
 | GFT-19 | Методология психологического анализа | IN_PROGRESS — GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 BLOCKED_DEPENDENCIES (Кира-4, GFT-16/17/18) |
 | GFT-20 | Интеграционная аттестация | QUEUED |
@@ -134,3 +134,6 @@ GFT-17.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded independent comparative evidence 
 
 GFT-16.1–16.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16 COMPLETE_FOR_SPECIFIED_SCOPE (bounded methodology, not empirical adult extreme-tail validation). GFT-15 actual closure verified. Dependent integration/internal check 12/12, not independent/T1. Bernstein 2021 primary PDF: pooled small nonzero associations, no baseline wellbeing, developmental cohort; supplement unavailable, Q-16-source-05 OPEN. Prior Q-16 and Q-tail remain OPEN. Handoff GFT-17/18/19/20; Кира-3 COMPLETE; no new assignment. T0/T1 unchanged.
 Покрытие по актуальным строкам DOMAIN_STATUS: 16/20 областей, 68 ссылок на завершённые научные блоки (не аттестации).
+
+## GFT-17.3 — 27.11.2026 (локальный handoff)
+GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOPE (bounded comparative science and methodology). Кира-2 assignment COMPLETE. Q-17-tail/invariance/source-01–02 remain OPEN/partial; CES-D7/MHI-5 noninvariance evidence added, not all scales; universal threshold not established; SLODR conditional evidence, mechanism/tail open. Q-02/07/15/16 and other prior restrictions retained. Handoff GFT-18/19/20; no new assignment, T0 unchanged/T1 pending. Фактический счётчик: 17/20 областей, 69 завершённых единиц; исключены незавершённые карточки (нет). PARALLEL: завершение назначения Кира-2.
