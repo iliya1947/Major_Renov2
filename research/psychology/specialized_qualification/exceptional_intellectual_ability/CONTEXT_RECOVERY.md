@@ -171,3 +171,6 @@ GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOP
 
 ### Локальный checkpoint GFT-18 — 27.11.2026 (Кира-4)
 [GFT-18.1](18_integrative_psychology/GFT-18.1_functional_architecture_dynamic_models_and_identification.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-18.2 NEXT — эмпирические взаимодействия процессов. GFT-16 bounded completion verified; GFT-17 dependency gate retained. Q-18-tail/source-01 OPEN; GFT-19 parked; T0/T1 unchanged.
+
+### Локальный checkpoint GFT-18 — 27.11.2026 (Кира-4)
+[GFT-18.2](18_integrative_psychology/GFT-18.2_empirical_cross_process_interactions_and_boundaries.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-18.3 NEXT — итоговая интеграция. GFT-16/17 completion and synthesis verified in scope; Q-18-tail/source-01/02/03 OPEN. GFT-19 parked, T0/T1 unchanged.

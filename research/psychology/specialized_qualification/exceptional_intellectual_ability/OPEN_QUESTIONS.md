@@ -284,3 +284,8 @@ GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOP
 ## GFT-18.1 — 27.11.2026
 - Q-18-tail OPEN: measured adult IQ150–160+ multidomain dynamic architecture not established; no extrapolation from general methods, selected cohorts or childhood-defined groups.
 - Q-18-source-01 OPEN: full Haslbeck/Ryan simulation methods, E01/02/04/05 supplements/complete methods and correction/overlap audit. No precise simulation or clinical parameters asserted. GFT-18.2 NEXT; final dependency gate GFT-17.
+
+## GFT-18.2 — 27.11.2026
+- Q-18-source-02 OPEN: full reward meta-analysis/effort/stress methods, outcome coding/CI and overlap; Grimm PMID34562543 abstract describes negative r but prints positive .09 and reversed interval bounds, no numerical reuse; E07 full temporal/mediation methods not obtained.
+- Q-18-source-03 OPEN: 10.3390/jintelligence11020020 indexed Table4 p=.04 vs narrative p=.004 for linear group×condition×STEU, exact estimate restricted until direct/model/correction verification. Q-10-source-01 task-specific control counts clarified by preprocessing (157 recruited prior comparison, 155 analyzed after exclusions), other denominators not resolved. No rewriting GFT-10 history.
+- Q-18-tail/source-01 remain OPEN; GFT-18.3 NEXT, actual GFT-16/17 completion verified for bounded scope; preserve all tail/measurement limits.

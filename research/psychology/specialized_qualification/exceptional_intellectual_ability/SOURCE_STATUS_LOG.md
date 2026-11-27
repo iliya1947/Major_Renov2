@@ -386,3 +386,6 @@ GFT-16.3 final: Bernstein primary PDF selected methods/results/limitations, scre
 
 ## 27.11.2026 — GFT-18.1
 E18.1-01/02/05 selected Springer HTML sections, E03 institutional author abstract and publisher index, direct 403/PubMed reCAPTCHA; E04 Nature redirected HTML selected methods/results/discussion. No complete reading, supplement/code replication or comprehensive correction/retraction/overlap audit. No PDF analyzed. Q-18-source-01 OPEN. [Details](18_integrative_psychology/GFT-18.1_functional_architecture_dynamic_models_and_identification.md).
+
+## 27.11.2026 — GFT-18.2
+E01 Nature direct selected abstract/introduction + indexed results; E02/03/05/06 indexed author abstracts/sections, PubMed access restricted where attempted; E04 UWA author abstract and indexed results, DOI403; E07 publisher indexed methods/results, direct403; E08 indexed PMC/publisher preprocessing/Table4/text, MDPI429. E06 signed coefficient/CI discrepancy; E08 Table4 p=.04 vs prose .004, exact disputed effects not reused. Task-specific control denominator N157 before two exclusions, N155 analyzed, N124 Mensa analyzed; Q-10-source-01 partial clarification only. No complete reading, raw reanalysis or comprehensive correction/retraction/overlap audit, no PDF analyzed. [Details](18_integrative_psychology/GFT-18.2_empirical_cross_process_interactions_and_boundaries.md).

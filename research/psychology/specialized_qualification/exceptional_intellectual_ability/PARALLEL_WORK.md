@@ -14,7 +14,7 @@
 | [GFT-15 — Психологическое благополучие](15_psychological_wellbeing/README.md) | **Кира-4** | COMPLETE | GFT-15.1–15.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-14 verified, handoff in GFT-15.3 and README. No new active assignment; GFT-19 remains BLOCKED. |
 | [GFT-16 — Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | **Кира-3** | COMPLETE | GFT-16.1–16.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15 verified; handoff in GFT-16.3 and README. No new assignment. |
 | [GFT-17 — Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | **Кира-2** | COMPLETE | GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16 gate verified; handoff in GFT-17.3 and README. No new assignment. |
-| [GFT-18 — Интегративная психология одарённости](18_integrative_psychology/README.md) | **Кира-4** | ASSIGNED | GFT-18.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-18.2 NEXT. GFT-16 complete for scope, verify GFT-17 before dependent closure. |
+| [GFT-18 — Интегративная психология одарённости](18_integrative_psychology/README.md) | **Кира-4** | ASSIGNED | GFT-18.1–18.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-18.3 NEXT; GFT-16/17 verified for scope. |
 | [GFT-19 — Методология психологического анализа](19_analytical_methodology/README.md) | **Кира-4** | BLOCKED | GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 после готовности GFT-16/17/18. Активный маршрут Кира-4 теперь GFT-18; ответственность за возврат сохранена. |
 | [GFT-20 — Интеграционная аттестация](20_final_assessment/README.md) | **Кира-3** | BLOCKED | Организационная подготовка; финальная интеграция и T1 только после фактической готовности GFT-01–19. |
 
