@@ -136,3 +136,6 @@ Kira-1: GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific
 
 ## GFT-16.1 — 27.11.2026 (Кира-3)
 GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded psychometric/sampling methodology; internal self-assessment only). A0 adult observed FSIQ up to 152 (Sixdenier 2025), no separately analysed calibrated A1 tail recovered. Q-16-measure/tail/sampling/source-01 OPEN; Q-16-source-02/03 OPEN; Q-02-tail retained. GFT-16 IN_PROGRESS; GFT-16.2 next local: cognitive-profile and life-trajectory variability, with dependency gate; GFT-15 remains prerequisite for dependent conclusions and final closure. T0 unchanged/T1 pending.
+
+## GFT-17 parallel route — 27.11.2026
+Кира-2 continues GFT-17 following user's continuation signal after specific proposal. GFT-13 remains complete. GFT-16.1 bounded methods available; 16 overall incomplete. Independent methodological 17.1 permitted, dependent empirical conclusions and domain closure gated by 16 actual completion. No changes to T0/T1 or other assignments. No completed count increment on launch.
