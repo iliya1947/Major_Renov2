@@ -262,3 +262,7 @@ E3/E9 Springer abstract and selected HTML sections directly inspected; other ind
 
 ## GFT-10.3 — 27.11.2026
 E3 Nature selected sections; E7 Nature abstract; E6 PubMed abstract; E8 Frontiers methods/limitations directly inspected. Other indexed abstracts/excerpts; CAPTCHA/cache misses. No PDF analyzed, no full article read or exhaustive correction/overlap audit. Q-10-tail OPEN also for measured adult IQ150–160+ strategy choice, efficacy and regulatory flexibility. Q-10-flex UNIVERSAL_STRATEGY_SITUATION_RULE_NOT_ESTABLISHED; Q-10-OE/EI/measure retained.
+
+
+## GFT-10.4 — 27.11.2026
+ERIC and Springer early-version abstracts, Bo 2024 Nature Neuroscience subscription abstract read; Sicorello 2026/Growney 2026 and other indexed author/publisher excerpts. Cache misses/CAPTCHA/403; no PDF analyzed or full article read, no exhaustive overlap/correction audit. Q-10-tail OPEN for separately measured adult IQ150–160+ emotional processes; Q-10-OE/EI/flex limitations retained; Q-10-measure/neural/source-01 OPEN (instrument-specific precision, neural prediction across measures, Mensa comparator denominator clarification).
