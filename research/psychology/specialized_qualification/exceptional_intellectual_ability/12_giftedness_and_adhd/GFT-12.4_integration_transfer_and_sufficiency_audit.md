@@ -1,0 +1,7 @@
+# GFT-12.4 — Giftedness and ADHD: integration, transfer and sufficiency audit
+
+27.11.2026. IN_PROGRESS. Prospective integration card. Starting HEAD 1151c57bee80eddfa011bddc8ed13063e5277993.
+1. Audit curriculum coverage, direct adult high-IQ comparisons versus general ADHD and youth evidence, functional impairment and measurement boundaries. Check dependence, contrary findings, source access, unresolved tail, prevalence, HF, RTV, motivation, EF and source-01/02. Recheck high-leverage source claims and diagnostic guidance; no assumed comprehensive literature search.
+2. Integrate history and functional criteria, actual ability/performance, context, attention/disengagement, valuation/effort and executive implementation; compare competing hypotheses, distinguish support from causal compensation. Preserve non-diagnostic status and avoid extrapolation to IQ150–160+.
+3. Use three new wholly fictional cases including contradictory follow-up, real-life vs test discrepancies, alternative explanations and revision. Predefined six-category internal rubric (2 each, no critical error); independent validation unavailable unless actually obtained.
+4. Determine whether all GFT-12 topics covered at bounded methodological level; do not close empirical or clinical competence gaps. Carry limitations to GFT-13/14/15/16/17/19/20, preserve historical checkpoint and parallel SPQ. Verify status and privacy, stop after unit.
