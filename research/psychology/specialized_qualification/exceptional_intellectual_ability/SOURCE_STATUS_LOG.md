@@ -234,3 +234,7 @@ E1–3/E5 indexed author abstract/body rechecked; PMC/PubMed direct CAPTCHA. E4 
 
 ## GFT-09.1 — 27.11.2026
 E2 ERIC full author abstract read; E1/E3–8 indexed author/publisher excerpts, direct 429/403/CAPTCHA/timeouts; no article read fully or PDF analyzed. No exhaustive overlap/correction audit. Q-09-tail OPEN: measured adult IQ150–160+ curiosity, NFC, interest and intellectual engagement not established. Q-09-source-01 OPEN_FOR_CLARIFICATION: Meier 2014 abstract N921 vs final sample N920. Initial pre-search card provenance incomplete.
+
+
+## GFT-09.2 — 27.11.2026
+E2 ERIC full author abstract; E5 SAGE discussion excerpts; other indexed author excerpts, PubMed/PMC CAPTCHA, flow publisher403. No full article read or PDF analyzed; no exhaustive correction/dependence audit. Q-09-tail OPEN also for measured adult IQ150–160+ challenge preference, novelty, boredom and task demands. Q-09-source-01 remains open. Pre-search card committed before public search in GFT-09.2.
