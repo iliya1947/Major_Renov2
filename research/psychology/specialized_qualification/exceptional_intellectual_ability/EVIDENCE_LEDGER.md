@@ -341,3 +341,7 @@
 
 ## GFT-11.1 — 27.11.2026
 [GFT-11.1](11_social_psychology/GFT-11.1_social_cognition_perspective_taking_and_inference_accuracy.md). E1 intelligence and decoding/RMET; E2 language and formative g; E3 self-report vs performance; E4 perspective taking/getting and feedback; E5 adult ToM psychometrics; E6 target and channel; E7 gifted youth evidence and adult tail; E8 recent latent model candidate. Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive empathic accuracy; Q-11-measure OPEN (ceiling, reliability, validity, calibration); Q-11-source-01 OPEN (gifted youth task-specific effects and ascertainment).
+
+
+## GFT-11.2 — 27.11.2026
+[GFT-11.2](11_social_psychology/GFT-11.2_empathy_compassion_affect_sharing_and_prosocial_behavior.md). E1 empathy/prosocial meta-analysis; E2 trait/state EMA; E3 empathy cost and rationality; E4 conditional observational associations and t/p discrepancy; E5 Swedish register data; E6 repeated games and disclosure; E7 charitable giving meta-analyses; E8 complementary reasoning and empathy, helping; E9 gifted review and tail search. Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained.
