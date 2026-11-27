@@ -101,3 +101,7 @@ Separate mean, within-person variance, time-on-task slope, actual output, engage
 
 ## GFT-12.3 — 27.11.2026
 Do not equate desire with implementation, monetary delay discounting with motor stopping, reward BOLD with individual dopamine level, or effortful choice with actual effort. Different significance across subgroups does not establish moderation. No high-IQ compensation guarantee or diagnostic threshold.
+
+
+## GFT-12.4 — 27.11.2026
+Do not equate published significance with valid arithmetic: Cadenas 2020 F(1,200)=3.81 p<.05 vs calculated .05234, F(1,116)=4.64 p=.32 vs .03330. Restrict affected claims, distinguish repeated observations and unique participants, no raw-data correction or misconduct claim. No IQ diagnostic inference or causal compensation from group contrast.

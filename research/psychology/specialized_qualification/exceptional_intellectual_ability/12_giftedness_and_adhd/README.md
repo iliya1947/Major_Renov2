@@ -1,6 +1,6 @@
 # GFT-12 — Одарённость и СДВГ
 
-Статус: IN_PROGRESS. GFT-12.1–12.3 COMPLETE_FOR_SPECIFIED_SCOPE; Q-12-tail OPEN.
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE. GFT-12.1–12.4 COMPLETE_FOR_SPECIFIED_SCOPE; Q-12-tail OPEN.
 
 ## Программа
 Внимание, гиперфокус, мотивация, импульсивность, исполнительные функции.
@@ -25,7 +25,7 @@
 - [GFT-12.1 — Definitions, differential assessment and comparative evidence](GFT-12.1_definitions_differential_assessment_and_comparative_evidence.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-12.2 — Attention, performance variability and hyperfocus](GFT-12.2_attention_performance_variability_and_hyperfocus.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-12.3 — Motivation, reward, impulsivity and executive control](GFT-12.3_motivation_reward_impulsivity_and_executive_control.md): COMPLETE_FOR_SPECIFIED_SCOPE.
-- GFT-12.4 — интеграция одарённости и СДВГ, практический перенос и аудит достаточности GFT-12: QUEUED.
+- [GFT-12.4 — Integration, transfer and sufficiency audit](GFT-12.4_integration_transfer_and_sufficiency_audit.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 
 Q-12-tail OPEN (separately measured adult IQ150–160+ ADHD phenotype, prevalence and differential validity not established); Q-12-prevalence OPEN (sampling, case definitions, denominators, no universal rate); Q-12-measure OPEN (within-person discrepancies not diagnostic; absolute/relative criteria and ecological validity); Q-12-source-01 OPEN (2026 pediatric nonlinear study full results unavailable; no adopted effect). Prior Q-02–11-tail and Q-11-source-04 retained.
 
@@ -34,3 +34,5 @@ Q-12-tail OPEN also for separately measured adult IQ150–160+ attentional varia
 Q-12-tail OPEN also for separately measured adult IQ150–160+ reward valuation, effort allocation, impulsivity and executive control; Q-12-motivation HETEROGENEOUS_TASK_DEPENDENT_ASSOCIATIONS (single motivational deficit and universal dopamine explanation not established); Q-12-EF GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-12-source-01 OPEN (repeat Nature redirect/PMC cache miss); Q-12-HF/RTV/prevalence/measure and earlier tail limitations retained.
 
 Q-12-source-02 OPEN: complete reward receipt and 2023 effort primary results inaccessible, exact contrasts and dependence not exhaustively verified. Additional PLOS incentive and Nature 2025 effort sections checked; historical checkpoint 38beecf preserved in canonical GFT-12.3.
+
+GFT-12.1–12.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-12 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological/clinical-literacy level, not clinical credential or empirical extreme-tail profile). 12/20 areas, 49 bounded units, Phase IV remains IN_PROGRESS. Q-02–12-tail OPEN; Q-12-prevalence/measure/HF OPEN; Q-12-RTV and EF group associations not diagnostic; Q-12-motivation heterogeneous, no universal dopamine explanation; Q-12-source-01 OPEN (Nature redirect/PMC cache miss); Q-12-source-02 OPEN for full methods/results, author abstracts now directly confirmed; NEW Q-12-source-03 OPEN (Cadenas 2020 IQ main-effect F/p discrepancies, affected significance excluded). Next GFT-13.1 — аутизм и высокие интеллектуальные способности: определения, дифференциальная оценка и прямые сравнительные данные. T0 unchanged/T1 pending.

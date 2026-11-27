@@ -369,3 +369,7 @@
 
 ## GFT-12.3 — 27.11.2026
 [GFT-12.3](12_giftedness_and_adhd/GFT-12.3_motivation_reward_impulsivity_and_executive_control.md): E1 monetary delay discounting, E2 phase-specific reward BOLD and counterevidence, E3 effort experiments, E4 heterogeneous effort/choice and review, E5 EF syntheses and controlled contrasts, E6 adult SST meta-analysis, E7 daily ratings vs tasks, E8 direct IQ comparative limits. Q-12-tail OPEN also for separately measured adult IQ150–160+ reward valuation, effort allocation, impulsivity and executive control; Q-12-motivation HETEROGENEOUS_TASK_DEPENDENT_ASSOCIATIONS (single motivational deficit and universal dopamine explanation not established); Q-12-EF GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-12-source-01 OPEN (repeat Nature redirect/PMC cache miss); Q-12-HF/RTV/prevalence/measure and earlier tail limitations retained.
+
+
+## GFT-12.4 — 27.11.2026
+[GFT-12.4](12_giftedness_and_adhd/GFT-12.4_integration_transfer_and_sufficiency_audit.md): integrated coverage and source audit; corrected Cadenas 2020 cohort1 IQ main-effect significance, preserve main interaction null not equivalence. Q-02–12-tail OPEN; Q-12-prevalence/measure/HF OPEN; Q-12-RTV and EF group associations not diagnostic; Q-12-motivation heterogeneous, no universal dopamine explanation; Q-12-source-01 OPEN (Nature redirect/PMC cache miss); Q-12-source-02 OPEN for full methods/results, author abstracts now directly confirmed; NEW Q-12-source-03 OPEN (Cadenas 2020 IQ main-effect F/p discrepancies, affected significance excluded).
