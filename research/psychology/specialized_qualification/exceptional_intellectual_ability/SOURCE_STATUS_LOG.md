@@ -226,3 +226,7 @@ E01 Frontiers methods/tables excerpts, Rinn/Bishop abstract indexed; E02 author 
 
 ## GFT-08.4 — 27.11.2026
 See unit E1–20 for access per source. E15 and E19 institutional full author abstracts directly read; E16–18 indexed abstracts/excerpts; direct PMC CAPTCHA and publisher fetch failures. E6 correction indexed publisher and author review reconfirmed. No full article read, systematic review, complete overlap or corrections audit. Q-08-tail OPEN: specific longitudinal strategy development, self-directed learning and experience effects in measured adult IQ150–160+ not established; Q-08-source-03 corrected main model estimates; initial GFT-08.4 pre-search card provenance missing (documented process deviation).
+
+
+## GFT-08.5 — 27.11.2026
+E1–3/E5 indexed author abstract/body rechecked; PMC/PubMed direct CAPTCHA. E4 publisher correction text/Table1 inspected. E6 publisher PDF extracted methods/results/discussion; page screenshots failed cache miss; no full paper/supplement or independent figure read; publisher/institutional HTML 403. Q-08-source-04 abstract N87,408 vs body N87,508; no reconciled total. No exhaustive corrections or overlap audit. Q-08-tail OPEN: measured adult IQ150–160+ longitudinal level/rank/profile, cross-domain development, identity/fit and strategy trajectories not established. Q-08-asynchrony UNIVERSAL_MECHANISM_NOT_ESTABLISHED; Q-08-source-01/02/04 OPEN_FOR_CLARIFICATION; Q-08-source-03 corrected main model. 08.4 initial card provenance limitation retained.
