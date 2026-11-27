@@ -53,3 +53,7 @@ GFT-09.4: distinguish high standards from perfection requirement, concerns, goal
 
 ## GFT-09.5 — 27.11.2026
 GFT-09.5: use published results to reconcile direction, not convenient abstract/summary. Hornstra 2023 unstandardized model change contrasts B=.36/.41 both p=.006 in extracted text, grade interactions present; educational statement remains inconsistent. No visual confirmation. No universal latent gifted motive; distinct constructs, conditions, outcome and cost. Null within-group correlations not confirmed between-group differences.
+
+
+## GFT-10.1 — 27.11.2026
+GFT-10.1: distinguish detection threshold, activation, peak, duration, frequency, valence, appraisal, expression and costs. OEQ/SPS/PERS not IQ or clinical diagnostic tests; updated meta-analysis challenges interpretation of older group effects. Null not equivalence, overlap not identity, ascertainment moderation not causal selection proof. Do not infer neural excitability from self-report.
