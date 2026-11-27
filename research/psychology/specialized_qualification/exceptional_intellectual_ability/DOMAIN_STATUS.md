@@ -27,7 +27,7 @@
 
 Статусы: QUEUED, IN_PROGRESS, BLOCKED, REVIEW_REQUIRED, COMPLETE_FOR_SPECIFIED_SCOPE. Последний требует проверенной evidence, практических правил, проверок и явно ограниченной области применимости. Нерешённый существенный пробел блокирует итоговую аттестацию, но не требует выдумывать недоступные данные.
 
-GFT-01–09 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 9/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail Q-09-tail и Q-10-tail OPEN. T0 сохранена, T1 ожидается.
+GFT-01–09 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 9/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail и Q-10-tail OPEN. T0 сохранена, T1 ожидается.
 
 Q-02-tail OPEN: обязательный остаточный пробел GFT-16/20; не считать точное измерение экстремального взрослого диапазона проверенным.
 
