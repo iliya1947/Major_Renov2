@@ -220,3 +220,7 @@ Kira-1: GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific
 
 
 Q-14-source-03 RESOLVED_FOR_REPORTED_ACUTE_ESTIMATE; abstract correction remains OPEN_FOR_PUBLISHER_CORRECTION. Direct JAMA original methods/results/discussion https://jamanetwork.com/journals/jama/fullarticle/186469 inspected: adjusted CGI severity parameter −0.53, 95% CI [−1.01,−0.05], t(24.31)=−2.29, p=.03, d=.53; abstract −0.0531 conflicts with original body. Adopt body estimate only. ANCOVA with baseline adjustment and multiple imputation; primary maintenance analysis selected CBT responders/partial responders, later additional treatment confounds exploratory follow-up between-group comparisons. No broad causal maintenance inference. No raw-data correction.
+
+## GFT-19.3 — 27.11.2026
+- Q-19-source-03 OPEN: full methods/metrics and comparative evidence in clinical formulation literature, correction/retraction status if materially needed. No claim of workflow clinical efficacy.
+- Q-19-tail and Q-19-source-01/02 remain OPEN. GFT-19.1–19.3 independent method scope completed; GFT-19.4 final integration BLOCKED_DEPENDENCIES pending actual GFT-16/17/18; retain ownership.

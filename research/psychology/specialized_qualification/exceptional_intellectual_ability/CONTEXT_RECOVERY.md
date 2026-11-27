@@ -112,3 +112,6 @@ GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinica
 
 ### Локальный checkpoint GFT-19 — 27.11.2026 (Кира-4)
 [GFT-19.2](19_analytical_methodology/GFT-19.2_competing_causal_models_and_revision.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.3 NEXT — интеграция минимально достаточного индивидуального анализа и сквозная проверка. Q-19-source-01/02, Q-19-tail OPEN. GFT-16/17/18 dependencies retained; T0/T1 unchanged. Prospective card publication failed, pre-search criteria recorded in attempted tool call and final block.
+
+### Локальный checkpoint GFT-19 — 27.11.2026 (Кира-4)
+[GFT-19.3](19_analytical_methodology/GFT-19.3_integrated_individual_analysis_and_revision.md) COMPLETE_FOR_SPECIFIED_SCOPE; независимая методология завершена, GFT-19 не закрыт. GFT-19.4 BLOCKED_DEPENDENCIES до готовности GFT-16/17/18. Q-19-tail, Q-19-source-01/02/03 OPEN. T0/T1 unchanged. Отдельный prospective commit не подтверждён (GitHub GraphQL error), критерии зафиксированы до поиска в попытке записи.
