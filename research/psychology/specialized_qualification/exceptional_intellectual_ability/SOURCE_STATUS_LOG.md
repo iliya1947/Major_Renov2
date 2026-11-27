@@ -366,3 +366,7 @@ E15.2-01/03 selected publisher sections; E02 institutional author abstract, PMC 
 
 
 GFT-16.3: Sixdenier author-hosted text method/results, SB5 publisher PDF extracted pp17–18 (screenshots cache miss), Makel alternate Vanderbilt PDF method/table note (screenshots cache miss), Toffalini/Lang institutional abstracts, Pearson FAQ index. Targeted recheck only, no full source or corrections audit, no new A1. Q-16-source-01–04 retained, -03 expanded.
+
+
+## GFT-14.4 — 27.11.2026
+Rechecked Atmaca/Baloğlu institutional author abstract, van Viersen Springer discussion, JAMA Safren body, Grinschgl Sage sections, van der Putten Sage and UvA final PDF text; screenshots5/8 cache miss; Solanto/Livingston/Scheeren/Khudiakova indexed primary content; 2024 Wiley403, overlap in Autism & Aging likely and 2023b baseline confirmed. Q-14-source-04 OPEN, all other access limits retained. Q-14-tail OPEN (direct separately measured adult IQ150–160+ compensation, masking, efficacy, moderation, cost, recovery and sustainability); Q-14-measure OPEN (construct/criterion/invariance), Q-14-causal OPEN (specific strategy/IQ mechanism), Q-14-transfer TASK_AND_GOAL_DEPENDENT, Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED, Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN. Q-14-source-01/02/04/05 remain OPEN; source-03 RESOLVED_FOR_REPORTED_ACUTE_ESTIMATE, abstract correction OPEN_FOR_PUBLISHER_CORRECTION. All inherited Q-02/06/12/13 restrictions retained.

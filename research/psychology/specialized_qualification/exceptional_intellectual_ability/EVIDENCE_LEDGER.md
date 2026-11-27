@@ -433,3 +433,7 @@ GFT-16.2 E16.2a–h: Toffalini/Lang/Sixdenier reused (no independent replication
 
 
 GFT-16.3 audit: rechecked selected source fragments for Sixdenier, SB5 bulletin, Makel, Toffalini/Lang abstract, Pearson FAQ index. Not new independent evidence or A1. Sixdenier A0 provisional and second arithmetic mismatch excluded; Duke independence limited to Kell 2013 participants. [Audit and provisional handoff](16_exceptional_intelligence/GFT-16.3_integration_and_sufficiency_audit.md). GFT-15-dependent integration blocked.
+
+
+## GFT-14.4 — 27.11.2026
+[GFT-14.4](14_compensation_and_adaptation/GFT-14.4_integration_transfer_and_sufficiency_audit.md) source rechecks, cross-domain dependencies and integrated gate. Q-14-tail OPEN (direct separately measured adult IQ150–160+ compensation, masking, efficacy, moderation, cost, recovery and sustainability); Q-14-measure OPEN (construct/criterion/invariance), Q-14-causal OPEN (specific strategy/IQ mechanism), Q-14-transfer TASK_AND_GOAL_DEPENDENT, Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED, Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN. Q-14-source-01/02/04/05 remain OPEN; source-03 RESOLVED_FOR_REPORTED_ACUTE_ESTIMATE, abstract correction OPEN_FOR_PUBLISHER_CORRECTION. All inherited Q-02/06/12/13 restrictions retained.

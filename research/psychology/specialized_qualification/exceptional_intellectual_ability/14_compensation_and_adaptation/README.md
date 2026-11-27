@@ -1,6 +1,6 @@
 # GFT-14 — Компенсация и адаптация
 
-Статус: IN_PROGRESS. GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE; Q-14-tail OPEN.
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE. GFT-14.1–14.4 COMPLETE_FOR_SPECIFIED_SCOPE; назначение Кира-1 COMPLETE; Q-14-tail OPEN.
 
 **Ответственная исследовательская сессия: Кира-1.** Закрепление 27.11.2026 по прямому указанию пользователя. Канонический локальный указатель для этой сессии — данный README, а не общий последовательный указатель на GFT-13.1.
 
@@ -37,7 +37,7 @@
 4. GFT-14.4 — интеграция, практический перенос, аудит достаточности, сверка GFT-13 и остаточных пробелов.
 Дробление предварительное, уточняется по реальным исследовательским вопросам. Во всех единицах отдельно искать прямые данные измеренного взрослого IQ150–160+; сохранять ограничения источников. Критерии завершения из ASSESSMENT_PROTOCOL неизменны.
 
-**Следующая единица Кира-1: GFT-14.4 — интеграция, практический перенос и аудит достаточности.** Проверить канонический итог GFT-13; не начата.
+**Работа Киры-1 по GFT-14 завершена в установленном объёме.** Следующей единицы нет; новое назначение только по указанию пользователя.
 
 
 - [GFT-14.1 — Constructs, measurement and comparative designs](GFT-14.1_constructs_measurement_and_comparative_designs.md): COMPLETE_FOR_SPECIFIED_SCOPE.
@@ -57,3 +57,9 @@ Q-14-source-03 RESOLVED_FOR_REPORTED_ACUTE_ESTIMATE; abstract correction remains
 - [GFT-14.3 — Resource cost, sustainability and camouflaging outcomes](GFT-14.3_resource_cost_sustainability_and_camouflaging_outcomes.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 
 Kira-1: GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level); GFT-14 IN_PROGRESS. Q-14-tail OPEN also for measured adult IQ150–160+ costs, recovery, sustainable functioning and camouflaging outcomes; Q-14-measure/causal/transfer retained; Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, no unitary resource; Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED; Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN; Q-14-source-04 OPEN (van der Putten HTML table/narrative discrepancies, PDF screenshots cache miss, affected estimates restricted); Q-14-source-05 OPEN (EMA lag methods, 2026 ADHD qualitative and newer burnout validation full results). Prior source-01/02 OPEN, source-03 acute estimate resolved, abstract correction open. GFT-13 closure recorded by Kira-2; verify its canonical synthesis before 14.4 closure. Next GFT-14.4 — интеграция, практический перенос и аудит достаточности. T0 unchanged/T1 pending.
+
+
+- [GFT-14.4 — Integration, practical transfer and sufficiency audit](GFT-14.4_integration_transfer_and_sufficiency_audit.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+
+GFT-14.1–14.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-14 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological/clinical-literacy scope); Кира-1 assignment COMPLETE. Q-14-tail OPEN (direct separately measured adult IQ150–160+ compensation, masking, efficacy, moderation, cost, recovery and sustainability); Q-14-measure OPEN (construct/criterion/invariance), Q-14-causal OPEN (specific strategy/IQ mechanism), Q-14-transfer TASK_AND_GOAL_DEPENDENT, Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED, Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN. Q-14-source-01/02/04/05 remain OPEN; source-03 RESOLVED_FOR_REPORTED_ACUTE_ESTIMATE, abstract correction OPEN_FOR_PUBLISHER_CORRECTION. All inherited Q-02/06/12/13 restrictions retained. Handoff GFT-15/18/19/20; no new assignment; STOP. T0 unchanged/T1 pending.
+Handoff to GFT-15/18/19/20: see canonical 14.4, preserve all residual questions; no new assignment.

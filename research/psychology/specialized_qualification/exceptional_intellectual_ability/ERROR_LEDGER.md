@@ -146,3 +146,7 @@ Correlation attenuation does not imply slope change; scale/ceiling can mimic cur
 
 
 GFT-16.3: additional source numerical inconsistency Sixdenier 11/53 ≠ 22.64% (20.75%), earlier 12/53 ≠ 26.41% (22.64%). Counts/denominators unresolved; don't adopt disputed percentages or silently swap counts. Scope clarification A0 reported score within adult sample ≠ verified current adult tail; Makel participant independence specific to Kell 2013. No critical error found in independent synthetic transfer; final dependent check pending.
+
+
+## GFT-14.4 — 27.11.2026
+Never infer latent difficulty/compensation or burden from output or IQ alone. Separate score masking vs behavioral masking, measured use vs benefit, cost vs output, chronology vs causality. Compare rival models with independent evidence, preserve support, restrict source anomalies and shared cohorts. No universal extreme-tail profile.
