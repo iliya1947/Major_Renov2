@@ -258,3 +258,7 @@ GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (independent methodological scope); GFT-17
 ## GFT-15.2 — 27.11.2026
 - Q-15-source-03 OPEN: De Gucht 2024 abstract/body mean age mismatch, full attrition/model tables and interaction uncertainty; full methods E02/04/05/06/08 not established. No clinical or causal buffering claim.
 - Q-15-tail OPEN for exposure-adjusted outcomes and resources in measured adult IQ150–160+. Q-15-source-01/02 retained. GFT-15.3 NEXT; actual GFT-14 dependency audit before final closure.
+
+
+## GFT-16.3 — 27.11.2026 (Кира-3)
+GFT-16.3 BLOCKED_DEPENDENCIES (independent integration/sufficiency checkpoint completed, internal sub-scope 12/12 only; not a completed unit). GFT-15 IN_PROGRESS at publication base; final wellbeing integration/closure pending. Core sources rechecked selectively; Sixdenier additionally 11/53 vs 22.64% and earlier 12/53 vs 26.41% (Q-16-source-03 expanded; no substituted values); A0 provisional in adult sample, age/date at maximal test not recovered. Q-16-measure/tail/sampling/profile/trajectory/source-01–04 and prior tail questions OPEN. GFT-16.1–16.2 remain complete for bounded scope. No T1. Provisional handoff not dependency release.

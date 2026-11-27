@@ -144,3 +144,7 @@ GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (independent methodological scope); GFT-17
 
 ### Локальный checkpoint GFT-15 — 27.11.2026 (Кира-4)
 [GFT-15.2](15_psychological_wellbeing/GFT-15.2_stress_resilience_context_and_protective_factors.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15.3 NEXT — клинические границы, устойчивость адаптации и интеграция; проверить GFT-14. Q-15-tail/source-01/02/03 OPEN, GFT-19 parked; T0/T1 unchanged.
+
+
+## GFT-16.3 — 27.11.2026 (Кира-3)
+GFT-16.3 BLOCKED_DEPENDENCIES (independent integration/sufficiency checkpoint completed, internal sub-scope 12/12 only; not a completed unit). GFT-15 IN_PROGRESS at publication base; final wellbeing integration/closure pending. Core sources rechecked selectively; Sixdenier additionally 11/53 vs 22.64% and earlier 12/53 vs 26.41% (Q-16-source-03 expanded; no substituted values); A0 provisional in adult sample, age/date at maximal test not recovered. Q-16-measure/tail/sampling/profile/trajectory/source-01–04 and prior tail questions OPEN. GFT-16.1–16.2 remain complete for bounded scope. No T1. Provisional handoff not dependency release.

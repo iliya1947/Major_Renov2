@@ -1,10 +1,10 @@
 # GFT-16 — Экстремальный диапазон интеллекта
 
-Статус: IN_PROGRESS. [GFT-16.1](GFT-16.1_extreme_range_measurement_norms_and_sampling.md) COMPLETE_FOR_SPECIFIED_SCOPE (методология измерения/выборок, не эмпирическая валидация хвоста); [GFT-16.2](GFT-16.2_profile_variability_and_life_trajectories.md) COMPLETE_FOR_SPECIFIED_SCOPE (профили и траектории, не эмпирический взрослый хвост).
+Статус: IN_PROGRESS — итоговая интеграция BLOCKED_DEPENDENCIES. [GFT-16.1](GFT-16.1_extreme_range_measurement_norms_and_sampling.md) COMPLETE_FOR_SPECIFIED_SCOPE (методология измерения/выборок, не эмпирическая валидация хвоста); [GFT-16.2](GFT-16.2_profile_variability_and_life_trajectories.md) COMPLETE_FOR_SPECIFIED_SCOPE (профили и траектории, не эмпирический взрослый хвост).
 
-**Ответственная сессия: Кира-3 — ASSIGNED**, 27.11.2026, по прямому указанию пользователя. Канонический реестр: [PARALLEL_WORK.md](../PARALLEL_WORK.md).
+**Ответственная сессия: Кира-3 — BLOCKED**, 27.11.2026, по прямому указанию пользователя. Канонический реестр: [PARALLEL_WORK.md](../PARALLEL_WORK.md).
 
-**Локальная следующая единица: GFT-16.3** — интеграция, аудит достаточности и handoff. До окончательного закрытия проверить фактическую готовность GFT-15; при незавершённости зависимые выводы и закрытие BLOCKED_DEPENDENCIES.
+**Локальная точка: [GFT-16.3](GFT-16.3_integration_and_sufficiency_audit.md) — BLOCKED_DEPENDENCIES.** Независимый аудит выполнен. После фактического закрытия GFT-15 прочитать её итоговые материалы, провести зависимую интеграцию и проверку, завершить аудит и handoff. Не переходить к другой области без назначения.
 
 ## Программа
 Исследования IQ 150–160+, достоверность норм, выборок и индивидуальная вариативность.

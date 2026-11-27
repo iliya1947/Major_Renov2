@@ -363,3 +363,6 @@ GFT-16.2: Makel published PDF methods screenshot p1 successful and discussion/Ta
 
 ## 27.11.2026 — GFT-15.2
 E15.2-01/03 selected publisher sections; E02 institutional author abstract, PMC reCAPTCHA; E04/05 Cambridge author abstracts; E06/07 PubMed abstracts/captions; E08 author indexed abstract, PMC reCAPTCHA. Not full corpus reading or comprehensive correction/retraction checks. E03 mean age abstract 44.86 vs results 44.68, approximate age only, Q-15-source-03. [Details](15_psychological_wellbeing/GFT-15.2_stress_resilience_context_and_protective_factors.md).
+
+
+GFT-16.3: Sixdenier author-hosted text method/results, SB5 publisher PDF extracted pp17–18 (screenshots cache miss), Makel alternate Vanderbilt PDF method/table note (screenshots cache miss), Toffalini/Lang institutional abstracts, Pearson FAQ index. Targeted recheck only, no full source or corrections audit, no new A1. Q-16-source-01–04 retained, -03 expanded.

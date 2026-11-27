@@ -151,3 +151,7 @@ GFT-16.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded cognitive-profile/educational-occ
 
 ## GFT-17.1 — 27.11.2026
 [GFT-17.1](17_nonlinear_differences/GFT-17.1_model_forms_identification_and_tail_validation.md): prospective card e3b9cb92, independent methodological closure; empirical dependent claims and domain integration remain gated by actual GFT-16 completion. Next 17.2 independent parts only. Recomputed common count including other sessions' completed blocks, not stale README. Initial prepared commit 98e66a7da5d20db6d0bce0e9bb1fab96d9c0fd3b hit GraphQL error/concurrent update; scientific content copied unchanged, shared files regenerated from current HEAD preserving GFT-15.1. No change to other owners or T1.
+
+
+## GFT-16.3 — 27.11.2026 (Кира-3)
+GFT-16.3 BLOCKED_DEPENDENCIES (independent integration/sufficiency checkpoint completed, internal sub-scope 12/12 only; not a completed unit). GFT-15 IN_PROGRESS at publication base; final wellbeing integration/closure pending. Core sources rechecked selectively; Sixdenier additionally 11/53 vs 22.64% and earlier 12/53 vs 26.41% (Q-16-source-03 expanded; no substituted values); A0 provisional in adult sample, age/date at maximal test not recovered. Q-16-measure/tail/sampling/profile/trajectory/source-01–04 and prior tail questions OPEN. GFT-16.1–16.2 remain complete for bounded scope. No T1. Provisional handoff not dependency release.
