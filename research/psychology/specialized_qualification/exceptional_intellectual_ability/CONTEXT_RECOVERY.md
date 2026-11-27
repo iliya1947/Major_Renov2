@@ -155,3 +155,6 @@ GFT-17.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded independent comparative evidence 
 
 ### Локальный checkpoint GFT-15 — 27.11.2026 (Кира-4)
 [GFT-15.3](15_psychological_wellbeing/GFT-15.3_clinical_boundaries_integration_and_sufficiency_audit.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15 COMPLETE_FOR_SPECIFIED_SCOPE, assignment COMPLETE; GFT-14.4 verified. Handoff GFT-16/18/19/20; Q-15-tail/source-01/02/03/04 OPEN. GFT-19.4 remains blocked pending GFT-16/17/18, no new active assignment. T0/T1 unchanged.
+
+### Кира-4: переключение активной области GFT-18 — 27.11.2026
+GFT-15 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-19.4 BLOCKED_DEPENDENCIES. По сигналу пользователя «...» после предложения GFT-18 зарегистрирована активная область [GFT-18](18_integrative_psychology/README.md). GFT-18.1 NEXT; научная работа ещё не начата. Независимая методология до готовности GFT-16/17; перед финальным закрытием проверить все зависимости. После GFT-18 вернуться к GFT-19.4 при выполнении gate, не начинать GFT-20. T0/T1 и чужие назначения неизменны.
