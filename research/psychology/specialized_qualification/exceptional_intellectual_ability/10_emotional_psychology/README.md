@@ -1,6 +1,6 @@
 # GFT-10 — Эмоциональная психология
 
-Статус: QUEUED. Исследования не начаты; научные выводы отсутствуют.
+Статус: IN_PROGRESS. GFT-10.1 COMPLETE_FOR_SPECIFIED_SCOPE (общепсихологический научно-методический уровень). Q-10-tail OPEN.
 
 ## Программа
 Чувствительность, интенсивность, дифференциация, регуляция и интеллект.
@@ -19,3 +19,10 @@
 5. Сохранить блоки в этом каталоге и обновить локальные реестры; закрытие по [ASSESSMENT_PROTOCOL](../ASSESSMENT_PROTOCOL.md).
 
 Навигация: [план](../CURRICULUM.md) · [карта](../RESEARCH_MAP.md) · [очередь](../RESEARCH_QUEUE.md) · [шаблон](../RESEARCH_TEMPLATE.md).
+
+
+## Научные единицы
+- [GFT-10.1 — Emotional sensitivity, intensity and overexcitability](GFT-10.1_emotional_sensitivity_intensity_and_overexcitability.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- GFT-10.2 — эмоциональная дифференциация, знание эмоций и эмоциональный интеллект: QUEUED.
+
+Q-10-tail OPEN: measured adult IQ150–160+ emotional sensitivity, intensity and sensory reactivity not established. Q-10-OE UNIVERSAL_OR_DIAGNOSTIC_PHENOTYPE_NOT_ESTABLISHED; updated Olszewski-Kubilius et al. 2026 meta-analysis constrains 2016 synthesis, ascertainment and publication bias matter.
