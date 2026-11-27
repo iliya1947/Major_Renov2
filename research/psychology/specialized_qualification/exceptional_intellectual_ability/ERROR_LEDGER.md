@@ -45,3 +45,7 @@ GFT-09.2: distinguish complexity, novelty, difficulty, perceived challenge and v
 
 ## GFT-09.3 — 27.11.2026
 GFT-09.3: autonomy not independence or enjoyment; Beck autonomy not SDT measure. Goal value, feasibility, implementation and costs distinct; persistence and adjustment conditional. Do not infer full causal mediation from meta-analytic paths. Hornstra 2023 contradictory direction withheld. Pre-search card committed before search.
+
+
+## GFT-09.4 — 27.11.2026
+GFT-09.4: distinguish high standards from perfection requirement, concerns, goal approach/avoidance, costs and attainment. Do not treat adjusted residual strivings as pure people; nonsignificant group difference not equivalence. Cross-lagged paths challenged by alternative models; no causal vicious-loop claim. Adult thesis without nongifted comparison not direct evidence of IQ-specific difference. Pre-search card committed before search.
