@@ -128,3 +128,7 @@ Kira-1: GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific
 
 ## GFT-13.3 — 27.11.2026
 [GFT-13.3](13_other_2e_profiles/GFT-13.3_heterogeneous_profiles_and_differential_reasoning.md) prospective card 4c2c1116; bounded differential closure, internal assessment only, open adult/source gaps. Next local GFT-13.4; other assignments preserved, T1 pending.
+
+
+## GFT-13.4 — 27.11.2026
+[GFT-13.4](13_other_2e_profiles/GFT-13.4_integration_transfer_and_sufficiency_audit.md): bounded sufficiency after rereading all three canonical units, checking dependencies, selected pivotal sources and internal 12/12 new multistage cases. GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological/clinical-literacy scope). Assignment Кира-2 COMPLETE; handoff to GFT-14/18/19/20, no new assignment. Q-13-tail, adult-direct, measure, SLD-adult, profile-calibration, DLD-DCD-adult OPEN; Q-13-source-01 partial, 02–05 OPEN. Profile/group associations not diagnostic, discrepancy not sufficient, causal compensation heterogeneous/unestablished. T0 unchanged/T1 pending. No further unit required for this scope; no new assignment. Other owners preserved.

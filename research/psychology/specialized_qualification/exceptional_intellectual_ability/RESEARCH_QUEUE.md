@@ -18,7 +18,7 @@
 | GFT-10 | Эмоциональная психология | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-10.1–10.4 |
 | GFT-11 | Социальная психология | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-11.1–11.5 |
 | GFT-12 | Одарённость и СДВГ | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-12.1–12.4 |
-| GFT-13 | Другие дважды исключительные профили | IN_PROGRESS |
+| GFT-13 | Другие дважды исключительные профили | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-13.1–13.4 |
 | GFT-14 | Компенсация и адаптация | IN_PROGRESS — GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE |
 | GFT-15 | Психологическое благополучие | QUEUED |
 | GFT-16 | Экстремальный диапазон интеллекта | QUEUED |
@@ -103,3 +103,7 @@ Kira-1: GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific
 
 ## GFT-13.3 — 27.11.2026 (локальный маршрут)
 GFT-13.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded differential-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-13-profile-calibration OPEN (edition/ability-conditioned norms and independently validated incremental accuracy); Q-13-DLD-DCD-adult OPEN (direct measured high-general-IQ adult comparisons); Q-13-tail OPEN; Q-13-source-05 OPEN (gifted DCD full methods/results and adult instrument recommendations); earlier GFT-13 questions retained. Next GFT-13.4 integration and sufficiency audit. T0 unchanged/T1 pending. Фактический счётчик 12/20 областей, 57 завершённых единиц; незавершённые карточки исключены (GFT-16.1). PARALLEL: локальная точка Кира-2.
+
+
+## GFT-13.4 — 27.11.2026 (локальный handoff)
+GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological/clinical-literacy scope). Assignment Кира-2 COMPLETE; handoff to GFT-14/18/19/20, no new assignment. Q-13-tail, adult-direct, measure, SLD-adult, profile-calibration, DLD-DCD-adult OPEN; Q-13-source-01 partial, 02–05 OPEN. Profile/group associations not diagnostic, discrepancy not sufficient, causal compensation heterogeneous/unestablished. T0 unchanged/T1 pending. Фактический счётчик: 13/20 областей, 58 завершённых единиц; исключены незавершённые карточки (GFT-16.1). PARALLEL: завершение назначения Кира-2, без автоматического перехода.

@@ -1,6 +1,6 @@
 # GFT-13 — Другие дважды исключительные профили
 
-Статус: IN_PROGRESS; GFT-13.1–13.3 COMPLETE_FOR_SPECIFIED_SCOPE.
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE.
 
 ## Программа
 Аутизм, специфические нарушения обучения, неоднородность способностей, дифференциальный анализ.
@@ -44,3 +44,8 @@ GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinica
 GFT-13.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded differential-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-13-profile-calibration OPEN (edition/ability-conditioned norms and independently validated incremental accuracy); Q-13-DLD-DCD-adult OPEN (direct measured high-general-IQ adult comparisons); Q-13-tail OPEN; Q-13-source-05 OPEN (gifted DCD full methods/results and adult instrument recommendations); earlier GFT-13 questions retained. Next GFT-13.4 integration and sufficiency audit. T0 unchanged/T1 pending.
 - [GFT-13.3](GFT-13.3_heterogeneous_profiles_and_differential_reasoning.md) — COMPLETE_FOR_SPECIFIED_SCOPE; внутренний 12/12.
 - GFT-13.4 — NEXT: интеграция и аудит достаточности.
+
+## Итог и handoff — 27.11.2026
+GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological/clinical-literacy scope). Assignment Кира-2 COMPLETE; handoff to GFT-14/18/19/20, no new assignment. Q-13-tail, adult-direct, measure, SLD-adult, profile-calibration, DLD-DCD-adult OPEN; Q-13-source-01 partial, 02–05 OPEN. Profile/group associations not diagnostic, discrepancy not sufficient, causal compensation heterogeneous/unestablished. T0 unchanged/T1 pending.
+- [GFT-13.4](GFT-13.4_integration_transfer_and_sufficiency_audit.md) — интеграция и аудит, внутренний 12/12, не независимая проверка.
+- Кира-2: назначение COMPLETE; новые области не назначены. Открытые эмпирические вопросы сохранены; не считать клинической квалификацией или T1.

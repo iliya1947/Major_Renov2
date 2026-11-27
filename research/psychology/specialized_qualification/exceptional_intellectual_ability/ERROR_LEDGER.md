@@ -125,3 +125,7 @@ Do not confuse assisted output with acquired skill, task-specific benefit with f
 
 ## GFT-13.3 — 27.11.2026
 Scatter not pathology; maximum-range mathematical coupling; rarity not specificity; LPA cluster not diagnosis; achievement not IQ; group effects not individual causal compensation; shared symptoms not automatically independent criteria; genetic correlation not prevalence or individual cause. No unmarked adult tail transfer. Same meta-analysis not replication.
+
+
+## GFT-13.4 — 27.11.2026
+Lijbers F(3,71)=84 => p=2.6476575812e-23 (scipy.stats.f.sf), contradicts stated nonsignificance; p<.33 alone does not contradict tiny p. F=.84 => p=.4764495, not a verified correction. Exclude affected omnibus inference, Q-13-source-04 open. No causal or diagnostic overclaim, no duplicate source/cohort or unmarked tail transfer.
