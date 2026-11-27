@@ -77,7 +77,7 @@ GFT-11 IN_PROGRESS; GFT-11.1–11.4 COMPLETE_FOR_SPECIFIED_SCOPE (bounded genera
 Следующая единица: GFT-11.5 — интеграция социальной психологии, практический перенос и аудит достаточности GFT-11.
 
 
-GFT-11.1–11.5 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-11 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level). Phase III COMPLETE_FOR_SPECIFIED_SCOPE; 11/20 domains, 45 bounded units (coverage, not competence percentage). Q-02–11-tail OPEN; Q-11-measure and Q-11-source-01–04 OPEN; Q-11-empathy, Q-11-gap and Q-11-fit universal profile/threshold rules NOT_ESTABLISHED. No newly established extreme-tail phenotype. Next GFT-12.2 — внимание, вариативность продуктивности и гиперфокус при СДВГ и высоком интеллекте. T0 unchanged/T1 pending.
+GFT-11.1–11.5 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-11 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level). Phase III COMPLETE_FOR_SPECIFIED_SCOPE; 11/20 domains, 45 bounded units (coverage, not competence percentage). Q-02–11-tail OPEN; Q-11-measure and Q-11-source-01–04 OPEN; Q-11-empathy, Q-11-gap and Q-11-fit universal profile/threshold rules NOT_ESTABLISHED. No newly established extreme-tail phenotype. Next GFT-12.1 — одарённость и СДВГ: определения, дифференциальная оценка и прямые сравнительные исследования. T0 unchanged/T1 pending.
 Следующая единица: GFT-12.1 — одарённость и СДВГ: определения, дифференциальная оценка и прямые сравнительные исследования.
 
 
