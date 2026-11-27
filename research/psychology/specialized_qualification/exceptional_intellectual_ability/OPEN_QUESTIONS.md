@@ -115,3 +115,7 @@ Q-08-tail OPEN: specific longitudinal strategy development, self-directed learni
 
 ## GFT-08.5 — 27.11.2026
 Q-08-tail OPEN: measured adult IQ150–160+ longitudinal level/rank/profile, cross-domain development, identity/fit and strategy trajectories not established. Q-08-asynchrony UNIVERSAL_MECHANISM_NOT_ESTABLISHED; Q-08-source-01/02/04 OPEN_FOR_CLARIFICATION; Q-08-source-03 corrected main model. 08.4 initial card provenance limitation retained. Q-08-source-04: Breit 2024 abstract N87,408 vs body N87,508; hold exact total pending clarification. Route Toffalini 2025 to GFT-16/17; final sufficiency to 20. Next GFT-09.1 — любознательность, потребность в познании, интерес и интеллектуальная вовлечённость.
+
+
+## GFT-09.1 — 27.11.2026
+Q-09-tail OPEN: measured adult IQ150–160+ curiosity, NFC, interest and intellectual engagement not established. Q-09-source-01 OPEN_FOR_CLARIFICATION: Meier 2014 abstract N921 vs final sample N920. Initial pre-search card provenance incomplete. Next GFT-09.2 — сложность, новизна, скука и требования задачи.
