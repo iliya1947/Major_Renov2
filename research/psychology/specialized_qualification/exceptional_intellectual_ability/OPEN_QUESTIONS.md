@@ -198,3 +198,7 @@ GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinica
 - Q-19-source-01 OPEN: obtain E19.1-04 full methods and N persons, metrics/uncertainty per validation scenario, before quantitative comparison. No universal effect asserted.
 - Q-19-tail OPEN: direct evidence for adult measured IQ 150–160+ applicability not established; reassess actual GFT-16/17/18 outputs before specific synthesis/closure; general method not a trait of high IQ.
 - Q-19 remains OPEN: GFT-19.1 general methods completed, GFT-19.2 next; domain not complete.
+
+
+## GFT-14.1 — 27.11.2026
+Kira-1: GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general construct/measurement-methodological scope); GFT-14 IN_PROGRESS. Q-14-tail OPEN (separately measured adult IQ150–160+ compensation, masking and adaptive functioning not established); Q-14-measure OPEN (strategy report, discrepancy, observed efficacy and functioning not interchangeable; cross-group invariance and criterion validity); Q-14-causal OPEN (IQ/strategy causal effect and latent difficulty not established by cross-sectional differences); Q-14-source-01 OPEN (full 2e meta-analysis, original ADHD/autism contrast and several primary papers unavailable); Q-13 dependencies retained; GFT-13.1 bounded completion only. Next GFT-14.2 — стратегии компенсации и внешние опоры: эффективность, перенос, причинность, роль интеллектуальных способностей. T0 unchanged/T1 pending.

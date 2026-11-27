@@ -110,3 +110,7 @@ GFT-12.1–12.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-12 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-13.1 — 27.11.2026
 Canonical checkpoint and branch 5861f9d reconciled in [GFT-13.1](13_other_2e_profiles/GFT-13.1_autism_high_ability_differential_and_comparative_evidence.md); no additional unit for branch. Q-13-source IDs canonical 01, branch issues 02/03. Bounded closure with explicit gaps and internal assessment only. Next local GFT-13.2; shared historical route not a command. No other owner change.
+
+
+## GFT-14.1 — 27.11.2026
+Kira-1: GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general construct/measurement-methodological scope); GFT-14 IN_PROGRESS. Q-14-tail OPEN (separately measured adult IQ150–160+ compensation, masking and adaptive functioning not established); Q-14-measure OPEN (strategy report, discrepancy, observed efficacy and functioning not interchangeable; cross-group invariance and criterion validity); Q-14-causal OPEN (IQ/strategy causal effect and latent difficulty not established by cross-sectional differences); Q-14-source-01 OPEN (full 2e meta-analysis, original ADHD/autism contrast and several primary papers unavailable); Q-13 dependencies retained; GFT-13.1 bounded completion only. Next GFT-14.2 — стратегии компенсации и внешние опоры: эффективность, перенос, причинность, роль интеллектуальных способностей. T0 unchanged/T1 pending.

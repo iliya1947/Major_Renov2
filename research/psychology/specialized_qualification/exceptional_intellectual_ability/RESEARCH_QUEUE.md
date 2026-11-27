@@ -19,7 +19,7 @@
 | GFT-11 | Социальная психология | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-11.1–11.5 |
 | GFT-12 | Одарённость и СДВГ | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-12.1–12.4 |
 | GFT-13 | Другие дважды исключительные профили | IN_PROGRESS |
-| GFT-14 | Компенсация и адаптация | QUEUED |
+| GFT-14 | Компенсация и адаптация | IN_PROGRESS — GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE |
 | GFT-15 | Психологическое благополучие | QUEUED |
 | GFT-16 | Экстремальный диапазон интеллекта | QUEUED |
 | GFT-17 | Нелинейность интеллектуальных различий | QUEUED |
@@ -89,3 +89,6 @@ GFT-12.1–12.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-12 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-13.1 — 27.11.2026 (локальный маршрут)
 GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail/adult-direct/measure OPEN; Q-13-source-01 partial (Doobay methods/results, adult qualitative indexed methods, Clarke institutional abstract; full access limits remain); Q-13-source-02 OPEN (Gelbar abstract ambiguity); Q-13-source-03 OPEN (camouflaging age moderation wording, no direction adopted); Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC. Next local GFT-13.2 — specific learning disorders and high ability. T0 unchanged/T1 pending. На момент записи по строкам DOMAIN_STATUS: 12/20 областей, 50 завершённых ограниченных единиц. Другие назначения не изменены; в PARALLEL действует локальный next action.
+
+
+Kira-1: GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general construct/measurement-methodological scope); GFT-14 IN_PROGRESS. Q-14-tail OPEN (separately measured adult IQ150–160+ compensation, masking and adaptive functioning not established); Q-14-measure OPEN (strategy report, discrepancy, observed efficacy and functioning not interchangeable; cross-group invariance and criterion validity); Q-14-causal OPEN (IQ/strategy causal effect and latent difficulty not established by cross-sectional differences); Q-14-source-01 OPEN (full 2e meta-analysis, original ADHD/autism contrast and several primary papers unavailable); Q-13 dependencies retained; GFT-13.1 bounded completion only. Next GFT-14.2 — стратегии компенсации и внешние опоры: эффективность, перенос, причинность, роль интеллектуальных способностей. T0 unchanged/T1 pending.

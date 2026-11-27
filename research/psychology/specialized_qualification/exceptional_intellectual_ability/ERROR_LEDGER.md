@@ -109,3 +109,7 @@ Do not equate published significance with valid arithmetic: Cadenas 2020 F(1,200
 
 ## GFT-13.1 — 27.11.2026
 Avoid index>=130 -> FSIQ>=130 substitution, gap -> absolute impairment, age cross-section -> decline, ordinary speed -> pathology, screening -> diagnosis, successful compensation -> exclusion. Doobay instrument administration detail not adopted without verification; Gelbar ambiguity excluded. Distinguish historical access claims and current verified evidence; no duplicate unit. Clarke DLS counterexample constrains deterministic discrepancy, not all adaptive domains.
+
+
+## GFT-14.1 — 27.11.2026
+Strategy report, observed behavior, discrepancy and outcome are not interchangeable. Do not infer latent deficit, diagnosis, costly compensation or causal IQ effect from successful performance. Guard mathematical coupling, measurement invariance, selection and support-withdrawal risks.

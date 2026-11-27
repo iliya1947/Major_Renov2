@@ -1,6 +1,6 @@
 # GFT-14 — Компенсация и адаптация
 
-Статус: QUEUED (assigned). Исследования не начаты; научные выводы отсутствуют.
+Статус: IN_PROGRESS. GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE; Q-14-tail OPEN.
 
 **Ответственная исследовательская сессия: Кира-1.** Закрепление 27.11.2026 по прямому указанию пользователя. Канонический локальный указатель для этой сессии — данный README, а не общий последовательный указатель на GFT-13.1.
 
@@ -37,4 +37,9 @@
 4. GFT-14.4 — интеграция, практический перенос, аудит достаточности, сверка GFT-13 и остаточных пробелов.
 Дробление предварительное, уточняется по реальным исследовательским вопросам. Во всех единицах отдельно искать прямые данные измеренного взрослого IQ150–160+; сохранять ограничения источников. Критерии завершения из ASSESSMENT_PROTOCOL неизменны.
 
-**Следующая единица Кира-1: GFT-14.1 — понятия компенсации, маскировки, адаптации и функциональной способности.** Не начата; перед предметным поиском сохранить проспективную карточку. Общий маршрут и счётчики не изменены назначением.
+**Следующая единица Кира-1: GFT-14.2 — стратегии компенсации и внешние опоры: эффективность, перенос, причинность, роль интеллектуальных способностей.** Не начата.
+
+
+- [GFT-14.1 — Constructs, measurement and comparative designs](GFT-14.1_constructs_measurement_and_comparative_designs.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+
+Kira-1: GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general construct/measurement-methodological scope); GFT-14 IN_PROGRESS. Q-14-tail OPEN (separately measured adult IQ150–160+ compensation, masking and adaptive functioning not established); Q-14-measure OPEN (strategy report, discrepancy, observed efficacy and functioning not interchangeable; cross-group invariance and criterion validity); Q-14-causal OPEN (IQ/strategy causal effect and latent difficulty not established by cross-sectional differences); Q-14-source-01 OPEN (full 2e meta-analysis, original ADHD/autism contrast and several primary papers unavailable); Q-13 dependencies retained; GFT-13.1 bounded completion only. Next GFT-14.2 — стратегии компенсации и внешние опоры: эффективность, перенос, причинность, роль интеллектуальных способностей. T0 unchanged/T1 pending.
