@@ -1,6 +1,6 @@
 # Очередь
 
-**Состояние: IN_PROGRESS.** GFT-01–09 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 9/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail Q-09-tail и Q-10-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-10.2 — эмоциональная дифференциация, знание эмоций и эмоциональный интеллект.
+**Состояние: IN_PROGRESS.** GFT-01–09 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 9/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail и Q-10-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-10.2 — эмоциональная дифференциация, знание эмоций и эмоциональный интеллект.
 
 | ID | Задача | Статус |
 |---|---|---|
