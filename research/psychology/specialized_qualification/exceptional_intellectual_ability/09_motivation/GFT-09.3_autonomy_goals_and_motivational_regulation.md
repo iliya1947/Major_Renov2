@@ -51,3 +51,7 @@ Internal self-review against pre-search rubric: concepts 2 (volition, value, act
 
 ## Handoff
 GFT-09.3 COMPLETE_FOR_SPECIFIED_SCOPE (selected general scientific-methodological content); GFT-09 IN_PROGRESS; 8/20 domains, 34 bounded units (coverage only). Q-02–09-tail OPEN; Q-09-tail extends to autonomy/goal motives, implementation and goal adjustment; Q-09-source-01/02 OPEN_FOR_CLARIFICATION. Next GFT-09.4 — perfectionism, standards, achievement motives and costs; not started. T0 unchanged, T1 pending. Pre-write review: public science, generic methodology and wholly invented examples only. STOP.
+
+
+## Source clarification from GFT-09.5 (27.11.2026)
+E7/Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION: extracted Table 5 and results section 3.3 agree giftedness -> change B=.36 external regulation and B=.41 amotivation (both p=.006 in text); grade interactions also significant. Educational relevance statement remains OPEN_FOR_PUBLISHER_CORRECTION. See 09_motivation/GFT-09.5_motivation_integration_transfer_and_sufficiency_audit.md. Screenshot attempts failed, not visually confirmed. No causal or adult tail inference.
