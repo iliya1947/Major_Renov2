@@ -141,3 +141,6 @@ GFT-16.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded cognitive-profile/educational-occ
 
 ## GFT-17.1 — 27.11.2026 (локальный маршрут)
 GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (independent methodological scope); GFT-17 IN_PROGRESS. Q-17-tail OPEN (separately measured adult upper-tail form/precision); Q-17-invariance OPEN (local measurement equivalence); Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-source-01 OPEN (full methods/upper-tail support of empirical examples). Q-02/16-tail, measure and selection limitations retained. Next GFT-17.2 — comparative empirical tests and counterevidence, independent portions only; final integration gated by actual GFT-16 completion. T0 unchanged/T1 pending. Фактический счётчик 13/20 областей, 63 завершённых единиц; незавершённые карточки исключены (нет). PARALLEL: Кира-2, GFT-13 завершена ранее.
+
+### Локальный checkpoint GFT-15 — 27.11.2026 (Кира-4)
+[GFT-15.2](15_psychological_wellbeing/GFT-15.2_stress_resilience_context_and_protective_factors.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15.3 NEXT — клинические границы, устойчивость адаптации и интеграция; проверить GFT-14. Q-15-tail/source-01/02/03 OPEN, GFT-19 parked; T0/T1 unchanged.

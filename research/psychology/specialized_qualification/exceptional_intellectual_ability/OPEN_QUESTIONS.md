@@ -254,3 +254,7 @@ GFT-16.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded cognitive-profile/educational-occ
 
 ## GFT-17.1 — 27.11.2026
 GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (independent methodological scope); GFT-17 IN_PROGRESS. Q-17-tail OPEN (separately measured adult upper-tail form/precision); Q-17-invariance OPEN (local measurement equivalence); Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-source-01 OPEN (full methods/upper-tail support of empirical examples). Q-02/16-tail, measure and selection limitations retained. Next GFT-17.2 — comparative empirical tests and counterevidence, independent portions only; final integration gated by actual GFT-16 completion. T0 unchanged/T1 pending. Directly measured adult tail needs local precision, adequate support, invariant outcomes/predictors, independent validation; resolve empirical examples' full methods, range and overlap in 17.2 or preserve limits.
+
+## GFT-15.2 — 27.11.2026
+- Q-15-source-03 OPEN: De Gucht 2024 abstract/body mean age mismatch, full attrition/model tables and interaction uncertainty; full methods E02/04/05/06/08 not established. No clinical or causal buffering claim.
+- Q-15-tail OPEN for exposure-adjusted outcomes and resources in measured adult IQ150–160+. Q-15-source-01/02 retained. GFT-15.3 NEXT; actual GFT-14 dependency audit before final closure.

@@ -360,3 +360,6 @@ GFT-16.2: Makel published PDF methods screenshot p1 successful and discussion/Ta
 
 ## GFT-17.1 — 27.11.2026
 [GFT-17.1](17_nonlinear_differences/GFT-17.1_model_forms_identification_and_tail_validation.md): Royston Oxford, Simonsohn APS, Sackett institutional, Weiss institutional, Brown APS author abstracts directly read; Varma/Simon selected publisher HTML methods/results. Ho BMJ403/cache miss, Hansen publisher403, Bauer/Tucker-Drob PMC CAPTCHA, Weiss MDPI429. Indexed original texts separately marked. Full articles/manuals and upper-tail coverage/overlap not audited; Q-17-source-01 OPEN.
+
+## 27.11.2026 — GFT-15.2
+E15.2-01/03 selected publisher sections; E02 institutional author abstract, PMC reCAPTCHA; E04/05 Cambridge author abstracts; E06/07 PubMed abstracts/captions; E08 author indexed abstract, PMC reCAPTCHA. Not full corpus reading or comprehensive correction/retraction checks. E03 mean age abstract 44.86 vs results 44.68, approximate age only, Q-15-source-03. [Details](15_psychological_wellbeing/GFT-15.2_stress_resilience_context_and_protective_factors.md).
