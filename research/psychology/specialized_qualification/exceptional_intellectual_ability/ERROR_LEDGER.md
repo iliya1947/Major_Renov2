@@ -61,3 +61,7 @@ GFT-10.1: distinguish detection threshold, activation, peak, duration, frequency
 
 ## GFT-10.2 — 27.11.2026
 GFT-10.2: differentiate emotion vocabulary, own emotion granularity, knowledge, test performance, self-perceptions and real-world action. ICC not accuracy; null not equivalence. Do not aggregate EI across incomparable measures or infer causal regulation from knowledge. Updated review estimates distinct dimensions, not identical estimand to older aggregate. Prior 10.1 Mensa evidence reused.
+
+
+## GFT-10.3 — 27.11.2026
+GFT-10.3: distinguish strategy choice, implementation, goal and outcome; baseline intensity and confounding by indication matter. Switching is not necessarily flexibility; retaining an effective strategy may be adaptive. School intervention with one school per condition and no IQ testing not direct evidence of measured giftedness. No universal strategy ranking or causal effect from EMA associations.
