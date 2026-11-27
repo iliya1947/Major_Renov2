@@ -25,3 +25,7 @@
 
 ## Уточнение GFT-07.4
 Do not count common recruitment cohort or repeated larger study as independent replication, compare pooled correlations of different outcomes as tested difference, treat estimated knot as significant without slope-change evidence, or equate conditional mean with necessary-condition boundary. Insight may correlate with accuracy in some tasks and be false in others; don't infer general absence/presence of an accuracy advantage. Achievement metrics not equivalent to quality or latent ability. 07.1 addendum and 07.4 A–C internal regression cases; no new independent test.
+
+
+## GFT-08.4 correction and process deviation
+Check corrigenda before quantitative reuse; E6 and GFT-05.2 E07 superseded. Do not equate initial/final level, gain, retention or transfer; intervention-related strategy change not spontaneous lifetime change. Missing initial pre-search card provenance recorded, no fabricated retrospective card; internal D–F assessment not independent certification.
