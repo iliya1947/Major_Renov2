@@ -65,3 +65,7 @@ GFT-10.2: differentiate emotion vocabulary, own emotion granularity, knowledge, 
 
 ## GFT-10.3 — 27.11.2026
 GFT-10.3: distinguish strategy choice, implementation, goal and outcome; baseline intensity and confounding by indication matter. Switching is not necessarily flexibility; retaining an effective strategy may be adaptive. School intervention with one school per condition and no IQ testing not direct evidence of measured giftedness. No universal strategy ranking or causal effect from EMA associations.
+
+
+## GFT-10.4 — 27.11.2026
+GFT-10.4: distinguish within-person task activation from between-person ability prediction; do not equate neural, task and self-report measures. Sicorello 2026 challenges common neural marker, not every neural mechanism; Bo 2024 different decomposition retained. Mensa 2023 denominator is analysis-specific; no inference from degrees of freedom to exact group sizes. No gifted emotional phenotype or universal strategy inferred.
