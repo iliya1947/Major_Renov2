@@ -258,3 +258,7 @@ E1 Becerra, E2 and E8 ERIC, E3 SAGE and E7 Springer full author abstracts direct
 
 ## GFT-10.2 — 27.11.2026
 E3/E9 Springer abstract and selected HTML sections directly inspected; other indexed author abstracts/excerpts, ScienceDirect/Wiley403, PubMed/PMC CAPTCHA, RePEc cache miss. No PDF analyzed/full article read; no exhaustive overlap/correction audit. Q-10-tail OPEN also for measured adult IQ150–160+ emotion differentiation, emotion knowledge and EI. Q-10-EI UNIVERSAL_ADVANTAGE_NOT_ESTABLISHED; Q-10-measure OPEN (instrument/version/scoring and precision); Q-10-OE retained. Ferrándiz 2026 dimension-specific synthesis constrains older aggregate estimates.
+
+
+## GFT-10.3 — 27.11.2026
+E3 Nature selected sections; E7 Nature abstract; E6 PubMed abstract; E8 Frontiers methods/limitations directly inspected. Other indexed abstracts/excerpts; CAPTCHA/cache misses. No PDF analyzed, no full article read or exhaustive correction/overlap audit. Q-10-tail OPEN also for measured adult IQ150–160+ strategy choice, efficacy and regulatory flexibility. Q-10-flex UNIVERSAL_STRATEGY_SITUATION_RULE_NOT_ESTABLISHED; Q-10-OE/EI/measure retained.
