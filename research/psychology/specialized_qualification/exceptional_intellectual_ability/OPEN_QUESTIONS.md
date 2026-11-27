@@ -151,3 +151,7 @@ Q-10-tail OPEN also for measured adult IQ150–160+ strategy choice, efficacy an
 
 ## GFT-10.4 — 27.11.2026
 Q-10-tail OPEN for separately measured adult IQ150–160+ emotional processes; Q-10-OE/EI/flex limitations retained; Q-10-measure/neural/source-01 OPEN (instrument-specific precision, neural prediction across measures, Mensa comparator denominator clarification). Next GFT-11.1 — социальное познание, принятие перспективы и точность социальных выводов.
+
+
+## GFT-11.1 — 27.11.2026
+Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive empathic accuracy; Q-11-measure OPEN (ceiling, reliability, validity, calibration); Q-11-source-01 OPEN (gifted youth task-specific effects and ascertainment). Next GFT-11.2 — эмпатия, сострадание, разделение аффекта и просоциальное поведение.
