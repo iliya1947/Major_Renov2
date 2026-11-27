@@ -62,3 +62,7 @@ GFT-10.2 completed for bounded general scientific-methodological scope; 38 units
 
 ## GFT-10.3 — 27.11.2026
 GFT-10.3 completed for bounded general scientific-methodological scope; 39 units, 9/20 domains. Q-10-tail OPEN also for measured adult IQ150–160+ strategy choice, efficacy and regulatory flexibility. Q-10-flex UNIVERSAL_STRATEGY_SITUATION_RULE_NOT_ESTABLISHED; Q-10-OE/EI/measure retained. Next GFT-10.4 — интеграция эмоциональной психологии, практический перенос и аудит достаточности GFT-10. T0 unchanged/T1 pending.
+
+
+## GFT-10.4 — 27.11.2026
+GFT-10 closed for specified general scientific-methodological scope; 10/20 domains, 40 units, phase III remains in progress. Q-10-tail OPEN for separately measured adult IQ150–160+ emotional processes; Q-10-OE/EI/flex limitations retained; Q-10-measure/neural/source-01 OPEN (instrument-specific precision, neural prediction across measures, Mensa comparator denominator clarification). Next GFT-11.1 — социальное познание, принятие перспективы и точность социальных выводов. T0 unchanged/T1 pending.
