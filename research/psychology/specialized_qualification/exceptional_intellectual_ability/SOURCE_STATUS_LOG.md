@@ -238,3 +238,7 @@ E2 ERIC full author abstract read; E1/E3–8 indexed author/publisher excerpts, 
 
 ## GFT-09.2 — 27.11.2026
 E2 ERIC full author abstract; E5 SAGE discussion excerpts; other indexed author excerpts, PubMed/PMC CAPTCHA, flow publisher403. No full article read or PDF analyzed; no exhaustive correction/dependence audit. Q-09-tail OPEN also for measured adult IQ150–160+ challenge preference, novelty, boredom and task demands. Q-09-source-01 remains open. Pre-search card committed before public search in GFT-09.2.
+
+
+## GFT-09.3 — 27.11.2026
+E6/E7 Utrecht full author abstracts, E9 Elsevier France bilingual author abstract, E5 Nature abstract and discussion excerpts; other indexed author excerpts. Direct 403/CAPTCHA/cache miss/502. No article fully read or PDF analyzed, no exhaustive overlap/correction audit. Q-09-tail OPEN also for measured adult IQ150–160+ autonomy/goal motives, implementation and adjustment. Q-09-source-01/02 OPEN_FOR_CLARIFICATION; Hornstra 2023 abstract vs educational relevance statement disagree on direction of change in external regulation and amotivation.
