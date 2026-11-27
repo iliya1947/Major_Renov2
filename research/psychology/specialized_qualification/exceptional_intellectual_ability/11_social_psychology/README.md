@@ -1,6 +1,6 @@
 # GFT-11 — Социальная психология
 
-Статус: QUEUED. Исследования не начаты; научные выводы отсутствуют.
+Статус: IN_PROGRESS. GFT-11.1 COMPLETE_FOR_SPECIFIED_SCOPE (общепсихологический научно-методический уровень). Q-11-tail OPEN.
 
 ## Программа
 Социальное познание, эмпатия, коммуникация, совместимость, близость, адаптация.
@@ -19,3 +19,10 @@
 5. Сохранить блоки в этом каталоге и обновить локальные реестры; закрытие по [ASSESSMENT_PROTOCOL](../ASSESSMENT_PROTOCOL.md).
 
 Навигация: [план](../CURRICULUM.md) · [карта](../RESEARCH_MAP.md) · [очередь](../RESEARCH_QUEUE.md) · [шаблон](../RESEARCH_TEMPLATE.md).
+
+
+## Научные единицы
+- [GFT-11.1 — Social cognition and inference accuracy](GFT-11.1_social_cognition_perspective_taking_and_inference_accuracy.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- GFT-11.2 — эмпатия, сострадание, разделение аффекта и просоциальное поведение: QUEUED.
+
+Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive empathic accuracy; Q-11-measure OPEN (ceiling, reliability, validity, calibration); Q-11-source-01 OPEN (gifted youth task-specific effects and ascertainment).
