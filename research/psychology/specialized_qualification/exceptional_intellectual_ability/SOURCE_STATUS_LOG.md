@@ -270,3 +270,7 @@ ERIC and Springer early-version abstracts, Bo 2024 Nature Neuroscience subscript
 
 ## GFT-11.1 — 27.11.2026
 ERIC/BGU/Birmingham full author abstracts and selected Springer HTML results inspected; other indexed abstracts/excerpts. CAPTCHA/429/cache misses. No PDF analyzed or full article read; no exhaustive correction/overlap audit. Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive empathic accuracy; Q-11-measure OPEN (ceiling, reliability, validity, calibration); Q-11-source-01 OPEN (gifted youth task-specific effects and ascertainment).
+
+
+## GFT-11.2 — 27.11.2026
+E2 UC institutional abstract, E4 Nature methods/results, E5 OUP abstract/results, E6 AEA abstract, E7 Nature abstract/results/discussion, E8 OUP/Nature abstract/intro directly inspected; other indexed abstracts/text; 403/CAPTCHA/Wiley fetch failure. No PDF analyzed or full article read; no exhaustive correction/overlap audit. Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained.
