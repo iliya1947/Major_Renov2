@@ -135,3 +135,7 @@ Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, ac
 
 ## GFT-09.5 — 27.11.2026
 Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED. Next GFT-10.1 — эмоциональная чувствительность, интенсивность и сверхвозбудимость.
+
+
+## GFT-10.1 — 27.11.2026
+Q-10-tail OPEN: measured adult IQ150–160+ emotional sensitivity, intensity and sensory reactivity not established. Q-10-OE UNIVERSAL_OR_DIAGNOSTIC_PHENOTYPE_NOT_ESTABLISHED; updated 2026 meta-analysis constrains 2016 synthesis; ascertainment and publication bias matter. Next GFT-10.2 — эмоциональная дифференциация, знание эмоций и эмоциональный интеллект.
