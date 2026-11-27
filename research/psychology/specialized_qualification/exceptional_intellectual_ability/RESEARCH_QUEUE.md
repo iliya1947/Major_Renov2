@@ -1,6 +1,6 @@
 # Очередь
 
-**Состояние: IN_PROGRESS.** GFT-01–11 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 11/20 областей завершены; этап III завершён в установленном объёме. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail, Q-10-tail, Q-11-tail и Q-12-tail OPEN. GFT-12 IN_PROGRESS; GFT-12.1 COMPLETE_FOR_SPECIFIED_SCOPE. T0 сохранена, T1 ожидается. Следующая единица: GFT-12.2 — внимание, вариативность продуктивности и гиперфокус при СДВГ и высоком интеллекте.
+**Состояние: IN_PROGRESS.** GFT-01–11 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 11/20 областей завершены; этап III завершён в установленном объёме. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail, Q-10-tail, Q-11-tail и Q-12-tail OPEN. GFT-12 IN_PROGRESS; GFT-12.1–12.2 COMPLETE_FOR_SPECIFIED_SCOPE. T0 сохранена, T1 ожидается. Следующая единица: GFT-12.3 — мотивация, вознаграждение, импульсивность и исполнительный контроль при СДВГ и высоком интеллекте.
 
 | ID | Задача | Статус |
 |---|---|---|
@@ -15,7 +15,7 @@
 | GFT-09 | Мотивация | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-09.1–09.5 |
 | GFT-10 | Эмоциональная психология | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-10.1–10.4 |
 | GFT-11 | Социальная психология | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-11.1–11.5 |
-| GFT-12 | Одарённость и СДВГ | IN_PROGRESS — GFT-12.1 |
+| GFT-12 | Одарённость и СДВГ | IN_PROGRESS — GFT-12.1–12.2 |
 | GFT-13 | Другие дважды исключительные профили | QUEUED |
 | GFT-14 | Компенсация и адаптация | QUEUED |
 | GFT-15 | Психологическое благополучие | QUEUED |
@@ -71,3 +71,7 @@ GFT-11.1–11.5 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-11 COMPLETE_FOR_SPECIFIED_SCOP
 
 GFT-12 IN_PROGRESS; GFT-12.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general clinical-literacy/scientific-methodological level, no diagnostic credential). 11/20 domains, 46 bounded units. Q-12-tail OPEN (separately measured adult IQ150–160+ ADHD phenotype, prevalence and differential validity not established); Q-12-prevalence OPEN (sampling, case definitions, denominators, no universal rate); Q-12-measure OPEN (within-person discrepancies not diagnostic; absolute/relative criteria and ecological validity); Q-12-source-01 OPEN (2026 pediatric nonlinear study full results unavailable; no adopted effect). Prior Q-02–11-tail and Q-11-source-04 retained. Next GFT-12.2 — внимание, вариативность продуктивности и гиперфокус при СДВГ и высоком интеллекте. T0 unchanged/T1 pending.
 Следующая единица: GFT-12.2 — внимание, вариативность продуктивности и гиперфокус при СДВГ и высоком интеллекте.
+
+
+GFT-12 IN_PROGRESS; GFT-12.1–12.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level). 11/20 domains, 47 bounded units. Q-12-tail OPEN also for separately measured adult IQ150–160+ attentional variability, hyperfocus and disengagement; Q-12-HF OPEN (construct overlap, measurement, objective and incremental validity; no diagnostic specificity established); Q-12-RTV NONSPECIFIC_GROUP_LEVEL_ASSOCIATION; Q-12-source-01 OPEN after repeat publisher access failure; Q-12-prevalence/measure and prior tail limitations retained. Next GFT-12.3 — мотивация, вознаграждение, импульсивность и исполнительный контроль при СДВГ и высоком интеллекте. T0 unchanged/T1 pending.
+Следующая единица: GFT-12.3 — мотивация, вознаграждение, импульсивность и исполнительный контроль при СДВГ и высоком интеллекте.
