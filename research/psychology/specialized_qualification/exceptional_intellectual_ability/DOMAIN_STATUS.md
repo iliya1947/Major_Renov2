@@ -1,6 +1,6 @@
 # Статус областей
 
-Инициализация 26.11.2026. 20/20 каталогов спроектировано, 7/20 областей научно завершены в установленном объёме, 0 завершённых аттестаций; T0 зафиксирована, T1 ожидается. Инициализация не является квалификацией.
+Инициализация 26.11.2026. 20/20 каталогов спроектировано, 10/20 областей научно завершены в установленном объёме, 0 завершённых аттестаций; T0 зафиксирована, T1 ожидается. Инициализация не является квалификацией.
 
 | ID | Область | Статус | Научные материалы |
 |---|---|---|---|
@@ -14,7 +14,7 @@
 | GFT-08 | [Развитие одарённой личности](08_personality_development/README.md) | COMPLETE_FOR_SPECIFIED_SCOPE | [GFT-08.1](08_personality_development/GFT-08.1_lifespan_cognitive_trajectories_age_cohort_and_selection.md), [GFT-08.2](08_personality_development/GFT-08.2_asynchronous_development_profile_heterogeneity_and_construct_limits.md), [GFT-08.3](08_personality_development/GFT-08.3_adult_gifted_identity_adaptation_and_person_environment_fit.md), [GFT-08.4](08_personality_development/GFT-08.4_cognitive_strategy_development_self_directed_learning_and_experience.md), [GFT-08.5](08_personality_development/GFT-08.5_development_integration_transfer_and_sufficiency_audit.md) |
 | GFT-09 | [Мотивация](09_motivation/README.md) | COMPLETE_FOR_SPECIFIED_SCOPE | [GFT-09.1](09_motivation/GFT-09.1_curiosity_need_for_cognition_interest_and_intellectual_engagement.md), [GFT-09.2](09_motivation/GFT-09.2_challenge_novelty_boredom_and_task_demands.md), [GFT-09.3](09_motivation/GFT-09.3_autonomy_goals_and_motivational_regulation.md), [GFT-09.4](09_motivation/GFT-09.4_perfectionism_standards_achievement_motives_and_costs.md), [GFT-09.5](09_motivation/GFT-09.5_motivation_integration_transfer_and_sufficiency_audit.md) |
 | GFT-10 | [Эмоциональная психология](10_emotional_psychology/README.md) | COMPLETE_FOR_SPECIFIED_SCOPE | [GFT-10.1](10_emotional_psychology/GFT-10.1_emotional_sensitivity_intensity_and_overexcitability.md), [GFT-10.2](10_emotional_psychology/GFT-10.2_emotion_differentiation_knowledge_and_emotional_intelligence.md), [GFT-10.3](10_emotional_psychology/GFT-10.3_emotion_regulation_flexibility_and_cognitive_ability.md), [GFT-10.4](10_emotional_psychology/GFT-10.4_emotional_psychology_integration_transfer_and_sufficiency_audit.md) |
-| GFT-11 | [Социальная психология](11_social_psychology/README.md) | IN_PROGRESS | [GFT-11.1](11_social_psychology/GFT-11.1_social_cognition_perspective_taking_and_inference_accuracy.md), [GFT-11.2](11_social_psychology/GFT-11.2_empathy_compassion_affect_sharing_and_prosocial_behavior.md) |
+| GFT-11 | [Социальная психология](11_social_psychology/README.md) | IN_PROGRESS | [GFT-11.1](11_social_psychology/GFT-11.1_social_cognition_perspective_taking_and_inference_accuracy.md), [GFT-11.2](11_social_psychology/GFT-11.2_empathy_compassion_affect_sharing_and_prosocial_behavior.md), [GFT-11.3](11_social_psychology/GFT-11.3_communication_mutual_understanding_and_cognitive_differences.md) |
 | GFT-12 | [Одарённость и СДВГ](12_giftedness_and_adhd/README.md) | QUEUED | Нет |
 | GFT-13 | [Другие дважды исключительные профили](13_other_2e_profiles/README.md) | QUEUED | Нет |
 | GFT-14 | [Компенсация и адаптация](14_compensation_and_adaptation/README.md) | QUEUED | Нет |
@@ -67,3 +67,7 @@ GFT-11 IN_PROGRESS; GFT-11.1 COMPLETE_FOR_SPECIFIED_SCOPE. Q-11-tail OPEN for me
 
 GFT-11 IN_PROGRESS; GFT-11.1–11.2 COMPLETE_FOR_SPECIFIED_SCOPE. Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained.
 Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+
+GFT-11 IN_PROGRESS; GFT-11.1–11.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological scope); 10/20 domains, 43 bounded units. Q-11-tail OPEN also for measured adult IQ150–160+ communication and mutual understanding; Q-11-gap UNIVERSAL_IQ_DIFFERENCE_THRESHOLD_NOT_ESTABLISHED; Q-11-source-03 OPEN_FOR_CLARIFICATION (De la Garza et al. 2026 abstract N40 vs method N44; LMG attribution not unique variance). Previous Q-11 limitations retained. Next GFT-11.4 — социальная совместимость, близость и адаптация. T0 unchanged/T1 pending.
+Следующая единица: GFT-11.4 — социальная совместимость, близость и адаптация.

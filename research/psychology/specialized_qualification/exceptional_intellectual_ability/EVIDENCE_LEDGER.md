@@ -345,3 +345,7 @@
 
 ## GFT-11.2 — 27.11.2026
 [GFT-11.2](11_social_psychology/GFT-11.2_empathy_compassion_affect_sharing_and_prosocial_behavior.md). E1 empathy/prosocial meta-analysis; E2 trait/state EMA; E3 empathy cost and rationality; E4 conditional observational associations and t/p discrepancy; E5 Swedish register data; E6 repeated games and disclosure; E7 charitable giving meta-analyses; E8 complementary reasoning and empathy, helping; E9 gifted review and tail search. Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained.
+
+
+## GFT-11.3 — 27.11.2026
+[GFT-11.3](11_social_psychology/GFT-11.3_communication_mutual_understanding_and_cognitive_differences.md). E1 common ground measures; E2 feedback; E3 nonverbal IQ/education/faux-pas, N discrepancy; E4 direct mismatch null; E5 perceived vs measured intelligence; E6 task-specific dyadic intelligence; E7 gifted self-report; E8 historical threshold and tail search. Q-11-tail OPEN also for measured adult IQ150–160+ communication and mutual understanding; Q-11-gap UNIVERSAL_IQ_DIFFERENCE_THRESHOLD_NOT_ESTABLISHED; Q-11-source-03 OPEN_FOR_CLARIFICATION (De la Garza et al. 2026 abstract N40 vs method N44; LMG attribution not unique variance). Previous Q-11 limitations retained.

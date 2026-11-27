@@ -274,3 +274,7 @@ ERIC/BGU/Birmingham full author abstracts and selected Springer HTML results ins
 
 ## GFT-11.2 — 27.11.2026
 E2 UC institutional abstract, E4 Nature methods/results, E5 OUP abstract/results, E6 AEA abstract, E7 Nature abstract/results/discussion, E8 OUP/Nature abstract/intro directly inspected; other indexed abstracts/text; 403/CAPTCHA/Wiley fetch failure. No PDF analyzed or full article read; no exhaustive correction/overlap audit. Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained.
+
+
+## GFT-11.3 — 27.11.2026
+Publisher selected HTML sections (E1, E3, E4, E6), ERIC author abstract E2, HU institutional abstract E5 and SAGE abstract E7 inspected. Indexed historical excerpts and other candidates only; cache misses, CAPTCHA and 403/429; no entire article or PDF analyzed; no raw data, exhaustive correction or overlap audit. Q-11-tail OPEN also for measured adult IQ150–160+ communication and mutual understanding; Q-11-gap UNIVERSAL_IQ_DIFFERENCE_THRESHOLD_NOT_ESTABLISHED; Q-11-source-03 OPEN_FOR_CLARIFICATION (De la Garza et al. 2026 abstract N40 vs method N44; LMG attribution not unique variance). Previous Q-11 limitations retained.

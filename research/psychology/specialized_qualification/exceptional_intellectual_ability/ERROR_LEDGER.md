@@ -77,3 +77,7 @@ GFT-11.1: distinguish perspective taking, obtaining information, inference confi
 
 ## GFT-11.2 — 27.11.2026
 GFT-11.2: distinguish emotion sharing, distress, concern, intended and enacted help and recipient benefit. Cognitive ability/conditional cooperation cannot establish moral character; perceived impact is not actual benefit, self-report is not action. Stanine upper category cannot resolve IQ150–160+. 2023 mindfulness study reports inconsistent t/p for negative slope; withhold numerical inference; cross-sectional association cannot establish intervention effect.
+
+
+## GFT-11.3 — 27.11.2026
+Do not equate IQ gap with comprehension, inferred IQ with measured IQ, group performance with relationship quality or LMG allocation with unique variance. Compare both scores, roles, shared knowledge, motivation and measurement error. Denissen abstract and TCG null constrain universal gap without proving equivalence; De la Garza N discrepancy not resolved.

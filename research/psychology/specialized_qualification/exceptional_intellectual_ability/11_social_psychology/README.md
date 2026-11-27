@@ -1,6 +1,6 @@
 # GFT-11 — Социальная психология
 
-Статус: IN_PROGRESS. GFT-11.1–11.2 COMPLETE_FOR_SPECIFIED_SCOPE (общепсихологический научно-методический уровень). Q-11-tail OPEN.
+Статус: IN_PROGRESS. GFT-11.1–11.3 COMPLETE_FOR_SPECIFIED_SCOPE (общепсихологический научно-методический уровень). Q-11-tail OPEN.
 
 ## Программа
 Социальное познание, эмпатия, коммуникация, совместимость, близость, адаптация.
@@ -24,8 +24,11 @@
 ## Научные единицы
 - [GFT-11.1 — Social cognition and inference accuracy](GFT-11.1_social_cognition_perspective_taking_and_inference_accuracy.md): COMPLETE_FOR_SPECIFIED_SCOPE.
 - [GFT-11.2 — Empathy, compassion and prosocial behavior](GFT-11.2_empathy_compassion_affect_sharing_and_prosocial_behavior.md): COMPLETE_FOR_SPECIFIED_SCOPE.
-- GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия: QUEUED.
+- [GFT-11.3 — Communication, mutual understanding and cognitive differences](GFT-11.3_communication_mutual_understanding_and_cognitive_differences.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- GFT-11.4 — социальная совместимость, близость и адаптация: QUEUED.
 
 Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive empathic accuracy; Q-11-measure OPEN (ceiling, reliability, validity, calibration); Q-11-source-01 OPEN (gifted youth task-specific effects and ascertainment).
 
 Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained.
+
+Q-11-tail OPEN also for measured adult IQ150–160+ communication and mutual understanding; Q-11-gap UNIVERSAL_IQ_DIFFERENCE_THRESHOLD_NOT_ESTABLISHED; Q-11-source-03 OPEN_FOR_CLARIFICATION (De la Garza et al. 2026 abstract N40 vs method N44; LMG attribution not unique variance). Previous Q-11 limitations retained.

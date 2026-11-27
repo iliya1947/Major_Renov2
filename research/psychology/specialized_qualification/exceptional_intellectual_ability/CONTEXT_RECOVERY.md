@@ -7,7 +7,7 @@
 3. Сверить evidence/error/open questions/decisions и статус источников, если релевантно.
 4. При противоречии остановить предметную работу, восстановить актуальное состояние; не угадывать.
 
-Текущая точка: GFT-01–10 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 10/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail, Q-10-tail и Q-11-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `11_social_psychology/GFT-11.2_empathy_compassion_affect_sharing_and_prosocial_behavior.md`. Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия. Персональные данные остаются вне репозитория.
+Текущая точка: GFT-01–10 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 10/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail, Q-10-tail и Q-11-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `11_social_psychology/GFT-11.3_communication_mutual_understanding_and_cognitive_differences.md`. Следующая единица: GFT-11.4 — социальная совместимость, близость и адаптация. Персональные данные остаются вне репозитория.
 
 Q-02-tail: не подтверждена локальная точность экстремального взрослого диапазона, полные технические руководства не получены; ограничение обязательно учитывать в GFT-03–20.
 
@@ -69,3 +69,7 @@ GFT-11 IN_PROGRESS; GFT-11.1 COMPLETE_FOR_SPECIFIED_SCOPE. Q-11-tail OPEN for me
 
 GFT-11 IN_PROGRESS; GFT-11.1–11.2 COMPLETE_FOR_SPECIFIED_SCOPE. Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained.
 Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+
+GFT-11 IN_PROGRESS; GFT-11.1–11.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological scope); 10/20 domains, 43 bounded units. Q-11-tail OPEN also for measured adult IQ150–160+ communication and mutual understanding; Q-11-gap UNIVERSAL_IQ_DIFFERENCE_THRESHOLD_NOT_ESTABLISHED; Q-11-source-03 OPEN_FOR_CLARIFICATION (De la Garza et al. 2026 abstract N40 vs method N44; LMG attribution not unique variance). Previous Q-11 limitations retained. Next GFT-11.4 — социальная совместимость, близость и адаптация. T0 unchanged/T1 pending.
+Следующая единица: GFT-11.4 — социальная совместимость, близость и адаптация.

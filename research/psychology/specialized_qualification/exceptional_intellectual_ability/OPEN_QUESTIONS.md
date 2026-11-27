@@ -159,3 +159,7 @@ Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive 
 
 ## GFT-11.2 — 27.11.2026
 Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained. Next GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+
+## GFT-11.3 — 27.11.2026
+GFT-11 IN_PROGRESS; GFT-11.1–11.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological scope); 10/20 domains, 43 bounded units. Q-11-tail OPEN also for measured adult IQ150–160+ communication and mutual understanding; Q-11-gap UNIVERSAL_IQ_DIFFERENCE_THRESHOLD_NOT_ESTABLISHED; Q-11-source-03 OPEN_FOR_CLARIFICATION (De la Garza et al. 2026 abstract N40 vs method N44; LMG attribution not unique variance). Previous Q-11 limitations retained. Next GFT-11.4 — социальная совместимость, близость и адаптация. T0 unchanged/T1 pending.
