@@ -7,7 +7,7 @@
 3. Сверить evidence/error/open questions/decisions и статус источников, если релевантно.
 4. При противоречии остановить предметную работу, восстановить актуальное состояние; не угадывать.
 
-Текущая точка: GFT-01–09 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 9/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail и Q-09-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `09_motivation/GFT-09.5_motivation_integration_transfer_and_sufficiency_audit.md`. Следующая единица: GFT-10.1 — эмоциональная чувствительность, интенсивность и сверхвозбудимость. Персональные данные остаются вне репозитория.
+Текущая точка: GFT-01–09 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 9/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail Q-09-tail и Q-10-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `10_emotional_psychology/GFT-10.1_emotional_sensitivity_intensity_and_overexcitability.md`. Следующая единица: GFT-10.2 — эмоциональная дифференциация, знание эмоций и эмоциональный интеллект. Персональные данные остаются вне репозитория.
 
 Q-02-tail: не подтверждена локальная точность экстремального взрослого диапазона, полные технические руководства не получены; ограничение обязательно учитывать в GFT-03–20.
 
@@ -50,4 +50,7 @@ GFT-09 IN_PROGRESS; GFT-09.1–09.3 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN
 GFT-09 IN_PROGRESS; GFT-09.1–09.4 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open.
 
 GFT-09 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-09.1–09.5 COMPLETE_FOR_SPECIFIED_SCOPE; 9/20 areas, 36 bounded units. Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED.
-Следующая единица: GFT-10.1 — эмоциональная чувствительность, интенсивность и сверхвозбудимость.
+Следующая единица: GFT-10.2 — эмоциональная дифференциация, знание эмоций и эмоциональный интеллект.
+
+GFT-10 IN_PROGRESS; GFT-10.1 COMPLETE_FOR_SPECIFIED_SCOPE. Q-10-tail OPEN: measured adult IQ150–160+ emotional sensitivity, intensity and sensory reactivity not established. Q-10-OE UNIVERSAL_OR_DIAGNOSTIC_PHENOTYPE_NOT_ESTABLISHED; updated Olszewski-Kubilius et al. 2026 meta-analysis constrains 2016 synthesis, ascertainment and publication bias matter.
+Следующая единица: GFT-10.2 — эмоциональная дифференциация, знание эмоций и эмоциональный интеллект.
