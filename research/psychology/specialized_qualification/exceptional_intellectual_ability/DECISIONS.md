@@ -102,3 +102,7 @@ GFT-12 IN_PROGRESS; GFT-12.1–12.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded genera
 
 ## GFT-12.4 — 27.11.2026
 GFT-12.1–12.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-12 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological/clinical-literacy level, not clinical credential or empirical extreme-tail profile). 12/20 areas, 49 bounded units, Phase IV remains IN_PROGRESS. Q-02–12-tail OPEN; Q-12-prevalence/measure/HF OPEN; Q-12-RTV and EF group associations not diagnostic; Q-12-motivation heterogeneous, no universal dopamine explanation; Q-12-source-01 OPEN (Nature redirect/PMC cache miss); Q-12-source-02 OPEN for full methods/results, author abstracts now directly confirmed; NEW Q-12-source-03 OPEN (Cadenas 2020 IQ main-effect F/p discrepancies, affected significance excluded). Next GFT-13.1 — аутизм и высокие интеллектуальные способности: определения, дифференциальная оценка и прямые сравнительные данные. T0 unchanged/T1 pending.
+
+
+## Параллельная работа — 27.11.2026
+По прямому указанию пользователя переход к нескольким исследовательским сессиям. [PARALLEL_WORK](PARALLEL_WORK.md) — канонический реестр назначений, локального продолжения и безопасной публикации. Кира-1 закреплена за GFT-14; остальные владельцы не подтверждены. Научные зависимости, критерии закрытия, приватность и общая аттестация неизменны. Историческая последовательность сохранена; отсутствие записи о владельце не означает свободу области.

@@ -1,5 +1,7 @@
 # Очередь
 
+**PARALLEL:** назначение владельцев и локальные маршруты — [PARALLEL_WORK](PARALLEL_WORK.md). Общая очередь отражает научное состояние и зависимости, а не единый next action для всех чатов.
+
 **Состояние: IN_PROGRESS.** GFT-01–12 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 12/20 областей завершены; этап III завершён в установленном объёме. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail, Q-10-tail, Q-11-tail и Q-12-tail OPEN. GFT-12 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-12.1–12.4 COMPLETE_FOR_SPECIFIED_SCOPE; Q-12-source-03 OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-13.1 — аутизм и высокие интеллектуальные способности: определения, дифференциальная оценка и прямые сравнительные данные.
 
 | ID | Задача | Статус |

@@ -2,6 +2,7 @@
 
 Кира, психолог / ассистент академика, постоянный кабинет PR #6, ветка research/psychology-foundation. Это локальная специализация. Общий кабинет и другие специализации не переопределяются.
 
+0. В режиме PARALLEL сначала прочитать [PARALLEL_WORK](PARALLEL_WORK.md) из актуального HEAD, проверить своё назначение и локальный указатель. Общий маршрут ниже не отменяет назначение.
 1. Проверить PR, фактический HEAD и общий AGENT/PRIVACY.
 2. Прочитать README, CURRICULUM, RESEARCH_MAP, RESEARCH_ORDER, DOMAIN_STATUS, RESEARCH_QUEUE и последний завершённый локальный блок, если есть.
 3. Сверить evidence/error/open questions/decisions и статус источников, если релевантно.
