@@ -356,3 +356,7 @@ Direct institutional abstracts Khudiakova/Vohs/Scheeren, selected Sage van der P
 
 
 GFT-16.2: Makel published PDF methods screenshot p1 successful and discussion/Table 3d; Gross ERIC PDF screenshot p6 successful and subject selection/results excerpts; Lubinski 2023 publisher participants, Table 1/results/response/data availability; Schlegler publisher Tables 1–2/limitations; Feldman/Brown publisher abstracts restricted; Brown eprint robots/PubMed CAPTCHA; prior adult studies indexed, no new full technical manual or A1 data. Supplements and comprehensive correction/retraction audit not done. Q-16-source-04 OPEN.
+
+
+## GFT-17.1 — 27.11.2026
+[GFT-17.1](17_nonlinear_differences/GFT-17.1_model_forms_identification_and_tail_validation.md): Royston Oxford, Simonsohn APS, Sackett institutional, Weiss institutional, Brown APS author abstracts directly read; Varma/Simon selected publisher HTML methods/results. Ho BMJ403/cache miss, Hansen publisher403, Bauer/Tucker-Drob PMC CAPTCHA, Weiss MDPI429. Indexed original texts separately marked. Full articles/manuals and upper-tail coverage/overlap not audited; Q-17-source-01 OPEN.

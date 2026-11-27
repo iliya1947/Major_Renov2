@@ -1,6 +1,6 @@
 # GFT-17 — Нелинейность интеллектуальных различий
 
-Статус: IN_PROGRESS; GFT-17.1 — проспективная карточка, научные результаты ещё не приняты.
+Статус: IN_PROGRESS; GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (методология).
 
 ## Программа
 Проверка сохранения или изменения закономерностей на верхнем хвосте.
@@ -22,3 +22,8 @@
 
 ## Назначение и локальная точка — 27.11.2026
 Кира-2, ASSIGNED, PARALLEL. Продолжение по сигналу пользователя после предложения GFT-17. GFT-02 и PSY-RES/PSYCHOMETRICS/DEC готовы в установленном объёме; GFT-16.1 готов, вся GFT-16 не закрыта. Независимый методический блок [GFT-17.1](GFT-17.1_model_forms_identification_and_tail_validation.md) — текущий. Эмпирические выводы, зависящие от GFT-16, и закрытие GFT-17 блокированы до проверки её фактического завершения. Предварительно 17.2 — сравнительные эмпирические проверки; 17.3 — интеграция при достаточности. Не считать незавершённую карточку единицей.
+
+## Локальная точка — 27.11.2026
+GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (independent methodological scope); GFT-17 IN_PROGRESS. Q-17-tail OPEN (separately measured adult upper-tail form/precision); Q-17-invariance OPEN (local measurement equivalence); Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-source-01 OPEN (full methods/upper-tail support of empirical examples). Q-02/16-tail, measure and selection limitations retained. Next GFT-17.2 — comparative empirical tests and counterevidence, independent portions only; final integration gated by actual GFT-16 completion. T0 unchanged/T1 pending.
+- [GFT-17.1](GFT-17.1_model_forms_identification_and_tail_validation.md) — COMPLETE_FOR_SPECIFIED_SCOPE; внутренняя проверка 12/12.
+- GFT-17.2 NEXT: эмпирические проверки, независимые части; итоговая интеграция после фактической готовности GFT-16.

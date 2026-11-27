@@ -423,3 +423,7 @@ E16.1g–k: Sixdenier WAIS-IV range 130–152 N53 (A0, not A1); Lang max-index s
 
 
 GFT-16.2 E16.2a–h: Toffalini/Lang/Sixdenier reused (no independent replication); Makel Duke excludes 12 SMPY participants (disjoint from Kell sample); Lubinski 2023 overlapping SMPY waves; Gross historical SB:L-M N60 nonrandom no control; Feldman 26+26 abstract historical; Brown four cohorts N48558 youth ability, abstract; Schlegler review 40 publications not independent. [Evidence, limits and internal checks](16_exceptional_intelligence/GFT-16.2_profile_variability_and_life_trajectories.md). Makel Table 3d corrects Kell Table 1 STEM label; avoid pooling inconsistent labels. No adult A1 inference.
+
+
+## GFT-17.1 — 27.11.2026
+[GFT-17.1](17_nonlinear_differences/GFT-17.1_model_forms_identification_and_tail_validation.md): E17.1a continuous form, b breakpoint/U-shape/interaction, c range/measurement, d nested validation, e empirical design contrasts; formal counterexamples and operational model comparison. GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (independent methodological scope); GFT-17 IN_PROGRESS. Q-17-tail OPEN (separately measured adult upper-tail form/precision); Q-17-invariance OPEN (local measurement equivalence); Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-source-01 OPEN (full methods/upper-tail support of empirical examples). Q-02/16-tail, measure and selection limitations retained. Next GFT-17.2 — comparative empirical tests and counterevidence, independent portions only; final integration gated by actual GFT-16 completion. T0 unchanged/T1 pending.

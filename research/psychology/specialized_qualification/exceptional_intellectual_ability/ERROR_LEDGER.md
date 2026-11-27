@@ -139,3 +139,7 @@ Do not infer hidden effort, unitary depletion, inevitable burnout or causal harm
 
 
 GFT-16.2 source correction: Makel 2016 Table 3d states Kell 2013 Table 1 organic sciences publications mislabeled STEM; original analyses/figures used inorganic disciplines. Avoid wrong label, no reanalysis or inference change beyond affected classification. Tests: cohort overlap, child score ≠ adult IQ, cross-sectional age ≠ within-person change, equal outcome ≠ equivalent ability, null ≠ equivalence, association ≠ causal effect, no unmarked extrapolation. Internal checks only.
+
+
+## GFT-17.1 — 27.11.2026
+Correlation attenuation does not imply slope change; scale/ceiling can mimic curvature; quadratic coefficient not reversal; subgroup significance difference not interaction; optimized cutpoint not confirmed threshold; reused tuning CV not independent error; youth ability not current adult FSIQ. No universal cutoff or extrapolation.

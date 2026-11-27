@@ -147,3 +147,7 @@ Kira-1: GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific
 
 ## GFT-16.2 — 27.11.2026 (Кира-3)
 GFT-16.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded cognitive-profile/educational-occupational trajectory methodology; internal assessment only). Duke TIP participant-disjoint from Kell 2013 verified (12 excluded); different trajectories in developmental cohorts, not measured adult A1. Q-16-profile/trajectory/source-04 OPEN; Q-16-tail/measure/sampling/source-01–03 retained. Makel 2016 Table 3d corrects Kell 2013 table classification (organic vs inorganic STEM). No established current adult extreme-tail phenotype, causal career threshold or wellbeing claim. Next local GFT-16.3 integration/audit; final closure depends on actual GFT-15 readiness. T0 unchanged/T1 pending.
+
+
+## GFT-17.1 — 27.11.2026
+[GFT-17.1](17_nonlinear_differences/GFT-17.1_model_forms_identification_and_tail_validation.md): prospective card e3b9cb92, independent methodological closure; empirical dependent claims and domain integration remain gated by actual GFT-16 completion. Next 17.2 independent parts only. Recomputed common count including other sessions' completed blocks, not stale README. Initial prepared commit 98e66a7da5d20db6d0bce0e9bb1fab96d9c0fd3b hit GraphQL error/concurrent update; scientific content copied unchanged, shared files regenerated from current HEAD preserving GFT-15.1. No change to other owners or T1.

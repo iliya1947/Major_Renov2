@@ -22,7 +22,7 @@
 | GFT-14 | Компенсация и адаптация | IN_PROGRESS — GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE |
 | GFT-15 | Психологическое благополучие | IN_PROGRESS — GFT-15.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-15.2 NEXT (Кира-4) |
 | GFT-16 | Экстремальный диапазон интеллекта | IN_PROGRESS — GFT-16.1–16.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16.3 NEXT (Кира-3; dependency GFT-15) |
-| GFT-17 | Нелинейность интеллектуальных различий | QUEUED |
+| GFT-17 | Нелинейность интеллектуальных различий | IN_PROGRESS |
 | GFT-18 | Интегративная психология одарённости | QUEUED |
 | GFT-19 | Методология психологического анализа | IN_PROGRESS — GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 BLOCKED_DEPENDENCIES (Кира-4, GFT-16/17/18) |
 | GFT-20 | Интеграционная аттестация | QUEUED |
@@ -116,3 +116,7 @@ Kira-1: GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific
 
 
 GFT-16.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded cognitive-profile/educational-occupational trajectory methodology; internal assessment only). Duke TIP participant-disjoint from Kell 2013 verified (12 excluded); different trajectories in developmental cohorts, not measured adult A1. Q-16-profile/trajectory/source-04 OPEN; Q-16-tail/measure/sampling/source-01–03 retained. Makel 2016 Table 3d corrects Kell 2013 table classification (organic vs inorganic STEM). No established current adult extreme-tail phenotype, causal career threshold or wellbeing claim. Next local GFT-16.3 integration/audit; final closure depends on actual GFT-15 readiness. T0 unchanged/T1 pending.
+
+
+## GFT-17.1 — 27.11.2026 (локальный маршрут)
+GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (independent methodological scope); GFT-17 IN_PROGRESS. Q-17-tail OPEN (separately measured adult upper-tail form/precision); Q-17-invariance OPEN (local measurement equivalence); Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-source-01 OPEN (full methods/upper-tail support of empirical examples). Q-02/16-tail, measure and selection limitations retained. Next GFT-17.2 — comparative empirical tests and counterevidence, independent portions only; final integration gated by actual GFT-16 completion. T0 unchanged/T1 pending. Фактический счётчик 13/20 областей, 63 завершённых единиц; незавершённые карточки исключены (нет). PARALLEL: Кира-2, GFT-13 завершена ранее.

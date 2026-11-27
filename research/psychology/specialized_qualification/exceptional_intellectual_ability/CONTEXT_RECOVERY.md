@@ -137,3 +137,7 @@ GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded psychometric/sampling methodology
 
 ## GFT-16.2 — 27.11.2026 (Кира-3)
 GFT-16.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded cognitive-profile/educational-occupational trajectory methodology; internal assessment only). Duke TIP participant-disjoint from Kell 2013 verified (12 excluded); different trajectories in developmental cohorts, not measured adult A1. Q-16-profile/trajectory/source-04 OPEN; Q-16-tail/measure/sampling/source-01–03 retained. Makel 2016 Table 3d corrects Kell 2013 table classification (organic vs inorganic STEM). No established current adult extreme-tail phenotype, causal career threshold or wellbeing claim. Next local GFT-16.3 integration/audit; final closure depends on actual GFT-15 readiness. T0 unchanged/T1 pending.
+
+
+## GFT-17.1 — 27.11.2026 (локальный маршрут)
+GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (independent methodological scope); GFT-17 IN_PROGRESS. Q-17-tail OPEN (separately measured adult upper-tail form/precision); Q-17-invariance OPEN (local measurement equivalence); Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-source-01 OPEN (full methods/upper-tail support of empirical examples). Q-02/16-tail, measure and selection limitations retained. Next GFT-17.2 — comparative empirical tests and counterevidence, independent portions only; final integration gated by actual GFT-16 completion. T0 unchanged/T1 pending. Фактический счётчик 13/20 областей, 63 завершённых единиц; незавершённые карточки исключены (нет). PARALLEL: Кира-2, GFT-13 завершена ранее.
