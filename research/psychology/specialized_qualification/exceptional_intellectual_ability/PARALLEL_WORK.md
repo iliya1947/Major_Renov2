@@ -12,7 +12,7 @@
 | [GFT-13 — Другие дважды исключительные профили](13_other_2e_profiles/README.md) | **Кира-2** | ASSIGNED | GFT-13.1–13.2 COMPLETE_FOR_SPECIFIED_SCOPE; следующий локальный блок GFT-13.3. |
 | [GFT-14 — Компенсация и адаптация](14_compensation_and_adaptation/README.md) | **Кира-1** | ASSIGNED | GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE; следующий локальный блок GFT-14.2. |
 | [GFT-15 — Психологическое благополучие](15_psychological_wellbeing/README.md) | — | UNREGISTERED | Назначение не подтверждено. |
-| [GFT-16 — Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | **Кира-3** | ASSIGNED | GFT-16.1; исследование не начато. |
+| [GFT-16 — Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | **Кира-3** | ASSIGNED | GFT-16.1 IN_PROGRESS; checkpoint измерения, норм и выборок. |
 | [GFT-17 — Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | — | UNREGISTERED | Назначение не подтверждено. |
 | [GFT-18 — Интегративная психология одарённости](18_integrative_psychology/README.md) | — | UNREGISTERED | Назначение не подтверждено. |
 | [GFT-19 — Методология психологического анализа](19_analytical_methodology/README.md) | **Кира-4** | ASSIGNED | GFT-19.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.2 NEXT. GFT-16/17/18 остаются зависимостями закрытия. |

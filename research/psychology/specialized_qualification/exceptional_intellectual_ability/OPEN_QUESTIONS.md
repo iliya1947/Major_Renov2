@@ -206,3 +206,6 @@ Kira-1: GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general construct/measure
 
 ## GFT-13.2 — 27.11.2026
 GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail OPEN also for SLD; Q-13-SLD-discrepancy NOT_SUFFICIENT_FOR_DIAGNOSIS; Q-13-SLD-compensation HETEROGENEOUS_NOT_CAUSALLY_ESTABLISHED; Q-13-SLD-adult OPEN (measured high general IQ and writing/math comparisons); Q-13-source-04 OPEN (Lijbers 2025 model-change reporting); earlier Q-13 questions retained. Next local GFT-13.3 — heterogeneous profiles and differential assessment. T0 unchanged/T1 pending. Adult SLD: measured general high-IQ direct comparisons, language-specific measurement and functional outcomes; extreme strata separate. Source-04 author clarification/model output needed.
+
+## GFT-16.1 — 27.11.2026 (IN_PROGRESS)
+Q-16-measure/source-01/tail/sampling OPEN; Q-02-tail OPEN. No PASS; GFT-15 remains prerequisite for dependent conclusions/closure. [Details](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md).

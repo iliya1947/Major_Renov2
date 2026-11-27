@@ -19,7 +19,7 @@
 | GFT-13 | [Другие дважды исключительные профили](13_other_2e_profiles/README.md) | IN_PROGRESS | [GFT-13.1](13_other_2e_profiles/GFT-13.1_autism_high_ability_differential_and_comparative_evidence.md), [GFT-13.2](13_other_2e_profiles/GFT-13.2_specific_learning_disorders_and_high_ability.md) |
 | GFT-14 | [Компенсация и адаптация](14_compensation_and_adaptation/README.md) | IN_PROGRESS | [GFT-14.1](14_compensation_and_adaptation/GFT-14.1_constructs_measurement_and_comparative_designs.md) |
 | GFT-15 | [Психологическое благополучие](15_psychological_wellbeing/README.md) | QUEUED | Нет |
-| GFT-16 | [Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | QUEUED | Нет |
+| GFT-16 | [Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | IN_PROGRESS | [GFT-16.1 checkpoint](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md) |
 | GFT-17 | [Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | QUEUED | Нет |
 | GFT-18 | [Интегративная психология одарённости](18_integrative_psychology/README.md) | QUEUED | Нет |
 | GFT-19 | [Методология психологического анализа](19_analytical_methodology/README.md) | IN_PROGRESS | [GFT-19.1](19_analytical_methodology/GFT-19.1_group_to_individual_competing_models.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.2 NEXT |

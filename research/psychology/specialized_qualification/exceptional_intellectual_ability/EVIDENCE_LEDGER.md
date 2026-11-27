@@ -388,3 +388,6 @@ Source cards and limits: [GFT-19.1](19_analytical_methodology/GFT-19.1_group_to_
 
 ## GFT-13.2 — 27.11.2026
 [GFT-13.2](13_other_2e_profiles/GFT-13.2_specific_learning_disorders_and_high_ability.md): E13.2a diagnosis; b discrepancy/response; c conflicting compensation and overlap; d discrepant readers; e adult literacy/high PIQ; f writing; g mathematics. GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail OPEN also for SLD; Q-13-SLD-discrepancy NOT_SUFFICIENT_FOR_DIAGNOSIS; Q-13-SLD-compensation HETEROGENEOUS_NOT_CAUSALLY_ESTABLISHED; Q-13-SLD-adult OPEN (measured high general IQ and writing/math comparisons); Q-13-source-04 OPEN (Lijbers 2025 model-change reporting); earlier Q-13 questions retained. Next local GFT-13.3 — heterogeneous profiles and differential assessment. T0 unchanged/T1 pending.
+
+## GFT-16.1 — 27.11.2026 (IN_PROGRESS)
+[E16.1a–f](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md): Toffalini FSIQ≥125 n111, no FSIQ160; Lenhard local analysis ±3 SD; Urban v2 index; Redvaldsen experimental dependent self-report norms; Pearson FAQ; norming review index. No verified adult ≥150/160 precision. Toffalini reused, not independent replication.

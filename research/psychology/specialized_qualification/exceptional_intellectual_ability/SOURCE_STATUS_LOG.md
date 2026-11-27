@@ -319,3 +319,6 @@ WHO ICF text plus two screenshots, two relevant screenshot cache misses; Springe
 
 ## GFT-13.2 — 27.11.2026
 [GFT-13.2](13_other_2e_profiles/GFT-13.2_specific_learning_disorders_and_high_ability.md): APA diagnosis, Stuebing 2002 and van Viersen 2016 publisher abstracts, van Viersen 2015 methods/discussion, Lijbers 2025 methods/Table6, Reis institutional abstract, Frontiers adult methods/caveats, Assouline ERIC author abstract directly inspected. Wiley403, PMC CAPTCHA, MDPI429; other claims indexed original text. WHO release list checked, exact 6A03/full manuals not verified. Q-13-source-04 open.
+
+## GFT-16.1 — 27.11.2026 (IN_PROGRESS)
+Toffalini/Redvaldsen PDF excerpts, screenshots cache miss; Lenhard publisher HTML sections; Urban v2 preprint indexed, DOI cache miss; Pearson FAQ indexed only; review indexed, PMC CAPTCHA. No full manuals or verified local precision. [Details](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md).
