@@ -353,3 +353,7 @@
 
 ## GFT-11.4 — 27.11.2026
 [GFT-11.4](11_social_psychology/GFT-11.4_social_compatibility_closeness_and_adaptation.md). E1 measured/perceived partner IQ compatibility null; E2 Mensa relationship quality and attachment/conflict; E3 Marburg and Swedish cohort; E4 stage-specific similarity and assortment; E5 hypothetical IQ desirability; E6 adult gifted support and source discrepancies; E7 intimacy/relationship-specific predictors; E8 isolation/loneliness and tail search. Q-11-tail OPEN also for separately measured adult IQ150–160+ social compatibility, closeness, loneliness and adaptation; Q-11-fit UNIVERSAL_SOCIAL_MALADJUSTMENT_OR_IQ_COMPATIBILITY_RULE_NOT_ESTABLISHED; Q-11-source-04 OPEN_FOR_CLARIFICATION (Poirier et al. 2025 reported chi-square/p and correlation/p inconsistencies, Table 5 coefficient/OR discrepancies). Prior Q-11 limitations retained.
+
+
+## GFT-11.5 — 27.11.2026
+[GFT-11.5](11_social_psychology/GFT-11.5_social_psychology_integration_transfer_and_sufficiency_audit.md): coverage and contradictions audit, conditional person–partner–context–time transfer, prior evidence not independent. Q-02–11-tail OPEN; Q-11-measure and Q-11-source-01–04 OPEN; Q-11-empathy, Q-11-gap and Q-11-fit universal profile/threshold rules NOT_ESTABLISHED. No newly established extreme-tail phenotype.

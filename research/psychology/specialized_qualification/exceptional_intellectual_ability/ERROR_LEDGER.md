@@ -85,3 +85,7 @@ Do not equate IQ gap with comprehension, inferred IQ with measured IQ, group per
 
 ## GFT-11.4 — 27.11.2026
 Separate formation, selection, attraction, established relationship quality and loneliness; perceived IQ is not measured IQ, percentile vignette not actual behavior; non-significance not equivalence. Poirier 2025 reported chi-square/p, correlation/p and B/OR discrepancies: withhold affected estimates, carry to GFT-12/15. No universal gifted social deficit or IQ matching rule.
+
+
+## GFT-11.5 — 27.11.2026
+Do not collapse social inference, empathy, helping, communication, compatibility and adaptation into a single gifted phenotype. Correct observed-event prediction does not prove motive accuracy; relationship-stage selection and dependence of evidence matter. Preserve source anomalies and no-tail boundaries.

@@ -1,6 +1,6 @@
 # Очередь
 
-**Состояние: IN_PROGRESS.** GFT-01–10 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 10/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail, Q-10-tail и Q-11-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-11.5 — интеграция социальной психологии, практический перенос и аудит достаточности GFT-11.
+**Состояние: IN_PROGRESS.** GFT-01–11 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 11/20 областей завершены; этап III завершён в установленном объёме. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail, Q-10-tail и Q-11-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-12.1 — одарённость и СДВГ: определения, дифференциальная оценка и прямые сравнительные исследования.
 
 | ID | Задача | Статус |
 |---|---|---|
@@ -14,7 +14,7 @@
 | GFT-08 | Развитие одарённой личности | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-08.1–08.5 |
 | GFT-09 | Мотивация | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-09.1–09.5 |
 | GFT-10 | Эмоциональная психология | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-10.1–10.4 |
-| GFT-11 | Социальная психология | IN_PROGRESS — GFT-11.1–11.4 |
+| GFT-11 | Социальная психология | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-11.1–11.5 |
 | GFT-12 | Одарённость и СДВГ | QUEUED |
 | GFT-13 | Другие дважды исключительные профили | QUEUED |
 | GFT-14 | Компенсация и адаптация | QUEUED |
@@ -63,3 +63,7 @@ GFT-11 IN_PROGRESS; GFT-11.1–11.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded genera
 
 GFT-11 IN_PROGRESS; GFT-11.1–11.4 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological scope); 10/20 domains, 44 bounded units. Q-11-tail OPEN also for separately measured adult IQ150–160+ social compatibility, closeness, loneliness and adaptation; Q-11-fit UNIVERSAL_SOCIAL_MALADJUSTMENT_OR_IQ_COMPATIBILITY_RULE_NOT_ESTABLISHED; Q-11-source-04 OPEN_FOR_CLARIFICATION (Poirier et al. 2025 reported chi-square/p and correlation/p inconsistencies, Table 5 coefficient/OR discrepancies). Prior Q-11 limitations retained. Next GFT-11.5 — интеграция социальной психологии, практический перенос и аудит достаточности GFT-11. T0 unchanged/T1 pending.
 Следующая единица: GFT-11.5 — интеграция социальной психологии, практический перенос и аудит достаточности GFT-11.
+
+
+GFT-11.1–11.5 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-11 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level). Phase III COMPLETE_FOR_SPECIFIED_SCOPE; 11/20 domains, 45 bounded units (coverage, not competence percentage). Q-02–11-tail OPEN; Q-11-measure and Q-11-source-01–04 OPEN; Q-11-empathy, Q-11-gap and Q-11-fit universal profile/threshold rules NOT_ESTABLISHED. No newly established extreme-tail phenotype. Next GFT-12.1 — одарённость и СДВГ: определения, дифференциальная оценка и прямые сравнительные исследования. T0 unchanged/T1 pending.
+Следующая единица: GFT-12.1 — одарённость и СДВГ: определения, дифференциальная оценка и прямые сравнительные исследования.
