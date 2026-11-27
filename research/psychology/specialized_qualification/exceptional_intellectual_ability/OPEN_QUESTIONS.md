@@ -309,3 +309,6 @@ Q-20-revision: R1 correction partially successful, 9/12; new temporal ordering p
 
 
 Q-20-revision: LOCAL_REGRESSION_PASSED_FOR_SPECIFIED_SCOPE after R1 9/12 and R2 12/12; independent/uncued general transfer OPEN. Q-20-comparability OPEN, comparative REVIEW_REQUIRED unchanged; see [R2](20_final_assessment/REVISION_R2_EVALUATION.md). No objective improvement. Separate multidisciplinary check pending.
+
+
+Q-20-knowledge-transfer RETEST_REQUIRED: K3/2 unverified component equivalence; 46/48 internal. Q-20-revision R2 local pass only, general transfer OPEN (new failure on measurement specificity). Q-20-comparability OPEN; comparative REVIEW_REQUIRED. See [integrated assessment](20_final_assessment/INTEGRATED_TEST_EVALUATION.md). Q-tail/source retained.
