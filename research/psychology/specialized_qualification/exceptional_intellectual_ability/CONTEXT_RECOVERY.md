@@ -184,3 +184,7 @@ GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-20 — coverage gate, 27.11.2026
 GFT-20 IN_PROGRESS (Кира-3 ASSIGNED); dependency gate 01–19 verified (19 areas, 73 unique units, all 73 structurally checked; closure coverage and selected cross-source limitations reviewed; INT-05/ETH records and T0/protocol history checked). [COVERAGE_AUDIT](20_final_assessment/COVERAGE_AUDIT.md) recorded, not a scientific unit/attestation. No independent evidence audit of every external paper, no established adult-tail phenotype, prior questions OPEN. T0 unchanged and content not opened; T1 not started. Next: comparative assessment design and actual comparability/independence gate, per unchanged ASSESSMENT_PROTOCOL.
+
+
+## GFT-20 — comparative design, 27.11.2026
+GFT-20 IN_PROGRESS (Кира-3 ASSIGNED); T0 read fully, original scores 44/63 unchanged; [COMPARATIVE_DESIGN](20_final_assessment/COMPARATIVE_DESIGN.md) and [T1_TASKS](20_final_assessment/T1_TASKS.md) recorded before responses. Three new paired fictional tasks, 5+2 observations each, approximate stimulus-length and thematic comparability checked, no proven equal difficulty or independent author/evaluator. Internal comparison only; leakage/expectation/practice and historical setting limits explicit. T0/ASSESSMENT_PROTOCOL unchanged. T1 not executed, no responses or scores. Next: record T1 responses under documented conditions before evaluation; separate final six-criterion knowledge/transfer check remains.
