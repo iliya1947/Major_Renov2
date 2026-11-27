@@ -29,3 +29,7 @@ Do not count common recruitment cohort or repeated larger study as independent r
 
 ## GFT-08.4 correction and process deviation
 Check corrigenda before quantitative reuse; E6 and GFT-05.2 E07 superseded. Do not equate initial/final level, gain, retention or transfer; intervention-related strategy change not spontaneous lifetime change. Missing initial pre-search card provenance recorded, no fabricated retrospective card; internal D–F assessment not independent certification.
+
+
+## GFT-08.5 — 27.11.2026
+GFT-08.5: check abstract against body before using sample size; retain both if inconsistent. Age-specific covariance and selection on composite can produce average profile differences without within-person changes. No diagnosis from relative weakness; no universal gifted developmental mechanism; no proof of objective skill gain from internal rubric. Corrected stale count: 30 before 08.5, 31 after.
