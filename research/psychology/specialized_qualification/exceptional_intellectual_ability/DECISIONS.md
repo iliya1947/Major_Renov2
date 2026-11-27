@@ -106,3 +106,7 @@ GFT-12.1–12.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-12 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## Параллельная работа — 27.11.2026
 По прямому указанию пользователя переход к нескольким исследовательским сессиям. [PARALLEL_WORK](PARALLEL_WORK.md) — канонический реестр назначений, локального продолжения и безопасной публикации. Кира-1 закреплена за GFT-14; остальные владельцы не подтверждены. Научные зависимости, критерии закрытия, приватность и общая аттестация неизменны. Историческая последовательность сохранена; отсутствие записи о владельце не означает свободу области.
+
+
+## GFT-13.1 — 27.11.2026
+Canonical checkpoint and branch 5861f9d reconciled in [GFT-13.1](13_other_2e_profiles/GFT-13.1_autism_high_ability_differential_and_comparative_evidence.md); no additional unit for branch. Q-13-source IDs canonical 01, branch issues 02/03. Bounded closure with explicit gaps and internal assessment only. Next local GFT-13.2; shared historical route not a command. No other owner change.

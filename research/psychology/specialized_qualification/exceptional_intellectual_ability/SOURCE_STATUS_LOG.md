@@ -304,3 +304,7 @@ Q-12-source-02 OPEN: complete reward receipt and 2023 effort primary results ina
 
 ## GFT-12.4 — 27.11.2026
 Direct author abstracts Antshel 2009/2010, Groen 2020, Chong 2023 and von Rhein 2015 institutional mirrors; selected Cadenas 2020/Senkowski 2024 Springer sections; NICE older NCBI sections and current index (403). Q-12-source-01 direct failures repeated; Q-12-source-02 partial abstract-level confirmation, full PMC CAPTCHA; new Q-12-source-03 F/p discrepancies independently calculated, primary result affected. No full article/manual or raw-data reanalysis. Q-02–12-tail OPEN; Q-12-prevalence/measure/HF OPEN; Q-12-RTV and EF group associations not diagnostic; Q-12-motivation heterogeneous, no universal dopamine explanation; Q-12-source-01 OPEN (Nature redirect/PMC cache miss); Q-12-source-02 OPEN for full methods/results, author abstracts now directly confirmed; NEW Q-12-source-03 OPEN (Cadenas 2020 IQ main-effect F/p discrepancies, affected significance excluded).
+
+
+## GFT-13.1 — 27.11.2026
+[GFT-13.1](13_other_2e_profiles/GFT-13.1_autism_high_ability_differential_and_comparative_evidence.md): Doobay original-text mirror methods/tables1–3/results, Wilson publisher table5, Clarke Rutgers author abstract, Cancino-Barros selected publisher results directly inspected; other adopted sources indexed abstracts/results as specified. NICE403, PMC CAPTCHA, MDPI429, Ashwood timeout. Full current manuals and complete articles not verified. Q-13-source-01 partial, 02/03 open; no exact inaccessible estimates adopted.

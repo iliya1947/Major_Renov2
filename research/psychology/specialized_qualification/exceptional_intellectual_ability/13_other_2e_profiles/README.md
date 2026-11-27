@@ -1,6 +1,6 @@
 # GFT-13 — Другие дважды исключительные профили
 
-Статус: IN_PROGRESS (канонический GFT-13.1 — промежуточная запись; завершение не подтверждено).
+Статус: IN_PROGRESS; GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE.
 
 ## Программа
 Аутизм, специфические нарушения обучения, неоднородность способностей, дифференциальный анализ.
@@ -23,3 +23,10 @@
 ## Назначение и локальное продолжение
 
 27.11.2026 — ответственная сессия **Кира-GFT-13**, ASSIGNED по прямому назначению и подтверждению регистрации пользователем. Канонический реестр: [PARALLEL_WORK](../PARALLEL_WORK.md). Следующее действие: сверить [GFT-13.1](GFT-13.1_autism_high_ability_differential_and_comparative_evidence.md) с ранее сохранённым результатом ветки research/psychology-gft-13 (5861f9d73bebe380687c07bbfad86ef2e5bf0294), устранить дублирование и расхождения, проверить источники и ограничения, завершить обязательные проверки до объявления закрытия. Не считать отдельную ветку дополнительной завершённой единицей. GFT-12 закрыт в установленном объёме; сохранены открытые ограничения. Публикация на актуальном HEAD PR #6 с expected_sha. Общие счётчики не меняются при регистрации.
+
+## Локальная точка — 27.11.2026
+GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail/adult-direct/measure OPEN; Q-13-source-01 partial (Doobay methods/results, adult qualitative indexed methods, Clarke institutional abstract; full access limits remain); Q-13-source-02 OPEN (Gelbar abstract ambiguity); Q-13-source-03 OPEN (camouflaging age moderation wording, no direction adopted); Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC. Next local GFT-13.2 — specific learning disorders and high ability. T0 unchanged/T1 pending.
+- [GFT-13.1](GFT-13.1_autism_high_ability_differential_and_comparative_evidence.md) — сверены две версии; завершён в указанном объёме.
+- GFT-13.2 — NEXT: специфические нарушения обучения и высокий интеллект.
+- GFT-13.3 — неоднородность профилей и дифференциальный анализ (предварительно).
+- GFT-13.4 — интеграция и аудит достаточности (предварительно).

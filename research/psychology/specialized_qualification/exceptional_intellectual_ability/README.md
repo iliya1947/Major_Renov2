@@ -4,7 +4,7 @@
 
 Цель: углубить психологическую компетентность в работе с высокими и исключительными интеллектуальными способностями взрослых, включая диапазон IQ 150–160+, дважды исключительные профили и интегративный анализ. Диапазоны служат предметом исследования, а не универсальными диагностическими категориями. Не подразумевается наличие особого общего профиля у всех одарённых людей.
 
-20 областей, 6 этапов, 49 ограниченных единиц завершены (GFT-01.1–01.3, GFT-02.1–02.3, GFT-03.1–03.4, GFT-04.1–04.4, GFT-05.1–05.4, GFT-06.1–06.4, GFT-07.1–07.4, GFT-08.1–08.5, GFT-09.1–09.5, GFT-10.1–10.4, GFT-11.1–11.5, GFT-12.1–12.4), 12/20 областей завершены в установленном объёме. Точная полнота программы подлежит научной проверке по мере изучения. Самостоятельное направление, не продолжение другой специализации. Общие правила кабинета: [AGENT](../../AGENT.md), [PRIVACY](../../PRIVACY.md), [EVIDENCE_POLICY](../../EVIDENCE_POLICY.md), [WORKFLOW](../../WORKFLOW.md). Локальные файлы не заменяют эти правила. Никаких индивидуальных данных, клинической сертификации или утверждений о переобучении ИИ.
+20 областей, 6 этапов, 50 ограниченных единиц завершены (GFT-01.1–01.3, GFT-02.1–02.3, GFT-03.1–03.4, GFT-04.1–04.4, GFT-05.1–05.4, GFT-06.1–06.4, GFT-07.1–07.4, GFT-08.1–08.5, GFT-09.1–09.5, GFT-10.1–10.4, GFT-11.1–11.5, GFT-12.1–12.4, GFT-13.1), 12/20 областей завершены в установленном объёме. Точная полнота программы подлежит научной проверке по мере изучения. Самостоятельное направление, не продолжение другой специализации. Общие правила кабинета: [AGENT](../../AGENT.md), [PRIVACY](../../PRIVACY.md), [EVIDENCE_POLICY](../../EVIDENCE_POLICY.md), [WORKFLOW](../../WORKFLOW.md). Локальные файлы не заменяют эти правила. Никаких индивидуальных данных, клинической сертификации или утверждений о переобучении ИИ.
 
 **Режим работы: PARALLEL.** Назначения сессий и правила координации — [PARALLEL_WORK](PARALLEL_WORK.md). Сессии продолжают только закреплённые области; научные зависимости сохраняются.
 
@@ -79,3 +79,7 @@ GFT-11 IN_PROGRESS; GFT-11.1 COMPLETE_FOR_SPECIFIED_SCOPE. Q-11-tail OPEN for me
 
 GFT-11 IN_PROGRESS; GFT-11.1–11.2 COMPLETE_FOR_SPECIFIED_SCOPE. Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained.
 Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+
+## GFT-13.1 — 27.11.2026 (локальный маршрут)
+GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail/adult-direct/measure OPEN; Q-13-source-01 partial (Doobay methods/results, adult qualitative indexed methods, Clarke institutional abstract; full access limits remain); Q-13-source-02 OPEN (Gelbar abstract ambiguity); Q-13-source-03 OPEN (camouflaging age moderation wording, no direction adopted); Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC. Next local GFT-13.2 — specific learning disorders and high ability. T0 unchanged/T1 pending. На момент записи по строкам DOMAIN_STATUS: 12/20 областей, 50 завершённых ограниченных единиц. Другие назначения не изменены; в PARALLEL действует локальный next action.

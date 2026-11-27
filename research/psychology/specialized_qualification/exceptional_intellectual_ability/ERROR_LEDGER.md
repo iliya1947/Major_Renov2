@@ -105,3 +105,7 @@ Do not equate desire with implementation, monetary delay discounting with motor 
 
 ## GFT-12.4 — 27.11.2026
 Do not equate published significance with valid arithmetic: Cadenas 2020 F(1,200)=3.81 p<.05 vs calculated .05234, F(1,116)=4.64 p=.32 vs .03330. Restrict affected claims, distinguish repeated observations and unique participants, no raw-data correction or misconduct claim. No IQ diagnostic inference or causal compensation from group contrast.
+
+
+## GFT-13.1 — 27.11.2026
+Avoid index>=130 -> FSIQ>=130 substitution, gap -> absolute impairment, age cross-section -> decline, ordinary speed -> pathology, screening -> diagnosis, successful compensation -> exclusion. Doobay instrument administration detail not adopted without verification; Gelbar ambiguity excluded. Distinguish historical access claims and current verified evidence; no duplicate unit. Clarke DLS counterexample constrains deterministic discrepancy, not all adaptive domains.
