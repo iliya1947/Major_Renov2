@@ -123,3 +123,6 @@ GFT-13.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded differential-methodological/clini
 
 ## GFT-13.4 — 27.11.2026 (локальный handoff)
 GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological/clinical-literacy scope). Assignment Кира-2 COMPLETE; handoff to GFT-14/18/19/20, no new assignment. Q-13-tail, adult-direct, measure, SLD-adult, profile-calibration, DLD-DCD-adult OPEN; Q-13-source-01 partial, 02–05 OPEN. Profile/group associations not diagnostic, discrepancy not sufficient, causal compensation heterogeneous/unestablished. T0 unchanged/T1 pending. Фактический счётчик: 13/20 областей, 58 завершённых единиц; исключены незавершённые карточки (GFT-16.1). PARALLEL: завершение назначения Кира-2, без автоматического перехода.
+
+### Кира-4: переключение активной области — 27.11.2026
+По прямому указанию пользователя GFT-19 приостановлена: GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-19.4 BLOCKED_DEPENDENCIES до готовности GFT-16/17/18, владелец сохранён; [handoff](19_analytical_methodology/README.md). Активная область [GFT-15](15_psychological_wellbeing/README.md), GFT-15.1 NEXT; научный старт ещё не выполнен. Выбор обусловлен освобождением зависимостей GFT-16/18. Не запускать GFT-19.4 параллельно с GFT-15 автоматически; чужие назначения и T0/T1 неизменны.
