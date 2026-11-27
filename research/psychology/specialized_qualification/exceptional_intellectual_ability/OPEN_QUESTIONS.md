@@ -111,3 +111,7 @@ Q-08-tail OPEN for measured adult IQ150–160+ identity, fit and adaptation as w
 
 ## Handoff GFT-08.4 (27.11.2026)
 Q-08-tail OPEN: specific longitudinal strategy development, self-directed learning and experience effects in measured adult IQ150–160+ not established; Q-08-source-03 corrected main model estimates; initial GFT-08.4 pre-search card provenance missing (documented process deviation). Q-08-source-01/02 remain OPEN_FOR_CLARIFICATION. GFT-08.5 — интеграция, практический перенос и аудит достаточности GFT-08.
+
+
+## GFT-08.5 — 27.11.2026
+Q-08-tail OPEN: measured adult IQ150–160+ longitudinal level/rank/profile, cross-domain development, identity/fit and strategy trajectories not established. Q-08-asynchrony UNIVERSAL_MECHANISM_NOT_ESTABLISHED; Q-08-source-01/02/04 OPEN_FOR_CLARIFICATION; Q-08-source-03 corrected main model. 08.4 initial card provenance limitation retained. Q-08-source-04: Breit 2024 abstract N87,408 vs body N87,508; hold exact total pending clarification. Route Toffalini 2025 to GFT-16/17; final sufficiency to 20. Next GFT-09.1 — любознательность, потребность в познании, интерес и интеллектуальная вовлечённость.
