@@ -1,10 +1,10 @@
 # GFT-16 — Экстремальный диапазон интеллекта
 
-Статус: IN_PROGRESS — итоговая интеграция BLOCKED_DEPENDENCIES. [GFT-16.1](GFT-16.1_extreme_range_measurement_norms_and_sampling.md) COMPLETE_FOR_SPECIFIED_SCOPE (методология измерения/выборок, не эмпирическая валидация хвоста); [GFT-16.2](GFT-16.2_profile_variability_and_life_trajectories.md) COMPLETE_FOR_SPECIFIED_SCOPE (профили и траектории, не эмпирический взрослый хвост).
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE — GFT-16.1–16.3 завершены в ограниченном научно-методологическом объёме, не эмпирическая валидация взрослого хвоста.
 
-**Ответственная сессия: Кира-3 — BLOCKED**, 27.11.2026, по прямому указанию пользователя. Канонический реестр: [PARALLEL_WORK.md](../PARALLEL_WORK.md).
+**Ответственная сессия: Кира-3 — COMPLETE**, 27.11.2026, по прямому указанию пользователя. Канонический реестр: [PARALLEL_WORK.md](../PARALLEL_WORK.md).
 
-**Локальная точка: [GFT-16.3](GFT-16.3_integration_and_sufficiency_audit.md) — BLOCKED_DEPENDENCIES.** Независимый аудит выполнен. После фактического закрытия GFT-15 прочитать её итоговые материалы, провести зависимую интеграцию и проверку, завершить аудит и handoff. Не переходить к другой области без назначения.
+**Локальное следующее действие:** нет; область завершена. Новая область только по указанию пользователя.
 
 ## Программа
 Исследования IQ 150–160+, достоверность норм, выборок и индивидуальная вариативность.
@@ -23,3 +23,11 @@
 5. Сохранить блоки в этом каталоге и обновить локальные реестры; закрытие по [ASSESSMENT_PROTOCOL](../ASSESSMENT_PROTOCOL.md).
 
 Навигация: [план](../CURRICULUM.md) · [карта](../RESEARCH_MAP.md) · [очередь](../RESEARCH_QUEUE.md) · [шаблон](../RESEARCH_TEMPLATE.md).
+
+
+## Завершённые единицы и handoff
+- [GFT-16.1](GFT-16.1_extreme_range_measurement_norms_and_sampling.md)
+- [GFT-16.2](GFT-16.2_profile_variability_and_life_trajectories.md)
+- [GFT-16.3](GFT-16.3_integration_and_sufficiency_audit.md)
+
+GFT-16.1–16.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16 COMPLETE_FOR_SPECIFIED_SCOPE (bounded methodology, not empirical adult extreme-tail validation). GFT-15 actual closure verified. Dependent integration/internal check 12/12, not independent/T1. Bernstein 2021 primary PDF: pooled small nonzero associations, no baseline wellbeing, developmental cohort; supplement unavailable, Q-16-source-05 OPEN. Prior Q-16 and Q-tail remain OPEN. Handoff GFT-17/18/19/20; Кира-3 COMPLETE; no new assignment. T0/T1 unchanged.

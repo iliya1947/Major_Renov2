@@ -274,3 +274,6 @@ GFT-17.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded independent comparative evidence 
 ## GFT-15.3 — 27.11.2026
 - Q-15-source-04 OPEN: WHO fact sheet date discrepancy, NICE direct/full guidance, Duplenne full methods age/CI/overlap, Bernstein cohort-specific estimates/attrition, Vötter effect-sign discrepancy and cohort overlap; no disputed estimates used. Comprehensive correction/retraction audit not done.
 - Q-15-tail and Q-15-source-01/02/03 OPEN; Bernstein childhood-selected extreme group is indirect, not adult measured tail. Inherited Q-14/Q-11 restrictions retained. GFT-15 COMPLETE_FOR_SPECIFIED_SCOPE; no claim adult tail resolved. Handoff to GFT-16/18/19/20, owners evaluate gates independently.
+
+
+GFT-16.1–16.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16 COMPLETE_FOR_SPECIFIED_SCOPE (bounded methodology, not empirical adult extreme-tail validation). GFT-15 actual closure verified. Dependent integration/internal check 12/12, not independent/T1. Bernstein 2021 primary PDF: pooled small nonzero associations, no baseline wellbeing, developmental cohort; supplement unavailable, Q-16-source-05 OPEN. Prior Q-16 and Q-tail remain OPEN. Handoff GFT-17/18/19/20; Кира-3 COMPLETE; no new assignment. T0/T1 unchanged.

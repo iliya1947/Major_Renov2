@@ -444,3 +444,6 @@ GFT-16.3 audit: rechecked selected source fragments for Sixdenier, SB5 bulletin,
 
 ## GFT-15.3 — 27.11.2026
 [Source checks, integration and handoff](15_psychological_wellbeing/GFT-15.3_clinical_boundaries_integration_and_sufficiency_audit.md). E01 WHO mental disorders definition/clinical significance; E02 WHO ICD-11 occupational burnout FAQ; E03 NICE NG222/QS8 indexed assessment guidance; E04 Duplenne 10.1177/00169862231208922 author abstract, both symptom meta-analyses nonsignificant g=-.14, heterogeneous, mixed ages; E05 Bernstein ERIC EJ1297876 childhood top .01% N220 among three cohorts, adult outcomes and acceleration not associated study-level, indirect not measured adult tail; E06 Vötter/Schnell 10.1007/s12671-018-1078-x N100 both waves, selected Mensa, meaning prediction and self-compassion lag null, CLPM noncausal, possible overlap; E07 Williams original/corrigendum rechecked; E08 De Gucht abstract rechecked. GFT-14.4 dependency and inherited restrictions applied; no new causal/diagnostic/tail claim. PRACTICAL_HEURISTIC.
+
+
+E16.3a Bernstein 2021 primary PDF (reused E15.3-05, SMPY), small pooled associations, no baseline wellbeing, developmental not A1, supplement missing; E16.3b GFT-15 inherited synthesis. [Final](16_exceptional_intelligence/GFT-16.3_integration_and_sufficiency_audit.md).

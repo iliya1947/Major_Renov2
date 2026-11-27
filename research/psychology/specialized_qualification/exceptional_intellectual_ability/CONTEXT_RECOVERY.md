@@ -158,3 +158,6 @@ GFT-17.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded independent comparative evidence 
 
 ### Кира-4: переключение активной области GFT-18 — 27.11.2026
 GFT-15 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-19.4 BLOCKED_DEPENDENCIES. По сигналу пользователя «...» после предложения GFT-18 зарегистрирована активная область [GFT-18](18_integrative_psychology/README.md). GFT-18.1 NEXT; научная работа ещё не начата. Независимая методология до готовности GFT-16/17; перед финальным закрытием проверить все зависимости. После GFT-18 вернуться к GFT-19.4 при выполнении gate, не начинать GFT-20. T0/T1 и чужие назначения неизменны.
+
+
+GFT-16.1–16.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16 COMPLETE_FOR_SPECIFIED_SCOPE (bounded methodology, not empirical adult extreme-tail validation). GFT-15 actual closure verified. Dependent integration/internal check 12/12, not independent/T1. Bernstein 2021 primary PDF: pooled small nonzero associations, no baseline wellbeing, developmental cohort; supplement unavailable, Q-16-source-05 OPEN. Prior Q-16 and Q-tail remain OPEN. Handoff GFT-17/18/19/20; Кира-3 COMPLETE; no new assignment. T0/T1 unchanged.

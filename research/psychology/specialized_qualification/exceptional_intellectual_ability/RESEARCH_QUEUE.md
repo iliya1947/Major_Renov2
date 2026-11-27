@@ -21,7 +21,7 @@
 | GFT-13 | Другие дважды исключительные профили | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-13.1–13.4 |
 | GFT-14 | Компенсация и адаптация | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-14.1–14.4 |
 | GFT-15 | Психологическое благополучие | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-15.1–15.3, Q-15-tail/source-01/02/03/04 OPEN |
-| GFT-16 | Экстремальный диапазон интеллекта | IN_PROGRESS — GFT-16.1–16.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16.3 BLOCKED_DEPENDENCIES (Кира-3; GFT-15) |
+| GFT-16 | Экстремальный диапазон интеллекта | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-16.1–16.3; Кира-3 COMPLETE |
 | GFT-17 | Нелинейность интеллектуальных различий | IN_PROGRESS |
 | GFT-18 | Интегративная психология одарённости | QUEUED |
 | GFT-19 | Методология психологического анализа | IN_PROGRESS — GFT-19.1–19.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.4 BLOCKED_DEPENDENCIES (Кира-4, GFT-16/17/18) |
@@ -130,3 +130,7 @@ GFT-14.1–14.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-14 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-17.2 — 27.11.2026 (локальный маршрут)
 GFT-17.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded independent comparative evidence and methodological interpretation); GFT-17 IN_PROGRESS. Q-17-tail/invariance OPEN; Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-SLODR supported in many tested samples, mechanism and adult extreme-tail extrapolation OPEN; Q-17-source-01 partially resolved (Jauk/Weiss selected methods/results); Q-17-source-02 OPEN (newer differentiation studies' full methods/overlap, adult-tail support, cohort-specific outcome curvature); earlier Q-02/07/16 limitations retained. GFT-17.3 next: integration/sufficiency audit; final closure requires actual GFT-16 completion. T0 unchanged/T1 pending. Фактический счётчик 14/20 областей, 66 завершённых единиц; исключены незавершённые карточки (GFT-16.3). PARALLEL: Кира-2.
+
+
+GFT-16.1–16.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16 COMPLETE_FOR_SPECIFIED_SCOPE (bounded methodology, not empirical adult extreme-tail validation). GFT-15 actual closure verified. Dependent integration/internal check 12/12, not independent/T1. Bernstein 2021 primary PDF: pooled small nonzero associations, no baseline wellbeing, developmental cohort; supplement unavailable, Q-16-source-05 OPEN. Prior Q-16 and Q-tail remain OPEN. Handoff GFT-17/18/19/20; Кира-3 COMPLETE; no new assignment. T0/T1 unchanged.
+Покрытие по актуальным строкам DOMAIN_STATUS: 16/20 областей, 68 ссылок на завершённые научные блоки (не аттестации).

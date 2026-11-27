@@ -154,3 +154,6 @@ Never infer latent difficulty/compensation or burden from output or IQ alone. Se
 
 ## GFT-17.2 — 27.11.2026
 Jauk average originality 119.60 Davies p=.14, not confirmed slope break; other indicators significant; split correlations != slope. Chiang bootstrap != independent replication. Factor loadings != causal mechanism or outcome slope; lower marginal slope != lower absolute outcome; pay/ratings != objective performance; BCS70 Brown/Czerwiński shared cohort, not independent. 2025/26 German norming overlap unknown. Do not equate youth/selected scores or maximum with current adult extreme FSIQ.
+
+
+Bernstein 2021 abstract 'did not covary' refined to small nonzero pooled associations (Study1 r=-.06, Study2 r=.11); no exact null or causal safety, subgroup estimates unavailable. D–F internal check no critical error identified; not independent.

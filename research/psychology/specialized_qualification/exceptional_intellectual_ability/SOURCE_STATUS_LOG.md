@@ -377,3 +377,6 @@ Rechecked Atmaca/Baloğlu institutional author abstract, van Viersen Springer di
 
 ## 27.11.2026 — GFT-15.3
 WHO direct HTML fact sheet and occupational FAQ (fact sheet index vs fetched page date discrepancy, no prevalence used); CDDR landing indexed, manual not read; NICE direct 403, official indexed text; Duplenne publisher abstract/references restricted; Bernstein ERIC supplied abstract, PMC/PubMed reCAPTCHA; Vötter/Schnell selected publisher sections, Vötter 2020 index only, publisher 429; Williams original/corrigendum HTML checked, corrected image not visually inspected; De Gucht abstract/introduction direct. Full corpus/independence/retraction checks not established. Q-15-source-04 OPEN. [Details](15_psychological_wellbeing/GFT-15.3_clinical_boundaries_integration_and_sufficiency_audit.md).
+
+
+GFT-16.3 final: Bernstein primary PDF selected methods/results/limitations, screenshots p2/p4 successful; APA supplement landing accessible PDF cache miss; subgroup effects not verified; Q-16-source-05 OPEN. Other GFT-15 sources inherited, no comprehensive new source audit.

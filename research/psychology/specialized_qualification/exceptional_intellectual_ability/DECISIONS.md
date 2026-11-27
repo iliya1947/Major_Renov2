@@ -163,3 +163,6 @@ GFT-14.1–14.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-14 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-17.2 — 27.11.2026
 [GFT-17.2](17_nonlinear_differences/GFT-17.2_empirical_nonlinearity_thresholds_and_counterevidence.md) prospective card e6af75f2; bounded independent empirical comparison completed, internal assessment only. GFT-17.3 audit gated by actual GFT-16 readiness; no change to other owners or T1. Recomputed shared count from current DOMAIN_STATUS, not stale README. Prepared eee766965df3f723baa620d472cc4dd8028ecf67 failed GraphQL publication during GFT-14.4 update; scientific content copied unchanged and registries regenerated from d27781d525894e861e13a3d8b6e5313413bf211f without force push.
+
+
+GFT-16.1–16.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16 COMPLETE_FOR_SPECIFIED_SCOPE (bounded methodology, not empirical adult extreme-tail validation). GFT-15 actual closure verified. Dependent integration/internal check 12/12, not independent/T1. Bernstein 2021 primary PDF: pooled small nonzero associations, no baseline wellbeing, developmental cohort; supplement unavailable, Q-16-source-05 OPEN. Prior Q-16 and Q-tail remain OPEN. Handoff GFT-17/18/19/20; Кира-3 COMPLETE; no new assignment. T0/T1 unchanged.
