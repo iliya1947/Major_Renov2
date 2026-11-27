@@ -7,7 +7,7 @@
 3. Сверить evidence/error/open questions/decisions и статус источников, если релевантно.
 4. При противоречии остановить предметную работу, восстановить актуальное состояние; не угадывать.
 
-Текущая точка: GFT-01–08 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 8/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail и Q-09-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `09_motivation/GFT-09.3_autonomy_goals_and_motivational_regulation.md`. Следующая единица: GFT-09.4 — перфекционизм, стандарты, мотивы достижения и издержки. Персональные данные остаются вне репозитория.
+Текущая точка: GFT-01–08 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 8/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail и Q-09-tail OPEN. T0 сохранена, T1 ожидается. Последний блок: `09_motivation/GFT-09.4_perfectionism_standards_achievement_motives_and_costs.md`. Следующая единица: GFT-09.5 — интеграция мотивации, практический перенос и аудит достаточности GFT-09. Персональные данные остаются вне репозитория.
 
 Q-02-tail: не подтверждена локальная точность экстремального взрослого диапазона, полные технические руководства не получены; ограничение обязательно учитывать в GFT-03–20.
 
@@ -46,3 +46,5 @@ GFT-09 IN_PROGRESS; GFT-09.1 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN: measu
 GFT-09 IN_PROGRESS; GFT-09.1–09.2 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN also for measured adult IQ150–160+ challenge preference, novelty, boredom and task demands. Q-09-source-01 remains open. Pre-search card committed before public search in GFT-09.2.
 
 GFT-09 IN_PROGRESS; GFT-09.1–09.3 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN also for measured adult IQ150–160+ autonomy/goal motives, implementation and adjustment. Q-09-source-01/02 OPEN_FOR_CLARIFICATION; Hornstra 2023 abstract vs educational relevance statement disagree on direction of change in external regulation and amotivation. Pre-search card committed before search.
+
+GFT-09 IN_PROGRESS; GFT-09.1–09.4 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open.
