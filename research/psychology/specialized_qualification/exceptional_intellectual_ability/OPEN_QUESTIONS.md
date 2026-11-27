@@ -107,3 +107,7 @@ Q-08-asynchrony UNIVERSAL_MECHANISM_NOT_ESTABLISHED. Distinguish age-relative le
 
 ## Handoff GFT-08.3 (26.11.2026)
 Q-08-tail OPEN for measured adult IQ150–160+ identity, fit and adaptation as well as developmental trajectories/profile. Q-08-source-02 OPEN_FOR_CLARIFICATION: Poirier et al. 2025 DOI10.1177/00169862251347293 Table5/results internal discrepancies, no reliance on exact effects/adjusted significance pending clarification. Q-08-source-01 remains open; Q-08-asynchrony universal mechanism not established. Q-02–07-tail OPEN. GFT-08.4 — развитие когнитивных стратегий, самообучение и накопленный опыт.
+
+
+## Handoff GFT-08.4 (27.11.2026)
+Q-08-tail OPEN: specific longitudinal strategy development, self-directed learning and experience effects in measured adult IQ150–160+ not established; Q-08-source-03 corrected main model estimates; initial GFT-08.4 pre-search card provenance missing (documented process deviation). Q-08-source-01/02 remain OPEN_FOR_CLARIFICATION. GFT-08.5 — интеграция, практический перенос и аудит достаточности GFT-08.
