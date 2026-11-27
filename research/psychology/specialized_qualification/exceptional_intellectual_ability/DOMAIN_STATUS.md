@@ -150,3 +150,7 @@ GFT-16.1–16.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-17.3 — 27.11.2026 (локальный handoff)
 GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOPE (bounded comparative science and methodology). Кира-2 assignment COMPLETE. Q-17-tail/invariance/source-01–02 remain OPEN/partial; CES-D7/MHI-5 noninvariance evidence added, not all scales; universal threshold not established; SLODR conditional evidence, mechanism/tail open. Q-02/07/15/16 and other prior restrictions retained. Handoff GFT-18/19/20; no new assignment, T0 unchanged/T1 pending. Фактический счётчик: 17/20 областей, 69 завершённых единиц; исключены незавершённые карточки (нет). PARALLEL: завершение назначения Кира-2.
+
+
+## GFT-20 — назначение, 27.11.2026
+Кира-3 → GFT-20 по сигналу пользователя «...» после конкретного предложения. GFT-16 COMPLETE сохранён. Назначение BLOCKED, научная область QUEUED; организационная готовность [PREPARATION_GATE](20_final_assessment/PREPARATION_GATE.md), зависимости GFT-18, GFT-19; T0/T1 и ASSESSMENT_PROTOCOL неизменны. Не проводить финальную интеграцию до готовности 01–19.
