@@ -37,3 +37,7 @@ GFT-08.5: check abstract against body before using sample size; retain both if i
 
 ## GFT-09.1 — 27.11.2026
 GFT-09.1: do not treat curiosity, NFC, interest or class attendance as intelligence test. State information demand not enduring interest. Null association in selected sample not equivalence; distinguish motive, choice, effort and output. Record N discrepancy; incomplete initial card provenance.
+
+
+## GFT-09.2 — 27.11.2026
+GFT-09.2: distinguish complexity, novelty, difficulty, perceived challenge and value; boredom does not identify IQ or underchallenge. Null attention manipulation in Tam 2025 is not evidence of no attentional role; do not collapse effort-choice measures or subject-specific school outcomes. Pre-search card committed before external search.
