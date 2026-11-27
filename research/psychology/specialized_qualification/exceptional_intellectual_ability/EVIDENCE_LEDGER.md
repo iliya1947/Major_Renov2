@@ -321,3 +321,7 @@
 
 ## GFT-09.5 — 27.11.2026
 [GFT-09.5](09_motivation/GFT-09.5_motivation_integration_transfer_and_sufficiency_audit.md). E1 NFC/TIE sensitivity and Meier discrepancy; E2 boredom models; E3 Hornstra 2023 extracted Table 5/results direction; E4 perfectionism syntheses and causal uncertainty; E5 Macke adult Mensa work engagement; E6 adult tail search. Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED.
+
+
+## GFT-10.1 — 27.11.2026
+[GFT-10.1](10_emotional_psychology/GFT-10.1_emotional_sensitivity_intensity_and_overexcitability.md). E1 ERS/PERS measurement, E2 2016 OE meta-analysis, E3 construct overlap and psychometrics, E4 adult OE comparison, E5 adult SPS positive vs negative aspects, E6 Mensa AIM/dot-probe, E7 2026 sensory systematic review (5 included), E8 2026 OE meta-analysis (230 effects/20 studies; definition and age moderators, publication bias), E9 direct-tail search. Q-10-tail OPEN: measured adult IQ150–160+ emotional sensitivity, intensity and sensory reactivity not established. Q-10-OE UNIVERSAL_OR_DIAGNOSTIC_PHENOTYPE_NOT_ESTABLISHED; updated Olszewski-Kubilius et al. 2026 meta-analysis constrains 2016 synthesis, ascertainment and publication bias matter.
