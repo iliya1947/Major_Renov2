@@ -19,7 +19,7 @@
 | GFT-11 | Социальная психология | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-11.1–11.5 |
 | GFT-12 | Одарённость и СДВГ | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-12.1–12.4 |
 | GFT-13 | Другие дважды исключительные профили | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-13.1–13.4 |
-| GFT-14 | Компенсация и адаптация | IN_PROGRESS — GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE |
+| GFT-14 | Компенсация и адаптация | IN_PROGRESS — GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE |
 | GFT-15 | Психологическое благополучие | QUEUED |
 | GFT-16 | Экстремальный диапазон интеллекта | IN_PROGRESS — GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-16.2 NEXT (Кира-3) |
 | GFT-17 | Нелинейность интеллектуальных различий | QUEUED |
@@ -110,3 +110,6 @@ GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13 COMPLETE_FOR_SPECIFIED_SCOP
 
 
 GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded psychometric/sampling methodology; internal self-assessment only). A0 adult observed FSIQ up to 152 (Sixdenier 2025), no separately analysed calibrated A1 tail recovered. Q-16-measure/tail/sampling/source-01 OPEN; Q-16-source-02/03 OPEN; Q-02-tail retained. GFT-16 IN_PROGRESS; GFT-16.2 next local: cognitive-profile and life-trajectory variability, with dependency gate; GFT-15 remains prerequisite for dependent conclusions and final closure. T0 unchanged/T1 pending.
+
+
+Kira-1: GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level); GFT-14 IN_PROGRESS. Q-14-tail OPEN also for measured adult IQ150–160+ costs, recovery, sustainable functioning and camouflaging outcomes; Q-14-measure/causal/transfer retained; Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, no unitary resource; Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED; Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN; Q-14-source-04 OPEN (van der Putten HTML table/narrative discrepancies, PDF screenshots cache miss, affected estimates restricted); Q-14-source-05 OPEN (EMA lag methods, 2026 ADHD qualitative and newer burnout validation full results). Prior source-01/02 OPEN, source-03 acute estimate resolved, abstract correction open. GFT-13 closure recorded by Kira-2; verify its canonical synthesis before 14.4 closure. Next GFT-14.4 — интеграция, практический перенос и аудит достаточности. T0 unchanged/T1 pending.

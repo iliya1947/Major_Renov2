@@ -1,6 +1,6 @@
 # GFT-14 — Компенсация и адаптация
 
-Статус: IN_PROGRESS. GFT-14.1–14.2 COMPLETE_FOR_SPECIFIED_SCOPE; Q-14-tail OPEN.
+Статус: IN_PROGRESS. GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE; Q-14-tail OPEN.
 
 **Ответственная исследовательская сессия: Кира-1.** Закрепление 27.11.2026 по прямому указанию пользователя. Канонический локальный указатель для этой сессии — данный README, а не общий последовательный указатель на GFT-13.1.
 
@@ -37,7 +37,7 @@
 4. GFT-14.4 — интеграция, практический перенос, аудит достаточности, сверка GFT-13 и остаточных пробелов.
 Дробление предварительное, уточняется по реальным исследовательским вопросам. Во всех единицах отдельно искать прямые данные измеренного взрослого IQ150–160+; сохранять ограничения источников. Критерии завершения из ASSESSMENT_PROTOCOL неизменны.
 
-**Следующая единица Кира-1: GFT-14.3 — ресурсная стоимость, устойчивость функционирования, маскировка и последствия.** Не начата.
+**Следующая единица Кира-1: GFT-14.4 — интеграция, практический перенос и аудит достаточности.** Проверить канонический итог GFT-13; не начата.
 
 
 - [GFT-14.1 — Constructs, measurement and comparative designs](GFT-14.1_constructs_measurement_and_comparative_designs.md): COMPLETE_FOR_SPECIFIED_SCOPE.
@@ -52,3 +52,8 @@ Q-14-source-03 OPEN (Safren CGI precision, excluded estimate).
 
 
 Q-14-source-03 RESOLVED_FOR_REPORTED_ACUTE_ESTIMATE; abstract correction remains OPEN_FOR_PUBLISHER_CORRECTION. Direct JAMA original methods/results/discussion https://jamanetwork.com/journals/jama/fullarticle/186469 inspected: adjusted CGI severity parameter −0.53, 95% CI [−1.01,−0.05], t(24.31)=−2.29, p=.03, d=.53; abstract −0.0531 conflicts with original body. Adopt body estimate only. ANCOVA with baseline adjustment and multiple imputation; primary maintenance analysis selected CBT responders/partial responders, later additional treatment confounds exploratory follow-up between-group comparisons. No broad causal maintenance inference. No raw-data correction.
+
+
+- [GFT-14.3 — Resource cost, sustainability and camouflaging outcomes](GFT-14.3_resource_cost_sustainability_and_camouflaging_outcomes.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+
+Kira-1: GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level); GFT-14 IN_PROGRESS. Q-14-tail OPEN also for measured adult IQ150–160+ costs, recovery, sustainable functioning and camouflaging outcomes; Q-14-measure/causal/transfer retained; Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, no unitary resource; Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED; Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN; Q-14-source-04 OPEN (van der Putten HTML table/narrative discrepancies, PDF screenshots cache miss, affected estimates restricted); Q-14-source-05 OPEN (EMA lag methods, 2026 ADHD qualitative and newer burnout validation full results). Prior source-01/02 OPEN, source-03 acute estimate resolved, abstract correction open. GFT-13 closure recorded by Kira-2; verify its canonical synthesis before 14.4 closure. Next GFT-14.4 — интеграция, практический перенос и аудит достаточности. T0 unchanged/T1 pending.

@@ -346,3 +346,7 @@ E19.3-01 Oxford author abstract/metadata, PubMed reCAPTCHA; E19.3-02 PubMed abst
 
 
 GFT-16.1 continuation: Sixdenier publisher abstract and article method/results excerpts via RG; Lang PubMed and author manuscript methods (publisher restricted/IR 403); SB5 bulletin extracted text, screenshot cache miss; Sansone measure section; SMPY project page and Makel/Lubinski abstracts; GRoNC publisher sections. Urban v2 remains index only, Pearson FAQ cache miss, technical manuals not obtained. No full correction/retraction audit.
+
+
+## GFT-14.3 — 27.11.2026
+Direct institutional abstracts Khudiakova/Vohs/Scheeren, selected Sage van der Putten and Raymaker sections, WHO FAQ; PDF screenshots4/8 cache miss. Other primary results indexed, 403/CAPTCHA/timeout, revised ABM preprint only indexed. Q-14-tail OPEN also for measured adult IQ150–160+ costs, recovery, sustainable functioning and camouflaging outcomes; Q-14-measure/causal/transfer retained; Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, no unitary resource; Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED; Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN; Q-14-source-04 OPEN (van der Putten HTML table/narrative discrepancies, PDF screenshots cache miss, affected estimates restricted); Q-14-source-05 OPEN (EMA lag methods, 2026 ADHD qualitative and newer burnout validation full results). Prior source-01/02 OPEN, source-03 acute estimate resolved, abstract correction open. GFT-13 closure recorded by Kira-2; verify its canonical synthesis before 14.4 closure.

@@ -132,3 +132,7 @@ Lijbers F(3,71)=84 => p=2.6476575812e-23 (scipy.stats.f.sf), contradicts stated 
 
 
 GFT-16.1 checks: distinguish A0 from A1; no adult IQ from childhood SAT or achievements; no norm precision from nominal ceiling or narrow CI; no causal phenotype from max-index selection. Source anomalies Q-16-source-02/03 excluded. Internal cases T16.1-1–3 only; no independent assessment.
+
+
+## GFT-14.3 — 27.11.2026
+Do not infer hidden effort, unitary depletion, inevitable burnout or causal harm from success, masking score or concurrent association. Check fatigue vs performance, time scale, context, reverse direction, measurement overlap and source discrepancies. Preserve support/choice.

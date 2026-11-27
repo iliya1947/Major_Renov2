@@ -139,3 +139,7 @@ GFT-16.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded psychometric/sampling methodology
 
 ## GFT-17 parallel route — 27.11.2026
 Кира-2 continues GFT-17 following user's continuation signal after specific proposal. GFT-13 remains complete. GFT-16.1 bounded methods available; 16 overall incomplete. Independent methodological 17.1 permitted, dependent empirical conclusions and domain closure gated by 16 actual completion. No changes to T0/T1 or other assignments. No completed count increment on launch.
+
+
+## GFT-14.3 — 27.11.2026
+Kira-1: GFT-14.1–14.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological level); GFT-14 IN_PROGRESS. Q-14-tail OPEN also for measured adult IQ150–160+ costs, recovery, sustainable functioning and camouflaging outcomes; Q-14-measure/causal/transfer retained; Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, no unitary resource; Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED; Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN; Q-14-source-04 OPEN (van der Putten HTML table/narrative discrepancies, PDF screenshots cache miss, affected estimates restricted); Q-14-source-05 OPEN (EMA lag methods, 2026 ADHD qualitative and newer burnout validation full results). Prior source-01/02 OPEN, source-03 acute estimate resolved, abstract correction open. GFT-13 closure recorded by Kira-2; verify its canonical synthesis before 14.4 closure. Next GFT-14.4 — интеграция, практический перенос и аудит достаточности. T0 unchanged/T1 pending.

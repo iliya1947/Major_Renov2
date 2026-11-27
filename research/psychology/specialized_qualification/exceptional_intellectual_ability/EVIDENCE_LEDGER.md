@@ -413,3 +413,7 @@ Source cards and limits: [GFT-19.1](19_analytical_methodology/GFT-19.1_group_to_
 
 ## GFT-16.1 continuation
 E16.1g–k: Sixdenier WAIS-IV range 130–152 N53 (A0, not A1); Lang max-index selection N130+130, possible overlap Toffalini; SB5 bulletin experimental EXIQ, no normative >148, Sansone low-tail only; SMPY/Duke developmental replication not adult IQ; GRoNC method, Urban common author. Full evidence/map and internal transfer check: [GFT-16.1](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md).
+
+
+## GFT-14.3 — 27.11.2026
+[GFT-14.3](14_compensation_and_adaptation/GFT-14.3_resource_cost_sustainability_and_camouflaging_outcomes.md) E1–2 fatigue/depletion, E3–6 longitudinal/EMA and correlations, E7–8 burnout definitions/measurement, E9 ADHD burden and tail gap. Q-14-tail OPEN also for measured adult IQ150–160+ costs, recovery, sustainable functioning and camouflaging outcomes; Q-14-measure/causal/transfer retained; Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, no unitary resource; Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED; Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN; Q-14-source-04 OPEN (van der Putten HTML table/narrative discrepancies, PDF screenshots cache miss, affected estimates restricted); Q-14-source-05 OPEN (EMA lag methods, 2026 ADHD qualitative and newer burnout validation full results). Prior source-01/02 OPEN, source-03 acute estimate resolved, abstract correction open. GFT-13 closure recorded by Kira-2; verify its canonical synthesis before 14.4 closure.
