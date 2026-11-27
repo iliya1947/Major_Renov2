@@ -1,0 +1,6 @@
+# GFT-13.3 — Heterogeneous cognitive profiles and differential reasoning
+
+27.11.2026. IN_PROGRESS. Кира-2, PARALLEL. Prospective question card. Parent 945d17dd4678907989454120cf4227b96733dc06. GFT-13.1/13.2 completed in bounded scope; GFT-02/05/08/12 and NDEV/CLN/PSYCHOMETRICS status inherited. No personal data.
+
+## Question and gates
+Which evidence distinguishes ordinary uneven cognitive profiles, measurement artifacts, context-specific performance and coexisting developmental conditions in high-ability adults? Examine profile base rates and incremental diagnostic validity, developmental language and motor coordination disorders, ADHD/autism/SLD co-occurrence and transdiagnostic alternatives. Separate educational needs and clinical assessment. Reuse previous evidence without counting it twice. Search public primary sources, meta-analyses and clinical guidance for direct high-IQ adult comparisons, separately measured IQ150–160+, contrary/null results and alternative explanations. Record access, sample/design, uncertainty and transfer limits. No universal profile or causal mechanism from scatter, means or self-report. Three novel entirely fictional contradiction-update tasks, six categories 0–2 all 2, no critical errors; internal only, no T1. Bounded differential methodology, not a disorder catalogue or clinical credential. Next GFT-13.4 integration audit.
