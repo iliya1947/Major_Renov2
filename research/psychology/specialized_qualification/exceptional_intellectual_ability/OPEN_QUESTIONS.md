@@ -303,3 +303,6 @@ GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOP
 
 ## GFT-20 — 27.11.2026
 Q-20-comparability OPEN: equal difficulty, historic effort/context, independent scoring, response length and expectation/known update effects unresolved; 44→48 internal only. Q-20-revision OPEN: critical substitution common→familiar, new correction task required; original response and scores unchanged. Q-tail/source questions remain OPEN. See [T1_EVALUATION](20_final_assessment/T1_EVALUATION.md). GFT-20 IN_PROGRESS.
+
+
+Q-20-revision: R1 correction partially successful, 9/12; new temporal ordering premise failure, RETEST_REQUIRED. R2 prospective design recorded. Q-20-comparability OPEN, REVIEW_REQUIRED unchanged.

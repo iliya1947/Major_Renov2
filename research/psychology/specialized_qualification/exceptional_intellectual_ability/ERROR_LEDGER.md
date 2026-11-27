@@ -164,3 +164,7 @@ Outcome noninvariance compromises both linear and nonlinear latent interpretatio
 
 ## GFT-20 — 27.11.2026
 T1-C/2: critical factual premise substitution, common specimen → personally familiar specimen; material for interpretation of experience hypothesis. Original T1 preserved, no retrospective edit. Also A/B/C retrospective initial-hypothesis mismatch. Corrective rule and required new assessment in [T1_EVALUATION](20_final_assessment/T1_EVALUATION.md). D=1, E=2 vs T0 E=3; comparative REVIEW_REQUIRED. Correction/retest not yet performed.
+
+
+## GFT-20 R1 — 27.11.2026
+R1 9/12 internal, RETEST_REQUIRED. Group-to-person substitution avoided and prior hypothesis accurately restored, but R1/3 assumed successful operations preceded omissions from the period «previous two months» without event order; material temporal-premise substitution. Task-design ambiguity retained; source independence wording also imprecise. See [R1 evaluation](20_final_assessment/REVISION_RETEST_EVALUATION.md). [R2 design](20_final_assessment/REVISION_R2_DESIGN.md) frozen before answers. T0/T1 unchanged; no objective improvement.
