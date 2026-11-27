@@ -333,3 +333,7 @@
 
 ## GFT-10.3 — 27.11.2026
 [GFT-10.3](10_emotional_psychology/GFT-10.3_emotion_regulation_flexibility_and_cognitive_ability.md). E1 cognitive control meta-analysis r=.10 for reappraisal; E2 choice vs effectiveness and controllability; E3 EMA flexibility components; E4 Wenzel et al. 2026 context/intensity and outcomes; E5 limited support for context-choice links; E6 flexibility vs variability; E7 culture/clinical implementation; E8 gifted ascertainment and school confounding. Q-10-tail OPEN also for measured adult IQ150–160+ strategy choice, efficacy and regulatory flexibility. Q-10-flex UNIVERSAL_STRATEGY_SITUATION_RULE_NOT_ESTABLISHED; Q-10-OE/EI/measure retained.
+
+
+## GFT-10.4 — 27.11.2026
+[GFT-10.4](10_emotional_psychology/GFT-10.4_emotional_psychology_integration_transfer_and_sufficiency_audit.md). E1 updated OE/sensory reviews; E2 gifted EI dimensions; E3 Mensa measure-specific denominator; E4 cognitive-control and strategy scope; E5 Sicorello 2026 neural nonconvergence and Bo 2024 alternative component analysis; E6 Growney et al. 2026 fluid/crystallized cognition; E7 tail search. Q-10-tail OPEN for separately measured adult IQ150–160+ emotional processes; Q-10-OE/EI/flex limitations retained; Q-10-measure/neural/source-01 OPEN (instrument-specific precision, neural prediction across measures, Mensa comparator denominator clarification).
