@@ -42,3 +42,7 @@ Rubric fixed before search: concepts 2 (rank/mean/individual/profile), evidence 
 
 ## 5. Handoff
 GFT-08.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-08 IN_PROGRESS. Q-08-tail OPEN, previous Q-02–07-tail OPEN. Age/period/cohort, absolute/relative and initial level/change separation retained. 7/20 domains and 27 bounded units (coverage only). Next: GFT-08.2 — асинхронность развития, неоднородность профиля и границы концепции. Selected per program; distinguish evidence of uneven development from broad clinical/identity explanations, adult population and extreme tail separately. Later identity/adaptation and strategy development/self-learning units; no automatic next block. 
+
+
+## Source-count clarification from GFT-08.5 (27.11.2026)
+E01 Breit et al. 2024 abstract reports N87,408; published body reports N87,508. Both locations report 205 studies/samples and 1,288 manifest correlations. Q-08-source-04 OPEN_FOR_CLARIFICATION; do not assert a single reconciled total. Indexed author abstract/body checked; direct PubMed/PMC CAPTCHA. Rank-order inference unchanged.
