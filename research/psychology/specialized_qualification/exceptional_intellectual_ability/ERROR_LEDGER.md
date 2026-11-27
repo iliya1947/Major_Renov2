@@ -168,3 +168,8 @@ T1-C/2: critical factual premise substitution, common specimen → personally fa
 
 ## GFT-20 R1 — 27.11.2026
 R1 9/12 internal, RETEST_REQUIRED. Group-to-person substitution avoided and prior hypothesis accurately restored, but R1/3 assumed successful operations preceded omissions from the period «previous two months» without event order; material temporal-premise substitution. Task-design ambiguity retained; source independence wording also imprecise. See [R1 evaluation](20_final_assessment/REVISION_RETEST_EVALUATION.md). [R2 design](20_final_assessment/REVISION_R2_DESIGN.md) frozen before answers. T0/T1 unchanged; no objective improvement.
+
+
+## GFT-20 R2 — 27.11.2026
+GFT-20 local correction checkpoint: [R1](20_final_assessment/REVISION_RETEST_EVALUATION.md) 9/12 RETEST_REQUIRED, temporal premise error retained; [R2](20_final_assessment/REVISION_R2_EVALUATION.md) 12/12 CORRECTION_REGRESSION_PASSED_FOR_SPECIFIED_SCOPE (internal, cued, non-blind). Group/person, source, time-specific premise and exact prior-H checks passed in new example; no independent/general improvement claim. Original T0/T1 44→48 and T1 critical error preserved; comparative REVIEW_REQUIRED, Q-20-comparability OPEN. Q-20-revision local correction tested, independent/uncued transfer OPEN. GFT-20 IN_PROGRESS, Кира-3 ASSIGNED. Next separate multidisciplinary knowledge/transfer check under unchanged protocol.
+Corrective rule: exact source/subject/outcome/time; preserve literal H and verify necessary condition before rejection; no group-person or report-event temporal substitution; no causal attribution from confounded evidence. Scope caveat R2/3 broad-skill wording recorded in evaluation. R1 failure and original T1 preserved, no retrospective score changes.

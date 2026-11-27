@@ -306,3 +306,6 @@ Q-20-comparability OPEN: equal difficulty, historic effort/context, independent 
 
 
 Q-20-revision: R1 correction partially successful, 9/12; new temporal ordering premise failure, RETEST_REQUIRED. R2 prospective design recorded. Q-20-comparability OPEN, REVIEW_REQUIRED unchanged.
+
+
+Q-20-revision: LOCAL_REGRESSION_PASSED_FOR_SPECIFIED_SCOPE after R1 9/12 and R2 12/12; independent/uncued general transfer OPEN. Q-20-comparability OPEN, comparative REVIEW_REQUIRED unchanged; see [R2](20_final_assessment/REVISION_R2_EVALUATION.md). No objective improvement. Separate multidisciplinary check pending.

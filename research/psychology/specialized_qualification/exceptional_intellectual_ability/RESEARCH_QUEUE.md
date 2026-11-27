@@ -25,7 +25,7 @@
 | GFT-17 | Нелинейность интеллектуальных различий | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-17.1–17.3 |
 | GFT-18 | Интегративная психология одарённости | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-18.1–18.3, Q-18-tail/source-01/02/03/04 OPEN |
 | GFT-19 | Методология психологического анализа | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-19.1–19.4, Q-19-tail/source-01–04 retained |
-| GFT-20 | Интеграционная аттестация | IN_PROGRESS — T0/T1 REVIEW_REQUIRED, next new correction task (Кира-3); knowledge/transfer pending |
+| GFT-20 | Интеграционная аттестация | IN_PROGRESS — T0/T1 REVIEW_REQUIRED, R2 local correction passed; next multidisciplinary knowledge/transfer (Кира-3) |
 
 После каждой единицы обновлять очередь, DOMAIN_STATUS, CONTEXT_RECOVERY и реестры по факту. Один continuation = одна законченная ограниченная единица, затем остановка. Не запускать следующую автоматически.
 
@@ -157,3 +157,7 @@ GFT-20 IN_PROGRESS (Кира-3 ASSIGNED); [T1_RESPONSES](20_final_assessment/T1_
 
 ## GFT-20 — comparative evaluation, 27.11.2026
 GFT-20 IN_PROGRESS, comparative T0/T1 REVIEW_REQUIRED. [T1_EVALUATION](20_final_assessment/T1_EVALUATION.md) records all 21 criterion cells and reasons: internal 44→48/63 (+4), 6 increases, 13 unchanged, 2 decreases; D-C=1, E-C=2 (previous 3). Material critical factual substitution in T1-C: common mineral ≠ familiar to this individual. A/B also misdescribe initial assumptions. Original responses/tasks/T0/protocol unchanged. No objective improvement claim; no independent evaluator, equal difficulty or historical conditions established; T1 answers +33.46% words. Next: prospective new correction task; separate six-criterion multidisciplinary assessment remains. Do not overwrite T1 or close GFT-20 until required correction and new test; comparative REVIEW_REQUIRED retained if uncertainty remains.
+
+
+## GFT-20 — local revision correction, 27.11.2026
+GFT-20 local correction checkpoint: [R1](20_final_assessment/REVISION_RETEST_EVALUATION.md) 9/12 RETEST_REQUIRED, temporal premise error retained; [R2](20_final_assessment/REVISION_R2_EVALUATION.md) 12/12 CORRECTION_REGRESSION_PASSED_FOR_SPECIFIED_SCOPE (internal, cued, non-blind). Group/person, source, time-specific premise and exact prior-H checks passed in new example; no independent/general improvement claim. Original T0/T1 44→48 and T1 critical error preserved; comparative REVIEW_REQUIRED, Q-20-comparability OPEN. Q-20-revision local correction tested, independent/uncued transfer OPEN. GFT-20 IN_PROGRESS, Кира-3 ASSIGNED. Next separate multidisciplinary knowledge/transfer check under unchanged protocol.

@@ -4,7 +4,7 @@
 
 **Ответственная сессия: Кира-3 — ASSIGNED, 27.11.2026.** Основание: «...» после конкретного предложения GFT-20. [Реестр](../PARALLEL_WORK.md).
 
-**Локальная точка:** [сравнительная оценка T0/T1](T1_EVALUATION.md) — REVIEW_REQUIRED. Критическая ошибка в T1-C, D=1; следующий шаг — отдельное новое задание на коррекцию, затем междисциплинарная проверка. Исходные ответы и баллы не заменять.
+**Локальная точка:** [R2 — локальная коррекция](REVISION_R2_EVALUATION.md) выполнена (12/12, внутренняя проверка); R1 9/12 и T1 сохранены. Сравнительная оценка REVIEW_REQUIRED. Следующий шаг — отдельная междисциплинарная проверка знаний и переноса по шести критериям.
 
 ## Программа
 Междисциплинарная проверка знаний, перенос, сложные задачи и остаточные пробелы; сравнительная оценка практического психологического анализа до и после gft на новых сопоставимых синтетических задачах.
@@ -45,3 +45,7 @@ GFT-20 IN_PROGRESS (Кира-3 ASSIGNED); [T1_RESPONSES](20_final_assessment/T1_
 
 ## Comparative evaluation checkpoint — 27.11.2026
 GFT-20 IN_PROGRESS, comparative T0/T1 REVIEW_REQUIRED. [T1_EVALUATION](20_final_assessment/T1_EVALUATION.md) records all 21 criterion cells and reasons: internal 44→48/63 (+4), 6 increases, 13 unchanged, 2 decreases; D-C=1, E-C=2 (previous 3). Material critical factual substitution in T1-C: common mineral ≠ familiar to this individual. A/B also misdescribe initial assumptions. Original responses/tasks/T0/protocol unchanged. No objective improvement claim; no independent evaluator, equal difficulty or historical conditions established; T1 answers +33.46% words. Next: prospective new correction task; separate six-criterion multidisciplinary assessment remains. Do not overwrite T1 or close GFT-20 until required correction and new test; comparative REVIEW_REQUIRED retained if uncertainty remains.
+
+
+## Revision correction checkpoint — 27.11.2026
+GFT-20 local correction checkpoint: [R1](20_final_assessment/REVISION_RETEST_EVALUATION.md) 9/12 RETEST_REQUIRED, temporal premise error retained; [R2](20_final_assessment/REVISION_R2_EVALUATION.md) 12/12 CORRECTION_REGRESSION_PASSED_FOR_SPECIFIED_SCOPE (internal, cued, non-blind). Group/person, source, time-specific premise and exact prior-H checks passed in new example; no independent/general improvement claim. Original T0/T1 44→48 and T1 critical error preserved; comparative REVIEW_REQUIRED, Q-20-comparability OPEN. Q-20-revision local correction tested, independent/uncued transfer OPEN. GFT-20 IN_PROGRESS, Кира-3 ASSIGNED. Next separate multidisciplinary knowledge/transfer check under unchanged protocol.
