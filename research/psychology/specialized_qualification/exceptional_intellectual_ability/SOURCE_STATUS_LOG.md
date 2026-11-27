@@ -278,3 +278,7 @@ E2 UC institutional abstract, E4 Nature methods/results, E5 OUP abstract/results
 
 ## GFT-11.3 — 27.11.2026
 Publisher selected HTML sections (E1, E3, E4, E6), ERIC author abstract E2, HU institutional abstract E5 and SAGE abstract E7 inspected. Indexed historical excerpts and other candidates only; cache misses, CAPTCHA and 403/429; no entire article or PDF analyzed; no raw data, exhaustive correction or overlap audit. Q-11-tail OPEN also for measured adult IQ150–160+ communication and mutual understanding; Q-11-gap UNIVERSAL_IQ_DIFFERENCE_THRESHOLD_NOT_ESTABLISHED; Q-11-source-03 OPEN_FOR_CLARIFICATION (De la Garza et al. 2026 abstract N40 vs method N44; LMG attribution not unique variance). Previous Q-11 limitations retained.
+
+
+## GFT-11.4 — 27.11.2026
+UWA, Groningen, Murdoch, ERIC author abstracts and selected SAGE HTML methods/results/discussion of Poirier; Nature preview and methodological figure; other indexed abstracts only, publisher 403/502/CAPTCHA/cache misses. No whole article/PDF read, no exhaustive correction/overlap audit or raw data reanalysis. Q-11-tail OPEN also for separately measured adult IQ150–160+ social compatibility, closeness, loneliness and adaptation; Q-11-fit UNIVERSAL_SOCIAL_MALADJUSTMENT_OR_IQ_COMPATIBILITY_RULE_NOT_ESTABLISHED; Q-11-source-04 OPEN_FOR_CLARIFICATION (Poirier et al. 2025 reported chi-square/p and correlation/p inconsistencies, Table 5 coefficient/OR discrepancies). Prior Q-11 limitations retained.

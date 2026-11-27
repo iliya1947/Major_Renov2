@@ -81,3 +81,7 @@ GFT-11.2: distinguish emotion sharing, distress, concern, intended and enacted h
 
 ## GFT-11.3 — 27.11.2026
 Do not equate IQ gap with comprehension, inferred IQ with measured IQ, group performance with relationship quality or LMG allocation with unique variance. Compare both scores, roles, shared knowledge, motivation and measurement error. Denissen abstract and TCG null constrain universal gap without proving equivalence; De la Garza N discrepancy not resolved.
+
+
+## GFT-11.4 — 27.11.2026
+Separate formation, selection, attraction, established relationship quality and loneliness; perceived IQ is not measured IQ, percentile vignette not actual behavior; non-significance not equivalence. Poirier 2025 reported chi-square/p, correlation/p and B/OR discrepancies: withhold affected estimates, carry to GFT-12/15. No universal gifted social deficit or IQ matching rule.

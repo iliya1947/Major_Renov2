@@ -349,3 +349,7 @@
 
 ## GFT-11.3 — 27.11.2026
 [GFT-11.3](11_social_psychology/GFT-11.3_communication_mutual_understanding_and_cognitive_differences.md). E1 common ground measures; E2 feedback; E3 nonverbal IQ/education/faux-pas, N discrepancy; E4 direct mismatch null; E5 perceived vs measured intelligence; E6 task-specific dyadic intelligence; E7 gifted self-report; E8 historical threshold and tail search. Q-11-tail OPEN also for measured adult IQ150–160+ communication and mutual understanding; Q-11-gap UNIVERSAL_IQ_DIFFERENCE_THRESHOLD_NOT_ESTABLISHED; Q-11-source-03 OPEN_FOR_CLARIFICATION (De la Garza et al. 2026 abstract N40 vs method N44; LMG attribution not unique variance). Previous Q-11 limitations retained.
+
+
+## GFT-11.4 — 27.11.2026
+[GFT-11.4](11_social_psychology/GFT-11.4_social_compatibility_closeness_and_adaptation.md). E1 measured/perceived partner IQ compatibility null; E2 Mensa relationship quality and attachment/conflict; E3 Marburg and Swedish cohort; E4 stage-specific similarity and assortment; E5 hypothetical IQ desirability; E6 adult gifted support and source discrepancies; E7 intimacy/relationship-specific predictors; E8 isolation/loneliness and tail search. Q-11-tail OPEN also for separately measured adult IQ150–160+ social compatibility, closeness, loneliness and adaptation; Q-11-fit UNIVERSAL_SOCIAL_MALADJUSTMENT_OR_IQ_COMPATIBILITY_RULE_NOT_ESTABLISHED; Q-11-source-04 OPEN_FOR_CLARIFICATION (Poirier et al. 2025 reported chi-square/p and correlation/p inconsistencies, Table 5 coefficient/OR discrepancies). Prior Q-11 limitations retained.
