@@ -391,3 +391,6 @@ Source cards and limits: [GFT-19.1](19_analytical_methodology/GFT-19.1_group_to_
 
 ## GFT-16.1 — 27.11.2026 (IN_PROGRESS)
 [E16.1a–f](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md): Toffalini FSIQ≥125 n111, no FSIQ160; Lenhard local analysis ±3 SD; Urban v2 index; Redvaldsen experimental dependent self-report norms; Pearson FAQ; norming review index. No verified adult ≥150/160 precision. Toffalini reused, not independent replication.
+
+## GFT-19.2 — 27.11.2026
+[Source cards and operational rules](19_analytical_methodology/GFT-19.2_competing_causal_models_and_revision.md). E19.2-01 Bulbulia 2024 causal DAG methods; E19.2-02 Hamaker et al. 2015 (10.1037/a0038889) derivation/simulation CLPM limitations; E19.2-03 Hamaker 2026 (10.1037/met0000600, online 2023) estimand/time/design dispute; E19.2-04 Borsboom et al. 2021 (10.1177/1745691620969647) theory construction; E19.2-05 causal structure learning review PMC9342837; E19.2-06 Eronen 2020 psychological intervention limitations. Mathematical synthetic equivalence demonstration. No new direct high-IQ empirical claim. Rules PRACTICAL_HEURISTIC; fixed-intercept identifiability clarification to GFT-19.1 in block.

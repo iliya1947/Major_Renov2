@@ -15,7 +15,7 @@
 | [GFT-16 — Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | **Кира-3** | ASSIGNED | GFT-16.1 IN_PROGRESS; checkpoint измерения, норм и выборок. |
 | [GFT-17 — Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | — | UNREGISTERED | Назначение не подтверждено. |
 | [GFT-18 — Интегративная психология одарённости](18_integrative_psychology/README.md) | — | UNREGISTERED | Назначение не подтверждено. |
-| [GFT-19 — Методология психологического анализа](19_analytical_methodology/README.md) | **Кира-4** | ASSIGNED | GFT-19.1 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.2 NEXT. GFT-16/17/18 остаются зависимостями закрытия. |
+| [GFT-19 — Методология психологического анализа](19_analytical_methodology/README.md) | **Кира-4** | ASSIGNED | GFT-19.1–19.2 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.3 NEXT. GFT-16/17/18 остаются зависимостями закрытия. |
 | [GFT-20 — Интеграционная аттестация](20_final_assessment/README.md) | — | UNREGISTERED | Назначение не подтверждено; соблюдать условия итоговой аттестации. |
 
 UNREGISTERED означает отсутствие подтверждённой записи, а не гарантию, что другой чат не приступил к работе. Не угадывать номера и назначения. При обнаружении чужой работы без владельца — CLAIM_REQUIRED, не захватывать область. Начальное состояние проверено по HEAD 5e82b13ba1eff4e0d183ff117bf476f24d68a922, README областей 13–20 и наличию GFT-13.1.

@@ -209,3 +209,7 @@ GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinica
 
 ## GFT-16.1 — 27.11.2026 (IN_PROGRESS)
 Q-16-measure/source-01/tail/sampling OPEN; Q-02-tail OPEN. No PASS; GFT-15 remains prerequisite for dependent conclusions/closure. [Details](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md).
+
+## GFT-19.2 — 27.11.2026
+- Q-19-source-02 OPEN: full methods/argument E19.2-03/05/06 and comprehensive correction/retraction status not verified; no quantitative claims from limited sources. Revisit if materially needed.
+- Q-19-tail OPEN, Q-19-source-01 OPEN. GFT-19.2 general method completed; GFT-19.3 NEXT; final closure conditional on GFT-16/17/18.

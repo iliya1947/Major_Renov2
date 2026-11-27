@@ -109,3 +109,6 @@ GFT-19.1 COMPLETE_FOR_SPECIFIED_SCOPE — [блок](19_analytical_methodology/G
 
 ## GFT-13.2 — 27.11.2026 (локальный маршрут)
 GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail OPEN also for SLD; Q-13-SLD-discrepancy NOT_SUFFICIENT_FOR_DIAGNOSIS; Q-13-SLD-compensation HETEROGENEOUS_NOT_CAUSALLY_ESTABLISHED; Q-13-SLD-adult OPEN (measured high general IQ and writing/math comparisons); Q-13-source-04 OPEN (Lijbers 2025 model-change reporting); earlier Q-13 questions retained. Next local GFT-13.3 — heterogeneous profiles and differential assessment. T0 unchanged/T1 pending. Фактический счётчик по завершённым блокам: 12/20 областей, 53 единиц; незавершённые карточки нет не учитываются. PARALLEL: локальная точка только Кира-2.
+
+### Локальный checkpoint GFT-19 — 27.11.2026 (Кира-4)
+[GFT-19.2](19_analytical_methodology/GFT-19.2_competing_causal_models_and_revision.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.3 NEXT — интеграция минимально достаточного индивидуального анализа и сквозная проверка. Q-19-source-01/02, Q-19-tail OPEN. GFT-16/17/18 dependencies retained; T0/T1 unchanged. Prospective card publication failed, pre-search criteria recorded in attempted tool call and final block.

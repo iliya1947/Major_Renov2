@@ -322,3 +322,6 @@ WHO ICF text plus two screenshots, two relevant screenshot cache misses; Springe
 
 ## GFT-16.1 — 27.11.2026 (IN_PROGRESS)
 Toffalini/Redvaldsen PDF excerpts, screenshots cache miss; Lenhard publisher HTML sections; Urban v2 preprint indexed, DOI cache miss; Pearson FAQ indexed only; review indexed, PMC CAPTCHA. No full manuals or verified local precision. [Details](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md).
+
+## 27.11.2026 — GFT-19.2
+E19.2-01/04 selected publisher sections; E19.2-02 repository PDF selected sections and screenshot p.102; not full read/reproduction. E19.2-03 author abstract and metadata, DOI cache miss; E19.2-05 indexed abstract, PMC reCAPTCHA; E19.2-06 indexed excerpts and university metadata, publisher 403. Comprehensive correction/retraction review not established. Q-19-source-02 OPEN. [Details](19_analytical_methodology/GFT-19.2_competing_causal_models_and_revision.md).

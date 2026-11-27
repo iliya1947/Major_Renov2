@@ -22,7 +22,7 @@
 | GFT-16 | [Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md) | IN_PROGRESS | [GFT-16.1 checkpoint](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md) |
 | GFT-17 | [Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md) | QUEUED | Нет |
 | GFT-18 | [Интегративная психология одарённости](18_integrative_psychology/README.md) | QUEUED | Нет |
-| GFT-19 | [Методология психологического анализа](19_analytical_methodology/README.md) | IN_PROGRESS | [GFT-19.1](19_analytical_methodology/GFT-19.1_group_to_individual_competing_models.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.2 NEXT |
+| GFT-19 | [Методология психологического анализа](19_analytical_methodology/README.md) | IN_PROGRESS | [GFT-19.1](19_analytical_methodology/GFT-19.1_group_to_individual_competing_models.md) COMPLETE_FOR_SPECIFIED_SCOPE; [GFT-19.2](19_analytical_methodology/GFT-19.2_competing_causal_models_and_revision.md) COMPLETE_FOR_SPECIFIED_SCOPE; GFT-19.3 NEXT |
 | GFT-20 | [Интеграционная аттестация](20_final_assessment/README.md) | QUEUED | Нет |
 
 Статусы: QUEUED, IN_PROGRESS, BLOCKED, REVIEW_REQUIRED, COMPLETE_FOR_SPECIFIED_SCOPE. Последний требует проверенной evidence, практических правил, проверок и явно ограниченной области применимости. Нерешённый существенный пробел блокирует итоговую аттестацию, но не требует выдумывать недоступные данные.
