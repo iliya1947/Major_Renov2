@@ -329,3 +329,7 @@
 
 ## GFT-10.2 — 27.11.2026
 [GFT-10.2](10_emotional_psychology/GFT-10.2_emotion_differentiation_knowledge_and_emotional_intelligence.md). E1 ED measurement, E2 word knowledge vs fluency, E3 executive tasks and ambulatory ED null findings, E4 behavioral dysregulation and mixed experimental results, E5 EI measures/scoring debate, E6 recognition and academic outcomes, E7 updated gifted EI meta-analysis, E8 adult Mensa knowledge vs processing, E9 2026 methodological meta-synthesis. Q-10-tail OPEN also for measured adult IQ150–160+ emotion differentiation, emotion knowledge and EI. Q-10-EI UNIVERSAL_ADVANTAGE_NOT_ESTABLISHED; Q-10-measure OPEN (instrument/version/scoring and precision); Q-10-OE retained. Ferrándiz 2026 dimension-specific synthesis constrains older aggregate estimates.
+
+
+## GFT-10.3 — 27.11.2026
+[GFT-10.3](10_emotional_psychology/GFT-10.3_emotion_regulation_flexibility_and_cognitive_ability.md). E1 cognitive control meta-analysis r=.10 for reappraisal; E2 choice vs effectiveness and controllability; E3 EMA flexibility components; E4 Wenzel et al. 2026 context/intensity and outcomes; E5 limited support for context-choice links; E6 flexibility vs variability; E7 culture/clinical implementation; E8 gifted ascertainment and school confounding. Q-10-tail OPEN also for measured adult IQ150–160+ strategy choice, efficacy and regulatory flexibility. Q-10-flex UNIVERSAL_STRATEGY_SITUATION_RULE_NOT_ESTABLISHED; Q-10-OE/EI/measure retained.
