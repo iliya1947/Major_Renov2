@@ -222,3 +222,7 @@ E01–02 indexed author text/abstract; E03 Lang PubMed abstract opened, elderly 
 
 ## 26.11.2026 — GFT-08.3
 E01 Frontiers methods/tables excerpts, Rinn/Bishop abstract indexed; E02 author abstract indexed, publisher403; E03 Springer methods/results opened excerpts; E04 2026 published abstracts/methods indexed, direct cache misses/403; E05 Springer methods/results excerpts; E06 Cambridge methods/discussion excerpts; E07 SAGE methods/results/discussion excerpts, Q-08-source-02 OPEN_FOR_CLARIFICATION (Table5 B/OR, income labels and chi-square/p discrepancy), no precise effect or adjusted-significance claims; E08–09 indexed author abstracts, UvA direct cache miss; E10 indexed candidates only. No full literature/corrections/data/overlap audit. Prior Q-08-source-01 and Q-08-tail OPEN.
+
+
+## GFT-08.4 — 27.11.2026
+See unit E1–20 for access per source. E15 and E19 institutional full author abstracts directly read; E16–18 indexed abstracts/excerpts; direct PMC CAPTCHA and publisher fetch failures. E6 correction indexed publisher and author review reconfirmed. No full article read, systematic review, complete overlap or corrections audit. Q-08-tail OPEN: specific longitudinal strategy development, self-directed learning and experience effects in measured adult IQ150–160+ not established; Q-08-source-03 corrected main model estimates; initial GFT-08.4 pre-search card provenance missing (documented process deviation).
