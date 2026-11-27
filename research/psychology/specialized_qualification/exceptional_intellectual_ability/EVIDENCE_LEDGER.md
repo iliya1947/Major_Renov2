@@ -309,3 +309,7 @@
 
 ## GFT-09.2 — 27.11.2026
 [GFT-09.2](09_motivation/GFT-09.2_challenge_novelty_boredom_and_task_demands.md). E1 MAC, E2 Feuchter/Preckel 2022 longitudinal N1861 (math-specific boredom intensity effect, all types increased), E3 novelty/complexity and coping appraisal, E4 feedback model, E5 Tam 2025 experimental meaning/attention distinction and null attention manipulation for boredom, E6 effort measures noninterchangeable, E7 flow and retrospective boredom, E8 novelty exploration, E9 gifted samples and trait alternatives. Q-09-tail OPEN also for measured adult IQ150–160+ challenge preference, novelty, boredom and task demands. Q-09-source-01 remains open. Pre-search card committed before public search in GFT-09.2.
+
+
+## GFT-09.3 — 27.11.2026
+[GFT-09.3](09_motivation/GFT-09.3_autonomy_goals_and_motivational_regulation.md). E1 SDT volition vs independence; E2 Bureau and Howard; E3 Sezer goal motives; E4 implementation intentions; E5 goal adjustment; E6–8 heterogeneous school motivational profiles; E9 adult gifted sample N106 plus controls, Beck autonomy distinct from SDT; E10 direct-tail search. Q-09-tail OPEN also for measured adult IQ150–160+ autonomy/goal motives, implementation and adjustment. Q-09-source-01/02 OPEN_FOR_CLARIFICATION; Hornstra 2023 abstract vs educational relevance statement disagree on direction of change in external regulation and amotivation. Pre-search card committed before search.
