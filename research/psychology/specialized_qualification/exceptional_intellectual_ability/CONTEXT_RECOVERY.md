@@ -105,3 +105,7 @@ GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinica
 
 ### Локальный checkpoint GFT-19 — 27.11.2026 (Кира-4)
 GFT-19.1 COMPLETE_FOR_SPECIFIED_SCOPE — [блок](19_analytical_methodology/GFT-19.1_group_to_individual_competing_models.md). Следующая локальная единица GFT-19.2 — конкурирующие многоуровневые причинные объяснения, достаточность модели, опровержение и пересмотр. Q-19-source-01 и Q-19-tail OPEN; завершение GFT-19 зависит от GFT-16/17/18. Общий маршрут других сессий и T0/T1 не изменены.
+
+
+## GFT-13.2 — 27.11.2026 (локальный маршрут)
+GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail OPEN also for SLD; Q-13-SLD-discrepancy NOT_SUFFICIENT_FOR_DIAGNOSIS; Q-13-SLD-compensation HETEROGENEOUS_NOT_CAUSALLY_ESTABLISHED; Q-13-SLD-adult OPEN (measured high general IQ and writing/math comparisons); Q-13-source-04 OPEN (Lijbers 2025 model-change reporting); earlier Q-13 questions retained. Next local GFT-13.3 — heterogeneous profiles and differential assessment. T0 unchanged/T1 pending. Фактический счётчик по завершённым блокам: 12/20 областей, 53 единиц; незавершённые карточки нет не учитываются. PARALLEL: локальная точка только Кира-2.

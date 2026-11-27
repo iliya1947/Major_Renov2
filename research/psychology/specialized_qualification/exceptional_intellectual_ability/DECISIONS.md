@@ -116,3 +116,7 @@ Canonical checkpoint and branch 5861f9d reconciled in [GFT-13.1](13_other_2e_pro
 Kira-1: GFT-14.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general construct/measurement-methodological scope); GFT-14 IN_PROGRESS. Q-14-tail OPEN (separately measured adult IQ150–160+ compensation, masking and adaptive functioning not established); Q-14-measure OPEN (strategy report, discrepancy, observed efficacy and functioning not interchangeable; cross-group invariance and criterion validity); Q-14-causal OPEN (IQ/strategy causal effect and latent difficulty not established by cross-sectional differences); Q-14-source-01 OPEN (full 2e meta-analysis, original ADHD/autism contrast and several primary papers unavailable); Q-13 dependencies retained; GFT-13.1 bounded completion only. Next GFT-14.2 — стратегии компенсации и внешние опоры: эффективность, перенос, причинность, роль интеллектуальных способностей. T0 unchanged/T1 pending.
 
 Aggregate synchronization: after GFT-14.1 publication, GFT-19.1 completion by Kira-4 was verified in registry, DOMAIN_STATUS and canonical closure; root README had not counted it. Reconcile 52 linked completed units / 12 closed domains; no change to ownership or other research.
+
+
+## GFT-13.2 — 27.11.2026
+[GFT-13.2](13_other_2e_profiles/GFT-13.2_specific_learning_disorders_and_high_ability.md) prospective card 2cdfe196, bounded closure with adult/source gaps and internal assessment only. Next local GFT-13.3; other owners preserved. Recomputed shared total from actual statuses including independently completed GFT-19.1, not stale README.

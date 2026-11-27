@@ -315,3 +315,7 @@ Direct author abstracts Antshel 2009/2010, Groen 2020, Chong 2023 and von Rhein 
 
 ## GFT-14.1 — 27.11.2026
 WHO ICF text plus two screenshots, two relevant screenshot cache misses; Springer Hull, PLOS Canela, KCL Livingston and Sage Arnold/Atmaca selected sections/abstracts inspected. Wiley403 and PubMed CAPTCHA, several indexed sources only; full 2e meta-analysis restricted. Q-14-tail OPEN (separately measured adult IQ150–160+ compensation, masking and adaptive functioning not established); Q-14-measure OPEN (strategy report, discrepancy, observed efficacy and functioning not interchangeable; cross-group invariance and criterion validity); Q-14-causal OPEN (IQ/strategy causal effect and latent difficulty not established by cross-sectional differences); Q-14-source-01 OPEN (full 2e meta-analysis, original ADHD/autism contrast and several primary papers unavailable); Q-13 dependencies retained; GFT-13.1 bounded completion only.
+
+
+## GFT-13.2 — 27.11.2026
+[GFT-13.2](13_other_2e_profiles/GFT-13.2_specific_learning_disorders_and_high_ability.md): APA diagnosis, Stuebing 2002 and van Viersen 2016 publisher abstracts, van Viersen 2015 methods/discussion, Lijbers 2025 methods/Table6, Reis institutional abstract, Frontiers adult methods/caveats, Assouline ERIC author abstract directly inspected. Wiley403, PMC CAPTCHA, MDPI429; other claims indexed original text. WHO release list checked, exact 6A03/full manuals not verified. Q-13-source-04 open.

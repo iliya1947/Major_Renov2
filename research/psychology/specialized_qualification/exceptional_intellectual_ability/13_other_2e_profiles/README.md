@@ -1,6 +1,6 @@
 # GFT-13 — Другие дважды исключительные профили
 
-Статус: IN_PROGRESS; GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE.
+Статус: IN_PROGRESS; GFT-13.1–13.2 COMPLETE_FOR_SPECIFIED_SCOPE.
 
 ## Программа
 Аутизм, специфические нарушения обучения, неоднородность способностей, дифференциальный анализ.
@@ -34,3 +34,8 @@ GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinica
 ## Уточнение обозначения сессии — 27.11.2026
 
 **Кира-2** (ранее Кира-GFT-13) — та же ответственная сессия GFT-13, ASSIGNED по прямому уточнению пользователя. Следующий локальный блок GFT-13.2; научный статус не изменён. Актуальное обозначение — в [PARALLEL_WORK](../PARALLEL_WORK.md).
+
+## Локальная точка — 27.11.2026, GFT-13.2
+GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail OPEN also for SLD; Q-13-SLD-discrepancy NOT_SUFFICIENT_FOR_DIAGNOSIS; Q-13-SLD-compensation HETEROGENEOUS_NOT_CAUSALLY_ESTABLISHED; Q-13-SLD-adult OPEN (measured high general IQ and writing/math comparisons); Q-13-source-04 OPEN (Lijbers 2025 model-change reporting); earlier Q-13 questions retained. Next local GFT-13.3 — heterogeneous profiles and differential assessment. T0 unchanged/T1 pending.
+- [GFT-13.2](GFT-13.2_specific_learning_disorders_and_high_ability.md) — COMPLETE_FOR_SPECIFIED_SCOPE; внутренний 12/12, не независимая проверка.
+- GFT-13.3 — NEXT: неоднородные профили и дифференциальная оценка.
