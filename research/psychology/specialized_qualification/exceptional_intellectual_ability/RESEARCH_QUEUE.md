@@ -1,6 +1,6 @@
 # Очередь
 
-**Состояние: IN_PROGRESS.** GFT-01–07 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 IN_PROGRESS (GFT-08.1–08.4 завершены), 7/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail и Q-08-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-08.5 — интеграция, практический перенос и аудит достаточности GFT-08.
+**Состояние: IN_PROGRESS.** GFT-01–08 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 8/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail и Q-08-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-09.1 — любознательность, потребность в познании, интерес и интеллектуальная вовлечённость.
 
 | ID | Задача | Статус |
 |---|---|---|
@@ -11,7 +11,7 @@
 | GFT-05 | Когнитивные процессы | COMPLETE_FOR_SPECIFIED_SCOPE — методический уровень, Q-05-tail OPEN |
 | GFT-06 | Метакогниция и метаконтроль | COMPLETE_FOR_SPECIFIED_SCOPE — методический уровень, Q-06-tail OPEN |
 | GFT-07 | Творчество и сложные задачи | COMPLETE_FOR_SPECIFIED_SCOPE — методический уровень, Q-07-tail OPEN |
-| GFT-08 | Развитие одарённой личности | IN_PROGRESS — GFT-08.1–08.4 |
+| GFT-08 | Развитие одарённой личности | COMPLETE_FOR_SPECIFIED_SCOPE — GFT-08.1–08.5 |
 | GFT-09 | Мотивация | QUEUED |
 | GFT-10 | Эмоциональная психология | QUEUED |
 | GFT-11 | Социальная психология | QUEUED |
