@@ -1,0 +1,397 @@
+# Состояние источников
+
+Начата проверка доступности GFT-01.1. Полная проверка отзывов/исправлений не выполнена. Записывать фактические проверки версий, исправлений, отозванных публикаций, норм теста и доступности материала. Не маркировать источник проверенным по одному названию или вторичному пересказу.
+
+| Source ID | DOI/URL | Проверено | Версия/дата | Доступ (full/sections/abstract/index) | Исправление/отзыв/ограничение | Затронутые claims | Действие |
+|---|---|---|---|---|---|---|---|
+
+## 26.11.2026 — GFT-01.1
+- E01 10.1093/arclin/acad035: Выборочные разделы; состав индикаторов и модельные допущения.
+- E02 PMID 26741057: Аннотация; N и детали не проверены.
+- E03 10.1016/j.intell.2025.101973: RePEc аннотация, прямой доступ 403/429; не доказательство культуры.
+- E04 10.1037/0033-295X.113.4.842: Институциональная аннотация; механизм не установлен.
+- E05 10.1080/1047840X.2016.1153946: Индексированные выдержки; издатель 403.
+- E06 10.3390/jintelligence9030043: Авторская аннотация; не новая выборка; N/точность не проверены.
+- E07 10.1177/0956797616644735: Аннотация; не актуальный измеренный взрослый IQ ≥160.
+- E08 10.3389/fpsyg.2022.736487: Выборочные разделы; не прямой хвост.
+- E09 10.1007/s43076-023-00313-8: Введение/методы; частоты и результаты интервью не синтезированы.
+Проверены доступ и указанные метаданные/фрагменты, не заявляется актуальный полный аудит статуса публикаций. Уточнять при использовании точных параметров.
+
+## 26.11.2026 — GFT-01.2
+- E01 10.1016/S0160-2896(96)90016-1: Индекс аннотации; 403, не механизм.
+- E02 10.1037/a0030746: Авторская аннотация York; не причинность.
+- E03 10.1177/0956797618774253: APS аннотация; не прогноз для конкретного человека.
+- E04 10.3390/jintelligence12110104: Индекс результатов; не взрослый хвост; параметры не проверены.
+- E05 10.1126/sciadv.abj2422: Индекс; DOI 403, PMC/PubMed reCAPTCHA.
+- E06 10.1007/s10869-022-09796-1: Авторская аннотация UWA; не все индексы и не верхний хвост.
+- E07 10.1111/j.1467-9280.2007.02007.x: APS аннотация, репозиторий индекс; не взрослый IQ.
+- E08 10.1177/0956797613478615: APS аннотация; возможное перекрытие SMPY.
+- E09 PMID 38059952: Индекс аннотации; прямой доступ reCAPTCHA; новую оценку не извлекали.
+Проверка статуса отзывов/исправлений всех работ не выполнена. Не заявлено полное чтение. Прямых данных измеренного взрослого IQ 150–160+ в наборе не обнаружено.
+
+## 26.11.2026 — GFT-01.3
+- E01 10.1177/1073191117733547: открытая авторская аннотация PubMed, полный текст не проверен.
+- E02 10.1016/j.paid.2025.113274: издатель 403, институциональный PDF извлечён выборочно, две попытки screenshot — cache miss; рисунки и полный текст не проверены.
+- Выборочно перепроверены GFT-01.1 E01 (аннотация/введение), E03 (индекс, DOI 429), E07 (индекс), GFT-01.2 E04 (индекс, издатель 429), E05 (индекс, PMC reCAPTCHA), E08 (индекс). Не полный аудит прежних 18 карточек, исправлений или отзывов. Границы использования в GFT-01.3 §2.
+
+## 26.11.2026 — GFT-02.1
+- E01 Standards 2014, ch.2: Фрагменты PDF, визуально стр.43,45,46; не тестовая валидация.
+- E02 Pearson WAIS-5 US FAQ: Индекс; cache miss; предел/локальная точность не проверены.
+- E03 WAIS-5 By the Numbers 2025: Извлечённый текст; screenshot cache miss; размер gifted group не установлен.
+- E04 WAIS-IV UK Pearson FAQ: Индекс; cache miss; не точность.
+- E05 PRO-ED SB5 Technical/Interpretive Manual listings: Индекс; руководства не получены; взрослый хвост не валидирован этим источником.
+- E06 WISC-V TR6 2019: Разделы PDF, визуально стр.1–2; детские нормы.
+- E07 10.1017/psy.2026.10081: PubMed аннотация; издатель timeout.
+- E08 Raykov 2026 Psychometrika: Издатель §6; не независимое исследование IQ.
+- E09 PMID 25313225: Индекс; reCAPTCHA; не верхний хвост.
+Полные технические руководства и все статусы исправлений не проверены. Точные значения взрослых CSEM и пределы по возрастам WAIS-5/EXIQ требуют проверки; нельзя экстраполировать детские нормы.
+
+## 26.11.2026 — GFT-02.2
+- E01 10.1177/0734282909346710: Издательская аннотация; не локальный хвост.
+- E02 Pearson WAIS-5 Q-global report settings: Полная короткая страница; таблицы не проверены.
+- E03 Pearson WAIS-IV/WAIS-5 US FAQ: Индекс; find cache miss; не руководство.
+- E04 PMID 23544395; PMID 23647042: Индекс аннотаций; reCAPTCHA; перекрытие не проверено.
+- E05 10.1177/1073191117733547: Аннотация; повтор GFT-01.3 E01.
+- E06 10.1016/j.paid.2025.113274: Извлечённые разделы PDF, screenshot cache miss; повтор GFT-01.3 E02.
+- E07 10.1177/00131644251339444: Выборочные разделы издателя; нет калибровки верхнего хвоста.
+- E08 10.1093/arclin/acad073: Аннотация, методы/обсуждение выборочно; не 150–160+.
+Полный аудит исправлений, технических таблиц и прямого взрослого диапазона IQ 150–160+ не проведён. E05/E06 — повторное использование прежних работ; не считать независимыми репликациями.
+
+## 26.11.2026 — GFT-02.3
+- E01 Pearson WAIS-5 Sample Score Report 2024: Извлечённые разделы, screenshot cache miss; не локальная валидация.
+- E02 Pearson WAIS-IV vs WAIS-5 Comparison Flyer 2025: Обе страницы прочитаны и визуально проверены; не доказательство эквивалентности.
+- E03 Pearson WAIS-5 FAQ/product listing: Индекс; основная страница cache miss; полный manual не получен.
+- E04 Ruf 2003, SB5 ASB #3: Извлечённые разделы, screenshot cache miss; не взрослое исследование.
+- E05 PRO-ED SB5 Interpretive/Technical Manual listings: Индекс; cache miss; не проверены метод и точность.
+- E06 10.1177/10731911261436688: Аннотация; restricted full text; не прямой взрослый хвост.
+- E07 10.1177/1073191110386343: Индекс аннотации; PubMed reCAPTCHA.
+- E08 PMID 21154032: Индекс аннотации; PubMed reCAPTCHA; перекрытие не проверено.
+Полные руководства не получены; локальная точность 150–160+ и полная проверка исправлений не установлены. Отдельное открытие WAIS-5 Technical Report 1 (hearing differences), screenshot cache miss: не источник upper-tail norms; не использован для новых выводов об экстремальном IQ.
+
+## 26.11.2026 — GFT-03.1
+- E01 10.1098/rsos.211621: Авторская аннотация институционального репозитория; PubMed reCAPTCHA.
+- E02 10.1017/S0140525X07001185: Издательская аннотация; не причинная валидация.
+- E03 PMC3326251: Индекс аннотации; cache miss.
+- E04 10.1093/brain/awac304: Издательская аннотация и введение; не здоровый хвост.
+- E05 10.1038/s42003-025-08231-4: Аннотация, введение, ограничения; не механизм.
+- E06 10.1038/s41467-026-68698-5: Введение/обсуждение/ограничения; PMC reCAPTCHA; возможное перекрытие HCP.
+- E07 10.1093/pnasnexus/pgae519: Результаты/validation/метод выборочно; перекрытия не проверены.
+- E08 10.1038/s41586-022-04492-9: Выбранные результаты и методы; correction существует, содержание не извлечено.
+- E09 10.1038/s41586-023-05745-x: Начальные разделы; не независимая репликация всех эффектов.
+- E10 10.1002/brb3.2348: Индекс методов/аннотации; DOI 403, PMC reCAPTCHA; эффекты не синтезированы.
+Полное чтение, полный статус исправлений/отзывов, перекрытия HCP/AOMIC и локальная точность измерения взрослого IQ 150–160+ не проверены. Прямой взрослый экстремальный набор не установлен. Publisher correction E08: https://doi.org/10.1038/s41586-022-04692-3 (содержание не извлечено).
+
+## 26.11.2026 — GFT-03.2
+- E01 10.1016/j.neubiorev.2009.04.001: Индекс аннотации.
+- E02 PMID 24489416: Индекс аннотации/метода; PMC reCAPTCHA.
+- E03 10.1371/journal.pone.0051316: PLOS аннотация, результаты, обсуждение выборочно.
+- E04 Cerebral Cortex 32(19):4172; PMC9528794: Индекс текста/аннотации; перекрытие баз не проверено.
+- E05 10.1038/427311a: Nature аннотация; основной текст закрыт.
+- E06 10.1016/j.tics.2017.09.008: Индекс/институциональная аннотация.
+- E07 10.1038/s42003-026-09712-w: Издательские методы/результаты/ограничения выборочно.
+- E08 10.3758/s13423-014-0699-x: Индекс аннотации; полный метод не проверен.
+- E09 10.1177/1745691616635612: Индекс аннотации/текста; PMC reCAPTCHA.
+- E10 10.1525/collabra.203: Индекс; UC Press cache miss; перекрытие E09.
+Полный статус исправлений/отзывов и пересечения первичных выборок не проверены. Полнотекстовое чтение всех публикаций не выполнено. Прямой взрослый экстремальный набор не установлен; Q-02-tail/Q-03-tail OPEN.
+
+## 26.11.2026 — GFT-03.3
+- E01 PMID 19488046: Индекс аннотации/методов, PubMed reCAPTCHA.
+- E02 10.1016/j.intell.2021.101579: Институциональная авторская аннотация.
+- E03 10.1073/pnas.1417106112: Институциональная аннотация; не рандомизация.
+- E04 10.1177/0956797615612727: Аннотация APS; полные методы не проверены.
+- E05 10.1038/s41588-018-0152-6: Nature аннотация и индекс авторского текста; не причинные гены.
+- E06 10.1038/s41588-022-01062-7: Издательские результаты/обсуждение выборочно.
+- E07 PMID 25593376: Индекс аннотации/методов; 403/reCAPTCHA.
+- E08 10.1038/mp.2017.121: Издательские методы/обсуждение выборочно; не взрослый FSIQ.
+- E09 10.65550/001c.158459: Аннотация и фрагмент результатов; интересы и pipeline не проверены полностью.
+Полные тексты, приложения, статусы исправлений/отзывов, независимость всех когорт и валидность взрослого экстремального диапазона не проверены. Прямой взрослый набор не установлен; Q-02-tail/Q-03-tail OPEN.
+
+## 26.11.2026 — GFT-03.4
+- E01 10.1038/s41598-017-11593-3: издательские разделы выборочно; gifted только подростки.
+- E02 10.1002/brb3.2348: индекс методов SB5, авторский потолок 170; локальная точность не проверена, повтор 03.1 E10.
+- E03 10.1038/s41586-022-04692-3: содержание correction проверено, дата получения/лицензия; закрыт конкретный вопрос из 03.1 E08.
+- Повторная выборочная проверка 03.1 E04/E06, 03.2 E02/E09, 03.3 E06/E08; PubMed/PMC Dunst reCAPTCHA, TIP SAT текущей статьи повторно не извлечён; связанную HiQ-работу не считать независимой. Все статусы исправлений и первичные выборки не проверены полностью. Q-02-tail/Q-03-tail OPEN.
+
+## 26.11.2026 — GFT-04.1
+- E01 10.1207/s15516709cog0702_3: Индекс аннотации.
+- E02 ScienceDirect 0010028583900026: Индекс аннотации; 403.
+- E03 10.3758/BF03334970: Индекс аннотации; short DOI cache miss.
+- E04 10.3758/s13421-019-00964-y: PubMed авторская аннотация.
+- E05 PMID 20956326: Индекс аннотации/текста; reCAPTCHA.
+- E06 PMID 15238029: Индекс аннотации; reCAPTCHA.
+- E07 PMID 30693393: Индекс аннотации/текста; reCAPTCHA.
+- E08 10.1207/s15516709cog0502_2: Институциональная авторская аннотация.
+- E09 10.3389/fpsyg.2017.01646: Издательские обсуждение/ограничения выборочно.
+Полные тексты, статусы исправлений и все выборки не проверены. Q-04-tail OPEN, Q-02-tail/Q-03-tail OPEN.
+
+## 26.11.2026 — GFT-04.2
+- E01 10.1016/j.intell.2015.09.005: Авторская аннотация Leuphana, издатель 403.
+- E02 PMID 31162397: Индекс аннотации; reCAPTCHA.
+- E03 10.1287/mnsc.35.3.321: Издательская библиография/индекс авторского текста.
+- E04 10.1016/j.obhdp.2008.03.003: Авторская аннотация MIT; издатель 403.
+- E05 10.1002/sdr.447: Авторская аннотация MIT; Wiley 403.
+- E06 10.3758/s13428-015-0657-1: Издательская аннотация; полный текст закрыт.
+- E07 10.1111/cogs.13273: Индекс аннотации/текста; 403/reCAPTCHA.
+- E08 10.1111/cogs.70108: Индекс аннотации, институциональная запись; PubMed reCAPTCHA.
+- E09 10.1007/s00426-026-02252-2: Издательская страница и индекс методов/аннотации.
+- E10 10.1007/s00591-021-00306-7: Издательские §§2–3 и фрагмент обсуждения.
+- E11 PMID 42837964: Индекс аннотации; издатель cache miss.
+Полные тексты, все параметры, статусы исправлений и независимость выборок не проверены. Q-04-tail OPEN; Q-02-tail/Q-03-tail OPEN.
+
+## 26.11.2026 — GFT-04.3
+- E01 ScienceDirect S0899825624001398: Индекс аннотации/текста.
+- E02 ScienceDirect S0167487016302884; 10.1002/smj.2660: Индекс авторских материалов.
+- E03 10.1017/CBO9780511527937.029: Резюме Cambridge; полный текст закрыт.
+- E04 PMID 29620401: Индекс аннотации; reCAPTCHA/cache miss.
+- E05 PMID 25581088: Индекс аннотации; reCAPTCHA.
+- E06 10.1177/0956797614524255: Официальная аннотация APS.
+- E07 10.1016/j.obhdp.2020.02.001: Индекс аннотации; 403.
+- E08 ScienceDirect S0169207021001473: Индекс аннотации; 403.
+- E09 PMID 18361678: Индекс аннотации; reCAPTCHA.
+- E10 10.1017/jdm.2025.10008: Издательские разделы выборочно.
+Полные тексты, все статистические параметры, исправления/отзывы и перекрытия турниров не проверены. Q-04-tail OPEN; Q-02-tail/Q-03-tail OPEN.
+
+## 26.11.2026 — GFT-04.4
+E01 PubMed авторская аннотация прочитана; E02 индекс аннотации/библиографии; E03 индекс, TUM cache miss; E04 издательские фрагменты обсуждения/альтернатив, индекс аннотации; E05 индекс, институциональное открытие cache miss; E06 индекс, Mellers PubMed reCAPTCHA; E07 индекс аннотации/текста, PubMed reCAPTCHA/PMC cache miss; E08 индекс, Toffalini издатель 403. Не полное чтение всех источников или аудит всех исправлений/отзывов. Q-02-tail/Q-03-tail/Q-04-tail OPEN.
+
+## 26.11.2026 — GFT-05.1
+- E01 PMID 24531497: Индекс текста/аннотации; PMC reCAPTCHA, издатель 403.
+- E02 10.1177/1745691616650647: Авторская аннотация APS, полный текст закрыт.
+- E03 10.1006/cogp.1999.0734: PubMed аннотация.
+- E04 10.1037/bul0000160: Институциональная аннотация.
+- E05 10.1037/xge0001000: PubMed аннотация.
+- E06 10.3758/s13423-025-02696-4: Издательские аннотация/введение/гипотезы.
+- E07 10.3758/s13428-025-02897-8: Издательские аннотация/метод/обсуждение выборочно.
+- E08 10.3758/s13428-017-0935-1: Издательская аннотация.
+- E09 10.1016/j.cognition.2011.02.002; 10.1177/0963721415596228: Индекс аннотации; авторская аннотация второго источника.
+- E10 10.1111/jcpp.12001: PubMed аннотация.
+- E11 10.1080/23279095.2026.2673177: Индекс авторской аннотации; reCAPTCHA/DOI недоступен.
+Полное чтение всех источников, статусы исправлений/отзывов, перекрытия и верхнехвостовая точность не проверены. E11 — отсутствует доступ к полному тексту и критерию отбора. Q-05-tail OPEN.
+
+## 26.11.2026 — GFT-05.2
+- E01 10.1177/1745691615569000: Авторская аннотация APS.
+- E02 PMID 1429345; 11218338; 11302234: Индекс аннотаций; первый PubMed reCAPTCHA.
+- E03 10.1016/j.intell.2019.101383: Индекс авторского текста; ScienceDirect 403.
+- E04 PMID 36940328: Индекс аннотации/текста.
+- E05 PMID 16536645; 10.1146/annurev-psych-122414-033550: Индекс аннотаций; Annual Reviews 403.
+- E06 10.1037/0033-295X.95.4.492; 10.1207/s15516709cog2703_8: Индекс текста/библиографии.
+- E07 10.1177/0956797614535810: Авторская аннотация APS.
+- E08 10.3389/fpsyg.2019.02396; 10.3389/fpsyg.2020.01134: Издательские разделы результатов/ответа.
+- E09 PMID 29733621: Индекс аннотации; reCAPTCHA.
+- E10 10.1037/a0016755: Индекс аннотации; PubMed reCAPTCHA.
+- E11 10.1016/j.cognition.2008.05.005: Авторская аннотация Brunel.
+- E12 10.3390/jintelligence13090115: Индекс текста/ограничений; PMC reCAPTCHA, MDPI 429.
+- E13 PMID 31451633: Индекс аннотации/текста.
+Полные тексты и статусы исправлений/отзывов всех источников не проверены. Corrigendum шахматного метаанализа Burgoyne 2016 найден (ScienceDirect S0160289618301831), содержание не извлечено, численные эффекты не использованы. Q-05-tail OPEN.
+
+## 26.11.2026 — GFT-05.3
+E01 publisher methods/results excerpts; E02 PubMed author abstract and figures; E03 publisher methods/Table 1/results excerpts (PMC reCAPTCHA); E04 indexed author abstract/method; E05 indexed abstract (PubMed reCAPTCHA); E06 publisher abstract, restricted full text; E07 review abstract/index; E08/E09 indexed abstracts; E10 candidate only, correction PMID 40274724 not verified. No claim of complete reading or full correction/retraction audit. Q-05-tail OPEN.
+
+## 26.11.2026 — GFT-05.4
+Rey-Mermet 2025 publisher introduction/conclusion excerpts and Robison 2026 discussion excerpts reopened; no complete rereading. Welhaf erratum 10.3758/s13423-025-02664-y (24.04.2025) PubMed and publisher metadata verified, correction body paywalled. Haneefa 2026 indexed metadata, publisher full URL inaccessible. Q-05-tail OPEN; no systematic or complete correction/retraction audit.
+
+## 26.11.2026 — GFT-06.1
+Rahnev 2025 publisher abstract/introduction/test-retest results/discussion excerpts; Double 2025 publisher abstract/introduction and indexed results; Mazancieux 2026 APS abstract (full access limited); Baer 2026 publisher abstract/figure captions (subscription). E01–E04/E07–E08/E11 author/publisher/indexed abstracts, not full texts. Primary Rouault Gf analysis not extracted (PMC reCAPTCHA); some gifted adolescent sources blocked. No systematic correction/retraction audit. Q-06-tail OPEN. See block for access per source.
+
+## 26.11.2026 — GFT-06.2
+E01 institutional abstract excerpt, PubMed blocked; E02 PubMed author abstract vs indexed publisher body contradiction on Exp1 direction (publisher direct 403, no correction identified in targeted search; direction not used); E03 PubMed author abstract, publisher 403; E04 Cambridge abstract/introduction; E05 Nature results/discussion excerpts; E06 Springer abstract/discussion (overall accuracy difference NS); E07 indexed author abstracts; E08 Springer introduction/discussion excerpts; E09 indexed title/body, PubMed blocked; E10 indexed abstracts. No full reading or systematic correction/retraction audit. Q-06-source-02 and Q-06-tail OPEN.
+
+## 26.11.2026 — GFT-06.3
+E01/02 indexed author abstracts/text, PubMed/DOI blocked; E03 Springer abstract/introduction; E04 indexed theory/review; E05 PLOS results/reliability/discussion; E06 APS abstract only; E07 indexed abstracts/text; E08 SAGE methods/results/discussion excerpts; E09 Springer abstract and notes only, paywall; E10 Springer abstract, Exp2 design/discussion, limitation shared derived measure and absolute vs signed; E11 Frontiers abstract, participants/measures/discussion/limitations. No full bibliography, raw-data or systematic correction/retraction audit. Q-06-source-02 remains OPEN; Q-06-tail OPEN.
+
+## 26.11.2026 — GFT-06.4
+Van Marcke & Desender 2025 published PDF recovered at https://desenderlab.com/wp-content/uploads/2025/06/context-dependent-role-of-confidence-in-information-seeking.pdf : abstract screenshot p1, text results §§3.1–3.2, Fig.3 caption/discussion; p5–6 screenshots unavailable; no raw data/supplement/preregistration reanalysis. Direction recovered, abstract discrepancy persists; no correction established by targeted search. Rahnev DOI 10.1038/s41467-025-56117-0 test-retest/discussion excerpts; Ngai & Gilbert DOI 10.1186/s41235-026-00714-0 discussion excerpt. Motor precision candidate DOI 10.3758/s13423-026-03038-8 index only, no effect used. Not systematic review or full reread. Q-06-tail OPEN.
+
+## 26.11.2026 — GFT-07.1
+E01 indexed author text; E02 indexed abstracts/text, DOI/Wiley inaccessible; E03 indexed publisher text, direct 403; E04 ERIC published PDF abstract screenshot and §§2.1.5/2.2, indexed results; E05 published PDF screenshot abstract, methods, Table1 and results/limitations; E06 ERIC PDF abstract/methods/§8.2 text, screenshot cache miss; E07 institutional abstract opened; E08 PLOS abstract/results/discussion excerpts; E09 author indexed abstract/results, direct cache miss; E10 indexed author text, publisher 429; E11 Park indexed abstract/metadata, Kell APS abstract opened. No systematic correction/retraction or data/overlap audit. Q-07-tail OPEN.
+
+## 26.11.2026 — GFT-07.2
+E01 university abstract opened, publisher 403; E02 lab PDF abstract screenshot and selected text, prior evidence; E03 indexed author abstracts/discussion; E04 Stuyck PubMed abstract opened, contrast indexed; E05 Springer abstract/introduction, 2026 Aha Glow indexed only (429/cache miss); E06 Klayman/Ha indexed, Coenen author lab abstract; E07 Springer methods/results/discussion; E08 CMU PDF text abstract/refinement, screenshot cache miss, Perrin Springer abstract/introduction, Sternberg indexed only; E09 indexed publisher abstract/method, direct cache miss; E10 candidate tail indexed only, not used. No complete source, data or corrections audit. Q-07-tail OPEN.
+
+## 26.11.2026 — GFT-07.3
+E01 PubMed abstract/Fig2 caption; E02 SAGE methods/results/limitations and other indexed author abstracts; E03 Park author PDF text methods/results, screenshot cache miss; E04 Kell Vanderbilt published PDF screenshot p0/method; SMPY recruitment overlap confirmed; E05 indexed author text (403); E06 LSE November 2018 manuscript abstract and movers section, screenshot cache miss, final DOI metadata only; E07 author-hosted published PDF abstract/results text, screenshot cache miss; E08 Nature abstracts/results/methods excerpts and Sinatra indexed abstract; E09 PubMed abstract/Frontiers methods, reward and PFP indexed abstracts; E10 White Rose accepted-article abstract. No systematic source correction/retraction, raw data or complete overlap audit. Q-07-tail OPEN.
+
+## 26.11.2026 — GFT-07.4
+Selected indexed author texts/abstracts for Gerwig, Karwowski, Jauk 2013/2014, Weiss, Chiang (MDPI direct 429; PMC/CUHK indexed), Stadler, Stuyck 2021 (PubMed abstract opened) and 2022 (indexed), Grimmer, Branchini, Park/Kell, cohort descriptions, Bol, Liu, Cebrián, Sio. Indexed PDF excerpts not full PDF analysis. No full primary-data/supplement/correction/retraction or participant overlap audit. Same sources as previous units not independent; 07.1 provenance addendum. Q-07-tail OPEN.
+
+## 26.11.2026 — GFT-08.1
+Indexed author abstracts and HTML excerpts E01–05, E07/E09; PMC/PubMed direct requests challenged, Wiley direct403. E06 LMU author abstract opened, Zurich indexed published methods/results; E08 APS author abstract opened. Fjell et al. 10.1038/s41591-026-04759-y published17 Nov2026; publisher correction24 Nov2026 10.1038/s41591-026-04824-6 incorrect Fig5b amended; indexed HTML correction notice retrieved, direct opens cache miss, corrected figure not inspected; abstract-level only. No complete literature, data, corrections or overlap audit. Cohort overlap LBC/VCAP/BETULA/LOGIC/SHARE noted. Q-08-tail OPEN.
+
+## 26.11.2026 — GFT-08.2
+E01–02 indexed author text/abstract; E03 Lang PubMed abstract opened, elderly study indexed; E04 indexed publisher text, direct DOI redirect failed; E05 PubMed abstract/captions opened; E06 Lavrijsen PubMed abstract opened and indexed methods, EDEN indexed author abstract; E07 Springer abstract opened, other reviews indexed, MDPI429; E08 2026 meta-analysis 403, indexed methods only, effects not verified; E09 Springer HTML methods/results/limitations excerpts (10.1186/s40359-026-04728-7), methods single-group, inconsistent limitation wording OPEN_FOR_CLARIFICATION (Q-08-source-01), no comparator claim; E10 SMPY indexed author text, 2023 qualitative follow-up Springer methods opened; no full primary data, systematic correction/retraction or independence audit. Q-08-tail OPEN.
+
+## 26.11.2026 — GFT-08.3
+E01 Frontiers methods/tables excerpts, Rinn/Bishop abstract indexed; E02 author abstract indexed, publisher403; E03 Springer methods/results opened excerpts; E04 2026 published abstracts/methods indexed, direct cache misses/403; E05 Springer methods/results excerpts; E06 Cambridge methods/discussion excerpts; E07 SAGE methods/results/discussion excerpts, Q-08-source-02 OPEN_FOR_CLARIFICATION (Table5 B/OR, income labels and chi-square/p discrepancy), no precise effect or adjusted-significance claims; E08–09 indexed author abstracts, UvA direct cache miss; E10 indexed candidates only. No full literature/corrections/data/overlap audit. Prior Q-08-source-01 and Q-08-tail OPEN.
+
+
+## GFT-08.4 — 27.11.2026
+See unit E1–20 for access per source. E15 and E19 institutional full author abstracts directly read; E16–18 indexed abstracts/excerpts; direct PMC CAPTCHA and publisher fetch failures. E6 correction indexed publisher and author review reconfirmed. No full article read, systematic review, complete overlap or corrections audit. Q-08-tail OPEN: specific longitudinal strategy development, self-directed learning and experience effects in measured adult IQ150–160+ not established; Q-08-source-03 corrected main model estimates; initial GFT-08.4 pre-search card provenance missing (documented process deviation).
+
+
+## GFT-08.5 — 27.11.2026
+E1–3/E5 indexed author abstract/body rechecked; PMC/PubMed direct CAPTCHA. E4 publisher correction text/Table1 inspected. E6 publisher PDF extracted methods/results/discussion; page screenshots failed cache miss; no full paper/supplement or independent figure read; publisher/institutional HTML 403. Q-08-source-04 abstract N87,408 vs body N87,508; no reconciled total. No exhaustive corrections or overlap audit. Q-08-tail OPEN: measured adult IQ150–160+ longitudinal level/rank/profile, cross-domain development, identity/fit and strategy trajectories not established. Q-08-asynchrony UNIVERSAL_MECHANISM_NOT_ESTABLISHED; Q-08-source-01/02/04 OPEN_FOR_CLARIFICATION; Q-08-source-03 corrected main model. 08.4 initial card provenance limitation retained.
+
+
+## GFT-09.1 — 27.11.2026
+E2 ERIC full author abstract read; E1/E3–8 indexed author/publisher excerpts, direct 429/403/CAPTCHA/timeouts; no article read fully or PDF analyzed. No exhaustive overlap/correction audit. Q-09-tail OPEN: measured adult IQ150–160+ curiosity, NFC, interest and intellectual engagement not established. Q-09-source-01 OPEN_FOR_CLARIFICATION: Meier 2014 abstract N921 vs final sample N920. Initial pre-search card provenance incomplete.
+
+
+## GFT-09.2 — 27.11.2026
+E2 ERIC full author abstract; E5 SAGE discussion excerpts; other indexed author excerpts, PubMed/PMC CAPTCHA, flow publisher403. No full article read or PDF analyzed; no exhaustive correction/dependence audit. Q-09-tail OPEN also for measured adult IQ150–160+ challenge preference, novelty, boredom and task demands. Q-09-source-01 remains open. Pre-search card committed before public search in GFT-09.2.
+
+
+## GFT-09.3 — 27.11.2026
+E6/E7 Utrecht full author abstracts, E9 Elsevier France bilingual author abstract, E5 Nature abstract and discussion excerpts; other indexed author excerpts. Direct 403/CAPTCHA/cache miss/502. No article fully read or PDF analyzed, no exhaustive overlap/correction audit. Q-09-tail OPEN also for measured adult IQ150–160+ autonomy/goal motives, implementation and adjustment. Q-09-source-01/02 OPEN_FOR_CLARIFICATION; Hornstra 2023 abstract vs educational relevance statement disagree on direction of change in external regulation and amotivation.
+
+
+## GFT-09.4 — 27.11.2026
+E1–3 direct ERIC/York St John/PubMed author abstracts, E8 Frontiers HTML excerpts, other indexed author abstracts, institutional cache misses and CAPTCHA. No PDF analyzed or article read fully. No exhaustive overlap/correction audit. Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open.
+
+
+## GFT-09.5 — 27.11.2026
+E5 Lund author abstract read directly; E3 extracted PDF Table 5/results inspected, screenshots p6/p7 failed cache miss; no visual verification; publisher DOI403, MDPI429. Other indexed author/published text. No full article read end-to-end, no exhaustive correction/overlap audit. Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED.
+
+
+## GFT-10.1 — 27.11.2026
+E1 Becerra, E2 and E8 ERIC, E3 SAGE and E7 Springer full author abstracts directly read; E8 publisher summary/coding appendix inspected; E7 early unedited version. Other indexed author texts/abstracts; CAPTCHA/429/403/cache misses. No PDF opened, no full article read, no exhaustive correction/overlap audit. Q-10-tail OPEN: measured adult IQ150–160+ emotional sensitivity, intensity and sensory reactivity not established. Q-10-OE UNIVERSAL_OR_DIAGNOSTIC_PHENOTYPE_NOT_ESTABLISHED; updated 2026 meta-analysis constrains 2016 synthesis; ascertainment and publication bias matter.
+
+
+## GFT-10.2 — 27.11.2026
+E3/E9 Springer abstract and selected HTML sections directly inspected; other indexed author abstracts/excerpts, ScienceDirect/Wiley403, PubMed/PMC CAPTCHA, RePEc cache miss. No PDF analyzed/full article read; no exhaustive overlap/correction audit. Q-10-tail OPEN also for measured adult IQ150–160+ emotion differentiation, emotion knowledge and EI. Q-10-EI UNIVERSAL_ADVANTAGE_NOT_ESTABLISHED; Q-10-measure OPEN (instrument/version/scoring and precision); Q-10-OE retained. Ferrándiz 2026 dimension-specific synthesis constrains older aggregate estimates.
+
+
+## GFT-10.3 — 27.11.2026
+E3 Nature selected sections; E7 Nature abstract; E6 PubMed abstract; E8 Frontiers methods/limitations directly inspected. Other indexed abstracts/excerpts; CAPTCHA/cache misses. No PDF analyzed, no full article read or exhaustive correction/overlap audit. Q-10-tail OPEN also for measured adult IQ150–160+ strategy choice, efficacy and regulatory flexibility. Q-10-flex UNIVERSAL_STRATEGY_SITUATION_RULE_NOT_ESTABLISHED; Q-10-OE/EI/measure retained.
+
+
+## GFT-10.4 — 27.11.2026
+ERIC and Springer early-version abstracts, Bo 2024 Nature Neuroscience subscription abstract read; Sicorello 2026/Growney 2026 and other indexed author/publisher excerpts. Cache misses/CAPTCHA/403; no PDF analyzed or full article read, no exhaustive overlap/correction audit. Q-10-tail OPEN for separately measured adult IQ150–160+ emotional processes; Q-10-OE/EI/flex limitations retained; Q-10-measure/neural/source-01 OPEN (instrument-specific precision, neural prediction across measures, Mensa comparator denominator clarification).
+
+
+## GFT-11.1 — 27.11.2026
+ERIC/BGU/Birmingham full author abstracts and selected Springer HTML results inspected; other indexed abstracts/excerpts. CAPTCHA/429/cache misses. No PDF analyzed or full article read; no exhaustive correction/overlap audit. Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive empathic accuracy; Q-11-measure OPEN (ceiling, reliability, validity, calibration); Q-11-source-01 OPEN (gifted youth task-specific effects and ascertainment).
+
+
+## GFT-11.2 — 27.11.2026
+E2 UC institutional abstract, E4 Nature methods/results, E5 OUP abstract/results, E6 AEA abstract, E7 Nature abstract/results/discussion, E8 OUP/Nature abstract/intro directly inspected; other indexed abstracts/text; 403/CAPTCHA/Wiley fetch failure. No PDF analyzed or full article read; no exhaustive correction/overlap audit. Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained.
+
+
+## GFT-11.3 — 27.11.2026
+Publisher selected HTML sections (E1, E3, E4, E6), ERIC author abstract E2, HU institutional abstract E5 and SAGE abstract E7 inspected. Indexed historical excerpts and other candidates only; cache misses, CAPTCHA and 403/429; no entire article or PDF analyzed; no raw data, exhaustive correction or overlap audit. Q-11-tail OPEN also for measured adult IQ150–160+ communication and mutual understanding; Q-11-gap UNIVERSAL_IQ_DIFFERENCE_THRESHOLD_NOT_ESTABLISHED; Q-11-source-03 OPEN_FOR_CLARIFICATION (De la Garza et al. 2026 abstract N40 vs method N44; LMG attribution not unique variance). Previous Q-11 limitations retained.
+
+
+## GFT-11.4 — 27.11.2026
+UWA, Groningen, Murdoch, ERIC author abstracts and selected SAGE HTML methods/results/discussion of Poirier; Nature preview and methodological figure; other indexed abstracts only, publisher 403/502/CAPTCHA/cache misses. No whole article/PDF read, no exhaustive correction/overlap audit or raw data reanalysis. Q-11-tail OPEN also for separately measured adult IQ150–160+ social compatibility, closeness, loneliness and adaptation; Q-11-fit UNIVERSAL_SOCIAL_MALADJUSTMENT_OR_IQ_COMPATIBILITY_RULE_NOT_ESTABLISHED; Q-11-source-04 OPEN_FOR_CLARIFICATION (Poirier et al. 2025 reported chi-square/p and correlation/p inconsistencies, Table 5 coefficient/OR discrepancies). Prior Q-11 limitations retained.
+
+
+## GFT-11.5 — 27.11.2026
+Selected canonical sections reviewed; institutional author abstracts Yeung 2024, Eyal 2018, Gignac & Zajenkowski 2019 reread; Hornsey 2026 publisher abstract excerpt and index excerpts, PubMed CAPTCHA. No full articles/PDFs, raw-data reanalysis, complete correction/overlap audit or new independent samples. Q-02–11-tail OPEN; Q-11-measure and Q-11-source-01–04 OPEN; Q-11-empathy, Q-11-gap and Q-11-fit universal profile/threshold rules NOT_ESTABLISHED. No newly established extreme-tail phenotype.
+
+
+## GFT-12.1 — 27.11.2026
+Direct Cambridge author abstracts (Antshel 2009/2010), Springer selected sections Cadenas 2020, PubMed abstracts Baggio 2020/Rommelse 2016/Despature 2023, WHO CDDR extracted pp142–149 (screenshots failed), CDC 2026 adult page, NICE older NCBI copy and current index. DSM-5-TR full manual and supplements not independently checked; publisher/cache/CAPTCHA failures, 2026 youth paper results not verified. No full article/manual or raw-data analysis. Q-12-tail OPEN (separately measured adult IQ150–160+ ADHD phenotype, prevalence and differential validity not established); Q-12-prevalence OPEN (sampling, case definitions, denominators, no universal rate); Q-12-measure OPEN (within-person discrepancies not diagnostic; absolute/relative criteria and ecological validity); Q-12-source-01 OPEN (2026 pediatric nonlinear study full results unavailable; no adopted effect). Prior Q-02–11-tail and Q-11-source-04 retained.
+
+
+## GFT-12.2 — 27.11.2026
+Groen 2020 institutional author abstract, Ashinoff 2021/Tucha 2015 Springer sections and Marx 2013 PLOS sections; other sources indexed author excerpts only. PubMed/PMC CAPTCHA, Elsevier/SAGE403, Nature redirect (Q-12-source-01 rechecked), Glasgow cache miss. No full article/PDF read or raw-data reanalysis. Q-12-tail OPEN also for separately measured adult IQ150–160+ attentional variability, hyperfocus and disengagement; Q-12-HF OPEN (construct overlap, measurement, objective and incremental validity; no diagnostic specificity established); Q-12-RTV NONSPECIFIC_GROUP_LEVEL_ASSOCIATION; Q-12-source-01 OPEN after repeat publisher access failure; Q-12-prevalence/measure and prior tail limitations retained.
+
+
+## GFT-12.3 — 27.11.2026
+Direct selected Springer Senkowski 2024, Frontiers Wagner 2024, Nature 2025 effort sections; KCL Milioni 2017 and Cambridge Boonstra 2005/Antshel 2010 abstracts. Other results from indexed primary abstracts/excerpts, PMC CAPTCHA; Q-12-source-01 Nature redirect/PMC cache miss. No full papers or raw-data analysis. Q-12-tail OPEN also for separately measured adult IQ150–160+ reward valuation, effort allocation, impulsivity and executive control; Q-12-motivation HETEROGENEOUS_TASK_DEPENDENT_ASSOCIATIONS (single motivational deficit and universal dopamine explanation not established); Q-12-EF GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-12-source-01 OPEN (repeat Nature redirect/PMC cache miss); Q-12-HF/RTV/prevalence/measure and earlier tail limitations retained.
+
+Q-12-source-02 OPEN: complete reward receipt and 2023 effort primary results inaccessible, exact contrasts and dependence not exhaustively verified. Additional PLOS incentive and Nature 2025 effort sections checked; historical checkpoint 38beecf preserved in canonical GFT-12.3.
+
+
+## GFT-12.4 — 27.11.2026
+Direct author abstracts Antshel 2009/2010, Groen 2020, Chong 2023 and von Rhein 2015 institutional mirrors; selected Cadenas 2020/Senkowski 2024 Springer sections; NICE older NCBI sections and current index (403). Q-12-source-01 direct failures repeated; Q-12-source-02 partial abstract-level confirmation, full PMC CAPTCHA; new Q-12-source-03 F/p discrepancies independently calculated, primary result affected. No full article/manual or raw-data reanalysis. Q-02–12-tail OPEN; Q-12-prevalence/measure/HF OPEN; Q-12-RTV and EF group associations not diagnostic; Q-12-motivation heterogeneous, no universal dopamine explanation; Q-12-source-01 OPEN (Nature redirect/PMC cache miss); Q-12-source-02 OPEN for full methods/results, author abstracts now directly confirmed; NEW Q-12-source-03 OPEN (Cadenas 2020 IQ main-effect F/p discrepancies, affected significance excluded).
+
+
+## GFT-13.1 — 27.11.2026
+[GFT-13.1](13_other_2e_profiles/GFT-13.1_autism_high_ability_differential_and_comparative_evidence.md): Doobay original-text mirror methods/tables1–3/results, Wilson publisher table5, Clarke Rutgers author abstract, Cancino-Barros selected publisher results directly inspected; other adopted sources indexed abstracts/results as specified. NICE403, PMC CAPTCHA, MDPI429, Ashwood timeout. Full current manuals and complete articles not verified. Q-13-source-01 partial, 02/03 open; no exact inaccessible estimates adopted.
+
+## 27.11.2026 — GFT-19.1
+- E19.1-01/02: author indexed abstract/sections, direct PMC reCAPTCHA; reply indexed only. E19.1-03: publisher selected sample/results/discussion/methods, not full text or supplement verification. E19.1-04: indexed author abstract/methods/results, DOI 403 and PubMed reCAPTCHA; Q-19-source-01 OPEN. Comprehensive correction/retraction checks not established; do not infer absence. Details [GFT-19.1](19_analytical_methodology/GFT-19.1_group_to_individual_competing_models.md).
+
+
+## GFT-14.1 — 27.11.2026
+WHO ICF text plus two screenshots, two relevant screenshot cache misses; Springer Hull, PLOS Canela, KCL Livingston and Sage Arnold/Atmaca selected sections/abstracts inspected. Wiley403 and PubMed CAPTCHA, several indexed sources only; full 2e meta-analysis restricted. Q-14-tail OPEN (separately measured adult IQ150–160+ compensation, masking and adaptive functioning not established); Q-14-measure OPEN (strategy report, discrepancy, observed efficacy and functioning not interchangeable; cross-group invariance and criterion validity); Q-14-causal OPEN (IQ/strategy causal effect and latent difficulty not established by cross-sectional differences); Q-14-source-01 OPEN (full 2e meta-analysis, original ADHD/autism contrast and several primary papers unavailable); Q-13 dependencies retained; GFT-13.1 bounded completion only.
+
+
+## GFT-13.2 — 27.11.2026
+[GFT-13.2](13_other_2e_profiles/GFT-13.2_specific_learning_disorders_and_high_ability.md): APA diagnosis, Stuebing 2002 and van Viersen 2016 publisher abstracts, van Viersen 2015 methods/discussion, Lijbers 2025 methods/Table6, Reis institutional abstract, Frontiers adult methods/caveats, Assouline ERIC author abstract directly inspected. Wiley403, PMC CAPTCHA, MDPI429; other claims indexed original text. WHO release list checked, exact 6A03/full manuals not verified. Q-13-source-04 open.
+
+## GFT-16.1 — 27.11.2026 (IN_PROGRESS)
+Toffalini/Redvaldsen PDF excerpts, screenshots cache miss; Lenhard publisher HTML sections; Urban v2 preprint indexed, DOI cache miss; Pearson FAQ indexed only; review indexed, PMC CAPTCHA. No full manuals or verified local precision. [Details](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md).
+
+## 27.11.2026 — GFT-19.2
+E19.2-01/04 selected publisher sections; E19.2-02 repository PDF selected sections and screenshot p.102; not full read/reproduction. E19.2-03 author abstract and metadata, DOI cache miss; E19.2-05 indexed abstract, PMC reCAPTCHA; E19.2-06 indexed excerpts and university metadata, publisher 403. Comprehensive correction/retraction review not established. Q-19-source-02 OPEN. [Details](19_analytical_methodology/GFT-19.2_competing_causal_models_and_revision.md).
+
+
+## GFT-14.2 — 27.11.2026
+Direct selected Solanto PMC methods/results/moderators, Safren PubMed abstract, Grinschgl Sage sections, Dentz/Wood Sage abstracts, Wehman and López-Pinar PubMed abstracts, Lee KCI and Radhakrishnan institutional abstracts. Other results indexed, PubMed CAPTCHA/publisher403/429/cache miss. Q-14-source-02 OPEN; Q-14-source-03 OPEN Safren CGI point estimate/CI precision, exact magnitude excluded. Q-14-tail OPEN also for measured adult IQ150–160+ strategy efficacy, moderation and transfer; Q-14-causal OPEN (specific strategy mechanisms, no causal IQ effect); Q-14-measure OPEN; Q-14-source-01 retained; Q-14-source-02 OPEN (2025 Lee full subgroup estimates, 2026 functioning meta-analysis full table/comparators, 2e youth review full methods, adult offloading moderation detailed results unavailable); Q-14-transfer TASK_AND_GOAL_DEPENDENT, no universal generalization. GFT-13 remains dependency for final integration.
+
+
+Q-14-source-03 RESOLVED_FOR_REPORTED_ACUTE_ESTIMATE; abstract correction remains OPEN_FOR_PUBLISHER_CORRECTION. Direct JAMA original methods/results/discussion https://jamanetwork.com/journals/jama/fullarticle/186469 inspected: adjusted CGI severity parameter −0.53, 95% CI [−1.01,−0.05], t(24.31)=−2.29, p=.03, d=.53; abstract −0.0531 conflicts with original body. Adopt body estimate only. ANCOVA with baseline adjustment and multiple imputation; primary maintenance analysis selected CBT responders/partial responders, later additional treatment confounds exploratory follow-up between-group comparisons. No broad causal maintenance inference. No raw-data correction.
+
+## 27.11.2026 — GFT-19.3
+E19.3-01 Oxford author abstract/metadata, PubMed reCAPTCHA; E19.3-02 PubMed abstract; E19.3-03/04 indexed author text, Wiley 403; E19.3-05 indexed author text, PMC reCAPTCHA; E19.3-06 Springer open selected sections including limitations, not full end-to-end reading. Q-19-source-03 OPEN; full methods and comprehensive retraction/correction audit not verified. [Details](19_analytical_methodology/GFT-19.3_integrated_individual_analysis_and_revision.md).
+
+
+## GFT-13.3 — 27.11.2026
+[GFT-13.3](13_other_2e_profiles/GFT-13.3_heterogeneous_profiles_and_differential_reasoning.md): Gontkovsky, Atmaca/Baloğlu, Zonca, Blake institutional abstracts, RCSLT FAQ, Young assessment sections, Nature genetic meta selected results/limits directly inspected; other sources indexed. PMC/PubMed CAPTCHA, Wiley/ASHA403, COSMIN cache miss. Q-13-source-05 open. Full manuals/articles not audited.
+
+
+## GFT-13.4 — 27.11.2026
+[GFT-13.4](13_other_2e_profiles/GFT-13.4_integration_transfer_and_sufficiency_audit.md): Clarke Rutgers author abstract and Van Viersen 2015 Springer discussion directly re-read; Doobay original-text mirror tables, Lijbers publisher text, Wilson/Atmaca author abstracts/reference list and NICE current recommendations indexed. Lijbers direct DOI cache miss. No full manual/article or exhaustive overlap/retraction audit. Q-13-source-01 partial; 02–05 open.
+
+
+GFT-16.1 continuation: Sixdenier publisher abstract and article method/results excerpts via RG; Lang PubMed and author manuscript methods (publisher restricted/IR 403); SB5 bulletin extracted text, screenshot cache miss; Sansone measure section; SMPY project page and Makel/Lubinski abstracts; GRoNC publisher sections. Urban v2 remains index only, Pearson FAQ cache miss, technical manuals not obtained. No full correction/retraction audit.
+
+
+## GFT-14.3 — 27.11.2026
+Direct institutional abstracts Khudiakova/Vohs/Scheeren, selected Sage van der Putten and Raymaker sections, WHO FAQ; PDF screenshots4/8 cache miss. Other primary results indexed, 403/CAPTCHA/timeout, revised ABM preprint only indexed. Q-14-tail OPEN also for measured adult IQ150–160+ costs, recovery, sustainable functioning and camouflaging outcomes; Q-14-measure/causal/transfer retained; Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, no unitary resource; Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED; Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN; Q-14-source-04 OPEN (van der Putten HTML table/narrative discrepancies, PDF screenshots cache miss, affected estimates restricted); Q-14-source-05 OPEN (EMA lag methods, 2026 ADHD qualitative and newer burnout validation full results). Prior source-01/02 OPEN, source-03 acute estimate resolved, abstract correction open. GFT-13 closure recorded by Kira-2; verify its canonical synthesis before 14.4 closure.
+
+## 27.11.2026 — GFT-15.1
+- E15.1-02c CORRIGENDUM 23.09.2025 (10.1192/j.eurpsy.2025.10077): Table 1 values and discussion wording corrected. Publisher HTML and extracted PDF text inspected; screenshot cache miss. Avoid original Table 1; no explicit correction to quoted anxiety/PTSD ORs; underlying analysis not reproduced. Q-15-source-01 OPEN for visual/supplement verification. E02 main HTML sections, E01 OECD chapter, E05 selected publisher sections; E03 publisher indexed 403, E04 author abstract ERIC plus publisher excerpts/403, E06 repository author abstract, E07/08 PubMed author abstracts. Not full reading or comprehensive correction/retraction audit. [Details](15_psychological_wellbeing/GFT-15.1_wellbeing_measurement_and_adult_comparative_evidence.md).
+
+
+GFT-16.2: Makel published PDF methods screenshot p1 successful and discussion/Table 3d; Gross ERIC PDF screenshot p6 successful and subject selection/results excerpts; Lubinski 2023 publisher participants, Table 1/results/response/data availability; Schlegler publisher Tables 1–2/limitations; Feldman/Brown publisher abstracts restricted; Brown eprint robots/PubMed CAPTCHA; prior adult studies indexed, no new full technical manual or A1 data. Supplements and comprehensive correction/retraction audit not done. Q-16-source-04 OPEN.
+
+
+## GFT-17.1 — 27.11.2026
+[GFT-17.1](17_nonlinear_differences/GFT-17.1_model_forms_identification_and_tail_validation.md): Royston Oxford, Simonsohn APS, Sackett institutional, Weiss institutional, Brown APS author abstracts directly read; Varma/Simon selected publisher HTML methods/results. Ho BMJ403/cache miss, Hansen publisher403, Bauer/Tucker-Drob PMC CAPTCHA, Weiss MDPI429. Indexed original texts separately marked. Full articles/manuals and upper-tail coverage/overlap not audited; Q-17-source-01 OPEN.
+
+## 27.11.2026 — GFT-15.2
+E15.2-01/03 selected publisher sections; E02 institutional author abstract, PMC reCAPTCHA; E04/05 Cambridge author abstracts; E06/07 PubMed abstracts/captions; E08 author indexed abstract, PMC reCAPTCHA. Not full corpus reading or comprehensive correction/retraction checks. E03 mean age abstract 44.86 vs results 44.68, approximate age only, Q-15-source-03. [Details](15_psychological_wellbeing/GFT-15.2_stress_resilience_context_and_protective_factors.md).
+
+
+GFT-16.3: Sixdenier author-hosted text method/results, SB5 publisher PDF extracted pp17–18 (screenshots cache miss), Makel alternate Vanderbilt PDF method/table note (screenshots cache miss), Toffalini/Lang institutional abstracts, Pearson FAQ index. Targeted recheck only, no full source or corrections audit, no new A1. Q-16-source-01–04 retained, -03 expanded.
+
+
+## GFT-14.4 — 27.11.2026
+Rechecked Atmaca/Baloğlu institutional author abstract, van Viersen Springer discussion, JAMA Safren body, Grinschgl Sage sections, van der Putten Sage and UvA final PDF text; screenshots5/8 cache miss; Solanto/Livingston/Scheeren/Khudiakova indexed primary content; 2024 Wiley403, overlap in Autism & Aging likely and 2023b baseline confirmed. Q-14-source-04 OPEN, all other access limits retained. Q-14-tail OPEN (direct separately measured adult IQ150–160+ compensation, masking, efficacy, moderation, cost, recovery and sustainability); Q-14-measure OPEN (construct/criterion/invariance), Q-14-causal OPEN (specific strategy/IQ mechanism), Q-14-transfer TASK_AND_GOAL_DEPENDENT, Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED, Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN. Q-14-source-01/02/04/05 remain OPEN; source-03 RESOLVED_FOR_REPORTED_ACUTE_ESTIMATE, abstract correction OPEN_FOR_PUBLISHER_CORRECTION. All inherited Q-02/06/12/13 restrictions retained.
+
+
+## GFT-17.2 — 27.11.2026
+[GFT-17.2](17_nonlinear_differences/GFT-17.2_empirical_nonlinearity_thresholds_and_counterevidence.md): selected Jauk author mirror §3.1, Weiss mirror methods/results, Breit 2022 UvA abstract, Brown APS abstract, Ganzach TAU abstract, Antonakis author abstract, Czerwiński publisher sections/tables directly inspected. Other original results indexed; PMC CAPTCHA, Elsevier403, Brown robots denial, Chiang institutional cache miss, 2026 Breit indexed published abstract vs preprint; direct author page did not locate exact entry. No full source or overlap audit. Q-17-source-01 partial, source-02 OPEN.
+
+## 27.11.2026 — GFT-15.3
+WHO direct HTML fact sheet and occupational FAQ (fact sheet index vs fetched page date discrepancy, no prevalence used); CDDR landing indexed, manual not read; NICE direct 403, official indexed text; Duplenne publisher abstract/references restricted; Bernstein ERIC supplied abstract, PMC/PubMed reCAPTCHA; Vötter/Schnell selected publisher sections, Vötter 2020 index only, publisher 429; Williams original/corrigendum HTML checked, corrected image not visually inspected; De Gucht abstract/introduction direct. Full corpus/independence/retraction checks not established. Q-15-source-04 OPEN. [Details](15_psychological_wellbeing/GFT-15.3_clinical_boundaries_integration_and_sufficiency_audit.md).
+
+
+GFT-16.3 final: Bernstein primary PDF selected methods/results/limitations, screenshots p2/p4 successful; APA supplement landing accessible PDF cache miss; subgroup effects not verified; Q-16-source-05 OPEN. Other GFT-15 sources inherited, no comprehensive new source audit.
+
+## GFT-17.3 — 27.11.2026
+[GFT-17.3](17_nonlinear_differences/GFT-17.3_integration_transfer_and_sufficiency_audit.md): Brown PDF mirror p0 screenshot, selected methods/results/table/limitations; Jauk/Breit indexed original, Weiss429; Czerwiński 2025 accepted manuscript selected methods/discussion plus indexed final publisher text, DOI redirect error. GFT-16.3 read in full after closure; Bernstein result inherited from its source audit, not independently reopened. Full methods/supplements/overlap not fully audited; source-01 partial, source-02 open.
+
+## 27.11.2026 — GFT-18.1
+E18.1-01/02/05 selected Springer HTML sections, E03 institutional author abstract and publisher index, direct 403/PubMed reCAPTCHA; E04 Nature redirected HTML selected methods/results/discussion. No complete reading, supplement/code replication or comprehensive correction/retraction/overlap audit. No PDF analyzed. Q-18-source-01 OPEN. [Details](18_integrative_psychology/GFT-18.1_functional_architecture_dynamic_models_and_identification.md).
+
+## 27.11.2026 — GFT-18.2
+E01 Nature direct selected abstract/introduction + indexed results; E02/03/05/06 indexed author abstracts/sections, PubMed access restricted where attempted; E04 UWA author abstract and indexed results, DOI403; E07 publisher indexed methods/results, direct403; E08 indexed PMC/publisher preprocessing/Table4/text, MDPI429. E06 signed coefficient/CI discrepancy; E08 Table4 p=.04 vs prose .004, exact disputed effects not reused. Task-specific control denominator N157 before two exclusions, N155 analyzed, N124 Mensa analyzed; Q-10-source-01 partial clarification only. No complete reading, raw reanalysis or comprehensive correction/retraction/overlap audit, no PDF analyzed. [Details](18_integrative_psychology/GFT-18.2_empirical_cross_process_interactions_and_boundaries.md).
+
+## 27.11.2026 — GFT-18.3
+Loossens/Frömer selected direct Nature HTML sections; Grimm indexed publisher/PubMed/FAU/UCLouvain abstracts, publisher403/repository cache miss; Fiori et al. 10.3390/jintelligence11020020 versioned publisher PDF text retrieved, page indices4/11 screenshots cache miss, indexed conflict confirmed in extracted text, no formal correction verified; Q-18-source-03 remains open. Frumau follow-up DOI 10.1007/s43076-023-00313-8 selected publisher HTML methods/results/limitations; additional Mensa studies indexed only. No full corpus/independence/retraction/raw model audit. Q-18-source-04 OPEN. [Details](18_integrative_psychology/GFT-18.3_integration_and_sufficiency_audit.md).
+
+## 27.11.2026 — GFT-19.4
+Bell/Fairbrother/Jones selected original Springer equations/sections; Hammelrath author indexed methods/results, DOI403/repository cache miss, N and known-user comparison clarified; JMIR e99204 indexed abstract/results, publisher cache miss; Eronen original publisher-version institutional PDF extracted metadata/selected passages, screenshot index1 cache miss. No full corpus/supplement/raw/correction/retraction audit. Q-19-source-01/02 partial, 03 retained, 04 new OPEN. [Details](19_analytical_methodology/GFT-19.4_dependent_integration_and_sufficiency_audit.md).

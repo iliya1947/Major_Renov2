@@ -1,0 +1,60 @@
+# WOM-05.3 — Integrated maternal identity, support, competing demands and adult development
+
+Date: 2026-11-26. Status: COMPLETE_FOR_SPECIFIED_SCOPE (internal reasoning review, not independent assessment). WOM-05 integrated closure is methodological and evidence-bounded, not a clinical credential.
+
+## 1. Question and dependency gate
+How can changes in adult role, identity, motivation, opportunity, support and relationship quality be distinguished in individual inference? Reopened WOM-05.1 and WOM-05.2 in full and SPQ-00. Retain IND-03 and INT-02 transfer constraints. Integrate the two preceding blocks and address the material support/coping gap. Target adult motherhood and adult development; do not treat gestation, parenthood status, age or role centrality as interchangeable. Closure requires relevant selected evidence, counterevidence, actionable distinctions and internal synthetic transfer checks. No exhaustive review or causal identification promised.
+
+## 2. Evidence update and provenance
+Targeted public searches 2026-11-26: postpartum social support and coping, first-time parents' support needs, prevention trials, transition to parenthood and relationship satisfaction, counterevidence in nonparents, and parenting stress beyond infancy. Access in this verification pass was principally indexed publisher/author abstracts and result extracts; full articles not read end-to-end. Some direct PubMed and DOI opens were blocked. Exact unverified estimates are omitted. Earlier WOM-05 evidence is reused, not counted as independent evidence.
+
+E1. Khademi & Kaveh (2024), Social support as a coping resource for psychosocial conditions in postpartum period: a systematic review and logic framework. https://doi.org/10.1186/s40359-024-01814-6 . Indexed publisher and author extracts: review addresses associations between support and psychosocial conditions, including depression, anxiety and quality of life. Heterogeneous observational studies and a proposed coping framework do not identify mediation, direction of effect or an individual causal pathway. Distinguish support as a resource from coping as a response. Exact pooled effects not established here.
+
+E2. Schobinger et al. (2022), Social support needs of first-time parents in the early-postpartum period: A qualitative study. https://doi.org/10.3389/fpsyt.2022.1043990 . Indexed publisher extracts establish qualitative inquiry into formal support needs and difficulty communicating them. Context-bound self-reported accounts, not prevalence or causal estimates. Directly checked publisher erratum https://doi.org/10.3389/fpsyt.2023.1171192 : correction adds a funding acknowledgement, not an amended finding. Do not generalize hospital support preferences to all relationships or later parenting.
+
+E3. Dennis & Dowswell, Psychosocial and psychological interventions for preventing postpartum depression. https://www.cochrane.org/evidence/CD001134_psychosocial-and-psychological-interventions-preventing-postpartum-depression ; https://pubmed.ncbi.nlm.nih.gov/23450532/ . Historical Cochrane review, indexed abstract extracts: pooled RR 0.78 (95% CI 0.66–0.93), 20 trials, 14,727 women; peer telephone support RR 0.54 (0.38–0.77), one trial, 612 women. Heterogeneous interventions and endpoint definitions; do not infer support alone mediated the effect, or transfer depression prevention to romantic motivation. Historical evidence, not current clinical guidance.
+
+E4. Bogdan, Turliuc & Candel (2022), Transition to Parenthood and Marital Satisfaction: A Meta-Analysis. https://doi.org/10.3389/fpsyg.2022.901362 . Indexed publisher methods/results: 49 studies, 97 parent samples and 9 nonparent samples; average first-year changes for mothers g=-0.31, fathers g=-0.29, with smaller declines in nonparents. Unequal comparator coverage; pooled temporal change is not a causal contrast. No person-specific forecast or inference about which partner is responsible. Exact uncertainty and heterogeneity tables not reverified in this pass.
+
+E5. Mitnick et al. (2009), Changes in relationship satisfaction across the transition to parenthood. https://pubmed.ncbi.nlm.nih.gov/20001143/ . Indexed author abstract: 37 first-parent studies and four childless newlywed comparisons; nonparents also showed similar declines over comparable periods. This weakens a uniquely parenthood-driven account. Potential overlap with E4, differing methods and comparator coverage; not a clean independent contradiction.
+
+E6. Parent, child, and situational factors associated with parenting stress: a systematic review. https://pubmed.ncbi.nlm.nih.gov/35876894/ ; https://pmc.ncbi.nlm.nih.gov/articles/PMC11211171/ . Indexed author abstract: multiple parent, child and situational factors examined; no evidence for maternal age or child sex associations with maternal parenting stress. Authors request longitudinal work on protective/risk pathways. Null evidence is not equivalence; exact estimates and study-specific adjustment not verified. Age is not a sufficient proxy for parenting burden.
+
+E7. Are we there for each other? Longitudinal associations between parenting stress and coparenting in parents of preschool and school-aged children. https://doi.org/10.1111/pere.12530 . Indexed publisher description confirms a dyadic longitudinal design in later parenting; direct DOI access denied. Use as design/scope evidence only; results not independently verified and no direction or effect size asserted.
+
+E8. Longitudinal trajectories of maternal parenting stress in Korean families: Children's executive function and school adjustment. https://doi.org/10.1111/sode.12661 . Indexed publisher abstract: 1,754 mothers observed in five waves at child ages 3–7; increasing maternal parenting stress associated with poorer school adjustment at age 7. Not an identified causal pathway; possible reciprocal influences and confounding; cultural/sample limits. Later parenting can be studied directly rather than extrapolated from early postpartum effects.
+
+Inherited WOM-05.1/05.2 evidence supports separating mean-level stability, individual change, anticipation/selection, age/cohort/period, identity and multidimensional well-being. No new independent verification of those articles claimed.
+
+## 3. Integrated differential inference framework
+Separate prior values and traits; identity integration and centrality; goal importance and conflict; actual effort and feasible opportunities; desired, received, expected and perceived support; coping responses; well-being dimensions; and relationship-specific responsiveness, preference and commitment. Support seeking, gratitude and romantic motivation are not equivalent. Parenting demands and available resources can change without altered goal valuation. A valued role can also be demanding. Age, elapsed time in role and historical context are distinct.
+
+Candidate feedback model, not an identified causal graph: prior values/resources affect role selection; anticipation precedes transitions; demands and resources constrain feasible activities; appraisal, coping, support and relational quality may influence one another; partner and shared circumstances add independent and interacting factors; measurement and historical changes may affect observed trajectories.
+
+| Competing explanation | Potential distinguishing evidence | Limit |
+|---|---|---|
+| Stable preference, reduced opportunity | Continued reported interest and naturally resumed participation when access returns | Concurrent changes possible |
+| Durable reprioritization | Repeated changed valuation across comparable feasible alternatives | Cause remains open |
+| Generalized strain | Several activities decline together and vary with demands or recovery | Not diagnostic |
+| Relationship-specific change | Partner-specific behavior and freely stated preferences in comparable contexts | Safety, opportunity and history matter |
+| Support mismatch | Desired type differs from received help, or aid adds demands | More help is not automatically useful |
+| Selection, anticipation, history | Change precedes role entry or occurs in a contemporary comparison group | Observational contrasts remain confounded |
+
+Operational procedure: define outcome and time window; recover actual baseline rather than presume it; separate actor, partner and shared circumstances; consider compatible mechanisms and disconfirming evidence; distinguish perceived support from observable load reduction; update only the claim justified by new observations. No covert testing, instrumental pressure, stereotyped duties or inference of consent. Clinical concerns follow separate safety/clinical scope.
+
+## 4. Internal synthetic transfer checks
+Rubric: construct separation, competing explanation, discriminating evidence, inference boundary. Critical failures: essentialism, causal inflation, unsupported diagnosis, disregarding counterevidence, coercion or privacy leakage. Self-authored exercises; not independent or held-out.
+
+A. A parent pauses orchestra practice during shift work and resumes when the schedule clears. Response: effort differs from interest; resource constraint favored, but simultaneous changes remain possible; compare comparable opportunities and voluntary goal reports. No parent-role determinism.
+B. A parent receives frequent advice but wants transport assistance. Response: distinguish resource type, desired help and autonomy; mismatch can coexist with gratitude; assess preferred support and actual burden without conditions on affection. No obligation inferred.
+C. Satisfaction falls after relocation and a new caregiving responsibility. Response: separate shared and actor-specific changes and prior trend; compare pretransition and naturally occurring later observations; no causal assignment or partner blame.
+D. A woman values professional training more in later adulthood. Response: distinguish goal valuation from opportunities, prior selection and historical context; compare actual earlier self-report and feasible choices; no universal maturity scale.
+E. A study finds average declines in both parents and nonparents. Response: parent status is not an identified unique cause; account for baseline, relationship duration, selection and comparator precision; no individual forecast.
+F. A later-childhood observational study relates stress to a subsequent outcome. Response: temporality alone does not establish causation; examine prior outcome, reciprocal influences, confounding and measurement; no extrapolation from postpartum trials.
+
+Internal review: 24/24 rubric criteria addressed in six authored responses; no critical error identified within this exercise. This checks explicit reasoning rules only, not independent competence or forecast calibration.
+
+## 5. Closure and handoff
+WOM-05.1–05.3 complete for specified scope. Direction 11 (motherhood psychology): identity, role transitions, motivation, mixed adjustment, competing demands and support, with later-stage applicability limits. Direction 12 (age-related dynamics): longitudinal continuity/change, individual variability, selection, historical context and age/role distinctions. Both covered at the bounded methodological and selected-evidence level; no universal mechanism established. Overall completed substantive units 8/19; direction IDs covered 14/36. Remaining gaps: non-gestational and diverse family pathways, precise causal mechanisms, subgroup effect estimates, long-term and cross-cultural applicability, independent assessment; reopen when material. Clinical thresholds and reproductive psychophysiology are not closed by this unit.
+
+Next bounded action: WOM-06.1 — reproductive life-stage and biopsychosocial factors: distinguish measured hormones, symptoms, context and developmental stage, evaluate prospective repeated-measure designs and counterevidence, avoid deterministic transfer to individuals. Whole WOM-06 remains queued. Shared cabinet controls and PR metadata unchanged. Pre-write scope check: public scientific evidence, generic analytic methods, entirely invented neutral examples and nonpersonal progress only.

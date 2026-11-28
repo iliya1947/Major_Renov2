@@ -1,0 +1,32 @@
+# GFT-07 — Творчество и сложные задачи
+
+Статус: COMPLETE_FOR_SPECIFIED_SCOPE (общепсихологический научно-методический уровень). GFT-07.1–07.4 завершены. Q-07-tail OPEN.
+
+## Программа
+Дивергентное и конвергентное мышление, построение моделей, научное мышление, продуктивность.
+
+## Исследовательская задача
+Различать интеллектуальную способность, креативность, компетентность, условия деятельности и реальные достижения; проверять гипотезу порога.
+
+## Зависимости
+Локальные GFT: 04, 05, 06. Переиспользуемые области кабинета: COG, MOT, DEC; фактическую готовность проверить до исследования.
+
+## Порядок внутри области
+1. Уточнить определения, популяцию, измерения и типы утверждений.
+2. Выделить ограниченные исследовательские вопросы, искать прямые и противоречащие результаты.
+3. Отдельно проверять применимость к взрослым и верхнему хвосту; зафиксировать отсутствие данных без экстраполяции.
+4. Синтезировать практические правила, границы и контрпримеры; проверить на новых синтетических задачах.
+5. Сохранить блоки в этом каталоге и обновить локальные реестры; закрытие по [ASSESSMENT_PROTOCOL](../ASSESSMENT_PROTOCOL.md).
+
+Навигация: [план](../CURRICULUM.md) · [карта](../RESEARCH_MAP.md) · [очередь](../RESEARCH_QUEUE.md) · [шаблон](../RESEARCH_TEMPLATE.md).
+
+## Handoff из GFT-06
+GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (Q-06-tail OPEN). GFT-07.1 — дивергентное и конвергентное мышление, измерение креативности и гипотеза порога. Перед исследованием проверить COG/MOT/DEC. Не смешивать генерацию идей, оценку, знания, achievement, условия и измерение интеллекта; проверить threshold/continuous models. 
+
+## Научные единицы
+- [GFT-07.1 — DT/CT, measurement and threshold](GFT-07.1_divergent_convergent_thinking_creativity_measurement_threshold.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- [GFT-07.2 — Complex problem solving, modeling and scientific reasoning](GFT-07.2_creative_complex_problem_solving_model_construction_and_scientific_reasoning.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- [GFT-07.3 — Creative productivity, achievement and opportunity](GFT-07.3_creative_productivity_scientific_achievement_and_opportunity.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+- [GFT-07.4 — Integration and sufficiency audit](GFT-07.4_creativity_scientific_reasoning_productivity_integration_and_sufficiency_audit.md): COMPLETE_FOR_SPECIFIED_SCOPE.
+
+Этап II завершён в установленном объёме. GO for GFT-08; Q-02–07-tail OPEN. GFT-08.1 — возрастная динамика интеллектуальных способностей, развитие и когортные различия.

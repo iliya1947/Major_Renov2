@@ -1,0 +1,108 @@
+# Psychology of High and Exceptional Intellectual Ability
+
+**Кира — отдельная специализированная переквалификация.** Инициализировано 26.11.2026. Архитектура уточнена после аудита; T0 зафиксирована, научная работа начата.
+
+Цель: углубить психологическую компетентность в работе с высокими и исключительными интеллектуальными способностями взрослых, включая диапазон IQ 150–160+, дважды исключительные профили и интегративный анализ. Диапазоны служат предметом исследования, а не универсальными диагностическими категориями. Не подразумевается наличие особого общего профиля у всех одарённых людей.
+
+20 областей, 6 этапов, 69 ограниченных единиц завершены (GFT-01.1–01.3, GFT-02.1–02.3, GFT-03.1–03.4, GFT-04.1–04.4, GFT-05.1–05.4, GFT-06.1–06.4, GFT-07.1–07.4, GFT-08.1–08.5, GFT-09.1–09.5, GFT-10.1–10.4, GFT-11.1–11.5, GFT-12.1–12.4, GFT-13.1–13.4, GFT-14.1–14.4, GFT-15.1–15.3, GFT-16.1–16.3, GFT-17.1–17.3, GFT-19.1–19.3), 17/20 областей завершены в установленном объёме. Точная полнота программы подлежит научной проверке по мере изучения. Самостоятельное направление, не продолжение другой специализации. Общие правила кабинета: [AGENT](../../AGENT.md), [PRIVACY](../../PRIVACY.md), [EVIDENCE_POLICY](../../EVIDENCE_POLICY.md), [WORKFLOW](../../WORKFLOW.md). Локальные файлы не заменяют эти правила. Никаких индивидуальных данных, клинической сертификации или утверждений о переобучении ИИ.
+
+**Режим работы: PARALLEL.** Назначения сессий и правила координации — [PARALLEL_WORK](PARALLEL_WORK.md). Сессии продолжают только закреплённые области; научные зависимости сохраняются.
+
+## Навигация
+- [PARALLEL_WORK](PARALLEL_WORK.md)
+- [CURRICULUM](CURRICULUM.md)
+- [RESEARCH_MAP](RESEARCH_MAP.md)
+- [RESEARCH_ORDER](RESEARCH_ORDER.md)
+- [RESEARCH_QUEUE](RESEARCH_QUEUE.md)
+- [DOMAIN_STATUS](DOMAIN_STATUS.md)
+- [CONTEXT_RECOVERY](CONTEXT_RECOVERY.md)
+- [EVIDENCE_LEDGER](EVIDENCE_LEDGER.md)
+- [ERROR_LEDGER](ERROR_LEDGER.md)
+- [SOURCE_STATUS_LOG](SOURCE_STATUS_LOG.md)
+- [OPEN_QUESTIONS](OPEN_QUESTIONS.md)
+- [DECISIONS](DECISIONS.md)
+- [ASSESSMENT_PROTOCOL](ASSESSMENT_PROTOCOL.md)
+- [RESEARCH_TEMPLATE](RESEARCH_TEMPLATE.md)
+- [WORKFLOW](WORKFLOW.md)
+
+## Области
+- [GFT-01 — Теория интеллекта](01_intelligence_theory/README.md)
+- [GFT-02 — Психометрия исключительной одарённости](02_psychometrics/README.md)
+- [GFT-03 — Нейробиология интеллекта](03_neurobiology/README.md)
+- [GFT-04 — Высокоуровневое мышление](04_higher_order_thinking/README.md)
+- [GFT-05 — Когнитивные процессы](05_cognitive_processes/README.md)
+- [GFT-06 — Метакогниция и метаконтроль](06_metacognition/README.md)
+- [GFT-07 — Творчество и сложные задачи](07_creativity/README.md)
+- [GFT-08 — Развитие одарённой личности](08_personality_development/README.md)
+- [GFT-09 — Мотивация](09_motivation/README.md)
+- [GFT-10 — Эмоциональная психология](10_emotional_psychology/README.md)
+- [GFT-11 — Социальная психология](11_social_psychology/README.md)
+- [GFT-12 — Одарённость и СДВГ](12_giftedness_and_adhd/README.md)
+- [GFT-13 — Другие дважды исключительные профили](13_other_2e_profiles/README.md)
+- [GFT-14 — Компенсация и адаптация](14_compensation_and_adaptation/README.md)
+- [GFT-15 — Психологическое благополучие](15_psychological_wellbeing/README.md)
+- [GFT-16 — Экстремальный диапазон интеллекта](16_exceptional_intelligence/README.md)
+- [GFT-17 — Нелинейность интеллектуальных различий](17_nonlinear_differences/README.md)
+- [GFT-18 — Интегративная психология одарённости](18_integrative_psychology/README.md)
+- [GFT-19 — Методология психологического анализа](19_analytical_methodology/README.md)
+- [GFT-20 — Интеграционная аттестация](20_final_assessment/README.md)
+
+Аудит HEAD c656858f: расширены 04/05/08/18/19/20, 20 областей/6 этапов сохранены. [T0](20_final_assessment/T0_BASELINE.md) — исходная практическая самопроверка; T1 после программы. Независимая оценка отсутствует.
+
+Текущий маршрут: GFT-01–10 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-05.1–05.4 завершены в ограниченном объёме, GFT-05 COMPLETE_FOR_SPECIFIED_SCOPE, GFT-06 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-06.1–06.4 завершены), GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-07.1–07.4 завершены); этап II завершён в установленном объёме; GFT-08 COMPLETE_FOR_SPECIFIED_SCOPE (GFT-08.1–08.5 завершены), 10/20 областей завершены. Q-02-tail, Q-03-tail, Q-04-tail, Q-05-tail, Q-06-tail, Q-07-tail, Q-08-tail, Q-09-tail, Q-10-tail и Q-11-tail OPEN. T0 сохранена, T1 ожидается. Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+GFT-09 IN_PROGRESS; GFT-09.1 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN: measured adult IQ150–160+ curiosity, NFC, interest and intellectual engagement not established. Q-09-source-01 OPEN_FOR_CLARIFICATION: Meier 2014 abstract N921 vs final sample N920. Initial pre-search card provenance incomplete.
+
+GFT-09 IN_PROGRESS; GFT-09.1–09.2 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN also for measured adult IQ150–160+ challenge preference, novelty, boredom and task demands. Q-09-source-01 remains open. Pre-search card committed before public search in GFT-09.2.
+
+GFT-09 IN_PROGRESS; GFT-09.1–09.3 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN also for measured adult IQ150–160+ autonomy/goal motives, implementation and adjustment. Q-09-source-01/02 OPEN_FOR_CLARIFICATION; Hornstra 2023 abstract vs educational relevance statement disagree on direction of change in external regulation and amotivation. Pre-search card committed before search.
+
+GFT-09 IN_PROGRESS; GFT-09.1–09.4 COMPLETE_FOR_SPECIFIED_SCOPE. Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open.
+
+GFT-09 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-09.1–09.5 COMPLETE_FOR_SPECIFIED_SCOPE; 9/20 areas, 36 bounded units. Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED.
+Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+GFT-10 IN_PROGRESS; GFT-10.1 COMPLETE_FOR_SPECIFIED_SCOPE. Q-10-tail OPEN: measured adult IQ150–160+ emotional sensitivity, intensity and sensory reactivity not established. Q-10-OE UNIVERSAL_OR_DIAGNOSTIC_PHENOTYPE_NOT_ESTABLISHED; updated Olszewski-Kubilius et al. 2026 meta-analysis constrains 2016 synthesis, ascertainment and publication bias matter.
+Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+GFT-10 IN_PROGRESS; GFT-10.1–10.2 COMPLETE_FOR_SPECIFIED_SCOPE. Q-10-tail OPEN also for measured adult IQ150–160+ emotion differentiation, emotion knowledge and EI. Q-10-EI UNIVERSAL_ADVANTAGE_NOT_ESTABLISHED; Q-10-measure OPEN (instrument/version/scoring and precision); Q-10-OE retained. Ferrándiz 2026 dimension-specific synthesis constrains older aggregate estimates.
+Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+GFT-10 IN_PROGRESS; GFT-10.1–10.3 COMPLETE_FOR_SPECIFIED_SCOPE. Q-10-tail OPEN also for measured adult IQ150–160+ strategy choice, efficacy and regulatory flexibility. Q-10-flex UNIVERSAL_STRATEGY_SITUATION_RULE_NOT_ESTABLISHED; Q-10-OE/EI/measure retained.
+Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+GFT-10 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-10.1–10.4 COMPLETE_FOR_SPECIFIED_SCOPE; 10/20 domains, 40 bounded units. Phase III not closed. Q-10-tail OPEN for separately measured adult IQ150–160+ emotional processes; Q-10-OE/EI/flex limitations retained; Q-10-measure/neural/source-01 OPEN (instrument-specific precision, neural prediction across measures, Mensa comparator denominator clarification).
+Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+GFT-11 IN_PROGRESS; GFT-11.1 COMPLETE_FOR_SPECIFIED_SCOPE. Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive empathic accuracy; Q-11-measure OPEN (ceiling, reliability, validity, calibration); Q-11-source-01 OPEN (gifted youth task-specific effects and ascertainment).
+Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+GFT-11 IN_PROGRESS; GFT-11.1–11.2 COMPLETE_FOR_SPECIFIED_SCOPE. Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained.
+Следующая единица: GFT-11.3 — коммуникация, взаимопонимание и когнитивные различия.
+
+
+## GFT-13.1 — 27.11.2026 (локальный маршрут)
+GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail/adult-direct/measure OPEN; Q-13-source-01 partial (Doobay methods/results, adult qualitative indexed methods, Clarke institutional abstract; full access limits remain); Q-13-source-02 OPEN (Gelbar abstract ambiguity); Q-13-source-03 OPEN (camouflaging age moderation wording, no direction adopted); Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC. Next local GFT-13.2 — specific learning disorders and high ability. T0 unchanged/T1 pending. На момент записи по строкам DOMAIN_STATUS: 12/20 областей, 50 завершённых ограниченных единиц. Другие назначения не изменены; в PARALLEL действует локальный next action.
+
+
+## GFT-13.2 — 27.11.2026 (локальный маршрут)
+GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail OPEN also for SLD; Q-13-SLD-discrepancy NOT_SUFFICIENT_FOR_DIAGNOSIS; Q-13-SLD-compensation HETEROGENEOUS_NOT_CAUSALLY_ESTABLISHED; Q-13-SLD-adult OPEN (measured high general IQ and writing/math comparisons); Q-13-source-04 OPEN (Lijbers 2025 model-change reporting); earlier Q-13 questions retained. Next local GFT-13.3 — heterogeneous profiles and differential assessment. T0 unchanged/T1 pending. Фактический счётчик по завершённым блокам: 12/20 областей, 53 единиц; незавершённые карточки нет не учитываются. PARALLEL: локальная точка только Кира-2.
+
+
+## GFT-13.3 — 27.11.2026 (локальный маршрут)
+GFT-13.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded differential-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-13-profile-calibration OPEN (edition/ability-conditioned norms and independently validated incremental accuracy); Q-13-DLD-DCD-adult OPEN (direct measured high-general-IQ adult comparisons); Q-13-tail OPEN; Q-13-source-05 OPEN (gifted DCD full methods/results and adult instrument recommendations); earlier GFT-13 questions retained. Next GFT-13.4 integration and sufficiency audit. T0 unchanged/T1 pending. Фактический счётчик 12/20 областей, 57 завершённых единиц; незавершённые карточки исключены (GFT-16.1). PARALLEL: локальная точка Кира-2.
+
+
+## GFT-13.4 — 27.11.2026 (локальный handoff)
+GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological/clinical-literacy scope). Assignment Кира-2 COMPLETE; handoff to GFT-14/18/19/20, no new assignment. Q-13-tail, adult-direct, measure, SLD-adult, profile-calibration, DLD-DCD-adult OPEN; Q-13-source-01 partial, 02–05 OPEN. Profile/group associations not diagnostic, discrepancy not sufficient, causal compensation heterogeneous/unestablished. T0 unchanged/T1 pending. Фактический счётчик: 13/20 областей, 58 завершённых единиц; исключены незавершённые карточки (GFT-16.1). PARALLEL: завершение назначения Кира-2, без автоматического перехода.
+
+
+## GFT-17.1 — 27.11.2026 (локальный маршрут)
+GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (independent methodological scope); GFT-17 IN_PROGRESS. Q-17-tail OPEN (separately measured adult upper-tail form/precision); Q-17-invariance OPEN (local measurement equivalence); Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-source-01 OPEN (full methods/upper-tail support of empirical examples). Q-02/16-tail, measure and selection limitations retained. Next GFT-17.2 — comparative empirical tests and counterevidence, independent portions only; final integration gated by actual GFT-16 completion. T0 unchanged/T1 pending. Фактический счётчик 13/20 областей, 63 завершённых единиц; незавершённые карточки исключены (нет). PARALLEL: Кира-2, GFT-13 завершена ранее.
+
+
+## GFT-17.2 — 27.11.2026 (локальный маршрут)
+GFT-17.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded independent comparative evidence and methodological interpretation); GFT-17 IN_PROGRESS. Q-17-tail/invariance OPEN; Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-SLODR supported in many tested samples, mechanism and adult extreme-tail extrapolation OPEN; Q-17-source-01 partially resolved (Jauk/Weiss selected methods/results); Q-17-source-02 OPEN (newer differentiation studies' full methods/overlap, adult-tail support, cohort-specific outcome curvature); earlier Q-02/07/16 limitations retained. GFT-17.3 next: integration/sufficiency audit; final closure requires actual GFT-16 completion. T0 unchanged/T1 pending. Фактический счётчик 14/20 областей, 66 завершённых единиц; исключены незавершённые карточки (GFT-16.3). PARALLEL: Кира-2.
+
+## GFT-17.3 — 27.11.2026 (локальный handoff)
+GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOPE (bounded comparative science and methodology). Кира-2 assignment COMPLETE. Q-17-tail/invariance/source-01–02 remain OPEN/partial; CES-D7/MHI-5 noninvariance evidence added, not all scales; universal threshold not established; SLODR conditional evidence, mechanism/tail open. Q-02/07/15/16 and other prior restrictions retained. Handoff GFT-18/19/20; no new assignment, T0 unchanged/T1 pending. Фактический счётчик: 17/20 областей, 69 завершённых единиц; исключены незавершённые карточки (нет). PARALLEL: завершение назначения Кира-2.

@@ -1,0 +1,464 @@
+# Реестр доказательств
+
+Ограниченные наборы источников GFT-01.1–01.3. Полная проверка источников и специфичность взрослого верхнего хвоста не установлены.
+
+| Evidence ID | GFT | Claim ID и тип | DOI/URL и версия | Дата проверки / доступ | Дизайн, N, возраст, отбор, IQ-диапазон | Измерения/нормы | Результат/неопределённость | Ограничения/альтернативы | Зависимые выборки | Допустимое применение | Статус |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+
+Заполнять после фактической проверки. Отдельно отмечать прямые данные 150–160+, расширенные диапазоны, детские данные и общепопуляционные экстраполяции. Не указывать полнотекстовое чтение без фактического чтения до конца. Нулевые результаты не равны доказательству эквивалентности.
+
+## GFT-01.1 — 26.11.2026
+Подробные source cards и claim/design/applicability: [GFT-01.1](01_intelligence_theory/GFT-01.1_constructs_g_chc_competing_models.md). Ниже индекс, не независимые доказательства поверх карточек.
+
+| ID | DOI/PMID | Дизайн/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-01.1-E01 | 10.1093/arclin/acad035 | CFA; N=321 и 9×200, взрослые; не экстремальный хвост | CHC пять факторов, метрическая инвариантность в исследованных выборках | Выборочные разделы; состав индикаторов и модельные допущения |
+| GFT-01.1-E02 | PMID 26741057 | Нормативные корреляционные матрицы WAIS-IV | Бифакторная модель, оценки omega зависят от модели | Аннотация; N и детали не проверены |
+| GFT-01.1-E03 | 10.1016/j.intell.2025.101973 | N=1120, японские взрослые 16–90 | Байесовский fit предпочёл иерархическую CHC; контрпример E02 | RePEc аннотация, прямой доступ 403/429; не доказательство культуры |
+| GFT-01.1-E04 | 10.1037/0033-295X.113.4.842 | Теоретическая динамическая модель | Mutualism может порождать ковариацию без единственной причины | Институциональная аннотация; механизм не установлен |
+| GFT-01.1-E05 | 10.1080/1047840X.2016.1153946 | Теоретическая POT | Перекрывающиеся общие и специфические процессы | Индексированные выдержки; издатель 403 |
+| GFT-01.1-E06 | 10.3390/jintelligence9030043 | Повторный анализ существующих данных | Специфические executive–Gf связи малы/непоследовательны | Авторская аннотация; не новая выборка; N/точность не проверены |
+| GFT-01.1-E07 | 10.1177/0956797616644735 | 259 подростков, исходы к 40 годам | Профили способностей и различия траекторий | Аннотация; не актуальный измеренный взрослый IQ ≥160 |
+| GFT-01.1-E08 | 10.3389/fpsyg.2022.736487 | Систематический обзор взрослых; поиск 2019 | Разные определения giftedness, риски селекции | Выборочные разделы; не прямой хвост |
+| GFT-01.1-E09 | 10.1007/s43076-023-00313-8 | 7 интервью, подростковая селекция | Потолок IST; высокие результаты не доказывают ≥150 | Введение/методы; частоты и результаты интервью не синтезированы |
+
+## GFT-01.2 — 26.11.2026
+Карточки: [GFT-01.2](01_intelligence_theory/GFT-01.2_fluid_crystallized_investment_predictive_validity.md).
+
+| ID | DOI/PMID | Дизайн/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-01.2-E01 | 10.1016/S0160-2896(96)90016-1 | PPIK theory | Интеграция процессов, личности, интересов и знания | Индекс аннотации; 403, не механизм |
+| GFT-01.2-E02 | 10.1037/a0030746 | 112 исследований, N=60097 | Ассоциации инвестиционных черт и маркеров интеллекта; средняя .30 | Авторская аннотация York; не причинность |
+| GFT-01.2-E03 | 10.1177/0956797618774253 | 42 набора, >600000, квазиэксперименты | Образование связано с улучшением когнитивных показателей при допущениях дизайна | APS аннотация; не прогноз для конкретного человека |
+| GFT-01.2-E04 | 10.3390/jintelligence12110104 | Подростки, latent change scores | Gf/NFC не дали значимого прогноза изменения Gc; контрдоказательство | Индекс результатов; не взрослый хвост; параметры не проверены |
+| GFT-01.2-E05 | 10.1126/sciadv.abj2422 | VCAP/BETULA, взрослое развитие | Сопряжённость индивидуальных изменений Gf/Gc | Индекс; DOI 403, PMC/PubMed reCAPTCHA |
+| GFT-01.2-E06 | 10.1007/s10869-022-09796-1 | Метаанализ рабочих критериев | Некоторые узкие способности добавляют прогноз сверх GMA | Авторская аннотация UWA; не все индексы и не верхний хвост |
+| GFT-01.2-E07 | 10.1111/j.1467-9280.2007.02007.x | 2409 подростков top 1%, >25 лет | Профиль связан с областями достижений | APS аннотация, репозиторий индекс; не взрослый IQ |
+| GFT-01.2-E08 | 10.1177/0956797613478615 | 563 подростка top 0.5%, >30 лет | Пространственный показатель добавляет прогноз патентов/публикаций | APS аннотация; возможное перекрытие SMPY |
+| GFT-01.2-E09 | PMID 38059952 | Современные исследования работы, метаанализ | Историческая оценка валидности .51 не универсальна | Индекс аннотации; прямой доступ reCAPTCHA; новую оценку не извлекали |
+
+## GFT-01.3 — 26.11.2026
+[Аудит и карточки](01_intelligence_theory/GFT-01.3_integration_transfer_and_sufficiency_audit.md). Выборочная перепроверка прежних источников не является независимой репликацией.
+
+| ID | DOI | Дизайн/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-01.3-E01 | 10.1177/1073191117733547 | N=130, ≥2 SD, WAIS-IV, matched comparison | В среднем неоднородные профили, наивысший perceptual reasoning вопреки ожиданию | Авторская аннотация PubMed; не отдельный 150–160+ |
+| GFT-01.3-E02 | 10.1016/j.paid.2025.113274 | 111 FSIQ ≥125 из 2173, 16–90, итальянские нормы, поперечный анализ | Большая часть профиля совместима с размерной моделью; отклонение Gv; инвариантность по терцилям не интерпретируема | Извлечённые разделы PDF, визуальная проверка не удалась; не прямой экстремальный диапазон |
+
+## GFT-02.1 — 26.11.2026
+[Карточки и синтез](02_psychometrics/GFT-02.1_IQ_metric_norms_ceiling_and_measurement_precision.md).
+
+| ID | Источник | Тип/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-02.1-E01 | Standards 2014, ch.2 | Стандарты 2.3–2.16 | Точность, подгруппы, CSEM, классификация | Фрагменты PDF, визуально стр.43,45,46; не тестовая валидация |
+| GFT-02.1-E02 | Pearson WAIS-5 US FAQ | Документация издателя | Новые нормы, 7 субтестов FSIQ, специальные стартовые точки | Индекс; cache miss; предел/локальная точность не проверены |
+| GFT-02.1-E03 | WAIS-5 By the Numbers 2025 | N=2020, special group studies | Объём норм и наличие gifted group | Извлечённый текст; screenshot cache miss; размер gifted group не установлен |
+| GFT-02.1-E04 | WAIS-IV UK Pearson FAQ | Версия UK | Диапазон FSIQ 40–160 | Индекс; cache miss; не точность |
+| GFT-02.1-E05 | PRO-ED SB5 Technical/Interpretive Manual listings | N=4800, возраст 2–85+ | Обычная шкала 40–160 и EXIQ до 225 | Индекс; руководства не получены; взрослый хвост не валидирован этим источником |
+| GFT-02.1-E06 | WISC-V TR6 2019 | N=2200; 108 детей 6–16 | Различие потолка пересчёта и эмпирического покрытия | Разделы PDF, визуально стр.1–2; детские нормы |
+| GFT-02.1-E07 | 10.1017/psy.2026.10081 | Методическая статья | Условная точность CTT/IRT | PubMed аннотация; издатель timeout |
+| GFT-02.1-E08 | Raykov 2026 Psychometrika | Методологический комментарий | Ограничения CSEM наблюдаемого балла, латентная альтернатива | Издатель §6; не независимое исследование IQ |
+| GFT-02.1-E09 | PMID 25313225 | 432 канадских учащихся, направленная выборка | Различные нормы дают разные баллы | Индекс; reCAPTCHA; не верхний хвост |
+
+## GFT-02.2 — 26.11.2026
+[Карточки и синтез](02_psychometrics/GFT-02.2_heterogeneous_profiles_discrepancies_and_selection.md). Повторно проверенные E05/E06 не независимые новые исследования.
+
+| ID | Источник | Тип/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-02.2-E01 | 10.1177/0734282909346710 | WAIS-IV нормы, надёжность разностей | Разности субтестов .55–.88; индексов .80–.91 | Издательская аннотация; не локальный хвост |
+| GFT-02.2-E02 | Pearson WAIS-5 Q-global report settings | Документация | CI, критические значения, группы базовых частот | Полная короткая страница; таблицы не проверены |
+| GFT-02.2-E03 | Pearson WAIS-IV/WAIS-5 US FAQ | Документация | Различия структуры, дополнительные композиты | Индекс; find cache miss; не руководство |
+| GFT-02.2-E04 | PMID 23544395; PMID 23647042 | Клиническая выборка N=300; отдельный анализ критериальной валидности | Ограниченный добавочный вклад отдельных индексов в академический прогноз | Индекс аннотаций; reCAPTCHA; перекрытие не проверено |
+| GFT-02.2-E05 | 10.1177/1073191117733547 | 130 взрослых ≥2 SD | Неуниверсальный профиль; сильный perceptual reasoning | Аннотация; повтор GFT-01.3 E01 |
+| GFT-02.2-E06 | 10.1016/j.paid.2025.113274 | 111 из 2173, возраст 16–90 | Селекция и преимущественно размерное объяснение | Извлечённые разделы PDF, screenshot cache miss; повтор GFT-01.3 E02 |
+| GFT-02.2-E07 | 10.1177/00131644251339444 | Симуляция и клиническое применение person fit | Отклонение от модели не равно общему scatter или диагнозу | Выборочные разделы издателя; нет калибровки верхнего хвоста |
+| GFT-02.2-E08 | 10.1093/arclin/acad073 | Метаанализ >1800, 18 источников, взрослые/дети | Паттерны недостаточно чувствительны и специфичны для диагностики ADHD/ASD | Аннотация, методы/обсуждение выборочно; не 150–160+ |
+
+## GFT-02.3 — 26.11.2026
+[Карточки и аудит](02_psychometrics/GFT-02.3_upper_tail_psychometrics_integration_and_sufficiency_audit.md). Документация издателей не равна независимым исследованиям. E07/E08 могут использовать перекрывающиеся данные.
+
+| ID | Источник | Тип/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-02.3-E01 | Pearson WAIS-5 Sample Score Report 2024 | Документация | CI на SEE; SEM отдельно; группы базовых частот | Извлечённые разделы, screenshot cache miss; не локальная валидация |
+| GFT-02.3-E02 | Pearson WAIS-IV vs WAIS-5 Comparison Flyer 2025 | Документация | Нормы 2007–08 vs 2023–24; FSIQ 10 vs 7 субтестов | Обе страницы прочитаны и визуально проверены; не доказательство эквивалентности |
+| GFT-02.3-E03 | Pearson WAIS-5 FAQ/product listing | Каталог | Руководства приобретаются в Q-global | Индекс; основная страница cache miss; полный manual не получен |
+| GFT-02.3-E04 | Ruf 2003, SB5 ASB #3 | Бюллетень по высокой способности, преимущественно дети | EXIQ экспериментальный, теоретический максимум; метод в Interpretive Manual | Извлечённые разделы, screenshot cache miss; не взрослое исследование |
+| GFT-02.3-E05 | PRO-ED SB5 Interpretive/Technical Manual listings | Каталог | Наличие расширенной шкалы и руководств | Индекс; cache miss; не проверены метод и точность |
+| GFT-02.3-E06 | 10.1177/10731911261436688 | N=5352, 2–22, клиническая SB5 | Неинвариантность, ограниченное влияние по авторской интерпретации; не аннулировать FSIQ по scatter | Аннотация; restricted full text; не прямой взрослый хвост |
+| GFT-02.3-E07 | 10.1177/1073191110386343 | WAIS-IV scatter | Вариативность связана с FSIQ | Индекс аннотации; PubMed reCAPTCHA |
+| GFT-02.3-E08 | PMID 21154032 | WAIS-IV нормативные данные | Scatter связан с максимальным субтестом | Индекс аннотации; PubMed reCAPTCHA; перекрытие не проверено |
+
+## GFT-03.1 — 26.11.2026
+[Карточки и синтез](03_neurobiology/GFT-03.1_brain_structure_function_networks_and_causal_limits.md). HCP и AOMIC могут перекрываться между исследованиями; не считать независимыми репликациями без проверки.
+
+| ID | Источник | Дизайн/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-03.1-E01 | 10.1098/rsos.211621 | 86 исследований, 194 выборки, >26000 | r=.24, чувствительность к спецификации | Авторская аннотация институционального репозитория; PubMed reCAPTCHA |
+| GFT-03.1-E02 | 10.1017/S0140525X07001185 | Теоретический синтез | P-FIT, распределённые лобно-теменные сети | Издательская аннотация; не причинная валидация |
+| GFT-03.1-E03 | PMC3326251 | 182 пациента, lesion mapping | Общие фронтально-теменные корреляты g/EXE | Индекс аннотации; cache miss |
+| GFT-03.1-E04 | 10.1093/brain/awac304 | 227 пациентов, 165 контролей | Праволобная роль в Raven APM; ограничение широкого MD объяснения | Издательская аннотация и введение; не здоровый хвост |
+| GFT-03.1-E05 | 10.1038/s42003-025-08231-4 | HCP 764; дополнительные 126/180 | SC-FC coupling и предсказание интеллекта при нагрузке | Аннотация, введение, ограничения; не механизм |
+| GFT-03.1-E06 | 10.1038/s41467-026-68698-5 | HCP 831 молодых взрослых | Поддержка предсказаний NNT | Введение/обсуждение/ограничения; PMC reCAPTCHA; возможное перекрытие HCP |
+| GFT-03.1-E07 | 10.1093/pnasnexus/pgae519 | HCP 610+196; AOMIC 138/184 | Внешний прогноз слабее; распределённая предиктивная информация | Результаты/validation/метод выборочно; перекрытия не проверены |
+| GFT-03.1-E08 | 10.1038/s41586-022-04492-9 | BWAS resampling | Риск завышения и слабой репликации малых эффектов | Выбранные результаты и методы; correction существует, содержание не извлечено |
+| GFT-03.1-E09 | 10.1038/s41586-023-05745-x | Методологическая дискуссия BWAS | Многомерные модели иногда воспроизводимы при меньшем N | Начальные разделы; не независимая репликация всех эффектов |
+| GFT-03.1-E10 | 10.1002/brb3.2348 | 18 детей IQ 145–170; 12 сравнения | Исследование систем памяти; не взрослое evidence | Индекс методов/аннотации; DOI 403, PMC reCAPTCHA; эффекты не синтезированы |
+
+## GFT-03.2 — 26.11.2026
+[Карточки и синтез](03_neurobiology/GFT-03.2_neural_efficiency_task_demands_and_plasticity.md). E08–E10 имеют потенциально общие первичные исследования; E04 повторно использует базы GFT-03.1.
+
+| ID | Источник | Дизайн/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-03.2-E01 | 10.1016/j.neubiorev.2009.04.001 | Обзор | Модерация сложности, области, опыта; контррезультаты | Индекс аннотации |
+| GFT-03.2-E02 | PMID 24489416 | 58, fMRI, адаптивные задачи | Различия не выявлены при сопоставимой индивидуальной трудности | Индекс аннотации/метода; PMC reCAPTCHA |
+| GFT-03.2-E03 | 10.1371/journal.pone.0051316 | 40, мысленное вращение | Нет универсальной отрицательной связи; взаимодействие трудности | PLOS аннотация, результаты, обсуждение выборочно |
+| GFT-03.2-E04 | Cerebral Cortex 32(19):4172; PMC9528794 | 812; внешние 138/184 | g связан с меньшей FC-перестройкой | Индекс текста/аннотации; перекрытие баз не проверено |
+| GFT-03.2-E05 | 10.1038/427311a | Обучение жонглированию, взрослые | Временные структурные MRI-изменения | Nature аннотация; основной текст закрыт |
+| GFT-03.2-E06 | 10.1016/j.tics.2017.09.008 | Теоретический обзор | Модель expansion-renormalization | Индекс/институциональная аннотация |
+| GFT-03.2-E07 | 10.1038/s42003-026-09712-w | 24 взрослых, контрольный период затем обучение равновесию | Миелин-связанные qMRI изменения, не прямая гистология | Издательские методы/результаты/ограничения выборочно |
+| GFT-03.2-E08 | 10.3758/s13423-014-0699-x | Метаанализ 20 исследований | Малый положительный эффект n-back на тесты Gf | Индекс аннотации; полный метод не проверен |
+| GFT-03.2-E09 | 10.1177/1745691616635612 | 87 публикаций, 145 сравнений | Недостаточно evidence дальнего переноса | Индекс аннотации/текста; PMC reCAPTCHA |
+| GFT-03.2-E10 | 10.1525/collabra.203 | Метаанализ второго порядка | Преимущественная специфичность тренировок | Индекс; UC Press cache miss; перекрытие E09 |
+
+## GFT-03.3 — 26.11.2026
+[Карточки и синтез](03_neurobiology/GFT-03.3_genetic_environmental_influences_and_high_ability.md). Разные estimands не сравнивать напрямую; пересечения регистров, GWAS и биобанков требуют отдельной проверки.
+
+| ID | Источник | Дизайн/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-03.3-E01 | PMID 19488046 | ~11000 пар близнецов, 9/12/17 лет | Возрастные оценки h² .41/.55/.66 | Индекс аннотации/методов, PubMed reCAPTCHA |
+| GFT-03.3-E02 | 10.1016/j.intell.2021.101579 | 486 семей, повторно до 32 лет | h² .42 [.21,.64] в модели, семейные компоненты .08 | Институциональная авторская аннотация |
+| GFT-03.3-E03 | 10.1073/pnas.1417106112 | 436 полных и 2341 полусиблинговых групп | Усыновление ассоциировано с +4.41/+3.18 IQ в 18–20 | Институциональная аннотация; не рандомизация |
+| GFT-03.3-E04 | 10.1177/0956797615612727 | Метаанализ детской G×SES | Различия результатов между странами | Аннотация APS; полные методы не проверены |
+| GFT-03.3-E05 | 10.1038/s41588-018-0152-6 | GWAS 269867 | 205 локусов, полигенная ассоциация | Nature аннотация и индекс авторского текста; не причинные гены |
+| GFT-03.3-E06 | 10.1038/s41588-022-01062-7 | Внутрисемейный vs популяционный GWAS | SNP-h² .24/.14 для cognitive ability | Издательские результаты/обсуждение выборочно |
+| GFT-03.3-E07 | PMID 25593376 | ~360000 пар братьев, 9000 пар близнецов, top 5% | Поддержка непрерывности | Индекс аннотации/методов; 403/reCAPTCHA |
+| GFT-03.3-E08 | 10.1038/mp.2017.121 | 1238 TIP, 8172 контроля, SAT/ACT в 12 лет | Генетическая корреляция до .86; liability SNP-h² .33 | Издательские методы/обсуждение выборочно; не взрослый FSIQ |
+| GFT-03.3-E09 | 10.65550/001c.158459 | UKB 4642 пары, ABCD 736 | Внутрисемейная ассоциация сохраняется, G×E не обнаружено для выбранных модераторов | Аннотация и фрагмент результатов; интересы и pipeline не проверены полностью |
+
+## GFT-03.4 — 26.11.2026
+[Карточки, выборочная перепроверка и аудит](03_neurobiology/GFT-03.4_neurobiology_integration_transfer_and_sufficiency_audit.md).
+
+| ID | Источник | Дизайн/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-03.4-E01 | 10.1038/s41598-017-11593-3 | 25 gifted adolescents IQ≥130, 25 сравнения, 27 adults IQ<120 | Графовые метрики различаются у подростков; взрослая gifted-группа отсутствует | Издательские аннотация/результаты/методы/ограничения выборочно; не 150–160+ взрослые |
+| GFT-03.4-E02 | 10.1002/brb3.2348 | 18 детей IQ 145–170, 12 сравнения | SB5 по авторским методам; потолок заявлен 170, точность не установлена | Повтор 03.1 E10, индекс методов; не новая выборка |
+| GFT-03.4-E03 | 10.1038/s41586-022-04692-3 | Publisher Correction | Дата получения и лицензия, не научные результаты | Содержательный текст исправления прочитан; не полный аудит оригинала |
+
+## GFT-04.1 — 26.11.2026
+[Карточки и синтез](04_higher_order_thinking/GFT-04.1_abstraction_causal_reasoning_mental_models_and_transfer.md). Не прямое evidence взрослого IQ 150–160+.
+
+| ID | Источник | Дизайн/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-04.1-E01 | 10.1207/s15516709cog0702_3 | Теория | Структурное соответствие отношений | Индекс аннотации |
+| GFT-04.1-E02 | ScienceDirect 0010028583900026 | Эксперименты | Схема и перенос при сравнении примеров | Индекс аннотации; 403 |
+| GFT-04.1-E03 | 10.3758/BF03334970 | Два эксперимента | Один пример может быть достаточен при кодировании схемы | Индекс аннотации; short DOI cache miss |
+| GFT-04.1-E04 | 10.3758/s13421-019-00964-y | Две студенческие выборки | Умеренные корреляции capacity и relational processing | PubMed авторская аннотация |
+| GFT-04.1-E05 | PMID 20956326 | Теория | Модели возможностей, контрпримеры | Индекс аннотации/текста; reCAPTCHA |
+| GFT-04.1-E06 | PMID 15238029 | Четыре эксперимента | Временная информация при вмешательстве помогает причинному обучению | Индекс аннотации; reCAPTCHA |
+| GFT-04.1-E07 | PMID 30693393 | Экспериментальная контингентность | Outcome density и иллюзорная причинность | Индекс аннотации/текста; reCAPTCHA |
+| GFT-04.1-E08 | 10.1207/s15516709cog0502_2 | Четыре эксперимента expert/novice | Предметные принципы vs поверхностные признаки | Институциональная авторская аннотация |
+| GFT-04.1-E09 | 10.3389/fpsyg.2017.01646 | Обзор математической одарённости | Разнородность, практика, низкая мощность | Издательские обсуждение/ограничения выборочно |
+
+## GFT-04.2 — 26.11.2026
+[Карточки, интеграция и проверка](04_higher_order_thinking/GFT-04.2_systems_recursive_nonlinear_thinking_and_dynamics.md). Не прямое evidence взрослого IQ 150–160+.
+
+| ID | Источник | Дизайн/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-04.2-E01 | 10.1016/j.intell.2015.09.005 | 47 исследований, 60 выборок, N=13740 | Связь CPS и intelligence, M(g)=.433; модерация измерением CPS | Авторская аннотация Leuphana, издатель 403 |
+| GFT-04.2-E02 | PMID 31162397 | Методологический комментарий | Ограничения MCS как меры всей комплексности | Индекс аннотации; reCAPTCHA |
+| GFT-04.2-E03 | 10.1287/mnsc.35.3.321 | Лабораторная динамическая задача | Неполный учёт обратных связей | Издательская библиография/индекс авторского текста |
+| GFT-04.2-E04 | 10.1016/j.obhdp.2008.03.003 | Серия экспериментов | Stock-flow failure, корреляционная эвристика | Авторская аннотация MIT; издатель 403 |
+| GFT-04.2-E05 | 10.1002/sdr.447 | Graduate students MIT | Улучшение после курса, остаточные ошибки | Авторская аннотация MIT; Wiley 403 |
+| GFT-04.2-E06 | 10.3758/s13428-015-0657-1 | VRT/EIT | Различение рекурсии и итерации | Издательская аннотация; полный текст закрыт |
+| GFT-04.2-E07 | 10.1111/cogs.13273 | Порождение последовательностей, Bayesian mixture | Иерархическое правило vs порядковое/ассоциативное | Индекс аннотации/текста; 403/reCAPTCHA |
+| GFT-04.2-E08 | 10.1111/cogs.70108 | 40 взрослых, моторные последовательности | Освоение и генерация новых уровней | Индекс аннотации, институциональная запись; PubMed reCAPTCHA |
+| GFT-04.2-E09 | 10.1007/s00426-026-02252-2 | 96, dual-task | Лексическая/арифметическая интерференция в обеих операциях | Издательская страница и индекс методов/аннотации |
+| GFT-04.2-E10 | 10.1007/s00591-021-00306-7 | 227, рандомизированный формат | Эффект представления темпа/удвоения | Издательские §§2–3 и фрагмент обсуждения |
+| GFT-04.2-E11 | PMID 42837964 | Два эксперимента, framing/context | Незначимое взаимодействие во втором эксперименте | Индекс аннотации; издатель cache miss |
+
+## GFT-04.3 — 26.11.2026
+[Карточки и перенос](04_higher_order_thinking/GFT-04.3_strategic_integrative_multiperspective_thinking_and_decision_quality.md). E05–E08 потенциально перекрываются по турнирам; не независимые репликации. Не прямой взрослый экстремальный IQ.
+
+| ID | Источник | Дизайн/популяция | Содержание | Доступ/границы |
+|---|---|---|---|---|
+| GFT-04.3-E01 | ScienceDirect S0899825624001398 | Стратегические игры, level-k | Способность и judgment связаны с уровнем рассуждения | Индекс аннотации/текста |
+| GFT-04.3-E02 | ScienceDirect S0167487016302884; 10.1002/smj.2660 | Игровое поведение; концептуальное обсуждение | Глубина стратегии не равна оптимальному действию | Индекс авторских материалов |
+| GFT-04.3-E03 | 10.1017/CBO9780511527937.029 | Руководство IC | Дифференциация и интеграция | Резюме Cambridge; полный текст закрыт |
+| GFT-04.3-E04 | PMID 29620401 | 25 экспериментов | Воображаемая перспектива не гарантирует точность | Индекс аннотации; reCAPTCHA/cache miss |
+| GFT-04.3-E05 | PMID 25581088 | 743 участника, >150000 прогнозов, 199 событий | Когнитивные, ситуационные и поведенческие предикторы | Индекс аннотации; reCAPTCHA |
+| GFT-04.3-E06 | 10.1177/0956797614524255 | Турнир, обучение/команды/отбор | Calibration и resolution | Официальная аннотация APS |
+| GFT-04.3-E07 | 10.1016/j.obhdp.2020.02.001 | >400000 прогнозов | Ассоциация точности и обновлений | Индекс аннотации; 403 |
+| GFT-04.3-E08 | ScienceDirect S0169207021001473 | Тексты прогнозов нескольких турниров | Диалектическая сложность и классы сравнения | Индекс аннотации; 403 |
+| GFT-04.3-E09 | PMID 18361678 | 7 исследований | Некоторые смещения относительно независимы от cognitive ability | Индекс аннотации; reCAPTCHA |
+| GFT-04.3-E10 | 10.1017/jdm.2025.10008 | 4 исследования AOT-SJT | Различие нормативного согласия и намерения/процедурного знания | Издательские разделы выборочно |
+
+## GFT-04.4 — 26.11.2026
+[Интеграция и аудит](04_higher_order_thinking/GFT-04.4_higher_order_thinking_integration_transfer_and_sufficiency_audit.md). E01–06 и E08 — выборочная повторная проверка предыдущих источников, не независимые репликации.
+
+| ID | Источник | Содержание/границы |
+|---|---|---|
+| GFT-04.4-E01 | PMID 31317394 | Повтор 04.1 E04, авторская аннотация, две студенческие серии |
+| GFT-04.4-E02 | ScienceDirect 0010028583900026; 10/gjscrb | Повтор 04.1 E02/E03, индексированные материалы |
+| GFT-04.4-E03 | 10.1016/j.intell.2015.09.005 | Повтор 04.2 E01, индекс аннотации 47 исследований, 13740 участников |
+| GFT-04.4-E04 | 10.1007/s00426-026-02252-2 | Повтор 04.2 E09, обсуждение общих и специфических ресурсов |
+| GFT-04.4-E05 | PMID 29620401 | Повтор 04.3 E04, индекс аннотации 25 экспериментов |
+| GFT-04.4-E06 | PMID 25581088; PMID 18361678 | Повтор 04.3 E05/E09, индекс аннотаций |
+| GFT-04.4-E07 | PMID 42352690; PMC13295265 | N=249, cognitive reflection и модель интеграции; индекс аннотации/текста, не причинное доказательство |
+| GFT-04.4-E08 | PMID 28948838; ScienceDirect S0191886925002363 | Повтор прежних профилей gifted adults, не прямое измерение операций 150–160+ |
+
+## GFT-05.1 — 26.11.2026
+[Карточки, синтез и проверка](05_cognitive_processes/GFT-05.1_working_memory_attention_processing_speed_and_flexibility.md). E05–E07: научный спор, не единая установленная структура контроля внимания. E11 — взрослые gifted, не подтверждённый 150–160+.
+
+| ID | Источник | Содержание/популяция | Доступ/границы |
+|---|---|---|---|
+| GFT-05.1-E01 | PMID 24531497 | WM, Gf, capacity/control/retrieval | Индекс текста/аннотации; PMC reCAPTCHA, издатель 403 |
+| GFT-05.1-E02 | 10.1177/1745691616650647 | Теория maintenance/disengagement | Авторская аннотация APS, полный текст закрыт |
+| GFT-05.1-E03 | 10.1006/cogp.1999.0734 | 137 студентов, shifting/updating/inhibition | PubMed аннотация |
+| GFT-05.1-E04 | 10.1037/bul0000160 | 46 выборок N=9756; EF модели не универсальны | Институциональная аннотация |
+| GFT-05.1-E05 | 10.1037/xge0001000 | Mega-analysis, общий фактор AC связан с WMC | PubMed аннотация |
+| GFT-05.1-E06 | 10.3758/s13423-025-02696-4 | 6 наборов, diffusion + SEM, контрдоказательство общего AC фактора | Издательские аннотация/введение/гипотезы |
+| GFT-05.1-E07 | 10.3758/s13428-025-02897-8 | 255 студентов, 24 меры, повтор; AC и скорость требуют разграничения | Издательские аннотация/метод/обсуждение выборочно |
+| GFT-05.1-E08 | 10.3758/s13428-017-0935-1 | Надёжность семи парадигм 0–.82 | Издательская аннотация |
+| GFT-05.1-E09 | 10.1016/j.cognition.2011.02.002; 10.1177/0963721415596228 | RT, drift rate, response caution | Индекс аннотации; авторская аннотация второго источника |
+| GFT-05.1-E10 | 10.1111/jcpp.12001 | 20 исследований; медиана корреляции тестов/рейтингов EF .19 | PubMed аннотация |
+| GFT-05.1-E11 | 10.1080/23279095.2026.2673177 | 260 gifted adults, WM/g; критерий отбора и диапазон не установлены | Индекс авторской аннотации; reCAPTCHA/DOI недоступен |
+
+## GFT-05.2 — 26.11.2026
+[Карточки, интеграция и проверка](05_cognitive_processes/GFT-05.2_learning_intuition_automaticity_and_expertise.md). E07/E08 — повторный анализ, не независимая репликация. Прямой взрослый экстремальный диапазон не установлен.
+
+| ID | Источник | Содержание | Доступ/границы |
+|---|---|---|---|
+| GFT-05.2-E01 | 10.1177/1745691615569000 | Обзор learning vs performance | Авторская аннотация APS |
+| GFT-05.2-E02 | PMID 1429345; 11218338; 11302234 | Стадии навыка и предикторы | Индекс аннотаций; первый PubMed reCAPTCHA |
+| GFT-05.2-E03 | 10.1016/j.intell.2019.101383 | 171 студент, обучение пианино | Индекс авторского текста; ScienceDirect 403 |
+| GFT-05.2-E04 | PMID 36940328 | 6946 учащихся, 27 наборов; темпы и старт | Индекс аннотации/текста |
+| GFT-05.2-E05 | PMID 16536645; 10.1146/annurev-psych-122414-033550 | Раздельные признаки автоматичности | Индекс аннотаций; Annual Reviews 403 |
+| GFT-05.2-E06 | 10.1037/0033-295X.95.4.492; 10.1207/s15516709cog2703_8 | Instance theory и consistent mapping | Индекс текста/библиографии |
+| GFT-05.2-E07 | 10.1177/0956797614535810 | Метаанализ практики | Авторская аннотация APS |
+| GFT-05.2-E08 | 10.3389/fpsyg.2019.02396; 10.3389/fpsyg.2020.01134 | Спор о критериях и коррекции; общий массив | Издательские разделы результатов/ответа |
+| GFT-05.2-E09 | PMID 29733621 | Метаанализ переноса извлечения | Индекс аннотации; reCAPTCHA |
+| GFT-05.2-E10 | 10.1037/a0016755 | Условия экспертной интуиции | Индекс аннотации; PubMed reCAPTCHA |
+| GFT-05.2-E11 | 10.1016/j.cognition.2008.05.005 | Einstellung у шахматистов | Авторская аннотация Brunel |
+| GFT-05.2-E12 | 10.3390/jintelligence13090115 | 4 эксперимента, параллельные SISL формы | Индекс текста/ограничений; PMC reCAPTCHA, MDPI 429 |
+| GFT-05.2-E13 | PMID 31451633 | Продольная шахматная экспертиза; ассоциации | Индекс аннотации/текста |
+
+## GFT-05.3 — 26.11.2026
+[Evidence cards and internal checks](05_cognitive_processes/GFT-05.3_imagery_simulation_thought_formation_and_control.md). E01–E09 support bounded general distinctions, E10 candidate only (correction not checked); no verified extreme IQ adult sample.
+
+| ID | Source | Scope/access |
+|---|---|---|
+| GFT-05.3-E01 | 10.7554/eLife.72484 | pupil imagery, methods/results excerpts, 42+18 |
+| GFT-05.3-E02 | 10.1016/j.cortex.2020.11.014 | object vs spatial recall, PubMed abstract/figures, 61+52 |
+| GFT-05.3-E03 | 10.1093/texcom/tgab035 | imagery extremes and IQ, publisher methods/table/results excerpts, N=69 |
+| GFT-05.3-E04 | 10.1016/j.concog.2007.12.006 | DES, 30 students, indexed abstract/method |
+| GFT-05.3-E05 | PMID 17126370 | event construction/elaboration, indexed abstract |
+| GFT-05.3-E06 | 10.1177/0956797616634068 | intention, publisher abstract |
+| GFT-05.3-E07 | 10.1038/nrn.2016.113 | dynamic framework, review abstract/index |
+| GFT-05.3-E08 | 10.1177/0956797617706086 | contextual thought sampling, indexed abstract, N=274 |
+| GFT-05.3-E09 | PMID 22468669 | aptitude performance association, indexed abstract |
+| GFT-05.3-E10 | 10.3758/s13423-025-02650-4 | candidate only, correction PMID 40274724 not checked |
+
+## GFT-05.4 — 26.11.2026
+[Integration audit](05_cognitive_processes/GFT-05.4_cognitive_processes_integration_transfer_and_sufficiency_audit.md). Reused 05.1–05.3 cards, not independent replications. Rechecked publisher excerpts: 10.3758/s13423-025-02696-4 and 10.3758/s13428-025-02897-8; AC factor and speed discriminability remain disputed. Correction 10.3758/s13423-025-02664-y verified bibliographically, body inaccessible, 05.3-E10 not used. Haneefa 10.1080/23279095.2026.2673177 publisher full text unavailable, selection/IQ range not verified. Q-05-tail OPEN. No new independent effect estimates.
+
+## GFT-06.1 — 26.11.2026
+[Monitoring and measurement](06_metacognition/GFT-06.1_metacognitive_monitoring_confidence_calibration_and_measurement.md). E01–E03 frameworks/definitions/cue utilization; E04–E05 psychometric repeatability limits, E06 self-report vs online, E07–E10 intelligence/domain specificity with uncertainty, E11 gifted school populations not adult tail. Rahnev 2025 DOI 10.1038/s41467-025-56117-0, Double 2025 DOI 10.3758/s13428-025-02621-6, Mazancieux 2026 DOI 10.1177/09567976251415354, Baer 2026 DOI 10.1038/s41562-026-02443-2. Distinguish calibration, bias, sensitivity, efficiency, task performance and control. Q-06-tail OPEN.
+
+## GFT-06.2 — 26.11.2026
+[Control and stopping](06_metacognition/GFT-06.2_metacognitive_control_strategy_information_seeking_revision_and_stopping.md). E01–E02 confidence vs resampling, context-dependent, E02 abstract/indexed body conflict (direction Exp1 excluded); E03 Hu 2026 DOI 10.1016/j.cognition.2025.106410, N477 five experiments; E04 McCaughey 2026 DOI 10.1017/jdm.2026.10043, search costs/feedback; E05 10.1038/s41467-020-16278-6 confidence/postdecision evidence; E06 10.1007/s10212-025-00982-2 revision and reporting reactivity; E07–08 study allocation; E09 external search alternative; E10 adolescents/giftedness access limits. Monitoring, policy, implementation, outcome and cost distinguished; Q-06-tail OPEN.
+
+## GFT-06.3 — 26.11.2026
+[Self-regulation, effort and compensation](06_metacognition/GFT-06.3_self_regulation_effort_allocation_and_cognitive_compensation.md). E01–03 SRL models/educational evidence (10.1007/s10648-023-09718-4, 32 studies); E04–06 expected value of control, unresolved effort mechanism, task nonconvergence (10.1371/journal.pone.0290177), preregistered depletion null (10.1177/0956797621989733); E07–10 offloading cost, immediate vs retention trade-off, reduced performance variability (10.3758/s13421-025-01743-8), prediction+feedback (10.1186/s41235-026-00714-0, Exp2 absolute rather than signed preregistered outcomes); E11 Mensa vs academic achievers, self-report (10.3389/fpsyg.2019.01972), not extreme measured IQ. Q-06-tail OPEN.
+
+## GFT-06.4 — 26.11.2026
+[Integration and sufficiency audit](06_metacognition/GFT-06.4_metacognition_control_self_regulation_integration_and_sufficiency_audit.md). 06.2-E02 published PDF recovered on authors' lab site (10.1016/j.cognition.2025.106219): Exp1 direction verified in results/Fig.3 caption/discussion; abstract discrepancy persists. Exp2 opposing modeled direct/indirect pathways, total NS. Q-06-source-02 RESOLVED_FOR_REPORTED_DIRECTION; abstract inconsistency OPEN_FOR_PUBLISHER_CORRECTION. Rechecked Rahnev 2025 test-retest and Ngai & Gilbert 2026 signed vs absolute outcomes. No independent new effect replication. Q-06-tail OPEN.
+
+## GFT-07.1 — 26.11.2026
+[Creativity measurement and threshold](07_creativity/GFT-07.1_divergent_convergent_thinking_creativity_measurement_threshold.md). E01–03 originality/appropriateness, DT scoring, CT/DT associations; E04 Gerwig 2021 (10.3390/jintelligence9020023) r=.25, not threshold test; E05 Jauk 2013 (10.1016/j.intell.2013.03.003) actual significant 86/104, 119.60 Davies p=.14, max IQ147.37; E06 Weiss 2020 (10.3390/jintelligence8040038) no threshold in two samples; E07 necessary-condition analysis distinct from breakpoint; E08 pooled/within divergence, E09 Chiang 2026 (10.3390/jintelligence14060097) fixed120 not supported, exploratory102 school fluency; E10 achievement r=.16 (10.3390/jintelligence9020028), E11 Park/Kell developmental high-tail achievement not adult measured IQ. Q-07-tail OPEN.
+
+## GFT-07.2 — 26.11.2026
+[Complex problem solving and scientific reasoning](07_creativity/GFT-07.2_creative_complex_problem_solving_model_construction_and_scientific_reasoning.md). E01 Stadler 2015 (10.1016/j.intell.2015.09.005) N13740, M(g)=.433 as reported, task method moderation; E02 analogical schema induction, reuses GFT-04; E03 CPS construct limits; E04 Stuyck 2021 (10.1016/j.concog.2020.103055), insight accuracy not confirmed; E05 Grimmer 2022 (10.3758/s13423-021-02049-x), false insight; E06 Coenen 2015 model mixture and costs; E07 Branchini 2025 (10.3758/s13421-025-01691-3), TO success 78.33% vs TP38.33/C36.66, longer time among correct solvers; E08 scientific reasoning assessment vs literacy and numeracy/causal misunderstanding; E09 2026 deliberate error correction (10.1007/s11251-026-09819-x), indexed abstract/method, task-specific transfer; E10 tail not established. Q-07-tail OPEN.
+
+## GFT-07.3 — 26.11.2026
+[Creative productivity, achievement and opportunity](07_creativity/GFT-07.3_creative_productivity_scientific_achievement_and_opportunity.md). E01 recheck 07.1-E10 r=.16 multilevel; E02 Jauk 2014 (10.1002/per.1941) same larger study as 07.1-E05, activity/achievement shared-method risk; E03/E04 Park/Kell shared SMPY cohort confirmed, not independent adult IQ evidence; E05 childhood IQ/NCA, substantial follow-up selection; E06 Bell 2019 (10.1093/qje/qjy028) author manuscript, move-timing assumptions; E07 Bol 2018 (10.1073/pnas.1719557115) grant cutoff and participation vs no detected output discontinuity; E08 within-career impact, topic diversity/focus, quantity vs average/maximum quality; E09 Cebrián 2026 (10.3389/fpsyg.2025.1727094) 82 worker studies, high heterogeneity and search through Jan2024; contingent reward/sorting; E10 Sio 2024 adjusted training effects .29–.32 SD vs .53 unadjusted. Q-07-tail OPEN.
+
+## GFT-07.4 — 26.11.2026
+[Integration and sufficiency audit](07_creativity/GFT-07.4_creativity_scientific_reasoning_productivity_integration_and_sufficiency_audit.md). Rechecked Gerwig 2021 r=.25 and Karwowski 2021 r=.16 (distinct outcomes); Jauk 119.60 Davies p=.14, Weiss two samples, Chiang fixed120 NS/exploratory102 fluency; Stadler M(g)=.433 reported notation; Stuyck 2021 no accuracy advantage, Stuyck 2022 (10.1016/j.cognition.2021.104946) N106 greater insight accuracy in task, Grimmer false insights; Branchini local effect; Jauk shared study and Park/Kell common cohort, no exact participant overlap; Bol recognition/access vs output, Liu impact vs rate, Cebrián creative process engagement high heterogeneity, Sio training bias adjustments. No independent new replications claimed. Q-07-tail OPEN; GFT-07 COMPLETE_FOR_SPECIFIED_SCOPE.
+
+## GFT-08.1 — 26.11.2026
+[Lifespan cognitive trajectories](08_personality_development/GFT-08.1_lifespan_cognitive_trajectories_age_cohort_and_selection.md). E01 Breit 2024 (10.1037/bul0000425) rank-order rho=.76 age20/5y, no significant sample-mean ability moderator; E02 staggered cross-sectional peak ages; E03 practice effects, VCAP dependence; E04 Gf/Gc slope association (10.1126/sciadv.abj2422); E05 baseline level vs change, LBC overlap; E06 LOGIC and Zurich childhood-selection limits (10.1111/apa.16925 high preschool range112–132); E07 cohort/Flynn effect; E08 schooling quasi-experiments (10.1177/0956797618774253) 1–5 IQ-scale points per extra year; E09 SHARE/Fjell 2026 memory cohorts, Fig5b publisher correction 24 Nov2026 (10.1038/s41591-026-04824-6), not inspected; E10 Q-08-tail OPEN.
+
+## GFT-08.2 — 26.11.2026
+[Asynchrony and profile heterogeneity](08_personality_development/GFT-08.2_asynchronous_development_profile_heterogeneity_and_construct_limits.md). E01 Silverman 1997 conceptual framing, not universal mechanism; E02 Vaivre-Douret 2011 alternative early synchrony account; E03 Lang 2019 (10.1177/1073191117733547) N130 higher all assessed domains and scatter, no trajectory; E04 referred WISC profiles N739 (10.1016/j.intell.2025.101948), sample/model dependence; E05 Guénolé N143 clinical selection, >=145 no elevated problems vs lower gifted, discrepancy association; E06 Lavrijsen 2023 N3409, high ability not increased maladjustment, identified label differs, EDEN small tail; E07 Tasca review heterogeneous outcomes; E08 EI measures distinct, 2026 meta-analysis indexed methods only; E09 preschool SIP N30 single group, ceiling and inconsistent limitation wording; E10 SMPY acceleration/wellbeing, qualitative adult follow-up selected by adolescent scores. Q-08-tail OPEN; universal asynchrony mechanism NOT_ESTABLISHED.
+
+## GFT-08.3 — 26.11.2026
+[Adult identity and fit](08_personality_development/GFT-08.3_adult_gifted_identity_adaptation_and_person_environment_fit.md). E01 Schlegler 2022 40 publications, 27 larger projects, mixed performance/potential selection; E02 Marburg 101/91 (means136/103), no causal or equivalence claim; E03 seven qualitative follow-up interviews, childhood selection; E04 2026 recognition/belonging self-recognition sampling; E05 Vötter/Schnell Mensa vs academic award vs controls; E06 UK Biobank high g 16137 vs average236273, less perceived isolation, nonrepresentative volunteers; E07 Poirier 2025 N219 self-reported tested identification, higher gift >99th percentile, exploratory results, Table5 inconsistencies OPEN_FOR_CLARIFICATION; E08–09 general fit constructs, mixed fit-specific evidence; E10 no verified direct adult IQ150–160+ identity/fit evidence. Q-08-tail OPEN.
+
+
+## GFT-08.4 — 27.11.2026
+[08_personality_development/GFT-08.4_cognitive_strategy_development_self_directed_learning_and_experience.md](08_personality_development/GFT-08.4_cognitive_strategy_development_self_directed_learning_and_experience.md). E1–8 investment, domain knowledge, independent learning and practice; E6 corrigendum supersedes original main-model estimates; E9–14 retrieval/transfer, prior knowledge and instruction interaction; E15–20 strategy modification in ACTIVE (shared cohort), repeated lifespan recognition study (no untreated group), historical cross-sectional self-report and associative memory strategy reports. General-methodological scope only; Q-08-tail OPEN: specific longitudinal strategy development, self-directed learning and experience effects in measured adult IQ150–160+ not established; Q-08-source-03 corrected main model estimates; initial GFT-08.4 pre-search card provenance missing (documented process deviation).
+
+
+## GFT-08.5 — 27.11.2026
+[GFT-08.5](08_personality_development/GFT-08.5_development_integration_transfer_and_sufficiency_audit.md). Reconciliation of 08.1–04: Breit N discrepancy, community vs labeled/referred selection, occupational ascertainment, corrected practice estimates, retrieval/ACTIVE strategy evidence. New Toffalini et al. 2025 DOI10.1016/j.paid.2025.113274 Italian WAIS-IV N2173, FSIQ>=125 N111, cross-sectional profiles largely compatible with dimensional simulations, older Gv deviation, invariance analyses unreliable; not measured adult 150–160+ longitudinal evidence. Q-08-tail OPEN: measured adult IQ150–160+ longitudinal level/rank/profile, cross-domain development, identity/fit and strategy trajectories not established. Q-08-asynchrony UNIVERSAL_MECHANISM_NOT_ESTABLISHED; Q-08-source-01/02/04 OPEN_FOR_CLARIFICATION; Q-08-source-03 corrected main model. 08.4 initial card provenance limitation retained.
+
+
+## GFT-09.1 — 27.11.2026
+[GFT-09.1](09_motivation/GFT-09.1_curiosity_need_for_cognition_interest_and_intellectual_engagement.md). E1 2025 NFC/TIE meta-analysis Gf .18, Gc .26, g .23, WM .15; E2 achievement r=.20; E3 I/D curiosity; E4 state curiosity and memory; E5 gifted-class attendance vs ability, N discrepancy; E6 selected math adolescents null NFC association; E7 delay decreases information demand; E8 prior investment evidence; E9 tail search. Q-09-tail OPEN: measured adult IQ150–160+ curiosity, NFC, interest and intellectual engagement not established. Q-09-source-01 OPEN_FOR_CLARIFICATION: Meier 2014 abstract N921 vs final sample N920. Initial pre-search card provenance incomplete.
+
+
+## GFT-09.2 — 27.11.2026
+[GFT-09.2](09_motivation/GFT-09.2_challenge_novelty_boredom_and_task_demands.md). E1 MAC, E2 Feuchter/Preckel 2022 longitudinal N1861 (math-specific boredom intensity effect, all types increased), E3 novelty/complexity and coping appraisal, E4 feedback model, E5 Tam 2025 experimental meaning/attention distinction and null attention manipulation for boredom, E6 effort measures noninterchangeable, E7 flow and retrospective boredom, E8 novelty exploration, E9 gifted samples and trait alternatives. Q-09-tail OPEN also for measured adult IQ150–160+ challenge preference, novelty, boredom and task demands. Q-09-source-01 remains open. Pre-search card committed before public search in GFT-09.2.
+
+
+## GFT-09.3 — 27.11.2026
+[GFT-09.3](09_motivation/GFT-09.3_autonomy_goals_and_motivational_regulation.md). E1 SDT volition vs independence; E2 Bureau and Howard; E3 Sezer goal motives; E4 implementation intentions; E5 goal adjustment; E6–8 heterogeneous school motivational profiles; E9 adult gifted sample N106 plus controls, Beck autonomy distinct from SDT; E10 direct-tail search. Q-09-tail OPEN also for measured adult IQ150–160+ autonomy/goal motives, implementation and adjustment. Q-09-source-01/02 OPEN_FOR_CLARIFICATION; Hornstra 2023 abstract vs educational relevance statement disagree on direction of change in external regulation and amotivation. Pre-search card committed before search.
+
+
+## GFT-09.4 — 27.11.2026
+[GFT-09.4](09_motivation/GFT-09.4_perfectionism_standards_achievement_motives_and_costs.md). E1 Stricker/Ogurlu gifted student meta-analyses; E2 community adolescents; E3 achievement associations; E4 excellencism distinction and athletic counterexample; E5 procrastination/burnout; E6 umbrella review and adult symptoms; E7 achievement goals and measurement; E8 competing panel models; E9 adult identified-gifted thesis candidate. Q-09-tail OPEN also for measured adult IQ150–160+ perfectionism, standards, achievement motives and costs. Q-09-causal-01 UNRESOLVED: Smith 2021 cross-lagged results challenged by Sorjonen/Melin 2025 reanalysis; causal direction not established. Q-09-source-01/02 remain open.
+
+
+## GFT-09.5 — 27.11.2026
+[GFT-09.5](09_motivation/GFT-09.5_motivation_integration_transfer_and_sufficiency_audit.md). E1 NFC/TIE sensitivity and Meier discrepancy; E2 boredom models; E3 Hornstra 2023 extracted Table 5/results direction; E4 perfectionism syntheses and causal uncertainty; E5 Macke adult Mensa work engagement; E6 adult tail search. Q-09-tail OPEN for all GFT-09 constructs in measured adult IQ150–160+. Q-09-source-01 OPEN_FOR_CLARIFICATION; Q-09-source-02 RESOLVED_FOR_REPORTED_DIRECTION (Hornstra 2023 Table 5 and results), educational statement OPEN_FOR_PUBLISHER_CORRECTION; Q-09-causal-01 UNRESOLVED.
+
+
+## GFT-10.1 — 27.11.2026
+[GFT-10.1](10_emotional_psychology/GFT-10.1_emotional_sensitivity_intensity_and_overexcitability.md). E1 ERS/PERS measurement, E2 2016 OE meta-analysis, E3 construct overlap and psychometrics, E4 adult OE comparison, E5 adult SPS positive vs negative aspects, E6 Mensa AIM/dot-probe, E7 2026 sensory systematic review (5 included), E8 2026 OE meta-analysis (230 effects/20 studies; definition and age moderators, publication bias), E9 direct-tail search. Q-10-tail OPEN: measured adult IQ150–160+ emotional sensitivity, intensity and sensory reactivity not established. Q-10-OE UNIVERSAL_OR_DIAGNOSTIC_PHENOTYPE_NOT_ESTABLISHED; updated Olszewski-Kubilius et al. 2026 meta-analysis constrains 2016 synthesis, ascertainment and publication bias matter.
+
+
+## GFT-10.2 — 27.11.2026
+[GFT-10.2](10_emotional_psychology/GFT-10.2_emotion_differentiation_knowledge_and_emotional_intelligence.md). E1 ED measurement, E2 word knowledge vs fluency, E3 executive tasks and ambulatory ED null findings, E4 behavioral dysregulation and mixed experimental results, E5 EI measures/scoring debate, E6 recognition and academic outcomes, E7 updated gifted EI meta-analysis, E8 adult Mensa knowledge vs processing, E9 2026 methodological meta-synthesis. Q-10-tail OPEN also for measured adult IQ150–160+ emotion differentiation, emotion knowledge and EI. Q-10-EI UNIVERSAL_ADVANTAGE_NOT_ESTABLISHED; Q-10-measure OPEN (instrument/version/scoring and precision); Q-10-OE retained. Ferrándiz 2026 dimension-specific synthesis constrains older aggregate estimates.
+
+
+## GFT-10.3 — 27.11.2026
+[GFT-10.3](10_emotional_psychology/GFT-10.3_emotion_regulation_flexibility_and_cognitive_ability.md). E1 cognitive control meta-analysis r=.10 for reappraisal; E2 choice vs effectiveness and controllability; E3 EMA flexibility components; E4 Wenzel et al. 2026 context/intensity and outcomes; E5 limited support for context-choice links; E6 flexibility vs variability; E7 culture/clinical implementation; E8 gifted ascertainment and school confounding. Q-10-tail OPEN also for measured adult IQ150–160+ strategy choice, efficacy and regulatory flexibility. Q-10-flex UNIVERSAL_STRATEGY_SITUATION_RULE_NOT_ESTABLISHED; Q-10-OE/EI/measure retained.
+
+
+## GFT-10.4 — 27.11.2026
+[GFT-10.4](10_emotional_psychology/GFT-10.4_emotional_psychology_integration_transfer_and_sufficiency_audit.md). E1 updated OE/sensory reviews; E2 gifted EI dimensions; E3 Mensa measure-specific denominator; E4 cognitive-control and strategy scope; E5 Sicorello 2026 neural nonconvergence and Bo 2024 alternative component analysis; E6 Growney et al. 2026 fluid/crystallized cognition; E7 tail search. Q-10-tail OPEN for separately measured adult IQ150–160+ emotional processes; Q-10-OE/EI/flex limitations retained; Q-10-measure/neural/source-01 OPEN (instrument-specific precision, neural prediction across measures, Mensa comparator denominator clarification).
+
+
+## GFT-11.1 — 27.11.2026
+[GFT-11.1](11_social_psychology/GFT-11.1_social_cognition_perspective_taking_and_inference_accuracy.md). E1 intelligence and decoding/RMET; E2 language and formative g; E3 self-report vs performance; E4 perspective taking/getting and feedback; E5 adult ToM psychometrics; E6 target and channel; E7 gifted youth evidence and adult tail; E8 recent latent model candidate. Q-11-tail OPEN for measured adult IQ150–160+ social inference/ToM/interactive empathic accuracy; Q-11-measure OPEN (ceiling, reliability, validity, calibration); Q-11-source-01 OPEN (gifted youth task-specific effects and ascertainment).
+
+
+## GFT-11.2 — 27.11.2026
+[GFT-11.2](11_social_psychology/GFT-11.2_empathy_compassion_affect_sharing_and_prosocial_behavior.md). E1 empathy/prosocial meta-analysis; E2 trait/state EMA; E3 empathy cost and rationality; E4 conditional observational associations and t/p discrepancy; E5 Swedish register data; E6 repeated games and disclosure; E7 charitable giving meta-analyses; E8 complementary reasoning and empathy, helping; E9 gifted review and tail search. Q-11-tail OPEN also for measured adult IQ150–160+ affect sharing, concern, compassion and prosocial action; Q-11-empathy UNIVERSAL_HYPEREMPATHY_OR_MORAL_PROFILE_NOT_ESTABLISHED; Q-11-source-02 OPEN (2023 mindfulness study t/p inconsistency); Q-11-measure/source-01 retained.
+
+
+## GFT-11.3 — 27.11.2026
+[GFT-11.3](11_social_psychology/GFT-11.3_communication_mutual_understanding_and_cognitive_differences.md). E1 common ground measures; E2 feedback; E3 nonverbal IQ/education/faux-pas, N discrepancy; E4 direct mismatch null; E5 perceived vs measured intelligence; E6 task-specific dyadic intelligence; E7 gifted self-report; E8 historical threshold and tail search. Q-11-tail OPEN also for measured adult IQ150–160+ communication and mutual understanding; Q-11-gap UNIVERSAL_IQ_DIFFERENCE_THRESHOLD_NOT_ESTABLISHED; Q-11-source-03 OPEN_FOR_CLARIFICATION (De la Garza et al. 2026 abstract N40 vs method N44; LMG attribution not unique variance). Previous Q-11 limitations retained.
+
+
+## GFT-11.4 — 27.11.2026
+[GFT-11.4](11_social_psychology/GFT-11.4_social_compatibility_closeness_and_adaptation.md). E1 measured/perceived partner IQ compatibility null; E2 Mensa relationship quality and attachment/conflict; E3 Marburg and Swedish cohort; E4 stage-specific similarity and assortment; E5 hypothetical IQ desirability; E6 adult gifted support and source discrepancies; E7 intimacy/relationship-specific predictors; E8 isolation/loneliness and tail search. Q-11-tail OPEN also for separately measured adult IQ150–160+ social compatibility, closeness, loneliness and adaptation; Q-11-fit UNIVERSAL_SOCIAL_MALADJUSTMENT_OR_IQ_COMPATIBILITY_RULE_NOT_ESTABLISHED; Q-11-source-04 OPEN_FOR_CLARIFICATION (Poirier et al. 2025 reported chi-square/p and correlation/p inconsistencies, Table 5 coefficient/OR discrepancies). Prior Q-11 limitations retained.
+
+
+## GFT-11.5 — 27.11.2026
+[GFT-11.5](11_social_psychology/GFT-11.5_social_psychology_integration_transfer_and_sufficiency_audit.md): coverage and contradictions audit, conditional person–partner–context–time transfer, prior evidence not independent. Q-02–11-tail OPEN; Q-11-measure and Q-11-source-01–04 OPEN; Q-11-empathy, Q-11-gap and Q-11-fit universal profile/threshold rules NOT_ESTABLISHED. No newly established extreme-tail phenotype.
+
+
+## GFT-12.1 — 27.11.2026
+[GFT-12.1](12_giftedness_and_adhd/GFT-12.1_definitions_differential_assessment_and_comparative_evidence.md): E1 diagnostic framework; E2 adult IQ-matched comparative studies likely overlapping; E3 normative comparison; E4 protective absolute associations; E5 youth four-group contrasts; E6 youth cohorts; E7 reviews/ascertainment; E8 inaccessible 2026 study. Q-12-tail OPEN (separately measured adult IQ150–160+ ADHD phenotype, prevalence and differential validity not established); Q-12-prevalence OPEN (sampling, case definitions, denominators, no universal rate); Q-12-measure OPEN (within-person discrepancies not diagnostic; absolute/relative criteria and ecological validity); Q-12-source-01 OPEN (2026 pediatric nonlinear study full results unavailable; no adopted effect). Prior Q-02–11-tail and Q-11-source-04 retained.
+
+
+## GFT-12.2 — 27.11.2026
+[GFT-12.2](12_giftedness_and_adhd/GFT-12.2_attention_performance_variability_and_hyperfocus.md): E1 RTV meta-analysis and clinical nonspecificity, E2 time-on-task contrasts, E3 reward/context, E4 proposed HF definition, E5 positive questionnaire association, E6 clinical null and transdiagnostic comparison, E7 recent candidates, E8 high-IQ limits. Q-12-tail OPEN also for separately measured adult IQ150–160+ attentional variability, hyperfocus and disengagement; Q-12-HF OPEN (construct overlap, measurement, objective and incremental validity; no diagnostic specificity established); Q-12-RTV NONSPECIFIC_GROUP_LEVEL_ASSOCIATION; Q-12-source-01 OPEN after repeat publisher access failure; Q-12-prevalence/measure and prior tail limitations retained.
+
+
+## GFT-12.3 — 27.11.2026
+[GFT-12.3](12_giftedness_and_adhd/GFT-12.3_motivation_reward_impulsivity_and_executive_control.md): E1 monetary delay discounting, E2 phase-specific reward BOLD and counterevidence, E3 effort experiments, E4 heterogeneous effort/choice and review, E5 EF syntheses and controlled contrasts, E6 adult SST meta-analysis, E7 daily ratings vs tasks, E8 direct IQ comparative limits. Q-12-tail OPEN also for separately measured adult IQ150–160+ reward valuation, effort allocation, impulsivity and executive control; Q-12-motivation HETEROGENEOUS_TASK_DEPENDENT_ASSOCIATIONS (single motivational deficit and universal dopamine explanation not established); Q-12-EF GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-12-source-01 OPEN (repeat Nature redirect/PMC cache miss); Q-12-HF/RTV/prevalence/measure and earlier tail limitations retained.
+
+
+## GFT-12.4 — 27.11.2026
+[GFT-12.4](12_giftedness_and_adhd/GFT-12.4_integration_transfer_and_sufficiency_audit.md): integrated coverage and source audit; corrected Cadenas 2020 cohort1 IQ main-effect significance, preserve main interaction null not equivalence. Q-02–12-tail OPEN; Q-12-prevalence/measure/HF OPEN; Q-12-RTV and EF group associations not diagnostic; Q-12-motivation heterogeneous, no universal dopamine explanation; Q-12-source-01 OPEN (Nature redirect/PMC cache miss); Q-12-source-02 OPEN for full methods/results, author abstracts now directly confirmed; NEW Q-12-source-03 OPEN (Cadenas 2020 IQ main-effect F/p discrepancies, affected significance excluded).
+
+
+## GFT-13.1 — 27.11.2026
+[GFT-13.1](13_other_2e_profiles/GFT-13.1_autism_high_ability_differential_and_comparative_evidence.md): E13.1a guidance, b direct youth comparison, c IQ-stratified youth, d adaptive function including Clarke 2026 longitudinal counterexample, e EF/profile, f screening/qualitative/review, g camouflaging. GFT-13.1 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail/adult-direct/measure OPEN; Q-13-source-01 partial (Doobay methods/results, adult qualitative indexed methods, Clarke institutional abstract; full access limits remain); Q-13-source-02 OPEN (Gelbar abstract ambiguity); Q-13-source-03 OPEN (camouflaging age moderation wording, no direction adopted); Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC. Next local GFT-13.2 — specific learning disorders and high ability. T0 unchanged/T1 pending.
+
+## GFT-19.1 — 27.11.2026
+Source cards and limits: [GFT-19.1](19_analytical_methodology/GFT-19.1_group_to_individual_competing_models.md). E19.1-01 Fisher et al. 2018 (10.1073/pnas.1711978115): six repeated-measure samples, variable cross-level agreement; indexed sections, not universal. E19.1-02 Adolf & Fried 2019 (10.1073/pnas.1818675116) and author reply: conditional equivalence, theoretical not empirical replication. E19.1-03 Balliu et al. 2024 (10.1038/s41746-024-01035-6): N183/143, selected publisher methods/results; personal intercept and model comparison, time holdout; no mechanism, clinical utility or extreme IQ. E19.1-04 (10.1016/j.nsa.2026.107006): indexed abstract/sections; simple personal mean competitive; exact N/uncertainty unverified. General methodological scope only; PRACTICAL_HEURISTIC for model choice and update; no direct 150–160+ claim.
+
+
+## GFT-14.1 — 27.11.2026
+[GFT-14.1](14_compensation_and_adaptation/GFT-14.1_constructs_measurement_and_comparative_designs.md) E1 ICF context, E2–5 compensation framework, discrepancy and qualitative evidence, E6–7 measurement disagreement and nonspecificity, E8 2e score masking. Q-14-tail OPEN (separately measured adult IQ150–160+ compensation, masking and adaptive functioning not established); Q-14-measure OPEN (strategy report, discrepancy, observed efficacy and functioning not interchangeable; cross-group invariance and criterion validity); Q-14-causal OPEN (IQ/strategy causal effect and latent difficulty not established by cross-sectional differences); Q-14-source-01 OPEN (full 2e meta-analysis, original ADHD/autism contrast and several primary papers unavailable); Q-13 dependencies retained; GFT-13.1 bounded completion only.
+
+
+## GFT-13.2 — 27.11.2026
+[GFT-13.2](13_other_2e_profiles/GFT-13.2_specific_learning_disorders_and_high_ability.md): E13.2a diagnosis; b discrepancy/response; c conflicting compensation and overlap; d discrepant readers; e adult literacy/high PIQ; f writing; g mathematics. GFT-13.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded scientific-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-tail OPEN also for SLD; Q-13-SLD-discrepancy NOT_SUFFICIENT_FOR_DIAGNOSIS; Q-13-SLD-compensation HETEROGENEOUS_NOT_CAUSALLY_ESTABLISHED; Q-13-SLD-adult OPEN (measured high general IQ and writing/math comparisons); Q-13-source-04 OPEN (Lijbers 2025 model-change reporting); earlier Q-13 questions retained. Next local GFT-13.3 — heterogeneous profiles and differential assessment. T0 unchanged/T1 pending.
+
+## GFT-16.1 — 27.11.2026 (IN_PROGRESS)
+[E16.1a–f](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md): Toffalini FSIQ≥125 n111, no FSIQ160; Lenhard local analysis ±3 SD; Urban v2 index; Redvaldsen experimental dependent self-report norms; Pearson FAQ; norming review index. No verified adult ≥150/160 precision. Toffalini reused, not independent replication.
+
+## GFT-19.2 — 27.11.2026
+[Source cards and operational rules](19_analytical_methodology/GFT-19.2_competing_causal_models_and_revision.md). E19.2-01 Bulbulia 2024 causal DAG methods; E19.2-02 Hamaker et al. 2015 (10.1037/a0038889) derivation/simulation CLPM limitations; E19.2-03 Hamaker 2026 (10.1037/met0000600, online 2023) estimand/time/design dispute; E19.2-04 Borsboom et al. 2021 (10.1177/1745691620969647) theory construction; E19.2-05 causal structure learning review PMC9342837; E19.2-06 Eronen 2020 psychological intervention limitations. Mathematical synthetic equivalence demonstration. No new direct high-IQ empirical claim. Rules PRACTICAL_HEURISTIC; fixed-intercept identifiability clarification to GFT-19.1 in block.
+
+
+## GFT-14.2 — 27.11.2026
+[GFT-14.2](14_compensation_and_adaptation/GFT-14.2_strategies_external_supports_efficacy_and_transfer.md) E1–3 offloading, capacity and learning trade-offs; E4–7 adult ADHD active comparator and transfer; E8–9 participation/assistive supports and pediatric 2e gaps; E10 IQ moderation design. Q-14-tail OPEN also for measured adult IQ150–160+ strategy efficacy, moderation and transfer; Q-14-causal OPEN (specific strategy mechanisms, no causal IQ effect); Q-14-measure OPEN; Q-14-source-01 retained; Q-14-source-02 OPEN (2025 Lee full subgroup estimates, 2026 functioning meta-analysis full table/comparators, 2e youth review full methods, adult offloading moderation detailed results unavailable); Q-14-transfer TASK_AND_GOAL_DEPENDENT, no universal generalization. GFT-13 remains dependency for final integration.
+
+## GFT-19.3 — 27.11.2026
+[Source cards, protocol, synthetic tests](19_analytical_methodology/GFT-19.3_integrated_individual_analysis_and_revision.md). E19.3-01 Kuyken et al. 2005 (10.1016/j.brat.2004.08.007) author abstract, N115 common vignette; agreement lower for theoretical inference. E19.3-02 Flinn et al. 2015 (10.1111/bjc.12073) abstract systematic review 18 studies, varying reliability, overlap possible. E19.3-03 10.1002/cpp.2298 person-specific testing guidance (indexed abstract); E19.3-04 PACT 10.1111/jep.13540 (indexed sections, limited comparisons); E19.3-05 Eells 2025 PMC12434358 commentary indexed; E19.3-06 Nielsen & Droste 2026 10.1007/s10879-026-09724-x selected publisher sections, descriptive taxonomy not empirical validation. Indirect clinical context, no direct high-IQ or workflow effectiveness claim. PRACTICAL_HEURISTIC extension, not replacement of INT-02/03/04.
+
+
+## GFT-13.3 — 27.11.2026
+[GFT-13.3](13_other_2e_profiles/GFT-13.3_heterogeneous_profiles_and_differential_reasoning.md): E13.3a normative/clinical scatter; b 2e meta and adult SLD heterogeneity; c DLD; d DCD; e co-occurrence and genetic overlap; f direct adult/tail gaps. Atmaca/Wilson across GFT not independent. GFT-13.3 COMPLETE_FOR_SPECIFIED_SCOPE (bounded differential-methodological/clinical-literacy scope); GFT-13 IN_PROGRESS. Q-13-profile GROUP_ASSOCIATION_NOT_DIAGNOSTIC; Q-13-profile-calibration OPEN (edition/ability-conditioned norms and independently validated incremental accuracy); Q-13-DLD-DCD-adult OPEN (direct measured high-general-IQ adult comparisons); Q-13-tail OPEN; Q-13-source-05 OPEN (gifted DCD full methods/results and adult instrument recommendations); earlier GFT-13 questions retained. Next GFT-13.4 integration and sufficiency audit. T0 unchanged/T1 pending.
+
+
+## GFT-13.4 — 27.11.2026
+[GFT-13.4](13_other_2e_profiles/GFT-13.4_integration_transfer_and_sufficiency_audit.md): coverage and dependency audit, Doobay/Clarke/Van Viersen/Wilson/Atmaca/NICE source rechecks, Lijbers arithmetic check, integrated differential procedure. Reused evidence not new replication. GFT-13.1–13.4 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-13 COMPLETE_FOR_SPECIFIED_SCOPE (bounded general scientific-methodological/clinical-literacy scope). Assignment Кира-2 COMPLETE; handoff to GFT-14/18/19/20, no new assignment. Q-13-tail, adult-direct, measure, SLD-adult, profile-calibration, DLD-DCD-adult OPEN; Q-13-source-01 partial, 02–05 OPEN. Profile/group associations not diagnostic, discrepancy not sufficient, causal compensation heterogeneous/unestablished. T0 unchanged/T1 pending.
+
+
+## GFT-16.1 continuation
+E16.1g–k: Sixdenier WAIS-IV range 130–152 N53 (A0, not A1); Lang max-index selection N130+130, possible overlap Toffalini; SB5 bulletin experimental EXIQ, no normative >148, Sansone low-tail only; SMPY/Duke developmental replication not adult IQ; GRoNC method, Urban common author. Full evidence/map and internal transfer check: [GFT-16.1](16_exceptional_intelligence/GFT-16.1_extreme_range_measurement_norms_and_sampling.md).
+
+
+## GFT-14.3 — 27.11.2026
+[GFT-14.3](14_compensation_and_adaptation/GFT-14.3_resource_cost_sustainability_and_camouflaging_outcomes.md) E1–2 fatigue/depletion, E3–6 longitudinal/EMA and correlations, E7–8 burnout definitions/measurement, E9 ADHD burden and tail gap. Q-14-tail OPEN also for measured adult IQ150–160+ costs, recovery, sustainable functioning and camouflaging outcomes; Q-14-measure/causal/transfer retained; Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, no unitary resource; Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED; Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN; Q-14-source-04 OPEN (van der Putten HTML table/narrative discrepancies, PDF screenshots cache miss, affected estimates restricted); Q-14-source-05 OPEN (EMA lag methods, 2026 ADHD qualitative and newer burnout validation full results). Prior source-01/02 OPEN, source-03 acute estimate resolved, abstract correction open. GFT-13 closure recorded by Kira-2; verify its canonical synthesis before 14.4 closure.
+
+## GFT-15.1 — 27.11.2026
+[Source cards and practical rules](15_psychological_wellbeing/GFT-15.1_wellbeing_measurement_and_adult_comparative_evidence.md). E15.1-01 OECD 2025 10.1787/9203632a-en framework; E02 Williams et al. 10.1192/j.eurpsy.2022.2343 UKB high g N16137 vs avg N236273, anxiety OR .69 CI .64–.74, PTSD .67 CI .61–.74, selected cohort and ascertainment/model limits; E02c official corrigendum 10.1192/j.eurpsy.2025.10077, Table 1 and discussion correction. E03 Karpinski 10.1016/j.intell.2017.09.001 selected Mensa N3715, mismatched national comparators; E04 Wirthwein/Rost 2011 N101/91 adult outcomes childhood-defined sample; E05 Pollet/Schnell 10.1007/s10902-016-9783-4 N475 selected groups, lower WHO-5/meaning; E06 Gale 10.1016/j.intell.2008.09.002 childhood cognition/general distress, E07 Czerwiński 10.5114/hpr/187337 nonlinear BCS70 overlaps E06, no threshold verified; E08 Poirier 10.1177/00169862251347293 N219 cross-sectional, existing Q-11-source-04 restriction. Distinct outcomes/selection; no causal effect, exact adult extreme-tail estimate or diagnosis. Rules PRACTICAL_HEURISTIC.
+
+
+GFT-16.2 E16.2a–h: Toffalini/Lang/Sixdenier reused (no independent replication); Makel Duke excludes 12 SMPY participants (disjoint from Kell sample); Lubinski 2023 overlapping SMPY waves; Gross historical SB:L-M N60 nonrandom no control; Feldman 26+26 abstract historical; Brown four cohorts N48558 youth ability, abstract; Schlegler review 40 publications not independent. [Evidence, limits and internal checks](16_exceptional_intelligence/GFT-16.2_profile_variability_and_life_trajectories.md). Makel Table 3d corrects Kell Table 1 STEM label; avoid pooling inconsistent labels. No adult A1 inference.
+
+
+## GFT-17.1 — 27.11.2026
+[GFT-17.1](17_nonlinear_differences/GFT-17.1_model_forms_identification_and_tail_validation.md): E17.1a continuous form, b breakpoint/U-shape/interaction, c range/measurement, d nested validation, e empirical design contrasts; formal counterexamples and operational model comparison. GFT-17.1 COMPLETE_FOR_SPECIFIED_SCOPE (independent methodological scope); GFT-17 IN_PROGRESS. Q-17-tail OPEN (separately measured adult upper-tail form/precision); Q-17-invariance OPEN (local measurement equivalence); Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-source-01 OPEN (full methods/upper-tail support of empirical examples). Q-02/16-tail, measure and selection limitations retained. Next GFT-17.2 — comparative empirical tests and counterevidence, independent portions only; final integration gated by actual GFT-16 completion. T0 unchanged/T1 pending.
+
+## GFT-15.2 — 27.11.2026
+[Source cards and rules](15_psychological_wellbeing/GFT-15.2_stress_resilience_context_and_protective_factors.md). E15.2-01 Kalisch 2021 (10.3389/fpsyg.2021.710493) FRESHMO model-dependent residual; E02 Stawski 2010 (10.1037/a0018246) N1202 eight-day diary, exposure vs affect; E03 De Gucht 2024 (10.1007/s12144-024-05771-6) N738 mixed eligibility, baseline SPS/RES vs later symptoms, not causal mediation or moderation; E04 10.1017/S0033291718002118 N27985 general cognition (+1 SD not gifted threshold) moderator; E05 Cosco 10.1017/S1041610218001795 resource main/indirect associations without established interaction; E06 PMID37847551 N558/200 prospective associations but no significant weekly lag effects; E07 Ahrens 10.1037/amp0001315 N707 trajectory methods; E08 PMID28365468 two cohorts, outcome-specific interactions, not significant for clinical MDD, UKB overlap possible. No direct measured adult IQ150–160+ effects; methods PRACTICAL_HEURISTIC.
+
+
+GFT-16.3 audit: rechecked selected source fragments for Sixdenier, SB5 bulletin, Makel, Toffalini/Lang abstract, Pearson FAQ index. Not new independent evidence or A1. Sixdenier A0 provisional and second arithmetic mismatch excluded; Duke independence limited to Kell 2013 participants. [Audit and provisional handoff](16_exceptional_intelligence/GFT-16.3_integration_and_sufficiency_audit.md). GFT-15-dependent integration blocked.
+
+
+## GFT-14.4 — 27.11.2026
+[GFT-14.4](14_compensation_and_adaptation/GFT-14.4_integration_transfer_and_sufficiency_audit.md) source rechecks, cross-domain dependencies and integrated gate. Q-14-tail OPEN (direct separately measured adult IQ150–160+ compensation, masking, efficacy, moderation, cost, recovery and sustainability); Q-14-measure OPEN (construct/criterion/invariance), Q-14-causal OPEN (specific strategy/IQ mechanism), Q-14-transfer TASK_AND_GOAL_DEPENDENT, Q-14-cost CONTEXT_AND_OUTCOME_DEPENDENT, Q-14-longitudinal CAUSAL_DIRECTION_UNRESOLVED, Q-14-burnout RESEARCH_CONSTRUCT_DIFFERENTIAL_VALIDITY_OPEN. Q-14-source-01/02/04/05 remain OPEN; source-03 RESOLVED_FOR_REPORTED_ACUTE_ESTIMATE, abstract correction OPEN_FOR_PUBLISHER_CORRECTION. All inherited Q-02/06/12/13 restrictions retained.
+
+
+## GFT-17.2 — 27.11.2026
+[GFT-17.2](17_nonlinear_differences/GFT-17.2_empirical_nonlinearity_thresholds_and_counterevidence.md): E17.2a–d creativity thresholds and counterevidence; e–h differentiation, methodological artifacts and dimensional alternative; i–k life outcomes and conditional curvature. Overlaps explicitly marked. GFT-17.2 COMPLETE_FOR_SPECIFIED_SCOPE (bounded independent comparative evidence and methodological interpretation); GFT-17 IN_PROGRESS. Q-17-tail/invariance OPEN; Q-17-threshold NOT_ESTABLISHED_AS_UNIVERSAL; Q-17-SLODR supported in many tested samples, mechanism and adult extreme-tail extrapolation OPEN; Q-17-source-01 partially resolved (Jauk/Weiss selected methods/results); Q-17-source-02 OPEN (newer differentiation studies' full methods/overlap, adult-tail support, cohort-specific outcome curvature); earlier Q-02/07/16 limitations retained. GFT-17.3 next: integration/sufficiency audit; final closure requires actual GFT-16 completion. T0 unchanged/T1 pending.
+
+## GFT-15.3 — 27.11.2026
+[Source checks, integration and handoff](15_psychological_wellbeing/GFT-15.3_clinical_boundaries_integration_and_sufficiency_audit.md). E01 WHO mental disorders definition/clinical significance; E02 WHO ICD-11 occupational burnout FAQ; E03 NICE NG222/QS8 indexed assessment guidance; E04 Duplenne 10.1177/00169862231208922 author abstract, both symptom meta-analyses nonsignificant g=-.14, heterogeneous, mixed ages; E05 Bernstein ERIC EJ1297876 childhood top .01% N220 among three cohorts, adult outcomes and acceleration not associated study-level, indirect not measured adult tail; E06 Vötter/Schnell 10.1007/s12671-018-1078-x N100 both waves, selected Mensa, meaning prediction and self-compassion lag null, CLPM noncausal, possible overlap; E07 Williams original/corrigendum rechecked; E08 De Gucht abstract rechecked. GFT-14.4 dependency and inherited restrictions applied; no new causal/diagnostic/tail claim. PRACTICAL_HEURISTIC.
+
+
+E16.3a Bernstein 2021 primary PDF (reused E15.3-05, SMPY), small pooled associations, no baseline wellbeing, developmental not A1, supplement missing; E16.3b GFT-15 inherited synthesis. [Final](16_exceptional_intelligence/GFT-16.3_integration_and_sufficiency_audit.md).
+
+## GFT-17.3 — 27.11.2026
+[GFT-17.3](17_nonlinear_differences/GFT-17.3_integration_transfer_and_sufficiency_audit.md): source rechecks, Brown selected full-text methods/results, E17.3a DOI10.1016/j.intell.2025.101963 CES-D7/MHI-5 outcome noninvariance, shared NLSY cohorts; final GFT-16 dependency and Bernstein interpretation reconciled. GFT-17.1–17.3 COMPLETE_FOR_SPECIFIED_SCOPE; GFT-17 COMPLETE_FOR_SPECIFIED_SCOPE (bounded comparative science and methodology). Кира-2 assignment COMPLETE. Q-17-tail/invariance/source-01–02 remain OPEN/partial; CES-D7/MHI-5 noninvariance evidence added, not all scales; universal threshold not established; SLODR conditional evidence, mechanism/tail open. Q-02/07/15/16 and other prior restrictions retained. Handoff GFT-18/19/20; no new assignment, T0 unchanged/T1 pending.
+
+## GFT-18.1 — 27.11.2026
+[Source cards and rules](18_integrative_psychology/GFT-18.1_functional_architecture_dynamic_models_and_identification.md). E18.1-01 Cui et al. (2026) 10.3758/s13428-026-03077-y graphical formal dynamic analysis; E02 Ryan/Hamaker 10.1007/s11336-021-09767-0 continuous-time interval-dependent paths and identification assumptions; E03 Haslbeck/Ryan 10.1080/00273171.2021.1896353 simulation, misspecification and sampling limits; E04 Loossens et al. 10.1038/s41598-021-85320-4 N200/118, 567 series in first sample, VAR(1) often better than OU on walk-forward data, sensitivity to large changes; E05 Epskamp 10.1007/s11336-020-09697-3 latent dynamic networks and within/between/measurement limits. Formal toy examples are analytic illustrations, not data. No established adult IQ150–160+ architecture; PRACTICAL_HEURISTIC.
+
+## GFT-18.2 — 27.11.2026
+[Source cards and bridge matrix](18_integrative_psychology/GFT-18.2_empirical_cross_process_interactions_and_boundaries.md). E18.2-01 Frömer 2021 10.1038/s41467-021-21315-z reward/contingency manipulation; E02 Chiew/Braver 10.1037/xhp0000129 cue timing vs speed/accuracy; E03 PMID42242478 meta-analysis context-specific memory/control outcomes; E04 Bates/Gignac 10.1016/j.intell.2022.101652 N4208, smaller average incentive effect; E05 Shields PMID27371161 stress and EF; E06 Grimm 10.1016/j.neubiorev.2021.09.037 subsequent stress, sign/CI discrepancy restrict numeric estimate; E07 PII S0092656620300180 N206 ESM trait/state/situation/affect; E08 10.3390/jintelligence11020020 reused GFT-10 data, analyzed dot-probe 124/155 vs initial controls157; Table4 p=.04 vs prose .004, no exact effect reused. Distinct estimands, no stitched causal loop or adult measured A1 phenotype; PRACTICAL_HEURISTIC.
+
+## GFT-18.3 — 27.11.2026
+[Integration, source rechecks and handoff](18_integrative_psychology/GFT-18.3_integration_and_sufficiency_audit.md). E18.1-04 Loossens original results/discussion rechecked: holdout vs AIC and baseline, no universal model superiority. E18.2-01 Frömer original N21/44/35, interaction in 2/3, no detected between-study 1/2 performance-effect difference; local contingency effect. E18.2-06 Grimm inconsistent signed estimate retained as restricted. E18.2-08 original versioned PDF extracted: N279 post-preprocessing, N276 models (123/153), p=.04 vs .004, further denominator difference unresolved, nonidentical STEU forms; screenshot failures. No exact disputed effect reused. New E18.3-01 DOI 10.1007/s43076-023-00313-8 seven qualitative young adult interviews, six childhood-selected plus one additional, indirect and hypothesis-generating not A1/dynamic causal data. Integrated protocol PRACTICAL_HEURISTIC; no universal architecture or adult-tail effect.
+
+## GFT-19.4 — 27.11.2026
+[Integration, correction and handoff](19_analytical_methodology/GFT-19.4_dependent_integration_and_sufficiency_audit.md). E19.4-01 Bell/Fairbrother/Jones 10.1007/s11135-018-0802-x original within-between and FE equations; algebraic correction in original 19.1, unrestricted person intercept absorbs person means, between association requires separate model restrictions. E19.1-04 Hammelrath indexed N242, 24 user holdout; time-holdout MERF MAE .596 vs personal mean .600, contrast uncertainty not checked. E19.4-02 10.2196/99204 selected N11, each linear/nonlinear improves in 8 but not same set, no population/clinical effect. E19.2-06 Eronen publisher-version repo DOI 10.1016/j.newideapsych.2020.100785 metadata and selected text; screenshot unavailable. No universal model or A1 architecture. Integrated rules PRACTICAL_HEURISTIC; earlier source limitations retained.
